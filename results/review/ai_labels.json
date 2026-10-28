@@ -1,0 +1,721 @@
+{
+ "reviewer": "AI reviewers A/B/C (Claude subagents, NOT human)",
+ "items": {
+  "CP4|dc_case": {
+   "answers": {
+    "decision": "NOT_COVERED"
+   },
+   "note": "Stable, nausea only, no treatment; no emergency or necessity shown."
+  },
+  "CP4|eagle_air_med": {
+   "answers": {
+    "decision": "PARTLY_COVERED"
+   },
+   "note": "Ground sufficed; payable at ground rate only."
+  },
+  "CP4|estate_gbr": {
+   "answers": {
+    "decision": "NOT_COVERED"
+   },
+   "note": "Sending hospital also trauma center; no missing service documented."
+  },
+  "CP4|gold_cross_ambulance": {
+   "answers": {
+    "decision": "COVERED"
+   },
+   "note": "Cardiologist: monitor-equipped ambulance needed after pacemaker surgery."
+  },
+  "CP4|m_12_809": {
+   "answers": {
+    "decision": "COVERED"
+   },
+   "note": "Chest pain, T-wave changes, cath/stent; stay spanned two midnights."
+  },
+  "CP4|midwest_lifeteam": {
+   "answers": {
+    "decision": "PARTLY_COVERED"
+   },
+   "note": "Transfer justified; payment limited to 133 nearer-hospital miles."
+  },
+  "CP4|rb_obo_jb": {
+   "answers": {
+    "decision": "NOT_COVERED"
+   },
+   "note": "No homebound certification; regular outings; day care licensure unshown."
+  },
+  "CP4|sacredheart_hospital": {
+   "answers": {
+    "decision": "COVERED"
+   },
+   "note": "Complex hernia repair plus pulmonary disease justified inpatient stay."
+  },
+  "CP2|12-1251": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": "Emergency presumption and nearest-hospital present; inpatient-date issue unaddressed."
+  },
+  "CP2|altabates": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "IRF intensity, multiple disciplines, participation criteria present."
+  },
+  "CP2|case_excellenthomecare": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": "Insulin skilled rules present; physician signature rules missing."
+  },
+  "CP2|case_landmark": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "Prothrombin venipuncture and observation rules present."
+  },
+  "CP2|dc_case": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": "BLS definition present; necessity and emergency criteria not shown."
+  },
+  "CP2|eagle_air_med": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "Air ambulance ground-inappropriate requirement present."
+  },
+  "CP2|estate_gbr": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "Transferring hospital adequacy and nearest-appropriate rules present."
+  },
+  "CP2|gold_cross_ambulance": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": "Destination and condition table present; non-emergency necessity detail missing."
+  },
+  "CP2|kaweah_rehabilitationhospital": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "IRF medical necessity and measurable improvement criteria present."
+  },
+  "CP2|m-11-1559": {
+   "answers": {
+    "adequate": "NO"
+   },
+   "note": "Passages on private rooms, IRF; nothing on observation versus inpatient."
+  },
+  "CP2|m-11-2450": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": "Physician-directed clinic exclusion note present; destination rules truncated."
+  },
+  "CP2|m_12_257": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "Homebound criteria and adult day care exception present."
+  },
+  "CP2|m_12_809": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": "Admission order text present; necessity or two-midnight rule absent."
+  },
+  "CP2|midwest_lifeteam": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "Hospital transfer, nearer-hospital payment limit rules present."
+  },
+  "CP2|nj_dept_humanservices5": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "Speech-language skilled therapy coverage principles present."
+  },
+  "CP2|prestige_homecare": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "Observation and assessment stability rules present."
+  },
+  "CP2|rb_obo_jb": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "Day care licensure, part-time limits, qualifying criteria present."
+  },
+  "CP2|rx_homecare": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "Observation, pill-planner, aide rules present."
+  },
+  "CP2|sacredheart_hospital": {
+   "answers": {
+    "adequate": "NO"
+   },
+   "note": "Passages irrelevant to inpatient admission necessity."
+  },
+  "CP2|state_of_vt": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "Wound care skilled criteria and documentation rules present."
+  },
+  "CP2|uphams_homehealthcare": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": "Skilled nursing principles present; POC signature rules missing."
+  },
+  "CP2|visitingnursing": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": "Gait training skilled PT rules present."
+  },
+  "CP3|uphams_homehealthcare|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|12-1251|doc|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|case_excellenthomecare|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|gold_cross_ambulance|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|sacredheart_hospital|doc|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|m-11-2450|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|rx_homecare|base|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|visitingnursing|base|0": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Fall-risk score is not gait training evidence"
+  },
+  "CP3|altabates|doc|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Only asserted claim shown; minute ranges not in fact"
+  },
+  "CP3|midwest_lifeteam|base|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Fact shows cardiologists wanted; lack of facilities not stated"
+  },
+  "CP3|rx_homecare|nec|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|12-1251|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|kaweah_rehabilitationhospital|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|nj_dept_humanservices5|nec|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|rx_homecare|elig|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|altabates|doc|0": {
+   "answers": {
+    "support": "NOT_SUPPORTED"
+   },
+   "note": "Fact shows PT only, no OT"
+  },
+  "CP3|state_of_vt|base|2": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Taught PCA, not patient family"
+  },
+  "CP3|state_of_vt|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|eagle_air_med|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|eagle_air_med|elig|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|altabates|doc|2": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Fact shows orders only; absence not shown"
+  },
+  "CP3|estate_gbr|nec|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|midwest_lifeteam|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|gold_cross_ambulance|nec|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Monitor need stated; policy symptoms not matched"
+  },
+  "CP3|midwest_lifeteam|nec|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|estate_gbr|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|eagle_air_med|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|altabates|base|1": {
+   "answers": {
+    "support": "NOT_SUPPORTED"
+   },
+   "note": "60-90 min is well below 3 hours"
+  },
+  "CP3|prestige_homecare|doc|0": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Longstanding pattern not in fact"
+  },
+  "CP3|gold_cross_ambulance|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|midwest_lifeteam|elig|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|state_of_vt|doc|0": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "No caregiver instruction in fact"
+  },
+  "CP3|sacredheart_hospital|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|m_12_809|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|m-11-1559|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|kaweah_rehabilitationhospital|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|m_12_809|base|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|m_12_809|nec|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|rx_homecare|doc|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|uphams_homehealthcare|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|m_12_257|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|state_of_vt|base|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Diagnosis is uncomplicated diabetes; weak link"
+  },
+  "CP3|rx_homecare|elig|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Condition-change absence and 35-hour exception unshown"
+  },
+  "CP3|case_excellenthomecare|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|dc_case|base|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|altabates|nec|1": {
+   "answers": {
+    "support": "NOT_SUPPORTED"
+   },
+   "note": "Fact shows PT only; OT and intensity unsupported"
+  },
+  "CP3|12-1251|base|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|estate_gbr|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|m_12_257|base|2": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Notes exist; unstable regimen not shown"
+  },
+  "CP3|eagle_air_med|base|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|12-1251|elig|0": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Presumption contraindication overreaches quote"
+  },
+  "CP3|nj_dept_humanservices5|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|case_landmark|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|sacredheart_hospital|elig|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|m-11-2450|doc|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|gold_cross_ambulance|base|2": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Fact shows history; quote only names emergency criterion"
+  },
+  "CP3|sacredheart_hospital|nec|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|m_12_809|base|0": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": "Admission shown; two-midnight expectation not shown"
+  },
+  "CP3|rx_homecare|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP3|m-11-1559|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": "Fact and quote back the claim"
+  },
+  "CP1|12-1251": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|altabates": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "110.4.4-.6 cited via range \"110.4.2 - 110.4.7\""
+  },
+  "CP1|case_excellenthomecare": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|case_landmark": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|dc_case": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|eagle_air_med": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "\"covered\" refers to initial contractor determination, not final outcome"
+  },
+  "CP1|estate_gbr": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|gold_cross_ambulance": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|kaweah_rehabilitationhospital": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "110.4.2-.6 cited via range \"110.4.1-110.4.7\""
+  },
+  "CP1|m-11-1559": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|m-11-2450": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "no MBPM sections claimed (none cited)"
+  },
+  "CP1|m_12_257": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|m_12_809": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "ch.6 s20.6(A) cited as \"chapter 6, section 20.6(A)\"; ch.1 s10, s150, ch.6 s10 present"
+  },
+  "CP1|midwest_lifeteam": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "\"covered\" refers to initial determination, not final outcome"
+  },
+  "CP1|nj_dept_humanservices5": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "1 excerpt differs only by page-number break in source; no MBPM sections claimed (none cited)"
+  },
+  "CP1|prestige_homecare": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|rb_obo_jb": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|rx_homecare": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|sacredheart_hospital": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|state_of_vt": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|uphams_homehealthcare": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "All excerpts exact substrings; cited sections found"
+  },
+  "CP1|visitingnursing": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": "1 excerpt differs only by page-number break in source"
+  }
+ }
+}

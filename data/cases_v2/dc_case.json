@@ -1,0 +1,33 @@
+{
+ "case_id": "dc_case",
+ "domain": "ambulance",
+ "docket": null,
+ "service_at_issue": "Basic life support ground ambulance (A0429-RH) and mileage (A0425-RH) to hospital for nausea",
+ "facts": [
+  "concerning Basic Life Support ambulance transportation (A0429-RH) and ground mileage (A0425-RH) provided to the beneficiary on January 2, 2008, by the City of ***, TX, Emergency Medical Services (EMS).",
+  "Testimony presented during the hearing indicated that transport was in fact due to nausea; that the beneficiary’s caregiver would not have been able to transport her in her private vehicle; that the beneficiary was recently released from the hospital prior to transport. The medical records indicate that the beneficiary’s nausea was likely related to a recently prescribed medication and that the beneficiary was treated and released.",
+  "In this affidavit, the appellant’s daughter attested that she “could not physically get [her] mother into [her Sport Utility Vehicle (SUV],” that “as [the beneficiary’s] daughter and caregiver, [she] did not feel it was safe to transport [the beneficiary] in [her] SUV,” and that she “was not going to allow [her] SUV to be used to transport [her] mother to the hospital.” Id.",
+  "the Patient Care Report (PCR) indicates that the beneficiary “stated she got up to use the restroom [that] morning and felt nauseated.” Exh. 3 at 8-12. Further, the PCR states that the EMT “assessed the patient and found no other symptoms.” Id. The beneficiary “denied vomiting and diarrhea” and expressed no other abnormalities. Id. The PCR reveals that the beneficiary exhibited normal vital signs and that she remained stable throughout transport. Id. Nothing in the record reflects that the beneficiary required or was provided pain medications, oxygen, or any treatment during the evaluation or ambulance trip."
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The beneficiary was stable with no treatment needed, so other transport was not contraindicated; denial rests on section 1861(s)(7) and the beneficiary is liable.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.2.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 405.1036(a)(1)",
+  "42 CFR 405.1036(a)(2)",
+  "42 CFR 405.1030(b)",
+  "42 CFR 405.1036(g)",
+  "42 CFR 405.1046(a)",
+  "42 CFR 410.40(d)",
+  "SSA 1861(s)(7)",
+  "SSA 1862(a)(1)",
+  "SSA 1879"
+ ]
+}

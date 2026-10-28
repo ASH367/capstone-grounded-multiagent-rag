@@ -1,0 +1,297 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-12-257
+
+
+In the case of                        Claim for
+
+                                      Hospital Insurance Benefits
+All Valley Home Health                (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+Palmetto GBA                          ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+September 26, 2011, which concerned home health services
+provided to the beneficiary from May 20, 2010, through
+July 18, 2010. The ALJ denied coverage after finding the record
+lacked evidence and did not substantiate “the beneficiary’s
+homebound condition.” The ALJ further determined that the
+appellant was liable for the non-covered services. The
+appellant has asked the Medicare Appeals Council (Council) to
+review this action. The Council enters the appellant’s request
+for review into the record as exhibit (Exh.) MAC-1.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+For the reasons set forth below, the Council reverses the ALJ’s
+decision. Medicare coverage is available for the services at
+issue.
+                                                                   2
+                             BACKGROUND
+
+Initially and upon redetermination, the Medicare contractor
+denied coverage for home health services provided to the
+beneficiary from May 20, 2010, through July 18, 2010. Exh. 1 at
+16-18. The contractor found the provider liable for the non-
+covered charges. Id. The appellant requested reconsideration
+by a Qualified Independent Contractor (QIC). Id. at 13-15. The
+QIC issued an unfavorable reconsideration and also found the
+provider liable for the costs of the non-covered charges. Exh.
+Id. at 5-6. The appellant timely requested a hearing before an
+ALJ. Id. at 1-4. Subsequent to the hearing, held on
+July 26, 2011, the ALJ issued a decision denying coverage. ALJ
+Decision (Dec.). Specifically, the ALJ found “there are no
+progress notes or additional medical records substantiating the
+beneficiary’s home bound condition”. Id. at 9. The appellant
+contests the ALJ decision to the Council.
+
+                             DISCUSSION
+
+Having reviewed the administrative record and considered the
+appellant’s contentions, the Council reverses the ALJ’s
+decision. The Council disagrees with the ALJ’s assessment of
+the evidence on the issue of the beneficiary’s homebound status.
+The Council also finds that the services provided during the
+dates of service were skilled in nature.
+
+  A.   Coverage Determination
+
+The beneficiary began receiving home health services on
+September 22, 2009. Exh. 2 at 6. The dates of service at issue
+are for the re-certification period of May 20, 2010, through
+July 18, 2010. Id. The beneficiary had a primary diagnosis of
+diabetes mellitus. Id. Secondary diagnoses included history of
+stroke, high blood cholesterol and hypertension. Id.
+
+       1. Homebound Status
+
+Contrary to the ALJ decision, the Council finds the record
+supports the conclusion that the beneficiary was homebound
+during the dates of service at issue. One condition for
+coverage of home health services is that the beneficiary must be
+“confined to the home or in an institution that is not a
+hospital, SNF or nursing home . . . .” 42 C.F.R. § 409.42(a).
+Section 1814(a) of the Social Security Act (Act) provides as
+follows:
+                                                                   3
+
+[A]n individual shall be considered to be “confined to his home”
+if the individual has a condition, due to an illness or injury,
+that restricts the ability of the individual to leave his or her
+home except with the assistance of another individual or the aid
+of a supportive device (such as crutches, a cane, a wheelchair,
+or a walker), or if the individual has a condition such that
+leaving his or her home is medically contraindicated. While an
+individual does not have to be bedridden to be considered
+“confined to his home,” the condition of the individual should
+be such that there exists a normal inability to leave home and
+that leaving home requires a considerable and taxing effort by
+the individual.
+
+See also Section 1835(a) of the Act; Medicare Benefit Policy
+Manual (MBPM), CMS Pub. 100-02, Ch. 7, § 30.1.1.
+
+In this case, the treating physician noted the beneficiary’s
+homebound status in the home health plan of care re-
+certification for the dates of service at issue. Exh. 2 at 6-7.
+The re-certification further noted that the beneficiary was
+unable to leave the home without taxing efforts. Id.
+Additionally, the re-certification documented the beneficiary
+had functional limitations which included poor vision, poor
+manual dexterity, unstable and weak gait, poor hearing, impaired
+tactile sensation, dyspnea with moderate exertion, left side
+paralysis and limited range of motion, and incontinence. Id.
+The re-certification also noted the beneficiary received
+assistance daily from an attendant. Id. Moreover, the record
+demonstrated that the beneficiary required the use of an
+assistive device, namely, a cane or walker, to leave the home.
+Id.
+
+In the case at hand, absences from the home, though infrequent,
+included adult day care and doctor visits. Id. at 7. Policy
+guidance published by CMS explains how homebound status is
+affected by absences from the home:
+
+     If the patient does in fact leave the home, the
+     patient may nevertheless be considered homebound if
+     the absences from the home are infrequent or for
+     periods of relatively short duration, or are
+                                                                                4
+      attributable to the need to receive health care
+      treatment. 1
+MBPM, Ch. 7, § 30.1.1.
+
+In accordance with the guidance quoted above, neither attendance
+at adult day care nor going to doctor’s appointments
+disqualifies a beneficiary from being considered homebound.
+
+Contrary to the ALJ’s assessment of the documentation contained
+in the record, the record indeed contains six separate skilled
+nursing assessment notes from the dates of service at issue
+which document the beneficiary’s functional abilities,
+respiratory issues and dependence on assistance devices. Exh. 2
+at 19, 22, 27, 29, 32, 34. On the assessments, the nurse
+indicated the beneficiary experienced moderate shortness of
+breath on exertion, had poor manual dexterity, and was
+ambulatory only with assistive devices. Id.
+
+All of the above considerations, taken together, sufficiently
+support a conclusion that the beneficiary was homebound during
+the period at issue.
+
+         2. Skilled Services
+
+In addition to being homebound, Medicare requires that covered
+home health services must include “skilled services” in the form
+of intermittent skilled nursing services, physical therapy
+services, speech-language pathology services, or occupational
+therapy services. 42 C.F.R. § 409.42(c). To qualify for
+Medicare coverage, the intermittent skilled nursing services
+provided must meet the criteria and need for skilled services
+found in 42 C.F.R. § 409.32. Observation and assessment
+constitutes skilled services when the skills of a technical or
+professional person are required to identify and evaluate the
+patient’s need for modification of treatment or for additional
+medical procedures until the patient’s condition is stabilized.
+42 C.F.R. § 409.33(a)(2). Patient education services constitute
+skilled services when the skills of a professional are required
+to teach self-maintenance. 42 C.F.R. § 409.33(a)(3).
+
+1
+  Absences attributable to the need to receive health care treatment include,
+but are not limited to:
+      • Attendance at adult day centers to receive medical care;
+      • Ongoing receipt of outpatient kidney dialysis; or
+      • The receipt of outpatient chemotherapy or radiation therapy.
+                                                                   5
+After considering the appellant’s contentions, the Council finds
+the services provided were skilled in nature and also reasonable
+and necessary. The MBPM, Ch. 7, § 40.1.2.1 provides:
+
+     Observation and assessment of the patient's condition
+     by a nurse are reasonable and necessary skilled
+     services where the likelihood of change in a patient’s
+     condition requires skilled nursing personnel to
+     identify and evaluate the patient's need for possible
+     modification of treatment or initiation of additional
+     medical procedures until the patient's treatment
+     regimen is essentially stabilized. Where a patient
+     was admitted to home health care for skilled
+     observation because there was a reasonable potential
+     of a complication or further acute episode, but did
+     not develop a further acute episode or complication,
+     the skilled observation services are still covered for
+     three weeks or so long as there remains a reasonable
+     potential for such a complication or further acute
+     episode.
+
+     Information from the patient's medical history may
+     support the likelihood of a future complication or
+     acute episode and, therefore, may justify the need for
+     continued skilled observation and assessment beyond
+     the 3-week period. Moreover, such indications as
+     abnormal/fluctuating vital signs, weight changes,
+     edema, symptoms of drug toxicity, abnormal/fluctuating
+     lab values, and respiratory changes on auscultation
+     may justify skilled observation and assessment. Where
+     these indications are such that it is likely that
+     skilled observation and assessment by a licensed nurse
+     will result in changes to the treatment of the
+     patient, then the services would be covered. There
+     are cases where patients who are stable continue to
+     require skilled observation and assessment...
+
+     However, observation and assessment by a nurse is not
+     reasonable and necessary to the treatment of the
+     illness or injury where these indications are part of
+     a longstanding pattern of the patient's condition and
+     there is no attempt to change the treatment to resolve
+     them.
+
+In the instant case, the beneficiary’s physician ordered home
+health services for skilled assessment and observation, as well
+                                                                             6
+as teaching and instruction. 2 Exh. 2 at 6-7. The record
+indicates that immediately prior to the dates of service the
+beneficiary’s condition necessitated medication changes:
+Trilipix (for cholesterol) and Actos (to stabilize blood sugar)
+due to unstable blood sugars, ranging from 88-303. Id. at 41-
+42. Therefore, the skilled services were ordered to monitor the
+beneficiary’s blood sugar and blood pressure for complications
+with medication changes. Reference Hearing CD at 11:19:29-
+11:45. Additionally, the doctor ordered teaching and
+instruction by the skilled nurse so the beneficiary could learn
+to manage the new medication regime, form an understanding of
+long term diabetic complications, and for the implementation of
+an 1800 calorie diet. Exh. 2 at 6-7; reference hearing CD at
+11:21:21-11:21:36.
+
+The Council notes that for a service to be considered reasonable
+and necessary, the service must be consistent with the nature
+and severity of the beneficiary’s condition, his or her medical
+needs, and accepted standards of medical and nursing practice.
+See 42 C.F.R. § 409.44(b)(3). The Council is persuaded by the
+appellant’s argument that the skilled monitoring was appropriate
+due to the beneficiary’s diabetes, history of stroke, unstable
+blood sugars, and hypertension. As noted by the appellant, the
+Trilipix dosage had the potential to affect the beneficiary’s
+blood sugar, which would have required adjustments to the dosage
+and necessitated monitoring of any potential affects to the
+beneficiary.
+
+Additionally, policy guidance published by CMS provides that
+“teaching the preparation and maintenance of a therapeutic diet
+require the skills of a license nurse. See MBPM, Ch. 7,
+§ 40.1.2.3. Therefore, the Council finds the orders for
+teachings were appropriate so that the beneficiary could
+eventually manage her diabetic diet and medication changes
+without nurse supervision, but more importantly be able to look
+out for irregularities and report any complications to the
+doctor. 3
+
+
+
+
+2
+  The record indicates that nine visits were conducted over the dates of
+service at issue. Exh. 1 at 21, reference hearing CD at 11:23:08-11:23:21.
+3
+  Although the beneficiary received assistance from an attendant with
+activities of daily life (ADLs) and instrumental activities of daily life
+(IADLs), the plan of care notes the beneficiary lived alone. Exh. 2 at 41.
+                                                                 7
+                           DECISION
+
+Based on the foregoing reasons and bases, the Council reverses
+the ALJ’s decision. The home health services provided from May
+20, 2010, through July 18, 2010, are covered by Medicare, and
+reimbursement shall be made in accordance with this decision.
+
+                                  MEDICARE APPEALS COUNCIL
+
+
+                                  /s/ Stanley I. Osborne, Jr.
+                                  Administrative Appeals Judge
+
+
+
+                                  /s/ Susan S. Yim
+                                  Administrative Appeals Judge
+
+Date:   March 19, 2012
+

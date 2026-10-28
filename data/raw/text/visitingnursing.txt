@@ -1,0 +1,331 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+
+
+In the case of                        Claim for
+
+Visiting Nursing Association          Hospital Insurance Benefits
+of Western NY, Inc.                   (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+National Government Services          ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+June 1, 2009, concerning Medicare coverage for physical therapy
+services provided by the appellant home health agency to the
+beneficiary on November 21, 2007, through January 2, 2008. The
+ALJ determined Medicare did not cover the services at issue and
+held the appellant liable for the non-covered services. The
+appellant has asked the Medicare Appeals Council (Council) to
+review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+As a preliminary matter, the appellant submitted additional
+documentation with its July 13, 2009, request for review. By
+letter dated October 6, 2009, the appellant clarified that it
+had not submitted new evidence with its appeal and that the
+documents submitted to the Council had already been submitted
+earlier in the appeals process. Thus, the Council finds that
+there is no good cause to admit this documentation and excludes
+the documents submitted with the appellant’s request for review
+as duplicative of evidence already contained in the record,
+pursuant to 42 C.F.R. § 405.1122(c). We enter the remaining
+                                                                   2
+
+
+
+
+portions of the appellant’s request for review into the record
+as exhibit (exh.) MAC-1, the Council’s October 1, 2009, letter
+as exhibit MAC-2, and the appellant’s October 6, 2009, letter as
+exhibit MAC-3.
+
+As explained more fully below, the Council reverses the ALJ’s
+decision and grants coverage for the physical therapy services
+at issue because they were medically reasonable and necessary
+for the beneficiary.
+
+                           BACKGROUND
+
+The beneficiary, an 85 year old female, was admitted to home
+health care on November 21, 2007, with diagnoses of degenerative
+joint disease of the right shoulder and arthritis of the lower
+extremities. Exh. 2 at 6. Her medical history also includes
+hypothyroidism, hypertension, high cholesterol, and a mastectomy
+due to breast cancer. Id. The beneficiary’s physician ordered
+physical therapy once a week for one week, and twice a week for
+five weeks, to increase the beneficiary’s range of motion,
+manage pain, provide gait training, and evaluate and treat the
+beneficiary’s condition. Exhs. 2 at 6, 3 at 57. The appellant
+home health agency furnished the beneficiary with 11 physical
+therapy visits from November 21, 2007, through January 2, 2008,
+and seeks Medicare coverage for these services. Exh. 1.
+
+Initially, and on redetermination, the Medicare contractor
+denied coverage for this claim on the basis that the
+documentation did not support that the services were medically
+necessary. Exh. 4. On appeal, the Qualified Independent
+Contractor (QIC) also denied coverage for the services at issue.
+Exh. 5. The QIC reasoned, “[w]hile the physical therapy
+evaluation supports a decline in function to warrant skilled
+intervention, the Outcome and Assessment Information Set (OASIS)
+does not.” Id. at 84.
+
+After conducting a hearing with the appellant’s representative
+on May 13, 2009, the ALJ issued a decision denying coverage for
+the services at issue. Dec. at 1, 8. The ALJ determined that
+the “OASIS did not support a significant functional impairment
+to warrant therapy, as her prior and current levels of function
+were the same. The Beneficiary did not demonstrate any
+significant improvement and for that reason, the services are
+not covered by Medicare.” Id. at 8
+                                                                   3
+
+
+
+
+Before the Council, the appellant asserts that the ALJ repeated
+the QIC’s error by relying on the OASIS form to deny coverage,
+because the form’s “prior functional level” was designed to
+compare national outcomes, not to measure decline in function.
+Request for Review. The appellant asserts that Medicare should
+cover the services at issue because the therapy documentation is
+a better source to judge the presence of a significant
+functional decline. Id.
+
+                           DISCUSSION
+
+Introduction
+
+In order for a beneficiary to qualify for Medicare coverage of
+home health services, he or she must be confined to the home,
+under the care of a physician, in need of skilled services,
+under a plan of care, and the services must be provided by a
+participating home health agency. 42 C.F.R. § 409.42.
+
+The Centers for Medicare and Medicaid Services (CMS) provides
+the following guidance on interpreting the requirement that a
+beneficiary be “confined to the home” in its Medicare Benefit
+Policy Manual (MBPM):
+
+     An individual does not have to be bedridden to be
+     considered confined to the home. However, the
+     condition of these patients should be such that there
+     exists a normal inability to leave home and,
+     consequently, leaving home would require a
+     considerable and taxing effort.
+
+                              * * *
+
+     Generally speaking, a patient will be considered to be
+     homebound if they have a condition due to an illness
+     or injury that restricts their ability to leave their
+     place of residence except with the aid of: supportive
+     devices such as crutches, canes, wheelchairs, and
+     walkers; the use of special transportation; or the
+     assistance of another person; or if leaving home is
+     medically contraindicated.
+
+MBPM, CMS Pub. 100-02, Ch. 7 at § 30.1.1.
+
+In this case, the record reflects that the beneficiary resided
+in an independent living facility which provided assistance with
+                                                                   4
+
+
+
+
+grocery shopping, meal preparation, yard and house work. Exh. 2
+at 4. Previously, the beneficiary “was independent throughout
+the facility with just a cane.” Id. However, at the time the
+physical therapy began, the beneficiary ambulated with a rolling
+walker for longer, out-of-room distances such as to and from
+meals. Id. There is nothing in the record to suggest that the
+beneficiary was other than confined to her home. Thus, the
+Council finds, based on the beneficiary’s reliance on supportive
+devices, that she was homebound because leaving home would
+require a considerable and taxing effort.
+
+Further, the “Home Health Certification and Plan of Care,”
+signed and dated by the beneficiary’s physician, indicates that
+the beneficiary was indeed “under the care of a physician,” and
+“under a plan of care” as required by 42 C.F.R. § 409.42.
+Id. at 6. The document also reflects that the services were
+provided by the appellant, a participating home health agency.
+Id. Satisfaction of the above coverage criteria have not been
+raised as an issue at any point in the administrative appeals
+process. Therefore, we conclude that they have been satisfied.
+The sole issue remaining is whether the beneficiary needed
+skilled services.
+
+Skilled Services
+
+In addition to the criteria discussed above, a beneficiary must
+need “skilled services” in the form of intermittent skilled
+nursing services, physical therapy services, speech-language
+pathology services, or occupational therapy services to qualify
+for Medicare coverage. 42 C.F.R. § 409.42(c).
+
+At the outset, we wish to clarify that the skilled services at
+issue are skilled therapy services. The ALJ’s decision
+mistakenly referred to the beneficiary’s need for skilled
+nursing services. Dec. at 8 (“The medical records in this case
+do not support that the Beneficiary required skilled nursing
+services.”).
+
+As relevant here, the physical therapy services provided must
+meet the criteria set forth in 42 C.F.R. § 409.44(c). To be
+considered reasonable and necessary, the physical therapy
+services must be:
+
+  1) considered under accepted standards of medical practice to
+     be a specific, safe, and effective treatment for the
+                                                                             5
+
+
+
+
+      beneficiary’s condition;
+
+    2) of such a level of complexity and sophistication or the
+       condition of the beneficiary must be such that the services
+       required can safely and effectively be performed by a
+       qualified physical therapist;
+
+    3) done with an expectation that the beneficiary’s condition
+       will improve materially in a reasonable (and generally
+       predictable) period of time; and
+
+    4) of a reasonable amount, frequency, and duration.
+
+42 C.F.R. § 409.44(c).
+
+Before the Council, the appellant asserts that the OASIS B
+functional items, relied upon by the QIC and the ALJ, “are not
+sensitive enough to differentiate between using a rolling walker
+and a standard cane, although this represents a significant
+functional decline (in fact in the revised OASIS C assessment
+due out in January of 2010, the functional items have been
+changed to reflect a difference between rolling walker and a
+standard cane).” Exh. MAC-1. We agree.
+
+The OASIS is an “instrument/data collection tool used to collect
+and report performance data by home health agencies. . . . Since
+fall 2003, CMS has posted on www.medicare.gov a subset of OASIS-
+based quality performance information showing how well home
+health agencies assist their patients in regaining or
+maintaining their ability to function.” CMS Medicare Home
+Health Quality Initiatives, available at http://www.cms.hhs.gov/
+HomeHealthQualityInits/ (last visited Nov. 18, 2009). Thus the
+main purpose of the OASIS is to report and compare national
+outcomes, not to measure decline in function. Although an OASIS
+may inform a coverage determination, it should not form the
+exclusive basis for the determination. “A coverage denial is
+not made solely on the basis of the reviewer’s general
+inferences about patients with similar diagnoses or on data
+related to utilization generally but is based upon objective
+clinical evidence regarding the beneficiary’s individual need
+for care.” 42 C.F.R. § 409.44(a). Thus, in this instance, we
+find that the ALJ erred in basing his coverage determination on
+the beneficiary’s OASIS scores.1
+1
+  In its final rule issued January 25, 1999, CMS stated that the OASIS focuses
+on outcomes of care. It was developed as a system of outcome measures that
+could be used specifically for outcome-based quality improvement and
+                                                                               6
+
+
+
+
+After considering the evidence, the Council finds the physical
+therapy services at issue were reasonable and necessary pursuant
+to section 1862(a) of the Social Security Act (Act), and
+therefore are covered by Medicare. The record, taken as whole,
+supports the conclusion that the beneficiary experienced a
+decline in function for which the physical therapy services
+provided were reasonable and necessary.
+
+Specifically, the “Home Health Certification and Plan of Care”
+reflects that the beneficiary experienced an exacerbation of
+arthritis that left her ambulating with a rolling walker as
+opposed to her prior status of ambulating with a cane. Exh. 2.
+The beneficiary’s receipt of a cortisone injection in her right
+shoulder the week prior to starting therapy further supports the
+premise that the beneficiary had experienced an exacerbation of
+her chronic condition. Id.
+
+Further, the beneficiary’s Tinetti Gait and Balance Assessment
+scores revealed significant improvement. Exh. 3 at 53. Upon
+initial evaluation, the beneficiary’s score was 7/28, which
+indicates that she had a risk of severe falls. Id. Upon
+discharge, this score had improved to 18/28, signifying a
+moderate fall risk. Id.
+
+CMS has provided additional coverage guidance in the MBPM:
+
+      Gait evaluation and training furnished a patient whose
+      ability to walk has been impaired by neurological,
+      muscular or skeletal abnormality require the skills of
+      a qualified physical therapist and constitute skilled
+      physical therapy and are considered reasonable and
+      necessary if they can be expected to improve
+      materially the patient’s ability to walk.
+
+CMS Pub. 100-02, MBPM, Ch. 7 at § 40.2.2.C. In this case, the
+beneficiary’s ability to walk was impaired by arthritis. The
+physical therapy visit notes reflect that skilled gait training
+occurred during each visit. Exh. 3 at 10-52. Thus, the Council
+finds that the therapy could reasonably have been expected to
+improve materially the beneficiary’s ability to ambulate and
+satisfies the coverage criteria set forth in 42 C.F.R. §
+
+evaluation in home health agencies. The final rule also stated that the
+OASIS, while helpful for patient assessment, is not a care planning tool and
+was not designed to be a comprehensive patient assessment. 64 Fed. Reg.
+3764, 3772 (January 25, 1999).
+                                                                  7
+
+
+
+
+409.44(c). While the beneficiary’s goals and improvements
+during this episode of care were somewhat modest, the physical
+therapy services were of a reasonable amount, frequency, and
+duration to enable her to regain range of motion and manage
+pain, and remain in her independent living community.
+
+                            DECISION
+
+It is the decision of the Medicare Appeals Council that the
+physical therapy services furnished to the beneficiary on
+November 21, 2007, through January 2, 2008, were reasonable and
+necessary, and thus, covered by Medicare. Accordingly, the
+hearing decision is reversed.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+                                   /s/ M. Susan Wiley
+                                   Administrative Appeals Judge
+
+
+                                   /s/ Gilde Morrisson
+                                   Administrative Appeals Judge
+
+Date: November 20, 2009
+

@@ -1,0 +1,60 @@
+{
+  "case_id": "real_iro_12",
+  "expected_decision": null,
+  "reference_outcome": "overturned",
+  "source": {
+    "type": "real public Texas DOI IRO decision (name-redacted)",
+    "url": "https://www.tdi.texas.gov/medcases/iro/2018/march/wp5345203707.pdf",
+    "reviewer_reason": "ODG criteria for cervical RFA met with >=70% diagnostic block response",
+    "note": "Reviewer applied ODG/ACOEM guidelines, NOT Medicare LCD L38765. Outcome is an external reference, not an LCD ground truth."
+  },
+  "claim": {
+    "type_of_bill": null,
+    "emergency_dept": null,
+    "pa_requested_before_service": null
+  },
+  "clinical": {
+    "axial_pain": true,
+    "baseline_pain_nrs": null,
+    "disability_scale": null,
+    "disability_score_pct": null,
+    "pain_duration_months": null,
+    "conservative_management": [
+      "diagnostics",
+      "medications",
+      "chiropractic",
+      "physical therapy",
+      "injections",
+      "medial branch block"
+    ],
+    "untreated_radiculopathy": false,
+    "non_facet_pathology": null,
+    "centralized_pain_dx": null
+  },
+  "procedure": {
+    "type": "rfa",
+    "guidance": null,
+    "sedation": null,
+    "spinal_regions": 1,
+    "prior_diagnostic_mbb_relief_pct": [
+      90
+    ],
+    "services": [
+      {
+        "cpt": "RFA C4-5",
+        "level": 1
+      },
+      {
+        "cpt": "RFA C5-6",
+        "level": 2
+      }
+    ]
+  },
+  "documentation": {
+    "baseline_pain_documented": null,
+    "pain_scale_used": null,
+    "baseline_disability_documented": null,
+    "disability_scale_used": null,
+    "conservative_records_attached": true
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "case_id": "real_iro_08",
+  "expected_decision": null,
+  "reference_outcome": "upheld",
+  "source": {
+    "type": "real public Texas DOI IRO decision (name-redacted)",
+    "url": "https://www.tdi.texas.gov/medcases/iro/2018/july/wp5317216862.pdf",
+    "reviewer_reason": "Radiculopathy contraindicates facet blocks per ODG",
+    "note": "Reviewer applied ODG/ACOEM guidelines, NOT Medicare LCD L38765. Outcome is an external reference, not an LCD ground truth."
+  },
+  "claim": {
+    "type_of_bill": null,
+    "emergency_dept": null,
+    "pa_requested_before_service": null
+  },
+  "clinical": {
+    "axial_pain": true,
+    "baseline_pain_nrs": 4,
+    "disability_scale": null,
+    "disability_score_pct": null,
+    "pain_duration_months": null,
+    "conservative_management": [
+      "medications",
+      "physical therapy",
+      "cervical epidural steroid injection"
+    ],
+    "untreated_radiculopathy": true,
+    "non_facet_pathology": "cervical disc herniations C4-5, C5-6; malignant neoplasm left upper lobe lung",
+    "centralized_pain_dx": null
+  },
+  "procedure": {
+    "type": "diagnostic_mbb",
+    "guidance": "fluoroscopy",
+    "sedation": null,
+    "spinal_regions": 2,
+    "prior_diagnostic_mbb_relief_pct": null,
+    "services": [
+      {
+        "cpt": "facet block cervical C2-3",
+        "level": 1
+      },
+      {
+        "cpt": "facet block cervical C3-4",
+        "level": 2
+      },
+      {
+        "cpt": "facet block lumbar L5-S1",
+        "level": 1
+      }
+    ]
+  },
+  "documentation": {
+    "baseline_pain_documented": true,
+    "pain_scale_used": "NRS (numeric x/10 as recorded)",
+    "baseline_disability_documented": null,
+    "disability_scale_used": null,
+    "conservative_records_attached": true
+  }
+}

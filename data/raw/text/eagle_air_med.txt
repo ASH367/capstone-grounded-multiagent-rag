@@ -1,0 +1,415 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-10-1934
+
+
+In the case of                           Claim for
+
+                                         Supplementary Medical
+Eagle Air Med                            Insurance Benefits (Part B)
+(Appellant)
+
+
+****                                     ****
+(Beneficiary)                            (HIC Number)
+
+
+Palmetto GBA                             ****
+(Contractor)                             (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+July 15, 2010, which, in relevant part, concerned the
+appellant’s claim for Medicare coverage of fixed wing air
+ambulance services and related mileage furnished to the
+beneficiary on October 17, 2008. 1 The ALJ determined that
+Medicare does not cover the ambulance services at issue pursuant
+to section 1861(s)(7) of the Social Security Act (Act) because
+the beneficiary was transported beyond the nearest appropriate
+facility capable of her treatment, and the ALJ held the
+appellant liable for the non-covered services. Dec. at 7-8.
+The appellant has asked the Medicare Appeals Council (Council)
+to review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). As set forth below, the Council
+modifies the ALJ’s decision to clarify the holdings, the bases
+
+1
+   The ALJ’s decision also addressed the appellant’s claim for coverage of
+ambulance services furnished to another beneficiary under ALJ appeal number
+1-566071812. The appellant has not sought Council review of this portion of
+the decision. The Council therefore limits its review of the ALJ’s decision
+accordingly. See 42 C.F.R. § 405.1112(c).
+                                                                             2
+for partially denying coverage of the air ambulance services at
+issue, and the respective liability of the parties. Ultimately,
+the Council concludes that: 1) Medicare covers ground, but not
+air, ambulance transportation to the nearest facility capable of
+treating the beneficiary on this date of service; 2) the
+appellant is liable for the difference between air and ground
+ambulance services; and 3) the beneficiary is responsible for
+the additional mileage beyond the nearest facility capable of
+treating her medical condition.
+
+                                 BACKGROUND
+
+On October 17, 2008, the appellant transported the beneficiary
+via air ambulance from *** Indian Health Service Clinic, in
+***, Arizona, to Good Samaritan Hospital in ***, Arizona,
+due to gastrointestinal bleeding and acute abdominal pain.
+Exh. 4. The appellant billed Medicare for fixed wing air
+ambulance transportation using HCPCS code A0430, and for 243
+fixed wing air miles using code A0435. 2 Exh. 2 at 2. The
+Medicare contractor denied this claim initially. Id.
+
+Upon redetermination, the contractor determined that the
+beneficiary’s condition warranted ambulance services but that
+she could have been transported via ground ambulance to a nearer
+medically-appropriate facility. Exh. 5. The contractor allowed
+payment for the claim at a substantially reduced level, based
+upon the allowable payment amount which would have been
+available for the use of ground ambulance transportation and
+fewer miles. Id. It appears that the contractor issued a
+revised Medicare Remittance Notice following the redetermination
+to reflect the effectuation of its determination. Exh. 2 at 1.
+This notice, dated June 16, 2009, changed the codes at issue to
+reflect billing, and payment, for advanced life support ground
+ambulance service (level 1) using code A0427, and 136 ground
+miles using code A0425. Id.
+
+Upon reconsideration, the Qualified Independent Contractor (QIC)
+issued an unfavorable decision, agreeing with the contractor’s
+down-coding of the claim to ground ambulance transportation to a
+closer facility, namely *** Medical Center in ***,
+Arizona. Exh. 8. The QIC’s decision is less than clear
+regarding the liability of the parties, stating alternately that
+
+2
+   The Centers for Medicare & Medicaid Services (CMS) has developed the
+Healthcare Common Procedure Coding System (HCPCS) to establish “uniform
+national definitions of services, codes to represent services, and payment
+modifiers to the codes.” 42 C.F.R. § 414.40(a).
+                                                                             3
+the beneficiary is “not responsible for payment for these
+services,” “the beneficiary is responsible for the difference in
+air miles which equal 107 miles,” the appellant “is responsible
+for A0430 II, A0435 II,” and that the appellant “is held liable
+for these charges.” Id. at 1, 3-4.
+
+On appeal, the ALJ determined that Medicare does not cover the
+ambulance services at issue pursuant to section 1861(s)(7) of
+Act because the beneficiary was transported beyond the nearest
+facility capable of treating her condition. Dec. at 7-8 (citing
+Act at § 1861(s)(7), 42 C.F.R. § 410.40). However, the ALJ also
+stated that he affirmed the QIC’s decision. Id. at 7. It is
+therefore not clear whether the ALJ intended to fully or
+partially deny coverage for the ambulance services at issue.
+Moreover, the ALJ’s analysis does not specifically address
+whether the use of air versus ground ambulance services was
+medically reasonable and necessary. Id. The ALJ further
+determined that the record did not contain any evidence that the
+appellant notified the beneficiary in writing that Medicare
+would not pay for these services; thus, the appellant remained
+liable for the non-covered services. Id.
+
+The appellant’s timely-filed request for review is hereby
+entered into the record as exhibit (Exh.) MAC-1. 3 Before the
+Council, the appellant concedes that “ground transportation to a
+closer hospital was reasonable” in this case. Exh. MAC-1 at 3.
+However, the appellant requests that an “EOB,” or Explanation of
+Benefits, be created to reflect the codes it billed originally
+(i.e., A0430, and A0435) and to separately list the 107 air
+miles beyond the nearest facility as code A0888-PR (to reflect
+“noncovered ambulance mileage” and “patient responsibility”).
+Id. In support of this request, the appellant references an
+article regarding the “unintended consequences” of ambulance
+services which warns that beneficiaries can be held liable for
+non-covered ambulance services. Id.
+
+                                 DISCUSSION
+
+As noted above, the ALJ’s decision did not adequately articulate
+or analyze the issues in this case. The Council therefore will
+consider whether Medicare covers the air ambulance services at
+issue, and if they are not fully covered, the respective
+
+
+3
+   The documentation accompanying the appellant’s request for review is
+duplicative of evidence already contained in the record and therefore does
+not constitute new evidence. Compare Exhs. MAC-1 at 4, 9 at 2.
+                                                                   4
+liability of the parties. We will also address the appellant’s
+contentions in turn below.
+
+     Medicare Coverage of Services at Issue
+
+The ALJ determined that the air ambulance services at issue were
+not covered because the appellant’s representative testified at
+the hearing that there was a closer facility equipped to treat
+the beneficiary’s medical needs than the one to which the
+beneficiary was transported. Dec. at 3, 7. The ALJ did not
+address the previous adjudicators’ findings that ground
+transportation would have been medically appropriate. Id.
+
+Before the Council, the appellant does not contest the ALJ’s
+decision regarding Medicare coverage for the services at issue;
+in fact, the appellant concedes that the beneficiary could have
+been transported via ground ambulance to a nearer facility.
+Exh. MAC-1.
+
+After considering the record, the Council concurs with both the
+contractor and the QIC that Medicare covers ambulance services
+for transporting the beneficiary to obtain a higher level of
+care on the date of service at issue. The claim file in this
+case contains not only the air ambulance transport records, but
+also medical records from both the originating and receiving
+medical facilities. See generally Exh. 6 at 4-22. These
+records establish that the beneficiary experienced
+gastrointestinal bleeding and acute abdominal pain. Exh. 6 at
+17-21. There is no evidence of record to suggest that the
+originating facility, an outpatient clinic, was able to treat
+the beneficiary’s condition.
+
+The Council also concurs with the contractor and the QIC that
+the record does not support a finding that the beneficiary
+required air, as opposed to ground, ambulance transportation.
+The appellant has conceded that the beneficiary could have been
+transferred by ground ambulance rather than air ambulance. Exh.
+MAC-1. Based on the medical records, the Council agrees. The
+beneficiary’s vital signs were stable at the time of transfer
+and she did not experience further significant bleeding while at
+the originating facility. Id. at 19-20. Laboratory work
+reflects that the beneficiary’s hemoglobin was 13.7 grams per
+liter and her hematocrit level was 45 percent; these results
+both fall within the normal range. Id. at 6, 17. Thus, the
+Council concludes that the air ambulance services originally
+billed were not medically reasonable and necessary in this
+                                                                   5
+instance because the beneficiary could have been appropriately
+transported by ground ambulance to the nearest hospital. Act at
+§ 1862(a)(1)(A).
+
+Although the Council has determined that Medicare coverage is
+appropriate, the amount of payment is limited to that which
+would have been provided to transport the beneficiary by ground
+ambulance from the originating facility in ***, Arizona, to
+the nearest appropriate medical facility, which the appellant
+concedes was in ***, Arizona. See Exhs. MAC-1 at 3,
+9 at 1. The Medicare Benefit Policy Manual (MBPM) provides the
+following guidance regarding payment for air ambulance services:
+
+     Special Payment Limitations
+
+     If a determination is made that transport by air
+     ambulance was necessary, but ground ambulance service
+     would have sufficed, payment for the air ambulance
+     service is based on the amount payable for ground
+     transport, if less costly.
+
+     If the air transport was medically appropriate (that
+     is, ground transportation was contraindicated, and the
+     beneficiary required air transport to a hospital), but
+     the beneficiary could have been treated at a nearer
+     hospital than the one to which they were transported,
+     the air transport payment is limited to the rate for
+     the distance from the point of pickup to that nearer
+     hospital.
+
+MBPM, CMS Pub. 100-02, Ch. 10 at § 10.4.6. In this case, the
+appellant originally billed 243 air ambulance miles. The
+contractors determined, and the appellant has conceded, that the
+nearest appropriate facility to ***, Arizona, which was
+capable of treating the beneficiary was in ***, Arizona,
+which is 107 miles closer to *** than the facility to which the
+beneficiary was actually transferred in ***, Arizona. Thus,
+consistent with the prior determinations of both the contractor
+and the QIC, the Council finds that ground transportation a
+distance of 136 miles is covered; the additional 107 miles
+beyond the nearest facility as well as the additional cost of
+air ambulance are not covered.
+                                                                   6
+     Liability
+
+     1. Medical reasonableness and necessity:
+        Air ambulance versus ground ambulance
+
+A finding, as occurred in this case, that the beneficiary
+required only ground ambulance transport to a particular
+facility constitutes a partial denial of the air ambulance claim
+under section 1862(a)(1) of the Act. Thus, as detailed below,
+section 1879 of the Act applies to this portion of the claim.
+
+In general, section 1879 liability protection applies only when
+the denial of coverage is made under section 1862(a)(1)(A) of
+the Act - that is, because the services are not medically
+“reasonable and necessary.” Most denials of Medicare payment
+made for ambulance services are made under section 1861(s)(7) of
+the Act and its implementing regulations. Section 1861(s)(7)
+provides that Medicare will cover ambulance services “where the
+use of other methods of transportation is contraindicated by the
+individual’s condition, but only to the extent provided in
+regulations.” The regulation at 42 C.F.R. section 410.40 sets
+forth various limitations on ambulance coverage and payment,
+including limitations on origins and destinations. Thus, when
+coverage of ambulance services is denied or partially denied
+because the beneficiary’s condition did not contraindicate other
+means of transport (that is, other non-ambulance methods), or
+because the beneficiary was not taken to the nearest appropriate
+facility (or did not meet other regulatory requirements in
+section 410.40), then the statutory basis for the denial is
+section 1861(s)(7) and the limitation on liability provisions in
+section 1879 do not apply.
+
+Air ambulance services are considered appropriate when the time
+needed to transport the beneficiary by ground ambulance, or the
+instability of land transport, poses a threat to the
+beneficiary’s survival or seriously endangers her health. A
+finding that a beneficiary required ground ambulance services,
+but not air ambulance transport, is not a denial under section
+1861(s)(7), but an adverse level of care determination under
+section 1862(a)(1). Under those circumstances, non-ambulance
+methods of transport are not “contraindicated,” and so it is
+appropriate to consider whether the beneficiary and the
+appellant are entitled to limitation on liability protection.
+
+Section 1879(a) of the Act provides for the limitation on
+liability for items or services denied Medicare coverage as not
+                                                                   7
+medically “reasonable and necessary” under section 1862(a)(1)(A)
+of the Act, absent “knowledge” by a beneficiary or provider that
+the items or services would not be covered. Act at § 1879(a);
+42 C.F.R. § 411.400(a). A beneficiary has “knowledge” of
+non-coverage when she has been given written notice of
+non-coverage by the provider, practitioner, or supplier.
+42 C.F.R. § 411.404(a). A supplier may have knowledge, in
+relevant part, based on its written notice of non-coverage to
+the beneficiary or its own experience, actual notice, or
+constructive notice. 42 C.F.R. § 411.406. CMS has provided
+further guidance on financial liability protections in its
+Medicare Claims Processing Manual (MCPM). MCPM, CMS Pub.
+100-04, at Ch. 30.
+
+The issue under section 1879 is whether any of the parties knew
+or could reasonably have been expected to know that payment
+would not be made for air ambulance services (rather than ground
+ambulance services). Protection under section 1879, under the
+circumstances presented here, extends only to the difference
+between the appropriate level of payment for ground ambulance
+and the appropriate level of payment for air ambulance to the
+nearest appropriate facility. Thus, in this case, the Council
+considers such limitation on liability only with regard to the
+first 136 miles of the transport at issue.
+
+The administrative record does not contain any evidence that the
+appellant furnished the beneficiary with written notice of
+Medicare’s possible non-coverage. The Council therefore finds
+that the beneficiary did not know, nor could she have reasonably
+been expected to know, that the services at issue would not be
+covered by Medicare. The beneficiary’s liability for the
+difference in air and ground service is waived pursuant to
+section 1879(a) of the Act.
+
+Conversely, the Council finds that the appellant, as an
+ambulance company participating in the Medicare program, knew or
+should have known that the services at issue would not be
+covered as billed. MCPM, Ch. 30 at § 40.1. The Council
+therefore holds the appellant liable for the difference in air
+and ground service pursuant to section 1879(a) of the Act for
+the first 136 miles of the transport at issue.
+                                                                             8
+      2.   Additional miles beyond the nearest appropriate
+           facility
+
+Turning to the difference in air mileage distance between the
+nearest facility capable of treating the beneficiary’s medical
+condition (***) to the beneficiary’s actual destination
+(***) (107 miles), the appellant asserts that the beneficiary
+should be held liable for these non-covered miles. Exh. MAC-1. 4
+The Council agrees. When coverage of ambulance services is
+denied or partially denied because the beneficiary was not taken
+to the nearest appropriate facility as required by 42 C.F.R.
+§ 410.41, the statutory basis for the denial is section
+1861(s)(7) and the limitation on liability provisions in section
+1879 do not apply. Thus, the beneficiary is responsible in this
+case for the difference in the allowable amount for ambulance
+transportation services for 243 miles versus the allowable
+amount for 136 miles (i.e., the 107 additional air miles at
+issue), pursuant to 1861(s)(7).
+
+      Explanation of Benefits
+
+Before the Council, the appellant requests that an Explanation
+of Benefits be created to reflect the A0430 and A0435 codes it
+billed originally, and to separately list the 107 air miles
+beyond the nearest facility as A0888-PR (to reflect “noncovered
+ambulance mileage” and “patient responsibility”). Exh. MAC-1 at
+3. The appellant seeks this updated claims information so that
+it can bill a secondary payer. Exh. 9 at 1.
+
+In making this contention, the appellant appears to ask the
+Council to change the Medicare Remittance Notice. 5 The appellant
+has failed to cite to any provision that gives the Council the
+authority to direct a Medicare contractor to change a reason for
+denial and to reissue a Medicare Remittance Notice. The Council
+knows of no such authority. As explained above, the Council’s
+4
+  In support of its position, the appellant supplies and references an article
+regarding the “unintended consequences” of ambulance services. Exhs. MAC-1,
+9 at 2. The appellant has not identified the source of this article, but it
+appears to be part of a contractor’s bulletin to Medicare Part B suppliers
+which was intended to warn physicians of the potential for beneficiary
+liability for non-covered ambulance services. This article alone does not
+provide any legal basis for holding the beneficiary responsible for the non-
+covered, additional miles beyond the nearest appropriate facility.
+5
+   Unlike private insurance companies, Medicare Part B contractors do not
+issue Explanations of Benefits per se. Instead, the claims information
+typically presented in an Explanation of Benefits is conveyed to Medicare
+beneficiaries via a Medicare Summary Notice and to suppliers, such as the
+appellant, via a Medicare Remittance Notice.
+                                                                   9
+decision clarifies the issues of coverage and liability in this
+case. The contractor must effectuate the Council’s decision.
+However, if the appellant seeks any specific revisions of the
+Medicare Remittance Notice, the appellant must directly approach
+the contractor with such request.
+
+                            DECISION
+
+It is the decision of the Medicare Appeals Council that the
+ambulance transportation furnished to transport the beneficiary
+on October 19, 2008, from *** Indian Health Service Clinic, in
+***, Arizona, to a higher level medical facility is covered by
+Medicare. However, the Council finds that the beneficiary could
+have been transported by ground ambulance rather than by air
+ambulance, and that the nearest appropriate facility capable of
+treating the beneficiary was in ***, Arizona rather than
+in ***, Arizona. The distance to Flagstaff is 136 ground
+miles from the originating medical facility. Thus, the claim
+for ambulance transportation is covered, but payment is limited
+to the cost of ground transportation for a distance of 136
+miles. The appellant is liable for the difference between air
+and ground ambulance services. The beneficiary is responsible
+for the 107 additional miles required to transport the
+beneficiary beyond the nearest medically appropriate facility.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+                                   /s/ Gilde Morrisson
+                                   Administrative Appeals Judge
+
+
+                                   /s/Constance B. Tobias, Chair
+                                   Departmental Appeals Board
+
+Date: March 18, 2011
+

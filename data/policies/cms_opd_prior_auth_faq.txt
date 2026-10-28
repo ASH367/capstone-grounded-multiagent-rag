@@ -1,0 +1,660 @@
+                                                                          November 14, 2024
+
+
+Prior Authorization Process for Certain Hospital Outpatient Department (OPD) Services
+                          Frequently Asked Questions (FAQs)
+
+Prior Authorization (General)
+
+1. Q: What is prior authorization?
+
+   A: Prior authorization is a process through which a request for provisional affirmation of
+   coverage is submitted for review before the service is rendered to a beneficiary and
+   before a claim is submitted for payment. The prior authorization program for certain
+   hospital OPD services ensures that Medicare beneficiaries continue to receive medically
+   necessary care while protecting the Medicare Trust Funds from unnecessary increases in
+   the volume of covered services and improper payments. The prior authorization process
+   does not alter existing medical necessity documentation requirements. Prior
+   authorization helps to make sure that applicable coverage, payment, and coding
+   requirements are met before services are rendered while ensuring access to and quality
+   of care.
+
+2. Q: When did the Prior Authorization Process for OPD Services
+   begin?
+
+   A: Prior Authorization for the initial five services (blepharoplasty, botulinum toxin
+   injections, panniculectomy, rhinoplasty, and vein ablation) started on June 17, 2020, for
+   dates of service on or after July 1, 2020. Two additional hospital OPD services (cervical
+   fusion with disc removal and implanted spinal neurostimulators) requiring prior
+   authorization started on June 17, 2020, for dates of service on or after July 1, 2021.
+   Facet joint interventions will require prior authorization for dates of service on or after
+   July 1, 2023.
+
+3. Q: What services require prior authorization under this process?
+
+   A: As part of the Calendar Year 2020 OPPS/ASC Final Rule (CMS-1717-FC), CMS
+   required prior authorization for the following service categories: blepharoplasty,
+   botulinum toxin injections, panniculectomy, rhinoplasty, and vein ablation. As part of
+   the Calendar Year 2021 OPPS/ASC Final Rule (CMS-1736-FC), CMS required prior
+   authorization for two additional service categories: cervical fusion with disc removal
+   and implanted spinal neurostimulators. As announced in the Calendar Year 2023
+   OPPS/ASC Final Rule (CMS-1772-FC), for dates of service on or after July 1, 2023,
+   CMS will require prior authorization for a new service category: Facet joint
+   interventions. The Final List of Outpatient Services that Require Prior Authorization is
+   located here.
+
+4. Q: What codes require prior authorization for implanted spinal
+   neurostimulators?
+
+   A: CMS will only require prior authorization for CPT code 63650 (Implantation of
+
+                                            1
+                                                                        November 14, 2024
+
+
+   spinal neurostimulator electrodes, accessed through the skin) at this time. CMS is
+   temporarily removing CPT codes 63685 and 63688 from the list of OPD services that
+   require prior authorization.
+
+5. Q: Why is CMS temporarily removing CPT codes 63685 and 63688 from
+   the list of OPD services that require prior authorization?
+
+   A: CMS is temporarily removing CPTs 63685 and 63688 to streamline requirements for
+   the initial implementation of prior authorization for implanted spinal neurostimulators.
+   CMS will monitor prior authorization for CPT 63650 to determine if it is effective in
+   reducing the volume of unnecessary implanted spinal neurostimulator services.
+
+6. Q: When will CMS announce any changes with respect to these two codes
+   and whether they require prior authorization?
+
+   A: CMS will monitor prior authorization for CPT 63650 and provide public notice if
+   there are any changes to the prior authorization requirements for CPTs 63685 and
+   63688.
+
+7. Q: Is prior authorization required for both the trial and the permanent
+   implantation procedures for CPT 63650?
+
+   A: No. Providers who plan to perform both the trial and permanent implantation
+   procedures using CPT 63650 in the hospital OPD will only require prior authorization
+   for the trial procedure. To avoid a claim denial, providers must place the Unique
+   Tracking Number (UTN) received for the trial procedure on the claim submitted for the
+   permanent implantation procedure. When the trial is rendered in a setting other than
+   hospital OPD, providers will need to request prior authorization for CPT 63650 as part
+   of the permanent implantation procedure in the hospital OPD.
+
+8. Q: Why is Medicare implementing prior authorization for these OPD Services?
+
+   A: The CMS has observed significant increases in the utilization volume of some
+   covered OPD services. Our analysis and research showed that increases in the volume of
+   these OPD services are unnecessary, and further program integrity action is warranted.
+   As part of our responsibility to protect the Medicare Trust Funds, we continually analyze
+   data to determine if there are additional covered OPD services that are exhibiting
+   unnecessary increases in volume for which prior authorization would be appropriate. We
+   believe prior authorization for these services will be an effective method for controlling
+   unnecessary increases in volume and will reduce instances in which Medicare pays for
+   services that do not meet Medicare requirements.
+
+9. Q: How does prior authorization help Medicare suppliers, providers,
+   and other practitioners?
+
+   A: Suppliers, providers, and other Medicare practitioners can be confident that the items
+
+                                           2
+                                                                        November 14, 2024
+
+
+   and services that their patients need will be covered without time delays, subsequent
+   paperwork, or the need to file an appeal for a claim that was later deemed not payable. In
+   addition, paid claims for which there is an associated provisional affirmation decision
+   will be afforded some protection from future audits.
+
+10. Q: Does this prior authorization process protect beneficiary
+    access to care?
+
+   A: Yes. The CMS believes this prior authorization program will both help protect the
+   Medicare Trust Funds from improper payments and make sure beneficiaries are not
+   hindered from accessing necessary services when they need them. Prior authorization
+   allows CMS to make sure items and services frequently subject to unnecessary
+   utilization are furnished or provided in compliance with applicable Medicare coverage,
+   coding, and payment rules before they are furnished or provided. It also allows the
+   beneficiary to be notified if the item or service would be covered by Medicare and any
+   potential financial implications earlier in the payment process. Access is preserved by
+   having set timeframes for contractors to complete any prior authorization request
+   decisions, and an expedited process is available in cases where delays may jeopardize
+   the life or health of beneficiaries.
+
+11. Q: Who will be required to submit prior authorization requests?
+
+   A: Hospital OPDs must submit a prior authorization request and receive a provisional
+   affirmation decision as a condition of payment. Physicians and other third parties may
+   submit the request on behalf of the hospital OPD, but hospital OPDs are responsible for
+   ensuring that this condition of payment is met. Claims for these services submitted
+   without a provisional affirmation decision will be denied.
+
+12. Q: What provider types require prior authorization for these services?
+
+   A: Only hospital OPD services require prior authorization as part of this program. Other
+   facility/provider types, such as physician’s offices, critical access hospitals, or
+   ambulatory surgery centers that submit claims other than type of bill 13X are not
+   required to submit prior authorization requests.
+
+13. Q: Are emergency department services subject to prior authorization?
+
+   A: No. CMS excludes the Emergency Department services from prior authorization
+   requirements when an outpatient service is submitted with an ET modifier or 045x
+   revenue code. These claims are not excluded from future pre-payment or postpayment
+   medical reviews.
+
+14. Q: Does the prior authorization requirement apply to Maryland waiver
+    hospitals?
+
+    A: Yes. The Maryland hospital waiver does not affect their OPD requirement to
+
+                                           3
+                                                                         November 14, 2024
+
+
+    participate in this program. Maryland OPDs are required to submit prior authorization
+    requests for the services listed in this program.
+
+15. Q: Where can I find the regulations implementing the Hospital OPD
+    Prior Authorization process?
+
+   A: The regulations are located at 42 CFR §§419.80-419.83.
+
+16. Q: Where can I find additional operational details related to prior authorization?
+
+   A: An operational guide with additional details is available within the download section
+   on the OPD Prior Authorization website.
+
+Prior Authorization Request Process
+
+17. Q: What form do I use to submit a prior authorization request, and is it available
+    on the website?
+
+   A: There is no specific form to request prior authorization. Your Medicare
+   Administrative Contractor (MAC) may make a cover sheet or other templates available
+   for voluntary use.
+
+18. Q: How can providers submit prior authorization requests/what methods can
+    be used?
+
+   A: Providers can submit prior authorization requests to their respective MAC by all of
+   the following methods: fax, mail, Electronic Submission of Medical Documentation
+   (esMD), and MAC electronic portals. For more information about esMD, see
+   http://www.cms.gov/esMD or contact your MAC.
+
+19. Q: How many days will it take to receive a prior authorization decision?
+
+   A: Beginning January 1, 2025, the standard review timeframe is up to seven (7) calendar
+   days from the date the prior authorization request is received.
+
+20. Q: What if I need a decision on my prior authorization request
+    sooner than 7 calendar days?
+
+   A: You can request an expedited review timeframe of up to two (2) business days if the
+   standard timeframe for making a decision could seriously jeopardize the life or health of
+   the beneficiary. The expedited request must include justification showing that the
+   standard timeframe would not be appropriate. If the MAC determines that the request
+   does not substantiate the need for an expedited review, they will provide notification and
+   communicate a decision within the regular timeframe.
+
+21. Q: Do the botulinum toxin J-codes listed in this program require prior
+
+                                           4
+                                                                          November 14, 2024
+
+
+   authorization when they are used for injection procedures other than 64612 and
+   64615?
+
+   A: No. Prior authorization is only required when one of the required Botulinum Toxin codes
+   (J0585, J0586, J0587, or J0588) is used in conjunction with one of the required CPT
+   injection codes (64612, injection of chemical for destruction of nerve muscles on one side of
+   face, or 64615, injection of chemical for destruction of facial and neck nerve muscles on both
+   sides of face). Use of these Botulinum Toxin codes in conjunction/paired with procedure
+   codes other than 64612 or 64615 will not require prior authorization under this program.
+
+
+Prior Authorization Request Process-Medical Review
+
+22. Q: Does the Prior Authorization process require new coverage or
+    documentation requirements?
+
+   A: No. Prior authorization does not create new coverage or documentation requirements.
+   Instead, regularly required documentation must be submitted earlier in the process.
+   Separate from the prior authorization process, MACs may develop Local Coverage
+   Decisions (LCD) specific to their jurisdiction. Providers should follow National
+   Coverage Determinations and their jurisdiction’s LCDs /Local Coverage Articles when
+   applicable.
+
+23. Q: What are the different decisions that a prior authorization request can
+    obtain, and how will this decision be communicated?
+
+   A: The MACs can either render a provisional affirmation decision, partial affirmation
+   decision, or a non-affirmation decision.
+       • A provisional affirmation decision is a preliminary finding that a future claim
+          submitted to Medicare for the item or service meets Medicare’s coverage,
+          coding, and payment requirements.
+
+       •   A non-affirmation decision is a preliminary finding that, if a future claim is
+           submitted for the item or service, it does not meet Medicare’s coverage, coding,
+           and payment requirements.
+
+       •   A provisional partial affirmation decision means that one or more service(s) on
+           the request received a provisional affirmation decision, and one or more
+           service(s) received a non-affirmation decision.
+
+       •   The MAC will send the hospital OPD provider a written decision (i.e.,
+           provisional affirmation, provisional partial affirmation, or non-affirmation) and,
+           if applicable, provide the detailed reasons for the non-affirmation decision. The
+           MAC will also share such information with beneficiaries.
+
+24. Q: I received a non-affirmation decision. What should I do?
+
+                                           5
+                                                                          November 14, 2024
+
+
+
+   A: The MAC will provide a detailed reason for a non-affirmation decision. Providers
+   should review the information provided and consider if there is additional
+   documentation that could address the non-affirmation decision upon resubmission of the
+   prior authorization request. Providers may also request additional information or
+   clarification from their MAC.
+
+25. Q: Will physicians and other related service practitioners receive a copy of the
+    prior authorization decision letter?
+
+   A: The requester (hospital OPD) and the beneficiary will receive a prior authorization
+   decision letter. Physicians and other practitioners who do not submit the prior
+   authorization request on behalf of the hospital OPD may obtain a copy of the decision
+   letter from the hospital OPD. Physicians/practitioners who submit the prior authorization
+   request on behalf of the OPD should include their contact information on the prior
+   authorization request cover sheet, in addition to the hospital OPD’s contact information.
+
+26. Q: What is a resubmitted request?
+
+   A: A resubmitted request is a subsequent prior authorization review request submitted
+   after the initial review request was submitted, reviewed, and a non-affirmation decision
+   was made. A request that is resubmitted with no additional documentation or
+   information will likely receive a non-affirmation decision.
+
+27. Q: Can non-affirmation decisions be appealed?
+
+   A: Provided the claim has not been submitted for payment, the provider may resubmit
+   the prior authorization request to their MAC an unlimited number of times. Non-
+   affirmation decisions are not considered initial determinations and cannot be appealed;
+   however, if a claim is submitted with a non-affirmation decision and is subsequently
+   denied, that is considered an initial determination and is appealable. MACs will review
+   all issues raised by the appellant on appeal and all relevant documentation to determine
+   whether the service is covered and payable.
+
+28. Q: Can I appeal a claim that did not go through prior authorization and
+    does not have UTN?
+
+   A: Failure to submit a prior authorization request for a service on the prior authorization
+   list will result in the denial of the service. These denials are considered initial
+   determinations that are subject to appeal. In processing an appeal of a claim for which
+   there was no submission of a prior authorization request, MACs will acknowledge the
+   issues raised by a party in the redetermination notice. MACs will consider whether there
+   was, in fact, a prior authorization request submitted for the OPD service as required in
+   regulation. If no prior authorization request was submitted, payment shall not be made
+   due to the failure to comply with a mandatory condition of payment, even if the item or
+   service is otherwise covered.
+
+                                           6
+                                                                          November 14, 2024
+
+
+
+29. Q: Will we be provided education on the reasons for the non-affirmation
+    prior authorization decision?
+    A: Yes. When the prior authorization request results in a non-affirmation decision, the
+    MAC will provide the requester with detailed information about missing or non-
+    compliant documentation that resulted in the non-affirmation decision.
+
+30. Q: Will these claims still be subject to additional postpayment reviews?
+
+   A: Generally, the claims that have a provisional affirmation decision will not be subject
+   to additional review; however, CMS contractors, including Unified Program Integrity
+   Contractors or MACs, may conduct targeted pre-and postpayment reviews if the
+   provider shows evidence of potential fraud or gaming. In addition, the Comprehensive
+   Error Rate Testing contractor must review a random sample of claims for postpayment
+   review for purposes of estimating the Medicare improper payment rate.
+
+Prior Authorization Request Process-Unique Tracking Number (UTN)
+
+31. Q: Will there be a tracking number for each prior authorization decision?
+
+   A: Yes. MACs will list the prior authorization UTN on the decision notice. The UTN
+   must be submitted on the claim in order to receive payment.
+
+       a. The submission of the prior authorized claim is to have the 14 bytes UTN that
+          is located on the decision letter. For submission of electronic claims, the UTN
+          must be in positions 1 through 18. When the claim enters the Fiscal
+          Intermediary Shared System (FISS), the UTN will move it to positions 19
+          through 32, and zeros will autofill the first field. For providers submitting
+          electronic claims, the Medicare Treatment Authorization field must contain
+          blanks or valid Medicare data in the first 14 bytes of the treatment
+          authorization field at the loop 2300 REF02 (REF01=G1) segment for the ASC
+          X12 837 claim.
+
+       b. For all other submissions, the provider must TAB to the second field of the
+          treatment authorization field (positions 19–32) and key the UTN.
+
+32. Q: How far in advance are we able to submit a prior authorization request from
+    the anticipated date of service?
+
+   A: A provisional affirmation is valid for 120 days from the date the decision was made.
+   If the date of service is not within 120 days of the decision date, the provider will need
+   to submit a new prior authorization request.
+
+33. Q: For how long is the UTN valid?
+
+   A: Each UTN is valid for 120 days. The decision date is counted as the first day of the
+
+                                           7
+                                                                         November 14, 2024
+
+
+   120 days. For example: if the prior authorization request affirmation decision is
+   documented on January 1, 2021, the prior authorization will be valid for dates of service
+   through April 30, 2021. After that, the provider will need to submit a new request.
+
+34. Q: Botulinum toxins can be injected for certain indications every 12 weeks. If
+    an affirmation UTN is valid for 120 days, can a provider bill for two separate
+    dates of services under one prior authorization request/UTN, or does each
+    separate procedure require a new prior authorization request/UTN regardless
+    if the next injection falls within 120 days?
+
+   A: Each procedure requires a new prior authorization request regardless of whether the
+   next service falls within 120 days. Each UTN for botulinum toxin injection is valid for
+   one claim.
+
+35. Q: Regarding vein ablations, these procedures may be staged. If all procedures
+    occur within 120 days, do providers need to submit a separate prior authorization
+    request for each procedure?
+
+   A: Each procedure requires a new prior authorization request regardless of whether the
+   next service falls within 120 days. Each UTN for vein ablation is valid for one claim.
+
+36. Q: Facet joint injections can be performed up to 4 times per rolling 12 months. If
+    the second or subsequent procedures occur within 120 days, do providers need to
+    submit a separate prior authorization request for each procedure?
+
+   A: Each procedure requires a new prior authorization request regardless of whether the
+   next service falls within 120 days. Each UTN for facet joint injections is valid for one
+   claim.
+
+37. Q: Can the same UTN be used for both trial and permanent spinal
+    neurostimulator implantation procedures?
+
+   A: Yes. The UTN received for the trial should be used on both trial and permanent
+   implantation claims when billing for CPT 63650 in the hospital OPD setting. Please
+   refer to Question #7 for spinal neurostimulators' prior authorization request submissions.
+
+38. Q: If multiple procedures that require prior authorization are to be performed
+    on the same day, should the prior authorization request include all
+    procedures?
+
+   A: The requestor should include all applicable procedures on the prior authorization
+   request. Each prior authorization request will receive a single UTN, regardless of the
+   number of procedures being requested.
+
+39. Q: If one procedure is affirmed and one is non-affirmed, will each procedure
+    receive a different UTN?
+
+                                           8
+                                                                             November 14, 2024
+
+
+
+       A: No. In the event of a partial affirmation, where one or more procedures receive an
+       affirmation decision and one or more receives a non-affirmation decision, there will be
+       only one UTN for the prior authorization request. The UTN will be encoded to match
+       the affirmation/non-affirmation decisions to the respective procedure and must be
+       included on the hospital OPD claim submitted for payment. Each service and decision
+       will be tracked and coded in the UTN. Claims submitted with non-affirmed procedures
+       will be denied.
+
+
+Exemption Process
+
+   40. Q: How will CMS exempt certain providers from the prior authorization
+       process? How can I obtain an exemption?
+
+       A: The CMS may elect to exempt a Part A provider from the prior authorization
+       process upon a provider’s demonstration of compliance with Medicare coverage,
+       coding, and payment rules, and that this exemption would remain in effect until CMS
+       elects to withdraw the exemption. Your MAC will calculate the affirmation rate of
+       initial prior authorization requests for all eight service categories combined and hospital
+       OPD providers will be notified if their affirmation rate is 90% or greater. Providers who
+       met the above compliance rate threshold will receive a written Notice of Exemption
+       through the US mail or MAC provider portal. Those hospital OPDs will be exempt
+       from submitting prior authorization requests. More detailed information about the
+       exemption process is available in the Operational Guide.
+
+   41. Q: Was the exemption cycle extended?
+
+       A: Yes. The exemption cycle for the hospital OPD providers was extended. The
+       exemption cycle will be year-long instead of biannually. Providers who are not exempt
+       and will meet the PAR compliance rate of 90% or greater will receive a written Notice
+       of Exemption through the US mail or MAC provider portal on or after November 2,
+       2022.
+
+   42. Q: When will I receive my Additional Documentation Request (ADR) to determine
+       continued compliance to remain exempt?
+
+       A: Exempt providers will receive a postpayment ADR for a 10-claim sample from the
+       period such providers were exempt on August 1 of each year to determine continued
+       compliance. Providers must have at least 10 claims submitted and paid by June 30 in
+       order to be considered for the continued exemption. If the exempt providers have less
+       than 10 claims submitted, their exemption status will be withdrawn.
+
+   43. Q: How can I opt out of the exemption process?
+
+       A: Hospital OPDs have the option to opt out of the exemption process and continue
+
+                                               9
+                                                                           November 14, 2024
+
+
+   submitting prior authorization requests. Hospital OPDs that choose to opt out must
+   submit an opt-out request to their MAC starting October 1 and no later than November
+   30 of each year. Late submissions will be rejected. OPD providers should contact their
+   MACs for more detailed information on the opt-out process.
+
+Claims Submission and Processing
+
+44. Q: The Rule states that any claims associated with or related to a service that
+    requires prior authorization for which a claim denial is issued would also be
+    denied. What types of associated services will be denied?
+
+   A: Associated/related (professional) services will be denied when there was a non-
+   affirmation prior authorization request decision for the hospital OPD service(s), or there
+   was no prior authorization request on file, and the hospital OPD claim was denied.
+   These associated services include but are not limited to, services such as anesthesiology
+   services, physician services, and/or facility services. The full list of associated codes is
+   available in Appendix B of the Operational Guide.
+
+45. Q: Are physicians and other associated providers required to submit the
+    UTN on their claims?
+
+   A: No. Only the hospital OPD is required to include the UTN on their claim, as the prior
+   authorization process is only applicable to hospital OPD services. The physician and
+   other billing practitioners should submit their claims as usual; however, claims related
+   to/associated with services that require prior authorization as a condition of payment will
+   not be paid if the service requiring prior authorization is not eligible for payment.
+
+46. Q: Are associated/related services, such as a physician service billed under the
+    Physician Fee Schedule, payable if the procedure requiring prior authorization is
+    not payable?
+
+   A: No. Associated/related services, such as physician services performed in hospital
+   OPDs, will not be paid for services that require prior authorization as a condition of
+   payment for hospital OPD claims if the service requiring prior authorization is not
+   eligible for payment. Claims from other places of service are not affected.
+
+47. Q: In some situations, a surgeon may change a procedure intraoperatively from
+    the planned procedure to one that was not prior authorized. What can providers
+    do to avoid receiving claim denials for these services and having to file an appeal?
+
+   A: If a service requiring prior authorization as a condition of payment is billed without
+   an associated affirmation decision, it will be denied. Providers may submit prior
+   authorization requests for multiple potential procedures if they believe that this could be
+   a possibility. It may be best to submit a prior authorization request with several potential
+   service codes; however, providers should be aware that this may result in a partial
+   affirmation decision if the documentation does not support the need for all of the
+
+                                           10
+                                                                        November 14, 2024
+
+
+   services requested.
+
+48. Q: Does this prior authorization process apply to patients with Medicare
+    Advantage plans?
+
+   A: No. This prior authorization process is only applicable to claims submitted to
+   Medicare Fee-for-Service.
+
+
+49. Q: Will patients who have Fee-for-Service Medicare secondary to other
+    insurance coverage require prior authorization for these services?
+
+   A: If the provider is seeking payment from Medicare as a secondary payer for an
+   applicable hospital OPD service, prior authorization is required. The provider or
+   beneficiary must include the UTN on the claim submitted to Medicare for payment.
+
+50. Q: If a hospital OPD submits a claim for a non-affirmed procedure and the
+    claim is denied, as well as claims for related physician services, must the
+    physician appeal separately, or can the hospital OPD appeal the associated
+    physician claim as well?
+
+   A: The appeal process has not changed. Each provider who determines that appealing a
+   denial decision is appropriate must file their own appeal.
+
+51. Q: What will happen to related physician or other practitioner claims if the
+    hospital OPD has not yet submitted its claim for the service requiring prior
+    authorization?
+
+   A: For services requiring prior authorization in this program, related service claims may
+   be held, and/or records may be requested for review to determine what action should be
+   taken on the claim.
+
+52. Q: Can we submit prior authorizations retroactively – meaning that the service
+    was already provided, but the claim has not yet been billed?
+
+   A: No. A prior authorization request must be submitted before the service is provided to
+   a beneficiary.
+
+53. Q: If the hospital OPD performed an applicable procedure but received a non-
+    affirmed prior authorization decision based on determination that service was
+    not medically reasonable and necessary, would this scenario qualify for issuance
+    of an Advance Beneficiary Notice of Non-coverage (ABN) to bill the service to the
+    patient?
+
+   A: An ABN must be issued in advance of performing the procedure if it is expected that
+   payment for a service will be denied by Medicare because the service is not medically
+
+                                          11
+                                                                             November 14, 2024
+
+
+   reasonable and necessary. (See Claims Processing Manual, Pub. 100-04, Chapter 30 for
+   additional information on ABNs.) The provider must submit the claim with a GA
+   modifier, and the MAC will review it to determine if the ABN was issued appropriately.
+
+54. Q: What will Medicare pay if the prior authorization request is non-
+    affirmed as the service is determined to be not medically reasonable and
+    necessary, and the patient signs an ABN?
+
+   A: Medicare will make no payment for claims submitted with a non-affirmation UTN
+   and/or with the GA modifier if an ABN has been properly executed. (See Claims
+   Processing Manual, Pub. 100-04, Chapter 30 for additional information on ABNs.)
+
+55. Q: If a hospital OPD does not request prior authorization for an applicable
+    procedure that they believe may be covered under Medicare, can the hospital issue
+    an ABN to the beneficiary?
+
+   A: No. An ABN would not be appropriate in a situation where a hospital bypasses the
+   prior authorization process. Medicare will deny the claim, and the hospital may not
+   charge the beneficiary.
+
+56. Q: If the physician determines that an applicable procedure is purely cosmetic
+    but the patient requests the hospital bill Medicare for the procedure, should the
+    hospital give an ABN in order to bill the patient for the services?
+
+   A: An ABN may be issued if the provider advises the beneficiary in advance that they
+   expect payment for a service to be denied by Medicare under the statutory exclusion for
+   cosmetic services. The provider should submit the claim with a GX modifier. The ABN
+   is voluntary, and is not required to bill the patient for the service if it is denied under the
+   cosmetic services exclusion. However, we encourage providers to issue an ABN in this
+   situation to inform the beneficiary of the likelihood of financial liability.
+
+57. Q: If the hospital performs an applicable procedure that is ordinarily
+    considered cosmetic but could be determined medically reasonable and
+    necessary for the patient’s specific condition, and the physician or hospital
+    believes that Medicare will deny the procedure as not medically reasonable
+    and necessary, should the beneficiary be given an ABN in order to be billed
+    for the services?
+
+   A: Yes. An ABN must be issued if the provider advises the beneficiary in advance that
+   they expect payment for a service to be denied by Medicare as not medically reasonable
+   and necessary. The provider should submit the claim with a GA modifier, and the MAC
+   will review it to determine if the ABN was issued appropriately.
+
+58. Q: How do you define a hospital outpatient department and/or hospital
+    outpatient department services?
+
+
+
+                                             12
+                                                                          November 14, 2024
+
+
+   A: The hospital outpatient department setting is defined as visits and/or
+   services/procedures paid for under the Medicare Outpatient Prospective Payment
+   System that are submitted with a type of bill 13x.
+
+59. Q: Is prior authorization required for CPT 21235 (obtaining ear cartilage
+    for grafting)?
+
+   A: No. CPT 21235 was originally in the list of hospital OPD services that require prior
+   authorization; however, in response to stakeholder feedback, we are removing this code
+   from the list, as it is commonly used in other procedures not related to rhinoplasty that
+   are not likely to be cosmetic in nature. This code will not require prior authorization as a
+   condition of payment.
+
+60. Q: Is prior authorization required for CPT 67911 (Correction of lid retraction)?
+
+   A: No. CPT 67911 was originally on the list of hospital OPD services that require prior
+   authorization; however, in response to stakeholders’ feedback and additional data
+   analysis, we are removing this code from the list, as it is not likely to be cosmetic in
+   nature, and commonly occurs secondary to another condition. This code will not require
+   prior authorization as a condition of payment.
+
+61. Q: Is prior authorization required for CPT codes 64492 and 64495 (facet
+    joint injections for third and additional level)?
+
+   A: According to the revised Local Coverage Determinations for Facet Joint
+   Interventions, three or four-level facet joint procedures are not medically necessary and
+   non-covered. Since prior authorization requests for 64492 and 64495 would result in
+   non-affirmative decisions, CMS removed these codes from the list of services that
+   require prior authorization.
+
+62. Q: Why was my claim for a facet joint intervention service denied when I had a
+    UTN with a provisional affirmation?
+
+    A: A claim with a provisionally affirmed UTN may be denied for technical
+   requirements that can only be evaluated after the claim has been submitted for formal
+   processing or for information not available at the time of a prior authorization request,
+   including if the frequency of the facet joint interventions exceeds the allowed limit.
+   Please see your local MAC’s LCD/LCA or OPD Operational Guide for more details.
+
+
+
+
+                                           13
+

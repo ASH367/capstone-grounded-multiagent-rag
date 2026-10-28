@@ -1,0 +1,103 @@
+{
+ "dev": {
+  "tfidf (M1 baseline)": {
+   "5": {
+    "exact": 0.303,
+    "related": 0.561,
+    "n": 11
+   },
+   "10": {
+    "exact": 0.485,
+    "related": 0.697,
+    "n": 11
+   }
+  },
+  "bm25": {
+   "5": {
+    "exact": 0.364,
+    "related": 0.652,
+    "n": 11
+   },
+   "10": {
+    "exact": 0.439,
+    "related": 0.879,
+    "n": 11
+   }
+  },
+  "lsa": {
+   "5": {
+    "exact": 0.394,
+    "related": 0.652,
+    "n": 11
+   },
+   "10": {
+    "exact": 0.515,
+    "related": 0.955,
+    "n": 11
+   }
+  },
+  "hybrid bm25+lsa": {
+   "5": {
+    "exact": 0.394,
+    "related": 0.742,
+    "n": 11
+   },
+   "10": {
+    "exact": 0.394,
+    "related": 0.924,
+    "n": 11
+   }
+  },
+  "hybrid bm25+tfidf": {
+   "5": {
+    "exact": 0.394,
+    "related": 0.652,
+    "n": 11
+   },
+   "10": {
+    "exact": 0.439,
+    "related": 0.879,
+    "n": 11
+   }
+  },
+  "hybrid bm25+tfidf+lsa": {
+   "5": {
+    "exact": 0.394,
+    "related": 0.652,
+    "n": 11
+   },
+   "10": {
+    "exact": 0.439,
+    "related": 0.879,
+    "n": 11
+   }
+  }
+ },
+ "chosen_on_dev": "lsa",
+ "test": {
+  "tfidf (M1 baseline)": {
+   "5": {
+    "exact": 0.556,
+    "related": 0.889,
+    "n": 9
+   },
+   "10": {
+    "exact": 0.722,
+    "related": 1.0,
+    "n": 9
+   }
+  },
+  "lsa": {
+   "5": {
+    "exact": 0.556,
+    "related": 0.889,
+    "n": 9
+   },
+   "10": {
+    "exact": 0.611,
+    "related": 1.0,
+    "n": 9
+   }
+  }
+ }
+}

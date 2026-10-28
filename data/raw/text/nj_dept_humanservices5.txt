@@ -1,0 +1,267 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+
+
+In the case of                            Claim for
+
+Commissioner, New Jersey                  Hospital Insurance Benefits
+Department of Human Services              (Part A)
+(Appellant)
+
+
+****                                      ****
+(Beneficiary)                             (HIC Number)
+
+
+National Government Services              ****
+(Contractor)                              (ALJ Appeal Number)
+
+The Administrative Law Judge (ALJ) issued a decision dated
+November 3, 2008, which concerned a claim for home skilled
+therapy services provided to the beneficiary from October 27,
+2005, to October 21, 2006 (ALJ Decision). The ALJ determined
+the claimed services were not covered by Medicare and held the
+appellant, not the beneficiary, liable for the cost of the
+provided services. The appellant has asked the Medicare Appeals
+Council to review this action for the claim of services provided
+from May 22, 2006, to September 26, 2006.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, since the appellant is not an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). As set forth below, the Council
+modifies the ALJ Decision.
+
+CASE BACKGROUND
+
+This appeal is brought by New Jersey’s Medicaid State agency (as
+statutory subrogee). The appeal is limited to the ALJ’s denial
+of coverage for 19 speech therapy sessions provided to the
+beneficiary between May 22, 2006 and September 26, 2006.1
+1
+  The claim originally comprised all home health skilled therapy services
+provided to the beneficiary from October 27, 2005 through October 21, 2006,
+but at the hearing the appellant withdrew its claim as to all services except
+                                                                            2
+
+
+
+
+The ALJ found, and the appellant does not contest, that the
+beneficiary was 38 years of age and suffering from brain injury,
+intracranial hemorrhage, and hypothyroidism during the relevant
+time period. ALJ Decision at 2, and record citations therein.
+Speech therapy orders were added to his care plan beginning with
+the certification period starting April 25, 2006. Id. The ALJ
+concluded that the beneficiary was homebound throughout the
+relevant period. ALJ Decision at 13.2
+
+The ALJ described the services at issue as intended to “address
+articulation skills and speech clarity.” Id. at 2. The ALJ
+denied coverage of speech therapy on the grounds that “there was
+no reasonable expectation of material improvement,” from the
+treatment. He based that finding on testimony from the
+provider’s Director of Quality Improvement that there was “no
+expectation of significant gains from speech therapy, even
+considering that some of the therapies may have been innovative
+and creative.” Id. at 13.
+
+APPLICABLE LAW
+
+The regulations provide that, in order to qualify for home
+health services, a beneficiary must be –
+
+   (a)   Confined to the home. The beneficiary must be confined
+         to the home . . . .
+   (b)   Under the care of a physician. The beneficiary must be
+         under the care of a physician who establishes the plan of
+         care. . . .
+   (c)   In need of skilled services. The beneficiary must need
+         at least one of the following skilled services as
+         certified by a physician in accordance with the physician
+
+44 physical therapy sessions and the 19 speech therapy sessions at issue
+here. The ALJ denied coverage of all the services, but the appellant
+expressly elected not to appeal as to the physical therapy services.
+Appellant’s Memorandum of Law in Support of Request to Review (RR Memo) at 1,
+n.1. Our decision therefore does not address or affect the resolution of the
+parts of the claim not before us on appeal.
+2
+  The original determination was based on a finding that the beneficiary was
+not homebound, while the reconsideration decision asserted that basis and
+also that the beneficiary had “plateaued in his advanced physical therapy” so
+that he was now receiving maintenance therapy. Ex. 1, at 669. The panel
+review attached to the reconsideration does not provide any substantiation or
+basis for finding the speech-language services, as opposed to the physical
+therapy, not reasonable or necessary because of any plateau or prior
+services. Id. at 648-659. The reconsideration decision merely makes the
+conclusory statement that “[o]verall, Medicare criteria were not met for the
+coverage of physical and speech therapies.” Id. at 662.
+                                                                    3
+
+
+
+
+        certification and recertification requirements for home
+        health services under § 424.22 of this chapter.
+                     *          *          *
+          (3) Speech-language pathology services that meet the
+          requirements of § 409.44(c).
+
+42 C.F.R. § 409.42.
+
+Section 409.44(c) requires, inter alia, that speech-language
+pathology services must “relate directly and specifically to a
+treatment regime . . . that is designed to treat the
+beneficiary’s illness or injury,” and not relate merely to
+general physical welfare, such as “exercises to promote overall
+fitness.” 42 C.F.R. § 409.44(c)(1). In addition, the speech-
+language pathology services must be reasonable and necessary,
+which includes the following components:
+
+     The services must be “specific, safe and effective
+      treatment for the beneficiary’s condition” under “accepted
+      standards of medical practice.
+
+     The services must be “of such a level of complexity and
+      sophistication or the condition of the beneficiary must be
+      such that” only a qualified speech-language pathologist may
+      perform them.
+
+     The beneficiary’s condition must be expected to “improve
+      materially in a reasonable (and generally predictable)
+      period of time” or must be “necessary to establish a safe
+      and effective maintenance program required in connection
+      with a specific disease,” or “the skills of a therapist
+      must be necessary to perform a safe and effective
+      maintenance program.”
+
+     The services must be reasonable in “amount, frequency, and
+      duration.”
+
+42 C.F.R. § 409.44(c)(2)(i)-(iv).
+
+ANALYSIS
+
+The appellant objects to the ALJ’s finding that there was no
+reasonable expectation of beneficiary improvement as unfounded
+and based solely on oral statements made by the provider’s
+representative at the hearing which conflict with the weight of
+the evidence in the record. A review of the record as a whole
+                                                                   4
+
+
+
+
+indicates that the ALJ’s finding is not supported by substantial
+evidence.
+
+The ALJ does not explain why he did not consider evidence from
+the medical records that the speech-language therapy was aimed
+at improving the beneficiary’s dysphagia in swallowing, rather
+than merely his speaking abilities. Nor does he explain why he
+did not credit evidence in the record, discussed below, of
+specific and measurable improvements which the beneficiary
+actually achieved in the course of the therapy.
+
+May 4, 2006 speech therapy notes in the record indicated that a
+speech therapist who had been working with the beneficiary on
+oral-motor abilities and articulation skills referred him to
+another practitioner with suitable equipment available to
+evaluate his suitability for stimulation therapy to address his
+swallowing problems. Ex. 7, at 500. The second speech-language
+pathologist assessed him on May 22, 2006, found reduced labial
+tone, strength and function, reduced lingual strength, reduced
+laryngeal elevation, and pooling of saliva in mouth. The
+speech-language pathologist recommended a barium swallow study
+for further assessment, which the physician added to the plan of
+care. Id. at 501, 540.
+
+Based on the results, dysphagia therapy was ordered twice a week
+for 8 weeks in the care plan signed by the physician. Ex. 8, at
+579. The notes of the subsequent therapy sessions document
+treatment with neuromuscular electrical stimulation, use of
+exercises with straws and musical instruments to train muscles,
+training in exercises and techniques to be tried between
+sessions in an effort to improve ability to swallow different
+consistencies and to increase function. Ex. 8, at 544-49. The
+therapist noted “increased ability to control secretions during
+eating,” and an ability to “sip from a smaller diameter straw,”
+and recommended a repeat barium swallow study to evaluate the
+beneficiary’s response to treatment after four weeks of
+treatment. Id. at 546, 547. The study completed on August 1,
+2002 “revealed significant improvement in bolus formation and
+oral stage of swallow” since the onset of the therapy. Id. at
+549.
+
+The physician prescribed continuing dysphagia therapy, including
+neuromuscular electrical stimulation, one to two times a week.
+Ex. 9, at 582. The therapy notes of the second four week period
+record “steady improvements,” and identify specific skills and
+abilities acquired and increased, such as the ability to purse
+                                                                   5
+
+
+
+
+lips, to blow bubbles, to drink thin liquids without coughing,
+to eat foods that he could not previously tolerate, to swallow
+capsules with a teaspoon of milk, and to complete phoneme
+repetition with less cuing. Ex. 9, at 584-588. Improvements in
+strength and function were observed. Id.
+
+The testimony of the home health provider representative at the
+hearing acknowledged that the beneficiary had made some progress
+in the dysphagia therapy using the new neuromuscular electrical
+stimulation approaches, but asserted that overall they did not
+expect his prognosis from the traumatic brain injury “overall”
+to improve significantly. She also asserted that the services
+were provided in good faith based on approval by the state
+Medicaid agency.
+
+The ALJ made no reference to the dysphagia goals and therapy and
+offered no reason to disregard the medical records indicating
+that measurable and significant improvement did occur. Nor did
+he explain why he concluded that no material benefit could be
+expected from a therapy which in fact yielded concrete benefits.
+That conclusion was the only basis on which the ALJ denied
+coverage, since he made no finding that the therapy was not
+otherwise reasonable and necessary. Nothing in the record
+suggests that the therapy was not a specific, safe and effective
+treatment for the beneficiary’s dysphagia, that the services
+could have been delivered by anyone other than a skilled speech-
+language therapist, or that the frequency and duration of the
+services was unreasonable.
+
+CONCLUSION
+
+For the reasons explained above, we modify the ALJ Decision only
+as to the 19 speech-language pathology services provided between
+May 22, 2006 and September 26, 2006. We conclude that those
+services were medically reasonable and necessary and were
+covered under Medicare. We do not disturb the ALJ’s conclusions
+                                                                  6
+
+
+
+
+as to the other home health services that were at issue before
+him.
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Leslie Sussan
+                                   Board Member
+
+
+
+                                   /s/ Gilde Morrisson
+                                   Administrative Appeals Judge
+
+Date: May 5, 2009
+

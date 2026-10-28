@@ -1,0 +1,2176 @@
+9/4/26, 6:58 PM                                                                                    LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+
+
+            Local Coverage Determination (LCD)
+
+
+       Facet Joint Interventions for Pain
+       Management
+       L38765
+
+       Links in PDF documents are not guaranteed to work. To follow a web link, please use the MCD Website.
+
+
+
+       Contractor Information
+
+                  Contractor                                                      Contract
+
+                  Name                         Contract Type                      Number          Jurisdiction           States
+
+
+
+
+                  Palmetto GBA                A and B MAC                         10111 - MAC A   J-J                    Alabama
+
+
+                  Palmetto GBA                A and B MAC                         10112 - MAC B   J-J                    Alabama
+
+
+                  Palmetto GBA                A and B MAC                         10211 - MAC A   J-J                    Georgia
+
+
+                  Palmetto GBA                A and B MAC                         10212 - MAC B   J-J                    Georgia
+
+
+                  Palmetto GBA                A and B MAC                         10311 - MAC A   J-J                    Tennessee
+
+
+                  Palmetto GBA                A and B MAC                         10312 - MAC B   J-J                    Tennessee
+
+
+                  Palmetto GBA                A and B and HHH                     11201 - MAC A   J-M                    South
+                                              MAC                                                                        Carolina
+
+
+                  Palmetto GBA                A and B and HHH                     11202 - MAC B   J-M                    South
+                                              MAC                                                                        Carolina
+
+
+                  Palmetto GBA                A and B and HHH                     11301 - MAC A   J-M                    Virginia
+                                              MAC
+
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                           1/43
+9/4/26, 6:58 PM                                                                                    LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+
+                  Contractor                                                      Contract
+
+                  Name                         Contract Type                      Number          Jurisdiction           States
+
+
+
+
+                  Palmetto GBA                A and B and HHH                     11302 - MAC B   J-M                    Virginia
+                                              MAC
+
+
+                  Palmetto GBA                A and B and HHH                     11401 - MAC A   J-M                    West Virginia
+                                              MAC
+
+
+                  Palmetto GBA                A and B and HHH                     11402 - MAC B   J-M                    West Virginia
+                                              MAC
+
+
+                  Palmetto GBA                A and B and HHH                     11501 - MAC A   J-M                    North
+                                              MAC                                                                        Carolina
+
+
+                  Palmetto GBA                A and B and HHH                     11502 - MAC B   J-M                    North
+                                              MAC                                                                        Carolina
+
+
+
+
+       LCD Information
+
+            Document Information
+            LCD ID
+
+            L38765
+
+            LCD Title
+
+            Facet Joint Interventions for Pain Management
+
+            Proposed LCD in Comment Period
+
+            N/A
+
+            Source Proposed LCD
+
+            DL38765
+
+            Original Effective Date
+
+            For services performed on or after 04/25/2021
+
+            Revision Effective Date
+
+            For services performed on or after 04/09/2026
+
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                           2/43
+9/4/26, 6:58 PM                                                                                       LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+            Revision Ending Date
+
+            N/A
+
+            Retirement Date
+
+            N/A
+
+            Notice Period Start Date
+
+            05/23/2024
+
+            Notice Period End Date
+
+            07/06/2024
+
+
+            CPT codes, descriptions, and other data only are copyright 2025 American Medical Association. All Rights Reserved. Fee
+            schedules, relative value units, conversion factors and/or related components are not assigned by the AMA, are not part of
+            CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or dispense
+            medical services. The AMA assumes no liability for data contained or not contained herein. CPT is a registered trademark of
+            the American Medical Association.
+
+            Current Dental Terminology © 2025 American Dental Association. All rights reserved.
+
+            Copyright © 2026, the American Hospital Association, Chicago, Illinois. Reproduced with permission. No portion of the AHA
+            copyrighted materials contained within this publication may be copied without the express written consent of the AHA.
+            AHA copyrighted materials including the UB‐04 codes and descriptions may not be removed, copied, or utilized within any
+            software, product, service, solution, or derivative work without the written consent of the AHA. If an entity wishes to utilize
+            any AHA materials, please contact the AHA at ub04@aha.org or 312‐422‐3366.
+
+            Making copies or utilizing the content of the UB‐04 Manual, including the codes and/or descriptions, for internal purposes,
+            resale and/or to be used in any product or publication; creating any modified or derivative work of the UB‐04 Manual and/or
+            codes and descriptions; and/or making any commercial use of UB‐04 Manual or any portion thereof, including the codes
+            and/or descriptions, is only authorized with an express license from the American Hospital Association. The American
+            Hospital Association (the "AHA") has not reviewed, and is not responsible for, the completeness or accuracy of any
+            information contained in this material, nor was the AHA or any of its affiliates, involved in the preparation of this material,
+            or the analysis of information provided in the material. The views and/or positions presented in the material do not
+            necessarily represent the views of the AHA. CMS and its products and services are not endorsed by the AHA or any of its
+            affiliates.
+
+
+
+
+            Issue
+            Issue Description
+
+            This LCD outlines limited coverage for this service with specific details under Coverage
+            Indications, Limitations and/or Medical Necessity.
+
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                              3/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+            Issue - Explanation of Change Between Proposed LCD and Final LCD
+
+            Allowing medical branch block (MBB) for RFA has been added to the summary of evidence
+            section with rationale for decision explained. The coverage was changed to allow MBB
+            when applicable. Under Facet Cyst Aspiration/Rupture, clarification of per individual cyst
+            was added. Under Limitations #3, added “or cyst rupture/aspiration” and clarified moderate
+            sedation verbiage. Under Limitations #8, changed “or” to “and.”
+
+
+
+            CMS National Coverage Policy
+            Title XVIII of the Social Security Act, §1861(s)(2) addresses medical and other health
+            services.
+
+            Title XVIII of the Social Security Act, §1862(a)(1)(A) allows coverage and payment for only
+            those services that are considered to be reasonable and necessary for the diagnosis or
+            treatment of illness or injury or to improve the functioning of a malformed body member.
+
+            Title XVIII of the Social Security Act, §1862(a)(7) excludes routine physical examinations.
+
+            Title XVIII of the Social Security Act, §1862(a)(14) defines other than physician services.
+
+            42 CFR §410.74 defines physician assistants' services, §410.75 defines nurse practitioners'
+            services, §410.76 defines clinical nurse specialists' services, and §419.22 defines hospital
+            services excluded from payment under the hospital outpatient prospective payment system.
+
+            CMS Internet-Only Manual, Pub. 100-02, Medicare Benefit Policy Manual, Chapter 15, §50
+            Drugs and Biologicals
+
+            CMS Internet-Only Manual, Pub. 100-03, Medicare National Coverage Determinations (NCD)
+            Manual, Chapter 1, Part 1, §30.3 Acupuncture; Part 2, §150.7 Prolotherapy, Joint
+            Sclerotherapy, and Ligamentous Injections with Sclerosing Agents; and Part 4, §220.1
+            Computed Tomography (CT)
+
+            CMS Internet-Only Manual, Pub. 100-08, Medicare Program Integrity Manual, Chapter 13,
+            §13.5.4 Reasonable and Necessary Provisions in LCDs
+
+
+
+            Coverage Guidance
+            Coverage Indications, Limitations, and/or Medical Necessity
+
+            Facet joint interventions generally consist of 4 types of procedures: intra-articular (IA) facet
+            joint injections, medial branch blocks (MBB), radiofrequency ablations (RFA) and facet cyst
+            rupture/aspiration.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                          4/43
+9/4/26, 6:58 PM                                                                            LCD - Facet Joint Interventions for Pain Management (L38765)
+
+            Facet joint interventions are considered medically reasonable and necessary for the
+            diagnosis and treatment of chronic pain in patients who meet ALL the following criteria:
+
+                  1. Moderate-to-severe chronic neck or low back pain, predominantly axial, that causes functional
+                     deficit measured on pain or disability scale*
+                  2. Pain present for minimum of 3 months with documented failure to respond to non-invasive
+                     conservative management (as tolerated)
+                  3. Absence of untreated radiculopathy or neurogenic claudication (except for radiculopathy caused by
+                     facet joint synovial cyst)
+                  4. There is no non-facet pathology per clinical assessment or radiology studies that could explain the
+                     source of the patient’s pain, including but not limited to fracture, tumor, infection, or significant
+                     deformity
+
+            *Pain assessment must be performed and documented at baseline, after each diagnostic
+            procedure using the same pain scale for each assessment. A disability scale must also be
+            obtained at baseline to be used for functional assessment (if patient qualifies for
+            treatment).
+
+                  A. Diagnostic Facet Joint Procedures (IA or MBB):
+                    The primary indication of a diagnostic facet joint procedure is to diagnose whether the
+                    patient has facet syndrome. IA facet block(s) are considered reasonable and necessary
+                    as a diagnostic test only if MBBs cannot be performed due to specific documented
+                    anatomic restrictions or there is an indication to proceed with therapeutic IA injections.
+                    These restrictions must be clearly documented in the medical record and made available
+                    upon request.
+
+                    Diagnostic procedures should be performed with the intent that if successful, RFA
+                    procedure would be considered the primary treatment goal at the diagnosed level(s).
+
+                    A second diagnostic facet procedure is considered medically necessary to confirm
+                    validity of the initial diagnostic facet procedure when administered at the same level.
+                    The second diagnostic procedure may only be performed a minimum of 2 weeks after
+                    the initial diagnostic procedure. Clinical circumstances that necessitate an exception to
+                    the 2-week duration may be considered on an individual basis and must be clearly
+                    documented in the medical record.
+
+                             a. For the first diagnostic facet joint procedure to be considered medically
+                                reasonable and necessary, the patient must meet the criteria outlined under
+                                indications for facet joint interventions.
+                             b. A second confirmatory diagnostic facet joint procedure is considered medically
+                                reasonable and necessary in patients who meet ALL the following criteria:
+                                   i. The patient meets the criteria for the first diagnostic procedure; AND
+                                  ii. After the first diagnostic facet joint procedure, there must be a consistent
+                                      positive response of at least 80% relief of primary (index) pain (with the
+                                      duration of relief being consistent with the agent used)
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                   5/43
+9/4/26, 6:58 PM                                                                       LCD - Facet Joint Interventions for Pain Management (L38765)
+
+                    Frequency Limitation: For each covered spinal region no more than 4 diagnostic joint
+                    sessions will be reimbursed per rolling 12 months, in recognition that the pain generator
+                    cannot always be identified with the initial and confirmatory diagnostic procedure.
+
+                  B. Therapeutic Facet Joint Procedures (IA or MBB):
+                    Therapeutic facet joint injections are considered medically reasonable and necessary for
+                    patients who meet ALL the following criteria:
+
+                             a. The patient has had 2 medically reasonable and necessary diagnostic facet
+                                joint procedures with each 1 providing a consistent minimum of 80% relief of
+                                primary (index) pain (with the duration of relief being consistent with the agent
+                                used) AND
+                             b. Subsequent therapeutic facet joint procedures at the same anatomic site
+                                results in at least consistent 50% pain relief for at least 3 months from the prior
+                                therapeutic procedure or at least 50% consistent improvement in the ability to
+                                perform previously painful movements and activities of daily living (ADLs) as
+                                compared to baseline measurement using the same scale; AND
+                             c. Documentation of why the patient is not a candidate for RFA (such as
+                                established spinal pseudarthrosis, implanted electrical device)
+                            Frequency Limitation: For each covered spinal region no more than 4 therapeutic
+                            facet joint sessions will be reimbursed per rolling 12 months.
+
+                  C. Facet Joint Denervation:
+
+                    The thermal radiofrequency destruction of cervical, thoracic, or lumbar paravertebral
+                    facet joint (medial branch (MB)) nerves are considered medically reasonable and
+                    necessary for patients who meet the following criteria:
+
+                             a. Initial thermal radiofrequency destruction after the patient has had at least 2
+                                medically reasonable and necessary diagnostic MBBs, with each 1 providing a
+                                consistent minimum of 80% sustained relief of primary (index) pain (with the
+                                duration of relief being consistent with the agent used)
+                             b. Repeat thermal facet joint RFA at the same anatomic site is considered
+                                medically reasonable and necessary provided the patient had a minimum of
+                                consistent 50% improvement in pain for at least 6 months or at least 50%
+                                consistent improvement in the ability to perform previously painful movements
+                                and ADLs as compared to baseline measurement using the same scale.
+                            Frequency Limitation: For each covered spinal region no more than 2
+                            radiofrequency sessions will be reimbursed per rolling 12 months.
+
+                  D. Facet Cyst Aspiration/Rupture:
+
+                     IA facet joint injection performed with synovial cyst aspiration is considered medically
+                     necessary when both of the following criteria are met:
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                              6/43
+9/4/26, 6:58 PM                                                                             LCD - Facet Joint Interventions for Pain Management (L38765)
+
+                       1. Advanced diagnostic imaging study (e.g., magnetic resonance imaging (MRI)/ computed
+                          tomography (CT)/myelogram) confirms compression or displacement of the corresponding
+                          nerve root by a facet joint synovial cyst; AND
+                       2. Clinical and physical symptoms related to synovial facet cyst are documented.
+
+                     Frequency Limitation: Cyst aspiration/rupture may be repeated once per individual cyst
+                     and only if there is 50% or more consistent improvement in pain for at least 3 months.
+
+            Limitations
+
+
+                  1. Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable
+                     and necessary. This includes facet joint interventions done without any guidance, performed under
+                     ultrasound guidance, or with MRI.
+                  2. Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not
+                     considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst
+                     aspiration/rupture.1
+                  3. The use of moderate sedation for RFA or cyst rupture/aspiration will be considered in individual
+                     cases with documentation of medical necessity such as a longstanding well-documented history of
+                     inability to cooperate, medical conditions that would prohibit performance of the procedure, or
+                     inability to remain motionless. Patient anxiety or preference alone is not sufficient justification.
+                     Routine use of moderate sedation or MAC or use of general anesthesia or deep sedation for RFA is
+                     not considered reasonable and necessary.1
+                  4. It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar
+                     spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1
+                     spinal region per session.
+                  5. It is not routinely necessary for multiple blocks (e.g., epidural injections, sympathetic blocks, trigger
+                     point injections, etc.) to be provided to a patient on the same day as facet joint procedures. Multiple
+                     blocks on the same day could lead to improper or lack of diagnosis. If performed, the medical
+                     necessity of each injection (at the same or at different level[s]) must be clearly documented in the
+                     medical record. For example, the performance of both paravertebral facet joint procedure(s) and a
+                     transforaminal epidural steroid injection (TFESI) at the same or close spinal level at the same
+                     encounter would not be expected unless a synovial cyst is compressing the nerve root. In this
+                     situation, TFESI may provide relief for the radicular pain, while the facet cyst rupture allows nerve
+                     root decompression. Frequent reporting of multiple blocks on the same day may trigger a focused
+                     medical review.
+                  6. Facet joint IA injections and MBBs may involve the use of anesthetic, corticosteroids, anti-
+                     inflammatories and/or contrast agents, and does not include injections of biologicals or other
+                     substances not Food and Drug Administration (FDA) designated for this use.
+                  7. One to 2 levels, either unilateral or bilateral, are allowed per session per spine region. Three or 4-
+                     level procedures are not medically necessary and therefore are non-covered. A session is a time
+                     period, which includes all procedures (i.e., MBBs, IA injections, facet cyst ruptures, and RFAs) that are
+                     performed during the same day.
+                  8. If there is an extended time, 2 years or more, since the last RFA and there is a question as to the
+                     source of the recurrent pain then diagnostic procedures must be repeated.
+                  9. Therapeutic facet injections are not covered unless there is justification in the medical documentation
+                     on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized
+                     pain conditions (such as fibromyalgia) or chronic centralized pain syndromes are considered not
+                     reasonable and necessary. Individual consideration may be considered under unique circumstances
+                     and with sufficient documentation of medical necessity on appeal.
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                    7/43
+9/4/26, 6:58 PM                                                                            LCD - Facet Joint Interventions for Pain Management (L38765)
+
+              10. In patients with implanted electrical devices, providers must follow manufacturer instructions and
+                  extra planning as indicated to ensure safety of procedure.
+
+            The following are considered not reasonable and necessary and therefore, will be denied:
+
+                  1. IA and extra-articular facet joint prolotherapy
+                  2. Non-thermal modalities for facet joint denervation including chemical, low-grade thermal energy
+                     (less than 80 degrees Celsius), laser neurolysis, and cryoablation
+                  3. Intra-facet implants
+                  4. Facet joint procedure performed after anterior lumbar interbody fusion (ALIF).
+                  5. Definitive clinical and/or imaging findings pointing to a specific diagnosis other than facet joint
+                     syndrome
+                  6. Diagnostic injections or MBB at the same level as the previously successful RFA procedure
+
+            Note: The scales used for measurement of pain and/or disability must be documented in the
+            medical record. Acceptable scales include but are not limited to: verbal rating scales,
+            Numerical Rating Scale (NRS) and Visual Analog Scale (VAS) for pain assessment, and Pain
+            Disability Assessment Scale (PDAS), Oswestry Disability Index (ODI), Oswestry Low Back
+            Pain Disability Questionnaire (OSW), Quebec Back Pain Disability Scale (QBPDS), Roland
+            Morris Pain Scale (RDQ), Back Pain Functional Scale (BPFS), and the Patient-Reported
+            Outcomes Measurement Information System (PROMIS®) profile domains to assess function.
+
+            Notice: Services performed for any given diagnosis must meet all the indications and
+            limitations stated in this policy, the general requirements for medical necessity as stated in
+            CMS payment policy manuals, all existing CMS national coverage determinations (NCDs),
+            and all Medicare payment rules.
+
+            Provider Qualifications:
+
+
+            Medicare Program Integrity Manual states services will be considered medically reasonable
+            and necessary only if performed by appropriately trained providers.
+
+            Patient safety and quality of care mandate that healthcare professionals who perform facet
+            injections/procedures are appropriately trained and/or credentialed by a formal
+            residency/fellowship program and/or are certified by either an accredited and nationally
+            recognized organization or by a post-graduate training course accredited by an established
+            national accrediting body or accredited professional training program. If the practitioner
+            works in a hospital facility at any time and/or is credentialed by a hospital for any procedure,
+            the practitioner must be credentialed to perform the same procedure in the outpatient
+            setting. At a minimum, training must cover and develop an understanding of anatomy and
+            drug pharmacodynamics and kinetics as well as proficiency in diagnosis and management
+            of disease, the technical performance of the procedure, and utilization of the required
+            associated imaging modalities.
+
+            In addition to the above requirements, non-physician providers, such as certified nurse
+            anesthetists, with certain exceptions, may certify, order and establish the plan of care as
+            authorized by state law. (See Sections 1861[s][2] and 1862[a][14] of Title XVIII of the Social
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                   8/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+            Security Act; 42 CFR, Sections 410.74, 410.75, 410.76 and 419.22; 58 FR 18543, April 7,
+            2000.) Each practitioner must provide only those services within the scope of practice for
+            each state.
+
+            Definitions
+
+
+            Acute pain - The temporal definition of pain persisting for up to 4 weeks after the onset of
+            the pain.
+
+            Axial - Relating to or situated in the central part of the body, in the head and trunk as
+            distinguished from the limbs, e.g., axial skeleton.
+
+            Biopsychosocial model - Interdisciplinary model that looks at the interconnection between
+            biology, pathology and socioenvironmental factors.
+
+            Central neuropathic pain - Pain, which is causally related to a lesion or disease of the central
+            somatosensory nerves.
+
+            Centralized pain – A neurological chronic pain syndrome of the central nervous system
+            (brain, brainstem, and spinal cord) which commonly presents with widespread generalized
+            allodynia which is causally related to the increased responsiveness of nociceptive nerves in
+            the central nervous system to the normal threshold or subthreshold simulation from the
+            afferent nerves. The condition has also been called “central sensitization,” “central
+            amplification,” and “central pain syndrome.” Fibromyalgia is considered one of the most
+            common centralized pain syndromes.
+
+            Cervical facet pain - Pain located in the cervical spine, which may be characterized by
+            chronic headaches, restricted motion, and axial neck pain, which may radiate sub-occipitally
+            to the shoulders or mid-back.
+
+            Chronic pain - The temporal definition of pain persisting for greater than or equal to 12
+            weeks after the onset of the pain.
+
+            Dual diagnostic blocks - The diagnostic technique of injecting the same spinal nerve on 2
+            separate occasions to be used as an efficacy comparison to increase diagnostic accuracy.
+
+            Epidural steroid injection - The administration via injection of steroid medicine into the
+            potential epidural space in the spinal column to deliver steroids to the spinal nerves.
+
+            Facet joint intra-articular injections, diagnostic - The placement of local anesthetic and
+            possibly a corticosteroid into the facet joint to diagnose facet joint pain.
+
+            Facet joint intra-articular injections, therapeutic - The placement of local anesthetic and
+            possibly a corticosteroid into the facet joint to produce the beneficial effect of pain reduction.
+
+            Facet joint - A diarthrodial joint in the spinal column (also called the zygapophysial joint or z-
+            joint), producing the articulation of the posterior elements of 1 vertebra with its neighboring
+            vertebra. They are bilateral superior and inferior articular surfaces at each spinal level. The
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                          9/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+            terminology or nomenclature of the facet joint is classified by the specific vertebrae level that
+            forms it (e.g., C4-5 or L2-3). There are 2 facet joints, right and left, at each spinal level.
+
+            Facet injection (also called facet block) - A general term used to describe the injection of
+            local anesthetic and possibly a corticosteroid in the facet joint capsule or along the MB
+            nerves supplying the facet joints.
+
+            Facet joint denervation or radiofrequency ablation (RFA) - A general term used to describe
+            the minimally invasive procedure that uses thermal energy generated by the radiofrequency
+            current to deprive the facet joint of its nerve supply. The procedure is also known as a MB
+            radiofrequency neurotomy (ablation) because it is used to thermally remove the MB nerve by
+            using electrical current to create thermal energy to coagulate the adjacent tissues around
+            the targeted MB nerve.
+
+            Facet joint syndrome - A set of concurrent signs or symptoms to describe facet joint pain as
+            the pain generator. The typical clinical signs or symptoms of a facet syndrome may include
+            local paraspinal tenderness; pain that is brought about or increased on hyperextension,
+            rotation, and lateral bending; low back stiffness; absence of neurologic deficit; absence of
+            root tension signs (non-radiating below the knee, absence of paresthesia). Cervical facet
+            pain is often characterized by chronic headaches, restricted motion, and axial neck pain,
+            which may radiate sub-occipitally to the shoulders or mid-back.
+
+            Facet level - Refers to the zygapophyseal joint or the 2 MB nerves that innervate that
+            zygapophyseal joint. Each level has a pair of facet joints: 1 on the right side and 1 on the left
+            side of the spine.
+
+            Intra-articular injection (IA) - The injection of local anesthetic and possibly a corticosteroid
+            into the facet joint capsule.
+
+            Medial branch (MB) - The dorsal ramus is the dorsal branch of a spinal nerve that forms
+            from the dorsal root of the nerve after it emerges from the spinal cord.
+
+            Medial branch block (MBB) – The placement of local anesthetic and possibly a corticosteroid
+
+            near the MB nerve which supplies the sensory innervation to a specific facet joint.
+
+            Neuropathic pain – The pain which is caused by a lesion or disease of the somatosensory
+
+            nerves.
+
+            Neurogenic claudication - Intermittent leg pain from impingement of the nerves emanating
+            from the spinal cord (also called pseuduoclaudication).
+
+            New onset of spinal pain - The new onset of the spinal pain must be materially and
+
+            significantly different in location, type, duration and character from the previously treated
+            spine pain.
+
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         10/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+            Non-invasive conservative management - The use of nonsteroidal anti-inflammatory drugs
+
+            (NSAIDs), acetaminophen, physical therapy, acupuncture (applies to only chronic low back
+            pain), or spinal manipulation. This management should include the application of
+            biopsychosocial treatment techniques.
+
+            Non-radicular back pain - The radiating non-neuropathic pain which is not causally related
+
+            to a spinal nerve root irritation and does not produce reproducible neuropathic symptoms in
+            an objective dermatomal pattern.
+
+            Peripheral neuropathic pain - Pain, which is causally related to a lesion or disease of the
+
+            peripheral somatosensory nerves.
+
+            Radicular back pain - The radiating neuropathic pain causally related to the spinal nerve
+
+            root irritation which extends into the distal distribution, typically the lower extremity,
+            producing neuropathic pain in a dermatomal pattern.
+
+            Radiculopathy - Radiating neuropathic pain causally related to the spinal nerve root
+
+            irritation, which extends distal producing neuropathic pain in a dermatomal pattern.
+
+            Region - The segments of the back involved will be defined in this policy as 2 regions:
+
+
+                  1. Cervical/Thoracic region= C1-C7/T1-T12
+                  2. Lumbar/Sacral region= L1-L5/S1-S5
+
+            Session - A time period, which includes all procedures (i.e., MBBs, IA injections, facet cyst
+
+            ruptures, and RFAs) performed during 1 day.
+
+            Subacute pain - The temporal definition of pain occurring during the 4-12-week time period.
+
+
+            Transforaminal epidural steroid injection (TFESI) - An epidural injection performed via a
+
+            paramedian approach to enter the epidural space by placing the needle in the posterior-
+            superior quadrant of the intervertebral foramen (neuroforamen) to inject near the dorsal root
+            ganglion and exiting spinal nerve root (previously known as a selective nerve root block).
+
+            Zygapophysial joint or z-joint - See Facet joint.
+
+
+
+
+            History/Background and/or General Information
+
+
+            The spine is the most common source of chronic pain. Chronic axial spinal pain is one of the
+            major causes of disability and accounts for a substantial United States (U.S.) health burden.
+            Chronic spine pain poses a peculiar diagnostic and therapeutic challenge due to multiple
+            pain sources, overlapping clinical features, and nonspecific radiological findings.
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         11/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+            The facet joints can cause axial spinal pain and referred pain in the extremities. The
+            pathology of the pain source is due to facet joints being richly innervated by the nerve fibers
+            from the MB of the dorsal ramus of spinal nerves. Each facet has a dual nerve supply. One
+            exception is at the C2–C3 zygapophysial joint, which has a singular nerve supply from the
+            third occipital nerve (the superficial MB of C3 dorsal ramus).2
+
+            Facet joint interventions may be used in pain management for chronic cervical/thoracic and
+            back pain arising from the paravertebral facet joints. The facet block procedure is an
+            injection of a local anesthetic, with or without a steroid medication, either into the facet joint
+            (IA) or outside the joint space around the nerve supply to the joint (the MB nerve) known as
+            medial branch block (MBB). Imaging guidance (fluoroscopy or CT per code descriptor) is
+            used to assure accurate placement of the needle for the injection. Paravertebral facet joint
+            denervation is a therapeutic intervention used to provide both long-term pain relief and
+            reduce the likelihood of recurrence of chronic cervical/thoracic or back pain confirmed as
+            originating in the facet joint’s MB nerve.2
+
+            There are various methods that may be used in performing facet joint denervation.
+            Percutaneous RFA is a minimally invasive procedure done with imaging guidance
+            (fluoroscopy or CT per code descriptor) and involves using energy in the radiofrequency
+            range to cause necrosis of specific nerves (MBs of the dorsal rami), preventing the neural
+            transmission of pain. Conventional RFA (non-pulsed or continuous) applies thermal energy
+            of typically 80 to 85 degrees Celsius. The terms RFA and radiofrequency neurotomy are used
+            interchangeably. Both terms refer to a procedure that destroys the functionality of the nerve
+            using radiofrequency energy. Non-thermal methods of denervation include chemical
+            (chemodenervation), low-grade thermal energy (less than 80 degrees Celsius), pulsed RFA,
+            laser neurolysis, and cryoablation.2
+
+            Throughout this document, societal recommendations with the grading of evidence are
+            referenced. There are multiple systems to grade or rank the quality of medical evidence and
+            develop evidence-based recommendations. Not all grading systems are equivalent, so while
+            there are typically similarities in the grades or recommendations from various grading
+            systems, they must be considered independent of the other. The references in this document
+            refer to the following grading systems:
+
+                  1. Grades of Recommendation, Assessment, Development, and Evaluation (GRADE)
+                    Guidelines used in some systematic reviews, the basis for North American Spine Society
+                    (NASS) recommendations aligns with GRADE.
+
+                  2. A modified approach to the grading of evidence3 and development of interventional
+                    pain management specific instrument4 used in American Society of Interventional Pain
+                    Physicians (ASIPP) Guidelines and some systematic reviews.
+
+                  3. U.S. Preventive Services Task Force grading of evidence guidelines used by 2020
+                    Consensus Guidelines by Cohen, et al.5
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         12/43
+9/4/26, 6:58 PM                                                                      LCD - Facet Joint Interventions for Pain Management (L38765)
+
+                  4. Levels of Evidence for Primary Research Question and Grades of Recommendation for Summaries or
+                     Review of Studies adopted by NASS.6
+
+            A multi-MAC Subject Matter Expert (SME) panel on facet joint and medial nerve branch
+            procedures meeting was held on 5/28/2020.
+
+            Summary of Evidence
+
+            Diagnostic Facet Joint Injections
+
+            Due to the lack of reliable history, physical exam, or imaging to predict response, providers
+            must rely on facet interventions diagnostic injections given for diagnostic purposes to
+            determine if the facet joint is the source of suspected spinal pain. There is controversy over
+            optimal patient selection for diagnostic injections, which measures successful response and
+            type and number of diagnostic injections performed.
+
+            Numerous investigations have been undertaken to correlate symptoms and physical exam
+            findings with facet pathology and have concluded conventional clinical findings are
+            unreliable in identifying facet joint success.5,7,8 A 2020 summary of the literature by Cohen,
+            et al. “Consensus practice guidelines on interventions for lumbar facet joint pain from a
+            multispecialty, international working group” (2020 Consensus Guidelines) included 21
+            studies evaluating the association of physical exam findings with facet block results, and
+            conclude there was no historical or physical exam findings that could reliably predict
+            response to facet joint blocks, grade C evidence, low level of certainty.5 This is consistent
+            with ASIPP 2020 “Comprehensive Evidence-Based Guidelines for Facet Joint Interventions in
+            the Management of Chronic Spinal Pain: American Society of Interventional Pain Physicians
+            (ASIPP) Guidelines" (2020 ASIPP Guidelines) which rated accurate diagnosis of facet joint
+            pain with physical examination and symptoms level IV with a weak strength of
+            recommendation.8 2020 NASS Guidelines reported insufficient evidence to make a
+            recommendation for or against patient-reported reproduction of pain during a facet joint
+            injection as a predictor of response to dual diagnostic blocks with a grade 1
+            recommendation.6,8 A careful medical history and exam remain an important component to
+            the evaluation of other etiologies of low back pain and raise suspicion of facet source.8
+            Physical findings can help identify levels for blocks, and maneuvers can aid in the detection
+            of radicular symptoms.5
+
+            Imaging studies have been investigated as a marker of painful lumbar facet joints. While
+            degenerative changes can be found in imaging, they have not been correlated as a reliable
+            predictor of success with facet interventions.5,8 Nonetheless, imaging studies often play an
+            important role in the exclusion of other etiologies of back and cervical/thoracic pain. Single-
+            photon emission computed tomography (SPECT), a nuclear medicine imaging technique, can
+            identify active inflammatory markers as seen in facet disease but have not shown consistent
+            results in the prediction of facet joint intervention success. 2020 Consensus Guidelines
+            reported on 12 studies and concluded moderate evidence for SPECT (grade C, moderate
+            certainty) and weak evidence for scintigraphy, MRI, and CT with no to weak supporting
+            evidence.5 2020 ASIPP Guidelines reported level III evidence for SPECT with weak strength
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                            13/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+            of recommendation and level V evidence for other imaging modalities, weak
+            recommendation.8
+
+            Conservative treatment, also called medical/interventional treatment, includes integrative
+            treatments (such as acupuncture (see NCD 30.3) or spinal manipulation); physical
+            treatments (physical therapy including exercise, heat and cold modalities, massage),
+            medications (NSAIDS/antidepressants), and lifestyle modifications (weight loss, sleep
+            hygiene, nutrition, smoking cessation) are typically perused before interventional procedures.
+            Facet joint pain is frequently accompanied by other pain etiologies, which may benefit from
+            conservative modalities or combined therapy, and it is well accepted that some back pain
+            will resolve spontaneously or with conservative or non-invasive measures over time. A few
+            studies have had a conservative arm, or investigated combined modalities that support a
+            combined approach, but did not find a conservative approach alone consistently lead to
+            improvement.6,9 The Agency for Healthcare Research released a systematic review of non-
+            invasive, non-pharmacological treatment for chronic pain, including neck and low back. Two
+            hundred two trials were included which evaluated the spectrum of non-invasive treatment
+            modalities, concluded durable slight to moderate improvement in function and pain for
+            specific chronic pain conditions and support clinical strategies that focus on non-
+            pharmacological and non-invasive therapies.10 2015 NASS Guidelines recommend a failure
+            of at least 4 weeks of non-invasive care11; 2020 Consensus Guidelines recommend a 3-
+            month trial of different non-invasive treatment5; 2020 ASIPP Guidelines rated level of
+            evidence II with a strong recommendation for 3 months after onset and failure of
+            conservative management8; European Guidelines extend the period to 1 year.12 Chronic pain
+            may lead to stress, anxiety, poor sleep and depression, and other psychological sequalae
+            and treatment beyond the pain symptoms may be necessary. Optimally a biopsychosocial
+            model that promotes a multi-disciplinary team approach addressing physical pain and
+            psychological factors are utilized.13 Patients with chronic pain may also benefit from
+            cognitive behavioral therapy, biofeedback, and other psychological interventions.40
+
+            Due to the lack of reliable history, physical exam, or imaging to predict response to facet
+            interventions, diagnostic injections may be given for diagnostic purposes to determine if the
+            facet joint is the source of suspected spinal pain. The response pattern to diagnostic facet
+            joint injections has become the gold standard for diagnosing facet syndrome. Temporary or
+            prolonged abolition of the spinal pain suggests that facet joints were the source of the
+            symptoms.2 The possibility of false-positive and false-negative reporting is an inherent risk
+            with facet blocks and challenges identifying the patients most likely to have a positive
+            response to treatment.5,8 IA and MBBs have been evaluated for predictive value for
+            successful RFA. 2020 ASIPP Guidelines reported on 10 studies in the lumbar spine and
+            found prevalence rates ranged from 27% to 40% with false-positive rates of 27% to 47%,
+            with ≥ 80% pain relief. They conclude level 1-2 evidence with moderate to strong strength of
+            recommendation of lumbar, diagnostic facet nerve blocks.8 While both IA and MBBs have
+            been shown in studies to be predictive of success with RFA (2020 Consensus Guidelines
+            grade B recommendation, low level of certainty)5 5 studies comparing lumbar MBB to IA
+            injections, including 2 randomized studies14,15 supports MBB as the preferred modality,
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         14/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+            largely due to high technical failure rate and pain associated with the IA injections. One
+            randomized trial focusing on younger patients shows IA injection with steroids may play a
+            role in patients in which MBB is contraindicated (grade C evidence, moderate certainty).5
+            The Greater Manchester EUR Policy Statement on Facet Injections no longer commissioned
+            IA facet injections and recommended MB nerve blocks for diagnostic evaluation for RFA.12
+            The Spinal Intervention Society (SIS) recommended that MBBs replace IA injections as a
+            diagnostic indicator.2
+
+            In order to determine if a block is successful, there must be an assessment/measurement of
+            pain and function. There are 3 points in which pain/function must be evaluated: 1. baseline;
+            2. after a diagnostic block; and 3. at each follow-up to evaluate long term relief. The
+            definition of success lacks consistency, and there are different cut-off values in the literature.
+            Among the multi-MAC SME panel, there was an agreement that subjective improvement in
+            pain is a valid measurement of improvement in pain (average voting score of 3.8/5).
+            However, there was not agreement on what the cut-off should be, if a tool should be used,
+            and if so, which tool. There was also a consensus that function is the most important
+            indicator of success. A study assessed the validity of subjective rating improvement after 1
+            IA joint injection and compared subjective rating to use of VAS scoring and concluded that
+            validity of pain provocation alone as criterion standards in patients undergoing diagnostic
+            facet injections should be questions with the positive predictive value of 16% for predicating
+            facet joint as a source of pain.16 Clinical trials and policy have used multiple standardized
+            tools to measure pain, including the NRS and VAS, with pre-set cut-off values in attempt to
+            determine a specific measurement in which patient’s may most benefit from intervention.
+            Studies have evaluated if a specific cut-off value can predict outcomes of RFA and do report
+            a high correlation between verbal rating scales, NRS and VAS score in prediction of
+            outcomes with RFA. However, the panel did not agree on a minimum value that can be used
+            with these tools. The panel did agree that measurement of function can provide valuable
+            clinical input into improvement, such as the ability to stand, walk, and the ability to do ADLs
+            and can predict success with future therapeutic procedures. There are multiple tools to
+            measure function including the PDAS17, ODI18, OSW, QBPDS19, RDQ20, BPFS21, and the
+            easy-to-use PROMIS® profile domains which have been found to correlate well with the ODI
+            scale.22
+
+            For the diagnostic block, the pain relief achieved is temporary and used as a predictor of
+            success for subsequent RFA. The objective is to reduce false-positives that would not be
+            predictive of success with RFA and avoid false-negative patients who could benefit but
+            would not be offered treatment. Most studies have used a cut-off of pain relief greater than
+            80% to consider MBB as positive. Ten studies assessing the prevalence of lumbar facet joint
+            pain using a cut-off value of 80% relief reported with a prevalence rate of 27% to 40% with
+            false-positive rates of 27% to 47% receiving a moderate to strong recommendation from
+            2020 ASIPP Guidelines.8 One paper reports dual comparative blocks are advocated as a
+            means of identifying true-positive cases and excluding placebo responders and have been
+            shown to have a sensitivity of 100% and a specificity of 65%.23
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         15/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+            As stated in the 2020 Consensus Guideline: “the cut-off designating an MBB as positive is
+            one of the most controversial areas in pain medicine.”5 Cohen, et al. in 2013, prospective
+            study to evaluate predictive values and reported no difference in the predictive value of ≥
+            50% to <80% pain reduction vs. ≥80% pain reduction. The guidelines advocate for using
+            ≥50% for clinical trials and clinical practice. The guidelines acknowledge that the existing
+            evidence does not adequately address the 50-80% group and that this cut-off was selected
+            to maximize access to care given the lack of reliable alternative treatment options in this
+            population and potential benefit of treatment in this group.5 On the contrary, there are
+            studies that show patients with ≥80% relief are more likely to show a positive response to
+            RFA. 2020 ASPP Guidelines report level 1 to II evidence based on 10 diagnostic accuracy
+            studies (using ≥75% and ≥80% criterion) and offer moderate to strong strength of
+            recommendation. They cite the literature using the 50% cut-off is conflicting due to internal
+            inconsistencies.8
+
+            There is controversy regarding the number of diagnostic blocks needed to ensure an
+            accurate diagnosis before proceeding with RFA. Derby, et al. evaluated the correlation of
+            lumbar MBB with diagnostic MBB cut-off values to optimize therapeutic outcomes and a
+            failure of single MBB and conclude with a dual block protocol a 70% cut-off value was
+            acceptable. With a single block, 80% or higher was optimal.24,25 Three systematic reviews
+            also showed significantly better improvement with dual MBB with 80% cut-off value.26-28
+            Two randomized controlled trials (RCTs) (1 in the cervical region) demonstrated positive
+            results with dual blocks.29,30 SIS and ASIPP advocate for dual diagnostic blocks, and
+            diagnostic accuracy is reduced if lower cut-off criteria are used. In contrast, the 2020
+            Consensus Guidelines advocate for single blocks using a 50% cut-off. One RCT compared
+            outcomes of stratified by different prognostic values and reported the success rate in those
+            who underwent RFA in the zero (no block), single and double block groups were 33%, 39%,
+            and 64%, respectively.31 Another study reporting on success rates of RFA based on the
+            number of blocks concludes no difference in outcomes based on the number of blocks. A
+            meta-analysis of 5 RCTs using zero or 1 block favored RFA.46 However, a meta-analysis is
+            challenging given the high heterogenicity of the literature. The 2020 Consensus Guidelines
+            suggest the number of blocks depends on the goals with dual blocks preferable for research
+            where diagnostic accuracy is critical while single (or no) blocks reduce the number of
+            procedures and access to care. Balancing these factors, they recommend a single block
+            reporting moderate evidence that dual blocks result in higher success with RFA, but zero-
+            block results in the highest number of patients with a positive response to RFA.5 The result
+            of voting from the multi-MAC SME panel was a score of 3.2/5, stating confidence in the
+            clinical literature to support 2 MBBs needed to diagnose facet pain.11 NASS Guidelines
+            recommend dual MBBs on 2 separate occasions and second block administered only if
+            >80% relief with the first block due to an unacceptably high false-positive rate of single
+            diagnostic injection. In the 2020 NASS Evidence-Based Clinical Guidelines for
+            Multidisciplinary Spine Care, they state a single diagnostic IA injection with 50% pain relief
+            provides no clinically meaningful improvement at 6 months (grade of recommendation B)
+            and insufficient evidence to make a recommendation for or against the use of RFA (grade of
+            recommendation I [Insufficient]).6
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         16/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+            The literature and societal guidance report that diagnostic injections should be MBBs, not IA
+            injections. This is agreed upon in the 2020 Consensus Guidelines, 2020 ASIPP Guidelines,
+            and NASS Guidelines. NASS Guidelines state IA facet injections have not been validated for
+            diagnostic use, and the false-positive rate is unknown, as well as lack of effectiveness
+            studies comparing IA vs. MBB in the cervical spine.11 The exceptions in the case of the
+            atlanto-occipital and atlanto-axial joints, since there are no MB or other intervention to block
+            readily. In these cases, dual blocks with 80% relief are supported by most guidelines.6
+
+            Therapeutic Joint Injections
+
+            IA injections into the facet joint have been used as a treatment modality for facet related
+            pain and remains controversial. Therapeutic injections typically include a corticosteroid as
+            there would not be anticipated long-acting pain relief from a short-term local anesthetic.
+            Among the multi-MAC SME panel, the average voting was 2.70, with a range from 1-4.
+            There is clinical evidence against the use of IA therapeutic facet joint injections. Lilius, et al.
+            conducted an RCT including 109 patients who failed to show a difference between saline,
+            steroids, and anesthetic injected around 2 facet joints.32 Carette, et al. conducted an RCT,
+            including 101 patients with IA lumbar facet pain, that showed a non-significant difference
+            between the injection of saline and depo-corticosteroid with 22% in steroid group compared
+            to 5% in saline group reporting benefit at 6 months.33 A small RCT, including 41 patients,
+            reported return of pain in 3 days after IA steroid injection compared to 3.5 days in the
+            control.34 Kennedy, et al. performed a small RCT comparing IA facet injections with a steroid
+            to saline and did not find a change in need for RFA.35 In the Facet Treatment Study (FACTS),
+            a double-blinded RCT, Cohen, et al. found no significant difference for pain relief or
+            functional outcome change between lumbar facet IA injection with steroid or anesthetic or
+            MBB with steroid, anesthetic or saline for up to 6 months post-injection. Five patients made
+            it to the 6-month follow-up, of which 2 had RFA. The FACTS study also found that MBB for
+            anesthetic or steroids did not perform better than saline.12
+
+            On the contrary, a systematic review by Manchikanti, et al. (2015)26 using a modified
+            approach to the grading of evidence, reported 20 RCTs assessed with moderate to high-
+            quality methodological criteria. For therapeutic interventions, the evidence was variable from
+            level II to III, with level II evidence for lumbar facet joint nerve blocks and radiofrequency
+            neurotomy for long-term improvement (greater than 6 months), and level III evidence for
+            lumbosacral zygapophysial joint injections for short-term improvement only. This review
+            provides evidence for the diagnostic validity of facet joint nerve blocks, and moderate
+            evidence for therapeutic radiofrequency neurotomy and therapeutic facet joint nerve blocks
+            in managing chronic low back pain.7 These 2 studies have been criticized for a high
+            proportion of patients taking opioids and prior back surgery, lack of control groups, and the
+            absence of blinding.5 Schneider, et al. reported in rigorously selected patients, 56% of
+            patients had 100% pain relief at 6 months.36 A systematic review by Engel reported
+            sustained relief of 6 months, and 1/3 had relief at 1 year.27
+
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         17/43
+9/4/26, 6:58 PM                                                                          LCD - Facet Joint Interventions for Pain Management (L38765)
+
+            This is in contrast with another systematic review during the same period that looked at the
+            evidence supporting the use of therapeutic IA facet joint injections for patients with
+            suspected facet joint pain. The review focused on IA facet joint injections with active drug or
+            placebo/inactive injection are more effective in reducing back pain and back pain-related
+            disability than conservative treatment. A total of 391 records were screened, and 6 trials
+            were included. The trials included were small (range 18-109 participants), and overall, in
+            terms of pain and disability outcomes, most were inconclusive. Only 2 of the trials report any
+            significance between the group's differences in pain or disability outcomes. The authors
+            addressed the limitations and flaws in these trials that were clinically diverse and precluded
+            any meta-analysis. Several methodological issues were identified. The positive results are
+            interpreted with caution and suggest that there is a need for further high-quality work in this
+            area.37
+
+            Many societal recommendations that do not support the use of therapeutic facet joint
+            injections include:
+
+                   The 2020 Consensus Guidelines developed by a multispecialty international working group
+                   recommend against the routine use of therapeutic facet injections giving it a grade D, moderate level
+                   of certainty.5
+                   National Institute for Health and Care Excellence (NICE) guideline on low back pain and sciatica in
+                   over 16s: assessment and management38 recommendations are based on systematic reviews of
+                   best available evidence and explicit consideration of cost effectiveness. The NICE recommendation
+                   for image-guided facet joint injections “do not offer spinal injections for managing low back pain.
+                   The Guideline Development Group (GDG) agreed that health-related quality of life, pain severity,
+                   function, and psychological distress were the outcomes that were critical for decision making.
+                   Responder criteria (greater than 30% improvement in pain or function), adverse events, and
+                   healthcare utilization were also considered as important. Evidence was reported for all the outcomes
+                   except for psychological distress and healthcare utilization. For image-guided facet joint injections,
+                   evidence was only available for pain, function, and responder criteria. There was no evidence for any
+                   of the other outcomes.” The NICE summary concludes: “Overall, the GDG agreed that there was no
+                   consistent good quality evidence to recommend the use of spinal injections for the management of
+                   low back pain. There was minimal evidence of benefit from injections, and reason to believe that
+                   there was a risk of harm, even if rare. The GDG consequently agreed that it was appropriate to
+                   recommend against the use of spinal injections for people with low back pain.”
+                   The American Association of Neurological Surgeons (AANS) and the Congress of Neurological
+                   Surgeons (CNS) 2014 Guideline update for the performance of fusion procedures for degenerative
+                   disease of the lumbar spine: Part 13: injection therapies, low-back pain, and lumbar fusion. Lumbar
+                   IA facet injections are not recommended for the treatment of chronic lower-back pain. The literature
+                   does suggest the use of lumbar medial nerve blocks for short-term relief of facet-mediated chronic
+                   lower-back pain without radiculopathy.42
+                   NASS Evidence-Based Clinical Guidelines for Multidisciplinary Spine Care: Diagnosis and Treatment
+                   of Degenerative Lumbar Spondylolisthesis 2nd Edition (2014) reports that there is insufficient
+                   evidence to make a recommendation for or against the use of injections for the treatment of
+                   degenerative lumbar spondylolisthesis. Grade of recommendation: I (Insufficient Evidence).11 The
+                   2020 NASS Low Back Pain Guidelines states there is insufficient evidence to make a
+                   recommendation for or against the use of steroid injections for suspected facet-mediated pain
+                   (grade 1 recommendation) nor sufficient evidence for or against the use of 50% reduction in pain
+                   following MBB for diagnosis of facet joint pain (grade 1 recommendation). The guidelines also state
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                18/43
+9/4/26, 6:58 PM                                                                               LCD - Facet Joint Interventions for Pain Management (L38765)
+
+                   that the outcomes of RFA become more reliable when more stringent diagnostic criteria are used,
+                   and relief is durable for at least 6 months following procedure (grade B recommendation).6 NASS
+                   Guidelines state while there is some evidence in the literature when compared to RFA, RFA offers
+                   longer-term pain relief, and long-term outcomes have not been reported in adequately designed
+                   trials. They state that if therapeutic IA injections are used, they should be used in patients whose
+                   initial injections resulted in pain relief >50% for at least 3 months and not be repeated more than 3
+                   times annually. The guidelines address concern of the majority of research on therapeutic MBBs
+                   comes from a single-center, reports on prospective studies and 1 RCT which had unspecified
+                   intervals and cannot determine the true duration of treatment and concern with lack of studies
+                   comparing therapeutic MBBs to MB RFA.6,11
+                   Agency for Healthcare Research and Quality (AHRQ) Technology Assessment Program: Pain
+                   Management Injection Therapies for Low Back Pain (2015) authors used predefined criteria and
+                   selected randomized trials of patients with lumbosacral radiculopathy, spinal stenosis, nonradicular
+                   back pain, or chronic postsurgical back pain that compared effectiveness or harms of the epidural,
+                   facet joint, or sacroiliac corticosteroid injections versus placebo or other interventions. Also included
+                   were randomized trials that compared different injection techniques and large (sample sizes greater
+                   than 1000) observational studies of back injections that reported harms. Seventy-eight randomized
+                   trials of epidural injections, 13 trials of facet joint injections, and 1 trial of sacroiliac injections were
+                   included. Limited evidence suggested that epidural corticosteroid injections are not effective for
+                   spinal stenosis or nonradicular back pain and that facet joint corticosteroid injections are not
+                   effective for presumed facet joint pain.39
+                   A 2009 American Pain Society guideline recommends against the use of corticosteroids into the
+                   facet joint.40
+
+            Some societal recommendations that support the use of therapeutic facet join injections
+            include:
+
+                   2020 ASIPP Guidelines8: Therapeutic Facet Joint Interventions in Lumbar Spine states:
+                       The level of evidence is II with moderate strength of recommendation for therapeutic lumbar
+                       facet joint nerve blocks with the inclusion of 3 relevant RCTs with long-term improvement.
+                       The level of evidence is IV with a weak strength of recommendation for lumbar facet joint IA
+                       injections with inclusion of 9 relevant RCTs, with most of them showing lack of effectiveness
+                       without the use of local anesthetic.
+
+            The American Society of Anesthesiologists (ASA) Task Force on Chronic Pain Management
+            and the American Society of Regional Anesthesia and Pain Medicine (ASRA) Practice
+            Guidelines for Chronic Pain Management (2010)41:
+
+                   Recommendations for joint blocks: RCTs report equivocal findings regarding the efficacy of facet
+                   joint steroid injections compared with facet saline injections regarding pain relief for patients with
+                   low back pain. However, studies with observational findings for facet joint injections indicate that
+                   pain scores are improved over baseline scores for assessment periods of 1-6 months. IA facet joint
+                   injections may be used for symptomatic relief of facet-mediated pain. MBBs may be used for the
+                   treatment of facet-mediated spine pain.
+                   AANS and CNS 2014 Guideline update for the performance of fusion procedures for
+                   degenerative disease of the lumbar spine. Part 13: injection therapies, low-back pain,
+                   and lumbar fusion states lumbar IA facet injections are not recommended for the
+                   treatment of chronic lower-back pain. The literature does suggest the use of lumbar
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                     19/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+                   medial nerve blocks for short-term relief of facet-mediated chronic lower-back pain
+                   without radiculopathy.42
+
+            Radiofrequency Ablation
+
+            Radiofrequency neurotomy is described as radiofrequency lesioning performed utilizing
+            either a heat lesion or pulsed mode radiofrequency. A thermal radiofrequency neurotomy
+            lesion for facet denervation is performed at 80° to 85°C. Clinically, a higher temperature
+            allows for a larger lesion to be made. The size of the lesion is influenced by the vascularity of
+            the surrounding tissue: the greater the vascularity of the tissue, the smaller the lesion.
+            Overall, the mechanism of radiofrequency neurotomy is described as denaturing of the
+            nerves. Consequently, with radiofrequency, the pain returns when the axons regenerate,
+            requiring repetition of the radiofrequency procedure. The pulsed mode radiofrequency is an
+            application of a strong electric field to the tissue that surrounds the electrode, and the
+            temperature of the tissue surrounding the tip of the electrode does not exceed 42°C and
+            heat is dissipated during the silent period.8
+
+            The effectiveness of RFA to improve pain and function for facet joint mediated back pain in
+            carefully selected individuals has been explored in the medical literature. Clinical trials report
+            conflicting data on the effectiveness of RFA. Most clinical trials defined success with RFA as
+            50% pain relief at 6 months.
+
+            A 2015 Cochrane review by Maas, et al., including 23 RCTs (n=1309), evaluated patients
+            who had a positive response to diagnostic block and underwent RFA found moderate
+            evidence on the effectiveness of RFA compared to placebo for pain management of facet
+            origin over the short term (mean difference (MD) -1.47, 95% confidence interval (CI) -2.28 to
+            -0.67). Low-quality evidence that facet joint RFA is more effective than placebo for function
+            over the short term (MD -5.3, 95% CI -8.66 to -0.20) and over the long term (MD -3.9, 95%
+            CI -6.94 to 0.47). RFA for disc pain did not show effects compared to placebo over the short
+            or long term (MD -1.63, 95% CI -2.58 to -0.68). They concluded no high-quality evidence to
+            suggest RFA procedure provides pain relief for patients with chronic low back pain.43
+
+            Juch, et al. reported on 125 patients in the treatment arm and 126 in the control arm
+            (exercise). Patients had a single diagnostic block with at least 50% or more pain reduction
+            before RFA. The MD for the primary outcome pain intensity at 3 months was −0.18 (95% CI,
+            −0.76 to 0.40). The MD for functional status at 3 months was −2.45 (95% CI, −5.53 to 1.03);
+            the relative risk (RR) for global perceived recovery at 3 months was 1.35 (95% CI, 0.81 to
+            2.05). This study has been challenged, stating that the lack of efficacy was due to the
+            treatment arm using the perpendicular technique.44 Perpendicular electrode placement has
+            been questioned with concern it may fail to reach the target nerve or only capture a
+            segment, while parallel electrode placement reliably captures the target nerve and does so
+            along a substantial length of the nerve. Those who challenge these studies report there are
+            3 studies (1999-2008) that utilized the parallel technique that would result in positive
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         20/43
+9/4/26, 6:58 PM                                                                         LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+            outcomes and report support for RFA from these trials.44 There are no recent trials that
+            address this controversy.
+
+            Leggett, et al. (2014) conducted a systematic review to determine the efficacy of RFA for
+            chronic low back pain associated with lumbar facet joints, sacroiliac joints, discogenic low
+            back pain, and the coccyx. Included articles were sham-controlled RCTs, assessed the
+            efficacy of RFA, reported at least 1 month of follow-up, and included participants who had
+            experienced back pain for at least 3 months. Eleven sham controlled RCTs were included: 3
+            studies involving discogenic back pain, 6 studies involving lumbar facet joint pain, and 2
+            studies involving sacroiliac joint pain. No studies were identified assessing the coccyx. The
+            evidence supports RFA as an efficacious treatment for lumbar facet joint and sacroiliac joint
+            pain, with 5 of 6 and both of the RCTs demonstrating statistically significant pain reductions,
+            respectively. The evidence supporting the RFA for the treatment of discogenic pain is mixed.
+            Future studies should examine the clinical significance of the achieved pain reduction and
+            the long-term efficacy of RFA.45
+
+            The systematic review (2015) by Manchikanti, et al. looked at both therapeutic injections,
+            and RFA in lumbar, cervical and thoracic regions evaluated 21 RCTs and 5 observational
+            trials, using a modified approach to the grading of evidence4, reported level II evidence3 for
+            RFA in the lumbar and cervical spine, and level IV in the thoracic region.26 A systematic
+            review by Engel, et al. (2016), which serves as the basis for NASS recommendations, “The
+            Effectiveness and Risks of Fluoroscopically-Guided Cervical Medial Branch Thermal
+            Radiofrequency Neurotomy: A Systematic Review with Comprehensive Analysis of the
+            Published Data” using the GRADE system for rating. They conclude the majority of patients
+            were pain-free at 6 months and over a third pain-free at 1 year.27 In 2017, Lee, et al.
+            conducted a meta-analysis that included 7 trials with 454 patients comparing RFA (n=231)
+            to sham or epidural (n=223) and reported greater improvement in the RFA group.46
+
+            2020 ASIPP Consensus Guidelines8 Table 22 reports on 11 studies on RFA effectiveness and
+            concludes:
+
+            Lumbar Spine: The level of evidence is II with moderate strength of recommendation for
+            lumbar RFA with the inclusion of 11 relevant RCTs with 2 negative studies and 4 studies
+            with long-term improvement.
+
+            ASA Task Force on Chronic Pain Management and ASRA Practice Guidelines for Chronic
+            Pain Management (2010) Recommendations for Ablative Techniques41: The Task Force
+            notes that other treatment modalities should be attempted before consideration of the use
+            of ablative techniques.
+
+                   Chemical denervation: Chemical denervation (e.g., alcohol, phenol, or high-concentration local
+                   anesthetics) should not be used in the routine care of patients with chronic non-cancer pain.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                               21/43
+9/4/26, 6:58 PM                                                                         LCD - Facet Joint Interventions for Pain Management (L38765)
+
+                   Cryoablation: Cryoablation may be used in the care of selected patients (e.g., post-thoracotomy pain
+                   syndrome, low back pain (MB), and peripheral nerve pain).
+                   RFA: Conventional (e.g., 80°C) or thermal (e.g., 67°C) RFA of the MB nerves to the facet joint should
+                   be performed for low back (MB) pain when previous diagnostic or therapeutic injections of the joint
+                   or MB nerve have provided temporary relief. Conventional RFA may be performed for neck pain.
+                   Conventional or thermal RFA of the dorsal root ganglion should not be routinely used for the
+                   treatment of lumbar radicular pain.
+
+            NICE guideline on low back pain and sciatica in over 16s: assessment and management
+            (2016) evidence statement47:
+
+                   Radiofrequency denervation compared with placebo/sham for low back pain: Evidence from 4
+                   studies demonstrated clinical benefit in pain for radiofrequency denervation compared to
+                   placebo/sham at both the short- and long-term follow-ups of less than and greater than 4 months
+                   (low to moderate quality, n=160). In contrast, there was no difference in function between
+                   treatments at any time point. Conflicting evidence from 1 study for quality of life at less than 4
+                   months follow-up showed clinical benefit for radiofrequency denervation compared to placebo/sham
+                   for the Short Form 36-Health Survey (SF-36) domains of general health and vitality. Radiofrequency
+                   denervation was inferior to sham for the domains of mental health, pain, and social function. There
+                   was no difference between treatments for the physical domain (low quality, n=81).
+                   Evidence from a single study reporting adverse events at less than 4 months follow-up
+                   demonstrated an increase in adverse effects for radiofrequency denervation in terms of
+                   the number of patients with moderate or severe treatment-related pain (low quality,
+                   n=79). There was no difference in other adverse events (change of sensibility and loss of
+                   motor function) at short-term follow-up when radiofrequency denervation was
+                   compared to placebo/sham in the same study (very low quality). Additionally, when
+                   compared with placebo/sham, a benefit for radiofrequency denervation in responders to
+                   pain reduction measured by global perceived effect was demonstrated by 2 studies at
+                   both the less than and greater than 4 months follow-up time points. However, this was
+                   not seen for pain reduction measured by VAS at less than 4 months reported by a single
+                   study (low quality, n=111).
+
+                   Radiofrequency denervation versus MBB: Evidence from a single study demonstrated clinical benefit
+                   in terms of pain for radiofrequency denervation compared to MBBs at both the short- and long-term
+                   follow-ups of less than and greater than 4 months (very low quality, n=100). Radiofrequency
+                   denervation has evolved as a treatment for spinal pain over the last 40 years and is a minimally
+                   invasive and percutaneous procedure performed under local anesthesia or light intravenous
+                   sedation. Radiofrequency energy is delivered along an insulated needle in contact with the target
+                   nerves. This focused electrical energy heats and denatures the nerve. This process may allow axons
+                   to regenerate with time, requiring the repetition of the radiofrequency procedure.
+                   The duration of pain relief following radiofrequency denervation is uncertain. Data from
+                   RCTs suggests relief is maintained for at least 6-12 months, but no study has reported
+                   longer-term outcomes. Pain relief for more than 2 years would not be an unreasonable
+                   clinical expectation.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                               22/43
+9/4/26, 6:58 PM                                                                           LCD - Facet Joint Interventions for Pain Management (L38765)
+
+                   The de novo economic model undertaken for this guideline for radiofrequency denervation
+                   suggested that the treatment is likely to be cost-effective, provided the duration of effect exceeds 16
+                   months.
+                   If radiofrequency denervation is repeated, we do not know whether the outcomes and
+                   duration of these outcomes are like the initial treatment. If repeated radiofrequency
+                   denervation is to be offered, we need to be more certain that this intervention is both
+                   effective and cost effective.
+
+            NASS Guidelines state that therapeutic MB RFA is a validated treatment for facet mediated
+            pain, and repeat procedures are equally successful if the response to the initial RFA lasted at
+            least 3 months. These guidelines advocate dual diagnostic MBB with ≥80% relief of the
+            primary (index pain), and the onset, and minimum duration of relief is consistent with the
+            agent employed. Also, RFA should be performed at the same level no more than twice
+            annually, and only if the initial radiofrequency lesion results in significant pain relief (> 50%)
+            for at least 6 months. In those situations, a repeat procedure in that year is appropriate.14
+            2020 NASS Low Back Pain Guidelines states there is insufficient evidence to make
+            recommendations for or against the use of cryodenervation for treatment of zygapophyseal
+            (facet) joint pain.6
+
+            AANS and CNS 2014 Guideline update for the performance of fusion procedures for
+            degenerative disease of the lumbar spine. Part 13: injection therapies, low-back pain, and
+            lumbar fusion. Lumbar IA facet injections are not recommended for the treatment of chronic
+            lower-back pain. The literature does suggest the use of lumbar medial nerve blocks for
+            short-term relief of facet-mediated chronic lower-back pain without radiculopathy. Lumbar
+            medial nerve ablation is suggested for 3–6 months of relief for chronic lower-back pain
+            without radiculopathy. Diagnostic medial nerve blocks by the double-injection technique
+            with an 80% improvement threshold are an option to predict a favorable response to medial
+            nerve ablation for facet-mediated chronic lower-back pain without radiculopathy. Still there
+            is no evidence to support the use of diagnostic medial nerve blocks to predict the outcomes
+            in these same patients with lumbar fusion.42
+
+            Cervical and Thoracic Spine
+
+            Most of the literature focuses on the lumbar region regarding interventional facet joint
+            diagnosis, and the 2020 Consensus Guidelines are specific for the lumbar region. The 2020
+            ASIPP Guidelines include the cervical and thoracic regions. The 2020 ASIPP Guidelines
+            report level I-II with moderate to strong strength of recommendation for lumbar, diagnostic
+            blocks report 10 diagnostic accuracy studies to support the recommendation. ASIPP report
+            level II evidence for the cervical spine with moderate strength or recommendation citing 10
+            diagnostic accuracy studies. Two systematic reviews support reliance on dual diagnostic
+            blocks with 100% relief of the index pain to select patients for the procedure reporting more
+            than 60% selected using this stringent criterion had 100% relief of index pain. They were
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                 23/43
+9/4/26, 6:58 PM                                                                          LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+            pain-free at 6 months and nearly 40% pain free at 1 year with functional improvement in
+            neck pain.27,28
+
+            ASIPP (2020)8 Therapeutic Facet Joint Intervention Cervical Spine:
+
+                   The level of evidence is II with moderate strength of recommendation for therapeutic cervical facet
+                   joint nerve blocks with the inclusion of 1 relevant RCT and 3 observational studies, with long-term
+                   improvement.
+                   The level of evidence is V with weak strength of recommendation for cervical IA facet joint injections
+                   with the inclusion of 3 relevant RCTs, with 2 observational studies, the majority showing lack of
+                   effectiveness. In contrast, 1 study with a 6-month follow-up showed a lack of long-term
+                   improvement.
+                   The level of evidence is II with moderate strength of recommendation for cervical RFA with the
+                   inclusion of 1 RCT with positive results and 2 observational studies with long-term improvement.
+
+            Evidence to support use in thoracic region is further supported by one 2012 systematic review
+            report evidence for diagnostic accuracy of the thoracic facet joint injection, and one 2018
+            study comparing thoracic IA vs. MBB reporting significant pain relief with thoracic joint
+            injection.48 NASS guidelines state the lack of supporting literature for the use of IA injections
+            for thoracic pain, however, states the lack of other effective alternative therapies.11
+            Imaging
+
+            Image guidance has become standard care for facet blocks and RFA procedures, allowing
+            accurate needle placement, monitor contrast and anesthetic spread, and improve safety by
+            direct visualization of bony elements and avoiding surrounding structure. Studies dating
+            back to the 1980s comparing “blind” injections to image-guided concluded that the
+            procedure should not be performed without radiographical imaging. Fluoroscopy is
+            considered the gold standard for facet block procedures, and most studies were conducted
+            with fluoroscopic guidance and consistent with societal recommendations. The U.S.
+            Department of Health and Human Services Office of Inspector General (OIG) report in 2008
+            asserted radiographic guidance is recommended.49 One cadaveric study showed improved
+            accuracy with fluoroscopy over CT.50 2020 Consensus Guidelines recommend CT or
+            preferably fluoroscopy for lumbar MBB (grade B recommendation), CT scanning for IA
+            placement (grade C recommendation), and fluoroscopy for MB RFA (grade B
+            recommendation, low level of evidence). The guidelines state fluoroscopy is preferred to CT
+            due to lower cost, faster times, and less radiation exposure than CT.5
+
+            The use of ultrasound has been explored as an alternative imaging modality. Cadaveric,
+            retrospective studies, and review of RCT and non-RCT suggest that there is little difference
+            between ultrasound and fluoroscopy guided procedures; however, there are no well-
+            designed studies to report the safety of this approach. Limitations for ultrasound guidance
+            include reduced visibility in obese patients, more challenging to target the proper segment,
+            and not being able to visualize facet joint.5 NASS Guidelines state insufficient evidence to
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                24/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+            support use of ultrasound guidance.11 SMEs score low confidence that the facet joint
+            procedures can be performed under ultrasound guidance (score 1.7/5).
+
+            Facet Joint Cyst Rupture
+
+            Facet joint cysts have been found to have a prevalence of 6.5% and are thought to play a
+            role in facet mediated pain. In these cases, nerve root compression or irritation is associated
+            with radicular pain like other neuro-compressive lesions. Rupture of the cyst has been
+            associated with pain improvement and may potentially avoid more invasive open surgical
+            procedures. In these cases, IA injection is used and often with TFESI to treat radicular pain.11
+            A systematic review of 870 patients report cyst resolution to be 58% for the percutaneous
+            procedure, and 90% for decompressive procedures concluding advantage of surgical
+            intervention as compared to percutaneous procedures and pain relief with surgical
+            management is estimated 83.5%. Shuang, et al. systematic review of 29 studies reported
+            overall the satisfactory results (after short- or long-term follow-up) were achieved in 55.8%
+            [49.5, 62.08] (pooled mean and 95% CI) of the 544 patients subjected to percutaneous
+            lumbar facet joint cyst resolution procedures. 38.67% [33.3, 43.95] of this population
+            underwent surgery subsequently to achieve durable relief.51 However, the analysis
+            consisted largely of small retrospective studies and case reports with low-quality evidence.
+            In 1 prospective, non-randomized study, 120 patients' satisfaction was reported as 75%,
+            with 25% requiring repeat surgery. NASS Guidelines address the concern of cyst
+            reoccurrence, which occurs about 50% of the time and does not recommend repeating the
+            procedure more than once and only if the first procure produces satisfactory results, which
+            they define as 50% improvement for at least 3 months.11 The SME panel voted 3.9/5 in
+            support of facet joint cyst rupture for pain relief.
+
+            Centralized Pain Syndrome
+
+            Facet procedures by nature treat a local pain condition, while a centralized pain syndrome,
+            such as fibromyalgia, is a generalized pain condition. Patients with centralized pain
+            syndromes are thought to have alternations in central neurotransmission. A prospective
+            study with 548 patients diagnosed with primary spine pain were also evaluated for
+            fibromyalgia criteria before spinal interventions. 42% of the patients meet diagnostic criteria
+            for fibromyalgia. They determined a profound phenotypic difference in those with
+            fibromyalgia as compared to those with spinal pain alone associated with more neuropathic
+            pain descriptors, anxiety, greater pain interference and lower physical function. The authors
+            concluded that the phenotypical factors found in the fibromyalgia group may be predictive
+            of poor outcomes in spine intervention procedures.52 Exploration of factors associated with
+            poor outcomes from lumbar RFA and long duration pain was correlated with treatment
+            failure.53 There is insufficient literature that addresses if facet joint procedures are beneficial
+            for centralized pain conditions.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         25/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+            Intrafacet Implants
+
+            Intrafacet implants have been proposed as an alternative technique to surgical fusion. They
+            involve the placement of an allograft dowel made from bone (from femur or tibia) and placed
+            surgically or via the minimally invasive procedure. The allograft, which is processed by
+            licensed tissue banks, which must be compliant with FDA requirements for tissue
+            processing, are not subject to FDA 510K clearance and can be marketed. There are no
+            clinical trials that address the efficacy and safety of these implants. The report on 6 cases
+            did not indicate efficacy.54
+
+            Non-Thermal Modalities
+
+            Several alternatives to percutaneous radiofrequency denervation have been proposed,
+            including pulsed radiofrequency, cryoablation, laser ablation, and chemical ablation, in
+            which a neurolytic substance (e.g., alcohol, phenol, glycerol) is injected into the affected
+            nerve root. An alternative method of denervation using an endoscopic approach (i.e.,
+            endoscopic dorsal ramus rhizotomy) has also been proposed.55 The literature on these
+            modalities is largely limited to case reports or small series with mixed results.14,56-58 One
+            RCT (n=80) comparing pulsed RFA to steroid injections concluded it may be more effective
+            than steroids.59 A RCT (n=50) compared study of continuous to pulsed RFA and did not
+            report significant differences.60 Long-term safety and efficacy data is lacking. The ASA Task
+            Force on Chronic Pain Management and the ASRA Practice Guidelines for Chronic Pain
+            Management (2010) Recommendations for Ablative Techniques: The Task Force notes that
+            other treatment modalities should be attempted before consideration of the use of ablative
+            techniques.41
+
+            Anesthesia
+
+            ASA provides definitions on the continuum of the depth of sedation. Minimal sedation
+            anxiolysis is defined as a drug-induced state during which patients respond normally to
+            verbal commands. Although cognitive function and physical coordination may be impaired,
+            airway reflexes, and ventilatory and cardiovascular functions are unaffected. Progressing
+            depth of sedation beyond minimal is moderate or “conscious”, deep and general. MAC is not
+            a depth of sedation, but a specific anesthetic service allowing a deeper level of analgesia
+            than can be provided by moderate sedation. ? Statement on ?Continuum of Depth of
+            Sedation: Definition of General Anesthesia and Levels of Sedation/Analgesia.61
+
+            The increased risk associated with the use of anesthesia, including sedation, in the elderly
+            population must be considered. A 2020 review reports a substantial increase in the use of
+            non-operating room anesthesia (NORA) for elderly patients and that advanced age is an
+            independent risk factor for anesthesia-related adverse events in this population. The authors
+            explain there are significant changes in pharmacological effects of anesthetic agents with
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         26/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+            aging requiring reduced dosing and careful titration and monitoring to reduce adverse
+            events. They also report that increasing age increases the risk of aspiration and cognitive
+            complications even during sedation. The paper discusses that older and frailer patients may
+            benefit greatly from less invasive procedures, but this must be balanced against safety
+            outside of a high acuity operating suite and increased risk associated with anesthetic in this
+            population.62 A retrospective analysis from the 2008-2012 Premier Database reviewed
+            21,276,691 inpatient discharges seeking a better understanding of the risk of
+            cardiopulmonary resuscitation (CPRA). They found 96,554 patients suffered CPRA and
+            reported patients who received opioids and sedatives had an adjusted odds ratio for CPRA
+            of 3.47 (95% CI: 3.40-3.54; p<0.0001) compared with patients not receiving opioids or
+            sedatives. Therefore, opioids alone and sedatives alone were associated with a 1.81-fold
+            and a 1.82-fold (p<0.0001 for both) increase in the odds of CPRA, respectively. They found
+            42% survived CPRA and only 22% were discharged to home calling for further research in
+            this area and efforts to investigate opioid sparing anesthesia and reduced sedative use and
+            improved monitoring given this risk.63
+
+            The ASA committee opinion for anesthetic care during interventional pain procedures for
+            adults stating that when sedation is provided during the performance of pain procedures it
+            is important that the patient can be responsive during critical portions of the procedure to
+            report potential procedure related paresthesia, acute changes in pain intensity or function
+            for potential toxicity. The committee opinion states that interventional pain procedures
+            generally only require local anesthetic, however, patients may elect to also receive
+            supplemental sedation but must remain conscious. Exceptions may include a well-
+            documented history of inability to cooperate, medical conditions that would prohibit
+            performance of the procedure, or inability to remain motionless.1
+
+            The Spine Intervention Society Factfinder for patient states that sedation is not intrinsically
+            necessary for interventional spine procedures and that the decision should be considered on
+            case-by-case basis.64 This report focused on moderate sedation and expresses concern of
+            over-sedation impairing the ability “of the patients to respond adequately to any potential
+            pain, discomfort, or paresthesia during a procedure and warn the physician accordingly of a
+            potential impending serious complication.” The use of heavy sedation has been associated
+            with increased risk of neurological injuries, such as spinal cord injury. Moderate sedation has
+            been associated with apnea and hypoxemia. While some reports common use of sedation,
+            there is limited evidence of isolated situations where sedation may provide medical benefit.
+            A RCT with 73 subjects with crossover design reported sedation did not predict satisfaction
+            with care or improved pain.65 A report of 6897 patients with TFESI without sedation
+            reported only a 3% dissatisfaction rate.66 The reports concluded the default use of sedation
+            is not associated with clear health/outcome benefits and associated with rare but serious
+            increased risk. That most patients are satisfied with care without sedation and that it should
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         27/43
+9/4/26, 6:58 PM                                                                         LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+            be used judiciously and under circumstances with careful monitoring and administered by
+            trained providers and with appropriate monitoring.
+
+            Reconsideration Request
+
+
+            A reconsideration request was received requesting therapeutic facet joint injections be
+            considered as a first line treatment option for facet pain and include both IA injections or
+            MBBs. Most of the submitted literature was already in the evidence section of the LCD.
+            Additional submitted studies published prior to 2016 were not cited individually in the LCD
+            and many were included in at least 1 of the systematic reviews that were evaluated in the
+            LCD.26,37 Literature evaluated with this request include:
+
+                   A 2022 retrospective report comparing 99 patients who received lumbar facet joint nerve blocks
+                   compared to 227 receiving radiofrequency neurotomy with 1-year follow-up. Pain improvement was
+                   reported in both groups with 100%, 99% and 79% reporting improvement in the nerve block group
+                   as compared to 100%, 74% and 65% in the RFA group at 3, 6 and 12 months respectively. Patients
+                   received between 1-4 nerve blocks and 1-2 RFAs. The authors conclude that the outcome from
+                   therapeutic facet joint nerve blocks is comparable to RFA. Missing data with 48 of the original 99
+                   and 148 of the original 227 reported at 12 months data limits this data set.67 A similar study was
+                   conducted to evaluate 132 patients who received cervical MBBs and 163 patients receiving cervical
+                   RFA. Of the original group, 107 in the injection group and 105 in the RFA group completed 12-month
+                   follow-up and reported 100%, 94%, and 81% of the patients in the MBBs group, and 100%, 69%,
+                   and 64% in the radiofrequency neurotomy group at 3-, 6-, and 12-month follow-up, Both studies are
+                   limited by the retrospective design and without a control group cannot determine if the procedures
+                   are equivalent.68
+                   A European systematic review explores the management of facet joint osteoarthritis with MBBs.
+                   Eight articles were included in the review. The studies were challenged by small sample sizes
+                   ranging from 8 to 60 and the majority having less than 30 subjects, short- term follow-up with a
+                   maximum of 6 months, significant variability in treatments, different tools to measure pain and other
+                   limitations leading the authors to conclude that the role of facet injection in the management of low
+                   back pain has a positive trend but is non-conclusive.69
+                   A small RCT compared 60 subjects with a single positive diagnostic block receiving 1-2 level
+                   treatment with IA injection or RFA for 6 months. They reported a decrease in NRS score at 2 weeks,
+                   and 1,3, and 6 months for both groups. They report similar outcomes at 6 months for both groups.
+                   The authors reported steroid related side effects in the injection group and no adverse events in the
+                   RFA group suggesting that the RFA may be a better option for management to reduce the potential
+                   adverse events related to steroids.70
+                   A small RCT with 40 subjects randomized patients with cervical facet joint pain to IA injection or
+                   RFA. They report both groups had a decrease in NRS at 1, 3 and 6 months (p=0.000). They report
+                   both groups reported ≥50% and the author concludes that RFA is an effective treatment for cervical
+                   facet pain while avoiding the adverse effects of steroids.71
+                   A small prospective study administered a sham block followed by MBB with presumed facet
+                   mediated pain to 104 subjects. Patients who experienced improvement with the saline solution were
+                   excluded from the study for presumed placebo effect (16.7%) and patients who did not experience at
+                   least 50% improvement after the lidocaine injection were referred for evaluation for other potential
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                               28/43
+9/4/26, 6:58 PM                                                                         LCD - Facet Joint Interventions for Pain Management (L38765)
+
+                   etiologies (31.7%). The remaining 54 patients were followed with VAS score measurements and
+                   67% reported improvement maintained at 3 months. The remaining 33% reported worsening pain
+                   scores over this duration. The authors concluded that this group was the true facet mediated pain
+                   while the group that experienced improvement after a single diagnostic MBB had myofascial pain
+                   which resolved during this 3-month follow-up. This is consistent with data that suggests a high
+                   false-positive rate with a single MBB and supports the use of dual diagnostic blocks and encourages
+                   3-month follow-up injections to ensure correct diagnosis.72
+                   A 2023 systematic review and meta-analysis compiles 11 studies (3 RCT, 8 observational) on MBB
+                   and RFA for thoracic pain. The authors acknowledge the paucity of high-quality literature and
+                   conclude Level II evidence for MBB and Level III evidence for RFA for long-term management of
+                   chronic thoracic pain.73 Like the above systematic review, this GRADE recommendations are limited
+                   by the use of risk of bias tool unique to interventional pain.
+                   A 2023 RCT compared IA to MBB for facet injections for 60 patients with lumbar facet joint pain.
+                   Thirty patients received IA blocks vs 30 patients with MBB, and it was found there was statically
+                   significant improvement (p>0.05) in both groups.74 The authors conclude both modalities are safe
+                   and effective for administering facet injections. Another 2023 RCT includes 60 patients with chronic
+                   facet pain and were randomized to MBB with lidocaine (n=31) or bupivacaine (n=31) and found no
+                   difference between the groups for 16 weeks.75 Both studies were limited by small size and short-
+                   term follow-up.
+                   A 2024 systematic review was conducted to evaluate the effectiveness of facet nerve blocks as a
+                   therapeutic modality for facet joint pain. Risk of bias assessment was assessed with the
+                   Interventional Pain Management Techniques – Quality Appraisal of Reliability and Risk of Bias
+                   Assessment (IPM-QRB) for randomized therapeutic trials, and the Interventional Pain Management
+                   Techniques – Quality Appraisal of Reliability and Risk of Bias Assessment for Nonrandomized
+                   Studies (IPM-QRBNR) for nonrandomized studies.76 Recommendations were developed with GRADE
+                   assessment criteria. They found only 3/21 studies showed high-level of evidence and 11 studies with
+                   moderate-level of evidence concluding Level II Evidence to support therapeutic joint nerve blocks for
+                   facet mediated spinal pain. The GRADE conclusion is limited by risk of bias assessment being
+                   conducted with a tool unique to interventional pain management rather than the risk of bias tools
+                   typically used as part of the GRADE analysis.
+
+            The new evidence to support the role of therapeutic injections as first line therapy was very
+            low-quality. Additional literature supports the coverage position of RFA if dual diagnostics
+            blocks are positive for facet mediated pain. Therefore, there was not sufficient evidence
+            submitted with this reconsideration to change the LCD’s coverage position and allow
+            therapeutic injections as first line treatment for facet mediated pain. However, evidence that
+            the effectiveness and outcomes for IA and MBB are similar and, therefore, either should be
+            allowed when therapeutic RFAs are appropriate is supported by evidence.
+
+            Analysis of Evidence (Rationale for Determination)
+
+            Facet joint procedures are a challenging area due to variability in the literature, lack of
+            consensus among experts, differences in societal guidelines and a historical pattern that
+            demonstrates high risk for over utilization. When there is a lack of consensus on best
+            practices, careful evaluation of the medical literature and utilization of the best available
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                               29/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+            evidence serves as the basis for our determinations in coverage and guidelines. This is
+            supplemented with the knowledge shared from our SME panel.
+
+            The literature and consensus of the expert panel and societal guidelines agree that there is
+            no specific history, physical exam findings, or imaging studies that can diagnose facet joint
+            mediated pain and predict response to treatment. For this reason, diagnostic facet joint
+            injections are indicated. MBBs are the preferred technique for these injections, which is
+            validated and supported by literature as compared to the IA injections, which lack validation,
+            are technically more difficult, and more painful. There is consensus that all facet procedures
+            should be performed under image guidance, CT or fluoroscopy, with a preference for
+            fluoroscopy.
+
+            The controversial areas are the number of blocks and the percentage of pain relief required
+            to consider a block successful. For the diagnostic block, the pain relief achieved is temporary
+            and used as a predictor of success for subsequent RFA. The objective is to reduce false-
+            positives that would not be predictive of success with RFA and avoid false-negative patients
+            who could benefit but would not be offered treatment. Many studies have used a cut-off of
+            pain relief greater than 75-80% to consider a diagnostic block as positive. Ten studies
+            assessing the prevalence of lumbar facet joint pain using a cut-off value of 80% relief
+            reported with a prevalence rate of 27% to 40% with false-positive rates of 27% to 47%
+            received a moderate to strong recommendation from 2020 ASIPP Guidelines.8
+
+            The 2020 Consensus Guidelines advocate for using single blocks with ≥50% for clinical trials
+            and clinical practice while acknowledging that the existing evidence does not adequately
+            address the 50-80% group and that this cut-off was selected to maximize access to care
+            given lack of reliable alternative treatment options in this population and potential benefit of
+            treatment in this group.5 On the contrary, there are studies that show patients with dual
+            blocks using ≥80% relief are more likely to show a positive response to RFA. This aligns with
+            ASIPP and NASS guidelines.2,11 Given the lack of clear evidence, the consensus among
+            experts and societies is that there is uncertainty regarding the cut-off values and number of
+            blocks. Most of the evidence and societal guidance supports the use of a more stringent
+            diagnostic cut-off. The multi-MAC SME panel was a score of 3.2/5 favoring the dual block
+            regimen. Once a patient begins treatment, the treatments often continue without repeat
+            diagnostic studies, so the correct diagnosis initially is important. The existing evidence is
+            clear there is a high risk of false-positives with a single block and 50% cut-off and that a
+            dual block and higher cut-off (75-80%) improves diagnostic accuracy. The evidence also
+            supports that improved diagnostic accuracy predicts greater improvement with RFA
+            treatments. While this must be balanced against excluding some patients for treatment who
+            may potentially benefit, given the lack of supporting literature to define this population,
+            current evidence supports dual blocks at 75-80% improvement is more strongly supported
+            than the alternative less stringent approach.
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         30/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+            The effectiveness and clinical utility of therapeutic facet blocks is another controversial area.
+            In this case, we are referring to injections with corticosteroids as injections as local
+            anesthetic would not be expected to have any sustained effect. There is support for the use
+            of therapeutic injections in the form of a systematic review and societal guidelines. Most of
+            this support is from a single center that utilizes a published, modified grading criterion they
+            developed. Grading from 1 grading criteria to another often have similarities but cannot be
+            extrapolated to another so we must consider each grading criteria individually. There is
+            some additional literature from other sites and societal support for therapeutic injections
+            offered by ASA and ASRA. The overwhelming majority of other guidelines and evidence do
+            not support therapeutic IA injections, and this includes multiple studies, systematic reviews,
+            and guidelines by 2020 Consensus Guidelines, NASS, NICE, AHRQ, AANS, and CNS. Their
+            use received a “D” rating from 2020 Consensus Guidelines. The current consensus is that
+            diagnostic injections are to select patients who may be candidates for RFA, and not for
+            therapeutic injections. Clinically since the reported efficacy of therapeutic injections (if a true
+            benefit exists) would be around 3 months compared to 6 months or longer for RFA, so there
+            is an obvious benefit for selection of RFA as a treatment over injections. The multi-MAC SME
+            voting was 3.4/5 that subsequent therapeutic IA or MBB are effective. The evidence does
+            support several special circumstances when RFA cannot be performed, and therapeutic
+            injections may be appropriate. Therefore, the policy allows therapeutic injections in
+            circumstances when RFA is not feasible.
+
+            The goal procedure for facet joint interventions is RFA. The strongest available data related
+            to facet interventions is to support the use of RFA for facet joint pain. Still, even that is mixed
+            and lacks a clear consensus on proper patient selection and effectiveness. A 2015 Cochrane
+            review showed a moderate benefit for RFA for pain, but lack of benefit for
+            function.43 However, the patient selection used the less stringent criteria of a single block
+            with a 50% reduction in pain. Other studies have shown this criterion is associated with a
+            higher false-positive rate and less success with RFA procedures, so this conclusion may not
+            be represented if the stricter criteria were used. The FACTS study, an RCT that compared
+            outcomes stratified by different prognostic values and reported the success rate in those
+            who underwent RFA in the zero (no block), single and double block groups were 33%, 39%,
+            and 64%, respectively.31 While this served as the basis for recommending a single block at
+            50% in the 2020 Consensus Guidelines, it also demonstrates the improved success rate for
+            the dual block group, which increased to 64%.19 A systematic review that used the GRADE
+            system for rating which is a more standardized grading system and allows both RCT and
+            observational studies to be evaluated, concluded the majority of patients were pain free at 6
+            months and over a third pain free at 1 year.27 This conclusion was supported by a 2017
+            meta-analysis.46 The overall societal consensus is in support of the use of RFA with ASIPP,
+            ASA/ASRA, NICE, 2020 Consensus Guidelines, and AANS/CNS, all having guidelines that
+            support RFA use. Even the NASS Guidelines that report insufficient evidence for RFA
+            provided guidelines for use. There remain concerns as the clinical studies of RFA for chronic
+            low back pain have significant methodological limitations that can affect the interpretation
+            of the data. Uncertainties regarding several aspects of RFA for spinal pain, necessitate
+            additional research. The validation of radiofrequency for chronic spinal pain management
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         31/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+            relies upon the resolution of these technical issues, as well as issues regarding patient
+            selection and long-term efficacy.45 While the literature is not complete in terms of efficacy
+            and patient selection for RFA facet procedures, the procedure offers the potential to avoid
+            more invasive surgery. It may potentially reduce opioid use, justifying maintaining RFA as an
+            option in the management of back pain in properly selected patients despite these
+            limitations.
+
+            Limitations, such as number of levels and frequency, are challenging as there is little
+            evidence focusing on these factors. Lack of consensus in the medical community about
+            frequency of injections has been a challenge.49 Societies have begun to offer
+            recommendations on frequency. The NASS Coverage Recommendations recommends dual
+            blocks, does not recommend therapeutic procedures, recommends limiting RFA to maximum
+            of twice per year and procedures for facet joint cyst rupture to be repeated not more than
+            once.11 The 2020 Consensus Guidelines report recommends single diagnostic blocks, does
+            not recommend therapeutic injections and recommends limiting RFA to no more than 2
+            times per year.5 The multi-MAC SME panel also provided input on frequency. The panel
+            voted 1.8/5 that diagnostic injections should be a minimum of 28 days apart and
+            recommended allowing sooner may be beneficial. The panel voted 3.5/5 that therapeutic
+            injections should be a minimum of 3 months apart, and during treatment phase
+            interventional procedures should be repeated only if medically necessary, and not to exceed
+            4 times per year was scored as 3.4/5. The panel voted RFA should be repeated only if
+            medically necessary at a minimum of 6 months apart with a score of 3.9/5. The panel
+            supported allowing 3 levels (diagnostic or therapeutic) in 1 session with score of 3.8/5;
+            however, prevalence data demonstrates that 3 diagnostic levels are not routine and would
+            be under unusual circumstances. There is currently no evidence to support that facet
+            mediated pain may extend routinely beyond 2 levels. The purpose of the dual diagnostic
+            block is to further identify the pain generator and successfully treat the impacted region.
+            This correlates with literature when the number of levels is reported, Medicare national data
+            and MAC local data, which demonstrates that most facet procedures involve 1 or 2 levels
+            only.77
+
+            Several alternatives to percutaneous radiofrequency denervation have been proposed,
+            including pulsed radiofrequency, cryoablation, laser ablation, and chemical ablation, in
+            which a neurolytic substance (e.g., alcohol, phenol, glycerol) is injected into the affected
+            nerve root. An alternative method of denervation using an endoscopic approach (i.e.,
+            endoscopic dorsal ramus rhizotomy) has also been proposed. There is insufficient evidence
+            in the published medical literature to determine the safety and efficacy of these emerging
+            alternative modalities or approaches compared to thermal radiofrequency denervation for
+            the treatment of spinal pain.
+
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         32/43
+9/4/26, 6:58 PM                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+
+
+       General Information
+            Associated Information
+
+            N/A
+
+            Sources of Information
+
+            Reviewed but not cited:
+
+            Campos WK, Linhares MN, Sarda J, et al. Predictors of pain recurrence after lumbar facet
+            joint injections. Front Neurosci. 2019;13:958.
+
+            Kennedy DJ, Huynh L, Wong J, et al. Corticosteroid injections into lumbar facet joints: A
+            prospective, randomized, double-blind placebo-controlled trial. Am J Phys Med Rehabil.
+            2018;97(10):741-746.
+
+            Kim BR, Lee JW, Lee E, Kang Y, Ahn JM, Kang HS. Intra-articular facet joint steroid injection-
+            related adverse events encountered during 11,980 procedures. European Radiology.
+            2020;30(3):1507–1516.
+
+            Kwak DG, Kwak SG, Lee AY, Chang MC. Outcome of intra-articular lumbar facet joint
+            corticosteroid injection according to the severity of facet joint arthritis. Exp Ther Med.
+            2019;18(5):4132-4136.
+
+            Lakemeier S, Lind M, Schultz W, et al. A comparison of intraarticular lumbar facet joint
+            steroid injections and lumbar facet joint radiofrequency denervation in the treatment of low
+            back pain: A randomized, controlled, double-blind trial. Anesth Analg. 2013;117(1):228-235.
+
+            Manchikanti L, Hirsch JA, Falco FJ, Boswell MV. Management of lumbar zygapophysial
+            (facet) joint pain. World J Orthop. 2016;7(5):315-337.
+
+            Manchikanti L, Hirsch JA, Kaye AD, Boswell MV. Cervical zygapophysial (facet) joint pain:
+            Effectiveness of interventional management strategies. Postgrad Med. 2016;128(1):54-68.
+
+            Manchikanti L, Singh V, Falco FJ, Cash KM, Fellows B. Cervical medial branch blocks for
+            chronic cervical facet joint pain: a randomized, double-blind, controlled trial with one-year
+            follow-up. Spine. 2008;33(17):1813-1820.
+
+            Rambaransingh B, Stanford G, Burnham R. The effect of repeated zygapophysial joint
+            radiofrequency neurotomy on pain, disability, and improvement duration. Pain Med.
+            2010;11(9):1343-1347.
+
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                         33/43
+9/4/26, 6:58 PM                                                                          LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+            Bibliography
+
+               1. ASA Committee on Pain Medicine. Statement on anesthetic care during interventional pain
+                  procedures for adults. American Society of Anesthesiologists Web site. Published 10/22/05.
+                  Updated 10/13/21. Accessed 9/15/25.
+               2. Manchikanti L, Abdi S, Atluri S, et al. An update of comprehensive evidence-based guidelines for
+                  interventional techniques in chronic spinal pain. Part II: Guidance and recommendations. Pain
+                  Physician. 2013;16:S49-S283.
+               3. Manchikanti L, Falco FJ, Benyamin RM, Kaye AD, Boswell MV, Hirsch JA. A modified approach to
+                  grading of evidence. Pain Physician. 2014;17(3):E319-E325.
+               4. Manchikanti L, Hirsch JA, Cohen SP, et al. Assessment of methodologic quality of randomized trials
+                  of interventional techniques: Development of an interventional pain management specific
+                  instrument. Pain Physician. 2014;17:E263-E290.
+               5. Cohen SP, Bhaskar A, Bhatia A, et al. Consensus practice guidelines on interventions for lumbar
+                  facet joint pain from a multispecialty, international working group. Reg Anesth Pain Med.
+                  2020;45(6):424-467.
+               6. North American Spine Society. Evidence-Based Clinical Guidelines for Multidisciplinary Spine Care:
+                  Diagnosis and Treatment of Low Back Pain [book online] . Burr Ridge, IL: 2020. Accessed 9/15/25.
+               7. Boswell MV, Manchikanti L, Kaye AD, et al. A best-evidence systematic appraisal of the diagnostic
+                  accuracy and utility of facet (zygapophysial) joint injections in chronic spinal pain. Pain Physician.
+                  2015;18(4):E497-E533.
+               8. Manchikanti L, Kaye AD, Soin A, et al. Comprehensive evidence-based guidelines for facet joint
+                  interventions in the management of chronic spinal pain: American Society of Interventional Pain
+                  Physicians (ASIPP) Guidelines. Pain Physician. 2020;23(3S):S1-S127.
+               9. Cohen SP, Hayek S, Semenov Y, et al. Epidural steroid injections, conservative treatment, or
+                  combination treatment for cervical radicular pain: A multicenter, randomized, comparative-
+                  effectiveness study. Anesthesiology. 2014;121(5):1045–1055.
+              10. Skelly AC, Chou R, Dettori JR, et al. Noninvasive Nonpharmacological Treatment for Chronic Pain: A
+                  Systematic Review Update. Rockville, MD: Agency for Healthcare Research and Quality; 2020.
+              11. North American Spine Society (NASS). Facet Joint Interventions | NASS Coverage Policy
+                  Recommendations . NASS Coverage Committee. 2017. Accessed 9/15/25.
+              12. Greater Manchester Combined Authority. Greater Manchester EUR Policy Statement on: Facet joint
+                  injections for neck and back pain . 2019. Accessed 9/15/25.
+              13. Deyo RA. Biopsychosocial care for chronic back pain. BMJ. 2015;350:h538.
+              14. Birkenmaier C, Veihelmann A, Trouillier HH, Hausdorf J, von Schulze Pellengahr C. Medial branch
+                  blocks versus pericapsular blocks in selecting patients for percutaneous cryodenervation of lumbar
+                  facet joints. Reg Anesth Pain Med. 2007;32(1):27-33.
+              15. Cohen SP, Doshi TL, Constantinescu OC, et al. Effectiveness of lumbar facet joint blocks and
+                  predictive value before radiofrequency denervation: The Facet Treatment Study (FACTS), a
+                  randomized, controlled clinical trial. Anesthesiology. 2018;129(3):517-535.
+              16. Schwarzer AC, Aprill CN, Derby R, Fortin J, Kine G, Bogduk N. The false-positive rate of uncontrolled
+                  diagnostic blocks of the lumbar zygapophysial joints. Pain. 1994;58(2):195-200.
+              17. Yamashiro K, Arimura T, Iwaki R, Jensen MP, Kubo C, Hosoi M. A multidimensional measure of pain
+                  interference: Reliability and validity of the pain disability assessment scale. Clin J Pain.
+                  2011;27(4):338-343.
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                34/43
+9/4/26, 6:58 PM                                                                           LCD - Facet Joint Interventions for Pain Management (L38765)
+
+              18. Smeets R, Koke A, Lin CW, Ferreira M, Demoulin C. Measures of function in low back pain/disorders:
+                  Low Back Pain Rating Scale (LBPRS), Oswestry Disability Index (ODI), Progressive Isoinertial Lifting
+                  Evaluation (PILE), Quebec Back Pain Disability Scale (QBPDS), and Roland-Morris Disability
+                  Questionnaire (RDQ). Arthritis Care & Research. 2011;63(S11):S158-S173.
+              19. Fritz JM, Irrgang JJ. A comparison of a modified Oswestry Low Back Pain Disability Questionnaire
+                  and the Quebec Back Pain Disability Scale. Phys Ther. 2001;81(2):776-788.
+              20. Chiarotto A, Maxwell LJ, Terwee CB, Wells GA, Tugwell P, Ostelo RW. Roland-Morris Disability
+                  Questionnaire and Oswestry Disability Index: Which has better measurement properties for
+                  measuring physical functioning in nonspecific low back pain? Systematic review and meta-analysis.
+                  Phys Ther. 2016;96(10):1620-1637.
+              21. Koc M, Bayar B, Bayar K. A comparison of Back Pain Functional Scale with Roland Morris Disability
+                  Questionnaire, Oswestry Disability Index, and Short Form 36-Health Survey. Spine.
+                  2018;43(12):877-882.
+              22. Stekas ND, Johnson B, Jevotovsky D, et al. PROMIS is superior to established outcome measures in
+                  capturing disability resulting from sagittal malalignment in patients with back pain. Spine Deform.
+                  2020;8(3):499-505.
+              23. Bogduk N. On the rational use of diagnostic blocks for spinal pain. Neurosurg Q. 2009;19(2):88-100.
+              24. Derby R, Melnik I, Lee JE, Lee SH. Correlation of lumbar medial branch neurotomy results with
+                  diagnostic medial branch block cutoff values to optimize therapeutic outcome. Pain Med.
+                  2012;13(12):1533-1546.
+              25. Derby R, Melnik I, Choi J, Lee JE. Indications for repeat diagnostic medial branch nerve blocks
+                  following a failed first medial branch nerve block. Pain Physician. 2013;16:479-488.
+              26. Manchikanti L, Kaye AD, Boswell MV, et al. A systematic review and best evidence synthesis of the
+                  effectiveness of therapeutic facet joint interventions in managing chronic spinal pain. Pain Physician.
+                  2015;18(4):E535-E582.
+              27. Engel A, Rappard G, King W, Kennedy DJ. The effectiveness and risks of fluoroscopically-guided
+                  cervical medial branch thermal radiofrequency neurotomy: A systematic review with comprehensive
+                  analysis of the published data. Pain Med. 2016;17(4):658-669.
+              28. Engel A, King W, Schneider BJ, Duszynski B, Bogduk N. The effectiveness of cervical medial branch
+                  thermal radiofrequency neurotomy stratified by selection criteria: A systematic review of the
+                  literature. Pain Med. 2020;21(11):2726-2737.
+              29. Lord SM, Barnsley L, Wallis BJ, McDonald GJ, Bogduk N. Percutaneous radio-frequency neurotomy
+                  for chronic cervical zygapophyseal-joint pain. N Engl J Med. 1996;335(23):1721-1726.
+              30. Nath S, Nath CA, Pettersson K. Percutaneous lumbar zygapophysial (facet) joint neurotomy using
+                  radiofrequency current, in the management of chronic low back pain: A randomized double-blind
+                  trial. Spine. 2008;33(12):1291-1297.
+              31. Cohen SP, Williams KA, Kurihara C, et al. Multicenter, randomized, comparative cost-effectiveness
+                  study comparing 0, 1, and 2 diagnostic medial branch (facet joint nerve) block treatment paradigms
+                  before lumbar facet radiofrequency denervation. Anesthesiology. 2010;113(2):395-405.
+              32. Lilius G, Laasonen EM, Myllynen P, Harilainen A, Gronlund G. Lumbar facet joint syndrome: A
+                  randomised clinical trial. J Bone Joint Surg [Br]. 1989;71-B(4):681-684.
+              33. Carette S, Marcoux S, Truchon R, et al. A controlled trial of corticosteroid injections into facet joints
+                  for chronic low back pain. N Engl J Med. 1991;325(14):1002-1007.
+              34. Barnsley L, Lord SM, Wallis BJ, Bogduk N. Lack of effect of intraarticular corticosteroids for chronic
+                  pain in the cervical zygapophyseal joints. N Engl J Med. 1994;330(15):1047-1050.
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                 35/43
+9/4/26, 6:58 PM                                                                           LCD - Facet Joint Interventions for Pain Management (L38765)
+
+              35. Kennedy DJ, Fraiser R, Zheng P, et al. Intra-articular steroids vs saline for lumbar z-joint pain: A
+                  prospective, randomized, double-blind placebo-controlled trial. Pain Med. 2019;20(2):246-251.
+              36. Schneider BJ, Doan L, Maes MK, Martinez KR, Cota AG, Bogduk N. Systematic review of the
+                  effectiveness of lumbar medial branch thermal radiofrequency neurotomy, stratified for diagnostic
+                  methods and procedural technique. Pain Med. 2020;21(6):1122-1141.
+              37. Vekaria R, Bhatt R, Ellard DR, Henschke N, Underwood M, Sandhu H. Intra-articular facet joint
+                  injections for low back pain: A systematic review. Eur Spine J. 2016;25(4):1266-1281.
+              38. National Institute for Health and Care Excellence (NICE). Low back pain and sciatica in over 16s:
+                  Assessment and management. NICE Guideline. Published November 2016.
+              39. Chou R, Hashimoto R, Friedly J, et al. Pain Management Injection Therapies for Low Back Pain:
+                  Technology Assessment Report. Rockville, MD: Agency for Healthcare Research and Quality; 2015.
+              40. Chou R, Atlas SJ, Stanos SP, Rosenquist RW. Nonsurgical interventional therapies for low back pain:
+                  A review of the evidence for an American Pain Society clinical practice guideline. Spine.
+                  2009;34(10):1078-1093.
+              41. American Society of Anesthesiologists. Practice guidelines for chronic pain management: An
+                  updated report by the American Society of Anesthesiologists task force on chronic pain
+                  management and the American Society of Regional Anesthesia and Pain Medicine*. Anesthesiol.
+                  2010;112(4):810-833.
+              42. Watters WC III, Resnick DK, Eck JC, et al. Guideline update for the performance of fusion procedures
+                  for degenerative disease of the lumbar spine. Part 13: Injection therapies, low-back pain, and lumbar
+                  fusion. J Neurosurg: Spine. 2014;21(1):79-90.
+              43. Maas ET, Ostelo RW, Niemisto L, et al. Radiofrequency denervation for chronic low back pain.
+                  Cochrane Database of Systematic Reviews. 2015(10).
+              44. Juch JN, Maas ET, Ostelo RW, et al. Effect of radiofrequency denervation on pain intensity among
+                  patients with chronic low back pain: The Mint randomized clinical trials. JAMA. 2017;318(1):68-81.
+              45. Leggett LE, Soril LJ, Lorenzetti DL, et al. Radiofrequency ablation for chronic low back pain: A
+                  systematic review of randomized controlled trials. Pain Res Manag. 2014;19(5):e146-e153.
+              46. Lee CH, Chung CK, Kim CH. The efficacy of conventional radiofrequency denervation in patients with
+                  chronic low back pain originating from the facet joints: A meta-analysis of randomized controlled
+                  trials. Spine J. 2017;17(11):1770-1780.
+              47. Bernstein IA, Malik Q, Carville S, Ward S. Low back pain and sciatica: Summary of NICE guidance.
+                  BMJ. 2017;356:i6748.
+              48. Atluri S, Datta S, Falco FJ, Lee M. Systematic review of diagnostic utility and therapeutic effectiveness
+                  of thoracic facet joint interventions. Pain Physician. 2008;11(5):611-629.
+              49. Levinson DR. Medicare Payments for Facet Joint Injection Services. Department of Health and
+                  Human Services: Office of Inspector General; 2008.
+              50. Feigl GC, Dreu M, Kastner M, Rosmarin W, Kniesel B, Likar R. Thermocoagulation of the medial
+                  branch of the dorsal branch of the lumbal spinal nerve: Flouroscopy versus CT. Pain Med.
+                  2017;18:36–40.
+              51. Shuang F, Hou SX, Zhu JL, Ren DF, Cao Z, Tang JG. Percutaneous resolution of lumbar facet joint
+                  cysts as an alternative treatment to surgery: A meta-analysis. PLoS ONE. 2014;9(11):e111695.
+              52. Brummett CM, Goesling J, Tsodikov A, et al. Prevalence of the fibromyalgia phenotype in patients
+                  with spine pain presenting to a tertiary care pain clinic and the potential treatment implications.
+                  Arthritis Rheum. 2013;65(12):3285-3292.
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                 36/43
+9/4/26, 6:58 PM                                                                         LCD - Facet Joint Interventions for Pain Management (L38765)
+
+              53. Cohen SP, Bajwa ZH, Kraemer JJ, et al. Factors predicting success and failure for cervical facet
+                  radiofrequency denervation: A multi-center analysis. Reg Anesth Pain Med. 2007;32(6):495-503.
+              54. Cook DJ, Yeager MS, Oh MY, Cheng BC. Lumbar intrafacet bone dowel fixation. Neurosurgery.
+                  2015;76(4):470-478.
+              55. Li ZZ, Hou SX, Shang WL, Song KR, Wu WW. Evaluation of endoscopic dorsal ramus rhizotomy in
+                  managing facetogenic chronic low back pain. Clin Neurol Neurosurg. 2014;126:11-17.
+              56. Abejon D, Ortego R, Solis R, Alaoui N, del Saz J, del Pozo C. Trans-facet joint approach to pulsed
+                  radiofrequency ablation of the L5 dorsal root ganglion in a patient with degenerative spondylosis
+                  and scoliosis. Pain Pract. 2008;8(3):202-205.
+              57. Hashemi M, Hashemian M, Mohajerani SA, Sharifi G. Effect of pulsed radiofrequency in treatment of
+                  facet-joint origin back pain in patients with degenerative spondylolisthesis. Eur Spine J.
+                  2014;23(9):1927-1932.
+              58. Iwatsuki K, Yoshimine T, Awazu K. Alternative denervation using laser irradiation in lumbar facet
+                  syndrome. Lasers Surg Med. 2007;39(3):225-229.
+              59. Joo YC, Park JY, Kim KH. Comparison of alcohol ablation with repeated thermal radiofrequency
+                  ablation in medial branch neurotomy for the treatment of recurrent thoracolumbar facet joint pain. J
+                  Anesth. 2013;27(3):390-395.
+              60. Kroll HR, Kim D, Danic MJ, Sankey SS, Gariwala M, Brown M. A randomized, double-blind,
+                  prospective study comparing the efficacy of continuous versus pulsed radiofrequency in the
+                  treatment of lumbar facet syndrome. J Clin Anesth. 2008;20(7):534-537.
+              61. ASA Committee on Quality Management and Departmental Administration. Statement on
+                  continuum of depth of sedation: Definition of general anesthesia and levels of sedation/analgesia .
+                  American Society of Anesthesiologists Web site. Published 10/13/99. Updated 10/23/19. Accessed
+                  9/15/25.
+              62. Kim DK. Nonoperating room anaesthesia for elderly patients. Curr Opin Anaesthesiol.
+                  2020;33(4):589-593.
+              63. Overdyk F, Dowling O, Marino J, et al. Association of opiods and sedatives with increased risk of in-
+                  hospital cardiopulmonary arrest from an administrative database. PloS ONE. 2016;11(2):e0150214.
+              64. Schneider BJ, McCormick Z, O’Brien D, Bunch M, Smith CC on behalf of the Spine Intervention
+                  Society’s Patient Safety Committee. Patient safety: Conscious sedation. Pain Med. 2018;19:1872-
+                  1873.
+              65. Cohen SP, Hameed H, Kurihara C, et al. The effect of sedation on the accuracy and treatment
+                  outcomes for diagnostic injections: A randomized, controlled, crossover study. Pain Med.
+                  2014;15(4):588-602.
+              66. Diehn FE, Geske JR, Amrami KK, et al. An audit of transforaminal epidural steroid injections without
+                  sedation: Low patient dissatisfaction and low vasovagal rates. Pain Med. 2013;14(7):994-998.
+              67. Manchikanti L, Kosanovic R, Pampati V, et al. Equivalent outcomes of lumbar therapeutic facet joint
+                  nerve blocks and radiofrequency neurotomy: Comparative evaluation of clinical outcomes and cost
+                  utility. Pain Physician. 2022;25(2):179-192.
+              68. Manchikanti L, Kosanovic R, Pampati V, Sanapati MR, Hirsch JA. Outcomes of cervical therapeutic
+                  medial branch blocks and radiofrequency neurotomy: Clinical outcomes and cost utility are
+                  equivalent. Pain Physician. 2022;25(1):35-47.
+              69. Baroncini A, Maffulli N, Eschweiler J, Knobe M, Tingart M, Migliorini F. Management of facet joints
+                  osteoarthritis associated with chronic low back pain: A systemic review. Surgeon. 2021;19(6):e512-
+                  e518.
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                               37/43
+9/4/26, 6:58 PM                                                                                  LCD - Facet Joint Interventions for Pain Management (L38765)
+
+              70. Do KH, Ahn SH, Cho YW, Chang MC. Comparison of intra-articular lumbar facet joint pulsed
+                  radiofrequency and intra-articular lumbar facet joint corticosteroid injection for management of
+                  lumbar facet joint pain: A randomized controlled trial. Medicine. 2017;96(13):e6524.
+              71. Lee DG, Ahn SH, Cho YW, Do KH, Kwak SG, Chang MC. Comparison of intra-articular thoracic facet
+                  joint steroid injection and thoracic medial branch block for the management of thoracic facet joint
+                  pain. Spine. 2018;43(2):76-80.
+              72. Rocha ID, Cristante AF, Marcon RM, Oliveira RP, Letaif OB, Barros Filho TE. Controlled medial branch
+                  anesthetic block in the diagnosis of chronic lumbar fact joint pain: The value of a three-month follow-
+                  up. Clinics. 2014;69(8):529-534.
+              73. Manchikanti L, Knezevic E, Knezevic NN, et al. The effectiveness of medial branch blocks and
+                  radiofrequency neurotomy in managing chronic thoracic pain: A systematic review and meta-
+                  analysis. Pain Physician. 2023;26(5):413-435.
+              74. Anshul, Malhotra N, Kumar A, Jyotsna, Rohilla K, Sinha N. Comparative evaluation of intraarticular
+                  facet joint injection versus medial branch block in patients with low back pain: A randomised
+                  controlled study. Cureus. 2023;15(11):e49232.
+              75. Pasuhirunnikorn P, Tanasansomboon T, Singhatanadgige W, Yingsakmongkol W, Chalermkitpanit P.
+                  Comparative outcome of lidocaine versus bupivacaine for cervical medial branch block in chronic
+                  cervical facet arthropathy: A randomized double-blind study. World Neurosurg. 2023;175:e662-
+                  e668.
+              76. Manchikanti L, Knezevic E, Knezevic NN, et al. Effectiveness of facet joint nerve blocks in managing
+                  chronic axial spinal pain of facet joint origin: A systematic review and meta-analysis. Pain Physician.
+                  2024;27(2):E169-E206.
+              77. 2017 Scientific Session of the Society of American Gastrointestinal and Endoscopic Surgeons
+                  (SAGES) Houston, Texas, USA, 22-25 March 2017: Video presentations. Surg Endosc. 2017;31(Suppl
+                  1):S68-S107.
+
+
+
+
+       Revision History Information
+
+                  Revision              Revision
+
+                  History               History
+
+                  Date                  Number              Revision History Explanation              Reasons for Change
+
+
+
+
+                  04/09/2026            R7                  Under Coverage Indications,                       Provider
+                                                            Limitations and/or Medical                        Education/Guidance
+
+                                                            Necessity under C. Facet Joint
+                                                            Denervation revised b. to read
+
+                                                            “Repeat thermal facet joint RFA at
+                                                            the same anatomic site is
+                                                            considered medically reasonable
+                                                            and necessary provided the
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                        38/43
+9/4/26, 6:58 PM                                                                                    LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+
+                  Revision              Revision
+
+                  History               History
+
+                  Date                  Number              Revision History Explanation                Reasons for Change
+
+
+                                                            patient had a minimum of
+                                                            consistent 50% improvement in
+                                                            pain for at least 6 months or at
+                                                            least 50% consistent improvement
+                                                            in the ability to perform previously
+                                                            painful movements and ADLs as
+                                                            compared to baseline
+                                                            measurement using the same
+                                                            scale.”
+
+
+
+                  10/23/2025            R6                  Under Coverage Indications,                         Provider
+                                                            Limitations and/or Medical                          Education/Guidance
+                                                            Necessity under section C. Facet
+                                                            Joint Denervation, under b.,
+                                                            revised verbiage to “Repeat
+                                                            thermal facet joint RFA at the
+                                                            same anatomic site is considered
+                                                            medically reasonable and
+                                                            necessary provided the patient
+                                                            had a minimum of consistent 50%
+                                                            improvement in pain or consistent
+                                                            improvement in the ability to
+                                                            perform previously painful
+                                                            movements and ADLs as
+                                                            compared to baseline
+                                                            measurement using the same
+                                                            scale for at least 6 months.” Under
+                                                            Bibliography updated the
+                                                            hyperlink for source #12.
+
+
+
+                  07/17/2025            R5                  Under Coverage Indications,                         Provider
+                                                            Limitations and/or Medical                          Education/Guidance
+                                                            Necessity under section C. Facet
+                                                            Joint Denervation, removed “ALL”
+                                                            from the sentence “The thermal
+                                                            radiofrequency destruction of
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                          39/43
+9/4/26, 6:58 PM                                                                                  LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+
+                  Revision              Revision
+
+                  History               History
+
+                  Date                  Number              Revision History Explanation              Reasons for Change
+
+
+                                                            cervical, thoracic, or lumbar
+                                                            paravertebral facet joint (medial
+                                                            branch (MB)) nerves are
+                                                            considered medically reasonable
+                                                            and necessary for patients who
+                                                            meet ALL the following criteria.”
+                                                            Added “Initial thermal
+                                                            radiofrequency destruction” to the
+                                                            beginning of (a.) and removed
+                                                            “AND” from the end of (a.). Under
+                                                            Bibliography removed broken
+                                                            hyperlink on reference #12 and
+                                                            changes were made to citations to
+                                                            reflect AMA citation guidelines.
+
+
+
+                  07/07/2024            R4                  Under Coverage Indications,                       Provider
+                                                            Limitations and/or Medical                        Education/Guidance
+                                                            Necessity in section B.
+                                                            Therapeutic Facet Joint
+                                                            Procedures (IA or MBB) under
+                                                            Frequency Limitation removed
+                                                            “(IA)”. Under Limitations removed
+                                                            “IA” in limitation #9.
+
+
+
+                  07/07/2024            R3                  This LCD is being presented for                   Provider
+                                                            notice. Under Coverage                            Education/Guidance
+                                                            Indications, Limitations and/or                   Reconsideration
+                                                            Medical Necessity in section B.                   Request
+                                                            title, “or MBB” was added. Under
+                                                            section D. Frequency Limitation,
+                                                            “per individual cyst” was added.
+                                                            Under Limitations #3, “anesthesia”
+                                                            was revised to “sedation” and the
+                                                            verbiage “or cyst
+                                                            rupture/aspiration” was added.
+                                                            Under Limitations #8, “or” was
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                        40/43
+9/4/26, 6:58 PM                                                                                   LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+
+                  Revision              Revision
+
+                  History               History
+
+                  Date                  Number              Revision History Explanation               Reasons for Change
+
+
+                                                            revised to “and”. Under Summary
+                                                            of Evidence under
+                                                            Reconsideration Request, the
+                                                            sixth, seventh, and eighth bullet
+                                                            points were added; and the
+                                                            following verbiage was added to
+                                                            the last paragraph, in the last
+                                                            sentence: “and allow therapeutic
+                                                            injections as first line treatment
+                                                            for facet mediated pain. However,
+                                                            evidence that the effectiveness
+                                                            and outcomes for IA and MBB are
+                                                            similar and, therefore, either
+                                                            should be allowed when
+                                                            therapeutic RFAs are appropriate
+                                                            is supported by evidence.” Under
+                                                            Bibliography sources 73-76 were
+                                                            added.
+
+
+
+                  05/18/2023            R2                  Under CMS National Coverage                        Provider
+                                                            Policy updated section headings                    Education/Guidance
+                                                            and added the following
+                                                            regulations: “Title XVIII of the
+                                                            Social Security Act, §1861(s)(2)
+                                                            addresses medical and other
+                                                            health services; Title XVIII of the
+                                                            Social Security Act, §1862(a)(14)
+                                                            defines other than physician
+                                                            services; 42 CFR §410.74 defines
+                                                            physician assistants' services,
+                                                            §410.75 defines nurse
+                                                            practitioners' services, §410.76
+                                                            defines clinical nurse specialists'
+                                                            services, and §419.22 defines
+                                                            hospital services excluded from
+                                                            payment under the hospital
+                                                            outpatient prospective payment
+                                                            system.” Under Bibliography fixed
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                         41/43
+9/4/26, 6:58 PM                                                                                  LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+
+                  Revision              Revision
+
+                  History               History
+
+                  Date                  Number              Revision History Explanation              Reasons for Change
+
+
+                                                            hyperlink on reference #11, and
+                                                            changes were made to citations to
+                                                            reflect AMA citation guidelines.
+                                                            Formatting, punctuation and
+                                                            typographical errors were
+                                                            corrected throughout the LCD.
+                                                            Acronyms were inserted and
+                                                            defined where appropriate
+                                                            throughout the LCD.
+
+
+
+                  05/26/2022            R1                  Under Summary of Evidence –                       Provider
+                                                            Diagnostic Facet Joint Injections                 Education/Guidance
+                                                            added reference #25 where
+                                                            appropriate. Under Bibliography
+                                                            repaired the broken hyperlinks for
+                                                            references #5 and #11.
+
+
+
+
+       Associated Documents
+            Attachments
+
+            N/A
+
+            Related Local Coverage Documents
+
+            Articles
+
+            A58350 - Billing and Coding: Facet Joint Interventions for Pain Management
+            A59751 - Response to Comments: Facet Joint Interventions for Pain Management
+            LCDs
+
+            DL38765 - Facet Joint Interventions for Pain Management (MCD Archive Site)
+
+            Related National Coverage Documents
+
+            NCDs
+
+            30.3 - Acupuncture
+            220.1 - Computed Tomography
+            150.7 - Prolotherapy, Joint Sclerotherapy, and Ligamentous Injections with Sclerosing Agents
+
+            Public Versions
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                        42/43
+9/4/26, 6:58 PM                                                                                  LCD - Facet Joint Interventions for Pain Management (L38765)
+
+
+
+                  Updated On                 Effective Dates                      Status
+
+
+
+
+                  04/02/2026                 04/09/2026 - N/A                     Currently in Effect                  You are here
+
+
+
+                  10/17/2025                 10/23/2025 - 04/08/2026              Superseded                                View
+
+
+
+                  07/09/2025                 07/17/2025 - 10/22/2025              Superseded                                View
+
+
+                  Some older versions have been archived. Please visit the MCD Archive Site              to retrieve them.
+
+
+
+
+       Keywords
+                    Facet Joint Interventions
+                    Pain Management
+
+
+
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38765&ver=27                                                                        43/43
+

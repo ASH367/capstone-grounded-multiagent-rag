@@ -1,0 +1,494 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+
+
+In the case of                        Claim for
+
+Kaweah Delta Rehabilitation           Hospital Insurance Benefits
+Hospital                              (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+National Government Services          ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+January 23, 2009, which concerned rehabilitation hospital
+services provided to the beneficiary from November 5, 2004 to
+November 19, 2004. The ALJ concluded that an overpayment was
+justified for this claim based on a determination that the
+beneficiary did not require inpatient rehabilitation services at
+the level of care provided by the appellant hospital. The
+appellant has asked the Medicare Appeals Council to review this
+action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, because the appellant is not an unrepresented
+beneficiary. 42 C.F.R. § 405.1112(c). As set forth below, the
+Council reverses the ALJ’s decision.
+
+CASE BACKGROUND
+
+This claim for two weeks of inpatient rehabilitation services
+provided to the beneficiary was initially paid. On June 7,
+2007, a Medicare Recovery Audit Contractor found that claim was
+erroneously paid, resulting in an overpayment determination.
+The initial levels of appeal upheld the conclusions that the
+                                                                   2
+
+
+
+
+services were not medically necessary and that appellant was
+liable for the charges.
+
+The factual findings made by the ALJ include the following
+information about the beneficiary’s medical needs and treatment:
+
+She was 77 years old at the time of this rehabilitation
+placement and had been suffering for some years from progressive
+lung disease. ALJ Decision at 2, and record citations therein.
+Between June and October of 2004, the beneficiary presented
+repeatedly in emergency rooms with episodes of severe shortness
+of breath (SOB). Id. She required in-patient hospital
+admissions in August, September, and finally on October 31,
+2004. Id.
+
+On admission to the inpatient rehabilitation facility (IRF) from
+the hospital, her primary diagnosis was “severe debilitation due
+to multiple hospitalizations for pneumonia secondary to severe
+chronic obstructive pulmonary disease [COPD],” with additional
+diagnoses including diverticulitis, bowel problems and severe
+muscle wasting in the extremities. Id. The beneficiary also
+suffered from complaints of “severe fatigue, inability to
+ambulate, extreme muscle weakness, occasional dyspepsia,
+frequent constipation, and several tender joints. Id. The
+initial IRF treatment plan included providing daily occupational
+and physical therapy, maintaining existing medications (which
+included oxygen therapy and high doses of steroids), and
+introducing new medications (including adding Flagyl to existing
+antibiotics to address possible anaerobic infection,
+nitroglycerin ointment to address high blood pressure, and other
+treatments for breathing, possible allergy and bowel issues).
+Id. at 2-3, and record citations therein. She also entered with
+a stage II pressure sore on her coccyx, with leukocytosis,
+hyponatremia, and hypokalemia. Id.
+
+By the end of her two-week stay in the IRF, the beneficiary’s
+“abdominal complaints improved, her energy improved, her eating
+improved, and she gained five pounds.” Id. at 2, and record
+citations therein. Her coccyx ulcer “responded well to
+treatment,” her leukocytosis “resolved,” her hyponatremia “was
+corrected,” and her hypokalemia “was being treated.” Id. at 3,
+and record citations therein.
+
+The ALJ nevertheless concluded that the beneficiary’s condition
+was stable when she was admitted to the IRF and that she had “no
+active co-morbidities, illness, infection, or complication that
+                                                                   3
+
+
+
+
+made it reasonable to believe that [she] required an [IRF] level
+of care, rather than a SNF [skilled nursing facility] level of
+care.” ALJ Decision at 10. In support of his conclusion that
+the level of care was not medically necessary, the ALJ states
+that she did not have “an exacerbation or exacerbations of her
+co-morbid chronic medical conditions while in the [IRF],” that
+the services provided were “not so unique or complicated that
+they could not have been provided in a SNF,” and that the
+“treating physician” recommended these services at the request
+of the beneficiary’s family because they did not want to place
+her in long-term care even though these services were “routinely
+provided” in SNFs. Id.
+
+APPLICABLE LEGAL AUTHORITIES
+
+Inpatient hospital care is coverage under Part A of Medicare
+when it meets the description of such services in the statute
+and regulations so long as the services provided are “reasonable
+and necessary for the diagnosis or treatment of illness or
+injury or to improve the functioning of a malformed body
+member.” ALJ Decision at 4-5, quoting section 1862(a) of the
+Social Security Act (Act) and citing applicable statutory and
+regulatory provisions. The term “hospital” includes an
+institution “primarily engaged in providing, by or under the
+supervision of physicians, to inpatients . . . (B)
+rehabilitation of injured, disabled, or sick persons.” Section
+1861(e)(1) of the Act.
+
+CMS has developed guidance on how to determine whether stays in
+IRFs are reasonable and necessary and stresses that each
+beneficiary’s individual care needs must be carefully assessed,
+without reliance on any general rules of thumb as to diagnosis,
+specific treatments, or screens. Medicare Benefit Policy Manual
+(MBPM), Pub. 100-02, Chap. 1, § 110.1. In general, patients
+need hospital-level rehabilitative services, if they require a
+relatively intense rehabilitation program that requires a
+multidisciplinary coordinated team approach to upgrade their
+ability to function. There are two basic requirements that must
+be met for inpatient hospital stays for rehabilitation care to
+be covered:
+
+     1. The services must be reasonable and necessary (in terms
+     of efficacy, duration, frequency, and amount) for the
+     treatment of the patient's condition; and
+                                                                   4
+
+
+
+
+     2. It must be reasonable and necessary to furnish the care
+     on an inpatient hospital basis, rather than in a less
+     intensive facility such as a SNF, or on an outpatient
+     basis.
+
+MBPM, Ch. 1, § 110.1.
+
+On admission, IRFs are to evaluate the appropriateness of its
+services for the beneficiary using a Patient Assessment
+Instrument (PAI). MBPM, Ch. 1, § 110.3. The core criterion for
+screening a patient for IRF services is that the “patient
+requires and receives ‘a more coordinated, intensive program of
+multiple services than is generally found out of a hospital.”
+MBPM, Ch. 1, § 110.4. In that regard, CMS advises that a
+“patient probably requires a hospital level of care if they have
+either one or more conditions requiring intensive and multi-
+disciplinary rehabilitation care, or a medical complication in
+addition to their primary condition, so that the continuing
+availability of a physician is required to ensure safe and
+effective treatment.” Id.
+
+CMS also provides a set of screening criteria to be used at the
+initial claims review level to identify cases that “clearly
+involve a hospital level of rehabilitative care” without
+requiring further review. Id. The manual makes clear that
+failing to satisfy any of these criteria does not imply that the
+claim should be denied, but only that it should be reviewed by a
+physician who will determine medical necessity, reasonableness,
+and appropriateness based on their own judgment without
+reference to these criteria. Id.; see Hooper v. Sullivan, 1989
+WL 107497, at 1 (D. Conn. 1989)(specific criterion of
+3 hours/day of therapy is not meant to create irrebuttable
+presumption of noncoverage.). The criteria, which were cited by
+the ALJ, are as follows:
+
+     1.   “24-hour availability of a physician with special
+          training or experience in the field of rehabilitation,”
+          evidenced by medical record documentation of physician
+          involved at least every 2-3 days during stay. (The
+          manual notes that this “degree of physician involvement
+          . . . is greater than is normally rendered to a patient
+          in a SNF . . . .”);
+     2.   “24-hour availability of a registered nurse with
+          specialized training or experience in rehabilitation;”
+     3.   At least 3 hours per day of physical or occupational
+          therapy on at least 5 days per week;
+                                                                               5
+
+
+
+
+      4.   A multi-disciplinary care team approach, including at
+           least the physician, rehabilitation nurse and
+           therapist;
+      5.   Documentation of a coordinated program of care,
+           including at least biweekly team conferences;
+      6.   An expectation based on the assessment of “significant
+           practical improvement . . . in a reasonable period of
+           time,” although not necessarily to complete
+           independence; and
+      7.   Realistic goals, which for most Medicare patients would
+           mean “self-care or independence in the activities of
+           daily living; i.e., self-sufficiency in bathing,
+           ambulation, eating, dressing, homemaking, etc., or
+           sufficient improvement to allow a patient to live at
+           home with family assistance rather than in an
+           institution,” so that “the aim of the treatment is
+           achieving the maximum level of function possible.”
+
+MBPM, Ch. 1, §§ 110.4.1-110.4.7.
+
+ANALYSIS
+
+The ALJ finds that the beneficiary did need rehabilitation
+services but questions the need for them to be provided in a
+hospital-level setting. The facts of the beneficiary’s multiple
+and complex medical problems with muscle wasting, digestive
+illness resulting in inadequate nutrition, severe debilitation
+and COPD and pneumonia causing repeated crises and
+hospitalizations in a short period of time would seen, on their
+face, to demonstrate a need for IRF services. She appears both
+to have suffered from more than one condition creating a need
+for “intensive and multi-disciplinary rehabilitation care,” and
+to have had multiple medical complications in addition to her
+primary admitting condition (severe debilitation) justifying a
+need for “continuing availability of a physician is required to
+ensure safe and effective treatment.” Either situation is
+presented in the manual as probably demonstrating a need for
+hospital-level rehabilitation. MBPM, Ch. 1, § 110.4.
+
+Additional evidence in the record but not discussed by the ALJ
+documents that the beneficiary met the advisory criteria set out
+in the manual as well. The record contains a PAI signed by the
+treating physician listing nine co-morbid conditions. Ex. 8, at
+739.1 The PAI shows the resident on intake as requiring total
+1
+  The ALJ did not discuss any of the statements or testimony of the treating
+physician in his findings of fact or analysis. His factual findings relied
+                                                                           6
+
+
+
+
+assist with walking and bladder control and minimal-level
+assistance with transfers, bathing, dressing, and toileting.
+Ex. 8, at 740. Progress notes by the treating physician for
+visits and adjustments to medication, oxygen use and other
+treatments are documented every day from November 8, 2004
+through the discharge date on November 19, 2004. Ex. 8, at 705-
+712. Physician orders for medication or treatment changes
+appear in the record for November 5 (thorough orders on
+admission), November 6 (two separate times), November 7,
+November 9 (two separate times), November 17, and November 19
+(discharge orders). Ex. 8, at 693-701. The medical and nursing
+records provided by the appellant support its assertion that, in
+order to address the combined effects of SOB and resulting
+anxiety which interfered with improving mobility and endurance,
+rehabilitative nurses had to monitor oxygen saturation closely
+(repeatedly in a single day), administer as needed medications,
+and coordinate respiratory treatment with the physician
+regularly. Ex. 8 passim. Furthermore, close monitoring of
+heart rate was required due to multiple episodes of sinus
+tachycardia and daily weight checks and active nutritional
+interventions were needed to address the contribution of
+malnutrition to her debilitation. Id. These records establish
+the availability of and need for 24-hour physician and
+registered nurse capacities. No question was raised about the
+beneficiary’s receipt of at least 3 hours per day of physical
+and occupational therapy.
+
+On entry, a comprehensive multidisciplinary initial evaluation
+was performed and appropriate goals and modalities were
+articulated in writing, and concluded that the beneficiary’s
+rehabilitation potential for the identified goals was “good.”
+Ex. 8, at 713-19. Daily plans of care record identified needs
+and collected data as to each, the actions taken that shift to
+address every area, the patient’s responses in each area, daily
+assessment of the level of assistance or intervention the
+patient required, multidisciplinary activity flow sheets, and
+specific focus notes on areas of concern. Ex. 8 at 740-855. A
+written team conference report for November 12, 2004, documents
+the presence of the physician, two therapists, two registered
+nurses, and the social worker reviewing the beneficiary’s
+medical and psychosocial status, identifying specific treatment
+
+almost entirely on his reading of seven pages constituting the beneficiary’s
+history and physical findings on admission and her discharge summary. Ex. 1,
+at 12-18. The ALJ did not explain why he apparently disregarded several
+hundred pages of underlying medical records along with the only medical
+testimony, since no other expert appeared.
+                                                                   7
+
+
+
+
+goals, planning specific interventions, and assessing how to
+remove remaining barriers to discharge. Ex. 8, at 747. This
+documentation establishes that a multidisciplinary team approach
+was used and documented and coordinated with team conferences at
+least biweekly.
+
+The reasonableness of the expectation for improvement and of the
+goal set for the beneficiary to regain the ability to function
+in her home setting with family support is established by the
+ample documentation of the progress actually made by the
+beneficiary in a two-week period. The ALJ recognized that the
+intensive interventions had resulted in resolving or improving
+multiple medical issues and in successfully addressing her
+weakness and nutritional deficits. ALJ Decision at 2-3. On
+admission, the beneficiary required two liters of oxygen airflow
+to maintain adequate saturation while her treating physician
+testified at the hearing that she was able to reduce the airflow
+to 1 liter by discharge despite her higher level of activity.
+Compare Ex. 8, at 713 with Hearing CD. A discharge evaluation
+form records that the beneficiary had achieved modified
+independence (i.e., may require use of a device but not outside
+assistance) in all areas of self-care and toilet transfer, had
+complete bowel control and improved bladder control, and had
+moved from total assist for walking to modified independence in
+walking and from no ability to negotiate stairs to the ability
+to climb stairs with maximal assist. Ex. 8, at 720. The
+treating physician testified that all of the resident’s
+discharge goals were achieved.
+
+The ALJ made no finding that any of the advisory criteria were
+not met. The reasons which the ALJ gave for rejecting the need
+for this level of care, as explained above, may be summarized as
+follows:
+
+  (1)   The beneficiary was stable on admission to the IRF.
+  (2)   The beneficiary did not have “active” co-morbidities,
+        illnesses, infections, or complications.
+  (3)   The beneficiary did not suffer an exacerbation while in
+        the IRF.
+  (4)   The beneficiary’s needs could have been met in a SNF.
+  (5)   The placement was made at the family’s request to avoid a
+        long-term care placement.
+
+The ALJ does not explain why, even if true, being medically
+stable on admission would disqualify the beneficiary from
+coverage for IRF services. Nor does the ALJ explain the basis
+                                                                   8
+
+
+
+
+for his assertion that the beneficiary was stable. The
+statement appears to be based on a statement in the QIC decision
+that the admission history showed that the beneficiary’s “vital
+signs were stable” and she did not “present in acute distress.”
+Ex. 13, at 1023. No legal authority appears to require that
+beneficiaries must have unstable vital signs and be in acute
+distress in order to need hospital-level rehabilitation. Here,
+in fact, the treating physician testified that the vital signs
+recorded on the history are not stable or medically appropriate
+and that they called for medical intervention, which he
+proceeded to provide. Hearing CD. Her pulse was 110; her
+temperature was 99.4; her respirations were 36; and her blood
+pressure was 119/64. Ex. 8, at 684, 860. The physician
+testified that the temperature was significantly elevated (as it
+had been frequently in the recent past) when viewed in light of
+the high level of steroids she was taking which should have
+caused a lowering of temperature. Hearing CD. The record
+reflects that cooling interventions were begun to bring down her
+temperature. The physician also testified that her respirations
+should have been closer to 14-15 than 35. Hearing CD. The
+record reflects, and the physician testified to, extensive
+efforts to teach breathing techniques and manage “air hunger”
+and anxiety in order to reverse shallow breathing which was
+leading to toxic accumulation of carbon dioxide impacting
+cognition and function. Hearing CD; Ex. 8 passim. The blood
+pressure reading led to immediate medication changes to try to
+lower her blood pressure. The physician opined that the
+beneficiary was “not medically stable,” and that considerable
+thought was given to whether she was well enough to undertake
+the intensive rehabilitation program even with the extensive
+medical support in the IRF. Hearing CD.
+
+As already discussed, the beneficiary had extensive co-
+morbidities and suffered from multiple chronic and acute
+illnesses. The treating physician testified at length to the
+interactions among these problems and the importance of managing
+all of them aggressively in order to maximize the likelihood of
+success in rehabilitation. Hearing CD.
+
+The ALJ does not explain why, even if true, not having an
+exacerbation of a co-morbidity during her stay would disqualify
+the beneficiary from coverage for IRF services. In addition, he
+cites no factual basis for this assertion. The treating
+physician directly denied the accuracy of this claim and
+reported that in fact the beneficiary suffered exacerbations in
+multiple areas requiring active interventions. Hearing CD. The
+                                                                   9
+
+
+
+
+record supports the physician’s testimony, showing an
+electrocardiogram on November 6, 2004 in response to an increase
+in SOB, a chest X-ray on November 8, 2004 due to racing heart,
+and an abdominal scan on November 18, 2004 due to abdominal
+pain. Ex. 8, at 860, 869, and 871.
+
+If the beneficiary’s needs could indeed have been met in a SNF,
+that would justify non-coverage of care in an IRF. The ALJ
+provided no basis, however, for his conclusory statement that a
+SNF setting would have been appropriate. The treating physician
+opined that it would have been unsafe for this beneficiary to
+have received rehabilitation services in a SNF setting. Hearing
+CD. He testified that, in his experience, a SNF could not
+provide multiple medication and treatment changes daily. Id.
+He further testified that he did not believe that the level of
+nursing care that this beneficiary required could be routinely
+provided at a SNF. Id. In this regard, the appellant submitted
+a data analysis identified as based on “OSHPD LTC Annual
+Disclosure Reports,” which covered collective financial and
+staffing information on the 13 SNFs in the same county as its
+IRF during 2004. Ex. 8, at 661-64. Based on this data, the
+appellant calculates that registered nurses in those SNFs spend,
+on average, only 0.13 “productive hours per patient day.” Id.
+at 663. By contrast, the appellant asserts that at the relevant
+time its registered nurses spent 3.86 productive hours per
+patient day. Appellant’s Request for Review (RR) at 3. While
+it might be possible to question the basis for the physician’s
+knowledge of SNF capabilities or the accuracy of the data
+analysis, no conflicting expert testimony or other inconsistent
+evidence appears in the record.
+
+The ALJ does not explain why the family’s wish that the
+beneficiary not need long-term care and that she receive
+rehabilitation at the IRF to avoid that outcome undercuts the
+evidence that the beneficiary needed that level of care. The
+ALJ states that the “treating physician” recommended the IRF
+services “at the request” of the family, which implies that the
+physician acted to accommodate the family rather than based on
+independent medical judgment. ALJ Decision at 10. The treating
+physician directly denied that implication. Hearing CD. He
+testified, and the record corroborates, that the recommendation
+for IRF services did not come from him, but rather from the
+hospitalist treating the beneficiary and from a consulting
+pulmonologist. Hearing CD; Ex. 8, at 683. The family wish to
+see the beneficiary able to return home rather have her placed
+in a long-term care facility is certainly not a sufficient basis
+                                                                  10
+
+
+
+
+to justify IRF care, but neither are we aware of any rule that
+the family’s desire precludes coverage of IRF care if otherwise
+appropriate. The appellant states that many families request
+rehabilitation services at its facility but that “in every
+instance only those who meet the criteria for admission after a
+careful preadmission screening are accepted.” RR at 4. CMS’s
+manual explicitly identifies as a “reasonable goal” for IRF
+services “sufficient improvement to allow a patient to live at
+home with family assistance rather than in an institution.”
+MBPM, Ch. 1, §§ 110.4.7.
+
+
+CONCLUSION
+
+We conclude that the ALJ’s reasons for denying coverage were all
+legally irrelevant, factually unsupported by substantial
+evidence on the record as a whole, or both. We conclude that
+the evidence of record establishes that the IRF services at
+issue were medically reasonable and necessary and are covered by
+Medicare.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+                                   /s/ Leslie A. Sussan, Member
+                                   Departmental Appeals Board
+
+
+
+                                   /s/Constance B. Tobias, Chair
+                                   Departmental Appeals Board
+
+Date: May 13, 2009
+

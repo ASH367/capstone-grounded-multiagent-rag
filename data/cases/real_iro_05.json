@@ -1,0 +1,64 @@
+{
+  "case_id": "real_iro_05",
+  "expected_decision": null,
+  "reference_outcome": "upheld",
+  "source": {
+    "type": "real public Texas DOI IRO decision (name-redacted)",
+    "url": "https://www.tdi.texas.gov/medcases/iro/2019/april/wp212148250532amen.pdf",
+    "reviewer_reason": "Lack of objective facet findings; radicular symptoms point to epidural not facet intervention",
+    "note": "Reviewer applied ODG/ACOEM guidelines, NOT Medicare LCD L38765. Outcome is an external reference, not an LCD ground truth."
+  },
+  "claim": {
+    "type_of_bill": null,
+    "emergency_dept": null,
+    "pa_requested_before_service": null
+  },
+  "clinical": {
+    "axial_pain": true,
+    "baseline_pain_nrs": null,
+    "disability_scale": null,
+    "disability_score_pct": null,
+    "pain_duration_months": null,
+    "conservative_management": [
+      "physical therapy",
+      "NSAIDs",
+      "medications",
+      "traction"
+    ],
+    "untreated_radiculopathy": true,
+    "non_facet_pathology": "disc herniation/bulging at multiple levels with radicular findings",
+    "centralized_pain_dx": null
+  },
+  "procedure": {
+    "type": "diagnostic_mbb",
+    "guidance": null,
+    "sedation": "monitored anesthesia care candidate",
+    "spinal_regions": 2,
+    "prior_diagnostic_mbb_relief_pct": null,
+    "services": [
+      {
+        "cpt": "MBB level 1",
+        "level": 1
+      },
+      {
+        "cpt": "MBB level 2",
+        "level": 2
+      },
+      {
+        "cpt": "MBB level 3",
+        "level": 3
+      },
+      {
+        "cpt": "MBB level 4",
+        "level": 4
+      }
+    ]
+  },
+  "documentation": {
+    "baseline_pain_documented": null,
+    "pain_scale_used": null,
+    "baseline_disability_documented": null,
+    "disability_scale_used": null,
+    "conservative_records_attached": true
+  }
+}

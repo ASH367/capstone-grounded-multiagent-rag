@@ -1,0 +1,183 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-11-716
+
+
+In the case of                            Claim for
+
+                                          Supplementary Medical
+Midwest Lifeteam                          Insurance Benefits (Part B)
+(Appellant)
+
+
+****                                      ****
+(Beneficiary)                             (HIC Number)
+
+
+Wisconsin Physicians Services             ****
+(Contractor)                              (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+November 22, 2010, which concerned Medicare coverage for
+hospital-to-hospital air ambulance transport services furnished
+to the beneficiary on August 16, 2009. 1 The specific issue
+before the ALJ, and now before the Council, was whether Medicare
+would cover the full 203 miles of the transport at issue or
+would cover only the first 133 miles of the trip, based on the
+regulatory limitation that Medicare covers ambulance
+transportation only to the nearest medically-appropriate
+facility. The ALJ determined Medicare would not cover the
+additional 70 miles of the transport at issue and held the
+appellant financially responsible for the non-covered charges.
+The appellant has asked the Medicare Appeals Council (Council)
+to review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+1
+  There appears to have been some technical difficulty during the hearing, as
+the Council was unable to hear the initial introductory remarks on the
+recording of the hearing. However, during these brief moments, only the
+introduction of the case and part of the description of the exhibit list were
+discussed. It seems that the appellant was also unable to hear the ALJ
+during this period, as the appellant’s representative stated that she did not
+hear the name of the patient. In response, the ALJ provided the patient name
+and ALJ number and then, it appeared, continued to describe the exhibit list.
+                                                                   2
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). The Council has admitted the
+appellant’s request for review into the record as Exhibit (Exh.)
+MAC-1.
+
+As set forth below, the Council adopts the ALJ’s coverage denial
+for the additional air mileage, but reverses the ALJ’s decision
+as to liability.
+
+Medicare Coverage for the Air Ambulance Service
+
+The background and procedural history of this appeal are
+thoroughly outlined in the ALJ decision and will not be repeated
+in detail here. Dec. at 1-2. In summary, on the date of
+service at issue, the appellant was seen in the emergency room
+at Beaver County Memorial Hospital where she was diagnosed with
+cardiac arrhythmia, chest pain and shortness of breath. Exh. 1,
+at 3, 7. The air ambulance transportation at issue was
+furnished to transfer the beneficiary from the emergency room at
+Beaver County Memorial Hospital, in Beaver, Oklahoma, to Via
+Christi-Saint Francis Campus Hospital, in Wichita, Kansas. Id.
+at 3. The transfer occurred so that the beneficiary would be
+treated in a hospital where specialist cardiologist services
+were available. Exh. 1, at 7; Exh. 2, at 18. The record
+reflects that the transfer was ordered by a physician in the
+transferring hospital. See Exh. 1, at 7.
+
+The appellant initially submitted a claim for 203 units (miles)
+of procedure code A0435-II. Exh. 2, at 2. On initial
+determination, 133 units were found covered and 70 units were
+denied on the ground that the beneficiary was not taken to the
+nearest medically-appropriate facility, which would have been a
+distance of only 133 miles from the transferring facility. Id.
+On redetermination, reconsideration, and at the ALJ level, the
+finding of non-coverage of the 70 units was affirmed.
+
+The ALJ decision includes a comprehensive review of the relevant
+principles of law concerning ambulance transport coverage, which
+the Council incorporates herein. Dec. at 6-7. The appellant
+contends that “the referring doctor tried multiple facilities to
+transfer the patient to. He just gave up & settled on one in
+the state of KS before trying the facility in TX that Medicare
+preferred.” Exh. MAC-1.
+                                                                   3
+Medicare covers ambulance transportation to the nearest
+destination institution with “appropriate facilities.” Medicare
+Benefit Policy Manual (MBPM), (CMS Pub. 100-02) Ch. 10, § 10.3.
+Ambulance service to a more distant hospital solely to avail a
+beneficiary of the services of a particular physician or
+physician specialist is not covered by Medicare. MBPM, Ch. 10,
+§ 10.3.6. The fact that the more distant hospital might be
+better equipped, either qualitatively or quantitatively, to
+provide patient care does not mean that a closer facility does
+not have “appropriate facilities.” Id.
+
+The Council notes that a letter from a registered nurse, undated
+but apparently sent to someone by facsimile on November 30,
+2009, indicates that Beaver County Memorial Hospital did contact
+two other hospitals before transferring the beneficiary to Via
+Christi, but was informed that those two hospitals did not have
+a cardiologist available. Exh. 2, at 18. However, as the
+beneficiary became progressively “more unstable,” the treating
+physician decided to transfer her to Via Christi-St. Frances in
+Wichita, Kansas, a large hospital center with available
+cardiologists and an intensive care unit. Id. The appellant
+did not assert that a closer facility, St. Anthony’s Hospital,
+in Amarillo, Texas, was inadequate or unavailable, or that any
+hospital services would have been denied at that hospital. The
+Council agrees with the ALJ that the claimed additional air
+miles for ambulance services to a further hospital are not
+covered because there is no evidence in the record that St.
+Anthony’s Hospital did not have appropriate facilities for the
+beneficiary’s care.
+
+Liability
+
+The appellant argues that the beneficiary should be held
+financially liable for the non-covered costs because “this was
+an emergent transport so [issuing] an ABN [Advance Beneficiary
+Notice] is not allowed.” Exh. MAC-1.
+
+When coverage of ambulance services is denied because the
+ambulance transport does not meet the “nearest facility”
+requirement of 42 C.F.R. § 410.40(e), the basis for the denial
+is a failure to meet the regulatory origin and destination
+requirements rather than a failure to meet medical
+reasonableness and necessity requirements of section 1862(a)(1)
+of the Social Security Act (Act). The denial is considered a
+benefit denial pursuant to section 1861(s)(7) of the Act, and
+the limitation on liability authority set forth in section 1879
+                                                                                4
+of the Act does not apply in such situations. 2 As discussed
+above, the cost of 70 additional air ambulance miles to
+transport the beneficiary from Beaver County Memorial Hospital
+to Via Christi-Saint Francis Campus Hospital, rather than to the
+closer St. Anthony’s Hospital, did not meet the criteria under
+the origin and destination coverage requirements of the
+regulations. Thus, the Council finds that the beneficiary,
+rather than the appellant, is responsible for the non-covered
+services.
+
+                                  DECISION
+
+Accordingly, the Council adopts the ALJ’s determination that the
+additional 70 air miles to transport the beneficiary, which were
+denied at all levels of appeal in this case, are not covered by
+Medicare. However, the Council concludes that the beneficiary
+rather than the appellant is liable for the non-covered costs.
+
+
+                                          MEDICARE APPEALS COUNCIL
+
+
+                                          /s/ Gilde Morrisson
+                                          Administrative Appeals Judge
+
+
+                                          /s/Constance B. Tobias, Chair
+                                          Departmental Appeals Board
+
+Date: March 18, 2011
+
+
+
+
+2
+  The ALJ correctly applied the origin and destination requirements, but then
+also made a medical reasonableness and necessity determination as to the
+additional 70 air miles at issue before him. Dec. at 10-11. The ALJ then
+applied section 1879, finding the appellant liable for the denied mileage
+costs. Id. at 11. As section 1879 was not applicable here, the
+beneficiary’s liability was not subject to being limited.
+

@@ -1,0 +1,373 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-10-1292
+
+
+In the case of                        Claim for
+
+                                      Hospital Insurance Benefits
+State of Vermont                      (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+NHIC                                  ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+
+The Administrative Law Judge (ALJ) issued a decision dated May
+12, 2010, which concerned home health services furnished to the
+beneficiary from November 2, 2006, through November 29, 2007.
+The ALJ determined that the home health services were not
+covered by Medicare because the services were not skilled. The
+ALJ further found the beneficiary and the provider each liable
+for a portion of the non-covered services under section 1879 of
+the Social Security Act (Act). The appellant has asked the
+Medicare Appeals Council to review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). The Council enters the timely-filed
+request for review into the record as Exhibit (Exh.) MAC-1. As
+set forth below, the Council reverses the ALJ’s decision in part
+and modifies it in part.
+                                                                   2
+                BACKGROUND AND PROCEDURAL HISTORY
+
+During the period at issue, the beneficiary was an 85- or 86-year-
+old female with a principal diagnosis of type II diabetes,
+uncomplicated. Exh. 4, at 1. She was also diagnosed with other
+persistent mental disorder (i.e., dementia), abnormality of gait,
+and hypothyroidism not otherwise specified. Id. The beneficiary
+began receiving home health care in May, 2003. Id. The
+beneficiary’s plan of care (POC) called for one skilled nursing
+visit every other week or as needed to assess diabetic status,
+knowledge of disease and disease management, nutrition, and skin
+care; to teach medication use, diabetic management, signs and
+symptoms to report to medical professionals, nutrition, activity,
+and skin care; fill the beneficiary’s pill-planner, review blood
+sugar monitoring performed by the beneficiary’s caregiver, and
+provide foot care and skin care as needed. Id.
+
+The provider submitted demand bills to the Medicare contractor,
+which denied Medicare coverage for all dates of service at issue.
+See, e.g., Exh. 1, at 42-44. The appellant requested
+redetermination. In separate redeterminations addressing each
+certification period, the contractor upheld the initial denials.
+Each redetermination concluded: “There were no skilled needs
+identified or provided. [The beneficiary’s] condition remained
+stable. See, e.g., Exh. 1, at 2. The redeterminations were
+equivocal on the issue of liability for the non-covered charges.
+Several of the redeterminations stated both that the beneficiary
+was liable based on the presence of an Advance Beneficiary Notice
+(ABN) and that the provider was liable because it knew or should
+have known that the services would not be covered. See, e.g., Exh.
+1, at 5-6.
+
+The appellant requested reconsideration by a Qualified Independent
+Contractor (QIC). The QIC found that the home health services were
+not covered by Medicare because the nursing visits did not meet
+Medicare coverage criteria. Exh. 2, at 5. The QIC found that the
+beneficiary was liable for the cost of the non-covered services
+furnished during the period January 1 through November 29, 2007.
+Id. at 6. The QIC found the provider liable for the non-covered
+services furnished during the period November 2 through December
+31, 2006. Id.
+
+The appellant requested a hearing before an ALJ. The ALJ held a
+hearing by telephone on April 26, 2010. Dec. at 2. The ALJ
+issued her decision on May 12, 2010. She concluded that no
+skilled services were provided during the entire period at issue
+                                                                             3
+and, accordingly, no Medicare coverage was warranted. Id. at
+12. The ALJ found that the beneficiary was liable for the non-
+covered services furnished from January 2 through March 1, 2007
+and from June 28 through August 1, 2007, based on two ABNs in
+the record. Id. The ALJ found the provider liable for the
+remaining non-covered services. Id.
+
+                                 DISCUSSION
+
+Coverage of Home Health Services
+
+Medicare regulations set forth the conditions that a beneficiary
+must meet to qualify for coverage of home health services. The
+beneficiary must: a) be confined to the home; b) be under the
+care of a physician who establishes a care plan; c) be in need
+of skilled services; d) be under a qualifying plan of care; and
+e) receive the required services from, or under arrangement
+with, a participating home health agency (HHA). 42 C.F.R.
+§ 409.42(a)-(e); see also Act §§ 1861(m) and 1814(a)(2)(C). 1
+
+For the home health services at issue to be covered by Medicare,
+they must meet the criteria for skilled services under 42 C.F.R.
+§ 409.42(c). As applicable here, skilled nursing services are
+defined in 42 C.F.R. § 409.42(c)(1) (“Intermittent skilled
+nursing services that meet the criteria for skilled services and
+the need for skilled services found in 42 C.F.R. § 409.32.
+(Also see § 409.33(a) and (b) for a description of examples of
+skilled nursing and rehabilitative services.”)). A skilled
+service is one “so inherently complex that it can be safely or
+effectively performed only by, or under the supervision of,
+professional or technical personnel.” 42 C.F.R. § 409.32(a).
+When the patient has a special medical complication, “a service
+that is usually nonskilled . . . may be considered skilled
+because it must be performed or supervised by skilled nursing or
+rehabilitative personnel.” 42 C.F.R. § 409.32(b).
+
+In the request for review, the appellant takes issue with the
+ALJ’s decision in several respects. The appellant argues that
+the ALJ erred in relying on the fact that the beneficiary had
+been receiving home health services since 2003 as evidence that
+
+1
+   There is no contention in this case that the beneficiary was not homebound,
+or that the other technical conditions for Medicare coverage of home health
+services were not met. The only issues in this case are whether the services
+at issue were skilled and, if any services remain non-covered by Medicare,
+the applicability of the limitation on liability provisions of section 1879
+of the Act.
+                                                                               4
+the services were no longer skilled. Exh. MAC-1. The appellant
+also argues that the ALJ erred when she suggested that no
+skilled care was required because the beneficiary resided with
+her husband, who was available to provide care. Id. The
+appellant also reiterates the arguments advanced in the
+memorandum it submitted to the ALJ with regard to specific
+services it contends were skilled. Id.
+
+The Council agrees with the appellant that medically reasonable
+and necessary home health services that meet coverage criteria
+are covered by Medicare without regard to when a beneficiary
+began receiving such services. The Medicare Benefit Policy
+Manual (MBPM), CMS Pub. 100-02, ch. 7, § 40.1.1, provides:
+
+      The determination of whether a patient needs skilled
+      nursing care should be based solely upon the patient's
+      unique condition and individual needs, without regard
+      to whether the illness or injury is acute, chronic,
+      terminal, or expected to extend over a long period of
+      time. In addition, skilled care may, depending on the
+      unique condition of the patient, continue to be
+      necessary for patients whose condition is stable.
+
+For a service to be considered reasonable and necessary, the
+service must be consistent with the nature and severity of the
+beneficiary’s condition, his or her medical needs, and accepted
+standards of medical and nursing practice. See 42 C.F.R.
+§ 409.44(b)(3).
+
+In accordance with the guidance in the regulations and the MBPM,
+the Council has reviewed the record and finds that the
+beneficiary required and received intermittent skilled nursing
+services during several episodes of care. The Council therefore
+reverses the ALJ’s decision with regard to these episodes.
+
+In the first episode, the provider documented that the
+beneficiary required skilled nursing services beginning on June
+3, 2007, to address a stage II pressure ulcer on her sacrum.
+Exh. 4, at 75 (reverse), 80. Despite the provider’s
+documentation, the ALJ determined that the care was not skilled
+because “the nurse instructed the Beneficiary’s husband on wound
+care . . . .” 2 Dec. at 11. The ALJ further stated that “this
+Beneficiary had longstanding chronic issues with pressure
+2
+   The ALJ’s observation that the nurse instructed the beneficiary’s husband
+in wound care is contradicted by the medical records, which state, “spouse
+has poor eyesight and [is] unable to provide washing and dressing that is
+                                                                            5
+ulcers.” 3 Id. The Council finds that the ALJ erred in
+concluding that assessment and treatment of the beneficiary’s
+pressure ulcer was not skilled care.
+
+First of all, the fact that the nurse taught the beneficiary’s
+spouse or another caregiver wound care techniques does not mean
+that the services were unskilled. As stated in the MPBM: “A
+service which, by its nature, requires the skills of a nurse to
+be provided safely and effectively continues to be a skilled
+service even if it is taught to the patient, the patient's
+family, or other caregivers.” MBPM, ch. 7, § 40.1.1. Moreover,
+the fact that the beneficiary was at risk for skin breakdown
+weighs in favor of, rather than against, the need for skilled
+observation and assessment by a nurse when the beneficiary’s
+caregivers identified wounds when providing care to the
+beneficiary.
+
+The medical records document that, from June 3, 2007, through
+June 27, 2007, the provider’s nurses observed and assessed the
+pressure ulcer on the beneficiary’s sacrum; provided wound care,
+including cleansing and dressing the wound; and instructed the
+beneficiary’s caregivers in wound care. See Exh. 4, at 74-97.
+Therefore, the Council finds that the services provided from
+June 3, 2007, through June 27, 2007, constituted medically
+reasonable and necessary intermittent skilled nursing care and
+are, therefore, covered by Medicare.
+
+Similarly, on August 14, 2007, the beneficiary’s paid caregiver
+telephoned the provider to report that the beneficiary had
+raised blisters on her buttocks. Exh. 4, at 124 (reverse).
+During a visit on August 15, 2007, the provider’s nurse
+documented:
+
+      Eval[uation] of lesion on left buttock. 6-8 fluid
+      filled vesicles on erythematous base, easily undomed
+      without pain, not on dermatomal line, not pressure
+
+needed.” Exh. 4, at 74 (reverse). The records do indicate that the nurse
+instructed the beneficiary’s paid caregivers in wound care, however. See,
+e.g., id. at 82 (reverse).
+3
+   While the ALJ does not say so explicitly, she appears to be relying on the
+provision of the MPBM which provides: “observation and assessment by a nurse
+is not reasonable and necessary to the treatment of the illness or injury
+where these indications are part of a longstanding pattern of the patient's
+condition, and there is no attempt to change the treatment to resolve them.”
+MBPM, ch. 7, § 40.1.2.1. The ALJ’s reliance on this provision is misplaced.
+As discussed below, the provider’s nurses provided wound care to address the
+beneficiary’s pressure ulcer, as well as other skin breakdown issues.
+                                                                   6
+     ulcer. Cleansed with NS [normal saline] and placed
+     strips of iodaform gauze covered with Allevyn
+     adhesive. Call left with MD ans[wering] service. Will
+     need derm[atology] consult if vesicles continue to
+     develop. Instr[ucted] HCA [home care aide] gloves very
+     [important].
+
+Id. at 121. Further, on August 17, 2007, the nurse
+documented a visit as follows:
+
+     PT [Patient] seen today to follow up on redden[ed]
+     blistered area on PTs left buttock. There is a new
+     small area above the original area that has two white
+     blisters. The area was cleaned with NS [normal
+     saline]. Idoform [sic] gauze and [adhesive Allevyn]
+     applied to the area. PCA [personal care aide] was
+     taught how to do the dressing change. Instructed PCA
+     to wear gloves at all times when touching that area or
+     clothing that may have touched that area to prevent
+     spreading. . . . MD was notified of the current status
+     of the wound. . . .
+
+Id. at 126. Nurses continued to assess and treat the area
+through the visit on August 30, 2007. See id. at 121-136. By
+the visit on September 5, 2007, the provider’s nurse documented
+that the beneficiary’s left buttock wound had healed completely.
+Id. at 139. Accordingly, the Council finds that the services
+provided from August 15, 2007, through August 30, 2007,
+constituted medically reasonable and necessary intermittent
+skilled nursing care and are, therefore, covered by Medicare.
+
+Finally, the beneficiary again developed skin integrity issues
+on October 25, 2007. During the visit on that date, the
+provider’s nurse documented that the beneficiary had small open
+areas on her right foot. Id. at 159 (face and reverse). The
+nurse again provided assessment and treatment for the foot
+wounds on October 29, 2007. Id. at 163. By the visit on
+November 5, 2007, the nurse documented that the wounds on the
+beneficiary’s foot had healed. Id. at 166 (reverse).
+Accordingly, the Council finds that the services provided from
+October 25, 2007, through October 29, 2007, constituted
+medically reasonable and necessary intermittent skilled nursing
+care and are, therefore, covered by Medicare.
+
+With regard to the remaining dates of service not specifically
+addressed above, the Council agrees with the ALJ’s conclusion
+                                                                   7
+that the care provided was not skilled and, therefore, is not
+reasonable and necessary and is not covered by Medicare.
+
+Liability for Non-Covered Services
+
+Because we have concluded that certain of the services at issue
+are not reasonable and necessary, we must consider whether the
+liability of the beneficiary or the provider may be limited
+pursuant to section 1879 of the Act. Section 1879 of the Act
+provides that a beneficiary or supplier may be liable for the
+cost of an item or service that is not “reasonable and
+necessary” based upon prior knowledge of non-coverage. Section
+1879(a) of the Act; 42 C.F.R. §§ 411.400, 411.404 and 411.406.
+A beneficiary is deemed to have knowledge of non-coverage if the
+supplier provides a notice to the beneficiary explaining why it
+believes that Medicare will not cover the item or service. 42
+C.F.R. § 411.404(b).
+
+The ALJ concluded that the beneficiary was liable for the non-
+covered services furnished from January 2 through March 1, 2007
+and from June 28 through August 1, 2007. Dec. at 12. The ALJ
+apparently based this conclusion on the two ABNs that are in the
+record as Exh. 6. The ABNs in Exh. 6 are nearly illegible.
+Nevertheless, it is possible to discern that the ABNs state that
+skilled nursing visits would likely not be covered by Medicare
+because the services were not skilled. Exh. 6, at 2, 3. The
+beneficiary’s representative (her spouse) signed one ABN on
+January 1, 2007, and the other on June 27, 2007. Id.
+
+The ALJ erred in limiting the effect of the ABNs to January 2
+through March 1, 2007, and June 28 through August 1, 2007. The
+Medicare Claims Processing Manual (MCPM) provides that once a
+beneficiary receives a valid ABN, the beneficiary is considered
+to have knowledge of Medicare non-coverage for the same or
+similar services furnished during the next twelve months.
+
+     A notice that a beneficiary received within the twelve
+     months before the claims denial at issue may be
+     considered as evidence of prior knowledge with respect
+     to such same or similar service or item that is denied
+     payment by Medicare for the same reason in both the
+     earlier and the later cases.
+
+MCPM, CMS Pub. 100-4, ch. 30, § 40.2.2. See also id. at
+§ 40.3.1.3 (A previously furnished ABN is acceptable evidence of
+notice for current items or services if the previous ABN cites
+                                                                   8
+similar or reasonably comparable items or services for which
+denial is expected on the same basis in both the earlier and the
+later cases). In accordance with the quoted MCPM provisions,
+the Council finds that, effective with the ABN signed by the
+beneficiary’s representative on January 1, 2007, the
+beneficiary, and not the provider, is liable for the cost of any
+non-covered services she received from January 2, 2007, through
+November 29, 2007. With regard to the non-covered services
+furnished from November 2, 2006, through January 1, 2007, the
+Council agrees with the ALJ’s finding that the provider is
+liable based on its presumed knowledge of published Medicare
+coverage authorities. 42 C.F.R. § 411.406(e).
+
+                            DECISION
+
+The Council has considered the record and the exceptions and has
+concluded that the beneficiary received Medicare-covered
+intermittent skilled nursing care from June 3, 2007 through June
+27, 2007; from August 15, 2007 through August 30, 2007; and from
+October 25, 2007, through October 29, 2007. Accordingly, the
+ALJ’s decision is reversed as to these dates of service. The
+beneficiary’s representative signed an ABN on January 1, 2007.
+Therefore, the beneficiary is liable for the non-covered
+services furnished from January 2 through November 29, 2007.
+The provider is liable for the non-covered services furnished
+from November 2, 2006 through January 1, 2007. The ALJ’s
+findings on liability are modified accordingly.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+                                   /s/ Susan S. Yim
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/Constance B. Tobias,Chair
+                                   Departmental Appeals Board
+
+
+Date: November 16, 2010
+

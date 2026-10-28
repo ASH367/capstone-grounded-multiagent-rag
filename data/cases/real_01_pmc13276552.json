@@ -1,0 +1,52 @@
+{
+  "case_id": "real_01_pmc13276552_leadless_pacemaker_rfa",
+  "expected_decision": null,
+  "source": {
+    "type": "real published case report",
+    "pmcid": "PMC13276552",
+    "pmid": "42325879",
+    "doi": "10.1016/j.inpm.2026.100793",
+    "citation": "Bruzzese J, Doan LV. Lumbar medial branch radiofrequency neurotomy in a patient with a leadless pacemaker: a case report. Interv Pain Med. 2026;5(2):100793.",
+    "notes": "81M, >20 yr low back pain, right facet arthropathy; 2 sets of right MBBs 'near complete, transient' relief (no %), RFA of R L3/L4 MB + L5 dorsal ramus (read as 2 levels), 80C x 90s, 2% lidocaine; left side later: 2 sets MBB then bipolar RFA with leadless pacemaker. Fields below are null where the paper does not report them. No CMS decision exists for this patient; label left empty."
+  },
+  "claim": {
+    "type_of_bill": null,
+    "emergency_dept": null,
+    "pa_requested_before_service": null
+  },
+  "clinical": {
+    "axial_pain": true,
+    "baseline_pain_nrs": null,
+    "disability_scale": null,
+    "disability_score_pct": null,
+    "pain_duration_months": 240,
+    "conservative_management": null,
+    "untreated_radiculopathy": null,
+    "non_facet_pathology": null,
+    "centralized_pain_dx": null
+  },
+  "procedure": {
+    "type": "rfa",
+    "guidance": null,
+    "sedation": null,
+    "spinal_regions": 1,
+    "prior_diagnostic_mbb_relief_pct": [],
+    "services": [
+      {
+        "cpt": "RFA-L1",
+        "level": 1
+      },
+      {
+        "cpt": "RFA-L2",
+        "level": 2
+      }
+    ]
+  },
+  "documentation": {
+    "baseline_pain_documented": null,
+    "pain_scale_used": null,
+    "baseline_disability_documented": null,
+    "disability_scale_used": null,
+    "conservative_records_attached": null
+  }
+}

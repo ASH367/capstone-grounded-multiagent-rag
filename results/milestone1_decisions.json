@@ -1,0 +1,479 @@
+{
+ "summary": {
+  "all": {
+   "n": 22,
+   "decision_agreement_multi": 0.773,
+   "decision_agreement_single": 0.773,
+   "citation_check_multi": {
+    "findings": 161,
+    "mechanically_valid": 0.969
+   },
+   "citation_check_single": {
+    "findings": 64,
+    "mechanically_valid": 1.0
+   }
+  },
+  "dev": {
+   "n": 12,
+   "decision_agreement_multi": 0.75,
+   "decision_agreement_single": 0.667,
+   "citation_check_multi": {
+    "findings": 89,
+    "mechanically_valid": 0.966
+   },
+   "citation_check_single": {
+    "findings": 35,
+    "mechanically_valid": 1.0
+   }
+  },
+  "test": {
+   "n": 10,
+   "decision_agreement_multi": 0.8,
+   "decision_agreement_single": 0.9,
+   "citation_check_multi": {
+    "findings": 72,
+    "mechanically_valid": 0.972
+   },
+   "citation_check_single": {
+    "findings": 29,
+    "mechanically_valid": 1.0
+   }
+  },
+  "reference_distribution": {
+   "COVERED": 11,
+   "NOT_COVERED": 8,
+   "PARTLY_COVERED": 3
+  },
+  "multi_predictions": {
+   "COVERED": 11,
+   "NOT_COVERED": 10,
+   "PARTLY_COVERED": 1
+  },
+  "single_predictions": {
+   "COVERED": 10,
+   "NOT_COVERED": 10,
+   "PARTLY_COVERED": 2
+  },
+  "majority_class_baseline": 0.5
+ },
+ "rows": [
+  {
+   "case": "12-1251",
+   "split": "dev",
+   "domain": "ambulance",
+   "reference": "COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 8,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 4,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ]
+  },
+  {
+   "case": "altabates",
+   "split": "dev",
+   "domain": "inpatient_rehab",
+   "reference": "COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 10,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 4,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ]
+  },
+  {
+   "case": "case_excellenthomecare",
+   "split": "test",
+   "domain": "home_health",
+   "reference": "NOT_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 7,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ]
+  },
+  {
+   "case": "case_landmark",
+   "split": "dev",
+   "domain": "home_health",
+   "reference": "COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 7,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ]
+  },
+  {
+   "case": "dc_case",
+   "split": "test",
+   "domain": "ambulance",
+   "reference": "NOT_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 3,
+   "multi_findings_invalid": 2,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "UNKNOWN",
+    "DOES_NOT_SUPPORT"
+   ]
+  },
+  {
+   "case": "eagle_air_med",
+   "split": "test",
+   "domain": "ambulance",
+   "reference": "PARTLY_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "PARTLY_COVERED",
+   "multi_ok": false,
+   "single_ok": true,
+   "multi_findings_valid": 8,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ]
+  },
+  {
+   "case": "estate_gbr",
+   "split": "dev",
+   "domain": "ambulance",
+   "reference": "COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": false,
+   "single_ok": false,
+   "multi_findings_valid": 7,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ]
+  },
+  {
+   "case": "gold_cross_ambulance",
+   "split": "dev",
+   "domain": "ambulance",
+   "reference": "COVERED",
+   "multi": "COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": true,
+   "single_ok": false,
+   "multi_findings_valid": 7,
+   "multi_findings_invalid": 1,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "kaweah_rehabilitationhospital",
+   "split": "test",
+   "domain": "inpatient_rehab",
+   "reference": "COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 6,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ]
+  },
+  {
+   "case": "m-11-1559",
+   "split": "dev",
+   "domain": "inpatient_rehab",
+   "reference": "COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": false,
+   "single_ok": false,
+   "multi_findings_valid": 4,
+   "multi_findings_invalid": 2,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ]
+  },
+  {
+   "case": "m-11-2450",
+   "split": "dev",
+   "domain": "ambulance",
+   "reference": "NOT_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 5,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ]
+  },
+  {
+   "case": "m_12_257",
+   "split": "dev",
+   "domain": "home_health",
+   "reference": "COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 9,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ]
+  },
+  {
+   "case": "m_12_809",
+   "split": "test",
+   "domain": "inpatient_rehab",
+   "reference": "NOT_COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": false,
+   "single_ok": false,
+   "multi_findings_valid": 5,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "midwest_lifeteam",
+   "split": "test",
+   "domain": "ambulance",
+   "reference": "PARTLY_COVERED",
+   "multi": "PARTLY_COVERED",
+   "single": "PARTLY_COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 8,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ]
+  },
+  {
+   "case": "nj_dept_humanservices5",
+   "split": "test",
+   "domain": "home_health",
+   "reference": "COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 9,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ]
+  },
+  {
+   "case": "prestige_homecare",
+   "split": "test",
+   "domain": "home_health",
+   "reference": "NOT_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 8,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ]
+  },
+  {
+   "case": "rb_obo_jb",
+   "split": "test",
+   "domain": "home_health",
+   "reference": "NOT_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 8,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "DOES_NOT_SUPPORT"
+   ]
+  },
+  {
+   "case": "rx_homecare",
+   "split": "test",
+   "domain": "home_health",
+   "reference": "NOT_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 8,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ]
+  },
+  {
+   "case": "sacredheart_hospital",
+   "split": "dev",
+   "domain": "inpatient_rehab",
+   "reference": "COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 5,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "state_of_vt",
+   "split": "dev",
+   "domain": "home_health",
+   "reference": "PARTLY_COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": false,
+   "single_ok": false,
+   "multi_findings_valid": 8,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ]
+  },
+  {
+   "case": "uphams_homehealthcare",
+   "split": "dev",
+   "domain": "home_health",
+   "reference": "NOT_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 7,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ]
+  },
+  {
+   "case": "visitingnursing",
+   "split": "dev",
+   "domain": "home_health",
+   "reference": "COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 9,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "case_id": "12-1251",
+ "domain": "ambulance",
+ "docket": "M-12-1251",
+ "service_at_issue": "Advanced life support emergency ground ambulance (A0427) and mileage (A0425) from home to hospital for chest pain",
+ "facts": [
+  "The beneficiary was discharged from a hospital on April 17, 2011. Exh. 4, at 9. Later that same day the beneficiary called for an ambulance. Exh. 1, at 2. On April 17, 2011, the beneficiary was transported from her residence to a hospital. Exh. 4, at 6, 10.",
+  "Initially, this claim was paid, but then an overpayment was assessed because the record showed that the beneficiary was a hospital inpatient on the date of service at issue. Exh. 3, at 2.",
+  "In its request for review, the appellant asserts that at the scene the beneficiary complained of active chest pain, and that the beneficiary was treated with medications to attempt to alleviate the chest pain. Exh. MAC-1. The appellant emphasized that: “At no time did [the beneficiary] deny having chest pain even after EMS intervention.” Id. (emphasis in original).",
+  "The ambulance report states that the beneficiary was being transported due to chest pain. Exh. 4, at 6.",
+  "The beneficiary complained of “substernal non-radiating” chest pain. Exh. 4, at 6. While the report of the 911 telephone call states that the beneficiary had trouble speaking between breaths, the ambulance report states that the beneficiary was “speaking full word sentences w/o difficulty.” Exh. 1, at 2; Exh. 4, at 6. The beneficiary was found in bed in the fowler position. Exh. 4, at 6. The beneficiary denied that: she lost consciousness, had shortness of breath, weakness, abdominal pain, a productive cough, a fever, etc. Id. The beneficiary did have rales in her lungs. Id. The beneficiary was provided with several medications, apparently to assist with the pain. Id. These medications included nitroglycerin and aspirin. Id. The beneficiary’s heart rate, blood pressure, blood glucose and oxygen saturation level was monitored. Id. The ambulance report indicates that the beneficiary received emergency services during the ambulance transport."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "The record showed chest pain treated and monitored en route, so other means of transport were contraindicated and the ALJ was reversed.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.2.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 405.1122(c)(2)",
+  "42 CFR 410.40(d)",
+  "42 CFR 411.15(k)",
+  "42 CFR 414.40(a)",
+  "SSA 1861(s)(7)",
+  "SSA 1862(a)(1)",
+  "SSA 1879"
+ ]
+}

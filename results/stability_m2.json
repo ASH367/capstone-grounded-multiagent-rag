@@ -1,0 +1,63 @@
+{
+ "n": 22,
+ "multi": {
+  "run1_correct": 17,
+  "run2_correct": 16,
+  "same_decision_both_runs": 21,
+  "same_rate": 0.955,
+  "changed": [
+   [
+    "gold_cross_ambulance",
+    "COVERED",
+    "NOT_COVERED"
+   ]
+  ],
+  "hard_cases": {
+   "n": 8,
+   "run1": 5,
+   "run2": 4
+  },
+  "easy_cases": {
+   "n": 14,
+   "run1": 12,
+   "run2": 12
+  }
+ },
+ "single": {
+  "run1_correct": 17,
+  "run2_correct": 18,
+  "same_decision_both_runs": 21,
+  "same_rate": 0.955,
+  "changed": [
+   [
+    "gold_cross_ambulance",
+    "NOT_COVERED",
+    "COVERED"
+   ]
+  ],
+  "hard_cases": {
+   "n": 8,
+   "run1": 5,
+   "run2": 6
+  },
+  "easy_cases": {
+   "n": 14,
+   "run1": 12,
+   "run2": 12
+  }
+ },
+ "agent_verdict_agreement": 0.864,
+ "citation_check_run2": {
+  "n": 22,
+  "decision_agreement_multi": 0.727,
+  "decision_agreement_single": 0.818,
+  "citation_check_multi": {
+   "findings": 161,
+   "mechanically_valid": 0.981
+  },
+  "citation_check_single": {
+   "findings": 58,
+   "mechanically_valid": 1.0
+  }
+ }
+}

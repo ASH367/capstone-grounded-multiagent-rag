@@ -1,0 +1,507 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+
+
+In the case of                        Claim for
+
+                                      Hospital Insurance Benefits
+Sacred Heart Hospital                 (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+First Coast Service Options           ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+On June 5, 2009, the Administrative Law Judge (ALJ) issued a
+decision concerning an overpayment determination arising from
+the appellant’s claim for the beneficiary’s inpatient
+hospitalization from July 27, through July 29, 2005. In
+relation to the beneficiary at issue, the ALJ found the services
+were not medically reasonable and necessary, and therefore, not
+covered by Medicare; upheld the overpayment determination; and
+concluded that recovery of the overpayment could not be waived.
+The appellant has asked the Medicare Appeals Council (Council)
+to review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+The Council enters the appellant’s request for review, received
+on August 4, 2009, into the record as Exhibit (Exh.) MAC-1. As
+explained below, the Council reverses the ALJ’s decision as to
+the beneficiary at issue. We find that the services at issue
+were medically reasonable and necessary for the beneficiary and
+covered by Medicare.
+                                                                   2
+
+
+
+
+                           BACKGROUND
+
+The appellant billed Medicare for the beneficiary’s inpatient
+hospitalization from July 27, through July 29, 2005. Exh. 1 at
+3. Initially, the Medicare intermediary paid this claim in
+August 2005. Id. The Recovery Audit Contractor (RAC) reopened
+and reviewed the claim. Id. at 32. On February 12, 2008, the
+RAC issued a “Notice of Incorrect Payment Determination and
+Pending Adjustment,” informing the appellant that an overpayment
+existed for this beneficiary. Id. at 32-33. Upon
+redetermination, the intermediary found that Medicare did not
+cover the inpatient services at issue. It found that the
+“medical record did not support an inpatient level of care” and
+that the “admission should have been billed at an
+outpatient/observation level of care.” Id. at 25.
+
+After reviewing the record, the Qualified Independent Contractor
+(QIC) concluded that Medicare did not cover the inpatient
+services at issue, stating that Medicare coverage criteria were
+not met for hospital services with “inpatient status for the
+dates of service under review.” Id. at 4. The QIC also
+determined that the appellant’s responsibility for the
+overpayment could not be waived. Id. at 4-5.
+
+The ALJ consolidated the cases for six beneficiaries for whom
+the RAC found an overpayment was made. Dec. at 6-16. After
+conducting a hearing on April 16, 2009, the ALJ issued a
+partially favorable decision on June 5, 2009, concerning all six
+beneficiaries. Id. For five of the beneficiaries, the ALJ
+found that Medicare covered the services as billed or that the
+appellant was without fault for the overpayment and that
+Medicare could not recoup payment. Id. For the beneficiary
+currently at issue, the ALJ denied Medicare coverage for the
+services at issue because they were not medically reasonable and
+necessary; upheld the overpayment determination; and concluded
+that recovery of the overpayment could not be waived. Dec. at
+12-13.
+
+In Exh. MAC-1, the appellant set forth several reasons for its
+disagreement with the ALJ’s decision. These contentions are
+summarized as follows:
+
+  1) The medical documentation supports that the treating
+     physician made “a thoughtful, prudent decision to admit
+     [the beneficiary] to the hospital for a multi-day hospital
+     stay based on ‘the amount of dissection required intra-
+                                                                   3
+
+
+
+
+     abdominally as well as her underlying pulmonary status.’”
+     Further, the 2005 InterQual Guidelines for Surgery and
+     Procedures in the Inpatient Setting lists ventral hernia
+     repair as a procedure commonly performed in an inpatient
+     setting; thus, admission after the beneficiary’s procedure
+     was medically reasonable and necessary.
+
+  2) CMS must pay for the services at issue pursuant to section
+     1879’s limitation on liability provision because neither
+     the appellant, nor the beneficiary, knew or could have been
+     reasonably expected to know that the services would not be
+     covered. Further, the appellant lacked knowledge that
+     Medicare would not cover the inpatient stay following the
+     Council’s decision in Niobrara Valley Hospital (March 27,
+     2003).
+
+  3) The Centers for Medicare & Medicaid Services (CMS) is
+     procedurally barred from reversing its initial
+     determination because the claim was reopened more than four
+     years after the initial determination and without good
+     cause for reopening more than one year after the initial
+     determination.
+
+See Exh. MAC-1 at 3-4.
+
+                  APPLICABLE LEGAL AUTHORITIES
+
+     Reopening Initial Determinations
+
+The regulation at 42 C.F.R. § 405.980 provides a stratified
+structure for reopening. A CMS contractor may reopen an initial
+determination or redetermination. 42 C.F.R. § 405.980(a)(1)(i).
+An ALJ’s or the Council’s authority to reopen is limited,
+respectively, to a revision of ALJ hearing decisions (by the
+ALJ) and hearing and Council decisions (by the Council). 42
+C.F.R. §§ 405.980(a)(1)(iii) and (iv). Notably, neither the
+ALJ, nor the Council, has any authority to reopen or revise an
+initial determination or redetermination.
+
+The regulation at 42 C.F.R. § 405.926 sets forth actions that
+are not initial determinations and not appealable. Included
+among them is a “contractor’s . . . decision to reopen or not
+reopen an initial determination.” 42 C.F.R. § 405.926(l). This
+lack of jurisdiction extends to whether the contractor met good
+cause standards for reopening in 42 C.F.R. § 405.980(b)(2). The
+regulation at 42 C.F.R. § 405.980(a)(5) further states that
+                                                                                        4
+
+
+
+
+“[t]he contractor’s, QIC’s, ALJ’s, or MAC’s decision on whether
+to reopen is final and not subject to appeal.”
+
+The regulation at 42 C.F.R. § 405.980(b) establishes the time
+frame for reopening initial determinations and redeterminations
+initiated by a contractor. Section 405.980 provides, in part:
+
+      A contractor may reopen and revise its initial
+      determination or redetermination on its own motion -
+
+             (1) Within 1 year from the date of the
+             initial determination or redetermination for
+             any reason.
+
+             (2) Within 4 years from the date of the
+             initial determination or redetermination for
+             good cause as defined in § 405.986.
+
+             (3) At any time if there exists reliable
+             evidence as defined in § 405.902 that the
+             initial determination was procured by fraud
+             or similar fault as defined in § 405.902.1
+
+The regulation addressing good cause for reopening,
+42 C.F.R. § 405.986, provides, in part:
+
+      (a)    Good cause may be established when –
+
+      (1)    There is new and material evidence that –
+
+      (i) Was not available or known at the time of
+      the determination or decision; and
+
+      (ii)    May result in a different conclusion; or
+
+      (2) The evidence that was considered in making the
+      determination or decision clearly shows on its face
+      that an obvious error was made at the time of the
+      determination or decision. . . .
+
+When conducting a post-payment review of claims, contractors
+must adhere to reopening rules. CMS Manual System, Medicare
+
+1
+   “Similar fault” is defined in 42 C.F.R. § 405.902, in part, as “to obtain, retain,
+convert, seek, or receive Medicare funds to which a person knows or should reasonably
+be expected to know that he or she or another for whose benefit Medicare funds are
+obtained, retained, converted, sought, or received is not legally entitled.”
+                                                                   5
+
+
+
+
+Program Integrity (MPIM), CMS Pub. 100-08, Ch. 3, § 3.6.B.
+However, neither the ALJ, nor the Council, has jurisdiction to
+review that aspect of the contractor’s action. A contractor’s
+decision on whether to reopen is final and not subject to
+appeal. 42 C.F.R. §§ 405.926(l); 405.980(a)(5). This
+restriction extends regardless of whether the contractor met the
+good cause standards for reopening set forth in 42 C.F.R.
+§ 405.980(b)(2). CMS has expressly stated that the enforcement
+mechanism for good cause standards lies within its evaluation
+and monitoring of contractor performance, not the administrative
+appeals process. Interim Final Rule with Comment Period, 70
+Fed. Reg. 11,420, 11,453 (Mar. 8, 2005).
+
+        Medicare Coverage for Acute Inpatient Hospital Services
+
+Among the provisions relevant to the determination of coverage
+is section 1862(a)(1) of the Social Security Act (Act), which
+provides that notwithstanding any other provisions of title
+XVIII of the Act, items or services which are not reasonable and
+necessary for the diagnosis or treatment of illness or injury or
+to improve the functioning of a malformed body member are
+excluded from coverage. Therefore, it is a function of the QIO
+to determine whether the services are or were reasonable and
+medically necessary. 42 C.F.R. § 476.71(a)(1).
+
+In its review, the Quality Improvement Organization (QIO) must
+determine whether those services furnished on an inpatient basis
+could, consistent with the provisions of appropriate medical
+care, be effectively furnished more economically on an
+outpatient basis or in an inpatient health care facility of a
+different type. 42 C.F.R. § 476.71(a)(3). QIOs are to deny
+claims in accordance with 42 C.F.R. § 476.83 if the health care
+services furnished or proposed to be furnished to a beneficiary
+are non-covered because they are not medically necessary and
+reasonable (§1862(a)(1) of the Act) or constitute custodial care
+(§1862(a)(9) of the Act). See CMS Manual System, Pub. No.
+100-10, Quality Improvement Organization Manual (QIOM), Ch. 7,
+§ 7100.2
+
+In discussing the issue of whether a patient will be viewed as
+requiring inpatient care, the Medicare Benefits Policy Manual
+(MBPM) explains:
+
+        The physician or other practitioner responsible for a
+        patient’s care at the hospital is also responsible for
+2
+    The QIOM can be found at http://www.cms.hhs.gov/Manuals/IOM.
+                                                                    6
+
+
+
+
+     deciding whether the patient should be admitted as an
+     inpatient. Physicians should use a 24-hour period as a
+     benchmark, i.e., they should order admission of patients
+     who are expected to need hospital care for 24 hours or
+     more, and treat other patients on an outpatient basis.
+     However, the decision to admit a patient is a complex
+     medical judgment which can be made only after the physician
+     has considered a number of factors, including the patient’s
+     medical history and current medical needs, the types of
+     facilities available to inpatients and outpatients, the
+     hospital’s by-laws and admissions policies, and the
+     relative appropriateness of treatment in each setting.
+     Factors to be considered when making the decision to admit
+     include such things as:
+
+          The severity of the signs and symptoms exhibited by
+           the patient;
+
+          The medical predictability of something adverse
+           happening to the patient;
+
+          The need for diagnostic studies that appropriately are
+           outpatient services (i.e. their performance does not
+           ordinarily require the patient to remain at the
+           hospital for 24 hours or more) to assist in assessing
+           whether the patient should be admitted; and
+
+          The availability of diagnostic procedures at the time
+           when and at the location where the patient presents.
+
+     Admissions of particular patients are not covered or non-
+     covered solely on the basis of the length of time the
+     patient actually spends in the hospital.
+
+MBPM, Pub. No. 100-02, Ch. 1, § 10.
+
+The MBPM also describes how inpatient admissions are to be
+reviewed:
+
+     Under original Medicare, the Quality Improvement
+     Organization (QIO) for each hospital is responsible for
+     deciding, during review of inpatient admissions on a case-
+     by-case basis, whether the admission was medically
+     necessary. Medicare law authorizes the QIO to make these
+     judgments, and the judgments are binding for purposes of
+     Medicare coverage. In making these judgments, however,
+                                                                   7
+
+
+
+
+     QIOs consider only the medical evidence which was available
+     to the physician at the time an admission decision had to
+     be made. They do not take into account other information
+     (e.g., test results) which became available only after
+     admission, except in cases where considering the post-
+     admission information would support a finding that an
+     admission was medically necessary.
+
+MBPM, Ch. 1, § 10; see also QIOM, Ch. 4, § 4110.
+
+                           DISCUSSION
+
+     Claim Reopening
+
+Before the Council, the appellant asserts that CMS is
+procedurally barred from reversing its initial determination
+because the RAC reopened the claim more than four years after
+the initial determination. Exh. MAC-1 at 4. The appellant
+maintains that reopening occurred beyond 12-months without good
+cause because there was no new and material evidence. Id. A
+contractor’s decision on whether to reopen is final and not
+subject to review. 42 C.F.R. § 405.980(a)(5). Moreover, the
+parallel regulation at 42 C.F.R. § 405.926(l) states that a
+contractor’s determination to reopen or not to reopen is not an
+initial determination, and is, therefore, not appealable.
+Therefore, neither the ALJ, nor the Council, has the authority
+to review the RAC’s decision to reopen the claim. The
+restriction against reviewing the contractor’s decision whether
+to reopen an initial determination extends to whether or not the
+contractor met the good cause standards for reopening set forth
+in 42 C.F.R. § 405.980(b)(2). CMS has expressly stated that the
+enforcement mechanism for good cause standards lies within CMS’s
+evaluation and monitoring of contractor performance, not the
+administrative appeals process. Interim Final Rule with Comment
+Period, 70 Fed. Reg. 11,420, 11,453 (Mar. 8, 2005). Thus, the
+Council finds that the ALJ did not err in concluding that he did
+not have the authority to examine whether there was good cause
+for reopening the claim after one year from the date of the
+initial determination. Dec. at 8.
+
+     Coverage and Overpayment Determination
+
+Treating Physician Rule
+
+The appellant first asserts that the acute hospital services,
+and the decision to admit, were reasonable and necessary, and
+                                                                             8
+
+
+
+
+therefore, the acute inpatient services are covered by Medicare.
+Exh. MAC-1 at 2-3. The appellant claims that the medical
+documentation supports that the treating physician made “a
+thoughtful, prudent decision to admit [the beneficiary] to the
+hospital for a multi-day hospital stay based on ‘the amount of
+dissection required intra-abdominally as well as her underlying
+pulmonary status.’” Id. at 3.
+
+CMS, under its former title Health Care Financing Administration
+(HCFA), issued a Ruling in 1993, which established that, “no
+presumptive weight should be assigned to the treating
+physician’s medical opinion in determining the medical necessity
+of inpatient hospital or SNF services under section 1862(a)(1)
+of the Act. A physician’s opinion will be evaluated in the
+context of the evidence in the complete administrative record.”
+HCFA Ruling 93-1 (eff. May 18, 1993). Rulings of the agency are
+binding on ALJs and on the Council. 42 C.F.R. § 405.1063.
+Thus, the Council notes that there is no presumption that a
+treating physician’s judgment establishes Medicare coverage.
+
+Applicable Coverage Criteria
+
+The InterQual criteria for inpatient admissions are proprietary
+industry guidelines for acute care hospital admissions and are
+widely used by acute care hospitals in making inpatient
+admission decisions. The InterQual criteria are not developed
+by CMS and are not binding on CMS for coverage purposes; however
+they are widely used by CMS and CMS’ contracted QIOs to
+determine coverage for inpatient hospital admissions and care.3
+See 42 C.F.R. § 476.71(a)(3). Thus, they are similar to
+CMS-issued Local Coverage Determinations, program memoranda or
+manual instructions, and ALJs and the Council are not bound by
+such program guidance. See 42 C.F.R. § 405.1062(a). However in
+this case, the Council will give the InterQual criteria
+3
+   See, e.g., Improper Medicare Fee for Service Payment Report – May 2007 Long
+Report, “Admission screening involved a detailed examination of each medical
+record using specific modules of the InterQual admission appropriateness
+criteria set,” at
+http://www.cms.hhs.gov/apps/er_report/preview_er_report_print.asp?from=public
+&which=long&reportID=6. See also, e.g., Long Term Care Hospital Payment
+System Monitoring and Evaluation, “Section 4 [evaluation] focuses on existing
+level of care definitions and summarizes the tools currently used to make
+level of care determinations by QIOs, hospitals, and healthcare systems,
+including those criteria applied in areas with and without local LTCHs.
+Included are interviews with some of the Medicare QIOs as well as analysis of
+existing tools, such as the InterQual level of care determination tools,” at
+http://www.cms.hhs.gov/LongTermCareHospitalPPS/Downloads/RTI_LTCHPPS_Final_Rp
+t.pdf.
+                                                                   9
+
+
+
+
+substantial deference as they are applicable to this particular
+case. The InterQual guidelines for services in 2005 indicate
+that “due to variations in practice, this procedure
+[herniorrhaphy, ventral] may be performed in the outpatient
+setting.” See InterQual Guidelines for Surgery and Procedures
+in the Inpatient Setting, IMPT-6, CMS Inpatient List, Exh. MAC-1
+at 8. The appellant contends that the 2005 InterQual Guidelines
+lists ventral hernia repair as a procedure commonly performed in
+an inpatient setting; and thus, admission after the
+beneficiary’s procedure was medically reasonable and necessary.
+Exh. MAC-1 at 3.
+
+The Council finds that the InterQual guidelines do not offer
+definitive instructions on whether the procedure at issue must
+be provided in an inpatient setting. In fact, the guidelines
+specifically state that in certain circumstances the procedure
+is done in an outpatient setting. Id. at 8. Thus, the Council
+turns to the criteria set forth in MBPM Ch. 1, § 10, to
+determine if the acute inpatient admission and subsequent stay
+were medically reasonable and necessary.
+
+On the first date at issue (July 27, 2005), the 71-year-old
+beneficiary was admitted to the appellant’s facility for
+surgical repair of a “large, complicated and mildly symptomatic
+incisional” abdominal wall (ventral) hernia that occurred as a
+result of a sigmoid colon resection with colostomy in 2003.
+Exh. 2 at 3. The beneficiary also had past medical conditions
+and diagnoses of chronic obstructive pulmonary disease and
+asthma with recurrent bronchitis, hypertension, esophageal
+reflux, diverticulitis, and post-surgical hypothyroidism with
+thyroidectomy. Id. at 1, 7. The medical record indicates that
+the beneficiary had “significant underlying pulmonary disease in
+the form of recurrent episode of bronchial asthma. She also has
+a functional vocal cord dysfunction.” Id. at 7. The
+beneficiary tolerated the surgical procedure well, and was
+extubated and admitted to the post-anesthesia care unit (PACU).
+Id. at 6A. The record shows that the beneficiary was
+hospitalized “owing to the amount of dissection required intra-
+abdominally as well as her underlying pulmonary status.” Id. at
+8.
+
+At the time of the beneficiary’s admission to the PACU, she was
+in stable condition with stable vital signs and breathing with
+2.5 liters of oxygen by nasal cannula. Id. at 6A, 12, 28. The
+staff administered intravenous pain medication and checked her
+vital signs at 15-minute intervals. Id. at 28. The beneficiary
+                                                               10
+
+
+
+
+was moved to an alternative non-post operative floor bed within
+the appellant’s facility. Id. at 49. She received twice daily
+pulmonary assessments and continued on oxygen at 1.5 liters by
+nasal cannula. Id. at 67. Upon admission and in the evening of
+the following day, the beneficiary experienced shallow breathing
+with diminished bibasilar breath sounds. Id. The beneficiary
+was given spirometry treatments and her breathing was documented
+as even. Id. During the duration of her stay, the
+beneficiary’s surgical wound was dressed and cleaned without
+signs of infection, redness, or swelling. Id. at 77. The
+beneficiary was given pain medication as needed and identified
+her surgical site pain on July 27, 2005, as “5,” “8” and “4;”
+and on July 28, 2005, as “3” and “6” on a numerical pain scale.
+Id. at 83. Upon discharge, the beneficiary declined a walker or
+cane to assist with mobility after her surgery. Id. at 44.
+
+The Council finds that the record indicates that at the time of
+admission, and throughout the inpatient hospital stay, the
+beneficiary required acute inpatient hospital care. The Council
+finds that, while the beneficiary did not exhibit signs of
+infection, the record shows that the beneficiary’s health status
+or the foreseeable adverse affects were of such severity to
+require acute inpatient care. See MBPM Ch. 1, § 10. Thus, the
+Council reverses the ALJ’s decision and finds that the services
+were medically reasonable and necessary for the beneficiary at
+issue. Because the Council has found that the claim is covered
+by Medicare, the Council will not address the appellant’s
+arguments concerning liability.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Susan S. Yim
+                                   Administrative Appeals Judge
+
+
+                                   /s/Gilde Morrisson
+                                   Administrative Appeals Judge
+
+Date: November 10, 2009
+

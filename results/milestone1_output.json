@@ -1,0 +1,2967 @@
+{
+  "summary": {
+    "cases": 15,
+    "citation_groundedness": "172/172",
+    "retrieval_hit_at_1": "172/172",
+    "retrieval_hit_at_3": "172/172",
+    "decision_counts": {
+      "INSUFFICIENT INFORMATION": 1,
+      "NON-AFFIRMATION": 14
+    },
+    "vs_real_IRO_outcome": {
+      "IRO upheld -> system NON-AFFIRMATION": 9,
+      "IRO overturned -> system NON-AFFIRMATION": 5
+    }
+  },
+  "results": [
+    {
+      "case_id": "real_01_pmc13276552_leadless_pacemaker_rfa",
+      "source": "Bruzzese J, Doan LV. Lumbar medial branch radiofrequency neurotomy in a patient with a leadless pacemaker: a case report. Interv Pain Med. 2026;5(2):100793.",
+      "reference_outcome": null,
+      "expected_decision": null,
+      "decision": "INSUFFICIENT INFORMATION",
+      "services": [
+        {
+          "cpt": "RFA-L1",
+          "level": 1,
+          "decision": "INSUFFICIENT INFORMATION",
+          "reasons": [
+            "record does not state one or more required facts"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "RFA-L2",
+          "level": 2,
+          "decision": "INSUFFICIENT INFORMATION",
+          "reasons": [
+            "record does not state one or more required facts"
+          ],
+          "cited_chunks": []
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=None, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=240, conservative=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "UNKNOWN",
+              "evidence": "untreated_radiculopathy=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "UNKNOWN",
+              "evidence": "non_facet_pathology=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "UNKNOWN",
+              "evidence": "guidance=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "UNKNOWN",
+              "evidence": "sedation=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "MET",
+              "evidence": "spinal_regions=1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            },
+            {
+              "criterion": "RFA: 2 prior diagnostic MBBs each >= 80% relief",
+              "status": "UNKNOWN",
+              "evidence": "prior_diagnostic_mbb_relief_pct=[]",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-C-DENERVATION",
+                "label": "LCD L38765, C. Facet joint denervation (RFA)",
+                "score": 0.4761,
+                "snippet": "C. Facet Joint Denervation: The thermal radiofrequency destruction of cervical, thoracic, or lumbar paravertebral facet joint (medial branch (MB)) nerves are considered medically reasonable and necessary for patients who"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "UNKNOWN",
+              "evidence": "conservative_records_attached=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 12,
+        "verified_in_index": 12
+      },
+      "retrieval_check": {
+        "criteria": 12,
+        "hit_at_1": 12,
+        "hit_at_3": 12
+      }
+    },
+    {
+      "case_id": "real_iro_02",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2018/august/wp5414219203.pdf",
+      "reference_outcome": "upheld",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "RFA L3",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "RFA L4",
+          "level": 2,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "RFA L5",
+          "level": 3,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)",
+            "level 3 exceeds the 1-2 level limit"
+          ],
+          "cited_chunks": [
+            "LCD-LIM7",
+            "FAQ-Q61"
+          ]
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=6, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['medications', 'medial branch block', 'right-sided rhizotomy', 'physical therapy']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "UNKNOWN",
+              "evidence": "untreated_radiculopathy=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=L4-L5 disc herniation (MRI)",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "MET",
+              "evidence": "guidance=fluoroscopy",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "UNKNOWN",
+              "evidence": "sedation=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "MET",
+              "evidence": "spinal_regions=1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            },
+            {
+              "criterion": "RFA: 2 prior diagnostic MBBs each >= 80% relief",
+              "status": "NOT_MET",
+              "evidence": "prior_diagnostic_mbb_relief_pct=[80]",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-C-DENERVATION",
+                "label": "LCD L38765, C. Facet joint denervation (RFA)",
+                "score": 0.4761,
+                "snippet": "C. Facet Joint Denervation: The thermal radiofrequency destruction of cervical, thoracic, or lumbar paravertebral facet joint (medial branch (MB)) nerves are considered medically reasonable and necessary for patients who"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "MET",
+              "evidence": "documented=True, scale=NRS (numeric x/10 as recorded)",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 12,
+        "verified_in_index": 12
+      },
+      "retrieval_check": {
+        "criteria": 12,
+        "hit_at_1": 12,
+        "hit_at_3": 12
+      }
+    },
+    {
+      "case_id": "real_iro_03",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2018/july/wp1750673217325.pdf",
+      "reference_outcome": "upheld",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "RFA lumbar L5-S1",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "facet block cervical C2-3",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "facet block cervical C3-4",
+          "level": 2,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=None, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['physical therapy', 'chiropractic', 'epidural steroid injection', 'medial branch block', 'medications']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "NOT_MET",
+              "evidence": "untreated_radiculopathy=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=diffuse disc herniation L5-S1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "UNKNOWN",
+              "evidence": "guidance=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "UNKNOWN",
+              "evidence": "sedation=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "NOT_MET",
+              "evidence": "spinal_regions=2",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            },
+            {
+              "criterion": "RFA: 2 prior diagnostic MBBs each >= 80% relief",
+              "status": "UNKNOWN",
+              "evidence": "prior_diagnostic_mbb_relief_pct=[]",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-C-DENERVATION",
+                "label": "LCD L38765, C. Facet joint denervation (RFA)",
+                "score": 0.4761,
+                "snippet": "C. Facet Joint Denervation: The thermal radiofrequency destruction of cervical, thoracic, or lumbar paravertebral facet joint (medial branch (MB)) nerves are considered medically reasonable and necessary for patients who"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 12,
+        "verified_in_index": 12
+      },
+      "retrieval_check": {
+        "criteria": 12,
+        "hit_at_1": 12,
+        "hit_at_3": 12
+      }
+    },
+    {
+      "case_id": "real_iro_04",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2018/january/wp5346199124.pdf",
+      "reference_outcome": "upheld",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "RFTC L2",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "RFTC L3",
+          "level": 2,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "RFTC L4",
+          "level": 3,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)",
+            "level 3 exceeds the 1-2 level limit"
+          ],
+          "cited_chunks": [
+            "LCD-LIM7",
+            "FAQ-Q61"
+          ]
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=None, NRS=None, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['medications', 'physical therapy', 'injections', 'immobilization', 'ice/heat']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "MET",
+              "evidence": "untreated_radiculopathy=False",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=CRPS type 2 lower limb; lumbar disc displacement",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "MET",
+              "evidence": "guidance=fluoroscopy",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "NOT_MET",
+              "evidence": "sedation=anesthesia",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "MET",
+              "evidence": "spinal_regions=1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            },
+            {
+              "criterion": "RFA: 2 prior diagnostic MBBs each >= 80% relief",
+              "status": "UNKNOWN",
+              "evidence": "prior_diagnostic_mbb_relief_pct=[]",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-C-DENERVATION",
+                "label": "LCD L38765, C. Facet joint denervation (RFA)",
+                "score": 0.4761,
+                "snippet": "C. Facet Joint Denervation: The thermal radiofrequency destruction of cervical, thoracic, or lumbar paravertebral facet joint (medial branch (MB)) nerves are considered medically reasonable and necessary for patients who"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 12,
+        "verified_in_index": 12
+      },
+      "retrieval_check": {
+        "criteria": 12,
+        "hit_at_1": 12,
+        "hit_at_3": 12
+      }
+    },
+    {
+      "case_id": "real_iro_05",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2019/april/wp212148250532amen.pdf",
+      "reference_outcome": "upheld",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "MBB level 1",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "MBB level 2",
+          "level": 2,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "MBB level 3",
+          "level": 3,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)",
+            "level 3 exceeds the 1-2 level limit"
+          ],
+          "cited_chunks": [
+            "LCD-LIM7",
+            "FAQ-Q61"
+          ]
+        },
+        {
+          "cpt": "MBB level 4",
+          "level": 4,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)",
+            "level 4 exceeds the 1-2 level limit"
+          ],
+          "cited_chunks": [
+            "LCD-LIM7",
+            "FAQ-Q61"
+          ]
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=None, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['physical therapy', 'NSAIDs', 'medications', 'traction']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "NOT_MET",
+              "evidence": "untreated_radiculopathy=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=disc herniation/bulging at multiple levels with radicular findings",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "UNKNOWN",
+              "evidence": "guidance=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "NOT_MET",
+              "evidence": "sedation=monitored anesthesia care candidate",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "NOT_MET",
+              "evidence": "spinal_regions=2",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 11,
+        "verified_in_index": 11
+      },
+      "retrieval_check": {
+        "criteria": 11,
+        "hit_at_1": 11,
+        "hit_at_3": 11
+      }
+    },
+    {
+      "case_id": "real_iro_06",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2019/april/wp5394253003.pdf",
+      "reference_outcome": "overturned",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "MBB levels unspecified",
+          "level": null,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=None, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['medications', 'physical therapy', 'heat', 'rest', 'hot/cold packs', 'prior injection (not helpful)']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "NOT_MET",
+              "evidence": "untreated_radiculopathy=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=mild-to-moderate compression fracture with disc bulges",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "MET",
+              "evidence": "guidance=fluoroscopy",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "NOT_MET",
+              "evidence": "sedation=anesthesia",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "MET",
+              "evidence": "spinal_regions=1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 11,
+        "verified_in_index": 11
+      },
+      "retrieval_check": {
+        "criteria": 11,
+        "hit_at_1": 11,
+        "hit_at_3": 11
+      }
+    },
+    {
+      "case_id": "real_iro_07",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2018/october/wp1750674227095.pdf",
+      "reference_outcome": "upheld",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "MBB levels unspecified",
+          "level": null,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=None, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['medications', 'ice', 'physical therapy (aggravated symptoms)']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "NOT_MET",
+              "evidence": "untreated_radiculopathy=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=MRI: rotator cuff tears, ganglion cyst; disc narrowing, spurring, anterolisthesis",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "UNKNOWN",
+              "evidence": "guidance=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "UNKNOWN",
+              "evidence": "sedation=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "NOT_MET",
+              "evidence": "spinal_regions=2",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 11,
+        "verified_in_index": 11
+      },
+      "retrieval_check": {
+        "criteria": 11,
+        "hit_at_1": 11,
+        "hit_at_3": 11
+      }
+    },
+    {
+      "case_id": "real_iro_08",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2018/july/wp5317216862.pdf",
+      "reference_outcome": "upheld",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "facet block cervical C2-3",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "facet block cervical C3-4",
+          "level": 2,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "facet block lumbar L5-S1",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=4, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['medications', 'physical therapy', 'cervical epidural steroid injection']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "NOT_MET",
+              "evidence": "untreated_radiculopathy=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=cervical disc herniations C4-5, C5-6; malignant neoplasm left upper lobe lung",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "MET",
+              "evidence": "guidance=fluoroscopy",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "UNKNOWN",
+              "evidence": "sedation=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "NOT_MET",
+              "evidence": "spinal_regions=2",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "MET",
+              "evidence": "documented=True, scale=NRS (numeric x/10 as recorded)",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 11,
+        "verified_in_index": 11
+      },
+      "retrieval_check": {
+        "criteria": 11,
+        "hit_at_1": 11,
+        "hit_at_3": 11
+      }
+    },
+    {
+      "case_id": "real_iro_09",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2018/july/wp5301217075.pdf",
+      "reference_outcome": "upheld",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "RFA C5-6",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "RFA C6-7",
+          "level": 2,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=None, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['cervical epidural injections', 'medial branch blocks']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "MET",
+              "evidence": "untreated_radiculopathy=False",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=large left C5-6 disc extrusion; cervical spondylosis; shoulder tears",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "UNKNOWN",
+              "evidence": "guidance=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "NOT_MET",
+              "evidence": "sedation=sedation requested; prior blocks under total IV anesthesia",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "MET",
+              "evidence": "spinal_regions=1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            },
+            {
+              "criterion": "RFA: 2 prior diagnostic MBBs each >= 80% relief",
+              "status": "NOT_MET",
+              "evidence": "prior_diagnostic_mbb_relief_pct=[90]",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-C-DENERVATION",
+                "label": "LCD L38765, C. Facet joint denervation (RFA)",
+                "score": 0.4761,
+                "snippet": "C. Facet Joint Denervation: The thermal radiofrequency destruction of cervical, thoracic, or lumbar paravertebral facet joint (medial branch (MB)) nerves are considered medically reasonable and necessary for patients who"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 12,
+        "verified_in_index": 12
+      },
+      "retrieval_check": {
+        "criteria": 12,
+        "hit_at_1": 12,
+        "hit_at_3": 12
+      }
+    },
+    {
+      "case_id": "real_iro_10",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2018/july/wp2146399216702.pdf",
+      "reference_outcome": "overturned",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "MBB C2-3",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "MBB C3-4",
+          "level": 2,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "MBB C4",
+          "level": 3,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)",
+            "level 3 exceeds the 1-2 level limit"
+          ],
+          "cited_chunks": [
+            "LCD-LIM7",
+            "FAQ-Q61"
+          ]
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=None, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['physical therapy x12']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "MET",
+              "evidence": "untreated_radiculopathy=False",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=C5-6 disc herniation; C6-7 and other disc bulges; facet and uncovertebral arthropathy",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "UNKNOWN",
+              "evidence": "guidance=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "NOT_MET",
+              "evidence": "sedation=sedation (needle phobia)",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "MET",
+              "evidence": "spinal_regions=1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 11,
+        "verified_in_index": 11
+      },
+      "retrieval_check": {
+        "criteria": 11,
+        "hit_at_1": 11,
+        "hit_at_3": 11
+      }
+    },
+    {
+      "case_id": "real_iro_11",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2018/january/wp5414197498.pdf",
+      "reference_outcome": "upheld",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "MBB C2-3 left",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=None, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['medications', 'surgeries', 'physical therapy']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "NOT_MET",
+              "evidence": "untreated_radiculopathy=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=cervical radiculopathy left C6; disc herniation C3-T1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "UNKNOWN",
+              "evidence": "guidance=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "UNKNOWN",
+              "evidence": "sedation=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "MET",
+              "evidence": "spinal_regions=1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 11,
+        "verified_in_index": 11
+      },
+      "retrieval_check": {
+        "criteria": 11,
+        "hit_at_1": 11,
+        "hit_at_3": 11
+      }
+    },
+    {
+      "case_id": "real_iro_12",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2018/march/wp5345203707.pdf",
+      "reference_outcome": "overturned",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "RFA C4-5",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "RFA C5-6",
+          "level": 2,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=None, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['diagnostics', 'medications', 'chiropractic', 'physical therapy', 'injections', 'medial branch block']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "MET",
+              "evidence": "untreated_radiculopathy=False",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "UNKNOWN",
+              "evidence": "non_facet_pathology=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "UNKNOWN",
+              "evidence": "guidance=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "UNKNOWN",
+              "evidence": "sedation=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "MET",
+              "evidence": "spinal_regions=1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            },
+            {
+              "criterion": "RFA: 2 prior diagnostic MBBs each >= 80% relief",
+              "status": "NOT_MET",
+              "evidence": "prior_diagnostic_mbb_relief_pct=[90]",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-C-DENERVATION",
+                "label": "LCD L38765, C. Facet joint denervation (RFA)",
+                "score": 0.4761,
+                "snippet": "C. Facet Joint Denervation: The thermal radiofrequency destruction of cervical, thoracic, or lumbar paravertebral facet joint (medial branch (MB)) nerves are considered medically reasonable and necessary for patients who"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 12,
+        "verified_in_index": 12
+      },
+      "retrieval_check": {
+        "criteria": 12,
+        "hit_at_1": 12,
+        "hit_at_3": 12
+      }
+    },
+    {
+      "case_id": "real_iro_13",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2018/may/wp5353208520.pdf",
+      "reference_outcome": "overturned",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "MBB C4-5",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "MBB C6-7",
+          "level": 2,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=None, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['physical therapy', 'home exercise', 'NSAIDs', 'cervical transforaminal injections']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "NOT_MET",
+              "evidence": "untreated_radiculopathy=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=neural foraminal stenosis; spondylolisthesis; s/p posterior cervical fusion",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "MET",
+              "evidence": "guidance=fluoroscopy",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "NOT_MET",
+              "evidence": "sedation=monitored anesthesia (CRNA)",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "MET",
+              "evidence": "spinal_regions=1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 11,
+        "verified_in_index": 11
+      },
+      "retrieval_check": {
+        "criteria": 11,
+        "hit_at_1": 11,
+        "hit_at_3": 11
+      }
+    },
+    {
+      "case_id": "real_iro_14",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2019/january/wp5518240955.pdf",
+      "reference_outcome": "upheld",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "therapeutic facet injection levels unspecified",
+          "level": null,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=None, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['physical therapy', 'injections', 'medications', 'facet injections', 'radiofrequency ablation']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "NOT_MET",
+              "evidence": "untreated_radiculopathy=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=lateral stenosis with encroachment",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "UNKNOWN",
+              "evidence": "guidance=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "UNKNOWN",
+              "evidence": "sedation=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "MET",
+              "evidence": "spinal_regions=1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 11,
+        "verified_in_index": 11
+      },
+      "retrieval_check": {
+        "criteria": 11,
+        "hit_at_1": 11,
+        "hit_at_3": 11
+      }
+    },
+    {
+      "case_id": "real_iro_15",
+      "source": "https://www.tdi.texas.gov/medcases/iro/2025/march/wp1729759414941.pdf",
+      "reference_outcome": "overturned",
+      "expected_decision": null,
+      "decision": "NON-AFFIRMATION",
+      "services": [
+        {
+          "cpt": "RFA L3-4",
+          "level": 1,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "RFA L4-5",
+          "level": 2,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)"
+          ],
+          "cited_chunks": []
+        },
+        {
+          "cpt": "RFA L5-S1",
+          "level": 3,
+          "decision": "NON-AFFIRM",
+          "reasons": [
+            "case-level criteria not met (see agent findings)",
+            "level 3 exceeds the 1-2 level limit"
+          ],
+          "cited_chunks": [
+            "LCD-LIM7",
+            "FAQ-Q61"
+          ]
+        }
+      ],
+      "agents": [
+        {
+          "agent": "EligibilityAgent",
+          "verdict": "N/A",
+          "criteria": []
+        },
+        {
+          "agent": "MedicalNecessityAgent",
+          "verdict": "NOT_MET",
+          "criteria": [
+            {
+              "criterion": "Moderate-to-severe chronic axial neck/low back pain with functional deficit",
+              "status": "UNKNOWN",
+              "evidence": "axial=True, NRS=7, None=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4618,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Pain >= 3 months with documented failure of conservative management",
+              "status": "UNKNOWN",
+              "evidence": "duration_months=None, conservative=['exercise', 'medication', 'physical therapy', 'prior radiofrequency']",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3572,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No untreated radiculopathy / neurogenic claudication",
+              "status": "UNKNOWN",
+              "evidence": "untreated_radiculopathy=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2378,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "No non-facet pathology explaining the pain",
+              "status": "NOT_MET",
+              "evidence": "non_facet_pathology=intervertebral disc displacement; spondylosis",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.3273,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Fluoroscopic or CT guidance",
+              "status": "UNKNOWN",
+              "evidence": "guidance=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM1",
+                "label": "LCD L38765, Limitation 1",
+                "score": 0.739,
+                "snippet": "Facet joint interventions done without CT or fluoroscopic guidance are considered not reasonable and necessary. This includes facet joint interventions done without any guidance, performed under ultrasound guidance, or w"
+              }
+            },
+            {
+              "criterion": "No moderate/deep sedation, GA or MAC",
+              "status": "UNKNOWN",
+              "evidence": "sedation=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM2",
+                "label": "LCD L38765, Limitation 2",
+                "score": 0.738,
+                "snippet": "Use of moderate or deep sedation, general anesthesia, and monitored anesthesia care (MAC) is not considered medically reasonable and necessary during facet procedures of IA, MBB, and facet cyst aspiration/rupture.1"
+              }
+            },
+            {
+              "criterion": "One spinal region per session",
+              "status": "MET",
+              "evidence": "spinal_regions=1",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM4",
+                "label": "LCD L38765, Limitation 4",
+                "score": 0.5212,
+                "snippet": "It is not expected that patients will routinely present with pain in both cervical/thoracic and lumbar spinal regions. Therefore, facet joint interventions (both diagnostic and therapeutic) are limited to 1 spinal region"
+              }
+            },
+            {
+              "criterion": "Not for generalized/centralized pain (e.g., fibromyalgia)",
+              "status": "UNKNOWN",
+              "evidence": "centralized_pain_dx=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-LIM9",
+                "label": "LCD L38765, Limitation 9",
+                "score": 0.5227,
+                "snippet": "Therapeutic facet injections are not covered unless there is justification in the medical documentation on why RFA cannot be performed. Facet joint procedures in patients for the indication of generalized pain conditions"
+              }
+            },
+            {
+              "criterion": "RFA: 2 prior diagnostic MBBs each >= 80% relief",
+              "status": "UNKNOWN",
+              "evidence": "prior_diagnostic_mbb_relief_pct=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-C-DENERVATION",
+                "label": "LCD L38765, C. Facet joint denervation (RFA)",
+                "score": 0.4761,
+                "snippet": "C. Facet Joint Denervation: The thermal radiofrequency destruction of cervical, thoracic, or lumbar paravertebral facet joint (medial branch (MB)) nerves are considered medically reasonable and necessary for patients who"
+              }
+            }
+          ]
+        },
+        {
+          "agent": "DocumentationAgent",
+          "verdict": "UNKNOWN",
+          "criteria": [
+            {
+              "criterion": "Baseline pain assessment on an accepted scale",
+              "status": "MET",
+              "evidence": "documented=True, scale=NRS (numeric x/10 as recorded)",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.4339,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            },
+            {
+              "criterion": "Baseline disability scale on an accepted instrument",
+              "status": "UNKNOWN",
+              "evidence": "documented=None, scale=None",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-SCALES",
+                "label": "LCD L38765, Acceptable pain/disability scales",
+                "score": 0.3632,
+                "snippet": "Note: The scales used for measurement of pain and/or disability must be documented in the medical record. Acceptable scales include but are not limited to: verbal rating scales, Numerical Rating Scale (NRS) and Visual An"
+              }
+            },
+            {
+              "criterion": "Conservative-management records in submission",
+              "status": "MET",
+              "evidence": "conservative_records_attached=True",
+              "citation": {
+                "doc_id": "LCD_L38765_v27",
+                "chunk_id": "LCD-INDICATIONS",
+                "label": "LCD L38765, Indications (criteria 1-4)",
+                "score": 0.2591,
+                "snippet": "Facet joint interventions are considered medically reasonable and necessary for the diagnosis and treatment of chronic pain in patients who meet ALL the following criteria: 1. Moderate-to-severe chronic neck or low back "
+              }
+            }
+          ]
+        }
+      ],
+      "groundedness_check": {
+        "citations": 12,
+        "verified_in_index": 12
+      },
+      "retrieval_check": {
+        "criteria": 12,
+        "hit_at_1": 12,
+        "hit_at_3": 12
+      }
+    }
+  ]
+}

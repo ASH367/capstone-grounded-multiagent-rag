@@ -1,0 +1,43 @@
+{
+ "case_id": "sacredheart_hospital",
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "service_at_issue": "Acute inpatient hospital stay after ventral hernia repair, July 27 to 29, 2005",
+ "facts": [
+  "The appellant billed Medicare for the beneficiary’s inpatient hospitalization from July 27, through July 29, 2005.",
+  "On the first date at issue (July 27, 2005), the 71-year-old beneficiary was admitted to the appellant’s facility for surgical repair of a “large, complicated and mildly symptomatic incisional” abdominal wall (ventral) hernia that occurred as a result of a sigmoid colon resection with colostomy in 2003. Exh. 2 at 3.",
+  "The beneficiary also had past medical conditions and diagnoses of chronic obstructive pulmonary disease and asthma with recurrent bronchitis, hypertension, esophageal reflux, diverticulitis, and post-surgical hypothyroidism with thyroidectomy. Id. at 1, 7.",
+  "The medical record indicates that the beneficiary had “significant underlying pulmonary disease in the form of recurrent episode of bronchial asthma. She also has a functional vocal cord dysfunction.” Id. at 7.",
+  "The beneficiary tolerated the surgical procedure well, and was extubated and admitted to the post-anesthesia care unit (PACU). Id. at 6A.",
+  "The record shows that the beneficiary was hospitalized “owing to the amount of dissection required intra- abdominally as well as her underlying pulmonary status.” Id. at 8.",
+  "At the time of the beneficiary’s admission to the PACU, she was in stable condition with stable vital signs and breathing with 2.5 liters of oxygen by nasal cannula. Id. at 6A, 12, 28. The staff administered intravenous pain medication and checked her vital signs at 15-minute intervals. Id. at 28.",
+  "She received twice daily pulmonary assessments and continued on oxygen at 1.5 liters by nasal cannula. Id. at 67. Upon admission and in the evening of the following day, the beneficiary experienced shallow breathing with diminished bibasilar breath sounds. Id. The beneficiary was given spirometry treatments and her breathing was documented as even. Id.",
+  "During the duration of her stay, the beneficiary’s surgical wound was dressed and cleaned without signs of infection, redness, or swelling. Id. at 77. The beneficiary was given pain medication as needed and identified her surgical site pain on July 27, 2005, as “5,” “8” and “4;” and on July 28, 2005, as “3” and “6” on a numerical pain scale. Id. at 83. Upon discharge, the beneficiary declined a walker or cane to assist with mobility after her surgery. Id. at 44."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council found that the beneficiary's health status and the foreseeable adverse effects were severe enough to require acute inpatient care, reversing the ALJ.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "10"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 405.980",
+  "42 CFR 405.926(l)",
+  "42 CFR 405.986",
+  "42 CFR 476.71(a)(1)",
+  "42 CFR 476.71(a)(3)",
+  "42 CFR 476.83",
+  "42 CFR 405.1062(a)",
+  "42 CFR 405.1063",
+  "HCFA Ruling 93-1",
+  "SSA 1862(a)(1)",
+  "SSA 1879",
+  "MPIM ch.3 3.6.B",
+  "QIOM ch.7 7100",
+  "QIOM ch.4 4110"
+ ]
+}

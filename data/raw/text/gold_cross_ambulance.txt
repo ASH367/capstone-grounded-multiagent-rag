@@ -1,0 +1,188 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+
+
+In the case of                        Claim for
+
+                                      Supplementary Medical
+Gold Cross Ambulance                  Insurance Benefits (Part B)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+Noridian Administrative
+Services                              ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+
+The Administrative Law Judge (ALJ) issued a decision dated May
+11, 2009, concerning Medicare coverage for non-emergency
+ambulance transportation services (one unit of A0428-HN and one
+unit of A0425-HN) provided to the beneficiary by the appellant
+on April 30, 2008. The ALJ determined that the ambulance
+services were not medically necessary pursuant to Section
+1861(s)(7) of the Social Security Act and 42 C.F.R. § 410.40.
+The appellant has asked the Medicare Appeals Council to review
+this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). The appellant’s request for review
+will be made a copy of the record as Exhibit (Exh.) MAC-1.
+
+                Background and Appellant’s Contentions
+
+The beneficiary in this case (age 87 on the date of service) had
+a pacemaker inserted several years earlier for sick sinus
+syndrome, and had become dependent on the pacemaker. Exh. 5 at
+4. His pacemaker, generator, and leads (electrical leads to the
+heart) were removed and then replaced on April 27, 2008 (at ****
+                                                                          2
+
+
+
+
+Hospital) because the pacemaker and generator had become
+infected. Id. His cardiologist explains that because of the
+beneficiary’s pacemaker dependency and a wound infection on the
+opposite side of his chest requiring a wound vac, he was
+transferred from the hospital to a “rehabilitation center” three
+days after the surgery.1 Id. The cardiologist also states that
+because of the beneficiary’s recent problem with a pacemaker
+infection and recent insertion of new pacemaker leads, it was
+“absolutely necessary” to take him from the hospital to the
+rehabilitation center by ambulance with a cardiac monitor in
+case the newly-implanted pacemaker or generator failed. Id.
+
+The Physician Certification Statement (PCS) signed by the
+registered nurse on the date of ambulance transportation states
+that the beneficiary also required oxygen. Exh. 5 at 9.
+However, neither this PCS nor any other document in the record
+indicates why the oxygen was required.
+
+The redetermination denied Medicare coverage for the ambulance
+transport because the contractor did not have a trip report to
+review (Exh. 2 at 2), and the reconsideration denied coverage on
+the ground that a stretcher van could have been used as an
+alternate form of transportation without endangering the
+beneficiary’s health (Exh. 3 at 3). Both the redetermination
+and the reconsideration found the beneficiary responsible for
+the denied charges for the ambulance.
+
+The ALJ held a hearing and reviewed the documentation, including
+the ambulance trip records, the PCS, and the cardiologist’s
+written statement. Dec. at 2. The ALJ found the non-emergency
+ambulance transportation was not medically necessary, on two
+grounds. First, he found that the beneficiary was not bed-
+confined. Dec. at 7-8, citing 42 C.F.R. § 410.40(d); and Pub.
+100-2, Medicare Benefit Policy Manual (MBPM), Chapter 10,
+Sections 10.2.3 and 10.2.4. Second, he found that the record
+did not sufficiently establish medical necessity for the
+ambulance transport. According to the ALJ, the beneficiary’s
+medical history, including hypertension, coronary artery
+disease, and blindness, did not show that other means of
+transportation would endanger the beneficiary or aggravate those
+
+1
+  While the ALJ refers to the destination facility as a “rehabilitation
+center,” both the QIC and redetermination decisions referred to it as a
+skilled nursing facility. The website for **** states that it “is the
+premier skilled nursing facility in ***, ***” and that it “provide[s]
+compassionate 24-hour skilled care and rehabilitation services….”   See
+www.****.com.
+                                                                   3
+
+
+
+
+conditions. Id. at 8. Therefore, the ALJ found the beneficiary
+liable for the costs of the ambulance transport. Id.
+
+The appellant disagrees with the ALJ’s findings, contending that
+the beneficiary required ambulance transport because he was bed-
+confined, and also required oxygen and cardiac monitoring en
+route. See Exh. MAC-1. The Council has reviewed the record,
+and for the reasons set forth below, reverses the ALJ’s
+decision.
+
+                            Analysis
+
+First, the Council determines that the beneficiary was not bed-
+confined at the time of his ambulance transport. To be
+considered bed-confined, the beneficiary must be: (i) unable to
+get up from bed without assistance; (ii) unable to ambulate; and
+(iii) unable to sit in a chair or wheelchair. 42 C.F.R.
+§ 410.401(d)(1) (emphasis added). In this case, the record of
+the ambulance transport contains the following handwritten
+comments, inter alia: “Pt. [patient] is an 87 YOM [year old
+male] who was sitting up in his bed. . . . Pt. was weak but
+could stand and walk on his own strength.” As this account
+demonstrates, the beneficiary was not bed-confined at the time
+of the ambulance transport.
+
+Second, the Council determines that the beneficiary did,
+however, require ambulance transportation in this instance
+because his condition was such that transportation by ambulance
+was medically required. See 42 C.F.R. § 410.40(d)(1). Three
+days earlier, he had undergone surgery for the removal and
+replacement of an infected pacemaker and generator, and the
+removal and replacement of cardiac leads. Exh. 5 at 4. For the
+beneficiary, the pacemaker and related equipment provided a
+longstanding form of medical support, and he was dependent on
+this equipment for the functioning of his heart. In the view of
+his cardiologist, he needed to enter a facility to receive
+rehabilitation, and he needed ambulance transportation with
+cardiac monitoring to get there from the hospital. Id. Had he
+been using an alternate form of transportation and experienced
+an equipment failure or other cardiac problem en route, his
+medical condition would have been threatened. For these reasons
+the Council rules that the beneficiary’s ambulance
+transportation on April 30, 2008, was medically required and
+thus covered by Medicare.
+                                                                   4
+
+
+
+
+This appeal, unlike many others involving ambulance services,
+included actual medical documentation from the beneficiary’s
+physician. Id. All too often such documentation is lacking,
+making it difficult or impossible to determine if the
+beneficiary’s condition met the requirements for ambulance
+transportation. Medical documentation, in the form of hospital
+discharge summaries, physicians’ statements and notes, and other
+medical records provide a more accurate and complete view of the
+patient’s condition than just a Physician Certification
+Statement (often filled out by a nurse) and notes on the
+ambulance trip report.
+
+                            DECISION
+
+Therefore, the Medicare Appeals Council reverses the decision of
+the ALJ. The non-emergency ambulance transportation services
+(one unit of A0428-HN and one unit of A0425-HN) provided to the
+beneficiary by the appellant on April 30, 2008 are covered by
+Medicare.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Gilde Morrisson
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/ Clausen J. Krzywicki
+                                   Administrative Appeals Judge
+
+Date: September 28, 2009
+

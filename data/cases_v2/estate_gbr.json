@@ -1,0 +1,25 @@
+{
+ "case_id": "estate_gbr",
+ "domain": "ambulance",
+ "docket": "M-10-1461",
+ "service_at_issue": "Ground ambulance transport and mileage between two hospitals for an intracranial hemorrhage patient",
+ "facts": [
+  "On June 2, 2009, the date of the ambulance transport at issue, the beneficiary was an 81-year-old male who had been found unresponsive in his home that morning. Exhibit (Exh.) 1, at 1A. He was brought to the emergency room (ER) at Proctor Hospital (Proctor) in ***, Illinois, via ambulance. Id. The initial ambulance transport is not at issue in this case.",
+  "At Proctor, the ER physician diagnosed the beneficiary with left temporal lobe hemorrhagic cardiovascular accident. Id. at 1. The ER physician documented that he consulted with the neurosurgeon on call, who recommended that the beneficiary be transferred to the “St. Francis Neuro ICU.” Id. Advanced Medical Transport of Central Illinois transported the beneficiary from Proctor Hospital to OSF Saint Francis Medical Center (St. Francis) on the afternoon of June 2, 2009. Id. at 8-10. The neurosurgeon at St. Francis explained to the beneficiary’s family that the chances for the beneficiary to make a “functional recovery” were “quite low”. Id. at 3. The family decided against surgery or other “aggressive measures”. Id. The beneficiary died two days later. Id. at 5.",
+  "The facts show that the patient was transported from one hospital to another on June 2, 2009. It was noted that the patient was transported to a trauma center. It was determined that the sending hospital also has a trauma center. The documentation did not state what specific service was not available at the first hospital.",
+  "the appellant (the beneficiary’s son and co-executor of the estate) asserts that the ER physician at Proctor informed him that the beneficiary needed to be transported to the neurological critical care unit at St. Francis, where he could be evaluated by a neurosurgeon. The appellant further explains that the family did not know whether surgical intervention was warranted until after the beneficiary had been evaluated by the neurosurgeon at St. Francis."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "Neurosurgical critical care was unavailable at the first hospital but available at the second, so transport and mileage were covered and the ALJ was reversed.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.3.2"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 410.40(e)"
+ ]
+}

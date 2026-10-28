@@ -1,0 +1,340 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+
+
+In the case of                        Claim for
+
+                                      Hospital Insurance Benefits
+Rx Home Care, Inc.                    (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+Cahaba GBA                            ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+On May 1, 2009, the Administrative Law Judge (ALJ) issued a
+fully favorable decision in an appeal filed by the Pennsylvania
+Department of Public Welfare, a Medicaid state agency as
+statutory subrogee. The ALJ’s decision granted Medicare
+coverage for home health care services furnished by Rx Home Care
+(provider) to the beneficiary from October 3, 2005, through
+September 27, 2006. Dissatisfied with this outcome, the
+provider has asked the Medicare Appeals Council (Council) to
+review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). As set forth below, the Council
+reverses the ALJ’s decision.
+
+                   BACKGROUND AND PROCEDURAL HISTORY
+
+The beneficiary, an individual who was dually eligible for both
+Medicare and Medicaid benefits, received home health care
+services from the provider from October 3, 2005, through
+September 27, 2006. Exhs. 1-6. The Pennsylvania Department of
+Public Welfare, a Medicaid state agency acting as statutory
+                                                                   2
+
+
+
+
+subrogee, requested that the provider submit a demand bill to
+claim Medicare coverage. Exh. 7.
+
+Initially, and upon redetermination, the Medicare contractor
+denied coverage for the services at issue on the basis that the
+records submitted did not include a valid physician’s order for
+the frequency of the services provided or for skilled nursing
+services. Exhs. 1-6.
+
+The Medicaid state agency requested reconsideration of these
+claims by a Qualified Independent Contractor (QIC). Id. The
+QIC also denied coverage for the periods of service at issue,
+finding that “insufficient documentation was submitted to
+substantiate Medicare’s coverage criteria. The home health care
+plans of care/certifications for the dates of service under
+review did not specify the frequency of the home health care
+visits to be provided.” Exh. 8 at 567. The QIC also determined
+that the Notice of Non-Coverage (NNC) on file was signed by the
+beneficiary on March 11, 2003, and did not pertain to the dates
+of service at issue. Id. at 571. Ultimately, the QIC held the
+provider liable for the non-covered services. Id.
+
+The Medicaid state agency then requested a hearing before an
+ALJ. Exh. 9. By order dated April 1, 2009, the ALJ
+consolidated several appeals involving the Medicaid state agency
+into one hearing. Exh. 12. These appeals involved claims
+arising from several beneficiaries and providers. Hearing CD.
+The ALJ conducted the consolidated hearing with counsel for the
+Medicaid state agency participating via teleconference on April
+23, 2009. Dec. at 2, Hearing CD. Representatives from another
+provider, not involved with the present appeal, also
+participated in the hearing via telephone. Hearing CD. The
+provider in this case did not participate in the hearing. Id.
+On May 1, 2009, the ALJ issued a fully favorable decision,
+granting Medicare coverage for all of the home health care
+services rendered during the periods of service at issue. Dec.
+at 10-13.
+
+On appeal before the Council, the provider asserts that Medicare
+coverage is not appropriate for the services at issue because
+they were not skilled, and thus, do not qualify as reasonable
+and necessary as contemplated by Medicare’s coverage criteria.
+See Request for Review.
+                                                                   3
+
+
+
+
+                  APPLICABLE LEGAL AUTHORITIES
+
+For a beneficiary to qualify for Medicare coverage of home
+health services, he or she must be confined to the home, under
+the care of a physician, in need of skilled services, under a
+plan of care, and the services must be provided by a
+participating home health agency. 42 C.F.R. § 409.42. The
+beneficiary must need “skilled services” in the form of
+intermittent skilled nursing services, physical therapy
+services, speech-language pathology services, or occupational
+therapy services. 42 C.F.R. § 409.42(c). To qualify for
+Medicare coverage, the intermittent skilled nursing services
+provided must meet the criteria for skilled services and the
+need for those services, as described in 42 C.F.R. § 409.32.
+
+42 C.F.R. § 409.33(a)(2)(i) explains when observation and
+assessment of the patient’s changing condition constitute
+skilled services: “Observation and assessment constitute
+skilled services when the skills of a technical or professional
+person are required to identify and evaluate the patient’s need
+for modification of treatment or for additional medical
+procedures until his or her condition is stabilized.”
+
+The Medicare Benefits Policy Manual (MBPM) section entitled
+“Observation and Assessment of the Patient’s Condition When Only
+the Specialized Skills of a Medical Professional Can Determine
+Patient’s Status” provides:
+
+     Observation and assessment of the patient’s condition
+     by a nurse are reasonable and necessary skilled
+     services when the likelihood of change in a patient’s
+     condition requires skilled nursing personnel to
+     identify and evaluate the patient’s need for possible
+     modification of treatment or initiation of additional
+     medical procedures until the patient’s treatment
+     regimen is essentially stabilized. When a patient was
+     admitted to home health care for skilled observation
+     because there was a reasonable potential of a
+     complication or further acute episode, but did not
+     develop a further acute episode or complication, the
+     skilled observation services are still covered for
+     three weeks or so long as there remains a reasonable
+     potential for such a complication or further acute
+     episode.
+                         *    *    *
+                                                                   4
+
+
+
+
+     However, observation and assessment by a nurse is not
+     reasonable and necessary to the treatment of the
+     illness or injury where these indications are part of
+     a longstanding pattern of the patient’s condition, and
+     there is no attempt to change the treatment to resolve
+     them.
+
+CMS Manual System, Pub. 100-02, MBPM, Ch. 7 at § 40.1.2.1.
+
+                           DISCUSSION
+
+     Medicare Coverage
+
+The beneficiary began receiving home health care from the
+provider in June 2001, more than four years before the initial
+date of service at issue. Exh. 6 at 1; Request for Review. The
+beneficiary’s primary diagnosis was type I diabetes mellitus
+(without mention of complication and not stated as
+uncontrolled), and his other diagnoses included hypertension,
+venous thrombosis, coronary atherosclerosis of unspecified type,
+glaucoma, and chronic renal failure. Exhs. 1-6.
+
+During the periods of service at issue, a skilled nurse visited
+the beneficiary approximately once every two weeks to fill a
+mediplanner with pills and oversee home health aides. Id.
+Concurrently, a home health aide visited the beneficiary five
+days each week, averaging 30-35 hours a week, to assist with
+personal care, light housekeeping, and meal preparation. Id.
+
+The ALJ granted Medicare coverage for these home health care
+services, finding them reasonable and necessary for the
+beneficiary’s care because a skilled nurse provided observation
+and assessment of the beneficiary’s overall health, filled his
+mediplanner with medications, and oversaw home health aides.
+Dec. at 11-12.
+
+However, before the Council, the appellant-provider contends
+that Medicare coverage is not appropriate for the services at
+issue because they were not reasonable and necessary as
+contemplated by the regulations. Request for Review.
+Specifically, the appellant-provider asserts that there were no
+physician orders for skilled services during the periods in
+question and that skilled “observation and assessment” services
+cannot occur for over a 50-week period. Id. We agree.
+                                                                   5
+
+
+
+
+After reviewing the medical evidence contained in the
+administrative record, the Council finds that the beneficiary
+did not receive or require skilled care during the periods of
+service at issue. The beneficiary did not receive any skilled
+rehabilitation therapy during the period of service at issue.
+Thus, for the home health care services to qualify for Medicare
+coverage, the beneficiary must have received and required
+intermittent skilled nursing care. However, the plans of care
+on file reveal physician’s orders for the skilled nurse to
+“visit Q 2 weeks to pour mediplanner.” Id. Pouring medications
+into a pill planner is not a skilled service as it not “so
+inherently complex that it can be safely and effectively
+performed only by, or under the supervision of, professional or
+technical personnel.” 42 C.F.R. § 409.32(a). The record does
+not contain physician’s orders for skilled care at the level
+contemplated by the regulations. Exhs. 1-6.
+
+Further, the evidence of record does not support the ALJ’s
+conclusion that the visiting nurse provided observation and
+assessment services. Dec. at 11-12. The plans of care do not
+contain physician’s orders for observation and assessment and
+the nursing notes do not reveal any significant changes in the
+beneficiary’s status or condition. Given the above, there was
+no anticipated likelihood of complications or an acute episode
+that would have required observation and assessment by a skilled
+nurse. 42 C.F.R. § 409.33(a)(2)(i); MBPM, Ch. 7 at § 4.1.2.1.
+
+For the foregoing reasons, the Council concludes that the
+skilled nursing services provided to the beneficiary during the
+periods of service at issue were not medically reasonable and
+necessary pursuant to section 1862(a)(1) of the Social Security
+Act (Act), and therefore, are not covered by Medicare. The home
+health aide services are not covered when a beneficiary does not
+also require skilled care. 42 C.F.R. § 409.45(a). Therefore,
+Medicare does not cover the dependent home health aide services
+at issue. The ALJ’s decision is reversed.
+
+     Liability
+
+As the Council determined that Medicare does not cover the
+services at issue because they were not medically reasonable and
+necessary under section 1862(a)(1) of the Act, we must next
+apply the limitation on liability provisions of section 1879.
+
+Section 1879 of the Act provides that a beneficiary or provider
+may be liable for the cost of an item or service that is not
+                                                                   6
+
+
+
+
+“reasonable and necessary” based upon prior knowledge of
+non-coverage. Act at § 1879(a); 42 C.F.R. §§ 411.400, 411.404,
+411.406; Medicare Claims Processing Manual (MCPM), Ch. 30, §40.
+A beneficiary is deemed to have knowledge of non-coverage if the
+provider furnishes written notice to the beneficiary explaining
+why it believes that Medicare will not cover the item or
+service. 42 C.F.R. § 411.404(b). A provider is deemed to have
+knowledge of non-coverage, in part, when it informs the
+beneficiary before furnishing the item or service that it is not
+covered. 42 C.F.R. § 411.406(d)(1). A provider also has actual
+or constructive knowledge of non-coverage based upon “[i]ts
+receipt of CMS notices, including manual issuances, bulletins,
+or other written guides or directives from [Medicare
+contractors]” and “[i]ts knowledge of what are considered
+acceptable standards of practice by the local medical
+community.” 42 C.F.R. § 411.406(e)(1),(3).
+
+The Council finds that the appellant-provider in this case knew
+or had reason to know that Medicare would not cover the home
+health services during the period at issue, pursuant to 42
+C.F.R. § 411.406(e)(1),(3). Therefore, the appellant-provider
+will be liable for the non-covered items unless it provided
+valid notice to the beneficiary in writing that the services
+likely would not be covered by Medicare.
+
+The record contains a signed Notice of Non-Coverage Home Health
+Advance Beneficiary Notice (HHABN) dated March 11, 2003. Exh. 7
+at 550. The HHABN indicated that the service at issue, skilled
+nursing visits to prepare and pour the medication organizer,
+does “not meet the requirements for coverage under Medicare”
+because “skilled services are not part-time or intermittent,”
+“services are not skilled,” and the visits were “authorized by &
+billed through county services [Medicaid].” Id. Thus, the
+notice informed the beneficiary in writing that the services at
+issue likely would not be covered by Medicare – more than two
+years prior to the start of the period of service at issue.
+
+The Medicare Claims Processing Manual explains when a provider
+must reissue a HHABN as follows:
+
+     A single HHABN covering an extended course of
+     treatment is acceptable [to limit liability] provided
+     the HHABN identifies all items and services for which
+     the HHA believes Medicare will not pay. If, as the
+     extended course of treatment progresses, additional
+     items or services are to be furnished for which the
+                                                                   7
+
+
+
+
+     HHA believes Medicare will not pay, the HHA must
+     separately notify the patient in writing (i.e., give
+     the beneficiary another HHABN) that Medicare is not
+     likely to pay for the additional items or services and
+     obtain the beneficiary’s signature on the HHABN. One
+     year is the limit for use of a single HHABN for an
+     extended course of treatment; if the course of
+     treatment extends beyond one year, a new HHABN is
+     required for the remainder of the course of treatment.
+
+MCPM, Ch. 30 at § 60.6.1 (version effective Oct. 01, 2003). As
+the date of the HHABN on file is more than two years prior to
+initial date of service at issue, the Council finds that the
+March 2003, HHABN provided insufficient notice to the
+beneficiary that Medicare would likely not cover the periods of
+service at issue. As explained above, “if the course of
+treatment extends beyond one year, a new HHABN is required for
+the remainder of the course of treatment.” Id. As such, the
+provider is liable for the non-covered services.
+
+                            DECISION
+
+It is the decision of the Medicare Appeals Council that Medicare
+does not cover the home health care services furnished to the
+beneficiary from October 3, 2005, through September 27, 2006,
+and that the provider is liable for the non-covered costs.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+                                   /s/ Gilde Morrisson
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/ M. Susan Wiley
+                                   Administrative Appeals Judge
+
+Date: November 3, 2009
+

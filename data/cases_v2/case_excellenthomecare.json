@@ -1,0 +1,29 @@
+{
+ "case_id": "case_excellenthomecare",
+ "domain": "home_health",
+ "docket": "M-2009-1470",
+ "service_at_issue": "home health skilled nursing for two beneficiaries, certification periods in 2008",
+ "facts": [
+  "The beneficiary was 66 years old and entered the appellant’s home health program on June 28, 2008. The certification period in issue covers August 27, 2008 through October 25, 2008. The beneficiary’s medical history included Type II diabetes, benign hypertension, esophageal reflux and angina. Additionally, the beneficiary was taking a variety of medications in pill form. The beneficiary’s mental status was oriented but depressed and his prognosis “fair.” Exh. 8 at 20.",
+  "The beneficiary was discharged from home health care on October 21, 2008, based on the general stability of his blood sugar, blood pressure and overall control of his conditions. Exh. 8 at 23.",
+  "The beneficiary was 90 years old and entered the appellant’s home health program on August 19, 2008. The certification period in issue covers August 19, 2008 through October 17, 2008. The beneficiary’s medical history included diabetes, cellulitis, abnormality of gait and chronic kidney disease. Additionally, the beneficiary was taking a variety of medications in pill form. The beneficiary’s mental status was oriented but forgetful and depressed with a “fair” prognosis. Exh. 8 at 19. The beneficiary’s home health plan of care called for skilled nursing services three times a week for three weeks, twice a week for five weeks and once a week for one week.",
+  "The beneficiary was discharged from home health care on October 17, 2008, based on the general stability of her blood sugar and improvement in other areas of concern. Exh. 8 at 32.",
+  "the beneficiary was alert and oriented, with forgetfulness at a “baseline” level. Further the beneficiary had a caregiver who provided assistance with activities of daily living as well as the administration of oral medications and injections of insulin.",
+  "“the physician’s signatures on many of the medical documents [which] were illegible, scribbled and dated with a stamp.”"
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council adopted the ALJ decisions, finding the record did not show either beneficiary needed skilled nursing or that the services provided were skilled.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 409.42(b)",
+  "42 CFR 409.44",
+  "42 CFR 409.42-409.45"
+ ]
+}

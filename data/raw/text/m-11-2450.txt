@@ -1,0 +1,167 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-11-2450
+
+
+In the case of                            Claim for
+
+                                          Supplementary Medical
+W.K.                                      Insurance Benefits (Part B)
+(Appellant)
+
+
+****                                      ****
+(Beneficiary)                             (HIC Number)
+
+
+Noridian Administrative
+Services                                  ****
+(Contractor)                              (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+August 18, 2011. The ALJ denied the appellant’s claim for
+Medicare Part B coverage for basic life support, emergency
+ambulance transport (HCPCS code1 A0429) and associated ground
+mileage (HCPCS code A0425) furnished to the beneficiary on
+November 2, 2010. The ALJ determined that transport was not
+medically reasonable and necessary and determined that the
+beneficiary was responsible for the non-covered charges. The
+appellant has asked the Medicare Appeals Council (Council) to
+review this action. The Council admits the appellant’s request
+for review and accompanying correspondence into the
+administrative record as Exhibit (Exh.) MAC-1.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+1
+  The Centers for Medicare and Medicaid Services (CMS) developed the
+Healthcare Common Procedure Coding System (HCPCS) to set forth “uniform
+national definitions of services, codes to represent services, and payment
+modifiers to the codes.” 42 C.F.R. § 414.40.
+                                                                   2
+
+The Council has considered the record and the appellant’s
+exceptions. For the reasons set forth below, the Council agrees
+with the ALJ’s decision that the ambulance transport and ground
+mileage in question are not covered and that the appellant is
+responsible for the non-covered charges. We modify the ALJ’s
+decision to clarify that the statutory basis for denial is
+§ 1861(s)(7) of the Social Security Act (Act) and not
+§ 1862(a)(1) of the Act.
+
+                           DISCUSSION
+
+The appellant seeks coverage for the basic life support
+emergency ambulance transport (and associated ground mileage)
+that was furnished to him on November 2, 2010. On that date,
+the appellant was exiting a tour bus at a national park and
+“ended up on the ground.” Exh. MAC-1. The bus driver alerted
+the park rangers who called an ambulance to take the appellant
+from the scene of the accident to a “clinic” within the national
+park. See Exh. 1 at 10. The ALJ determined that “[a]mbulance
+transport is only covered where transport is provided to a
+covered destination.” Dec. at 5. The ALJ found that the
+facility to which the appellant was transported was “not a
+covered destination” and that the “ambulance did not proceed
+immediately to a covered destination.” Id. The ALJ further
+determined that the “ambulance transport was not medically
+reasonable and necessary” pursuant to section 1862(a)(1) of the
+Act and 42 C.F.R. § 411.15(k) and affirmed the QIC’s decision
+that the appellant was responsible for the cost of the denied
+services. Id. at 5-6.
+
+The appellant disagrees with the ALJ’s decision. In his request
+for review and in the supplemental correspondence, the appellant
+argues that the clinic to which he was taken on the date of
+service was not a doctor’s office; rather he contends it was a
+skilled nursing facility or a “day time small hospital.” See
+Exh. MAC-1. The appellant explains that the facility was “built
+as a hospital, but due to lack of patients, was renamed as a
+clinic.” Id. He asserts that although he was not in pain, he
+was in need of emergency care because he could not walk.
+
+The Council concurs with the ALJ’s determination that the
+appellant was not transported to a covered destination. On the
+ambulance run sheet, the destination to which the appellant was
+taken was described as a “clinic.” Exh. 1 at 12. The
+applicable regulation provides that Medicare covers ambulance
+                                                                             3
+transportation “[f]rom any point of origin to the nearest
+hospital, CAH [critical access hospital], or SNF [skilled
+nursing facility] that is capable of furnishing the required
+level and type of care for the beneficiary’s illness or injury.”
+42 C.F.R. § 410.40(e)(1).
+
+Among other things, section 1861(e) of the Act defines
+“hospital,” as an institution which provides “24-hour nursing
+service rendered or supervised by a registered professional
+nurse, and has a licensed practical nurse or registered
+professional nurse on duty at all times.”2 The facility to which
+the appellant was taken on November 2, 2010, is staffed by a
+physician “during day hours only, and is considered an urgent
+care facility.” Exh. 1 at 10, 17. As the facility is not a 24­
+hour facility, it does not qualify as a hospital for Medicare
+coverage purposes. Further, the urgent care clinic to which the
+appellant was taken does not meet the definition of a CAH, which
+requires a special certification, or a SNF, which provides care
+to resident-patients. See Social Security Act §§ 1819(a),
+1861(mm)(1).
+
+While the Council sympathizes with the appellant’s condition on
+the date of service, and does not dispute that he needed
+immediate attention for his condition, the fact remains that the
+clinic to which he was taken does not meet the destination
+requirements set forth in 42 C.F.R. § 410.40(e)(1). Because the
+outpatient urgent care clinic is not identified in the
+applicable statutory provisions and the implementing regulations
+as a qualifying destination point for ambulance transportation,
+the ambulance services at issue do not meet Medicare
+requirements. Section 1861(s)(7) of the Act provides that
+ambulance transport is a covered Medicare service “where the use
+of other methods of transportation is contraindicated by the
+individual’s condition, but only to the extent provided by [the]
+regulations.” Italics added. As explained above, CMS has
+issued implementing regulatory guidance that outlines the
+destination requirements that must be met for the purposes of
+reimbursement for ambulance ground transport. That requirement
+was not met in this case. The ALJ erred in finding that this
+was a determination of medical reasonableness and necessity
+under section 1862(a)(1)(A) of the Act.
+
+
+2
+  The statutory definition includes an exception that is not applicable to
+this case and regardless of the applicability; the exception was only in
+effect until January 1, 1979. See Social Security Act § 1861(e)(5).
+                                                                  4
+The Council modifies the ALJ’s rationale in accordance with the
+foregoing discussion. We adopt the ALJ’s ultimate conclusion
+that Medicare coverage is not available for the ambulance
+transport and related mileage for the date of service November
+2, 2010. The Council finds, however, that the statutory basis
+for denial is section 1861(s)(7) of the Act. As such, the
+appellant remains responsible for the denied charges.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Stanley I. Osborne, Jr.
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/ Leslie A. Sussan, Member
+                                   Departmental Appeals Board
+
+
+Date:   March 19, 2013
+

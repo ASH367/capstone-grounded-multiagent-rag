@@ -1,0 +1,187 @@
+               DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                      DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-10-1461
+
+In the case of                        Claim for
+
+                                      Supplementary Medical
+Estate of G.B.R.                      Insurance Benefits (Part B)
+(Appellant)
+
+
+**** (deceased)                       ****
+(Beneficiary)                         (HIC Number)
+
+
+Palmetto GBA                          ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision dated May
+12, 2010, which concerned ground ambulance transportation and
+mileage furnished to the beneficiary on June 2, 2009. The ALJ
+determined that the ambulance transport was not covered by
+Medicare because the evidence was insufficient to establish that
+the facility to which the beneficiary was transferred offered a
+higher level of care than that available at the facility from
+which he was transferred. The appellant has asked the Medicare
+Appeals Council to review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). As set forth below, the Council
+reverses the ALJ’s decision.
+
+                   BACKGROUND AND PROCEDURAL HISTORY
+
+On June 2, 2009, the date of the ambulance transport at issue,
+the beneficiary was an 81-year-old male who had been found
+unresponsive in his home that morning. Exhibit (Exh.) 1, at 1A.
+He was brought to the emergency room (ER) at Proctor Hospital
+(Proctor) in ***, Illinois, via ambulance. Id. The initial
+ambulance transport is not at issue in this case.
+                                                                   2
+
+At Proctor, the ER physician diagnosed the beneficiary with left
+temporal lobe hemorrhagic cardiovascular accident. Id. at 1.
+The ER physician documented that he consulted with the
+neurosurgeon on call, who recommended that the beneficiary be
+transferred to the “St. Francis Neuro ICU.” Id. Advanced
+Medical Transport of Central Illinois transported the
+beneficiary from Proctor Hospital to OSF Saint Francis Medical
+Center (St. Francis) on the afternoon of June 2, 2009. Id. at
+8-10. The neurosurgeon at St. Francis explained to the
+beneficiary’s family that the chances for the beneficiary to
+make a “functional recovery” were “quite low”. Id. at 3. The
+family decided against surgery or other “aggressive measures”.
+Id. The beneficiary died two days later. Id. at 5.
+
+Advanced Medical Transport submitted a claim for ambulance
+transportation and mileage to the Medicare contractor, which
+denied the claim initially and on redetermination. Exhs. 3, 4.
+The contractor determined that the beneficiary was responsible
+for the cost of the non-covered services. The beneficiary’s
+estate requested reconsideration by a Qualified Independent
+Contractor (QIC). The QIC, like the contractor, found the
+ambulance transport not covered. Exh. 5. The QIC stated:
+
+     The facts show that the patient was transported from
+     one hospital to another on June 2, 2009. It was noted
+     that the patient was transported to a trauma center.
+     It was determined that the sending hospital also has a
+     trauma center. The documentation did not state what
+     specific service was not available at the first
+     hospital. Based on the above, we found that Medicare
+     payment cannot be made for the ambulance transport on
+     June 2, 2009.
+
+Exh. 5, at 37.
+
+The appellant requested an appeal to an ALJ. Exh. 6. The
+appellant waived the right to a hearing and requested that the
+ALJ issue a decision based on the documents in the record. Exh.
+8. The ALJ issued his decision on May 12, 2010. The ALJ
+concluded that “the documentation submitted does not support a
+determination that the beneficiary required ambulance transport
+to another facility.” Dec. at 5. The ALJ found that the
+records did not show what service or expertise was available at
+St. Francis that was not also available at Proctor, as both
+facilities were designated as trauma centers. Id. The ALJ
+                                                                  3
+
+further opined that the ambulance transport was not medically
+necessary because the beneficiary’s family ultimately decided
+not to pursue aggressive treatment. Id. Finally, the ALJ
+concluded that the beneficiary’s estate was liable for the cost
+of the non-covered care. Id.
+
+                           DISCUSSION
+
+In the request for review (admitted into the record as Exh.
+MAC-1), the appellant (the beneficiary’s son and co-executor of
+the estate) asserts that the ER physician at Proctor informed
+him that the beneficiary needed to be transported to the
+neurological critical care unit at St. Francis, where he could
+be evaluated by a neurosurgeon. The appellant further explains
+that the family did not know whether surgical intervention was
+warranted until after the beneficiary had been evaluated by the
+neurosurgeon at St. Francis.
+
+The regulations governing Medicare coverage of ambulance
+services provide, in pertinent part:
+
+     Medicare covers the following ambulance
+     transportation:
+     (1) From any point of origin to the nearest hospital,
+     CAH, or SNF that is capable of furnishing the required
+     level and type of care for the beneficiary’s illness
+     or injury. The hospital or CAH must have available
+     the type of physician or physician specialist needed
+     to treat the beneficiary's condition.
+
+42 C.F.R. § 410.40(e). The Medicare Benefit Policy Manual
+(MBPM), IOM 100-02, provides the following additional guidance:
+
+     Occasionally, the institution to which the patient is
+     initially taken is found to have inadequate or
+     unavailable facilities to provide the required care,
+     and the patient is then transported to a second
+     institution having appropriate facilities. In such
+     cases, transportation by ambulance to both
+     institutions would be covered to the extent of the
+     mileage to be the nearest institution with appropriate
+     facilities.
+
+MBPM, Ch. 10, § 10.3.2.
+                                                                   4
+
+As noted above, the Council engages in a de novo review of the
+record. 42 C.F.R. § 405.1108(a). As such, we are not bound by
+the findings made by the ALJ, or by any other decision maker
+below. Having reviewed the record as a whole, the Council
+concludes that the preponderance of the evidence supports a
+conclusion that the ambulance transport and mileage at issue met
+Medicare coverage guidelines because specialized neurological/
+neurosurgical critical care was unavailable at Proctor, but was
+available at St. Francis.
+
+The ER physician’s final report, which was in the record before
+the ALJ, strongly suggests that Proctor lacked appropriate
+facilities to treat the beneficiary, who was critically ill,
+having suffered an intracranial bleed and uncontrolled high
+blood pressure. See Exh. 1, at 1-1A. The ER physician noted
+that he consulted with the neurosurgeon on call. Id. at 1. It
+is apparent that the neurosurgeon directed that the beneficiary
+be transported to St. Francis. Id. Had there been appropriate
+neurological/neurosurgical facilities and/or expertise at
+Proctor, there would have been no reason for the neurosurgeon on
+call to direct the beneficiary’s transfer to St. Francis. The
+ER physician’s report specifically states that the beneficiary
+is being transferred to St. Francis for “Neuro ICU.” Id. The
+Council infers from this note that Proctor was not equipped with
+a specialized Neurological Intensive Care Unit. Accordingly,
+the ambulance transport and mileage are covered by Medicare.
+
+                            DECISION
+
+The ambulance service, including mileage, furnished to transport
+the beneficiary from Proctor Hospital to OSF St. Francis Medical
+Center on June 2, 2009, is covered by Medicare. The ALJ’s
+decision is reversed.
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+                                   /s/ Susan S. Yim
+                                   Administrative Appeals Judge
+
+
+                                   /s/Constance B. Tobias, Chair
+                                   Departmental Appeals Board
+
+Date: December 3, 2010
+

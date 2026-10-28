@@ -1,0 +1,306 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-11-325
+
+
+In the case of                        Claim for
+
+                                      Hospital Insurance Benefits
+Landmark Home Health Care             (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+Cahaba Government Benefit
+Administrators, LLC                   ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+September 15, 2010, concerning Medicare coverage for home health
+skilled nursing services the appellant furnished to the
+beneficiary from November 21, 2008, through December 15, 2008.
+The ALJ denied coverage for the services, and found the
+appellant liable for the non-covered costs. The appellant has
+asked the Medicare Appeals Council to review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). The appellant’s request for review and
+accompanying letter is hereby made a part of the record as
+Exhibit (Exh.) MAC-1.
+
+In its request for review, the appellant raises three main
+contentions. First, the appellant asserts that the ALJ erred in
+not recognizing that both the beneficiary’s increased oxygen
+needs and his increased Coumadin monitoring were changes in his
+condition and medical care warranting skilled nursing. Exh.
+MAC-1 at 1-2; see 42 C.F.R. § 409.33(a)(2). Second, the
+                                                                                2
+appellant submits that the ALJ erred in finding that the
+beneficiary did not require skilled care, by relying in part on
+the chronic nature of the beneficiary’s medical problems. Exh.
+MAC-1 at 1; cf. 42 C.F.R. § 409.44(b)(3)(iii) (whether skilled
+care is reasonable and necessary depends solely on the
+beneficiary’s unique condition and individual needs, without
+regard to whether the illness or injury is acute, chronic,
+terminal, or expected to last a long time). Third, the
+appellant explains that the skilled nursing at issue here
+started after the beneficiary experienced an episode of
+cyanosis, because of a reasonable potential for complications or
+a further acute episode. Therefore, the appellant contends
+that, based upon section 40.1.2.1 of chapter 7 of the Medicare
+Benefit Policy Manual (MBPM) (CMS Pub. 100-2), the skilled
+observation services the beneficiary received are covered for
+three weeks or for as long as a reasonable potential exists for
+such a complication or further acute episode. Exh. MAC-1 at 3-
+4. 1
+
+The Council has reviewed the record and the appellant’s
+contentions. For the reasons set forth below, the Council
+reverses the ALJ’s decision, and determines that Medicare covers
+the skilled nursing services the appellant provided to the
+beneficiary from November 21, 2008, through December 15, 2008.
+
+                   Factual and Procedural Background
+
+The beneficiary, age 91 during the dates of service, was
+diagnosed with:
+
+    • respiratory distress (which had led to an episode of
+      cyanosis diagnosed in the emergency room three days
+      earlier);
+
+    • orthostatic hypotension;
+
+    • atrial fibrillation; and
+
+    • congestive heart failure.
+
+Exh. 4 at 9. The beneficiary’s cardiac history included
+coronary artery disease with five coronary artery bypass grafts,
+two cardiac stents, and a pacemaker. Id. He was also on long
+
+1
+  Overall, the care at issue in this case comprised three and one-half weeks,
+which included eight skilled nursing visits. Exh. 1 at 21.
+                                                                             3
+term Coumadin therapy (for his multiple cardiac diseases,
+devices, and problems). Id. At one point his blood oxygen
+saturation level was measured at 84 percent, on room air. Id.
+at 20. The beneficiary’s physician prescribed an increase in
+oxygen from three liters per minute on an as needed basis to
+five liters per minute continuously, following his emergency
+room visit for cyanosis and recognition of his low blood oxygen
+saturation levels. Exh. 2 at 32; Exh. 4 at 9.
+
+In the plan of care for home health services, the beneficiary’s
+physician ordered skilled nursing care once in the initial week
+and then twice a week for four weeks, to assess his therapeutic
+response or adverse response to the prescribed Coumadin dosages
+(via blood draws and lab work), and to assess his cardio-
+pulmonary status (including obtaining his pulse oximetry
+responses), inter alia. Exh. 4 at 1-2. The beneficiary needed
+nurses to monitor the Coumadin medication, because it affected
+the prothrombin time and related INR (International Normalized
+Ratio), which reflected his blood clotting times (both
+internally and externally). Exh. 4 at 1.
+
+During their home health visits, the nurses obtained blood
+samples for the prothrombin and INR analyses, and based on this
+data, his physician modified the Coumadin dosages twice. See
+Exh. 4 at 1-6. Pursuant to the plan of care, the nurses also
+did regular cardiovascular and pulmonary checks, including
+checks for oxygen saturation as needed. See, e.g., id. at 17.
+In addition, the nurses monitored his pressure ulcers,
+instructed the beneficiary and his caregivers in the reasons for
+and use of the increased oxygen supply, safety measures (for
+recognizing low oxygen levels, using oxygen safely, and avoiding
+falls), and the effects and risks of blood thinning medication.
+Id. at 8-15, 18, 20-21, 27, 29. 2
+
+The contractor denied coverage for the home health skilled
+nursing visits. Exh. 1 at 21. On redetermination, the
+contractor again denied coverage on the ground that the
+beneficiary was not experiencing “acute significant changes in
+his condition, medication, or treatment plan,” and held the home
+health agency liable for the non-covered charges. Exh. 1 at 2-
+
+2
+  In addition, both the beneficiary’s spouse and his caregiver asked about the
+possibility of his transfer to hospice care. Exh. 4 at 9, 17. The home
+health representative discussed this with them and the beneficiary. Id. at
+17-18. The beneficiary was transferred to hospice care on December 16, 2008.
+Id. at 35.
+                                                                             4
+5. 3 On reconsideration, the Qualified Independent Contractor
+(QIC) agreed with the contractor’s redetermination, denying
+coverage. Exh. 2 at 2-5.
+
+On September 5, 2010, the ALJ issued a decision denying
+coverage. Dec. at 10-11. First, the ALJ reasoned that the
+beneficiary had received prior home health services, but the
+appellant had not provided those records. Id. at 10-11.
+Second, the ALJ concluded that the beneficiary did not require
+skilled observation and assessment because “the evidence does
+not include any orders for changes to the beneficiary’s plan of
+care, or any changes to his medication.” Id. at 11.
+
+However, the ALJ’s reasons for denying coverage are incorrect,
+and the record in this case supports coverage for the home
+health skilled nursing services the beneficiary received.
+Therefore, as set forth below, the Council reverses the ALJ, and
+finds Medicare coverage for the home health skilled nursing
+services from November 21, 2008, through December 15, 2008.
+
+                                 Discussion
+
+The Council has reviewed the record in this case, and determined
+that the beneficiary received reasonable and necessary skilled
+nursing care for changes in his condition, treatment, and
+medication that required skilled observation and assessment. A
+general principle governing reasonable and necessary skilled
+nursing care is that a patient's diagnosis should never be the
+sole factor in deciding that a service the patient needs is
+either skilled or not skilled. See MBPM, CMS Pub. 100-02, Ch.
+7, § 40. However, a patient's overall medical condition is a
+valid factor in deciding whether skilled services are needed.
+Id.
+
+3
+   There is no language in the Medicare regulations requiring that the patient
+be experiencing “acute significant changes” in his condition, medication, or
+treatment plan. Cf. Exh. 1 at 3 (language of QIC Reconsideration). The
+Medicare regulations provide for coverage of skilled nursing for “observation
+and assessment of the patient’s changing condition” when “the skills of
+a technical or professional person are required to identify and evaluate the
+patient’s need for modification of treatment or for additional medical
+procedures until his or her condition is stabilized.” 42 C.F.R.
+§ 409.33(a)(2)(i). This beneficiary had experienced and was experiencing the
+types of changes in his condition, medication, and treatment plan that
+warranted skilled nursing. These included his episode of cyanosis, his
+physician’s decision to sharply increase his oxygen, and his changing
+prothrombin and INR values, which required adjustments in his Coumadin
+dosages to be stabilized within safe ranges, inter alia.
+                                                                             5
+As noted above, the decision of the beneficiary’s physician to
+order home health skilled nursing services for three and one
+half weeks was prompted by an emergency room diagnosis of
+cyanosis. Exh. 4 at 1-2, 9. This emergency was a serious
+medical event for the beneficiary, given his cardiac and
+pulmonary co-morbidities. As a result, his physician increased
+his oxygen from three liters per minute as needed to five liters
+per minute continuously. Id.; Exh. 2 at 32. The combination of
+the beneficiary’s condition, age, medical history and limited
+mobility created a very reasonable potential for serious
+complications or a change in condition that could require
+skilled nursing care. 4 In the days and weeks that followed, his
+physician and nurses also monitored the effect of his Coumadin
+dosage on his prothrombin time and INR, which were in the high
+range on November 26, 2008, and well above the safe range on
+December 11, 2008. Exh. 4 at 5, 4. Therefore, on December 4,
+2008, and again on December 12, 2008, the physician issued
+orders changing the beneficiary’s Coumadin dosage. Id. at 3.
+
+In the ways described in the factual background above, the home
+health nurses provided skilled observation and assessment of the
+beneficiary’s cardiovascular and pulmonary status, after the
+increase in his oxygen needs, and during the adjustment of his
+Coumadin dosage. See Exh. 4 at 1-35. Given the beneficiary’s
+multiple cardiac problems, previous cardiac surgeries, and use
+of cardiac devices, achieving a stabilized, therapeutic
+prothrombin time and INR was critical to his recovery and
+stabilization. See id. at 9, 3-5.
+
+In addition, the nurses provided patient and caregiver education
+at a skilled level, including instructions on why the
+beneficiary was using increased oxygen, how to manage it, and
+how to recognize signs of low blood oxygen levels; information
+about the role Coumadin played preventing clots, given his
+medical history, the risks of his prothrombin time and INR
+values being too low or too high, and the importance of frequent
+communication with the nurses and physician about those levels.
+See, e.g., id. at 15, 18, 20-21. The nurses also responded to
+an inquiry about hospice care, discussed hospice care with the
+beneficiary and his caregivers, and helped to arrange for
+hospice care. Id. at 17, 18, 35. As noted above, all of this
+
+
+4
+  “Information from the patient’s medical history may support whether there is
+a reasonable potential for a future complication or acute episode and
+therefore may justify the need for continued skilled observation and
+assessment beyond the 3-week period.” See MBPM, Ch. 7, section 40.1.2.1.
+                                                                   6
+was done within three and one-half weeks, in a total of eight
+nursing visits.
+
+To summarize, the foregoing constituted skilled nursing care;
+the beneficiary clearly needed it; and it was provided pursuant
+to a valid Home Health Certification and Plan of Care. See Exh.
+4 at 1-2.
+
+The ALJ erred in denying coverage for these home health skilled
+nursing visits. The ALJ based her denial in part on the fact
+that the appellant did not provide the records of prior home
+health services the beneficiary received. Dec. at 12. However,
+neither the contractor nor the QIC had requested prior home
+health records from the Appellant, and the regulations do not
+require that such records be included with the current claim.
+Moreover, the ALJ did not ask the appellant for the records of
+prior home health services, either before or during the hearing.
+See Exh. 3 at 26-30 (Notice of Hearing); CD Recording of ALJ
+Hearing, September 9, 2010. The ALJ also erred in concluding
+that the medical notes in the record do not demonstrate that the
+nursing visits involved skilled services. Id. at 13. This is
+incorrect, for the reasons explained in the foregoing
+paragraphs. The nurses did provide skilled services as defined
+by the Medicare regulations.
+
+In addition, as the appellant contends, the Medicare Benefit
+Policy Manual provides an additional basis for covering the
+three and one half weeks of home health skilled nursing care in
+this case. Medicare coverage for this care is premised on the
+Medicare Benefit Policy Manual section which provides that
+skilled observation nursing services which a beneficiary began
+receiving because there was a reasonable potential of a
+complication or further acute episode (here, possibly another
+episode of cyanosis) are still covered, even if there is not
+another acute episode, for three weeks or for so long as a
+reasonable potential exists for such a complication or further
+episode. CMS Pub. 100-02, MBPM, Chapter 7, Section 40.1.2.1.
+
+The Council does not need to reach the issue of liability for
+any non-covered services, because there are no non-covered
+services in this episode of eight home health skilled nursing
+visits.
+                                                                   7
+                            DECISION
+
+The Medicare Appeals Council reverses the ALJ’s decision, and
+finds Medicare coverage for the home health skilled nursing
+services the appellant provided to the beneficiary from November
+21, 2008, through December 15, 2008.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Stanley I. Osborne, Jr.
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/ Susan S. Yim
+                                   Administrative Appeals Judge
+Date: August 9, 2011
+

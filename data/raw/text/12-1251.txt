@@ -1,0 +1,170 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-12-1251
+
+
+In the case of                            Claim for
+
+                                          Supplementary Medical
+North Country Ambulance                   Insurance Benefits (Part B)
+(Appellant)
+
+
+ ****                                      ****
+(Beneficiary)                             (HIC Number)
+
+
+Noridian Administrative
+Services                                   ****
+(Contractor)                              (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+March 16, 2012, which concerned Medicare coverage for emergency
+transport ambulance services, advanced life support (ALS) level
+1 (HCPCS 1 code A0427) and ground mileage (HCPCS A0425) the
+appellant furnished to the beneficiary on April 17, 2011. The
+ALJ denied Medicare coverage of the ambulance transport pursuant
+to section 1862(a)(1) of the Social Security Act (Act). The ALJ
+found that the beneficiary was not financially responsible for
+the non-covered services pursuant to section 1879 of the Act.
+The appellant has asked the Medicare Appeals Council (Council)
+to review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). The appellant’s request for review has
+been entered into the record as Exhibit (Exh.) MAC-1.
+
+
+1
+   The Centers for Medicare & Medicaid Services (CMS) developed the Healthcare
+Common Procedure Coding System (HCPCS) to establish “uniform national
+definitions of services, codes to represent services, and payment modifiers
+to the codes.” 42 C.F.R. § 414.40(a).
+                                                                               2
+The Council has considered the record and the appellant’s
+exceptions. As set forth below, the Council reverses the ALJ’s
+decision and allows Medicare coverage for the ambulance services
+at issue.
+
+                                 DISCUSSION
+
+As a preliminary issue, the appellant appended documents to its
+request for review, without an explanation as to whether any of
+the documents were being submitted as new evidence. The
+Council’s comparison of those documents with the evidence
+admitted by the ALJ indicates that the appellant’s submittals
+are duplicative. 2 As such, the Council excludes the documents
+from the record. 42 C.F.R. § 405.1122(c)(2).
+
+The beneficiary was discharged from a hospital on
+April 17, 2011. Exh. 4, at 9. Later that same day the
+beneficiary called for an ambulance. Exh. 1, at 2.
+On April 17, 2011, the beneficiary was transported from her
+residence to a hospital. Exh. 4, at 6, 10. Initially, this
+claim was paid, but then an overpayment was assessed because the
+record showed that the beneficiary was a hospital inpatient on
+the date of service at issue. Exh. 3, at 2. On
+redetermination, the contractor denied Medicare coverage. Id.
+at 2-3. On reconsideration, the Qualified Independent
+Contractor (QIC) denied coverage finding that other means of
+transportation were not contraindicated. Exh. 5, at 4. On
+further appeal, the ALJ also denied Medicare coverage. Dec. at
+5-6. The ALJ stated, in pertinent part, that:
+
+      The documentation does not support that the ambulance
+      transport was reasonable and necessary. The
+      beneficiary could have been safely transported by
+      other means. The ambulance run sheet indicates that
+      the beneficiary was alert and stable at the time of
+      transport. In order for ambulance transportation to
+      be deemed reasonable and necessary, other means of
+      transport must be contraindicated. The beneficiary
+      could have been safely transported by other means.
+
+Id. The ALJ concluded “that the ambulance transport was not
+medically reasonable and necessary pursuant to Section
+1862(a)(1) of the Social Security Act and 42 C.F.R.
+§ 411.15(k).” Id. at 6.
+2
+  One page of the duplicate evidence is not completely identical to the page
+in the record, but it is substantially similar.
+                                                                   3
+
+In its request for review, the appellant asserts that at the
+scene the beneficiary complained of active chest pain, and that
+the beneficiary was treated with medications to attempt to
+alleviate the chest pain. Exh. MAC-1. The appellant emphasized
+that: “At no time did [the beneficiary] deny having chest pain
+even after EMS intervention.” Id. (emphasis in original). The
+appellant argues that it was proper for EMS to treat and
+transport the beneficiary, and that the transport was necessary.
+Id.
+
+Medicare Part B covers ambulance transportation when “the use of
+other methods of transportation is contraindicated” by the
+beneficiary’s condition. See Social Security Act, § 1861(s)(7);
+42 C.F.R. § 410.40(d). Thus, in “any case in which some means
+of transportation other than an ambulance could be used without
+endangering the individual’s health,” whether available or not,
+Medicare will not cover the ambulance service. See Medicare
+Benefit Policy Manual (CMS Pub. 100-02), ch. 10, § 10.2.1.
+
+The Council concludes that Medicare covers the ambulance
+transport furnished to the beneficiary. The documentation
+supports that the medical condition of the beneficiary required
+ambulance transport. The ambulance report states that the
+beneficiary was being transported due to chest pain. Exh. 4, at
+6. The Council notes that the ALJ was incorrect in stating that
+the beneficiary did not have chest pain when the ambulance
+arrived at the beneficiary’s residence. Dec. at 2, 5. The
+record before the Council does not indicate that the
+beneficiary’s chest pain stopped. The beneficiary complained of
+“substernal non-radiating” chest pain. Exh. 4, at 6. While the
+report of the 911 telephone call states that the beneficiary had
+trouble speaking between breaths, the ambulance report states
+that the beneficiary was “speaking full word sentences w/o
+difficulty.” Exh. 1, at 2; Exh. 4, at 6. The beneficiary was
+found in bed in the fowler position. Exh. 4, at 6. The
+beneficiary denied that: she lost consciousness, had shortness
+of breath, weakness, abdominal pain, a productive cough, a
+fever, etc. Id. The beneficiary did have rales in her lungs.
+Id. The beneficiary was provided with several medications,
+apparently to assist with the pain. Id. These medications
+included nitroglycerin and aspirin. Id. The beneficiary’s
+heart rate, blood pressure, blood glucose and oxygen saturation
+level was monitored. Id. The ambulance report indicates that
+the beneficiary received emergency services during the ambulance
+transport. Thus, the Council concludes that the record
+                                                                  4
+establishes that other means of transportation were
+contraindicated.
+
+                            DECISION
+
+It is the decision of the Medicare Appeals Council that the
+ambulance services provided to the beneficiary on
+April 17, 2011, are covered by Medicare. Accordingly, the ALJ’s
+decision is reversed.
+
+
+                              MEDICARE APPEALS COUNCIL
+
+
+
+                              /s/ Leslie A. Sussan,
+                              Deputy Chair
+                              Departmental Appeals Board
+
+
+
+                              /s/ Stanley I. Osborne, Jr.
+                              Administrative Appeals Judge
+
+Date: June 15, 2012
+

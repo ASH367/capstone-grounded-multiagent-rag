@@ -1,0 +1,54 @@
+{
+  "case_id": "real_iro_06",
+  "expected_decision": null,
+  "reference_outcome": "overturned",
+  "source": {
+    "type": "real public Texas DOI IRO decision (name-redacted)",
+    "url": "https://www.tdi.texas.gov/medcases/iro/2019/april/wp5394253003.pdf",
+    "reviewer_reason": "Failed conservative treatment and facet syndrome evidence met ODG",
+    "note": "Reviewer applied ODG/ACOEM guidelines, NOT Medicare LCD L38765. Outcome is an external reference, not an LCD ground truth."
+  },
+  "claim": {
+    "type_of_bill": null,
+    "emergency_dept": null,
+    "pa_requested_before_service": null
+  },
+  "clinical": {
+    "axial_pain": true,
+    "baseline_pain_nrs": null,
+    "disability_scale": null,
+    "disability_score_pct": null,
+    "pain_duration_months": null,
+    "conservative_management": [
+      "medications",
+      "physical therapy",
+      "heat",
+      "rest",
+      "hot/cold packs",
+      "prior injection (not helpful)"
+    ],
+    "untreated_radiculopathy": true,
+    "non_facet_pathology": "mild-to-moderate compression fracture with disc bulges",
+    "centralized_pain_dx": null
+  },
+  "procedure": {
+    "type": "diagnostic_mbb",
+    "guidance": "fluoroscopy",
+    "sedation": "anesthesia",
+    "spinal_regions": 1,
+    "prior_diagnostic_mbb_relief_pct": null,
+    "services": [
+      {
+        "cpt": "MBB levels unspecified",
+        "level": null
+      }
+    ]
+  },
+  "documentation": {
+    "baseline_pain_documented": null,
+    "pain_scale_used": null,
+    "baseline_disability_documented": null,
+    "disability_scale_used": null,
+    "conservative_records_attached": true
+  }
+}

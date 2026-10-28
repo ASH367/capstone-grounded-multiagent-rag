@@ -1,0 +1,589 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-12-809
+
+
+In the case of                        Claim for
+
+                                      Hospital Insurance Benefits
+Providence Health Center              (Part A)
+(Appellant)
+
+
+ ****                                  ****
+(Beneficiary)                         (HIC Number)
+
+Trailblazer Health
+Enterprises                            ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+October 27, 2011, which concerned Medicare coverage for
+inpatient hospital services furnished to the beneficiary from
+February 18, 2010 through February 20, 2010. The ALJ determined
+that the inpatient hospital admission was not medically
+reasonable and necessary on the grounds that the services could
+have been furnished on an outpatient basis. The ALJ found the
+appellant financially liable for the non-covered services. The
+appellant has asked the Medicare Appeals Council (Council) to
+review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). The Council admits the appellant’s
+request for review, dated December 23, 2011 and received by the
+Council on December 27, 2011, into the record as Exhibit (Exh.)
+MAC-1.
+
+The Council has considered the record and exceptions raised in
+the appellant’s request for review, but finds no basis to
+disturb the ALJ’s finding that the inpatient hospital admission
+at issue were not medically reasonable and necessary and is not 2
+covered by Medicare Part A. Thus, the Council adopts the ALJ
+findings and conclusions on this point. The Council supplements
+the decision, however, to direct that the contractor review the
+services at issue and provide payment to the appellant under
+Medicare Part B for services found to be medically reasonable
+and necessary. The Council adopts the ALJ’s finding that the
+appellant is financially liable for the non-covered inpatient
+stay, and finds that the appellant is liable for the difference
+between the payment under Medicare Part A and Part B.
+
+                           AUTHORITIES
+
+An ALJ and the Council are bound by statutes, regulations,
+national coverage determinations (NCDs), and Medicare Rulings.
+42 C.F.R. §§ 405.1060(a)(4) and 405.1063. Neither an ALJ nor
+the Council is bound by a Local Coverage Determination (LCD) or
+Medicare program guidance such as program memoranda and manual
+instructions, “but will give substantial deference to these
+policies if they are applicable to a particular case.” 42
+C.F.R. § 405.1062(a). If an ALJ or the Council declines to
+follow a policy in a particular case, the ALJ or Council
+decision must explain the reasons why the policy was not
+followed. 42 C.F.R. § 405.1062(b).
+
+Section 1862(a)(1)(A) of the Act provides that notwithstanding
+any other provisions of title XVIII of the Act, items or
+services which are not reasonable and necessary for the
+diagnosis or treatment of illness or injury or to improve the
+functioning of a malformed body member are excluded from
+coverage.
+
+There are no binding statutes, regulations, or NCDs which
+establish criteria for coverage and payment of inpatient
+hospital admissions. However, the Medicare Benefits Policy
+Manual (MBPM) (CMS IOM Pub. 100-02) defines an inpatient as –
+
+     [A] person who has been admitted to a hospital for bed
+     occupancy for purposes of receiving inpatient hospital
+     services. Generally, a patient is considered an inpatient
+     if formally admitted as [an] inpatient with the expectation
+     that he or she will remain at least overnight and occupy a
+     bed even though it later develops that the patient can be
+     discharged or transferred to another hospital and not
+     actually use a hospital bed overnight.
+MBPM, chapter 1, section 10. In discussing the issue of whether 3
+a patient requires inpatient care in an acute care hospital, the
+Medicare Benefit Policy Manual (MBPM), Pub. 100-02, explains:
+
+     The physician or other practitioner responsible for a
+     patient’s care at the hospital is also responsible for
+     deciding whether the patient should be admitted as an
+     inpatient. Physicians should use a 24-hour period as
+     a benchmark, i.e., they should order admission of
+     patients who are expected to need hospital care for 24
+     hours or more, and treat other patients on an
+     outpatient basis. However, the decision to admit a
+     patient is a complex medical judgment which can be
+     made only after the physician has considered a number
+     of factors, including the patient’s medical history
+     and current medical needs, the types of facilities
+     available to inpatients and outpatients, the
+     hospital’s by-laws and admissions policies, and the
+     relative appropriateness of treatment in each setting.
+     Factors to be considered when making the decision to
+     admit include such things as:
+
+       •   The severity of the signs and symptoms exhibited
+           by the patient;
+
+       •   The medical predictability of something adverse
+           happening to the patient;
+
+       •   The need for diagnostic studies that
+           appropriately are outpatient services (i.e.,
+           their performance does not ordinarily require the
+           patient to remain at the hospital for 24 hours or
+           more) to assist in assessing whether the patient
+           should be admitted; and
+
+       •   The availability of diagnostic procedures at the
+           time when and at the location where the patient
+           presents.
+
+     Admissions of particular patients are not covered or
+     non-covered solely on the basis of the length of time
+     the patient actually spends in the hospital.
+
+MBPM, Ch. 1 at § 10.
+By contrast, under Medicare guidelines, lower level outpatient 4
+observation services may be ordered and covered where inpatient
+hospital admission is not medically reasonable and necessary:
+
+     Observation care is a well-defined set of specific,
+     clinically appropriate services, which include ongoing
+     short term treatment, assessment, and reassessment before a
+     decision can be made regarding whether patients will
+     require further treatment as hospital inpatients or if they
+     are able to be discharged from the hospital. Observation
+     services are commonly ordered for patients who present to
+     the emergency department and who then require a significant
+     period of treatment or monitoring in order to make a
+     decision concerning their admission or discharge.
+
+     Observation services are covered only when provided by the
+     order of a physician or another individual authorized by
+     State licensure law and hospital staff bylaws to admit
+     patients to the hospital or to order outpatient tests. In
+     the majority of cases, the decision whether to discharge a
+     patient from the hospital following resolution of the
+     reason for the observation care or to admit the patient as
+     an inpatient can be made in less than 48 hours, usually in
+     less than 24 hours. In only rare and exceptional cases do
+     reasonable and necessary outpatient observation services
+     span more than 48 hours.
+
+MBPM, chapter 6, section 20.6(A).
+
+CMS, formerly the Health Care Financing Administration (HCFA),
+issued a Ruling in 1993, which established that, “no presumptive
+weight should be assigned to the treating physician’s medical
+opinion in determining the medical necessity of inpatient
+hospital or SNF [skilled nursing facility] services under
+section 1862(a)(1) of the Act. A physician’s opinion will be
+evaluated in the context of the evidence in the complete
+administrative record.” HCFA Ruling 93-1 (eff. May 18, 1993).
+Thus, there is no presumption that a treating physician’s
+judgment, or decision, to admit a beneficiary as an inpatient
+establishes Medicare coverage for the inpatient hospital stay.
+
+Section 1879 of the Act provides that, where an item or service
+is not covered by Medicare because it is determined to be
+custodial care or not medically reasonable and necessary, in
+certain instances, the liability of the provider, practitioner,
+supplier or beneficiary may be limited.
+The regulation at 42 C.F.R. section 411.406, CMS (HCFA) Ruling 5
+95-1, and the Medicare Claims Processing Manual (MCPM), CMS Pub.
+100-4, Ch. 30, sections 40.1 and 40.1.2, address what
+constitutes evidence that a provider knew, or should have known,
+that Medicare would not pay for a service:
+
+  •   A Medicare contractor’s prior written notice to the
+      provider denying payment for similar or reasonably
+      comparable services;
+
+  •   Medicare’s general notices to the medical community that
+      Medicare will deny services under all, or certain,
+      circumstances (such notices include, but are not limited
+      to, manual instructions, bulletins, contractor’s written
+      guides and directives);
+
+  •   Provision of services inconsistent with acceptable
+      standards of practice in the local medical community;
+
+  •   The provider’s utilization review committee has informed
+      the provider in writing that such services were not
+      covered; and
+
+  •   A Medicare contractor previously issued a written notice to
+      the provider that Medicare payment for a particular service
+      or item was denied.
+
+                            BACKGROUND
+
+The 67-year-old male beneficiary arrived at       * * * *
+Hospital on February 17, 2010 complaining of generalized chest
+pain. He had a past medical history of coronary artery disease
+with coronary bypass surgery, angioplasty, stent implantation,
+paroxysmal atrial fibrillation, hypertension, hyperlipidemia,
+and gastoesophageal reflux disease. Exh. 1, at 23. The
+following morning, on February 18, 2010, the beneficiary was
+transferred to Providence Hospital (the appellant) for a “higher
+level of care.” Exh. 2, at 65. He was initially placed in
+observation status but subsequently admitted to inpatient
+status. During his hospital stay, the beneficiary was diagnosed
+with atherosclerosis native coronary artery, intermediate
+coronary syndrome, hypertension, hyperlipidemia, percutaneous
+transluminal angioplasty (PTA) status, and aortocoronary bypass
+status. Exh. 2, at 23. On February 19, 2010, the beneficiary
+received percutaneous transluminal coronary angioplasty (PTCA),
+insertion of (a) drug-eluting coronary artery stent(s),
+insertion of one vascular stent, procedure on two vessels, left 6
+cardiac catheterization, angiocardiography of left heart
+structures, and coronary arteriography using two catheters.
+Exh. 2, at 28. During these procedures, the appellant
+experienced a temporary drop in blood pressure and bradycardia.
+Prior to surgery, radiology studies had shown normal EKG sinus
+rhythm and normal cardiac enzymes; however, new T-wave inversion
+was noted. Exh. 2, at 46. There were no complications
+following the cardiac catheterization and stenting procedure,
+and the beneficiary was discharged home from the hospital on
+February 20, 2010, the following day.
+
+The appellant hospital filed a claim with Medicare for inpatient
+hospital services furnished to the beneficiary for the period of
+February 18-20, 2010. In a very detailed decision discussing at
+length the medical documentation, the contractor denied coverage
+finding that the medical documentation did not support an acute
+inpatient admission and that the beneficiary could have been
+managed at a lower level of care. Exh. 1, at 14-15. Following
+medical review, the Qualified Independent Contractor (QIC)
+upheld the contractor’s decision, finding that Medicare coverage
+criteria were not met for inpatient admission. Exh. 1, at 4b.
+Based on the opinion of the medical review panel, the QIC found
+that the standard of care for a patient undergoing elective
+heart catheterization and stenting is an observation level of
+care. Id. The QIC noted that the beneficiary was no longer
+complaining of chest pain at the time of his transfer to the
+appellant hospital, cardiac enzymes were normal, the EKG did not
+show any acute abnormal-ities, the beneficiary tolerated the
+catheterization and stenting procedure well, and the beneficiary
+was discharged home the following day. Exh. 1, at 4. The QIC
+found that the observation required after the procedure did not
+require inpatient admission in the absence of a significant
+complication. Exh. 1, at 4b. The QIC found the provider
+financially liable for the non-covered costs.
+
+Following a hearing before an ALJ at which the appellant was
+represented by a physician, the ALJ upheld the QIC’s finding
+that the inpatient admission was not medically reasonable and
+necessary. The ALJ, following discussion of the medical
+evidence in the record, found that Medicare coverage criteria
+for an inpatient hospitalization were not met and that the
+“potential alone of a more complex diagnosis or clinical course
+does not warrant prospective patient admission.” ALJ Dec. at 7.
+Like the QIC, the ALJ noted that at the time of his admission,
+the beneficiary’s vital signs were within normal limits, he was
+not complaining of chest pain, cardiac enzymes did not show any
+acute cardiac injury, and an EKG did not show acute abnormal-  7
+ities. The ALJ also noted that the beneficiary tolerated the
+procedures well and was discharged home the following day. Id.
+at 7-8. The ALJ found the appellant financially liable for the
+non-covered services.
+
+In his request for review, the appellant asserts that the ALJ
+erred in finding the inpatient admission not medically
+reasonable and necessary. The appellant, through a physician
+representative, argues that the beneficiary had been admitted to
+a hospital just two days prior to the surgical procedure for
+chest pain, that an EKG noted new inverted T waves, and that the
+beneficiary had an extensive history of cardiac problems. The
+appellant noted that the beneficiary underwent cardiac
+catheterization, during which he experienced brief low blood
+pressure with bradycardia, and that he was returned to the
+telemetry unit following surgery for cardiac monitoring. Exh.
+MAC-1 at 2-3. The appellant argued that the inpatient admission
+should be found covered because the admission was consistent
+with the standards of medical care, including the InterQual Long
+Term Acute Care Criteria and the Milliman Care Guidelines for
+admission. 1
+
+                                 DISCUSSION
+
+      A.   Payment Under Medicare Part A
+
+The Council has reviewed the medical records in this case, the
+contentions of the appellant, and the opinions of the medical
+reviewers at various levels of appeal. The Council finds that
+the medical evidence in the record does not establish that the
+inpatient hospital admission at issue was medically reasonable
+and necessary. In so finding, the Council is mindful that the
+beneficiary had an extensive medical history of cardiac problems
+and procedures, as this is well documented in the record. The
+Council is also aware of the beneficiary’s presentation of chest
+pains and inverted T waves within 24-48 hours prior to the
+
+
+1
+   The InterQual criteria for inpatient admissions are proprietary industry
+guidelines for acute care hospital admissions and are often used by acute
+care hospitals in making inpatient admission decisions. The InterQual
+criteria are not developed by CMS and are not binding on CMS for coverage
+purposes; they are, however, sometimes used by CMS and CMS-contracted Quality
+Improvement Organizations to determine coverage for inpatient hospital
+admissions and care. See 42 C.F.R. § 476.71(a)(3). Thus, they are similar
+to CMS-issued coverage policies, program memoranda, and manual instructions,
+and, thus, ALJs the Council are not bound to follow them. See 42 C.F.R.
+§ 405.1062(a).
+cardiac catheterization and stenting procedures that were                       8
+furnished on February 19, 2010.
+
+However, consideration of these factors, alone, is not
+determinative of coverage. The Council notes that, according to
+the websites of several leading medical institutions, cardiac
+catheterization is generally done under local anaesthesia and
+often on an outpatient basis. 2 Many of these patients have
+extensive cardiac histories and are still managed as
+outpatients. Prior to the inpatient admission, the beneficiary
+was receiving cardiac observation, monitoring, and diagnostic
+testing in observation status at the time he was first admitted
+to the appellant hospital. There is no evidence that the
+beneficiary’s medical needs were not fully being met in
+observation status, nor has the appellant identified any
+additional necessary medical services that were not available in
+observation status that became available through an inpatient
+admission. The beneficiary was in the hospital for two days,
+within the general 24-48 hour benchmark for observation status.
+The appellant has not pointed to any evidence which establishes
+that there was more than a limited possibility, based on the
+beneficiary’s condition at the time of surgery, that he would
+remain in the hospital beyond the usual recovery period for
+cardiac catheterization. Moreover, the appellant has not
+explained why, based on the possibility that the beneficiary
+might develop complications from surgery, the beneficiary could
+not have been admitted to inpatient status only if those
+complications arose. For these reasons, the Council finds that
+the appellant has not met its burden of establishing that the
+inpatient admission was medically reasonable and necessary.
+
+      B.   Payment Under Medicare Part B
+
+The Centers for Medicare & Medicaid Services (CMS) has expressly
+stated that Part B payment may be made for hospital services if
+Part A payment is denied. In relevant part, the MBPM states:
+
+      Payment may be made under Part B for physician
+      services and for the nonphysician medical and other
+      health services listed below when furnished by a
+      participating hospital (either directly or under
+      arrangements) to an inpatient of the hospital, but
+
+
+2
+  See, e.g., http://www.mayoclinic.com/health/cardia-catheterization/MY00218;
+http://www.hopkinsmedicine.org/healthlibrary/conditions/adult/cardiovascular_
+diseases/cardiac-catheterization;
+http://my.clevelandclinic.org/heart/services/tests/invasive/ccath.aspx.
+      only if payment for these services cannot be made                   9
+      under Part A.
+
+      In PPS hospitals, this means that Part B payment could
+      be made for these services if:
+
+         •   No Part A prospective payment is made at all for
+             the hospital stay because of patient exhaustion
+             of benefit days before admission;
+
+         •   The admission was disapproved as not reasonable
+             and necessary (and waiver of liability payment
+             was not made);
+
+         •   The day or days of the otherwise covered stay
+             during which the services were provided were not
+             reasonable and necessary (and no payment was made
+             under waiver of liability);
+
+         •   The patient was not otherwise eligible for or
+             entitled to coverage under Part A (See the
+             Medicare Benefit Policy Manual, Chapter 1, § 150,
+             for services received as a result of noncovered
+             services); or
+
+         •   No Part A day outlier payment is made (for
+             discharges before October 1997) for one or more
+             outlier days due to patient exhaustion of benefit
+             days after admission but before the case’s
+             arrival at outlier status, or because outlier
+             days are otherwise not covered and waiver of
+             liability payment is not made.
+
+MBPM, Ch. 6, § 10 (emphasis added). 3 This manual section clearly
+indicates that payment may be made for covered hospital services
+under Medicare Part B if a Part A claim is denied for any one of
+several reasons.
+
+Similar language permitting payment up to the limits of coverage
+appears in chapter 1 of the MBPM:
+
+      If a patient receives items or services in excess of, or
+      more expensive than, those for which payment can be made,
+
+3
+   CMS manuals are available at http://www.cms.hhs.gov/Regulations-and-
+Guidance/Guidance/Manuals/Internet-Only-Manuals-IOMs.html.
+      payment is made only for the covered items or services or 10
+      for only the appropriate prospective payment amount. This
+      provision applies not only to inpatient services, but also
+      to all hospital services under Parts A and B of the
+      program. If the items or services were requested by the
+      patient, the hospital may charge him the difference between
+      the amount customarily charged for the services requested
+      and the amount customarily charged for covered services.
+
+MBPM, Ch. 1 at § 10 (emphasis added).
+
+Further, the Medicare Financial Management Manual (MFMM)
+recognizes that additional action may be necessary by both the
+contractor and provider to properly adjust, or offset, the
+amount due under Part B against a Part A overpayment. 4
+Specifically, the MFMM states:
+
+      A. Benefits Payable Under Part B – FI
+
+      Where the FI determines that a Part A overpayment has
+      been made to a provider on behalf of a beneficiary, it
+      shall ascertain whether the beneficiary is entitled to
+      any Part B payment for the services in question. (See
+      Medicare Benefit Policy, Chapter 6.) If it appears
+      that Part B benefits are payable, it shall arrange for
+      billings under Part B. It shall use any Part B benefit
+      as an offset against the Part A overpayment.
+
+MFMM, CMS IOM 100-06, Ch. 3, § 170.1. This manual section
+demonstrates that CMS contemplated scenarios in which a
+contractor would offset at least a portion of an overpayment
+recovery as the result of other benefits due to the provider.
+
+The Medicare Claims Processing Manual (MCPM) also recognizes
+that, although providers may sometimes bill for services that
+are not covered as billed, they are nonetheless entitled to
+correct payment. See MCPM, CMS IOM 100-04, Ch. 29, § 280.3
+(“Claims Where There is Evidence That Items or Services Were Not
+Furnished or Were Not Furnished as Billed”). It instructs
+contractors to deny or downcode the payment, as appropriate.
+Id.
+
+Finally, the MCPM states:
+
+4
+   The regulations and guidance quoted herein continue to refer to the
+contractor as a “fiscal intermediary” or “FI.” However, the functions that
+were formerly performed by intermediaries have been transitioned to Medicare
+Administrative Contractors. See 42 C.F.R. § 421.104.
+                                                                  11
+     If a provider fails to include a particular item or
+     service on its initial bill, an adjustment bill(s) to
+     include such an item(s) or service(s) is not permitted
+     after the expiration of the time limitation for filing
+     a claim. However, to the extent that an adjustment
+     bill otherwise corrects or supplements information
+     previously submitted on a timely claim about specified
+     services or items furnished to a specified individual,
+     it is subject to the rules governing administrative
+     finality, rather than the time limitation for filing.
+
+MCPM, Ch. 3 at § 50. The MCPM makes clear that the claim need
+not take any particular form to be valid:
+
+     For those billing [Medicare Administrative Contractors] and
+     [DME MACs], a claim does not have to be on a form but may
+     be any writing submitted by or on behalf of a claimant,
+     which indicates a desire to claim payment from the Medicare
+     program in connection with medical services of a specified
+     nature furnished to an identified enrollee. It is not
+     necessary that this submission be recorded on a CMS claim
+     form, that the services be itemized or that the information
+     submitted be complete (e.g., a note from the enrollee’s
+     spouse, or a bill for ancillary services in a
+     nonparticipating hospital, could count as a claim for
+     payment).
+
+MCPM, Ch. 1 at § 50.1.7 (“Definition of a Claim for Payment”).
+The writing must contain sufficient identifying information
+about the enrollee to permit the obtaining of any missing
+information through routine methods, e.g., file check, microfilm
+reference, mail or telephone contact based on an address or
+telephone number in file. Where the writing is not submitted on
+a claim form, there must be enough information about the nature
+of the medical or other health service to enable the contractor
+with claims processing jurisdiction to determine that the
+service was apparently furnished by a physician or supplier.
+Id.
+
+For these reasons, the Council finds that the appellant is
+entitled to payment for otherwise-covered medically reasonable
+and necessary services under Medicare Part B. The Medicare
+Administrative Contractor is directed to review the services at
+issue for coverage and payment under Part B. The Council does
+not specify the manner in which the Medicare Administrative
+Contractor should facilitate such process, e.g., whether the
+contractor should direct the appellant to re-file the claim    12
+under Part B with an itemized list of services, whether the
+contractor is able to make payment based on the current claim as
+filed, or by other manner. The Council simply finds that the
+otherwise-covered and medically reasonable services must be
+covered and paid in the manner they would have been had they
+been claimed under Medicare Part B.
+
+     C. Limitation on Liability
+
+The ALJ, as well as the QIC and the contractor, found the
+appellant financially liable for the cost of the non-covered
+services. The appellant devoted multiple pages in the request
+for review to arguing that the appellant did not have actual or
+constructive knowledge, and could not reasonably have been
+expected to know, that the inpatient hospital services would be
+found not medically reasonable and necessary. More
+specifically, the appellant argued that it had not received
+notice through any of the means enumerated in 42 C.F.R. section
+411.406, which he discussed in detail.
+
+The Council notes that the financial cost of the denial of
+coverage for inpatient hospital services in this case will be
+offset on implementation by proper reimbursement for otherwise-
+covered outpatient services. Thus, the financial impact to the
+appellant will be substantially reduced from that contemplated
+by the ALJ, QIC, and contractor. The Council finds, however,
+that the remaining difference between the reimbursable amount
+for inpatient and outpatient services will remain the financial
+responsibility of the appellant. The appellant could reasonably
+have been expected to know -- for all of the reasons previously
+stated in this decision -- that a hospital inpatient admission
+was not medically reasonable and necessary in order to furnish
+all of the required monitoring services following a cardiac
+catheterization and stenting procedure where there were no
+expectations at the time of surgery, more than a limited
+possibility, that complications would arise and that the
+beneficiary would remain hospitalized beyond the usual recovery
+period for this type of surgery.
+
+                           CONCLUSION
+
+For the reasons stated above, the Council adopts the ALJ’s
+unfavorable coverage decision and finds that the services
+furnished to the beneficiary from February 18-20, 2010 did not
+require an inpatient admission and are not covered under
+Medicare Part A. The Council directs the contractor to review
+the items and services and furnished in this case and to       13
+provide reimbursement for medically reasonable and necessary and
+otherwise covered items and services on an outpatient basis
+under Medicare Part B. The appellant is financially
+responsible, and may not charge the beneficiary, for any
+difference in the amount it would have received had the services
+been covered on an inpatient basis. The ALJ decision is
+modified accordingly.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Gilde Morrisson
+                                   Administrative Appeals Judge
+
+
+
+
+                                   /s/Constance B. Tobias, Chair
+                                   Departmental Appeals Board
+
+
+
+Date: June 29, 2012
+

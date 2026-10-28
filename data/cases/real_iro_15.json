@@ -1,0 +1,60 @@
+{
+  "case_id": "real_iro_15",
+  "expected_decision": null,
+  "reference_outcome": "overturned",
+  "source": {
+    "type": "real public Texas DOI IRO decision (name-redacted)",
+    "url": "https://www.tdi.texas.gov/medcases/iro/2025/march/wp1729759414941.pdf",
+    "reviewer_reason": "Failed multimodal conservative management with facet-mediated pain on exam",
+    "note": "Reviewer applied ODG/ACOEM guidelines, NOT Medicare LCD L38765. Outcome is an external reference, not an LCD ground truth."
+  },
+  "claim": {
+    "type_of_bill": null,
+    "emergency_dept": null,
+    "pa_requested_before_service": null
+  },
+  "clinical": {
+    "axial_pain": true,
+    "baseline_pain_nrs": 7,
+    "disability_scale": null,
+    "disability_score_pct": null,
+    "pain_duration_months": null,
+    "conservative_management": [
+      "exercise",
+      "medication",
+      "physical therapy",
+      "prior radiofrequency"
+    ],
+    "untreated_radiculopathy": null,
+    "non_facet_pathology": "intervertebral disc displacement; spondylosis",
+    "centralized_pain_dx": null
+  },
+  "procedure": {
+    "type": "rfa",
+    "guidance": null,
+    "sedation": null,
+    "spinal_regions": 1,
+    "prior_diagnostic_mbb_relief_pct": null,
+    "services": [
+      {
+        "cpt": "RFA L3-4",
+        "level": 1
+      },
+      {
+        "cpt": "RFA L4-5",
+        "level": 2
+      },
+      {
+        "cpt": "RFA L5-S1",
+        "level": 3
+      }
+    ]
+  },
+  "documentation": {
+    "baseline_pain_documented": true,
+    "pain_scale_used": "NRS (numeric x/10 as recorded)",
+    "baseline_disability_documented": null,
+    "disability_scale_used": null,
+    "conservative_records_attached": true
+  }
+}

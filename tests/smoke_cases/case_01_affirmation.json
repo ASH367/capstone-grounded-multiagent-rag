@@ -1,0 +1,48 @@
+{
+  "claim": {
+    "type_of_bill": "131",
+    "emergency_dept": false,
+    "pa_requested_before_service": true
+  },
+  "clinical": {
+    "axial_pain": true,
+    "baseline_pain_nrs": 7,
+    "disability_scale": "ODI",
+    "disability_score_pct": 42,
+    "pain_duration_months": 9,
+    "conservative_management": [
+      "physical therapy 12 visits",
+      "NSAIDs",
+      "home exercise"
+    ],
+    "untreated_radiculopathy": false,
+    "non_facet_pathology": "",
+    "centralized_pain_dx": false
+  },
+  "procedure": {
+    "type": "diagnostic_mbb",
+    "guidance": "fluoroscopy",
+    "sedation": "local",
+    "spinal_regions": 1,
+    "prior_diagnostic_mbb_relief_pct": [],
+    "services": [
+      {
+        "cpt": "MBB-L1",
+        "level": 1
+      },
+      {
+        "cpt": "MBB-L2",
+        "level": 2
+      }
+    ]
+  },
+  "documentation": {
+    "baseline_pain_documented": true,
+    "pain_scale_used": "NRS 0-10",
+    "baseline_disability_documented": true,
+    "disability_scale_used": "Oswestry Disability Index",
+    "conservative_records_attached": true
+  },
+  "case_id": "case_01_affirmation",
+  "expected_decision": "PROVISIONAL AFFIRMATION"
+}
