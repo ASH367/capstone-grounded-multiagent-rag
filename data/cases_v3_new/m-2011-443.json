@@ -1,0 +1,21 @@
+{
+ "case_id": "m-2011-443",
+ "domain": "snf",
+ "docket": "M-11-443",
+ "service_at_issue": "Medicare Secondary Payer conditional payment recovery; request for review after withdrawal by substitute party",
+ "facts": [
+  "This matter concerns Medicare\u2019s claim as secondary payer for recovery of a conditional payment made on behalf of the beneficiary. The beneficiary died on June 19, 2010, after requesting a hearing. Attorney David A. Azran advised the Office of Medicare Hearings and Appeals (OMHA), in a letter dated July 7, 2010, that he was working to determine who may have a legal interest in the claim following the beneficiary\u2019s death. Exh. 16, at 1. Further, Mr. Azran advised that he would file the form HHS-722, to substitute a party upon the death of a party, with OMHA when that person was identified. Id.",
+  "The ALJ hearing was originally scheduled for August 4, 2010. Exh. 14, at 1. During this telephone communication, Mr. Azran explained that the beneficiary\u2019s father was her heir. Hearing CD. He went onto inform the ALJ that the father was incapacitated and that his daughter (the appellant) had power of attorney, so she would be handling matters. Id. Mr. Azran stated that the daughter is the sister of the decedent applicant. Id.",
+  "Mr. Azran included an appointment of representative form, as well as form HHS-722, in a letter dated September 1, 2010. Exh. 22, at 1-3. On form HHS-722, Ms. L*** had checked the box stating \u201cI do not wish to proceed with the hearing requested by the deceased, and I withdraw the request for hearing.\u201d Id. at 2.",
+  "Further, Mr. Azran states that \u201cthe appellant was operating on erroneous facts and/or assumptions based on the MSPRC\u2019s representation regarding their treatment and consideration of Appellant\u2019s Request for Compromise...and regarding the issue of whether or not Medicare is entitled to interest on the principal claimed amount.\u201d Id. Included in the appellant\u2019s request for review is a \u201cDeclaration of A*** L***\u201d, which further explains her understanding and belief, which is apparently based directly on the advice of counsel. In the Declaration, Ms. L*** represents that she is a proper appellant as the beneficiary\u2019s sister because she holds the power of attorney for D*** D***, the beneficiary\u2019s father."
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "Council dismissed the request for review because the appellant had not shown she was a proper substitute party with a financial interest, leaving the reconsideration binding.",
+ "cited_sections": [],
+ "other_cites": [
+  "42 CFR 405.1114(c)(1)"
+ ],
+ "scope": "excluded",
+ "scope_reason": "Medicare Secondary Payer dismissal, not a coverage question",
+ "key_quality": "no_mbpm_key"
+}

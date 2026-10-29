@@ -1,0 +1,108 @@
+[
+ {
+  "decision": "COVERED",
+  "reason": "Medicare covers skilled therapy services when they are necessary for the treatment of a patient's condition, and D.E.'s therapy services meet this requirement.",
+  "findings": [
+   {
+    "claim": "D.E. was referred to PT due to decreased strength and decreased ADLs due to illness.",
+    "passage_id": 640,
+    "quote": "The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "[3] the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "D.E. was referred to ST to evaluate for speech/language cognitive deficits affecting her communication and safety.",
+    "passage_id": 640,
+    "quote": "The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "[4] the services were initiated on August 27, 2009, with a treatment diagnosis of cognitive deficits."
+   },
+   {
+    "claim": "D.E.'s therapy goals included increasing her quality of life to enjoy a maximum possible level of cognitive functioning and communication skills as measured by skilled observation and modified formal testing.",
+    "passage_id": 640,
+    "quote": "The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "[4] D.E. was referred to ST to evaluate for speech/language cognitive deficits affecting her communication and safety."
+   }
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary's SNF stay met the criteria for Medicare coverage, and there is no presumption of non-coverage.",
+  "findings": [
+   {
+    "claim": "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings, and to notify the doctor if three consecutive doses of medication were refused or held.",
+    "passage_id": "608",
+    "quote": "If the beneficiary is discharged from the hospital to a setting other than the SNF, the presumption of coverage does not apply, even if the beneficiary\u2019s SNF admission occurs within 30 days of discharge from the qualifying hospital stay.",
+    "case_fact": "The record indicates that he had diagnoses of pneumonia, shortness of breath, acute myocardial infarction, atrial flutter, and renal insufficiency."
+   },
+   {
+    "claim": "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings, and to notify the doctor if three consecutive doses of medication were refused or held.",
+    "passage_id": "609",
+    "quote": "Alternatively, if the absence from the SNF does not exceed the 3-day interruption window, the beneficiary\u2019s return to the same SNF would represent a continuation of the previous SNF stay;",
+    "case_fact": "On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate."
+   },
+   {
+    "claim": "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings, and to notify the doctor if three consecutive doses of medication were refused or held.",
+    "passage_id": "611",
+    "quote": "Dually eligible (Medicare/Medicaid) beneficiaries whose initial stay in the SNF is either Medicaid-covered or private pay, are eligible for the Medicare presumption of coverage when readmitted directly to the SNF following a qualifying hospitalization;",
+    "case_fact": "The beneficiary is a deaf mute with Alzheimer\u2019s dementia who had difficulty communicating."
+   }
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "decision": "UNKNOWN",
+  "reason": "Insufficient information to determine coverage.",
+  "findings": [],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The 30-day transfer period may be extended in certain circumstances, and the appellant's brief was received after January 10, 2010, which is within the extended timeframe.",
+  "findings": [
+   {
+    "claim": "The Council will act on the request for review based on the present record if nothing further is received within 30 days",
+    "passage_id": "579",
+    "quote": "the day following actual discharge from the hospital and continues until the individual is admitted to a participating SNF, and",
+    "case_fact": "[1] By a letter dated October 5, 2009, the Council granted the appellant a 30-day opportunity to file a brief."
+   },
+   {
+    "claim": "The 30-day transfer period may be extended in certain circumstances",
+    "passage_id": "579",
+    "quote": "the day following actual discharge from the hospital and continues until the individual is admitted to a participating SNF, and",
+    "case_fact": "[1] By a letter dated October 5, 2009, the Council granted the appellant a 30-day opportunity to file a brief."
+   },
+   {
+    "claim": "The appellant's brief was received after January 10, 2010",
+    "passage_id": "579",
+    "quote": "the day following actual discharge from the hospital and continues until the individual is admitted to a participating SNF, and",
+    "case_fact": "[2] Nearly a month after the expiration of the due date for the brief, on December 1, 2009, the appellant filed, by telefacsimile, a request for an additional extension of time, to January 10, 2010, to brief the case."
+   }
+  ],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary met the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay.",
+  "findings": [
+   {
+    "claim": "The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay",
+    "passage_id": "610",
+    "quote": "If a beneficiary met the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay,",
+    "case_fact": "The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration."
+   },
+   {
+    "claim": "the other insurer covered this part of the stay",
+    "passage_id": "610",
+    "quote": "If Medicare becomes primary before the eighth day of the stay following a qualifying hospital stay,",
+    "case_fact": "there is no presumption"
+   },
+   {
+    "claim": "The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration",
+    "passage_id": "563",
+    "quote": "The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days.",
+    "case_fact": "The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration."
+   }
+  ],
+  "case_id": "connecticut11"
+ }
+]

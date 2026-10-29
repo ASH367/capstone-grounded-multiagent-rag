@@ -1,0 +1,38 @@
+{
+ "reviewer": "AI reviewers A/B/C (Claude subagents, NOT human)",
+ "CP3_multi": {
+  "n": 30,
+  "supported": 21,
+  "partly": 7,
+  "not_supported": 2,
+  "groundedness": 0.7,
+  "hallucination": 0.067
+ },
+ "CP3_single": {
+  "n": 30,
+  "supported": 22,
+  "partly": 7,
+  "not_supported": 1,
+  "groundedness": 0.733,
+  "hallucination": 0.033
+ },
+ "CP2_retrieval_adequate": {
+  "n": 22,
+  "yes": 13,
+  "partly": 7,
+  "no": 2
+ },
+ "CP1_data_fidelity": {
+  "n": 22,
+  "fully_correct": 22,
+  "checked": "excerpt fidelity and cited sections only; outcome label not re-checked"
+ },
+ "CP4_gating": {
+  "flagged": 8,
+  "reviewed": 8,
+  "multi_accuracy": 0.773,
+  "human_gated_accuracy": 0.818,
+  "flagged_cases_system_correct": 5,
+  "flagged_cases_human_correct": 6
+ }
+}

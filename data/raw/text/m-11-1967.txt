@@ -1,0 +1,251 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-11-1967
+
+
+In the case of                        Claim for
+
+Commissioner, Connecticut             Hospital Insurance Benefits
+Department of Social Services         (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+National Government Services          ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+
+The Administrative Law Judge (ALJ) issued a hearing decision
+dated April 28, 2011, which addressed Medicare coverage for
+skilled nursing facility (SNF) services furnished to the
+beneficiary from March 5 to March 8, 2010. The ALJ denied
+coverage for the SNF services, citing section 1862(a)(1)(A) of
+the Social Security Act (Act), and found the beneficiary liable
+for the non-covered services in accordance with section 1879 of
+the Act. The appellant, the State of Connecticut Department of
+Social Services, a state Medicaid agency with appeal rights
+under 42 C.F.R. section 405.908, has asked the Medicare Appeals
+Council (Council) to review the ALJ’s decision.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the appellant in the request
+for review, unless the appellant is an unrepresented
+beneficiary. Id. § 405.1112(c).
+
+The Council admits the appellant’s request for review (Form
+DAB-101), the appointment of representative, and the brief in
+support of the request, into the administrative record as
+Exhibit (Exh.) MAC-1, pages 1 through 8.
+                                                                   2
+For the reasons and bases set forth below, the Council reverses
+the ALJ’s decision. Medicare coverage is available for the SNF
+services furnished to the beneficiary from March 5 to March 8,
+2010.
+
+                           DISCUSSION
+
+At issue before the Council is Medicare coverage for the SNF
+services furnished to the beneficiary from March 5 to March 8,
+2010. The appellant, Commissioner of the Connecticut Department
+of Social Services, asks the Council to reverse the ALJ’s denial
+of coverage for the services. The ALJ determined that the
+services may not be covered as reasonable and necessary services
+under section 1862(a)(1)(A) of the Act because “[t]here was
+nothing in the medical record proffered indicating that the
+services administered amount[ed] to skilled care” and the
+services furnished were “fairly routine lab work.” Dec. at 6.
+The ALJ found the beneficiary liable for the non-covered charges
+in accordance with section 1879 of the Act based on a finding
+that the SNF provided the beneficiary’s representative
+“sufficient notice of non-coverage as early as March 2, 2010,
+that [the beneficiary’s] care would not be covered by Medicare
+starting March 5, 2010.” Id. The ALJ’s decision was similar to
+that of the contractor and the Qualified Independent Contractor
+(QIC), as to both coverage and liability. On redetermination
+and reconsideration, coverage was denied for lack of evidence of
+daily skilled services documented in the record for the period
+from March 5 to March 8, 2010, and because the beneficiary,
+through his representative, was provided valid advance written
+notice that coverage would be denied beginning on March 5. See
+Exh. 6 at 2; Exh. 7 at 4-5.
+
+Before the Council, the appellant first indicates that it is
+disputing the ALJ’s decision as to coverage and payment only.
+The appellant points out that the ALJ erroneously stated in his
+decision (page 6) that the appellant had “characterized the
+notice as being insufficient” and that it addressed only the
+issues of coverage and payment during the ALJ proceedings. Exh.
+MAC-1 at 5. The appellant urges the Council to reverse the
+ALJ’s decision, allowing for coverage of the services as
+medically reasonable daily skilled nursing services in the form
+of both skilled observation and assessment, and case management.
+Id. at 7-8.
+                                                                   3
+A beneficiary must meet various requirements to qualify for the
+coverage of SNF services. As pertinent herein, Medicare
+requires that coverage may be allowed only when the service is
+“skilled” in nature, which means that it is “so inherently
+complex that it can be safely and effectively performed only by,
+or under the supervision of, professional or technical
+personnel.” 42 C.F.R. § 409.32(a). In addition, the
+beneficiary must require and receive skilled services (nursing
+or skilled rehabilitation, or both), on a daily basis. 42
+C.F.R. § 409.31(b)(1); see also 42 C.F.R. § 409.31(a) (skilled
+nursing and rehabilitation services are those that are ordered
+by a physician, require the skills of professional personnel,
+and are furnished directly by or under the supervision of such
+personnel). The skilled services must be furnished for a
+condition for which the beneficiary received inpatient hospital
+services, or which arose while the beneficiary was receiving
+care in a SNF for a condition which he or she received inpatient
+hospital services. 42 C.F.R. § 409.31(b)(2). The skilled
+services must be ones that, as a practical matter, can only be
+provided in a SNF, on an inpatient basis. 42 C.F.R.
+§ 409.31(b)(3).
+
+Overall management and evaluation of the care plan may
+constitute “skilled services” when, because of the patient’s
+physical or mental condition, those activities require the
+involvement of technical or professional personnel in order to
+meet the patient’s needs, promote recovery, and ensure medical
+safety. 42 C.F.R. § 409.33(a)(1). Observation and assessment
+constitute “skilled services” when the skills of a technical or
+professional person are required to identify and evaluate the
+patient’s needs for modification of treatment or for additional
+medical procedures until his or her condition is stabilized.
+Id. at § 409.33(a)(2). As the Medicare Benefit Policy Manual
+(MBPM), Pub. 100-02, makes clear, observation and assessment
+satisfies this standard “when the likelihood of change in a
+patient’s condition requires skilled nursing or skilled
+rehabilitation personnel to identify and evaluate the patient’s
+need for possible modification of treatment or initiation of
+additional medical procedures, until the patient’s treatment
+regimen is essentially stabilized.” MBPM, Ch. 8, § 30.2.3.2.
+Similarly, for the management of a care plan, the complexity of
+the services must “require the involvement of skilled nursing
+personnel to meet the patient’s medical needs, promote recovery,
+and ensure medical safety.” Id. at § 30.2.3.1.
+                                                                              4
+The records reflect the beneficiary’s hospitalization from
+February 12 to February 17, 2010, for “worsening gross
+hematuria.” His recent medical history included a diagnosis of
+deep vein thrombosis and the placement of an inferior vena cava
+filter. Exh. 4 at 3, 6. At the hospital, the beneficiary
+underwent a cystoscopy and transurethral resection of the
+prostate (which had a nodular growth that had reoccurred despite
+two prior transurethral resections), and received three
+transfusions. Id. at 4. The hospital records further indicate,
+“Because of his severe hematuria and resulting anemia with an
+initial hematocrit of 29.1 which subsequently fell to hematocrit
+23.1 immediately postoperatively, urological intervention was
+required.” Id. After the resection, the beneficiary had bloody
+urine for three days which “gradually quieted,” and, on the date
+of discharge from the hospital, the urine was described as “dark
+tea color.” Id. At the time of discharge from the hospital on
+February 17 (for admission to the SNF) the beneficiary was
+diagnosed with hematuria secondary to prostate enlargement,
+recent deep vein thrombosis, chronic renal failure, Parkinson’s
+disease, obstructive sleep apnea, and a history of squamous cell
+carcinoma. Id. at 3.
+
+As of March 2, 2010, a physician indicated that the beneficiary
+required skilled nursing for one week to monitor for signs of
+fever, chills, clots, elevated temperature, swallowing problems,
+and inability to void, and to check the Foley catheter. Exh. 4
+at 10. The nurses’ notes leading up to March 5, 2010 indicate,
+among other things, drainage of bloody urine from the Foley
+catheter. Laboratory tests were ordered. The beneficiary was
+placed on Ensure five times daily because he was noted to have
+had a poor appetite. The nurses were to monitor the amount of
+Ensure ingested. See id. at 17-18. 1
+
+As of March 5, 2010, the first non-covered day, the nurses
+continued to monitor the beneficiary for signs of hematuria.
+Laboratory results were abnormal. Exh. 4 at 19. Laboratory
+tests were ordered to be repeated. Id. at 15. The next day,
+March 6, 2010, the doctor ordered the beneficiary to be
+hospitalized; the “abnormal” laboratory results were again
+noted. Id. at 15, 19; Exh. 10. The next day, March 7, 2010,
+nurses documented “bright red” hematuria (Exh. 4 at 20), and a
+doctor again ordered that laboratory tests be performed (id. at
+20-21). As of March 8, 2010, the Foley catheter was draining
+bloody urine. Id. at 21. A doctor again indicated that the
+1
+   As the appellant notes, Medicare covered the SNF services furnished from
+February 17 to March 4, 2010. Exh. MAC-1 at 6.
+                                                                   5
+beneficiary should be hospitalized, and, on March 8, 2010, he
+was hospitalized. Id.
+
+Having considered the medical evidence, and the above coverage
+requirements and program guidance, the Council finds the
+appellant’s arguments well-founded. The medical evidence
+supports coverage for the SNF services furnished from March 5 to
+March 8, 2010.
+
+The beneficiary required and received daily skilled nursing
+services in the form of skilled observation and assessment and
+the management of the beneficiary’s care plan. The beneficiary
+was treated for hematuria in a hospital immediately prior to the
+admission to the SNF. See, e.g., Exh. 4 at 39. In fact, the
+hospital records for the period immediately prior to admission
+to the SNF indicate a doctor’s option that, “It is anticipated …
+that there will be some intermittent hematuria.” Id. at 4.
+That is what occurred during the SNF stay at issue. Further, at
+the SNF, on March 2, 2010, a doctor determined that the
+beneficiary required skilled nursing for one week to monitor him
+for various signs and symptoms, including those associated with
+hematuria. See id. at 10. Every day during the three-day
+period of non-coverage, from March 5 to 8, 2010, the nurses
+closely monitored the beneficiary daily for possibly abnormal
+urine changes (e.g., “dark orange” noted one day), and abnormal
+laboratory results were noted daily. The nurses also closely
+monitored the beneficiary daily for other indicators of overall
+decline in condition (e.g., poor appetite) leading up to the
+re-hospitalization on March 8, 2010, and notified the physician
+of the “abnormal” laboratory results. See id. at 19, 20, 21.
+
+We note that, on March 6, 2010, the second day of the non-
+covered period, a doctor determined that the beneficiary should
+be re-hospitalized; the order for hospitalization apparently was
+not carried out at the request of the beneficiary’s son and
+daughter-in-law. See Exh. 4 at 19, 20. But, the doctor, in his
+medical judgment, determined that the beneficiary should be
+hospitalized, as evident in a repeated hospitalization order on
+March 7 and, again, on March 8, 2010. See id. at 20 and 21.
+These orders are unquestionably indicative of a physician’s
+determination that the beneficiary should be furnished hospital
+level of care, which, in the context of this case, is evidence
+that tends to support a conclusion that the beneficiary needed,
+from March 5 to March 8, 2010, a SNF level of care. We disagree
+that the SNF services at issue were merely “custodial in nature”
+as the ALJ characterized them. See Dec. at 6.
+                                                                   6
+
+Based on the foregoing, the Council reverses the ALJ’s decision.
+Medicare coverage is available for the SNF services furnished to
+the beneficiary from March 5 to March 8, 2010.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Susan S. Yim
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/ Stanley I. Osborne, Jr.
+                                   Administrative Appeals Judge
+
+
+Date: October 12, 2012
+

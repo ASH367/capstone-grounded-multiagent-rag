@@ -1,0 +1,278 @@
+[
+ {
+  "case_id": "11-1343",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Medical-record documentation of patient condition and need for skilled therapy is present.",
+    "passage_id": 640,
+    "quote": "Documentation of the patient’s condition in the medical record must describe the circumstances which delineate the need for skilled rather than",
+    "case_fact": "At the beginning of PT, J.M. required moderate to maximal assist with functional mobility."
+   },
+   {
+    "claim": "Nursing notes document skilled observation after the fall.",
+    "passage_id": 626,
+    "quote": "The medical documentation must describe the skilled services that require the involvement of nursing personnel to promote the stabilization",
+    "case_fact": "The nurses monitored J.M.’s condition including pupil size, alertness, signs and symptoms of pain and ability to follow commands."
+   }
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Hospital records for a 12-day stay were submitted as evidence of the qualifying stay.",
+    "passage_id": 574,
+    "quote": "as long as some portion of the stay included at least 3 consecutive days of medically necessary inpatient hospital services",
+    "case_fact": "The provider submits, as evidence of the three-day stay, hospital records concerning the beneficiary’s December 15, 2009, through December 27, 2009, stay"
+   },
+   {
+    "claim": "Medical evidence of ongoing skilled medication management is in the record.",
+    "passage_id": 608,
+    "quote": "coverage would be determined based on a review of the medical evidence in the file",
+    "case_fact": "On at least thirteen occasions the beneficiary’s medications had to be adjusted due to fluctuations in his blood pressure and heart rate."
+   }
+  ]
+ },
+ {
+  "case_id": "baptist_health_care",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "UNKNOWN whether admission orders, certification or inpatient-need documentation exist; case facts only describe the appellant's arguments.",
+    "passage_id": 29,
+    "quote": "The signed physician certification is considered, along with other documentation in the medical record, as evidence that hospital inpatient service(s) were reasonable and necessary.",
+    "case_fact": "The medical record must contain information that documents the need for an inpatient level of care."
+   }
+  ]
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "UNKNOWN: case facts are procedural only and contain no hospital stay or SNF transfer records.",
+    "passage_id": 571,
+    "quote": "the individual must have been transferred to a participating SNF within 30 days after discharge from the hospital",
+    "case_fact": "The appellant filed a timely request for Council review (Form DAB-101), dated August 24, 2009, and received on August 26, 2009."
+   }
+  ]
+ },
+ {
+  "case_id": "connecticut11",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "UNKNOWN: no case-mix classifier or length of the hospital stay is given, so presumption or level-of-care documentation is unsettled.",
+    "passage_id": 607,
+    "quote": "the beneficiary must receive an individual level of care determination using existing administrative criteria and procedures",
+    "case_fact": "admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay"
+   }
+  ]
+ },
+ {
+  "case_id": "gr",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "UNKNOWN: no certification or supporting medical records are described in the case facts.",
+    "passage_id": 215,
+    "quote": "documentation in the certifying physician or allowed practitioner’s medical records",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility"
+   }
+  ]
+ },
+ {
+  "case_id": "m-10-1884",
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "UNKNOWN: length of the hospital stay is not documented in the case facts.",
+    "passage_id": 563,
+    "quote": "The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days.",
+    "case_fact": "The beneficiary was re-admitted to * * * Health & Rehab Center (SNF) on December 11, 2008, following a hospital stay for gastrointestinal bleeding."
+   },
+   {
+    "claim": "Therapy records end before the disputed dates of service beginning January 28, 2009; no records show skilled services on those dates.",
+    "passage_id": 669,
+    "quote": "Physical therapy (PT), speech-language pathology (SLP), and occupational therapy (OT) services must be provided by the SNF",
+    "case_fact": "She was discharged from OT on January 19, 2009, and from PT on January 22, 2009."
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Visit notes document skilled nursing monitoring and assessment.",
+    "passage_id": 257,
+    "quote": "The need for the skilled services must be documented.",
+    "case_fact": "the records dated within this period include numerous documented instances of changes in the beneficiary’s medication schedule"
+   },
+   {
+    "claim": "Nursing visit documentation of physician contact and insulin dose changes is present (catheter policy only analogous; no venipuncture records described).",
+    "passage_id": 256,
+    "quote": "where there are complications that require more frequent skilled care related to the catheter, such care would, with adequate documentation, be covered.",
+    "case_fact": "On multiple occasions during this period, the nurses had the beneficiary see her doctor with her blood sugar logs"
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Hospital stay dates documented; Feb 12 to Feb 17 spans more than three inpatient days.",
+    "passage_id": 572,
+    "quote": "the day of admission, but not the day of discharge, is counted as a hospital inpatient day",
+    "case_fact": "the beneficiary’s hospitalization from February 12 to February 17, 2010"
+   },
+   {
+    "claim": "Direct transfer to the SNF at hospital discharge is documented.",
+    "passage_id": 563,
+    "quote": "The beneficiary must also have been transferred to a participating SNF within 30 days after discharge from the hospital",
+    "case_fact": "At the time of discharge from the hospital on February 17 (for admission to the SNF)"
+   }
+  ]
+ },
+ {
+  "case_id": "m-12-1140",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Qualifying hospital stay and same-day SNF admission are documented.",
+    "passage_id": 579,
+    "quote": "initiated within 30 days after discharge from a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services",
+    "case_fact": "first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011"
+   }
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "UNKNOWN: written treatment plan and initial evaluation are not described; only the appellant's assertions about documentation appear.",
+    "passage_id": 637,
+    "quote": "an active written treatment plan that is based upon an initial evaluation performed by a qualified physical therapist after admission to the SNF",
+    "case_fact": "The appellant asserts that the documentation of record, present throughout all levels of review, demonstrates the clear need for the skills of a physical therapist"
+   },
+   {
+    "claim": "UNKNOWN whether the record delineates need for skilled rather than unskilled services.",
+    "passage_id": 640,
+    "quote": "Documentation of the patient’s condition in the medical record must describe the circumstances which delineate the need for skilled rather than",
+    "case_fact": "the beneficiary demonstrated “slow but steady progress” reflecting gains in “safety, balance and overall functional mobility.”"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "UNKNOWN: PT notes and certification are cited but their contents are not described, so documentation of each maintenance-program component is unsettled.",
+    "passage_id": 294,
+    "quote": "Each component of this process must be documented in the home health record.",
+    "case_fact": "Ex. 1, at 333 (physician certification of April 8, 2006), at 133 (PT notes of February 7, 2006)"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Nursing documentation of complications supporting skilled need is present.",
+    "passage_id": 232,
+    "quote": "The medical condition of the patient must be described and documented to support the need for nursing skilled services",
+    "case_fact": "The nurses noted abscesses in the rectum."
+   },
+   {
+    "claim": "Documented complications distinguish this from routine ostomy care.",
+    "passage_id": 231,
+    "quote": "A patient with a well-established colostomy absent complications may require assistance changing the colostomy bag",
+    "case_fact": "The beneficiary developed a fistula near the colostomy site."
+   }
+  ]
+ },
+ {
+  "case_id": "ny",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "UNKNOWN: case facts give no visit logs, hours furnished or medical records, only the appellant's arguments.",
+    "passage_id": 341,
+    "quote": "less than 8 hours each day and 28 or fewer hours each week",
+    "case_fact": "the appellant asserts that coverage is available for home health aide or skilled nursing services on a part-time basis"
+   }
+  ]
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Records show placement in a noncertified bed; no limitation-of-liability documentation is described.",
+    "passage_id": 666,
+    "quote": "When patients who require SNF services are placed in a noncertified part of an institution which contains a participating “distinct part” SNF",
+    "case_fact": "The beneficiary’s medical records indicate that she was placed in a noncertified bed at the appellant’s facility."
+   },
+   {
+    "claim": "Direct admission after a qualifying stay is documented, but this does not cure the noncertified bed.",
+    "passage_id": 607,
+    "quote": "If the beneficiary is admitted to the SNF immediately following a 3-day qualifying hospital stay",
+    "case_fact": "On September 29, 2003, the beneficiary was admitted to the appellant’s nursing facility, REMH, immediately following her discharge from the hospital"
+   }
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "UNKNOWN: case facts contain no IRF medical records or individual assessments, only procedural history.",
+    "passage_id": 72,
+    "quote": "Medicare requires determinations of whether IRF stays are reasonable and necessary to be based on an assessment of each beneficiary's individual care needs.",
+    "case_fact": "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004."
+   }
+  ]
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Detailed nursing, physician and psychiatric APRN documentation of monitoring is present.",
+    "passage_id": 629,
+    "quote": "these cases must be carefully documented.",
+    "case_fact": "During the period from July 27, 2009, through August 11, 2009, the beneficiary was closely monitored by the skilled nurses (multiple times each day)"
+   },
+   {
+    "claim": "Hospital admission July 20 with SNF admission July 27 documents a qualifying stay and timely transfer.",
+    "passage_id": 563,
+    "quote": "The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days.",
+    "case_fact": "On July 20, 2009, the beneficiary (age 88) was admitted to the acute psychiatric unit at Yale University"
+   }
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Prior level of function is described, but UNKNOWN whether a preadmission screening, admission orders, plan of care or IRF-PAI exist.",
+    "passage_id": 74,
+    "quote": "the preadmission screening documentation must indicate the patient’s prior level of function",
+    "case_fact": "Prior to the total knee replacement surgery, the beneficiary was independent with all of her activities of daily living (ADL’s)"
+   },
+   {
+    "claim": "UNKNOWN: required IRF documents listed in the policy are not described in the case facts.",
+    "passage_id": 4,
+    "quote": "110.1.4 - Required Admission Orders",
+    "case_fact": "Upon admission, the beneficiary’s functional status was as follows: moderate assistance supine to sit, sit to stand, sit to supine, bed to chair"
+   }
+  ]
+ }
+]

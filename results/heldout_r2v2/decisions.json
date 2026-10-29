@@ -1,0 +1,416 @@
+{
+ "summary": {
+  "all": {
+   "n": 18,
+   "decision_agreement_multi": 0.389,
+   "decision_agreement_single": 0.611,
+   "citation_check_multi": {
+    "findings": 82,
+    "mechanically_valid": 1.0
+   },
+   "citation_check_single": {
+    "findings": 39,
+    "mechanically_valid": 1.0
+   }
+  },
+  "dev": {
+   "n": 0,
+   "decision_agreement_multi": null,
+   "decision_agreement_single": null,
+   "citation_check_multi": {
+    "findings": 0,
+    "mechanically_valid": null
+   },
+   "citation_check_single": {
+    "findings": 0,
+    "mechanically_valid": null
+   }
+  },
+  "test": {
+   "n": 0,
+   "decision_agreement_multi": null,
+   "decision_agreement_single": null,
+   "citation_check_multi": {
+    "findings": 0,
+    "mechanically_valid": null
+   },
+   "citation_check_single": {
+    "findings": 0,
+    "mechanically_valid": null
+   }
+  },
+  "heldout": {
+   "n": 18,
+   "decision_agreement_multi": 0.389,
+   "decision_agreement_single": 0.611,
+   "citation_check_multi": {
+    "findings": 82,
+    "mechanically_valid": 1.0
+   },
+   "citation_check_single": {
+    "findings": 39,
+    "mechanically_valid": 1.0
+   }
+  },
+  "reference_distribution": {
+   "PARTLY_COVERED": 6,
+   "COVERED": 7,
+   "NOT_COVERED": 5
+  },
+  "multi_predictions": {
+   "COVERED": 5,
+   "NOT_COVERED": 12,
+   "PARTLY_COVERED": 1
+  },
+  "single_predictions": {
+   "COVERED": 5,
+   "NOT_COVERED": 10,
+   "PARTLY_COVERED": 3
+  },
+  "majority_class_baseline": 0.389
+ },
+ "rows": [
+  {
+   "case": "11-1343",
+   "split": "heldout",
+   "domain": "snf",
+   "reference": "PARTLY_COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": false,
+   "single_ok": false,
+   "multi_findings_valid": 5,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN",
+    "SUPPORTS_COVERAGE"
+   ]
+  },
+  {
+   "case": "11-1546",
+   "split": "heldout",
+   "domain": "snf",
+   "reference": "COVERED",
+   "multi": "NOT_COVERED",
+   "single": "COVERED",
+   "multi_ok": false,
+   "single_ok": true,
+   "multi_findings_valid": 5,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "baptist_health_care",
+   "split": "heldout",
+   "domain": "inpatient_rehab",
+   "reference": "PARTLY_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": false,
+   "single_ok": false,
+   "multi_findings_valid": 4,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "conn_dept_social_services",
+   "split": "heldout",
+   "domain": "snf",
+   "reference": "NOT_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 2,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 1,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "connecticut11",
+   "split": "heldout",
+   "domain": "snf",
+   "reference": "PARTLY_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": false,
+   "single_ok": false,
+   "multi_findings_valid": 4,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "gr",
+   "split": "heldout",
+   "domain": "home_health",
+   "reference": "COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": false,
+   "single_ok": false,
+   "multi_findings_valid": 4,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "m-10-1884",
+   "split": "heldout",
+   "domain": "snf",
+   "reference": "PARTLY_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": false,
+   "single_ok": false,
+   "multi_findings_valid": 4,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "m-11-1869",
+   "split": "heldout",
+   "domain": "home_health",
+   "reference": "COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 4,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ]
+  },
+  {
+   "case": "m-11-1967",
+   "split": "heldout",
+   "domain": "snf",
+   "reference": "COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 8,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ]
+  },
+  {
+   "case": "m-12-1140",
+   "split": "heldout",
+   "domain": "snf",
+   "reference": "NOT_COVERED",
+   "multi": "PARTLY_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": false,
+   "single_ok": true,
+   "multi_findings_valid": 4,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN",
+    "SUPPORTS_COVERAGE"
+   ]
+  },
+  {
+   "case": "m_10_1771",
+   "split": "heldout",
+   "domain": "snf",
+   "reference": "NOT_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 5,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "nj_dept_humanservices22",
+   "split": "heldout",
+   "domain": "home_health",
+   "reference": "COVERED",
+   "multi": "NOT_COVERED",
+   "single": "PARTLY_COVERED",
+   "multi_ok": false,
+   "single_ok": false,
+   "multi_findings_valid": 6,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 3,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "nj_dhs_commiss_case",
+   "split": "heldout",
+   "domain": "home_health",
+   "reference": "COVERED",
+   "multi": "COVERED",
+   "single": "COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 5,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "ny",
+   "split": "heldout",
+   "domain": "home_health",
+   "reference": "PARTLY_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "PARTLY_COVERED",
+   "multi_ok": false,
+   "single_ok": true,
+   "multi_findings_valid": 4,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "roman_eagle_memorial_home",
+   "split": "heldout",
+   "domain": "snf",
+   "reference": "NOT_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 5,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "stfrances_memorial",
+   "split": "heldout",
+   "domain": "inpatient_rehab",
+   "reference": "NOT_COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": true,
+   "single_ok": true,
+   "multi_findings_valid": 3,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 1,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  },
+  {
+   "case": "twin_maples_health_care_case",
+   "split": "heldout",
+   "domain": "snf",
+   "reference": "PARTLY_COVERED",
+   "multi": "COVERED",
+   "single": "PARTLY_COVERED",
+   "multi_ok": false,
+   "single_ok": true,
+   "multi_findings_valid": 6,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 4,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ]
+  },
+  {
+   "case": "valley_presbyterian",
+   "split": "heldout",
+   "domain": "inpatient_rehab",
+   "reference": "COVERED",
+   "multi": "NOT_COVERED",
+   "single": "NOT_COVERED",
+   "multi_ok": false,
+   "single_ok": false,
+   "multi_findings_valid": 4,
+   "multi_findings_invalid": 0,
+   "single_findings_valid": 2,
+   "single_findings_invalid": 0,
+   "agent_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ]
+  }
+ ]
+}

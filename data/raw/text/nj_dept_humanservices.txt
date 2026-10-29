@@ -1,0 +1,715 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+
+
+In the case of                        Claim for
+
+Commissioner of the New
+Jersey Department of Human            Hospital Insurance Benefits
+Services                              (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+National Government Services,
+Inc.                                  ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+
+The Administrative Law Judge (ALJ) issued two decisions dated
+October 8, 2008, which concerned Medicare coverage for home
+health services provided to beneficiary W.B. from October 22,
+2005, through October 16, 2006, and to beneficiary D.W. from
+October 10, 2005, through December 3, 2006. In both cases, the
+ALJ determined Medicare would not cover the services at issue
+and that the beneficiary was liable for the non-covered
+services. The appellant has asked the Medicare Appeals Council
+to review these actions.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, since the appellant is not an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). As set forth below, the Council
+reverses the ALJ’s decision.
+
+CASE BACKGROUND
+
+The original claim for home health services to W.B. included
+numerous services provided between October 22, 2005, through
+October 16, 2006. At the hearing, the appellant withdrew its
+claim as to all but two sets of services: (1) four skilled
+                                                                   2
+
+
+
+
+nursing visits and (2) eleven physical therapy visits. The ALJ
+denied the disputed visits as not medically reasonable or
+necessary and amounting to merely custodial care. ALJ Decision
+in ALJ Appea1 No. ****, at 7 (October 8, 2008)(ALJ Decision—
+W.B.). The ALJ also held the beneficiary responsible to pay for
+the home health services on the grounds that he or his
+representative “knew or should have known that Medicare might
+not pay for” them. Id.
+
+ANALYSIS
+
+  1.   The beneficiary did not have to be in an acute medical
+       condition to qualify for home health services including
+       skilled services, if otherwise reasonable and necessary.
+
+The ALJ found that the beneficiary was homebound and suffered
+from paralysis due to post-polio syndrome with right-sided
+weakness and abnormality of gait, as well as other complicating
+conditions including diabetes, chronic renal failure,
+hypertension, and anemia. Id. at 6. The ALJ nevertheless
+states that the information that the beneficiary was homebound
+and had a physician certifying his need for home health services
+“alone does not militate in favor of the need for ‘skilled’
+nursing services.” Id. To the contrary, according to the ALJ,
+the beneficiary’s condition was “stable and not acute.” Id.
+
+The legal authorities quoted in the ALJ Decision do not indicate
+any requirement that a beneficiary be acutely, rather than
+chronically, ill, in order to receive otherwise covered home
+health services. The Social Security Act (Act) requires (as
+relevant here) that the beneficiary be homebound, need skilled
+nursing care on an intermittent basis or physical therapy, have
+a plan for such care established and reviewed by a physician,
+and receive the services while under the care of a physician.
+Act § 1835(a)(2)(A). Nothing in this or the other statutory
+provisions cited precludes a homebound chronically ill
+beneficiary from receiving needed intermittent skilled nursing
+care or physical therapy under the care of a physician who has
+established and is reviewing a plan for such care. The
+regulation on beneficiary “qualifications for coverage of
+services” tracks the statutory provision and contains no
+distinction between chronic and acute illness. 42 C.F.R.
+§ 409.42. It would seem clear, therefore, that the information
+to which the ALJ refers does indeed “militate in favor of”
+coverage for home health services.
+                                                                               3
+
+
+
+
+This conclusion is further reinforced by a regulatory provision
+on skilled services requirements which the ALJ failed to
+address. Section 409.44(b)(3) provides in relevant part as
+follows:
+
+    (ii)      The skilled nursing care provided to the beneficiary
+              must be reasonable within the context of the
+              beneficiary’s condition.
+    (iii)     The determination of whether skilled nursing care is
+              reasonable and necessary must be based solely upon the
+              beneficiary’s unique condition and individual needs,
+              without regard to whether the illness or injury is
+              acute, chronic, terminal or expected to last a long
+              time.
+
+(Emphasis added.) We conclude that the beneficiary was not
+ineligible for skilled nursing care merely because his medical
+condition was chronic, not acute or unstable. In the following
+sections, we address whether the particular skilled services
+provided were reasonable and necessary.
+
+    2.     Skilled nursing visits to administer intramuscular
+           injections of Lupron for W.B. are covered services.
+
+The ALJ’s discussion of the skilled nursing visits at one point
+correctly refers to Lupron injections while elsewhere dismissing
+the administration of Lupron as merely “pre-pouring medication”
+and therefore not requiring skilled services. ALJ Decision-W.B.
+at 7. Reports for each of the visits in which Lupron was
+administered records its injection during the visit “im,’ i.e.
+via intramuscular injection. Ex. 1, at 130 (“in the right
+deltoid” during the November 11, 2006, at 186 (“in the right
+deltoid” during February 22, 2006 visit), at 242 (“in the right
+upper arm” during June 14, 2006 visit), and at 263 (“in the
+right deltoid” during August 2, 2006 visit). The medical record
+makes abundantly clear that Lupron was not prepoured for later
+self-administration.1
+
+The ALJ’s confusion may have arisen from the fact that the
+visiting nurse also pre-poured other medications during each
+visit for later oral self-administration by the patient. Id.
+Similarly, the ALJ notes that the certifying physician ordered
+pre-pouring of medications, but overlooked that the physician
+1
+  The ALJ also omitted from her statement of conditions from which the
+beneficiary suffered in Finding of Fact 1 the diagnosis for which the Lupron
+injections were ordered, advanced prostate cancer.
+                                                                   4
+
+
+
+
+also ordered injection of a 22.5 mg Lupron via syringe
+intramuscularly once every 3 months. Compare ALJ Decision—W.B.
+at 7 with Ex. 1, at 300-01.
+
+Medicare regulations specifically list intramuscular injections
+as a service that qualifies as skilled nursing. 42 C.F.R.
+§ 409.33(b)(1). While self-injection may be an appropriate
+route for some patients with some medications, such as
+injectable insulin used by diabetic patients able to safely
+self-administer, nothing in the ALJ’s decision or in the medical
+records suggests that Lupron may be self-administered or that
+this patient was assessed as capable of self-administration of
+Lupron. On the contrary, a nursing assessment performed on
+April 19, 2006 expressly found that the beneficiary was “UNABLE
+to take injectable medication unless administered by someone
+else.” Ex. 1, at 211. Furthermore, the treating physician
+expressly ordered that the visiting nurse inject the patient.
+Ex. 1, at 300-10.
+
+The ALJ also makes a passing reference to the fact that Lupron
+injections were required “less frequently than 60 days” as part
+of characterizing the appellant’s argument. ALJ Decision—W.B.
+at 7. It is not clear whether the ALJ based any part of her
+rejection of coverage for the skilled nursing visits on the low
+frequency of administration, but she does include in legal
+authority a Medicare Manual provision interpreting the statutory
+provision limiting home health services to those provided on an
+“intermittent basis.” Id. at 4-6, citing Medicare Benefit
+Policy Manual (MBPM), Pub. 100-02, Ch. 7, § 30 and Section
+1835(a)(2)(A) of the Social Security Act. The manual provides
+as follows –
+
+     To meet the requirement for "intermittent" skilled nursing
+     care, a patient must have a medically predictable recurring
+     need for skilled nursing services. In most instances, this
+     definition will be met if a patient requires a skilled
+     nursing service at least once every 60 days. . . .
+
+     Since the need for "intermittent" skilled nursing care
+     makes the patient eligible for other covered home health
+     services, the intermediary should evaluate each claim
+     involving skilled nursing services furnished less
+     frequently than once every 60 days. In such cases, payment
+     should be made only if documentation justifies a recurring
+     need for reasonable, necessary, and medically predictable
+     skilled nursing services.
+                                                                     5
+
+
+
+
+                          *          *          *
+       There is a possibility that a physician may order a skilled
+       visit less frequently than once every 60 days for an
+       eligible beneficiary if there exists an extraordinary
+       circumstance of anticipated patient need that is documented
+       in the patient's plan of care in accordance with 42 CFR
+       409.43(b). A skilled visit frequency of less than once
+       every 60 days would only be covered if it is specifically
+       ordered by a physician in the patient's plan of care and is
+       considered to be a reasonable, necessary, and medically
+       predictable skilled need for the patient in the individual
+       circumstance.
+
+MBPM, Ch. 7, §30 (underlying in original; bold emphasis added).
+In this case, as noted, the physician’s orders specifically call
+for Lupron injections “q 3 months,” i.e., every 90 days. Ex. 1,
+at 300-01. The timing is thus medically predictable. We have
+already explained why the use of skilled nursing care to perform
+the injection was reasonable and necessary. Nothing in the
+record contradicts the treating physician’s assessment that the
+frequency of injection was also appropriate.
+
+We therefore conclude that the four skilled nursing visits are
+covered services.
+
+  3.    Eleven physical therapy visits for W.B. are covered
+        services.
+
+The visits remaining at issue took place between October 25,
+2005, and November 29, 2005. The appellant asserts that these
+physical therapy services were provided in relation to the
+installation of a new stair lift mechanism to assist the
+beneficiary with difficulty navigating stairs in his home due to
+fatigue, pain and abnormality of gait attributed to post-polio
+syndrome and unequal leg length. Request for Review (W.B. RR)
+Br. at 6. The appellant further asserts that the skilled
+therapist was needed to teach the beneficiary how to safely
+transfer to and from the lift. Id. In addition, the appellant
+states that the therapist was “in the process of designing an
+appropriate home exercise program” for the beneficiary, and
+cites section 409.44(c)(2)(iii) of the Medicare regulations as
+providing coverage for physical therapy services which are
+“necessary to perform a safe and effective maintenance program
+required in connection with a specific disease . . . .” W.B. RR
+Br. at 7, quoting 42 C.F.R. § 409.44(c)(2)(iii) and citing MBPM,
+Ch. 7, §§ 40.2.1 and 40.2.2. The appellant alleges the
+                                                                   6
+
+
+
+
+beneficiary improved measurably over the month as the therapist
+revised the exercise program. W.B. RR Br. at 7.
+
+The ALJ made factual findings that the treating physician’s
+signed plan of care for the beneficiary ordered “a therapeutic
+home exercise program,” that the services were provided during
+the time period as claimed, and that a “stair slide lift was
+installed and the physical therapist showed the beneficiary how
+to use it.” ALJ Decision at 2, citing Ex. 1. The ALJ reasoning
+for nevertheless rejecting coverage of these services is as
+follows:
+
+     The need for a skilled physical therapist to provide these
+     services is not justified by the mere fact that it was
+     provided.
+
+ALJ Decision at 7. This explanation, while certainly true, is
+wholly inadequate. The question before the ALJ was not whether
+the mere provision of services proved their reasonableness and
+necessity. The question before the ALJ was whether the evidence
+of record established that the services were reasonable and
+necessary. As the ALJ gave no indication that she considered
+the testimony and evidence presented on that question, we review
+the contents of the record as they bear on the relevant
+question.
+
+The record contains the physician’s order and plan of care for
+physical therapy during the relevant period calling for visits
+1-2 times per week. Ex. 1, at 300-1. The physician assessed
+the beneficiary’s rehabilitation potential as “fair.” Id. at
+300. An OASIS assessment form from October 19, 2005 notes that
+the patient’s home has stairs which “MUST be used by patient
+(e.g., to get to toileting, sleeping, eating areas),” as well as
+stairs to reach the other parts of the house and to get outside.
+Ex. 1, at 122. The assessment also records the patient having
+no pain that interferes “with activity or movement.” Id.
+However, the physical therapist’s (PT) note for an October 17,
+2005 visit describes chronic intermittent pain in the right hip
+addressed with rest and medication. Id. at 125. The note
+further noted pain reduction during use of right leg based on
+retraining for position change and weight-bearing activities and
+notes plan of care to “[e]stablish/upgrade home exercise
+program.” Id.
+
+Visits by the PT are documented for the following dates:
+                                                                  7
+
+
+
+
+   Ex. 1, at 119 October 25, 2005 – Reports that “stair use
+    training continues . . . in attempt to negotiate full
+    flight of steps to main level of home” and that exercise
+    and “gait training activities continue” with patient able
+    to negotiate four steps using bilateral railing but
+    displaying “guarding,” with “fatigue and pain noted in
+    ascending 4th step.”
+
+   Ex. 1, at 117 - October 27, 2005 – Reports review of the
+    home exercise program and observation of balance activities
+    to assess compliance, continuation of stair use training,
+    and documents “slow progress” in using stairs with railings
+    while stating that “use of stair glide type of lift is
+    recommended as yet.”
+
+   Ex. 1, at 115 - November 1, 2005 – Reports teaching patient
+    and caregivers the “correct use of stairlift recently
+    installed in home for safe transfer” and negotiation of
+    last two steps to first floor. Records range of motion and
+    gait activities with walker “continued,” and recommended
+    installation of grab bars to improve “safety and
+    independence.”
+
+   Ex. 1, at 113 - November 3, 2005 – Records that stair lift
+    transfers are now safe at both ends, while still
+    recommending grab bars on lower level. Reports an ongoing
+    assessment of “needs for access to outside.
+
+   Ex. 1, at 111 - November 8, 2005 – Reports review of stair
+    lift safety and discussion of fall prevention. “Hip pain
+    seems reduced with tolerance for walker use increasing.”
+
+   Ex. 1, at 109 – November 10, 2005 – Reports review of
+    correct stair lift use and fall prevention and notes
+    progress in “increasing activity levels,” with the lift
+    facilitating access to the first floor. Records need to
+    work on the 7-8 steps “still needed for access to outside.”
+
+   Ex. 1, at 107 - November 15, 2005 – Gait safety without
+    orthotic for leg length discrepancy reviewed to prevent
+    falls.
+
+   Ex. 1, at 105 – November 17, 2005 – Home exercise plan
+    “revised for active hip flexion and ext[ension] as
+    tolerated.” Notes reduction in right hip pain and that
+                                                                    8
+
+
+
+
+      exercise to lower extremities and standing activities
+      “provided as ordered.”
+
+     Ex. 1, at 103 – November 23, 2005 – Notes patient
+      improvement in negotiation of two stairs to first floor and
+      an ability for partial weight bearing on right leg without
+      pain.
+
+     Ex. 1, at 101 – November 25, 2005 – Review of activities to
+      weight-shift to right leg and of safety plan for standing
+      and transfer. Notes patient now able to ambulate
+      “distances needed for toileting and transfer to stairglide
+      from bedroom area,” and that use of active assisted range
+      of motion is “productive” on flexion but still limited
+      abduction of right hip.
+
+     Ex. 1, at 99 – November 29, 2005 – Notes that exercise and
+      gait activities continue “as ordered,” and that safe gait
+      activities and stair use were reviewed. Reports range of
+      motion “increased with SLR [straight leg raise] to 80
+      degrees and abduction to 15 degrees noted at right hip wo
+      [without] pain this visit.”
+
+The regulations provide that skilled services for rehabilitation
+include “[t]herapeutic exercises or activities” which must be
+done by or supervised by a qualified PT based on either the type
+of exercise or the patient’s condition in order to be done
+safely and effectively. 42 C.F.R. § 409.33(c)(2). In addition,
+“[g]ait evaluation and training” to restore function in a
+patient whose walking ability is impaired by a “skeletal
+abnormality” and “[r]ange of motion exercises” which are “part
+of the active treatment of a disease state” causing reduced
+mobility are also components of skilled services. 42 C.F.R.
+§ 409.33(c)(3). Furthermore, maintenance therapy that requires
+“the specialized knowledge and judgment of a qualified
+therapist” to design and set up after an initial evaluation with
+“periodic reassessment of the patient’s needs” constitutes
+skilled services. 42 C.F.R. § 409.33(c)(4). On the other hand,
+skilled services do not include general “supervision of
+exercises which have been taught to the patient; including the
+actual carrying out of maintenance programs,” such as
+“performance of the repetitive exercises required to maintain
+function” or improve gait, or passive range of motion exercises
+for paralyzed extremities “not related to a specific loss of
+function, or “assistive walking.” 42 C.F.R. § 409.33(d)(13).
+                                                                            9
+
+
+
+
+The medical records discussed above and other documents and
+testimony in the record support a conclusion that the PT was
+providing therapeutic exercises and activities that required
+skilled-level performance and/or supervision given the condition
+of this 75-year old with partial paralysis from post-polio
+syndrome, a skeletal abnormality of uneven leg length further
+interfering with his ability to ambulate, intermittent pain in
+his right hip, and other medical diagnoses which could affect
+strength and balance in performing exercises. The range of
+motion therapy provided was related to a specific loss of
+function, was not merely passive movement of paralyzed limbs,
+and indeed resulted in significant improvement in use of the
+right hip with benefits to the beneficiary’s ability to ambulate
+safely with his walker and to climb stairs.
+
+The QIC decision which was appealed to the ALJ stated that
+“[d]ocumentation supports that physical therapy services
+consisted of repetitive exercises and maintenance.” Ex. 8,
+at 450. The ALJ did not comment on this finding. The PT
+reports summarized above demonstrate that more than the
+performance of repetitive exercises occurred during the visits,
+which focused on progressive assessment and revision of the
+therapeutic exercise program to meet specific progress goals on
+stairlift use, negotiation of stairs, and improved safety in
+walker use to improve the beneficiary’s ability to perform
+activities of daily living and regain full access to his home.
+Nothing in the record indicates that 11 visits are an
+inappropriate level of services to produce the documented
+improvements and to design and set up implementation of a
+maintenance program for this particular beneficiary.2
+
+We therefore conclude that the eleven physical therapy visits
+were covered services.3
+
+
+
+2
+  We note that our decision addresses only the limited home health services
+for which the appellant continues to seek payment. We express no opinion on
+whether the original range of home health services provided from October 22,
+2006 through October 16, 2006 would have been covered.
+3
+  The ALJ’s conclusion that the beneficiary is liable for costs is plainly
+erroneous in light of her factual finding that no advance beneficiary notice
+of non-coverage was documented. Compare ALJ Decision at 3 with id. at 7.
+The decisions at earlier levels of review all agreed that the beneficiary was
+not informed that the services would not be covered and that the liability
+therefore remained with the provider. Ex. 8. Given that we conclude that
+the services are covered by Medicare, we need not further address liability
+here.
+                                                                          10
+
+
+
+
+     4. 48 physical therapy sessions and 97 home health aide
+     visits to D.W. were covered services.
+
+The appellant originally sought coverage for all home health
+services provided to D.W. from October 10, 2005 through
+December 3, 2006. At the ALJ hearing, however, the appellant
+withdrew its claim for 17 skilled nursing visits but maintained
+its claim as to 48 physical therapy sessions and 97 home health
+aide visits. ALJ Decision-D.W. at 1 n.1; Hearing CD. The ALJ
+found that the 38-year-old beneficiary suffered from multiple
+sclerosis, neurogenic bladder, osteoporosis, and dyspnea on
+exertion. Id. at 2. She further found that the beneficiary’s
+physician signed a certification for each relevant period to the
+effect that the beneficiary was confined to her home and in need
+of intermittent skilled nursing services. Id., citing Ex. 1, at
+321-44. The physician also signed home health care plans that
+provided for skilled physical therapy twice weekly (allowing
+substitution of telephone assessment when appropriate as
+“condition stabilizes”), a home health aide for personal care
+and activities of daily living (ADL) assistance, and a home
+exercise program. Id. The ALJ also noted that the nursing
+notes from the relevant period do not show “any acute changes in
+her condition,” any “wounds or decubitis ulcers”,4 or any falls
+in the preceding three months. Id., citing Ex. 1, at 290-98.
+
+The ALJ opined that the physician certification of the need for
+home health services indicates that the beneficiary “may have
+been homebound, but it does not militate in favor of the need
+for ‘skilled’ nursing services.” ALJ Decision-D.W. at 7. She
+further states that, “[t]o the contrary, the record when viewed
+in its totality indicates the Beneficiary’s condition was stable
+and not acute.” Id. As discussed earlier, a chronic rather
+than acute condition does not per se preclude coverage of
+skilled nursing services when medically reasonable and
+necessary, but in this instance the claim for skilled nursing
+was not before the ALJ so we need not consider it further. 42
+C.F.R. § 409.44(b)(3)(iii).
+
+
+
+4
+  We note that the ALJ appears to have ignored record evidence that the
+beneficiary did, during the relevant period, suffer from decubitis ulcer and
+a fungal infection, and needed management of a surgical wound resulting from
+the installation of a pump for continuous infusion of muscle relaxant). See,
+e.g., Ex. 1, at 325 (certification for period starting October 10, 2005), at
+332 (certification for period starting February 7, 2006), at 255 (PT note
+from October 6, 2005 noting decubitis ulcer), and at 318 (nurses note on
+continuing open surgical wound as of December 3, 2006).
+                                                                           11
+
+
+
+
+As to the physical therapy and home health aide services, the ALJ
+acknowledged that the appellant argued that the services may be
+covered even if they might be regarded as maintenance because
+the condition of the beneficiary was such that they could only
+be “safely and effectively performed” by a skilled therapist,
+pursuant to 42 C.F.R. § 409.44(c)(2)(iii).5 The ALJ noted the
+contractor’s argument that the “amount, duration, and frequency
+of treatment has to be reasonable given the totality of the
+circumstances,” and concluded that “a home exercise program
+could have been created and implemented by the family . . . .”
+ALJ Decision-D.W. at 7. As to physical therapy, the ALJ
+concluded that the stated goal that the beneficiary “reach her
+maximum level of independence was not reasonable given the
+progressively deteriorating nature of MS.” Id. If neither
+skilled nursing or skilled physical therapy was reasonable and
+necessary, then the provision of home health aide services alone
+could not be covered because these are “dependent” services. 42
+C.F.R. § 409.45(a).
+
+The only evidence that the ALJ cited for her conclusion that the
+family could have “created and implemented” a home exercise
+program is a nursing note from December 24, 2005 which indicates
+that the beneficiary’s father was “very involved” in her care,
+and knowledgeable about her medications and disease process.
+ALJ Decision-D.W. at 7, citing Ex. 1, at 119. The indication of
+active parental involvement does not establish whether either
+parent was able, physically or otherwise, to undertake all
+needed activities without skilled therapeutic involvement.
+Elsewhere, the nurses record that the parents are “forgetful.”
+Ex. 1, at 283. The PT’s notes indicate an ongoing effort to
+train the patient and caregivers in safe transfers, safe use of
+equipment,6 increased balance and bed mobility, home exercises,
+and performance of passive range of motion activities. See,
+e.g., Ex. 1, at 222. The record suggests, however, that the
+involvement of a skilled professional remained necessary because
+of complicating conditions which the ALJ failed to address.
+
+The appellant points out, and the medical record substantiates,
+that, in addition to multiple sclerosis, the beneficiary
+suffered from severe lordosis (spinal curvature), extreme
+hypertonicity, and a rare inherited connective tissue disorder
+known as Ehlers-Danlos Syndrome (EDS). D.W. RR Br. at 4-5; see,
+e.g., Exs. 10, at 513, and 1, at 254, 325. The appellant’s
+5
+  The ALJ misstates the citation as 42 C.F.R. § 409.44(c)(3).
+6
+  The beneficiary needed a two-person assist and a Hoyer lift for transfers.
+See, e.g., Ex. 1, at 238.
+                                                               12
+
+
+
+
+counsel read into the record at the hearing information about
+EDS from Mercks’ Manual. Hearing CD. Among the symptoms common
+to EDS patients are fragility (the attending physician noted the
+beneficiary was very fragile, at Ex. 10, at 513), joint
+hypermobility with potential for joint dislocations, easily torn
+or bruised skin, and abnormal curvature of feet and spine (in
+addition to severe lordosis, the beneficiary had an acquired
+ankle-foot defect recorded at Ex. 1, at 325). See Hearing CD.
+The beneficiary reported intermittent pain at levels ranging
+from 5 to 10 on a 10-point scale. See, e.g., Ex. 1, at 297
+(August 2006 OASIS report).
+
+Regulations provide that a “condition that does not ordinarily
+require skilled services may require them because of special
+medical complications.” 42 C.F.R. § 409.32(b); see also 42
+C.F.R. § 409.44(c)(2)(ii)(if services not complex/sophisticated,
+beneficiary’s condition “must be such that the services required
+can safely and effectively be performed only by a qualified”
+PT). CMS policy further explains that skilled therapy services
+are covered even when the services themselves may not be highly
+complex or sophisticated, “where there is clear documentation
+that, because of special medical complications (e.g.,
+susceptible to pathological bone fractures), the skills of a
+therapist are need to provide services which do not need the
+skills of a therapist.” MBPM, Ch. 7, § 40.2.2. Services must
+be needed because the beneficiary’s condition is expected to
+“improve materially,” or to establish a “safe and effective
+maintenance program” for a specific disease or “the skills of a
+therapist” are necessary to perform a safe and effective
+maintenance program. 42 C.F.R. § 409.44(c)(iii).
+
+The PT here provided direct services by movement and massage to
+reduce pain and spasms, with the PT notes reflecting that the
+beneficiary improved after PT visits. See, e.g., Ex. 1, at 324
+and 327 (physician certification notes patient “continues to
+benefit from PT for pain management and Rom exercises”), at 209
+(PT note of September 11, 2006 that patient “reports feeling
+much better with rx”). The appellant agreed that setting up a
+maintenance program for the home health aides to take over was a
+goal, but reported that this goals was frustrated because the
+home health aides were afraid or unwilling to touch her, failed
+to handle her correctly, and either left or were fired for those
+reasons. Hearing CD; D.W. RR Br. at 6; Ex. 1, at 333 (physician
+certification of April 8, 2006), at 133 (PT notes of February 7,
+2006), at 144 (PT notes of March 9, 2006), at 148 (PT notes of
+March 20, 2006).
+                                                                13
+
+
+
+
+We are persuaded that the totality of circumstances surrounding
+the beneficiary’s complicated condition justifies her
+physician’s conclusion that she required skilled PT support for
+maintenance therapy. The contractor’s assertion, adopted by the
+ALJ, that all of the necessary services could have been provided
+by the parents after training is belied by the record evidence
+that multiple home health aides were unable to learn to provide
+safe and effective treatment with the required frequency.
+
+As far as the ALJ’s conclusion that PT services were not covered
+because the goal was not reasonable, this conclusion is not
+factually or legally sound. The record makes clear that there
+was no prospect of the beneficiary recovering sufficiently to be
+independent in the sense of no longer needing total assistance
+with ADLs. The cited goal, however, was only “her maximum level
+of independence.” ALJ Decision-D.W. at 7 (emphasis added). The
+physician noted physical therapy goals of balance training and
+bed mobility, and assessments for posture, strength,
+coordination, endurance and tolerance to activity and indicated
+that the beneficiary’s rehabilitation potential was “fair.” Ex.
+1, at 338. Within this context, it is not unreasonable for the
+PT to aim to maximize the beneficiary’s capacity to manage her
+body even within the context of a progressive and unpredictable
+disease process. Moreover, this goal was only one of several
+set for the PT process, including decreasing pain and tension in
+neck and low back area and ensuring that the patient and
+caregivers become safe in performing transfers, which are
+plainly reasonable. Finally, the ALJ identified no legal
+requirement that a beneficiary must reasonably be expected to
+achieve independence in order for otherwise reasonable and
+necessary PT services to be covered, and such a requirement
+would be inconsistent with the regulatory provision that the
+“restoration potential of a patient is not the deciding factor
+in determining whether skilled services are needed” and that,
+even when “medical improvement is not possible, a patient may
+need skilled services to prevent further deterioration or
+preserve current capabilities.” 42 C.F.R. § 409.32(c). The ALJ
+gave no other reason, and we find none, for determining that the
+beneficiary was not in need of skilled PT services during the
+period at issue.
+
+Given that conclusion, we find nothing in the ALJ Decision or
+the record supports a finding that the number of PT visits
+provided over the months at issue was not reasonable and
+                                                                           14
+
+
+
+
+necessary.    We therefore conclude that the 48 PT visits are
+covered.
+
+As noted, home health aide services are covered only when and
+for as long as the beneficiary needs skilled home health
+services, including physical therapy. 42 C.F.R. § 409.45(a).
+Since we have reversed the ALJ’s conclusion that the
+beneficiary’s physical therapy services were not reasonable and
+necessary, the home health aide visits now meet that condition.
+The services provided by the home health aides unquestionably
+fall within those contemplated by regulation, including personal
+care for an individual requiring total assist for all ADLs,
+assistance with transfers and bed mobility, providing support to
+skilled therapy where able to do so safely and effectively, all
+within physician’s orders. 42 C.F.R. § 409.45(b). No basis has
+been demonstrated to conclude that the number of visits over the
+months at issue was not reasonable and necessary. We therefore
+conclude that the 97 home health aide visits are covered.7
+
+CONCLUSION
+
+The decision of the Medicare Appeals Council in both cases is
+fully favorable to the appellant for the reasons explained
+above.
+
+
+
+                                          MEDICARE APPEALS COUNCIL
+
+
+
+                                          /s/ Leslie A. Sussan, Member
+                                          Departmental Appeals Board
+
+
+
+                                          /s/Constance B. Tobias, Chair
+                                          Departmental Appeals Board
+
+Date: May 22, 2009
+
+
+7
+  In this case, as with the preceding one, the ALJ wrongly concluded that the
+beneficiary is liable for costs despite finding that no advance beneficiary
+notice in the record. ALJ Decision-D.W. at 3, 8. Given that we conclude
+that the services are covered, we again need not address liability.
+

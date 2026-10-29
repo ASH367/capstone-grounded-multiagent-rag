@@ -1,0 +1,363 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-11-1869
+
+
+In the case of                            Claim for
+
+
+Commissioner, Connecticut                 Hospital Insurance Benefits
+Department of Social Services             (Part A)
+(Appellant)
+
+
+****                                      ****
+(Beneficiary)                             (HIC Number)
+
+
+NHIC, Corp.                               ****
+(Contractor)                              (ALJ Appeal Number)
+
+
+
+The Administrative Law Judge (ALJ) issued a decision dated April
+21, 2011, which concerned home health services provided to the
+beneficiary on the dates of service from October 3, 2007 through
+March 28, 2008, and from May 28, 2008 through September 24,
+2008. The ALJ denied coverage for the services under section
+1862(a)(1) of the Social Security Act (Act), finding that the
+nursing services did not require the services of skilled nursing
+personnel.1 The ALJ held the provider liable for the non-covered
+services prior to June 20, 2008, and the beneficiary liable for
+the non-covered services provided on and after June 20, 2008.
+The appellant, a state Medicaid agency with appeal rights under
+the provisions of 42 C.F.R. § 405.908, through its appointed
+representative, has asked the Medicare Appeals Council (Council)
+(We) to review the ALJ’s action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+
+1
+  NHIC allowed coverage for the home health services provided between May 28,
+2008 and June 20, 2008. This determination remained in effect through the
+ALJ proceedings. Therefore, the dates of service in dispute before the ALJ,
+and now in dispute before the Council, are October 3, 2007 to March 24, 2008
+and the dates of service after June 20, 2008, through September 24, 2008.
+                                                                            2
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+The appellant’s request for review and brief in support of the
+request are entered into the record as Exhibit (Exh.) MAC-1.
+
+The Council finds that the beneficiary received medically
+reasonable and necessary skilled nursing services during the
+dates of service in dispute. The Council reverses the ALJ’s
+decision.
+
+                                 BACKGROUND
+
+New England Home Care provided home health services (nursing
+visits) to the beneficiary, who has diabetes and is legally
+blind. This case began with a claim for services furnished from
+August 6, 2007 to March 28, 2008 and May 28, 2008 to September
+24, 2008. The services furnished before October 1, 2007 were
+considered to be part of the Third Party Liability (TPL)
+demonstration project and therefore outside the Medicare claims
+appeals process.2 On redetermination, the contractor informed
+the appellant, Commissioner, Connecticut Department of Social
+Services, that the services provided before October 1, 2007 were
+not included in its review. Exh. 3 at 1. The Qualified
+Independent Contractor (QIC) dismissed the appellant’s request
+for reconsideration as to the dates of service before October 1,
+2007. Exh. 4 at 1-2.
+
+The contractor issued a partially favorable decision on the
+remaining dates of service, and allowed coverage for the home
+health nursing visits provided from May 28, 2008 to June 20,
+2008 as medically reasonable and necessary “for multiple
+adjustments of the new Humalog insulin and for discontinuing all
+of the oral hypoglycemic medications.” Exh. 3 at 2. The
+contractor concluded that the Home Health Advanced Beneficiary
+Notice (HHABN), signed June 20, 2008, was valid and, therefore,
+
+2
+  Under the TPL demonstration project, the Centers for Medicare and Medicaid
+Services (CMS) and the State of Connecticut agreed to use a sampling approach
+to determine Medicare’s share of the cost of home health service claims for
+dual eligible beneficiaries that were originally submitted to and paid for by
+the state’s Medicaid agency for fiscal years 2001 through 2007. See CMS
+Active Project Report, Demonstration of Home Health Agencies Settlement for
+Dual Eligibles for the State of Connecticut, Project Number 95-W-00086/02.
+The Active Projects Report is available online at
+http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-
+and-Reports/ActiveProjectReports/index.html?redirect=/ActiveProjectReports.
+                                                                   3
+found the beneficiary liable for the non-covered services
+provided after that date, and held the provider liable for the
+non-covered services that predated the HHABN. Id. The QIC
+upheld the contractor’s partially favorable decision, because
+“no skilled services [were] provided nor were [sic] there
+documentation submitted supporting the medical necessity of
+these services.” Exh. 4 at 3. However, the QIC found the HHABN
+invalid because it did not identify the beneficiary’s health
+insurance claim number and, therefore, held the provider liable
+for all of the non-covered services. Id. at 3 (reverse side).
+
+The ALJ upheld the QIC’s decision on coverage for all dates of
+service remaining in dispute, leaving in effect the earlier
+allowance of coverage for the dates of service May 28, 2008 to
+June 20, 2008. The ALJ concluded that “the record in this case
+fails to establish the beneficiary’s condition necessitated
+skilled nursing services during the dates of service at issue.”
+Id. at 5. The ALJ also found that “skilled nursing was not
+reasonable and necessary for case management.” Id. at 6. On
+the liability issue, the ALJ found the HHABN valid, concluding
+that the beneficiary was notified that Medicare would not cover
+the services furnished from June 20, 2008, forward. The ALJ
+held the provider financially liable for the non-covered
+services provided before June 20, 2008, and the beneficiary
+liable for the denied charges for the services furnished on and
+after that date. Id.
+
+                           AUTHORITIES
+
+To qualify for Medicare coverage of home health services, a
+beneficiary must be confined to her home and need skilled
+nursing care on an intermittent basis or physical or speech
+therapy services or have a continuing need for occupational
+therapy. See 42 C.F.R. § 409.42; see also Medicare Benefit
+Policy Manual (MBPM), IOM CMS Pub. 100-02, Ch. 7, § 30. For
+nursing services to be covered, the services must require the
+skills of a registered nurse, or a licensed practical
+(vocational) nurse under the supervision of a registered nurse.
+Conversely, if a service can be safely and effectively performed
+(or self-administered) by a non-medical person, without the
+direct supervision of a nurse, the service cannot be regarded as
+a skilled nursing service. A service is not considered a
+skilled nursing service merely because it is performed by a
+nurse. See 42 C.F.R. § 409.44(b); MBPM, Ch. 7, § 40.1.
+                                                                   4
+Skilled nursing care must be reasonable and necessary for the
+treatment of the illness or injury. 42 C.F.R. § 409.44(b)(3).
+To be considered as such, the services must be consistent with
+the nature and severity of the beneficiary’s illness or injury,
+his or her particular medical needs, and accepted standards of
+medical and nursing practice. They must also be reasonable
+within the context of the beneficiary’s unique condition and
+individual needs, without regard to whether the illness or
+injury is acute, chronic, terminal, or expected to last a long
+time. 42 C.F.R. §§ 409.44(b)(3)(i)-(iv). The MBPM provides
+guidance using language similar to that in the regulations:
+
+      The skilled nursing service must be reasonable and
+      necessary to the diagnosis and treatment of the
+      patient’s illness or injury within the context of the
+      patient’s unique medical condition. To be considered
+      reasonable and necessary for the diagnosis or
+      treatment of the patient’s illness or injury, the
+      services must be consistent with the nature and
+      severity of the illness or injury, the patient’s
+      particular medical needs, and accepted standards of
+      medical and nursing practice. A patient’s overall
+      medical condition is a valid factor in deciding
+      whether skilled services are needed. A patient’s
+      diagnosis should never be the sole factor in deciding
+      that a service the patient needs is either skilled or
+      not skilled.
+
+MBPM, Ch. 7, § 40.1.1.   The MBPM goes on to state:
+
+      The determination of whether a patient needs skilled
+      nursing care should be based solely upon the patient’s
+      unique condition and individual needs, without regard
+      to whether the illness or injury is acute, chronic,
+      terminal, or expected to extend over a long period of
+      time. In addition, skilled care may, depending on the
+      unique condition of the patient, continue to be
+      necessary for patients whose condition is stable.
+
+Id.
+
+The regulations governing home health care services in 42 C.F.R.
+Part 409, Subpart E, refer to the regulations in Subpart D,
+which address the requirements for coverage of post-hospital
+skilled nursing facility care. The regulations within Subpart D
+include the criteria for determining whether a service is
+                                                                   5
+skilled and examples of the types of services that are
+considered skilled. See 42 C.F.R. §§ 409.42(c), 409.44(b),
+409.32, 409.33.
+
+The restoration potential of a patient is not the deciding
+factor in determining whether skilled services are needed. Even
+if full recovery or medical improvement is not possible, a
+patient may need skilled services to prevent further
+deterioration or preserve current capabilities. 42 C.F.R.
+§ 409.32(c). Overall management and evaluation of a care plan
+may constitute skilled nursing services when, because of a
+patient’s physical or mental condition, those activities require
+the involvement of technical or professional personnel in order
+to meet the patient’s needs, promote recovery, and ensure
+medical safety. 42 C.F.R. § 409.33(a)(1). Also, observation
+and assessment may constitute skilled services when the skills
+of a technical or professional person are required to identify
+and evaluate the patient’s need for modification of treatment or
+for additional medical procedures until his or condition is
+stabilized. 42 C.F.R. § 409.33(a)(2); see also id. § 409.33(b)
+(providing examples of services that qualify as skilled nursing
+services) and MBPM, Ch. 7, § 40.1.2.1.
+
+Skilled services may also include teaching and training
+activities. The test of whether teaching and training
+activities are skilled relates to the skill required to teach
+and not to the nature of what is being taught. MBPM, Ch. 7,
+§ 40.1.2.3. Teaching and training activities are reasonable and
+necessary where they are appropriate to the patient’s functional
+loss, illness, or injury. See id.
+
+                           DISCUSSION
+
+The dates of service remaining in dispute before the Council are
+October 3, 2007 through March 28, 2008, and the dates after June
+20, 2008 through September 24, 2008. Having considered the
+evidentiary record and the decisional history of this case, the
+Council concludes that the services furnished during these dates
+of service were medically reasonable and necessary skilled
+nursing services and, accordingly, are covered by Medicare. The
+Council therefore reverses the ALJ’s decision.
+
+The rationale given for denying coverage at the redetermination,
+reconsideration and ALJ levels of review were consistent and
+similar. First, the reviewers found that the services were not
+skilled in nature because the nurses performed general
+                                                                   6
+assessments, and provided repetitive teaching of diabetes
+management, pre-filled insulin syringes, and pre-poured
+medication. Second, they agreed that the records did not
+demonstrate significant changes in clinical status, condition,
+medication, or treatment plan to support ongoing home health
+skilled nursing services. See Exh. 3 at 2 (redetermination);
+Exh. 4 at 3 (reconsideration). The ALJ, too, upheld the denial
+on similar grounds, noting that the beneficiary’s condition was
+“generally” at “baseline” and the record did not document
+“exacerbations of the beneficiary’s conditions which would
+require skilled nursing services.” Dec. at 5-6. Nor did the
+record indicate that the beneficiary “suffered from significant
+complications or acute episodes necessitating continued, skilled
+observation during the period at issue.” Id. at 6.
+
+The services provided during the home health visits did include
+checking the beneficiary’s blood sugar levels, cardiovascular
+status, and vital signs, and pre-filling of medications – which
+the prior reviewers determined did not require skilled nurses to
+perform. See, e.g., Dec. at 3 (findings of fact). However, in
+the Council’s view, the ALJ’s decision emphasized the nature of
+some of the services themselves, which the ALJ and the
+contractors determined did not require skilled personnel,
+without adequate consideration of the context of the
+beneficiary’s medical status. Moreover, that the beneficiary
+has a chronic medical condition, the principal diagnosis being
+diabetes, which the ALJ summarily stated was stable or at
+baseline (or without significant complications, acute changes),
+does not rule out consideration for coverage of the home health
+services as reasonable and necessary skilled nursing services.
+And, having fully considered the evidence, the Council does not
+agree with the ALJ that the beneficiary’s medical status
+appeared stable, without significant complications or changes.
+We conclude that the weight of the medical evidence indicates
+otherwise. The beneficiary was provided skilled nursing visits
+necessary for the observation and assessment of a changing
+medical condition, as well as overall management of the
+beneficiary’s care.
+The 72-year-old beneficiary’s principal diagnosis is diabetes.
+Her medical conditions also include hypertension,
+hypercholesterolemia, and legal blindness. See, e.g., Exh. 1 at
+4. As the appellant acknowledges in its brief, the beneficiary
+tested blood sugar levels on her own. Exh. MAC-1 at 5.
+However, the records dated within the first of the two periods
+at issue (October 3, 2007 to March 24, 2008) include numerous
+indications of fluctuating blood sugar levels which the nurses
+                                                                   7
+monitored and assessed. On multiple occasions during this
+period, the nurses had the beneficiary see her doctor with her
+blood sugar logs or sent logs evidencing fluctuating blood sugar
+levels to the beneficiary’s endocrinologist. As a result of
+these actions taken by the nurses, the beneficiary’s insulin
+dosage was adjusted numerous times during this period. See,
+e.g., Exh. 1 at 8, 9 (November 2007, two increases in dosage of
+Lantus, subcutaneous solution), 16 (another increase in dosage,
+December 2007). In fact, once in late November 2007, the
+beneficiary went to the emergency room with hyperglycemia,
+indicating that the beneficiary’s medical condition was not
+stable and did present complications. Id. at 15.
+
+Moreover, the records dated within this period include numerous
+documented instances of changes in the beneficiary’s medication
+schedule, as well as problems related to compliance with taking
+diabetic medications (to include Starlix) as directed, and
+reports of difficulty using a talking glucometer, all for which
+the nurses provided ongoing monitoring, assessment, and
+instructions to take the medications as directed. See, e.g.,
+id. at 9, 10, 21, 25, 59, 67, 75, 232. The instructions the
+nurses provided to the beneficiary were appropriate for the
+beneficiary’s medical condition, in particular, for the
+management of diabetes. See MBPM, Ch. 7, § 40.1.2.3.
+
+As for the second period remaining in dispute (dates after June
+20, 2008, through September 24, 2008), the nurses continued to
+observe, assess, and manage the beneficiary’s medical condition,
+particularly for compliance with new diabetic medication
+(Humalog insulin) in light of her history of medication
+compliance issues and fluctuating blood sugar levels. See Exh.
+1 at 36, 37; and 412 (noting that the beneficiary “finds odd
+reasons to block what the doctors would like to do”) and 446
+(noting that the beneficiary is “forgetful” and defensive about
+compliance with regimen). See also generally id. at 108-110,
+387-447. The nurses’ visit notes for this period also indicate
+that the nurses assessed the beneficiary’s reports of changes in
+her urine. The nurses contacted the beneficiary’s doctor to
+obtain permission to take a urine sample for analysis. The
+beneficiary was given Cipro for a urinary tract infection, and
+the nurses thereafter continued to monitor her for compliance
+with medication for this infection. See id. at 417, 421, 425.
+
+Based on the foregoing, the Council concludes that the
+beneficiary was provided medically reasonable and necessary home
+health skilled nursing services. Inasmuch as the Council has
+                                                                   8
+reversed the ALJ’s denial of coverage for all dates remaining in
+dispute, the Council need not address the issues related to the
+liability question, including the prior findings as to validity
+of the HHABN furnished to the beneficiary.
+
+                            DECISION
+
+The Council reverses the ALJ’s decision in accordance with the
+foregoing discussion.
+
+Medicare coverage is available for the home health skilled
+nursing services furnished to the beneficiary from October 3,
+2007 to March 28, 2008 and the dates of service after June 20,
+2008 through September 24, 2008.
+
+
+                              MEDICARE APPEALS COUNCIL
+
+
+
+                              /s/ Susan S. Yim
+                              Administrative Appeals Judge
+
+
+
+                              /s/ Constance B. Tobias, Chair
+                              Departmental Appeals Board
+
+
+Date:   August 23, 2013
+

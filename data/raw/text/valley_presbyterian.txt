@@ -1,0 +1,515 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+
+
+In the case of                        Claim for
+
+                                      Hospital Insurance Benefits
+Valley Presbyterian Hospital          (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+United Government Services            ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+January 30, 2009, concerning an overpayment assessed against the
+appellant for inpatient rehabilitation facility (IRF) services
+provided to the beneficiary from July 17, 2003, through July 24,
+2003. The ALJ determined that the services at issue were not
+reasonable and necessary under section 1862(a)(1) of the Social
+Security Act (Act), and therefore the overpayment was valid.
+The ALJ further concluded that the appellant remained
+responsible for the non-covered charges. The appellant has
+asked the Medicare Appeals Council (Council) to review this
+action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+The Council has considered the record before the ALJ, as well as
+the appellant’s request for review dated March 30, 2009, which
+is entered into the record as Exhibit (Exh.) MAC-1. With the
+request for review, the appellant submitted additional
+documentation. However, by letter dated April 30, 2009, the
+appellant informed the Council that “none of the attachments
+                                                                   2
+included with Appellant’s referral to the MAC consisted of new
+evidence because they were already a part of the beneficiary’s
+administrative record at the ALJ hearing.” Thus, the Council
+excludes the submissions as duplicative of documents already
+contained in the record before the ALJ.
+
+As set forth below, the Council reverses the ALJ’s decision.
+Specifically, the Council agrees with the ALJ’s finding that the
+contractor’s decision to re-open the claim is final and not
+subject to review. However, the Council reverses the ALJ’s
+conclusion regarding Medicare coverage and payment for the IRF
+services at issue. The Council finds that the services were
+medically reasonable and necessary in accordance with section
+1862(a)(1) of the Act and that the overpayment assessed was not
+valid. The appellant is entitled to payment for the IRF
+services provided to the beneficiary from July 17, 2003, through
+July 24, 2003.
+
+                BACKGROUND AND PROCEDURAL HISTORY
+
+The appellant billed Medicare for IRF services furnished to the
+beneficiary from July 17, 2003, through July 24, 2003. Exh. 3
+at 2. The Medicare intermediary initially paid the claim,
+however, on July 28, 2006, the Recovery Audit Contractor (RAC)
+reopened and reviewed the claim. Exh. 4 at 1. On October 3,
+2006, the RAC issued a notice stating that the Medicare payment
+was in error, resulting in an overpayment for the services. Id.
+at 3. The appellant requested a contractor redetermination, who
+found that Medicare did not cover the services at issue because
+“it was not necessary to furnish the care on an inpatient
+hospital basis rather than a less intensive facility” and upheld
+the overpayment. Exh. 7 at 3.
+
+After reviewing the record, the Qualified Independent Contractor
+(QIC) also concluded that Medicare did not cover the services at
+issue because the beneficiary’s “nursing and rehabilitation
+needs could have been safely managed in a setting with a lower
+level of intensity than an IRF.” Exh. 9 at 4. The QIC also
+determined that the appellant’s responsibility for the
+overpayment could not be waived because it was not “without
+fault.” Id.
+
+On February 20, 2008, the appellant requested an ALJ hearing.
+Exh. 10. On March 4, 2008, the ALJ issued a Notice of Hearing.
+Exh. 11. The ALJ subsequently retained an independent medical
+expert, to review the medical documentation of record and
+                                                                   3
+provide expert opinion as answers to interrogatories. Exh. 15.
+On March 18, 2008, the medical expert answered the
+interrogatories and included a detailed analysis, opining that
+the services provided were medically reasonable and necessary.
+Exh. 16.
+
+On April 10, 2008, the ALJ conducted a telephone hearing in
+which the appellant’s representative attorneys participated. ALJ
+Hearing CD. The hearing largely focused on the issue of
+reopening. The issue of medical reasonableness and necessity
+was briefly discussed, where the appellant relied upon the
+opinion of the ALJ’s medical expert. Id. On January 30, 2009,
+the ALJ issued an unfavorable determination to the appellant.
+In that decision, the ALJ found that under “42 C.F.R. § 405.980,
+the contractor’s decision on whether or not to re-open is final
+and not subject to appeal” and therefore is “not an issue for
+review by the ALJ.” Dec. at 9. Further, the ALJ found that the
+“[b]eneficiary did not require rehabilitative care in a hospital
+rather than in a SNF or on an outpatient basis.” Id. at 8.
+Therefore, the ALJ denied Medicare coverage finding that the
+services at issue were “not medically reasonable and necessary,”
+thereby upholding the overpayment determination. Id. at 8-9.
+
+In its request for review, the appellant set forth two main
+assertions as to why the overpayment should be termed invalid:
+
+     1. The ALJ has jurisdiction to review the RAC’s
+        compliance with timeframe and good cause
+        requirements for reopening and revision of the
+        claims at issue, as set forth in 42 C.F.R. §§
+        405.980, 405.986 and 405.841
+
+     2. The record establishes that Beneficiary’s inpatient
+        admission to a rehabilitation hospital was medically
+        reasonable and necessary in accordance with Medicare
+        Benefit Policy Manual (“MBPM”), Internet-Only Manual
+        Publication 100-2, Ch. 1, §110, et. seq.
+
+Exh. MAC-1 at 3, 5.
+
+As discussed below, the ALJ correctly determined that he was
+without jurisdiction to review the determination to reopen.
+However, the Council agrees with the appellant’s contention that
+the services at issue were medically reasonable and necessary in
+accordance with Medicare regulations.
+                                                                   4
+
+
+
+                  APPLICABLE LEGAL AUTHORITIES
+
+Contractor Reopening
+
+The regulation at 42 C.F.R. § 405.980 provides a stratified
+structure for reopening. A CMS contractor may reopen an initial
+determination or redetermination. 42 C.F.R. § 405.980(a)(1)(i).
+An ALJ’s or the Council’s authority to reopen is limited,
+respectively, to a revision of ALJ hearing decisions and hearing
+and Council decisions (by the Council). 42 C.F.R.
+§§ 405.980(a)(1)(iii) and (iv). Notably, neither the ALJ, nor
+the Council, has any authority to reopen or revise an initial
+determination or redetermination.
+
+The regulation at 42 C.F.R. § 405.926 sets forth actions that
+are not initial determinations and not appealable. Included
+among them is a “contractor’s . . . decision to reopen or not
+reopen an initial determination.” 42 C.F.R. § 405.926(l). This
+lack of jurisdiction extends to whether the contractor met good
+cause standards for reopening in 42 C.F.R. § 405.980(b)(2). The
+regulation at 42 C.F.R. § 405.980(a)(5) further states that
+“[t]he contractor’s, QIC’s, ALJ’s, or MAC’s decision on whether
+to reopen is final and not subject to appeal.”
+
+The regulation at 42 C.F.R. § 405.980(b) establishes the time
+frame for reopening initial determinations and redeterminations
+initiated by a contractor. Section 405.980 provides, in part:
+
+     A contractor may reopen and revise its initial
+     determination or redetermination on its own motion -
+
+          (1) Within 1 year from the date of the
+          initial determination or redetermination for
+          any reason.
+
+          (2) Within 4 years from the date of the
+          initial determination or redetermination for
+          good cause as defined in § 405.986.
+
+          (3) At any time if there exists reliable
+          evidence as defined in § 405.902 that the
+                                                                        5
+            initial determination was procured by fraud
+            or similar fault as defined in § 405.902.1
+
+The regulation addressing good cause for reopening,
+42 C.F.R. § 405.986, provides, in part:
+
+      (a)   Good cause may be established when –
+
+            (1)   There is new and material evidence that –
+
+                  (i)    Was not available or known at the time
+                         of the determination or decision; and
+
+                  (ii)    May result in a different conclusion;
+                         or
+
+            (2)   The evidence that was considered in making
+                  the determination or decision clearly shows
+                  on its face that an obvious error was made
+                  at the time of the determination or
+                  decision. . . .
+
+When conducting a post-payment review of claims, contractors
+must adhere to reopening rules. CMS Manual System, Medicare
+Program Integrity (MPIM), CMS Pub. 100-08, Ch. 3, § 3.6.B.
+However, neither the ALJ, nor the Council, has jurisdiction to
+review that aspect of the contractor’s action. A contractor’s
+decision on whether to reopen is final and not subject to
+appeal. 42 C.F.R. §§ 405.926(l); 405.980(a)(5). This
+restriction extends regardless of whether the contractor met the
+good cause standards for reopening set forth in 42 C.F.R.
+§ 405.980(b)(2). CMS has expressly stated that the enforcement
+mechanism for good cause standards lies within its evaluation
+and monitoring of contractor performance, not the administrative
+appeals process. Interim Final Rule with Comment Period, 70
+Fed. Reg. 11,420, 11,453 (Mar. 8, 2005).
+
+Inpatient Rehabilitation Facility
+
+The Centers for Medicare & Medicaid Services (CMS) Ruling 85-2
+and the Medicare Benefit Policy Manual (MBPM), (CMS Pub. 100-
+
+1
+   “Similar fault” is defined in 42 C.F.R. § 405.902, in part, as “to
+obtain, retain, convert, seek, or receive Medicare funds to which a
+person knows or should reasonably be expected to know that he or she
+or another for whose benefit Medicare funds are obtained, retained,
+converted, sought, or received is not legally entitled.”
+                                                                   6
+02), Chapter 1, section 110, establish two basic requirements
+for coverage of IRF services:
+
+  1. The services must be reasonable and necessary (in terms of
+     efficacy, duration, frequency, and amount) for the
+     treatment of the patient’s condition; and
+
+  2. It must be reasonable and necessary to furnish the care on
+     an inpatient hospital basis, rather than in a less
+     intensive facility such as a SNF, or on an outpatient
+     basis.
+
+Medicare recognizes that determinations of whether hospital
+stays for rehabilitation services are reasonable and necessary
+must be based upon an assessment of each beneficiary’s
+individual care needs. CMS applies eight screening criteria,
+originally discussed in CMS Ruling 85-2, and incorporated in
+MBPM, Ch. 1, section 110, as a starting point for determining
+whether the services provided were reasonable and necessary.
+Specifically, the eight criteria establish efficacy, duration,
+frequency and amount. An analysis of the two “basic
+requirements” is not triggered after the beneficiary fails to
+meet the standards of CMS Ruling 85-2; alternatively, the first
+of the two “basic requirements” is met if the beneficiary’s care
+meets the eight criteria.
+
+Inpatient rehabilitation services are reasonable and necessary
+when an individual’s physical condition requires at least all of
+the following: (1) the 24-hour availability of a physician with
+special training or experience in the field of rehabilitation;
+(2) the 24-hour availability of a registered nurse with special
+training or experience in rehabilitation; (3) relatively intense
+level of rehabilitation services, which, in general, means at
+least 3 hours a day of physical and/or occupational therapy; and
+(4) a multidisciplinary team approach for rehabilitation
+services including involvement of at least a physician,
+rehabilitation nurse, and a therapist. See CMS Ruling 85-2.
+
+                           DISCUSSION
+
+As set forth below, the Council affirms the ALJ’s conclusion
+that he did not have authority to review the contractor’s
+decision to reopen the claims at issue in accordance with
+42 C.F.R. § 405.980(a)(5). However, the Council reverses the
+ALJ’s determination of non-coverage. The Council finds that the
+services at issue were medically reasonable and necessary
+                                                                   7
+pursuant to section 1862(a)(1) of the Act, and are covered by
+Medicare; thereby finding the overpayment assessed invalid.
+
+Reopening
+
+Before the Council, the appellant asserts that pursuant to
+Chapter 34, Section 10 of the MCPM, “new appeal rights attached
+to the revised adverse determination, including the right to
+determine whether or not RAC met the statutory requirements of
+good cause for reopening the claim.” Exh. MAC-1 at 6. The
+appellant maintains that as a result, “the ALJ should have
+examined whether RAC’s reopening was proper in light of the
+regulations and Appellant’s due process rights.” Id. However,
+the Council finds this contention to be without merit.
+
+A contractor’s decision on whether to reopen is final and not
+subject to review. 42 C.F.R. § 405.980(a)(5). Moreover, the
+parallel regulation at 42 C.F.R. § 405.926(l) states that a
+contractor’s determination to reopen or not to reopen is not an
+initial determination, and is, therefore, not appealable.
+Therefore, neither the ALJ, nor the Council, has the authority
+to review the RAC’s decision to reopen the claim. The
+restriction against reviewing the contractor’s decision whether
+to reopen an initial determination extends to whether or not the
+contractor met the good cause standards for reopening set forth
+in 42 C.F.R. § 405.980(b)(2). CMS has expressly stated that the
+enforcement mechanism for good cause standards lies within CMS’s
+evaluation and monitoring of contractor performance, not the
+administrative appeals process. Interim Final Rule with Comment
+Period, 70 Fed. Reg. 11,420, 11,453 (Mar. 8, 2005). Thus, the
+Council finds that the ALJ did not err in concluding that he did
+not have the authority to examine whether there was good cause
+for reopening the claim after one year from the date of the
+initial determination. Dec. at 9.
+
+Inpatient Rehabilitation Services
+
+The appellant contends that the ALJ erred in finding that the
+IRF services at issue were not medically reasonable and
+necessary in accordance with section 1862(a)(1) of the Act.
+Exh. MAC-1 at 3-5. At the ALJ hearing, in its April 7, 2008,
+pre-hearing brief, and in its April 28, 2008, supplemental post-
+hearing brief, the appellant based its arguments for coverage
+largely upon the findings and conclusions of the ALJ-retained
+medical expert. The appellant asserts that the ALJ’s decision
+“made no mention of the independent medical expert’s opinion
+                                                                   8
+that the ‘services rendered to [the] Beneficiary were in
+accordance with Medicare standards for “Inpatient Hospital Level
+of Rehabilitation Care.”’” Exh. MAC-1 at 3 (emphasis deleted),
+citing Medical Expert Interrogatories, Exh. 16. The appellant
+maintains that the medical expert retained by the ALJ was
+correct in finding that the beneficiary’s condition was such
+that she required the greater intensity provided in the
+inpatient setting of rehabilitative care. Id. at 4. The
+Council agrees.
+
+     Beneficiary Medical Record
+
+On July 15, 2003, the 71 year old beneficiary was admitted to
+the acute hospital where she underwent a right total knee
+replacement secondary to degenerative joint disease. Exh. 3 at
+17-19. Two days later, on July 17, 2003, the beneficiary was
+transferred and admitted to the appellant’s IRF where she
+received treatment and rehabilitation services until her
+discharge one week later on July 24, 2003. Exh. 3 at 19.
+
+The record shows that the previous year the beneficiary had both
+right and left total hip replacements also secondary to
+degenerative joint disease. Exh. 3 at 17-23. An MRI previously
+conducted also indicated multilevel lumbar degenerative disc
+disease. Id. at 21. The medical record indicates that the
+beneficiary’s medical history is significant for: polyarthritis
+secondary to degenerative joint disease of the right knee,
+bilateral hips, and lumbosacral spine; epidural injections for
+root compression; left rotator cuff tendonitis; osteopenia; deep
+vein thrombosis; obesity; neuralgia of the chest wall; anxiety
+disorder with panic attacks; depression; insomnia with tension
+headaches; cystopexy; prior treatment of lymphoma; dehydration;
+dyslipidemia; hysterectomy; wrist fracture two years prior;
+vaginal prolapse; appendectomy; and history of herpes zoster.
+Id. at 21-22, 59-62.
+
+During the period at issue, the beneficiary received intravenous
+(IV) or intramuscular (IM) medications (e.g., trimethobenzamide
+for nausea, dextrose with Lactated Ringers solution and Toradol
+for specialty fluid replacement and pain management, and
+diphenhydramine for itching or rash) and experienced severe pain
+requiring multiple treatments including Norco and patient
+controlled administration of Dilaudid. Exh. 3 at 59-67, 68-92,
+133. Also during the period, daily labs were conducted due to
+the beneficiary’s fluctuating values. 38-40.    Based on these
+results, the beneficiary’s Coumadin dosage was altered six out
+                                                                             9
+of the seven days of admission, and her rehabilitation program
+was altered accordingly. Id. at 27-37, 59-67, 118-133. The
+record also indicates that the beneficiary’s physician was
+monitoring and treating her for possible effusion. The
+beneficiary was seen at the IRF by at least three physicians and
+was monitored daily by the nursing staff. Id.
+
+Prior to the total knee replacement surgery, the beneficiary was
+independent with all of her activities of daily living (ADL’s)
+and lived alone with her husband. Upon admission, the
+beneficiary’s functional status was as follows: moderate
+assistance supine to sit, sit to stand, sit to supine, bed to
+chair, chair to bed, commode transfers, and tub/shower
+transfers, maximum assistance with lower extremity dressing,
+minimal assistance with lower extremity bathing, and ambulate 15
+feet with front wheeled walker. Exh. 3 at 21-24, 41, 48. The
+beneficiary received intensive physical and occupational therapy
+each day after admission until discharge. Id. at 41-58, 143-
+144. Upon discharge, the beneficiary’s functional status
+improved to the following: independent with supine to sit,
+modified independent sit to stand , modified independent
+transfers, minimal assistance with lower extremity dressing with
+adaptive equipment, independent with upper extremity dressing,
+and upper extremity bathing, supervision with ascend/descend
+steps with side rails, and ambulate 250 feet modified
+independent with front wheeled walker. Id. at 19-20, 143.
+
+      Discussion
+
+The ALJ concluded that the “documentation substantiates that the
+Beneficiary did not require the 24-hour availability of a
+[physical medicine and rehabilitation] physician in order to
+evaluate the Beneficiary’s condition” and that the care could
+have been provided in a less intensive setting. Dec. at 8. In
+his decision, the ALJ did not cite to the independent medical
+expert that he obtained which was the only medical professional
+that provided opinion for ALJ review.2 See, Dec. 1-8, Hearing
+CD. Nor did the ALJ explain why he came to a different
+conclusion than the independent medical expert.
+
+The independent medical expert is board certified by the
+American Board of Physical Medicine and Rehabilitation, and
+attested that the ALJ provided sufficient medical evidence to
+2
+  The QIC did not provide a detailed analysis of its findings and conclusions,
+provide supplemental written argument for ALJ review, or participate in the
+hearing.
+                                                                 10
+form an opinion of the beneficiary’s medical status. Exh. 16 at
+1, 5. Specifically, the expert found that “based on the
+literature, medical record on file, applicable regulations, and
+beneficiary’s condition on July 17, 2003,” the beneficiary’s
+admission to the IRF level of care was justified. Further, the
+expert concluded that the services rendered by the IRF
+thereafter were in accordance with Medicare standards for
+inpatient hospital level of rehabilitation care. Id. at 2.
+
+The independent medical expert concluded that upon admission,
+the beneficiary required close medical supervision by a
+physician with specialized training or experience in
+rehabilitation, 24 hour rehabilitation nursing, a relatively
+intense level of rehabilitation services, a multidisciplinary
+team approach, a coordinated program of care, that significant
+practical improvement was expected, that realistic goals were
+set and met, and that these needs could not have been
+accomplished in a less intensive setting such as a SNF. Id. at
+3-4.
+
+Specifically, the medical expert attested that:
+
+     [c]lose medical supervision by a physician with
+     specialized training or experience in rehabilitation
+     was required primarily because she was transferred
+     rapidly (post-operative day number 2) from the acute
+     setting and due to her medical comorbidities
+     (specifically, osteopenia, anxiety, and obesity) in
+     concert with her history of multiple joint
+     replacements, which provide added safety concerns.
+     Specifically, at the time of transfer from the acute
+     medical setting to acute inpatient rehabilitation, she
+     was still requiring intravenous medications and
+     fluids, coumadin dosage was being determined for deep
+     venous thrombosis prophylaxis, and anemia and
+     hypokalemia required frequent monitoring. This is
+     greater intensity of medical rehabilitation services
+     than provided in a SNF or outpatient setting.
+
+Id. at 4. The medical expert addressed each element required
+for Medicare coverage as outlined in the CMS Ruling 85-2 and in
+the MBPM, finding that the beneficiary’s stay at the IRF was
+medically reasonable and necessary and appropriate. Id. at 3-4.
+
+The record supports the conclusions of the medical expert. The
+record indicates that upon admission and during the period at
+                                                                  11
+issue the beneficiary required multiple IV and oral medications
+for severe pain, that the physician changed the dose or held the
+Coumadin six out of the seven days at issue, that the
+beneficiary had possible effusion, osteopenia, obesity, total
+hip replacement of both hips the previous year, and IRF
+admission only two days after total knee replacement surgery.
+Appropriately managing the beneficiary’s pain, comorbidities,
+and medications while providing intensive rehabilitative therapy
+in which the beneficiary makes significant practical improvement
+often may require inpatient rehabilitation. These issues
+combined with the conclusions of the independent medical expert,
+and nothing in the record to contradict the expert’s clinical
+findings, lead the Council to conclude that the ALJ erred in
+determining that the IRF services were not medically reasonable
+and necessary.
+
+Therefore, the Council hereby reverses the ALJ decision and
+finds the services covered by Medicare in accordance with
+section 1862(a)(1) of the Act and the overpayment assessed for
+such services invalid.
+
+                            DECISION
+
+It is the decision of the Medicare Appeals Council that the IRF
+services provided by the appellant to the beneficiary from
+July 17, 2003, through July 24, 2003, were medically reasonable
+and necessary, and covered by Medicare in accordance with
+section 1862(a)(1) of the Act. The overpayment assessed is
+invalid; the appellant is entitled to payment for the services.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Clausen J. Krzywicki
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/ Susan S. Yim
+                                   Administrative Appeals Judge
+
+Date: July 29, 2009
+

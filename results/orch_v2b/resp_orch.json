@@ -1,0 +1,376 @@
+[
+ {
+  "case_id": "12-1251",
+  "components": [
+   {
+    "name": "Ambulance transport from residence to hospital",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Chest pain is a cardiac distress presumption and all three agents support; residence to hospital is a covered origin and destination.",
+  "passage_ids": [
+   434,
+   400
+  ]
+ },
+ {
+  "case_id": "altabates",
+  "components": [
+   {
+    "name": "IRF stay",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Eligibility and necessity agents support: multiple therapy disciplines, functional gains; therapy hours and supervision are asserted and PT/OT totals plausibly reach the standard, so unknowns do not defeat coverage.",
+  "passage_ids": [
+   86,
+   87,
+   84,
+   71
+  ]
+ },
+ {
+  "case_id": "case_excellenthomecare",
+  "components": [
+   {
+    "name": "Skilled nursing, beneficiary 1 certification period",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "Skilled nursing, beneficiary 2 certification period",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents find no skilled need: stable conditions, and a caregiver gives oral medications and insulin.",
+  "passage_ids": [
+   251,
+   239,
+   192
+  ]
+ },
+ {
+  "case_id": "case_landmark",
+  "components": [
+   {
+    "name": "Home health skilled nursing and prothrombin monitoring",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Coumadin dosage was adjusted twice based on nurse-drawn INR, with plan of care and monitoring documented; all agents support.",
+  "passage_ids": [
+   268,
+   239,
+   192
+  ]
+ },
+ {
+  "case_id": "dc_case",
+  "components": [
+   {
+    "name": "BLS ambulance transport",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "Ground mileage",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "No agent finds support; passages give no criteria showing nausea with treat-and-release made other transport contraindicated.",
+  "passage_ids": [
+   447
+  ]
+ },
+ {
+  "case_id": "eagle_air_med",
+  "components": [
+   {
+    "name": "Air ambulance transport",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "Air mileage",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents find no support: vitals stable, labs normal, and the appellant concedes ground transport to a closer hospital was reasonable.",
+  "passage_ids": [
+   417,
+   415
+  ]
+ },
+ {
+  "case_id": "estate_gbr",
+  "components": [
+   {
+    "name": "Hospital-to-hospital ambulance transfer",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Transfer was recommended by the on-call neurosurgeon to a neuro ICU; nothing contradicts nearest appropriate facility, and unknowns do not defeat coverage.",
+  "passage_ids": [
+   402,
+   422,
+   400
+  ]
+ },
+ {
+  "case_id": "gold_cross_ambulance",
+  "components": [
+   {
+    "name": "Non-emergency ambulance transport",
+    "decision": "COVERED"
+   },
+   {
+    "name": "Mileage",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Cardiologist documents medical necessity of a monitored ambulance given pacemaker dependency and new leads; nothing shows the destination was non-covered.",
+  "passage_ids": [
+   388,
+   400
+  ]
+ },
+ {
+  "case_id": "kaweah_rehabilitationhospital",
+  "components": [
+   {
+    "name": "IRF stay",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Eligibility supports; daily PT and OT, complex medical needs and measurable gains documented; unknown hours do not outweigh this.",
+  "passage_ids": [
+   86,
+   83,
+   84,
+   103
+  ]
+ },
+ {
+  "case_id": "m-11-1559",
+  "components": [
+   {
+    "name": "Stay following observation status",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "The inpatient decision was recorded as an error and reverted to observation; no valid inpatient order, so inpatient requirements are not met.",
+  "passage_ids": [
+   42,
+   37
+  ]
+ },
+ {
+  "case_id": "m-11-2450",
+  "components": [
+   {
+    "name": "Basic life support emergency transport",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "Ground mileage",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "Destination was recorded as a clinic, which is not a covered destination; the hospital claim is only an assertion.",
+  "passage_ids": [
+   437,
+   400,
+   447
+  ]
+ },
+ {
+  "case_id": "m_12_257",
+  "components": [
+   {
+    "name": "Home health services, recertification period",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Infrequent absences for adult day care and doctor visits do not defeat homebound status; all agents support.",
+  "passage_ids": [
+   179,
+   180
+  ]
+ },
+ {
+  "case_id": "m_12_809",
+  "components": [
+   {
+    "name": "Inpatient hospital stay",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Formally admitted to inpatient status after chest pain, new T-wave inversion and cardiac catheterization with stent; eligibility supports and others are only unknown.",
+  "passage_ids": [
+   12,
+   42,
+   33
+  ]
+ },
+ {
+  "case_id": "midwest_lifeteam",
+  "components": [
+   {
+    "name": "Air ambulance hospital-to-hospital transfer",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Sending hospital lacked cardiology, patient was unstable with cardiac symptoms, and the physician tried other hospitals before transfer; unknowns do not outweigh this.",
+  "passage_ids": [
+   422,
+   434
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "components": [
+   {
+    "name": "Home health speech-language pathology (dysphagia therapy)",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Skilled physician-ordered dysphagia therapy with documented progress; limited overall prognosis does not defeat coverage.",
+  "passage_ids": [
+   298,
+   297,
+   279
+  ]
+ },
+ {
+  "case_id": "prestige_homecare",
+  "components": [
+   {
+    "name": "Skilled nursing, first 10-month period",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "Skilled nursing, second 4-month period",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "No agent shows reasonable potential for change or documented ongoing skilled need over many months of routine visits.",
+  "passage_ids": [
+   236,
+   233,
+   192
+  ]
+ },
+ {
+  "case_id": "rb_obo_jb",
+  "components": [
+   {
+    "name": "Home health nursing and aide services",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "Homebound status is unsettled given regular day-center attendance with no showing of licensure and independent travel; no plan of care for aide tasks shown.",
+  "passage_ids": [
+   187,
+   188,
+   308
+  ]
+ },
+ {
+  "case_id": "rx_homecare",
+  "components": [
+   {
+    "name": "Skilled nursing visits",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents find no skilled need: nurse only poured a mediplanner and oversaw aides, with no rationale for continued observation.",
+  "passage_ids": [
+   242,
+   236,
+   239
+  ]
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "components": [
+   {
+    "name": "Inpatient hospital stay",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Complicated hernia repair with significant pulmonary disease and documented pulmonary monitoring supports inpatient care; agents raise nothing against it.",
+  "passage_ids": [
+   105
+  ]
+ },
+ {
+  "case_id": "state_of_vt",
+  "components": [
+   {
+    "name": "Skilled nursing, June 2007 pressure ulcer",
+    "decision": "COVERED"
+   },
+   {
+    "name": "Skilled nursing, August 2007 buttock wound",
+    "decision": "COVERED"
+   },
+   {
+    "name": "Skilled nursing, October 2007 foot wounds",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Nurses assessed and treated wounds in a diabetic patient with documented care and healing; wound care is skilled nursing.",
+  "passage_ids": [
+   258,
+   260
+  ]
+ },
+ {
+  "case_id": "uphams_homehealthcare",
+  "components": [
+   {
+    "name": "Skilled nursing visits",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents find no skilled need: family handles medications and glucose monitoring, and no visit notes explain skilled need.",
+  "passage_ids": [
+   225,
+   230,
+   233
+  ]
+ },
+ {
+  "case_id": "visitingnursing",
+  "components": [
+   {
+    "name": "Home health physical therapy",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Physician-ordered gait training with documented objective improvement in fall-risk score; all agents support.",
+  "passage_ids": [
+   291,
+   192
+  ]
+ }
+]

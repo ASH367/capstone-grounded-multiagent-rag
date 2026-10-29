@@ -1,0 +1,152 @@
+[
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination.",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "[3] the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "At the beginning of PT, D.E. required moderate assistance for all functional transfers.",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "[3] the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "The services must be considered under accepted standards of medical practice to be specific and effective treatment for the patient\u2019s condition;",
+    "passage_id": 638,
+    "quote": "The services must be considered under accepted standards of medical practice to be specific and effective treatment for the patient\u2019s condition; and,",
+    "case_fact": "[3] the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "The services must be reasonable and necessary for the treatment of the patient\u2019s condition;",
+    "passage_id": 638,
+    "quote": "The services must be considered under accepted standards of medical practice to be specific and effective treatment for the patient\u2019s condition; and, \u2022 The services must be reasonable and necessary for the treatment of the patient\u2019s condition;",
+    "case_fact": "[3] the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "The amount, frequency, and duration of the services must be reasonable.",
+    "passage_id": 638,
+    "quote": "The services must be considered under accepted standards of medical practice to be specific and effective treatment for the patient\u2019s condition; and, \u2022 The services must be reasonable and necessary for the treatment of the patient\u2019s condition; this includes the requirement that the amount, frequency, and duration of the services must be reasonable.",
+    "case_fact": "[3] the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   }
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary had a qualifying three-day stay in the hospital.",
+    "passage_id": 574,
+    "quote": "some portion of the stay included at least 3 consecutive days of medically necessary inpatient hospital services.",
+    "case_fact": "hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay at *** *** Hospital."
+   },
+   {
+    "claim": "The beneficiary was readmitted to the SNF within 30 days after discharge from the initial SNF stay.",
+    "passage_id": 609,
+    "quote": "if a beneficiary goes directly from a qualifying hospital stay to the SNF...",
+    "case_fact": "the provider submits, as evidence of the three-day stay, hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay at *** *** Hospital."
+   },
+   {
+    "claim": "The beneficiary meets the level of care criteria for Medicare coverage during the first 8 days of the SNF stay.",
+    "passage_id": 610,
+    "quote": "If a beneficiary met the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay...",
+    "case_fact": "the record indicates that he had diagnoses of pneumonia, shortness of breath, acute myocardial infarction, atrial flutter, and renal insufficiency."
+   }
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The services at issue are inpatient replacement of automatic implantable cardioverter defibrillators (AICDs)",
+    "passage_id": 29,
+    "quote": "the order to admit as an inpatient (\u201cpractitioner order\u201d) is a critical element...",
+    "case_fact": "The appellant specifically claims that it had no notice that the services at issue would not be covered by Medicare."
+   },
+   {
+    "claim": "Physician certification of inpatient services is required for cases that are 20 inpatient days or more",
+    "passage_id": 29,
+    "quote": "A. Physician Certification. Physician certification of inpatient services is required...",
+    "case_fact": "The appellant presents the June 1, 2006, statement of the Florida Medical Quality Assurance, Inc., (FMQAI), which alerts hospitals that as of July 1, 2006, FMQAI will no longer be uniformly allowing these procedures to be billed as inpatient services."
+   },
+   {
+    "claim": "The decision to admit a patient is a complex medical judgment",
+    "passage_id": 13,
+    "quote": "the decision to admit a patient is a complex medical judgment which can be made only after the physician has considered...",
+    "case_fact": "In certain specific situations coverage of services on an inpatient or outpatient basis is determined by the following rules: Minor Surgery or Other Treatment - When patients with known diagnoses enter..."
+   }
+  ],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The appellant did not file a brief within 30 days after the Council's letter dated October 5, 2009.",
+    "passage_id": "579",
+    "quote": "In determining the 30-day transfer period, the day of discharge from the hospital is not counted in the 30 days.",
+    "case_fact": "[1] By a letter dated October 5, 2009, the Council granted the appellant a 30-day opportunity to file a brief."
+   },
+   {
+    "claim": "The appellant's request for review was timely filed on August 24, 2009.",
+    "passage_id": "571",
+    "quote": "In order to qualify for post-hospital extended care services, the individual must have been an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days.",
+    "case_fact": "[3] The appellant filed a timely request for Council review (Form DAB-101), dated August 24, 2009,"
+   },
+   {
+    "claim": "The appellant's brief was received after January 10, 2010, by telefacsimile.",
+    "passage_id": "579",
+    "quote": "In determining the 30-day transfer period, the day of discharge from the hospital is not counted in the 30 days.",
+    "case_fact": "[2] Nearly a month after the expiration of the due date for the brief, on December 1, 2009, the appellant filed, by telefacsimile, a request for an additional extension of time, to January 10, 2010, to brief the case."
+   }
+  ],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary was admitted to a skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration.",
+    "passage_id": "574",
+    "quote": "Even if a beneficiary\u2019s care during a qualifying hospital stay becomes less intensive during the latter part of the stay...",
+    "case_fact": "[1] The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration."
+   },
+   {
+    "claim": "The beneficiary\u2019s hospital discharge diagnoses included: chronic dementia, UTI, dehydration, myocardial infarction, hypercholesterolemia, insulin-dependent diabetes mellitus, hypertension, history of cerebral thrombosis, history of transient ischemic attacks, urethral stricture, and depression.",
+    "passage_id": "574",
+    "quote": "Even if a beneficiary\u2019s care during a qualifying hospital stay becomes less intensive during the latter part of the stay...",
+    "case_fact": "[1] The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration."
+   },
+   {
+    "claim": "The SNF must notify the beneficiary or responsible family member that sanctions have been imposed, and explain how the sanctions will affect the beneficiary\u2019s benefits.",
+    "passage_id": "596",
+    "quote": "Before admitting a beneficiary, the SNF must notify the beneficiary or responsible family member...",
+    "case_fact": "[2] On behalf of the appellant, Center for Medicare Advocacy (CMA) requested an ALJ hearing which was conducted by teleconference on March 14, 2007."
+   },
+   {
+    "claim": "The Notice of Non-Coverage also applies to former residents that had been discharged with no expectation of return and are being readmitted after the imposition of the payment ban.",
+    "passage_id": "596",
+    "quote": "This Notice of Non-Coverage also applies to former residents...",
+    "case_fact": "[1] The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration."
+   },
+   {
+    "claim": "The beneficiary\u2019s physician ordered a wanderguard, a chair pad alarm while in his wheelchair, and a \u201cpressure alarm when in bed related to poor safety awareness [secondary] to Dementia.\u201d",
+    "passage_id": "574",
+    "quote": "Even if a beneficiary\u2019s care during a qualifying hospital stay becomes less intensive during the latter part of the stay...",
+    "case_fact": "[4] Upon admission on January 17, 2006, the beneficiary\u2019s physician ordered a wanderguard, a chair pad alarm while in his wheelchair, and a \u201cpressure alarm when in bed related to poor safety awareness [secondary] to Dementia.\u201d"
+   },
+   {
+    "claim": "The beneficiary was not a capable recipient to receive the notice of Medicare non-coverage.",
+    "passage_id": "574",
+    "quote": "Even if a beneficiary\u2019s care during a qualifying hospital stay becomes less intensive during the latter part of the stay...",
+    "case_fact": "[3] The appellant contends that the ALJ erred in holding the beneficiary liable for the costs of the non-covered services."
+   }
+  ],
+  "case_id": "connecticut11"
+ }
+]

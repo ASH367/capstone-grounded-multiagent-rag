@@ -1,0 +1,1059 @@
+[
+ {
+  "case_id": "12-1251",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "12-1251",
+  "fact_index": 2,
+  "label": "MIXED",
+  "reason": "Patient/claim history plus contractor rationale for overpayment",
+  "leak_text": "because the record showed that the beneficiary was a hospital inpatient on the date of service at issue"
+ },
+ {
+  "case_id": "12-1251",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertions in request for review",
+  "leak_text": ""
+ },
+ {
+  "case_id": "12-1251",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "12-1251",
+  "fact_index": 5,
+  "label": "MIXED",
+  "reason": "Clinical detail plus ALJ conclusion that services were rendered",
+  "leak_text": "The ambulance report indicates that the beneficiary received emergency services during the ambulance transport."
+ },
+ {
+  "case_id": "altabates",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "altabates",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "altabates",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "altabates",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "altabates",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "altabates",
+  "fact_index": 6,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Medical director argument",
+  "leak_text": ""
+ },
+ {
+  "case_id": "altabates",
+  "fact_index": 7,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Medical director assertion",
+  "leak_text": ""
+ },
+ {
+  "case_id": "altabates",
+  "fact_index": 8,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "altabates",
+  "fact_index": 9,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "altabates",
+  "fact_index": 10,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "case_excellenthomecare",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "case_excellenthomecare",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "case_excellenthomecare",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "case_excellenthomecare",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "case_excellenthomecare",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "case_excellenthomecare",
+  "fact_index": 6,
+  "label": "ADJUDICATOR_FINDING",
+  "reason": "Quoted reviewer finding about illegible/stamped signatures (documentation deficiency)",
+  "leak_text": "the physician's signatures on many of the medical documents [which] were illegible, scribbled and dated with a stamp"
+ },
+ {
+  "case_id": "case_landmark",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "case_landmark",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "case_landmark",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "case_landmark",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "case_landmark",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "case_landmark",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "case_landmark",
+  "fact_index": 7,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "dc_case",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "dc_case",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "dc_case",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Daughter affidavit",
+  "leak_text": ""
+ },
+ {
+  "case_id": "dc_case",
+  "fact_index": 4,
+  "label": "MIXED",
+  "reason": "PCR facts plus adjudicator absence-of-evidence finding",
+  "leak_text": "Nothing in the record reflects that the beneficiary required or was provided pain medications, oxygen, or any treatment during the evaluation or ambulance trip."
+ },
+ {
+  "case_id": "eagle_air_med",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "eagle_air_med",
+  "fact_index": 2,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant concession",
+  "leak_text": ""
+ },
+ {
+  "case_id": "eagle_air_med",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant request",
+  "leak_text": ""
+ },
+ {
+  "case_id": "eagle_air_med",
+  "fact_index": 4,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant representative testimony",
+  "leak_text": ""
+ },
+ {
+  "case_id": "eagle_air_med",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "estate_gbr",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "estate_gbr",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "estate_gbr",
+  "fact_index": 3,
+  "label": "MIXED",
+  "reason": "Transport fact plus adjudicator determination/insufficiency finding",
+  "leak_text": "It was determined that the sending hospital also has a trauma center. The documentation did not state what specific service was not available at the first hospital."
+ },
+ {
+  "case_id": "estate_gbr",
+  "fact_index": 4,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertion",
+  "leak_text": ""
+ },
+ {
+  "case_id": "gold_cross_ambulance",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "gold_cross_ambulance",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "gold_cross_ambulance",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Treating cardiologist explanation offered for necessity",
+  "leak_text": ""
+ },
+ {
+  "case_id": "gold_cross_ambulance",
+  "fact_index": 4,
+  "label": "MIXED",
+  "reason": "PCS fact plus finding that documents do not explain need",
+  "leak_text": "However, neither this PCS nor any other document in the record indicates why the oxygen was required."
+ },
+ {
+  "case_id": "gold_cross_ambulance",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "gold_cross_ambulance",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "kaweah_rehabilitationhospital",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "kaweah_rehabilitationhospital",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "kaweah_rehabilitationhospital",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "kaweah_rehabilitationhospital",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "kaweah_rehabilitationhospital",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "kaweah_rehabilitationhospital",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "kaweah_rehabilitationhospital",
+  "fact_index": 7,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "kaweah_rehabilitationhospital",
+  "fact_index": 8,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1559",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1559",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1559",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1559",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1559",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1559",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1559",
+  "fact_index": 7,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1559",
+  "fact_index": 8,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1559",
+  "fact_index": 9,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-2450",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-2450",
+  "fact_index": 2,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant arguments",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-2450",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-2450",
+  "fact_index": 4,
+  "label": "MIXED",
+  "reason": "Facility staffing fact plus characterization of facility type",
+  "leak_text": "is considered an urgent care facility"
+ },
+ {
+  "case_id": "m_12_257",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_12_257",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_12_257",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_12_257",
+  "fact_index": 4,
+  "label": "MIXED",
+  "reason": "Nurse note content plus adjudicator characterization of the record",
+  "leak_text": "the record indeed contains six separate skilled nursing assessment notes ... which document the beneficiary's functional abilities"
+ },
+ {
+  "case_id": "m_12_257",
+  "fact_index": 5,
+  "label": "MIXED",
+  "reason": "Medication/blood sugar facts plus evaluative necessity",
+  "leak_text": "the beneficiary's condition necessitated medication changes"
+ },
+ {
+  "case_id": "m_12_257",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_12_809",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_12_809",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_12_809",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_12_809",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_12_809",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_12_809",
+  "fact_index": 6,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant argument",
+  "leak_text": ""
+ },
+ {
+  "case_id": "midwest_lifeteam",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "midwest_lifeteam",
+  "fact_index": 2,
+  "label": "MIXED",
+  "reason": "Claim facts plus contractor denial rationale",
+  "leak_text": "denied on the ground that the beneficiary was not taken to the nearest medically-appropriate facility, which would have been a distance of only 133 miles"
+ },
+ {
+  "case_id": "midwest_lifeteam",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant contention",
+  "leak_text": ""
+ },
+ {
+  "case_id": "midwest_lifeteam",
+  "fact_index": 4,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Provider-side nurse letter offered to justify transport",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "fact_index": 3,
+  "label": "ADJUDICATOR_FINDING",
+  "reason": "ALJ characterization of purpose of services",
+  "leak_text": "The ALJ described the services at issue as intended to \"address articulation skills and speech clarity.\""
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "fact_index": 7,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "fact_index": 8,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "fact_index": 9,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Provider representative testimony/concession",
+  "leak_text": ""
+ },
+ {
+  "case_id": "prestige_homecare",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "prestige_homecare",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "prestige_homecare",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "prestige_homecare",
+  "fact_index": 4,
+  "label": "ADJUDICATOR_FINDING",
+  "reason": "Adjudicator evaluation of medication changes as uneventful",
+  "leak_text": "appears to have had only two medication changes, and they were uneventful"
+ },
+ {
+  "case_id": "prestige_homecare",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "prestige_homecare",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "prestige_homecare",
+  "fact_index": 7,
+  "label": "MIXED",
+  "reason": "Patient report plus finding of inadequate assessment",
+  "leak_text": "the record did not indicate that the home health agency had thoroughly assessed the cause"
+ },
+ {
+  "case_id": "prestige_homecare",
+  "fact_index": 8,
+  "label": "MIXED",
+  "reason": "Clinical finding plus insufficiency finding",
+  "leak_text": "but it was not quantified or further assessed"
+ },
+ {
+  "case_id": "prestige_homecare",
+  "fact_index": 9,
+  "label": "MIXED",
+  "reason": "Clinical finding plus insufficiency finding",
+  "leak_text": "but there was no record whether she was compliant"
+ },
+ {
+  "case_id": "prestige_homecare",
+  "fact_index": 10,
+  "label": "ADJUDICATOR_FINDING",
+  "reason": "QIC finding of no changes/no skilled teaching",
+  "leak_text": "the QIC noted that there had been no changes ... no skilled teaching was documented"
+ },
+ {
+  "case_id": "rb_obo_jb",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rb_obo_jb",
+  "fact_index": 2,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant explanation of need",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rb_obo_jb",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Physician letter offered in support",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rb_obo_jb",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rb_obo_jb",
+  "fact_index": 5,
+  "label": "MIXED",
+  "reason": "Testimony plus adjudicator finding of record gap",
+  "leak_text": "The record does not indicate specifically how many hours per day or each week the beneficiary spends engaging in adult day-care activities"
+ },
+ {
+  "case_id": "rb_obo_jb",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rb_obo_jb",
+  "fact_index": 7,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rb_obo_jb",
+  "fact_index": 8,
+  "label": "ADJUDICATOR_FINDING",
+  "reason": "Finding that physician certification is absent",
+  "leak_text": "the record in this case does not reflect a physician's determination or statement, or certification"
+ },
+ {
+  "case_id": "rx_homecare",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rx_homecare",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rx_homecare",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rx_homecare",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rx_homecare",
+  "fact_index": 5,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Provider assertion",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rx_homecare",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rx_homecare",
+  "fact_index": 7,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "rx_homecare",
+  "fact_index": 8,
+  "label": "ADJUDICATOR_FINDING",
+  "reason": "Finding that orders and status changes are absent",
+  "leak_text": "The plans of care do not contain physician's orders for observation and assessment and the nursing notes do not reveal any significant changes"
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "fact_index": 7,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "fact_index": 8,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "fact_index": 9,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "state_of_vt",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "state_of_vt",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "state_of_vt",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "state_of_vt",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "state_of_vt",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "state_of_vt",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "state_of_vt",
+  "fact_index": 7,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "uphams_homehealthcare",
+  "fact_index": 1,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertion",
+  "leak_text": ""
+ },
+ {
+  "case_id": "uphams_homehealthcare",
+  "fact_index": 2,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertion",
+  "leak_text": ""
+ },
+ {
+  "case_id": "uphams_homehealthcare",
+  "fact_index": 3,
+  "label": "MIXED",
+  "reason": "Care history plus ALJ characterization of family support",
+  "leak_text": "The ALJ discussed the beneficiary's clinical conditions and noted that she lived with her family, who provided support"
+ },
+ {
+  "case_id": "uphams_homehealthcare",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "uphams_homehealthcare",
+  "fact_index": 5,
+  "label": "MIXED",
+  "reason": "POC/nurse note facts plus adjudicator weighing of conflicting evidence",
+  "leak_text": "nurses notes reflect that the beneficiary was not symptomatic ... generally within normal limits"
+ },
+ {
+  "case_id": "uphams_homehealthcare",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "visitingnursing",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "visitingnursing",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "visitingnursing",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "visitingnursing",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "visitingnursing",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "visitingnursing",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "visitingnursing",
+  "fact_index": 7,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "visitingnursing",
+  "fact_index": 8,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "visitingnursing",
+  "fact_index": 9,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "visitingnursing",
+  "fact_index": 10,
+  "label": "ADJUDICATOR_FINDING",
+  "reason": "Characterizes notes as showing skilled gait training (skilled-service conclusion)",
+  "leak_text": "The physical therapy visit notes reflect that skilled gait training occurred during each visit."
+ }
+]

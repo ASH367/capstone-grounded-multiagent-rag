@@ -1,0 +1,45 @@
+{
+ "case_id": "m_10_1771",
+ "domain": "snf",
+ "docket": "M-10-1771",
+ "service_at_issue": "SNF Part A stays (E.M. Dec 2008; J.S. Sept 2008) billed at RUG-III therapy levels and outpatient Part B PT (E.K., Sept 2008)",
+ "facts": [
+  "In its request for review, the appellant asserts that the record does, in fact, document that the beneficiary sustained a fall in the facility on September 2, 2008, resulting in a \u201cleft upper extremity sprain,\u201d and that it can be assumed that \u201cprior to this fall she did not have a left upper extremity sprain.\u201d The appellant maintains that this event constituted a \u201cnew physical decline which warranted Physical Therapy . . . intervention in order to ensure continued safety and independence.\u201d Exh. MAC-1 at 1.",
+  "the beneficiary demonstrated \u201cslow but steady progress\u201d reflecting gains in \u201csafety, balance and overall functional mobility.\u201d The appellant asserts that the documentation of record, present throughout all levels of review, demonstrates the clear need for the skills of a physical therapist to provide the beneficiary with \u201crehabilitation services to promote safety and maximize functional independence in . . . [the beneficiary\u2019s] environment.\u201d Exh. MAC-1 at 1-2.",
+  "The beneficiary\u2019s medical history was significant for a total right knee replacement (November 3, 2008), after which she was admitted to an inpatient rehabilitation facility (IRF) from November 6-21, 2008. While in the IRF, the beneficiary was diagnosed with dysphagia, and was treated for atrial fibrillation, anxiety/depression, hypertension and anemia. Upon discharge from the IRF, the beneficiary\u2019s muscle strength was rated at 4+/5 and she was able to ambulate 200 feet with a rolling walker and minimal assistance. Dec. at 18.",
+  "The appellant asserts that the beneficiary made steady progress throughout physical therapy while receiving progressive resistance strengthening exercises to improve lower body, strength and balance, as well as \u201csignificant . . . education regarding safety awareness.\u201d The appellant further contends that the fact that the beneficiary required \u201cencouragement and reassurance does not prevent her from being a candidate for therapy.\u201d Exh. MAC-2 at 1-2.",
+  "Addressing speech therapy, the appellant indicates that while the beneficiary was admitted with physician\u2019s orders for a mechanical soft diet, the beneficiary requested an upgrade to a \u201cregular diet.\u201d Consequently, it was necessary to conduct a ST evaluation to ensure the beneficiary\u2019s ability to tolerate the upgraded diet. Exh. MAC-2 at 2.",
+  "In its request for review, the appellant generally references an \u201cAttached\u201d \u201chistory and physical\u201d from the beneficiary\u2019s physician indicating that the beneficiary \u201chad memory loss and difficulty concentrating consistent with dementia.\u201d Exh. MAC-3 at 1. The appellant asserts that his information indicates that the beneficiary \u201chad newly worsening cognition both prior to and following\u201d her hospitalization. The appellant maintains that the beneficiary deserved the opportunity to improve her memory. The appellant also concedes that the beneficiary met her goals by September 11, 2008"
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council held the E.K. PT and the E.M. and J.S. SNF stays not covered at any RUG level (therapy not documented as skilled/necessary and unchallenged custodial nursing), modifying the ALJ downcoding, with the provider liable.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.8",
+   "section": "30"
+  },
+  {
+   "doc": "MBPM ch.8",
+   "section": "30.4.1.1"
+  },
+  {
+   "doc": "MBPM ch.8",
+   "section": "30.4.1.2"
+  }
+ ],
+ "other_cites": [
+  "SSA 1833(e)",
+  "SSA 1862(a)(9)",
+  "SSA 1879",
+  "SSA 1888(e)(6)",
+  "42 CFR 409.30-409.36",
+  "42 CFR 409.34(a)(1)",
+  "42 CFR 424.5(a)(6)",
+  "42 CFR 405.1122(c)",
+  "MPIM ch.6 6.1, 6.1.3, 6.2",
+  "64 Fed. Reg. 41666"
+ ],
+ "scope": "included",
+ "key_quality": "has_mbpm_key",
+ "facts_original_count": 6
+}

@@ -1,0 +1,165 @@
+[
+ {
+  "case_id": "11-1343",
+  "decision": "COVERED",
+  "reason": "PT/OT/ST for a hip-fracture patient is a covered SNF service type, with eligibility and documentation supporting; medical necessity not contradicted.",
+  "passage_ids": [
+   669,
+   640,
+   638
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "decision": "COVERED",
+  "reason": "Submitted records show a 12-day hospital stay exceeding 3 days, and the record shows ongoing skilled medication management supporting SNF coverage.",
+  "passage_ids": [
+   574,
+   608
+  ]
+ },
+ {
+  "case_id": "baptist_health_care",
+  "decision": "NOT_COVERED",
+  "reason": "Nothing in the record shows inpatient need or admission documentation; the QIO stated routine short-stay cases lacked inpatient support, and appellant offers only notice arguments.",
+  "passage_ids": [
+   13,
+   29
+  ]
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "decision": "NOT_COVERED",
+  "reason": "Facts are procedural only and show an untimely brief; no qualifying stay is established.",
+  "passage_ids": [
+   571
+  ]
+ },
+ {
+  "case_id": "connecticut11",
+  "decision": "PARTLY_COVERED",
+  "reason": "Qualifying stay and admission support early coverage, but PT plateaued Feb 7 and later care is not shown skilled, so only part of the stay is covered.",
+  "passage_ids": [
+   574,
+   607
+  ]
+ },
+ {
+  "case_id": "gr",
+  "decision": "NOT_COVERED",
+  "reason": "Nothing establishes homebound status, that the facility is not primarily skilled, or certification documentation.",
+  "passage_ids": [
+   185,
+   215
+  ]
+ },
+ {
+  "case_id": "m-10-1884",
+  "decision": "NOT_COVERED",
+  "reason": "Therapy ended before the disputed January 28 onward dates, and no skilled services are shown on those dates.",
+  "passage_ids": [
+   563,
+   669
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "decision": "COVERED",
+  "reason": "Nurses' skilled monitoring of blood sugar logs led to repeated insulin adjustments and is documented, supporting coverage.",
+  "passage_ids": [
+   238,
+   257
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "decision": "COVERED",
+  "reason": "Hospital stay of 5 days with direct SNF admission for the treated condition, with skilled nursing documented.",
+  "passage_ids": [
+   572,
+   563
+  ]
+ },
+ {
+  "case_id": "m-12-1140",
+  "decision": "PARTLY_COVERED",
+  "reason": "Eligibility is met and therapy was provided, but skilled need after the Sept 30 therapy discharge is not shown.",
+  "passage_ids": [
+   579,
+   669
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "decision": "NOT_COVERED",
+  "reason": "Treatment plan and skilled need are unestablished, and goals were conceded met by Sept 11, so expected results are insignificant.",
+  "passage_ids": [
+   639,
+   637
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "decision": "PARTLY_COVERED",
+  "reason": "Stair-lift training and maintenance instruction are covered, but visits solely to train aides are not billable and need is not individually shown.",
+  "passage_ids": [
+   285,
+   292,
+   286
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "decision": "COVERED",
+  "reason": "Documented complications (infections, fistula, abscesses) distinguish this from routine ostomy care and support skilled nursing visits.",
+  "passage_ids": [
+   256,
+   231,
+   232
+  ]
+ },
+ {
+  "case_id": "ny",
+  "decision": "PARTLY_COVERED",
+  "reason": "Hours up to the part-time limits may be covered but hours furnished and eligibility are not shown, so only part is supportable.",
+  "passage_ids": [
+   341,
+   177
+  ]
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "decision": "NOT_COVERED",
+  "reason": "Placement in a noncertified bed with no limitation-of-liability documentation means coverage is not supported.",
+  "passage_ids": [
+   666
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "decision": "NOT_COVERED",
+  "reason": "No beneficiary-level IRF clinical facts support reasonable and necessary stays.",
+  "passage_ids": [
+   72
+  ]
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "decision": "COVERED",
+  "reason": "Qualifying stay and timely admission, with documented skilled psychiatric observation and pneumonia monitoring.",
+  "passage_ids": [
+   629,
+   633,
+   563
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "decision": "NOT_COVERED",
+  "reason": "IRF requirements such as preadmission screening and required documents are not shown.",
+  "passage_ids": [
+   72,
+   74
+  ]
+ }
+]

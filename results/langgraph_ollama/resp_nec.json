@@ -1,0 +1,115 @@
+[
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination.",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "The services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "At the beginning of PT, D.E. required moderate assistance for all functional transfers.",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "At the onset of PT, D.E.\u2019s prior level of function was noted to be \u201crequired assistance to transfer from sitting to standing.\u201d"
+   },
+   {
+    "claim": "The services were initiated on August 27, 2009, with a treatment diagnosis of cognitive deficits.",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "At the onset of ST, D.E. exhibited moderate to severe receptive and expressive language and cognitive deficits."
+   },
+   {
+    "claim": "D.E.\u2019s prior level of function was noted to be \u201crequired assistance to transfer from sitting to standing.\u201d",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "At the onset of PT, D.E.\u2019s prior level of function was noted to be \u201crequired assistance to transfer from sitting to standing.\u201d"
+   },
+   {
+    "claim": "D.E. was referred to ST to evaluate for speech/language cognitive deficits affecting her communication and safety.",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "D.E. was referred to ST due to decreased strength and decreased ADLs due to illness."
+   }
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary had a qualifying three-day hospital stay.",
+    "passage_id": 574,
+    "quote": "Even if a beneficiary\u2019s care during a qualifying hospital stay becomes less intensive during the latter part of the stay, the date of hospital \u201cdischarge\u201d in this context is still considered to be the day that the beneficiary physically leaves the hospital...",
+    "case_fact": "The provider submits, as evidence of the three-day stay, hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay at *** *** Hospital."
+   },
+   {
+    "claim": "The beneficiary was readmitted to the SNF within 30 days after discharge from the initial SNF stay.",
+    "passage_id": 609,
+    "quote": "Alternatively, if the absence from the SNF does not exceed the 3-day interruption window...",
+    "case_fact": "The State Medicaid Agency further contends that it was under a \u201cgood faith impression\u201d that the relevant evidence regarding the qualifying three-day hospital stay was contained in the claim file."
+   },
+   {
+    "claim": "The beneficiary meets the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay.",
+    "passage_id": 610,
+    "quote": "If a beneficiary met the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay...",
+    "case_fact": "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings, and to notify the doctor if three consecutive doses of medication were refused or held."
+   }
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The appellant specifically claims that it had no notice that the services at issue would not be covered by Medicare.",
+    "passage_id": "29",
+    "quote": "The order to admit as an inpatient (\u201cpractitioner order\u201d) is a critical element in clarifying when an individual is considered an inpatient of a hospital...",
+    "case_fact": "The appellant cites the Federal Register to support its claim that it had no knowledge that Medicare would not cover the services at issue, and, to the contrary, believed that Medicare could cover inpatient replacement of automatic implantable cardioverter defibrillators (AICDs). See e.g., Exh. MAC-1 at 4."
+   },
+   {
+    "claim": "The FMQAI policy at the time of [the services at issue] alerted hospitals within its jurisdiction that as of July 1, 2006, FMQAI will no longer be uniformly allowing these procedures to be billed as inpatient services.",
+    "passage_id": "49",
+    "quote": "A hospital stay solely for the purpose of use of a drug or biological that is determined not reasonable and necessary is not covered.",
+    "case_fact": "[2] The appellant also presents the June 1, 2006, statement of the Florida Medical Quality Assurance, Inc., (FMQAI), the CMS contracted Florida QIO. Exh. MAC-1 at 5."
+   }
+  ],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The beneficiary was not a capable recipient to receive the notice of Medicare non-coverage.",
+    "passage_id": 610,
+    "quote": "If a beneficiary met the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay...",
+    "case_fact": "On behalf of the appellant, Center for Medicare Advocacy (CMA) requested an ALJ hearing which was conducted by teleconference on March 14, 2007."
+   },
+   {
+    "claim": "The beneficiary\u2019s physician ordered safety measures due to dementia.",
+    "passage_id": 574,
+    "quote": "In addition, when a hospital inpatient\u2019s care needs drop from acute- to SNF-level but no SNF bed is available...",
+    "case_fact": "Upon admission on January 17, 2006, the beneficiary\u2019s physician ordered a wanderguard, a chair pad alarm while in his wheelchair, and a \u201cpressure alarm when in bed related to poor safety awareness [secondary] to Dementia.\u201d"
+   },
+   {
+    "claim": "The beneficiary was discharged from therapy due to dementia.",
+    "passage_id": 574,
+    "quote": "In addition, when a hospital inpatient\u2019s care needs drop from acute- to SNF-level but no SNF bed is available...",
+    "case_fact": "On February 7, 2006, the beneficiary\u2019s physical therapist discharged him from therapy because, \u201c[p]lateau of benefits from skilled PT interventions reached at current mental level [secondary to] dementia.\u201d"
+   },
+   {
+    "claim": "The notice of non-coverage was signed by the beneficiary during a period when he required safety measures due to dementia.",
+    "passage_id": 610,
+    "quote": "If a beneficiary met the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay...",
+    "case_fact": "These orders were reauthorized, signed by the physician on February 15, 2006, and in effect for 60 days, during the time the beneficiary signed the notice of non-coverage."
+   }
+  ],
+  "case_id": "connecticut11"
+ }
+]

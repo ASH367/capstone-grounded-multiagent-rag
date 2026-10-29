@@ -1,0 +1,32 @@
+{
+ "case_id": "m-10-1884",
+ "domain": "snf",
+ "docket": "M-10-1884",
+ "service_at_issue": "SNF services January 28 - March 1, 2009 for a beneficiary who elected hospice; liability",
+ "facts": [
+  "on the dates of service at issue, the beneficiary was an 89-year-old female with a history of multiple myeloma and breast cancer, among other diagnoses. See Exh. 1, at 24, 207. The beneficiary was re-admitted to * * * Health & Rehab Center (SNF) on December 11, 2008, following a hospital stay for gastrointestinal bleeding.",
+  "The beneficiary required and received skilled physical therapy (PT) and occupational therapy (OT) services during December 2008 and January 2009. See id. at 257-286. She was discharged from OT on January 19, 2009, and from PT on January 22, 2009. Id. at 249.",
+  "The SNF billed the appellant for the beneficiary\u2019s care for dates of service January 28 through January 31, 2009, and for February 1, 2009 through March 1, 2009. See Exh. 2, at 29-32. The appellant disputed that the beneficiary was liable for the charges and asserted that Medicare should cover the charges. Id.",
+  "The appellant does not contend that the SNF care at issue was unrelated to the beneficiary\u2019s terminal condition. See Exh. MAC-1. Instead, he argues that the services were skilled, and that the beneficiary had not exhausted her Medicare Part A SNF benefits. Id."
+ ],
+ "reference_outcome": "partial",
+ "outcome_note": "The Council agreed the SNF services were not covered (hospice elected, Medicare already paid hospice) but reversed the ALJ on liability: the telephone notice was ineffective so the estate is not liable and the SNF is.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.9",
+   "section": "20.3"
+  }
+ ],
+ "other_cites": [
+  "SSA 1862(a)(1)",
+  "SSA 1879",
+  "42 CFR 411.404",
+  "42 CFR 411.406(d)",
+  "42 CFR 405.1200",
+  "MCPM ch.29",
+  "MCPM ch.30 40.3, 40.3.4.2"
+ ],
+ "scope": "included",
+ "key_quality": "no_mbpm_key",
+ "facts_original_count": 5
+}

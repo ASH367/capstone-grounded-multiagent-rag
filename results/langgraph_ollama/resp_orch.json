@@ -1,0 +1,49 @@
+[
+ {
+  "decision": "COVERED",
+  "reason": "The services were deemed necessary and reasonable for the treatment of muscle weakness, lack of coordination, and cognitive deficits in all three patients. The agents' findings support coverage based on accepted standards of medical practice.",
+  "passage_ids": [
+   638,
+   640
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary had a qualifying three-day hospital stay, was readmitted to the SNF within 30 days, and met the level of care criteria for Medicare coverage during the first 8 days of the stay.",
+  "passage_ids": [
+   574,
+   609,
+   610
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The agents' findings collectively indicate that the services at issue do not meet Medicare's requirements for inpatient coverage, citing lack of physician certification and FMQAI policy.",
+  "passage_ids": [
+   29,
+   49,
+   15,
+   2
+  ],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The appellant did not file a brief within the specified time frame, despite being granted a 30-day opportunity to do so and requesting an additional extension of time.",
+  "passage_ids": [
+   579,
+   571
+  ],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary's liability should be waived due to his inability to understand and act on his rights, as evidenced by his dementia diagnosis and the safety measures ordered by his physician.",
+  "passage_ids": [
+   574
+  ],
+  "case_id": "connecticut11"
+ }
+]

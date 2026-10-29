@@ -1,0 +1,207 @@
+[
+ {
+  "case_id": "12-1251",
+  "decision": "COVERED",
+  "reason": "Chest pain is a listed sign of cardiac distress, and the ambulance report documents chest pain; transport to a hospital is a presumed appropriate destination.",
+  "passage_ids": [
+   434,
+   397
+  ]
+ },
+ {
+  "case_id": "altabates",
+  "decision": "COVERED",
+  "reason": "Both PT and OT were provided, measurable improvement was achieved, and she came from a SNF after the acute stay; intensity is asserted and consistent with the combined therapy times, so two agents support coverage.",
+  "passage_ids": [
+   86,
+   87,
+   84,
+   71
+  ]
+ },
+ {
+  "case_id": "case_excellenthomecare",
+  "decision": "NOT_COVERED",
+  "reason": "A caregiver already gave oral meds and insulin, and the beneficiaries were stable at discharge, so a skilled nursing need and skilled observation are not shown.",
+  "passage_ids": [
+   251,
+   239
+  ]
+ },
+ {
+  "case_id": "case_landmark",
+  "decision": "COVERED",
+  "reason": "Coumadin doses were adjusted twice with INR out of range, so prothrombin monitoring and skilled observation were reasonable and necessary under a plan of care specifying services and frequency.",
+  "passage_ids": [
+   268,
+   239,
+   192
+  ]
+ },
+ {
+  "case_id": "dc_case",
+  "decision": "NOT_COVERED",
+  "reason": "Transport was for nausea and she was treated and released; no showing that other transport was contraindicated, so medical necessity is not established.",
+  "passage_ids": [
+   447
+  ]
+ },
+ {
+  "case_id": "eagle_air_med",
+  "decision": "NOT_COVERED",
+  "reason": "The appellant concedes ground transport was reasonable, the patient was stable, and a closer equipped facility existed, so air ambulance is not supported.",
+  "passage_ids": [
+   417,
+   415
+  ]
+ },
+ {
+  "case_id": "estate_gbr",
+  "decision": "COVERED",
+  "reason": "A neurosurgeon recommended transfer to the Neuro ICU for a hemorrhagic stroke, which fits a covered inter-facility transfer; nothing in the record shows a nearer appropriate facility.",
+  "passage_ids": [
+   402,
+   422
+  ]
+ },
+ {
+  "case_id": "gold_cross_ambulance",
+  "decision": "NOT_COVERED",
+  "reason": "The destination is not shown to be a SNF or hospital, and the run sheet says he could stand and walk, undercutting the contraindication of other transport.",
+  "passage_ids": [
+   400,
+   388
+  ]
+ },
+ {
+  "case_id": "kaweah_rehabilitationhospital",
+  "decision": "NOT_COVERED",
+  "reason": "Therapy intensity and physician face-to-face visits are not shown in the record, so the IRF requirements are not established despite functional gains.",
+  "passage_ids": [
+   83,
+   84,
+   86
+  ]
+ },
+ {
+  "case_id": "m-11-1559",
+  "decision": "NOT_COVERED",
+  "reason": "The inpatient status was recorded as made in error and reverted to observation; the discharge summary says overnight observation, so inpatient admission requirements are not met.",
+  "passage_ids": [
+   42
+  ]
+ },
+ {
+  "case_id": "m-11-2450",
+  "decision": "NOT_COVERED",
+  "reason": "The destination was recorded as a clinic, and ambulance service to a physician-directed clinic is not covered; no showing it was a hospital or SNF.",
+  "passage_ids": [
+   437,
+   400
+  ]
+ },
+ {
+  "case_id": "m_12_257",
+  "decision": "COVERED",
+  "reason": "Re-certification documents inability to leave home without taxing effort, and the infrequent absences for adult day care and doctor visits do not disqualify homebound status.",
+  "passage_ids": [
+   179,
+   180
+  ]
+ },
+ {
+  "case_id": "m_12_809",
+  "decision": "COVERED",
+  "reason": "The beneficiary was admitted as an inpatient after observation with chest pain, new T-wave inversion, extensive cardiac history and catheterization; the stay is consistent with inpatient admission.",
+  "passage_ids": [
+   12,
+   42
+  ]
+ },
+ {
+  "case_id": "midwest_lifeteam",
+  "decision": "NOT_COVERED",
+  "reason": "The transferring hospital lacked cardiology, but it is not shown that Wichita was the nearest appropriate hospital or that ground transport would endanger health.",
+  "passage_ids": [
+   422
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "decision": "COVERED",
+  "reason": "Physician-ordered dysphagia therapy by a speech-language pathologist was skilled, documented progress, and coverage does not depend solely on improvement potential.",
+  "passage_ids": [
+   297,
+   298
+  ]
+ },
+ {
+  "case_id": "prestige_homecare",
+  "decision": "NOT_COVERED",
+  "reason": "Skilled observation requires a reasonable potential for change, and care continued about sixteen months with no instability described; need is not supported.",
+  "passage_ids": [
+   236,
+   239,
+   233
+  ]
+ },
+ {
+  "case_id": "rb_obo_jb",
+  "decision": "NOT_COVERED",
+  "reason": "Homebound status is not established: she attends day care four days a week, travels independently, and moves independently, and day care licensure is not shown.",
+  "passage_ids": [
+   188,
+   187,
+   308
+  ]
+ },
+ {
+  "case_id": "rx_homecare",
+  "decision": "NOT_COVERED",
+  "reason": "Nurse visits only to pour a mediplanner are not skilled, aide hours exceed the 28-hour weekly limit, and no skilled observation rationale is documented.",
+  "passage_ids": [
+   242,
+   341,
+   236,
+   239
+  ]
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "decision": "COVERED",
+  "reason": "The inpatient stay was for a complex hernia repair with significant pulmonary disease, and nothing in the passages shows the services were non-covered.",
+  "passage_ids": [
+   105
+  ]
+ },
+ {
+  "case_id": "state_of_vt",
+  "decision": "COVERED",
+  "reason": "Nurses provided documented pressure ulcer and wound care and caregiver teaching, with diabetes as a factor affecting healing, which is skilled nursing.",
+  "passage_ids": [
+   258,
+   260,
+   261
+  ]
+ },
+ {
+  "case_id": "uphams_homehealthcare",
+  "decision": "NOT_COVERED",
+  "reason": "Family gave medications and monitored glucose, services family can safely perform are not covered, and documentation of skilled need is vague.",
+  "passage_ids": [
+   225,
+   230,
+   233
+  ]
+ },
+ {
+  "case_id": "visitingnursing",
+  "decision": "COVERED",
+  "reason": "Physician-ordered gait training and range-of-motion PT improved her fall-risk score from 7/28 to 18/28, with a plan of care specifying type and frequency.",
+  "passage_ids": [
+   291,
+   192,
+   292
+  ]
+ }
+]

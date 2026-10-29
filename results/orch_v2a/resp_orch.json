@@ -1,0 +1,379 @@
+[
+ {
+  "case_id": "12-1251",
+  "components": [
+   {
+    "name": "Ambulance transport from residence to hospital",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Chest pain is a listed sign of cardiac distress meeting the emergency presumption, and all three agents support coverage; residence-to-hospital is a covered origin and destination.",
+  "passage_ids": [
+   434,
+   400
+  ]
+ },
+ {
+  "case_id": "altabates",
+  "components": [
+   {
+    "name": "IRF stay",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Multiple therapy disciplines (PT and OT) were provided, daily physician contact and measurable functional gains are shown, and therapy minutes are consistent with roughly 3 hours daily; the undocumented items are not enough to defeat coverage.",
+  "passage_ids": [
+   84,
+   86,
+   87
+  ]
+ },
+ {
+  "case_id": "case_excellenthomecare",
+  "components": [
+   {
+    "name": "Certification period 8/27/08-10/25/08 (first beneficiary)",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "Certification period 8/19/08-10/17/08 (second beneficiary)",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "No agent supports skilled need: oral medications and caregiver-given insulin are not skilled, and no ongoing instability is shown for either period.",
+  "passage_ids": [
+   251,
+   239,
+   192
+  ]
+ },
+ {
+  "case_id": "case_landmark",
+  "components": [
+   {
+    "name": "Home health skilled nursing visits (eight visits over three and one-half weeks)",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Coumadin dosage was adjusted twice with INR above the safe range, so prothrombin monitoring and skilled observation were reasonable and necessary, and the plan of care specified type and frequency.",
+  "passage_ids": [
+   268,
+   239,
+   192
+  ]
+ },
+ {
+  "case_id": "dc_case",
+  "components": [
+   {
+    "name": "BLS ambulance transport (A0429)",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "Ground mileage (A0425)",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents find necessity unsettled; transport was for nausea with treat-and-release, and the caregiver's inability to use her SUV does not show other transport was contraindicated. Mileage follows the transport.",
+  "passage_ids": [
+   447
+  ]
+ },
+ {
+  "case_id": "eagle_air_med",
+  "components": [
+   {
+    "name": "Fixed wing air ambulance transport (A0430) and air miles to the nearest facility",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "Extra 107 air miles beyond nearest appropriate facility (A0435)",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents find air transport not supported: the appellant concedes ground transport was reasonable, vital signs were stable, and a closer capable facility existed, so neither the air base rate nor the excess mileage is covered.",
+  "passage_ids": [
+   415,
+   417
+  ]
+ },
+ {
+  "case_id": "estate_gbr",
+  "components": [
+   {
+    "name": "Ground ambulance transfer from Proctor Hospital to St. Francis",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "A hospital-to-hospital transfer is payable, and the on-call neurosurgeon recommended transfer to neuro ICU for a hemorrhagic stroke, showing the originating hospital lacked the needed service; the nearest-facility question is unresolved but nothing contradicts it.",
+  "passage_ids": [
+   402,
+   422,
+   400
+  ]
+ },
+ {
+  "case_id": "gold_cross_ambulance",
+  "components": [
+   {
+    "name": "Non-emergency ambulance transport (A0428) with mileage (A0425)",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "The cardiologist states ambulance with cardiac monitoring was necessary three days after pacemaker and lead replacement for a dependent patient, which supports that other transport was contraindicated despite his ability to walk.",
+  "passage_ids": [
+   388,
+   400
+  ]
+ },
+ {
+  "case_id": "kaweah_rehabilitationhospital",
+  "components": [
+   {
+    "name": "IRF stay",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Both OT and PT were planned daily, the patient had complex medical needs, and measurable functional improvement was documented; unstated intensity and paperwork gaps do not outweigh this.",
+  "passage_ids": [
+   83,
+   86,
+   103
+  ]
+ },
+ {
+  "case_id": "m-11-1559",
+  "components": [
+   {
+    "name": "Inpatient hospital admission and resulting stay",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "The inpatient decision was recorded as an error and reverted to observation, the discharge summary says overnight observation, and observation orders do not meet inpatient admission requirements.",
+  "passage_ids": [
+   42
+  ]
+ },
+ {
+  "case_id": "m-11-2450",
+  "components": [
+   {
+    "name": "BLS emergency ambulance transport",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "Ground mileage",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "The run sheet records the destination as a clinic, and transport to a physician-directed clinic is not covered; the appellant's claim that it was a hospital or SNF is unsupported. Mileage follows the transport.",
+  "passage_ids": [
+   437,
+   400,
+   410,
+   447
+  ]
+ },
+ {
+  "case_id": "m_12_257",
+  "components": [
+   {
+    "name": "Home health recertification period 5/20/10-7/18/10",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Documented functional limitations and taxing effort to leave home support homebound status, and infrequent absences for adult day care and doctor visits do not defeat it; all three agents support coverage.",
+  "passage_ids": [
+   179,
+   180
+  ]
+ },
+ {
+  "case_id": "m_12_809",
+  "components": [
+   {
+    "name": "Inpatient hospital admission 2/18-2/20/10",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "The beneficiary was formally admitted to inpatient status after transfer for a higher level of care with chest pain, new T-wave inversion and extensive cardiac history, and the stay approached two midnights; missing order details are not shown to be absent.",
+  "passage_ids": [
+   12,
+   42
+  ]
+ },
+ {
+  "case_id": "midwest_lifeteam",
+  "components": [
+   {
+    "name": "Air ambulance transfer to Via Christi, Wichita",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "The transferring hospital lacked a cardiologist, two other hospitals also lacked one, and the patient became progressively unstable; cardiac care is a listed specialized service, so the transfer is supported despite the unresolved nearest-facility dispute.",
+  "passage_ids": [
+   422
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "components": [
+   {
+    "name": "Home health speech-language pathology (dysphagia therapy)",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Coverage does not depend solely on improvement potential; a physician-signed plan ordered dysphagia therapy with documented assessment and steady measurable gains, and all agents support coverage.",
+  "passage_ids": [
+   297,
+   298,
+   279
+  ]
+ },
+ {
+  "case_id": "prestige_homecare",
+  "components": [
+   {
+    "name": "Ten-month certification period",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "Four-month certification period",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "No agent finds skilled need established: the facts show only certifications with no reasonable potential for change, instability, or visit-level documentation after about sixteen months of care.",
+  "passage_ids": [
+   236,
+   239,
+   233,
+   192
+  ]
+ },
+ {
+  "case_id": "rb_obo_jb",
+  "components": [
+   {
+    "name": "Home health nursing and aide services",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents find the issues unsettled: the beneficiary leaves home four days weekly independently with no licensed or certified day care shown, and the record does not show she cannot do personal care or needs a plan of care for aide tasks.",
+  "passage_ids": [
+   188,
+   308,
+   174
+  ]
+ },
+ {
+  "case_id": "rx_homecare",
+  "components": [
+   {
+    "name": "Skilled nursing visits (mediplanner and aide oversight)",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "Home health aide services (30-35 hours/week)",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents do not support coverage: filling a mediplanner and overseeing aides is not skilled, no potential for change is documented, and aide hours exceed the 28-hour limit.",
+  "passage_ids": [
+   242,
+   236,
+   239,
+   341
+  ]
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "components": [
+   {
+    "name": "Inpatient hospitalization 7/27-7/29/05",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Agents' passages address only non-covered-related services and none is identified, so nothing defeats coverage; the case facts show admission after complicated hernia repair with significant pulmonary disease, oxygen, pulmonary assessments and spirometry.",
+  "passage_ids": [
+   105
+  ]
+ },
+ {
+  "case_id": "state_of_vt",
+  "components": [
+   {
+    "name": "First episode: sacral pressure ulcer (June 2007)",
+    "decision": "COVERED"
+   },
+   {
+    "name": "Second episode: buttock blisters (August 2007)",
+    "decision": "COVERED"
+   },
+   {
+    "name": "Third episode: foot wounds (October 2007)",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Nurses assessed, treated and taught wound care for pressure ulcer and wounds in a diabetic patient, which is skilled wound care, and visit notes document each episode through healing.",
+  "passage_ids": [
+   258,
+   260,
+   261,
+   239
+  ]
+ },
+ {
+  "case_id": "uphams_homehealthcare",
+  "components": [
+   {
+    "name": "Home health skilled nursing visits",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents do not support coverage: family administered medications and monitored glucose, aides were involved, and the record has only the appellant's assertions and two glucose readings.",
+  "passage_ids": [
+   225,
+   230,
+   233,
+   243,
+   242
+  ]
+ },
+ {
+  "case_id": "visitingnursing",
+  "components": [
+   {
+    "name": "Home health physical therapy (11 visits)",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Gait training and range of motion are skilled PT, the plan of care ordered type and frequency, and objective measures documented improvement from 7/28 to 18/28; all agents support coverage.",
+  "passage_ids": [
+   291,
+   292,
+   192
+  ]
+ }
+]

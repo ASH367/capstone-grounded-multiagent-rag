@@ -1,0 +1,359 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                        Docket Number: M-13-04
+
+
+In the case of                        Claim for
+
+                                      Hospital Insurance Benefits
+Brittany Farms Health Center          (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+National Government Services          ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+The Medicare Appeals Council has decided, on its own motion, to
+review the Administrative Law Judge’s (ALJ’s) decision dated
+August 2, 2012, because there are errors of law material to the
+outcome of the claim. In that decision, the ALJ found that
+skilled nursing facility (SNF) services the provider furnished
+to the beneficiary from October 22, 2010, through October 27,
+2010 were not medically reasonable and necessary under section
+1862(a)(1) of the Social Security Act, and did not meet the
+conditions and limitations of payment pursuant to section
+1814(a)(2)(B) of the Act. The ALJ found that the provider
+furnished valid advance notice to the beneficiary of non-
+coverage, and that the provider was not liable under section
+1879.
+
+By memorandum dated September 27, 2012, and received October 1,
+2012, the Centers for Medicare & Medicaid Services (CMS) asked
+the Council to take own motion review of the ALJ's decision.
+The Council admits CMS's referral memorandum into the record as
+Exhibit (Exh.) MAC-1. The Council has not received a response
+to the CMS referral memorandum from either the provider or the
+beneficiary. See 42 C.F.R. § 405.1110(b)(2).
+
+The Council has carefully considered the record that was before
+the ALJ, as well as the CMS memorandum. For the reasons
+                                                                                2
+explained below, the Council is issuing a decision favorable to
+the beneficiary.1 See 42 C.F.R. § 405.1110(d). However, the
+beneficiary may instead request that the Council remand for a
+hearing within 30 days from the date of notice of this decision.
+Cf., 42 C.F.R. § 404.1038(a)(an ALJ may issue a favorable
+decision on the record offering the opportunity for a hearing).
+
+                                 BACKGROUND
+
+This matter involves SNF services the appellant provider
+furnished to the beneficiary from October 22, 2010, through
+October 27, 2010. Exh. MAC-1, at 1. The contractor, National
+Government Services (NGS), denied Medicare coverage initially
+and on redetermination. Exh. 16, at 1. In the redetermination,
+the contractor stated that the claim would remain denied because
+the services provided were non-skilled. Id. at 2. The
+contractor further determined that the provider was liable for
+the cost of the non-covered services. Id. at 2-3.
+
+On reconsideration, the Qualified Independent Contractor (QIC)
+similarly concluded that the services were not covered by
+Medicare. Exh. 17, at 1-3. The QIC also concluded that the
+record did not contain certification for SNF services and,
+absent such documentation, “Medicare cannot make payment on the
+claim.” Id. at 2b.2 The QIC acknowledged the presence of an
+Advance Beneficiary Notice (ABN) in the record. Id. However,
+the QIC determined the ABN to be invalid. The QIC stated:
+
+      In order to be valid a [SNFABN] must have one, but not
+      both, option box checked by the beneficiary [or]
+      authorized representative . . .
+
+      . . . [the ABN] submitted did not have either option
+      box checked. Therefore, the notice was invalid.
+      Additionally, in this case the denial was due to the
+      provider’s failure to submit complete documentation,
+      including a certification for SNF services. The
+      beneficiary could not have been expected to know that
+      the provider would fail to submit complete
+1
+  CMS does not specifically contest the ALJ’s determination of non-coverage of
+the SNF services. Therefore, the issue of non-coverage is not before the
+Council.
+2
+   Any record citation referencing a “b” designation denotes the back side of
+a two-sided document in which the back side has not been assigned a separate
+page designation at the lower level of appeal.
+                                                                    3
+     documentation. Thus, even if the [ABN] submitted was
+     valid, the beneficiary would not be liable for these
+     noncovered charges.
+
+Id. at 2b.   Therefore, the QIC found the appellant liable.   Id.
+at 2b-3.
+
+The appellant requested a hearing before an ALJ. The record
+does not document that the ALJ notified the beneficiary of the
+hearing. See Exh. 19. The ALJ held a hearing on June 12, 2012.
+Hearing CD. The appellant’s representative appeared and
+provided testimony. Id. On August 2, 2012, the ALJ issued his
+hearing decision in which he found that:
+
+     The undersigned reviewed the testimony of the
+     Appellant’s representative, . . . that willful
+     inattention to instructions directed to the
+     beneficiary in a telephonic notice as to filling out
+     an ABN constituted constructive notice and a proper
+     factual predicate for waiver of liability pursuant to
+     Social Security Act Section 1879 . . .
+
+     . . . the Appellant did not meet the conditions and
+     limitations of payment pursuant to § 1814(a)(2)(B) of
+     the [Act], at the skilled level of care for post-
+     hospital services rendered and as billed to the
+     Appellant for dates of service of October 22 to
+     October 27, 2011. The services are properly excluded
+     from coverage pursuant to § 1862(a) of the [Act], as
+     they are not medically reasonable and necessary.
+
+Dec. at 5. The ALJ found, in effect, that the beneficiary was
+liable for the non-covered services, and that the provider was
+not liable.
+
+CMS filed a referral memorandum for the Council's own motion
+review, dated September 27, 2012, and received by the Council on
+October 1, 2012. Exh. MAC-1. In the memorandum, CMS argues
+that the ALJ’s decision is erroneous as a matter of law in five
+respects:
+
+     1. The ALJ erred by failing to issue a notice of
+     hearing to the beneficiary, in violation of 42 C.F.R.
+     §§ 405.1008 and 405.1022.
+                                                                   4
+     2. The ALJ erred in failing to provide the
+     beneficiary with notice of the ALJ’s decision pursuant
+     to section 405.1046(a) of Title 42 of the C.F.R.
+
+     3. The ALJ erred in applying section 1879 of the Act
+     to limit appellant’s liability. See 42 C.F.R.
+     § 405.1063(a). The ALJ failed to consider section
+     411.406(e) of Title 42 of the CFR, stating providers
+     participating in Medicare have constructive knowledge
+     of the Act, the C.F.R., and program guidance published
+     by CMS and its contractors.
+
+     4. The ALJ erred in finding appellant furnished the
+     beneficiary with sufficient notice of non-coverage.
+     The ALJ failed to consider sections 40.3.1.2 and 70.5
+     of chapter 30 of the Medicare Claims Processing Manual
+     which require an ABN of Medicare non-coverage to be
+     furnished in advance of the service.
+
+     5. The ALJ erred in failing to consider whether
+     section 1879 of the Act was applicable to limit the
+     beneficiary’s liability in this case in light of
+     appellant’s failure to furnish the beneficiary prior
+     notice of Medicare non-coverage for SNF services
+     furnished from October 22, 2010, until October 27,
+     2010.
+
+Exh. MAC-1, at 1-2.
+
+                           DISCUSSION
+
+Proper Notice of Proceedings and Actions at the ALJ Level of
+Review
+
+The beneficiary was a party to the proceedings at the ALJ level,
+even if she had not been the party that requested a
+redetermination, reconsideration, and ALJ hearing. See 42
+C.F.R. §§ 405.902; 405.906(a),(b). Therefore, in addition to
+the appellant, the ALJ should have notified the beneficiary of
+any proceedings at the ALJ level. Further, the regulations at
+42 C.F.R. § 405.1046(a) require that, among other things, “the
+ALJ will issue a written decision that gives the findings of
+fact, conclusions of law, and the reasons for the decision . . .
+[t]he ALJ mails a copy of the decision to all the parties at
+their last known address, to the QIC that issued the
+                                                                              5
+reconsideration determination, and to the contractor that issued
+the initial determination.”
+
+In this case, the record lacks documentation that the
+beneficiary was afforded the opportunity to fully participate in
+the proceedings at issue. Specifically, the record lacks any
+documentation indicating that:
+
+      a) The beneficiary acknowledged receipt of the ALJ’s
+      Notice of Hearing and her intent to participate in the
+      proceedings, or that the Office of Medicare Hearings and
+      Appeals (OMHA) contacted the appellant for an explanation
+      regarding its failure to acknowledge receipt of the Notice
+      of Hearing. See 42 C.F.R. § 405.1020(c)(1).
+
+      b) The beneficiary indicated in writing that she did not
+      wish to participate in an ALJ hearing.3 See 42 C.F.R.
+      § 405.1020(d).
+
+      c) The beneficiary was provided with Notice of the ALJ’s
+      Decision. See 42 C.F.R. § 405.1046(a).
+
+In sum, it is not possible to ascertain from the record in this
+case that, during the ALJ proceedings, the ALJ afforded the
+beneficiary the due-process based procedural protections
+required by the Medicare regulations. This was an error of law.
+
+Liability
+
+The provider has not contested non-coverage of the SNF services
+from October 22, 2010, through October 27, 2010. The request
+for hearing instead only asserts that the beneficiary is liable,
+based on telephone and written notice given on October 25, 2010,
+that the services would be non-covered effective October 28,
+2010. Exh. 18 at 19.
+
+Section 1879 of the Act may limit the liability of a beneficiary
+or a supplier or provider for non-covered items or services
+based upon whether they had prior knowledge of non-coverage.
+Section 1879 of the Act; 42 C.F.R. §§ 411.400(a), 411.404,
+411.406. A beneficiary is deemed to have knowledge of non-
+coverage if the supplier or provider furnishes written notice to
+the beneficiary explaining why it believes that Medicare will
+not cover the item or service, before the services are
+3
+  At the outset of the hearing, the ALJ states only that the beneficiary is
+not taking part in this hearing. Hearing CD at 9:33:40-50.
+                                                                   6
+furnished. 42 C.F.R. §§ 411.400, 411.404(b). A supplier or
+provider is deemed to have knowledge of non-coverage, in part,
+when it informs the beneficiary before furnishing the item or
+service that it is not covered. 42 C.F.R. § 411.406(d)(1). A
+supplier or provider also has actual or constructive knowledge
+of non-coverage based upon “[i]ts receipt of CMS notices,
+including manual issuances, bulletins, or other written guides
+or directives from [Medicare contractors]” and “[i]ts knowledge
+of what are considered acceptable standards of practice by the
+local medical community.” 42 C.F.R. §§ 411.406(e)(1),(3).
+
+CMS program guidance provides:
+
+     The purpose of the ABN is to inform a Medicare
+     beneficiary before he or she receives specified items
+     or services that otherwise might be paid for that
+     Medicare certainly or probably will not pay for them
+     on that particular occasion. The ABN, also, allows
+     the beneficiary to make an informed consumer decision
+     whether or not to receive the items or services for
+     which he or she may have to pay out of pocket.
+
+     The provider . . . must issue an ABN each time, and as
+     soon as, it makes the assessment that Medicare payment
+     certainly or probably will not be made. A provider
+     . . . shall notify a beneficiary by means of timely
+     (as defined in § 40.3.3) and effective (as defined in
+     § 40.3.4) delivery of a proper notice document (as
+     defined in § 40.3.1) to a qualified recipient.
+
+Medicare Claims Processing Manual (MCPM), CMS Pub. 100-04, Ch.
+30, § 40.3. The MCPM also indicates that, among things, a valid
+ABN must provide the date on which non-coverage of services
+commences, as well as contain sufficient reason why the provider
+why the appellant believes the services will not be covered by
+Medicare. Id. at §§ 40.3, 40.3.8.
+
+Further, other pertinent manual guidance provides:
+
+     The contractor will not consider a telephone notice to
+     a beneficiary, or authorized representative, to be
+     sufficient evidence of proper notice for limiting any
+     potential liability, unless the content of the
+     telephone contact can be verified and is not disputed
+     by the beneficiary. If telephone notice was followed
+     up immediately with a mailed notice . . . and the
+                                                                                7
+      beneficiary signed the written notice accepting
+      responsibility for payment, the contractor will accept
+      the time of the telephone notice as the time of ABN
+      delivery.
+
+MCPM, Ch. 30, § 40.3.4.2 (emphasis added).4
+
+In this case, the ABN at issue states “[t]he effective date of
+your current skilled nursing services will end: 10/27/10.”5
+Exh. 14, at 55. In addition, a letter from the appellant dated
+October 25, 2010, and addressed to the beneficiary’s
+representative, indicates that the SNF services provided to the
+beneficiary will cease to be covered by Medicare as of October
+28, 2010. Id. at 52. Neither the ABN nor the October 25, 2010,
+letter from the appellant address termination of coverage for
+SNF services provided between October 22 and 27, 2010.
+Therefore, the Council finds no evidence that the beneficiary
+was adequately informed of the probability of Medicare non-
+coverage of SNF services from October 22, 2010, through October
+27, 2010, before the services were furnished.
+
+The ALJ further held that the provider was not liable under
+section 1879 because “it could not have reasonably known or been
+on notice of Medicare’s requirements for payment for
+rehabilitative services ordered.” Dec. at 5. This is an error
+of law. Under the regulations at 42 C.F.R. § 411.408, the
+provider is presumed to have constructive notice of Medicare
+policies published in the Federal Register or included in CMS
+and contractor notices. The provider is thus liable under
+section 1879 of the Act.
+
+In addition, the QIC found that the provider did not obtain
+valid physician certifications. Exh. 17. Section 1814 of the
+Act is captioned “Requirement of Requests and Certifications.”
+Subsection 1814(a)(2)(B), which the ALJ also cited as a denial
+basis, contains the requirements for physician certification.
+The appellant has not filed any exceptions asserting that it had
+a valid physician certification. As part of its provider
+agreement, the regulation at 42 C.F.R. § 489.21(b)(1) states
+that the provider agrees not to charge the beneficiary for
+otherwise covered services for which it lacks the required
+4
+   Manuals issued by the Centers for Medicare and Medicaid Services (CMS) can
+be found at http://www.cms.gov/manuals.
+5
+  The ABN is unsigned by either the beneficiary or her representative. The
+ALJ deprived the beneficiary of the opportunity to either verify or contest
+notice by not joining her as a party to the hearing.
+                                                                  8
+physician certification. Thus, even if the services were
+covered, the provider would not be able to bill the beneficiary
+unless it had a valid physician certification.
+
+                            DECISION
+
+It is the decision of the Medicare Appeals Council that the
+services from October 22, 2010, through October 27, 2010, are
+not medically reasonable and necessary and thus not covered
+under section 1862(a)(1) of the Act. The beneficiary is not
+liable under section 1879. The provider is liable under section
+1879. The ALJ’s decision is reversed.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Clausen J. Krzywicki
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/ Leslie A. Sussan, Member
+                                   Departmental Appeals Board
+
+Date:   December 28, 2012
+

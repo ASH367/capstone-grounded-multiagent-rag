@@ -1,0 +1,274 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+
+
+In the case of                        Claim for
+
+                                      Hospital Insurance Benefits
+G.R.                                  (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+Associated Hospital Service           ****
+(Contractor)                          (ALJ Appeal Numbers)
+
+
+The Administrative Law Judge (ALJ) issued a decision in each of
+the three appeals listed above on February 8, 2007. The ALJ
+decisions concerned nursing services provided to Medicare
+beneficiary at his place of residence, an assisted living
+facility, by the Visiting Nurses Association of Chittenden and
+Grand Isle Counties, Inc., from February 29, 2004, through April
+28, 2004, and August 27, 2004, through December 24, 2004. The
+appellant has asked the Medicare Appeals Council (the Council)
+to review these actions.
+
+The Council reviews the ALJ’s decisions de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+actions to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+The Council adopts the ALJ’s recitation of the applicable law,
+but not his findings and conclusions with respect to the
+beneficiary’s homebound status. As set forth below, the Council
+reverses the ALJ’s decisions.
+                                                                   2
+
+
+
+
+                BACKGROUND AND PROCEDURAL HISTORY
+
+During the periods of service at issue, the beneficiary was a 51
+year-old male, who resided in an assisted living facility, had a
+primary diagnosis of cerebrovascular accident complications, and
+relied on a power wheelchair for mobility. The medical records
+in evidence demonstrate that the beneficiary required daily
+injections of streptococcal septic medication but was unable to
+self-inject due to deformity of his hand and paralysis of the
+right arm. Due to his functional limitations, the beneficiary
+was unable to reposition himself independently and was fully
+dependent on assistance for all activities of daily living,
+including bathing and dressing. Nursing notes indicate that the
+VNA of Chittenden and Grand Isle Counties, Inc. provided
+intermittent skilled nursing services to the beneficiary during
+the periods of service at issue.
+
+The Medicare intermediary, Associated Hospital Service, denied
+the claims initially, finding the services reasonable given the
+beneficiary’s diagnoses and condition, but that the beneficiary
+did not meet the homebound requirement for Medicare coverage.
+See, e.g., 1-108393946, Exh. 2 at 97. In the absence of an
+Advance Beneficiary Notice (ABN) or Notice of Non-Coverage
+(NNC), the intermediary found the provider liable for the non-
+covered services. The appellant appealed on January 12, 2006.
+
+In three redetermination decisions issued on February 17, 2006,
+the Medicare intermediary again denied coverage of the claimed
+home health services and found the provider liable for the non-
+covered services. Each of the decisions found that the
+beneficiary did not meet the homebound requirement for Medicare
+coverage. The appellant requested reconsideration.
+
+The Qualified Independent Contractor (QIC), MAXIMUS, issued
+three reconsideration decisions for the periods at issue on
+October 3, 2006, and October 4, 2006. In each appeal, the QIC
+concluded that although the administration of injections by a
+skilled nurse when the beneficiary’s friends were unavailable to
+assist was reasonable and necessary, Medicare could not cover
+the services because the Plan of Care and other nursing notes
+indicated that the beneficiary was not homebound. See, e.g.,
+1-108393946, Exh. 9 at 142. Ultimately, the QIC held the
+                                                                             3
+
+
+
+
+provider liable for the non-covered services because the file
+did not contain an ABN or NNC. The Office of Medicare Hearings
+& Appeals received the appellant’s request for an ALJ hearing on
+December 4, 2006.
+
+On February 6, 2007, with the consent and participation of
+counsel for the appellant, the ALJ held one hearing on five
+appeals involving the same beneficiary and provider, but each
+with different dates of service. The provider was given notice
+of the hearing but did not respond or participate. In addition
+to its brief, the appellant submitted copies of previous
+Medicare intermediary determinations, a QIC decision, and a
+decision from another ALJ, all of which found this beneficiary
+to be homebound and his home health services covered by Medicare
+for the periods at issue in those claims.
+
+On February 8, 2007, the ALJ issued five separate opinions
+regarding this beneficiary and provider: the three unfavorable
+decisions at issue here and two favorable decisions.1 In each
+of the three substantially similar decisions on appeal here, the
+ALJ found that the medical records in evidence supported that
+the services provided were skilled in nature and were medically
+reasonable and necessary. See, e.g., 1-108393946, ALJ Dec.
+at 8. However, the ALJ concluded that the same records did not
+support finding the beneficiary homebound because the
+certification of the beneficiary’s homebound status was
+inconsistent. Specifically, the ALJ relied on the inclusion of
+the phrase “not homebound” on the narrative portion of Plans of
+Care as well as several instances where nursing notes indicated
+“not homebound” or “not HB.” In each of the decisions, the ALJ
+denied Medicare coverage and found the provider liable for the
+non-covered services.
+
+On February 16, 2007, the appellant requested Council review of
+the three unfavorable decisions and submitted a memorandum in
+support of its position. The appellant contends that the ALJ’s
+findings that the beneficiary could leave home without
+considerable and taxing effort are against the substantial
+weight of evidence because an examination of the medical
+records, taken as a whole, illustrates that the beneficiary was
+
+1
+  The two favorable decisions are not on appeal to the Council and will not be
+reviewed here. The ALJ decision for appeal number 1-108418739 found the
+beneficiary homebound and granted Medicare coverage of the home health
+services provided to the beneficiary on April 29, 2004, through June 27,
+2004. The ALJ decision for appeal number 1-108436160 found the beneficiary
+homebound and granted coverage for June 28, 2004, through August 26, 2004.
+                                                                   4
+
+
+
+
+homebound. Appellant argues that the Plans of Care and the
+record as a whole support a finding that beneficiary was
+“confined to the home.”
+
+DISCUSSION
+
+After reviewing the records and the appellant’s exceptions, the
+Council finds that the ALJ erred in finding the beneficiary not
+confined to the home, and in denying Medicare coverage of the
+home health services provided to the beneficiary during the
+periods of service at issue.
+
+The Medicare Program Integrity Manual (MPIM) cited in the ALJ’s
+decision instructs:
+
+     Afford the favorable final appellate decision that a
+     beneficiary is ‘confined to home’ great weight in
+     evaluating whether the beneficiary is confined to the
+     home when reviewing services rendered after the
+     service date of the claim addressed in the favorable
+     final appellate decision unless there has been a
+     change in facts (such as medical improvement or an
+     advance in medical technology) that has improved the
+     beneficiary’s ability to leave the home.
+
+CMS Manual System, Pub. 100-8, Medicare Program Integrity,
+Chapter 6, § 6.2.1. The ALJ and the MAC must give substantial
+deference to this CMS program guidance. 42 C.F.R. §
+405.1062(a).
+
+Here, the appellant has submitted copies of a QIC decision, a
+decision from another ALJ, and two decisions that the ALJ in
+this case issued concurrently, each of which found this
+beneficiary to be homebound and his home health services covered
+by Medicare for the periods at issue in those claims. These
+prior appellate decisions found the beneficiary homebound during
+the periods from January 5, 2003, through September 1, 2003, and
+from November 1, 2003, through February 28, 2004, which
+immediately precede the periods of service at issue here. See,
+e.g., 1-108393946, Exh. 9 at 149-159. Notably, this same ALJ
+found the beneficiary homebound during the four-month period
+from April 29, 2004, through August 26, 2004, which is in the
+middle of the periods at issue in this decision. These prior
+determinations regarding different dates of service are entitled
+to “great weight,” as instructed by the MPIM.
+                                                                   5
+
+
+
+
+The Council finds that, when taken as a whole, the record
+supports a continued finding that the beneficiary was unable to
+leave home without a considerable and taxing effort. The
+beneficiary remained under the care of a treating physician who
+ordered intermittent home health care services that were skilled
+in nature. The OASIS forms indicate that the beneficiary was
+unable to leave home without assistance and relied on a power
+wheelchair for mobility.
+
+The MPIM provides an example of how a quadriplegic beneficiary
+may still be considered “confined to the home even though he
+leaves home several times a week for personal reasons,” because
+these trips require assistance and taxing effort. Id. at Ex. 1.
+In this case, the record contains scant information about the
+beneficiary’s actual absences from his place of residence, an
+assisted living facility. It is unclear whether the beneficiary
+merely left his personal room or the entire facility. Nor is it
+clear whether facility staff supervised the absences as would
+occur with a group activity, or whether the absences occurred
+for a reason typically excused from scrutiny. Several nursing
+notes indicated that the beneficiary was “not homebound - leaves
+daily for social and medical appointments.” The MBPM
+specifically provides that leaving one’s home to attend medical
+appointments does not negatively impact a beneficiary’s
+homebound status. Id. at § 30.1. The beneficiary here may in
+fact leave his room or the assisted living complex several times
+a week, but doing so requires assistance from staff, reliance on
+a power wheelchair, and a considerable and taxing effort.
+
+Although the documentation of the beneficiary’s homebound status
+may fluctuate during different periods of service, there is no
+objective medical evidence that his clinical condition has
+significantly changed. The medical records in evidence do not
+demonstrate that the beneficiary’s medical condition has
+improved such that he would no longer be confined to the home.
+He remains dependent on a power wheelchair for mobility. The
+beneficiary’s primary diagnosis did not change and he was
+hospitalized four times during the dates of service at issue.
+Furthermore, the record does not demonstrate a change in facts
+such as medical improvement or an advance in medical technology
+that has improved the beneficiary’s ability to leave the home.
+Therefore, the Council finds that the record demonstrates that
+the beneficiary continued to satisfy the homebound requirement
+necessary to qualify for home health services.
+                                                                   6
+
+
+
+
+Based on the medical records in evidence, the Medicare
+intermediary, the QIC, and the ALJ each found that the home
+health services at issue were skilled, and both reasonable and
+necessary for the beneficiary’s care and to ensure his safety
+given his diagnoses. The Council finds no basis to disturb
+these findings. The Council finds the services at issue
+covered.
+
+                            DECISION
+
+It is the decision of the Medicare Appeals Council that the home
+health services from February 29, 2004, through April 28, 2004,
+and from August 27, 2004, through December 24, 2004, are
+covered. The ALJ’s decisions as to these dates of service are
+hereby reversed.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+                                   /s/ Clausen J. Krzywicki
+                                   Administrative Appeals Judge
+
+
+                                   /s/ Gilde Morrisson
+                                   Administrative Appeals Judge
+
+Date: October 15, 2007
+

@@ -1,0 +1,350 @@
+              DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                     DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-11-1350
+
+In the case of                       Claim for
+
+                                     Medicare Advantage (MA)
+J.A.C.                               Benefits (Part C)
+(Appellant)
+
+
+ ****                                 ****
+(Enrollee/Beneficiary)               (HIC Number)
+
+Highmark Blue Shield/
+FreedomBlue PPO                       ****
+(MA Organization (MAO)/              (ALJ Appeal Number)
+ MA Plan)
+
+
+The Administrative Law Judge (ALJ) issued a decision on April 6,
+2010. The ALJ determined that the enrollee did not require
+skilled nursing or skilled rehabilitation services on a daily
+basis after December 25, 2009, and, accordingly, upheld the
+Quality Improvement Organization’s (QIO’s) determination that
+the termination of skilled nursing facility (SNF) coverage
+beginning December 26, 2009, was appropriate. The ALJ concluded
+that the MA plan may not be required to cover the charges
+incurred for the enrollee’s SNF stay on and after December 26,
+2009. The appellant/enrollee (represented by her son) has asked
+the Medicare Appeals Council (Council) to review the ALJ’s
+decision.
+
+The regulation codified at 42 C.F.R. § 422.608 states that
+“[t]he regulations under part 405 of this chapter regarding MAC
+[Medicare Appeals Council] review apply to matters addressed by
+this subpart to the extent that they are appropriate.” The
+regulations “under part 405” include the appeal procedures found
+at 42 C.F.R. part 405, subpart I. With respect to Medicare
+“fee-for-service” appeals, the subpart I procedures pertain
+primarily to claims subject to the Medicare, Medicaid and SCHIP
+Benefits Act of 2000 (BIPA) and the Medicare Prescription Drug,
+Improvement, and Modernization Act of 2003 (MMA). 70 Fed. Reg.
+11420, 11421-11426 (March 8, 2005). The Council has determined,
+                                                                           2
+until there is amendment of 42 C.F.R. part 422 or clarification
+by the Centers for Medicare & Medicaid Services (CMS), that it
+is “appropriate” to apply, with certain exceptions, the legal
+provisions and principles codified in 42 C.F.R. part 405,
+subpart I, to this case. 1
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+See 42 C.F.R. § 405.1112(c).
+
+The Council admits the following documents into the
+administrative record, identified by Exhibit (Exh.) number:
+
+     Request for Review, received 06/11/2010               Exh. MAC-1
+     Correspondence from Council 06/22/2010                Exh. MAC-2
+     Correspondence from appellant, 07/07/2010             Exh. MAC-3
+     Correspondence from appellant, 11/03/2010             Exh. MAC-4
+     Council’s Remand Order, 11/17/2010                    Exh. MAC-5
+     Council’s Remand Order, 02/03/2011                    Exh. MAC-6
+     ALJ’s Order of Removal, 04/11/2011                    Exh. MAC-7
+     Correspondence from appellant, 07/11/2011             Exh. MAC-8
+     Correspondence from appellant, 04/05/2012             Exh. MAC-9
+     Correspondence from Council, 04/09/2012               Exh. MAC-10
+     Correspondence from appellant, 04/09/2012             Exh. MAC-11
+
+The Council received the appellant’s request for review on June
+11, 2010, and docketed it as M-10-1386. Exh. MAC-1. The
+Council was unable to retrieve the record from the Centers for
+Medicare & Medicaid Services (CMS), or any other source, despite
+repeated efforts. Exh. MAC-5. Therefore, on November 17, 2010,
+the Council remanded the case to the ALJ to reconstruct the
+record or develop a new record. Id. The Council stated that it
+would vacate its Order if the complete record, including the
+audio recording of the ALJ hearing, was located and made
+available to the Council. Id. On December 7, 2010, the Council
+received documents that pertain to the claim at issue. See Exh.
+MAC-6. The case was re-docketed as M-11-448. However, the
+Council’s review of the record revealed that neither the ALJ’s
+numbered exhibits nor a signed copy of the ALJ’s decision were
+among the documents that purported to be the claim file. Id.
+
+1
+   As noted by CMS, “the provisions that are dependent upon qualified
+independent contractors would not apply since an independent review entity
+[IRE] conducts reconsiderations for MA appeals.” 70 Fed. Reg. 4676 (Jan. 28,
+2005).
+                                                                   3
+Therefore, on February 3, 2011, the Council again remanded the
+case to an ALJ to reconstruct the file. Id. By order dated
+April 11, 2011, the ALJ returned the file to the Council. Exh.
+MAC-7. As the file now appears to be complete, the Council
+vacates its November 17, 2010, and February 3, 2011 remand
+orders in M-10-1386 and M-11-448, respectively, and addresses
+the appellant’s request for review.
+
+The Council finds no basis for altering the ALJ’s decision and,
+accordingly, adopts the ALJ’s decision.
+
+                           DISCUSSION
+
+The ALJ’s decision provides a recitation of facts and legal
+authorities. Dec. at 2-11. The Council incorporates that
+discussion by reference and will not repeat it in full in this
+action.
+
+Briefly, the enrollee, 68 years old during the time period at
+issue, was hospitalized on November 18, 2009, for low back pain
+and urinary tract infection. Exh. 6, at 124-25. Her past
+medical history included bipolar disorder, depression, diet-
+controlled diabetes, hypercholesterolemia, and hypertension.
+Id. at 125. The enrollee was admitted to     ***    Health
+Center (     *** or provider), a SNF, on November 20, 2009.
+See id at 123. At     ***   , the enrollee received skilled
+physical therapy (PT) and occupational therapy (OT) from
+November 22, 2009, to December 24, 2009. See id. at 67-102.
+The enrollee was discharged from    ***     on December 28,
+2009, at which time she returned home. See id. at 114, 107.
+
+On December 23, 2009, the provider notified the enrollee that
+Medicare coverage for her SNF stay would end on December 25,
+2009. Exh. 2, at 45-46. Also on December 23, 2009, the
+enrollee’s representative made a telephone request for an
+expedited determination to challenge the decision to end
+coverage of SNF services. See Exh. 4, at 56. On December 24,
+2009, the MA plan issued a “Detailed Explanation of Non-
+Coverage” in which it stated that the enrollee had met or
+surpassed her goals in OT and PT; accordingly, she no longer
+required skilled services. Exh. 2, at 47-52. On December 25,
+2009, Quality Insights of Pennsylvania, the QIO, issued an
+expedited determination concluding that the plan’s decision to
+end coverage was correct. Exh. 4, at 58-60. On December 29,
+2009, the QIO issued a reconsideration upholding the termination
+of coverage. Exh. 5.
+                                                                                4
+The enrollee requested a hearing before an ALJ. Exh. 6, at 137-
+39. The ALJ held a hearing, by telephone, on April 1, 2010.
+Dec. at 2. The enrollee’s representative appeared before the
+ALJ and presented testimony and argument. In the hearing
+decision, issued April 6, 2010, the ALJ agreed with the QIO that
+termination of SNF care was appropriate as of December 25, 2009,
+because skilled PT and OT were no longer medically reasonable
+and necessary for the enrollee. Id. at 11-12.
+
+Before the ALJ, the enrollee argued that she could not leave the
+SNF before the attending physician examined her and signed
+discharge orders. See Exh. 6, at 138. She further argued that,
+as a practical matter, because of the Christmas holiday, the
+first opportunity for the physician to examine her was Monday,
+December 28, 2009. Id. She therefore argued that she should
+not be financially responsible for the three days of non-covered
+SNF charges incurred from December 26 to 28, 2009. Id. The ALJ
+concluded that this was not a basis for finding that the care on
+those dates qualified for Medicare coverage. Dec. at 12.
+Before the Council, the enrollee argues that the provider’s
+medical records demonstrate that the enrollee’s medical
+condition was such that she continued to need skilled
+observation and assessment by nursing staff, as well as skilled
+rehabilitation services, on and after December 26, 2009. See
+Exh. MAC-1. The ALJ addressed these arguments as well, finding
+that the enrollee did not require or receive skilled services.
+Dec. at 11-12. The Council finds no error in the ALJ’s
+conclusions. 2
+
+To qualify for Medicare coverage, SNF care must meet four basic
+criteria, as outlined in the Medicare Benefit Policy Manual
+(MBPM), CMS Internet Only Manual (IOM) 100-02:
+
+     •   The patient requires skilled nursing services or skilled
+         rehabilitation services;
+     •   The patient requires such services on a daily basis;
+     •   As a practical matter, the daily skilled services can be
+         provided only on an inpatient basis in a SNF; and
+     •   The services are reasonable and necessary for the
+         treatment of a patient’s illness or injury, as well as
+         reasonable in terms of duration and quantity.
+2
+   Among the enrollee’s objections to the ALJ’s decision is that it was based
+on incomplete medical records. Exh. MAC-1, at 3-4. However, all the
+documents referenced by the enrollee were included in her submissions to the
+ALJ (Exh. 6) and, as such, were a part of the record before him. Moreover,
+in this decision the Council considers the enrollee’s arguments based on
+these documents and concludes that the ALJ did not err.
+                                                                               5
+
+MBPM, Ch. 8, § 30. 3 That the enrollee may have benefited from
+further therapy or, more generally, from having her care
+overseen by SNF personnel rather than being discharged home, is
+not determinative for continuing SNF level of care. The
+enrollee must need and receive skilled nursing or rehabilitative
+therapy on a daily basis which cannot reasonably be provided in
+a less intensive care setting. 42 C.F.R. § 409.31(b) (emphasis
+added). Moreover, for rehabilitative therapy furnished in a SNF
+setting to be considered reasonable and necessary, the therapy
+must be, among other things, reasonable in terms of the amount,
+frequency, and duration. See, e.g., MBPM, Ch. 8, Section
+30.4.1.1.
+
+The Council has carefully considered the record and concurs with
+the ALJ’s assessment of the evidence. First of all, the record
+does not indicate that the beneficiary required, or received,
+daily skilled nursing care, either before or after the last
+covered date, December 25, 2009. The enrollee argues that
+skilled nursing on a daily basis was required to observe,
+assess, and/or treat the cellulitis that affected both lower
+extremities. See Exh. MAC-1, at 9. The evidence does not
+support a conclusion that skilled nursing was required or
+received on a daily basis for this condition.
+
+The enrollee was diagnosed with cellulitis on December 15, 2009.
+See Exh. 6, at 123. Her treating physician prescribed oral
+antibiotics and an oral diuretic to treat the condition. Id.
+Administration of oral medications does not require skilled
+nursing care. The nursing notes document that, after the
+beneficiary was diagnosed with cellulitis, there was only one
+occasion on which the nursing staff reported symptoms to the
+physician, and no new orders were given. Id. at 108 (12/16
+22:10 “Lower extremities edematous and red. Note left for Dr”).
+Thus, from December 15, 2009, when she was diagnosed, until the
+last covered day December 25, 2009, the enrollee continued on
+oral antibiotics, and was not receiving other skilled nursing
+interventions. Id. at 107-108. On December 25, 2009, the
+nursing staff documented that the enrollee was experiencing less
+edema, and no discomfort, although her legs were still reddened.
+Id. at 108. From December 26-28, 2009, the nursing notes do not
+document any observations of the enrollee’s cellulitis symptoms.
+Id. at 107. Also, the attending physician signed an order for
+ICF (intermediate care facility) level of care effective
+December 26, 2009, which is not a Medicare covered skilled level
+3
+   Manuals issued by CMS can be found at http://www.cms.gov/Regulations-and-
+Guidance/Guidance/Manuals/Internet-Only-Manuals-IOMs.html.
+                                                                             6
+of care. Exh. 15 at 220. Thus, contrary to the enrollee’s
+assertion that she was experiencing a potentially life-
+threatening condition (see, e.g., Exh. MAC-1, at 9) that
+required intensive daily skilled nursing care, the picture that
+emerges from the documentation is of a condition that was
+responding as expected to oral medications.
+
+Second, the enrollee argues that she continued to be in need of
+skilled rehabilitation services on and after the last covered
+day. See, e.g., Exh. MAC-1, at 4-5. In support of this
+contention, she points to PT and OT recertifications completed
+on December 23, 2009. See Exh. 6, at 70-73, 89-91, 115. In
+these documents, the therapists requested physician
+recertification of the need for PT for the period 12/22/2009-
+1/20/2010 and for OT for the period 12/23/2009-1/21/2010. 4 Id.
+However, as noted above, to be covered by Medicare skilled
+therapy must be reasonable in amount and duration. As of the
+last covered day, the enrollee had been receiving daily skilled
+therapy for five weeks and had achieved most of her functional
+goals. 5 Accordingly, the ALJ did not err in concluding that
+continuation of skilled level of care was not reasonable or
+necessary after that date.
+
+
+
+
+4
+   The Council notes that the enrollee’s initial plans of treatment called for
+four weeks of therapy for each discipline. See, e.g., Exh. 6, at 85, 102.
+Thus, recertification was required in order for the beneficiary to receive
+covered treatment on 12/23/2009 and 12/24/2009.
+5
+   Six goals were established for the enrollee’s PT. See, e.g., Exh. 6, at
+87. The enrollee last received PT on December 24, 2009. Id. at 88. As of
+her discharge on December 28, 2009, the physical therapist documented that
+the enrollee fully met three of her goals, exceeded one, and substantially
+met the remaining two (e.g., the goals were met with the use of adaptive
+equipment). Id. at 87. Moreover, the physical therapist documented that the
+enrollee had achieved her highest practical level of function. Id.
+Similarly, of the twelve goals set for the enrollee in OT, ten were met and
+two were substantially met on or before December 23, 2009. See id. at 67-69.
+                                                                   7
+The Council notes that the enrollee submitted an affidavit
+executed by the attending physician in which he opines that the
+enrollee should have continued to receive skilled nursing and
+skilled rehabilitation services after the last covered day.
+Exh. MAC 3. Even if the Council were to credit the attending
+physician’s opinion that the beneficiary would have benefited
+from skilled care after December 25, 2009, the affidavit does
+not establish that the beneficiary in fact received daily
+skilled services. In this regard, we note, in addition to the
+order for an ICF level of care effective December 26, 2009,
+noted supra, that the physician’s affidavit only states that she
+required “practically daily” therapy. Exh. MAC-5. The
+physician also wrote that the beneficiary was well enough to
+leave the SNF on December 28, 2009, without immediate danger to
+her health. Moreover, no special weight is given to the opinion
+of the treating physician, as provided in CMS Ruling 93-1. By
+regulation, CMS Rulings are binding on the Council. 42 C.F.R.
+§§ 401.108, 405.1063. Therefore, the opinion of the attending
+physician is not a basis for changing the ALJ’s decision.
+
+In addition to finding that the MA plan properly ended Medicare
+coverage for the enrollee’s SNF services as of December 25,
+2009, the ALJ also found that the enrollee remains responsible
+for the non-covered SNF charges on and after December 26, 2009,
+based on her receipt of a valid advance written notice of the
+proposed discharge and termination of coverage. Dec. at 12.
+The enrollee has not raised any exceptions to the ALJ’s finding
+that she is responsible for the non-covered charges. The
+Council therefore will not disturb this portion of the ALJ’s
+decision.
+
+Finally, the appellant’s claim for expenses for subsequent
+outpatient treatment after SNF discharge is not cognizable in
+this appeal. The issues before the ALJ that were brought out in
+the appeal levels below concerned only coverage for the
+continued stay at the SNF through December 28, 2009, for which
+the appellant was charged two days of room and board at $224 per
+day. 6 42 C.F.R. § 405.1032, Exh. 15 at 244. This is the only
+issue considered in the organization determination pursuant to
+42 C.F.R. § 422.566, appealed through all levels, and properly
+before the Council. The appellant must present a claim directly
+to the MAO for the other expenses incurred on an outpatient
+basis through February 2010 for which recovery is sought as
+damages. Exh. MAC-1. See 42 C.F.R. § 405.1032(c) (An ALJ does
+not have jurisdiction over a claim, including one that is
+
+6
+    The day of discharge is not counted.
+                                                                  8
+related to an issue before an ALJ, unless it has been
+adjudicated at the lower appeals levels).
+
+For the reasons explained above, the enrollee’s exceptions are
+not a basis for changing the ALJ’s decision. The Council
+therefore adopts the ALJ’s decision.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Clausen J. Krzywicki
+                                   Administrative Appeals Judge
+
+
+Date:   June 13, 2012
+

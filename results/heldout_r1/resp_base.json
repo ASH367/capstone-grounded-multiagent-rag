@@ -1,0 +1,344 @@
+[
+ {
+  "case_id": "11-1343",
+  "decision": "PARTLY_COVERED",
+  "reason": "PT/OT for documented functional decline after hospitalization (e.g., hip fracture with weakness) fits skilled therapy, but the speech therapy goals are generic quality-of-life goals and the record does not settle whether each service needed a therapist; other points UNKNOWN.",
+  "findings": [
+   {
+    "claim": "PT for J.M. followed a hip fracture with measured strength deficits, supporting a need for skilled assessment and treatment",
+    "passage_id": 640,
+    "quote": "The skills of a physical therapist are required for the ongoing assessment of a patient’s rehabilitation needs and potential.",
+    "case_fact": "J.M.’s right lower extremity strength measured 3/5 and left lower extremity measured 2+/5."
+   },
+   {
+    "claim": "Therapy must be reasonable and necessary for the patient's condition",
+    "passage_id": 638,
+    "quote": "The services must be reasonable and necessary for the treatment of the patient’s condition",
+    "case_fact": "J.M. was referred to PT secondary to a fall with fracture of the left hip with weakness."
+   }
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "decision": "COVERED",
+  "reason": "Hospital stay of Dec 15-27, 2009 exceeds three inpatient days and frequent medication adjustments for fluctuating blood pressure and heart rate show skilled observation; the SNF admission date within 30 days is UNKNOWN but likely.",
+  "findings": [
+   {
+    "claim": "The December 15-27, 2009 hospital stay can satisfy the three consecutive day requirement",
+    "passage_id": 572,
+    "quote": "In determining whether the requirement has been met, the day of admission, but not the day of discharge, is counted as a hospital inpatient day.",
+    "case_fact": "the beneficiary’s December 15, 2009, through December 27, 2009, stay at *** *** Hospital"
+   },
+   {
+    "claim": "Skilled level of care is judged on the medical evidence in the file; the State contends criteria were met",
+    "passage_id": 608,
+    "quote": "coverage would be determined based on a review of the medical evidence in the file",
+    "case_fact": "Lastly, the State Medicaid agency contends that the beneficiary’s SNF stay met the criteria for Medicare coverage."
+   }
+  ]
+ },
+ {
+  "case_id": "baptist_health_care",
+  "decision": "NOT_COVERED",
+  "reason": "The appellant contests only liability (Sections 1879/1870), not the finding that the inpatient admissions were non-covered; the passages say admission is denied when hospitalization is not needed, so non-coverage stands and only liability protection is at issue. Clinical need for inpatient care is UNKNOWN.",
+  "findings": [
+   {
+    "claim": "Appellant challenges only liability, leaving non-coverage of the admissions unchallenged",
+    "passage_id": 10,
+    "quote": "If care is noncovered because a patient does not need to be hospitalized, the A/B MAC Part A denies the admission",
+    "case_fact": "the appellant solely contests the ALJ’s findings concerning liability pursuant to Section 1879 of the Social Security Act"
+   },
+   {
+    "claim": "FMQAI said routine short-stay cases lacking inpatient need would be denied inpatient billing",
+    "passage_id": 14,
+    "quote": "they are considered outpatients for coverage purposes regardless of",
+    "case_fact": "Those cases that appear to be routine, expected discharge within 24 hours"
+   }
+  ]
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "decision": "NOT_COVERED",
+  "reason": "The facts are procedural only (late brief) and establish no qualifying three-day hospital stay, 30-day transfer or skilled need, so nothing shows the coverage requirements are met; the underlying coverage facts are UNKNOWN.",
+  "findings": [
+   {
+    "claim": "Coverage requires a qualifying three-day inpatient hospital stay, which the facts do not show",
+    "passage_id": 571,
+    "quote": "the individual must have been an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days",
+    "case_fact": "The appellant did not file a brief within 30 days thereafter."
+   }
+  ]
+ },
+ {
+  "case_id": "connecticut11",
+  "decision": "NOT_COVERED",
+  "reason": "The appellant argued only that the beneficiary's liability should be waived for non-covered services, not that the services were covered; PT was discharged for a plateau. The hospital stay requirement itself appears met, and skilled need after the notice is UNKNOWN.",
+  "findings": [
+   {
+    "claim": "Appellant limited argument to waiver of liability, accepting non-coverage",
+    "passage_id": 563,
+    "quote": "The beneficiary must also have been transferred to a participating SNF within 30 days after discharge from the hospital",
+    "case_fact": "I will be limiting my argument to the fact that the beneficiary’s liability should be waived in this case"
+   },
+   {
+    "claim": "SNF care must be for a condition treated in the qualifying hospital stay",
+    "passage_id": 563,
+    "quote": "the beneficiary must require SNF care for a condition that was treated during the qualifying hospital stay",
+    "case_fact": "The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium"
+   }
+  ]
+ },
+ {
+  "case_id": "gr",
+  "decision": "NOT_COVERED",
+  "reason": "The beneficiary lived in an assisted living facility, and home health there is not covered where it duplicates services the facility must provide; the facts do not show homebound status or skilled need, which are UNKNOWN, and the provider did not participate in the hearing.",
+  "findings": [
+   {
+    "claim": "Medicare is not an optional substitute for services a facility must provide",
+    "passage_id": 186,
+    "quote": "Medicare coverage would not be an optional substitute for the services that a facility is required to provide by law to its patients",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility"
+   }
+  ]
+ },
+ {
+  "case_id": "m-10-1884",
+  "decision": "NOT_COVERED",
+  "reason": "Skilled PT/OT ended on January 22 and January 19, 2009, and no skilled service is shown for the billed dates January 28 through March 1; the appellant only asserts the services were skilled, so coverage is not supported.",
+  "findings": [
+   {
+    "claim": "Coverage turns on need for skilled care, and therapy had been discontinued before the billed dates",
+    "passage_id": 636,
+    "quote": "Coverage for such skilled therapy services does not turn on the presence or absence of a beneficiary’s potential for improvement",
+    "case_fact": "She was discharged from OT on January 19, 2009, and from PT on January 22, 2009."
+   },
+   {
+    "claim": "The billed dates start after therapy ended",
+    "passage_id": 636,
+    "quote": "Therapy services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by",
+    "case_fact": "The SNF billed the appellant for the beneficiary’s care for dates of service January 28 through January 31, 2009"
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "decision": "COVERED",
+  "reason": "Nurses repeatedly monitored and assessed a diabetic, legally blind beneficiary, triggering multiple insulin dose changes and medication teaching, which is skilled observation and teaching; homebound status is UNKNOWN from these facts.",
+  "findings": [
+   {
+    "claim": "Skilled observation is reasonable until the medication regimen is stabilized",
+    "passage_id": 239,
+    "quote": "Skilled observation and monitoring of the patient's blood pressure and medication regimen is required until the blood pressure remains stable and in a safe range.",
+    "case_fact": "As a result of these actions taken by the nurses, the beneficiary’s insulin dosage was adjusted numerous times during this period."
+   },
+   {
+    "claim": "Teaching of self-management of a diabetic medication regimen is a skilled nursing service",
+    "passage_id": 232,
+    "quote": "teaching of self-administration and self- management of the medication regimen",
+    "case_fact": "for which the nurses provided ongoing monitoring, assessment, and instructions to take the medications as directed"
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "decision": "COVERED",
+  "reason": "The beneficiary entered the SNF on discharge from a five-day inpatient stay and needed skilled nursing monitoring for hematuria, Foley care and labs until rehospitalization on March 6; daily frequency on each day is UNKNOWN.",
+  "findings": [
+   {
+    "claim": "The February 12-17 stay exceeds three inpatient days counting admission day but not discharge",
+    "passage_id": 572,
+    "quote": "In determining whether the requirement has been met, the day of admission, but not the day of discharge, is counted as a hospital inpatient day.",
+    "case_fact": "the beneficiary’s hospitalization from February 12 to February 17, 2010"
+   },
+   {
+    "claim": "SNF care began promptly after hospital discharge",
+    "passage_id": 579,
+    "quote": "Extended care services are “post-hospital” if initiated within 30 days after discharge from a hospital stay",
+    "case_fact": "At the time of discharge from the hospital on February 17 (for admission to the SNF)"
+   },
+   {
+    "claim": "Skilled nursing must be needed daily, and nurses monitored the beneficiary",
+    "passage_id": 650,
+    "quote": "Skilled nursing services or skilled rehabilitation services (or a combination of these services) must be needed and provided on a “daily basis,”",
+    "case_fact": "the nurses continued to monitor the beneficiary for signs of hematuria."
+   }
+  ]
+ },
+ {
+  "case_id": "m-12-1140",
+  "decision": "PARTLY_COVERED",
+  "reason": "The readmission came within 30 days of the August 25 hospital discharge and PT/OT were provided until September 30, 2011, but the provider ended skilled therapy then and the facts do not show a continuing skilled need after that date; services before discharge likely covered, later UNKNOWN or not.",
+  "findings": [
+   {
+    "claim": "Readmission after the ER visit falls within the 30-day window",
+    "passage_id": 579,
+    "quote": "Extended care services are “post-hospital” if initiated within 30 days after discharge from a hospital stay",
+    "case_fact": "re-admitted to the SNF on August 30, 2011"
+   },
+   {
+    "claim": "Readmission requires a new PT initial evaluation, which the facts do not show",
+    "passage_id": 637,
+    "quote": "In those cases where a beneficiary is discharged during the SNF stay and later readmitted, an initial evaluation must be performed",
+    "case_fact": "Following readmission, the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services."
+   },
+   {
+    "claim": "PT must be of a complexity requiring a therapist; the provider ended skilled PT/OT September 30, 2011",
+    "passage_id": 637,
+    "quote": "The services must be of a level of complexity and sophistication",
+    "case_fact": "the provider discharged the beneficiary from skilled PT and OT on September 30, 2011"
+   }
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "decision": "NOT_COVERED",
+  "reason": "The appellant concedes goals were met by September 11, 2008, describes needed encouragement and reassurance, and ongoing exercises could be done by supportive personnel; the speech therapy evaluation need is UNKNOWN.",
+  "findings": [
+   {
+    "claim": "Services that supportive personnel can safely perform are not skilled",
+    "passage_id": 639,
+    "quote": "When services can be safely and effectively performed by supportive personnel, such as aides or nursing personnel",
+    "case_fact": "the fact that the beneficiary required “encouragement and reassurance does not prevent her from being a candidate for therapy.”"
+   },
+   {
+    "claim": "Goals were met so further therapy results would be insignificant",
+    "passage_id": 639,
+    "quote": "Physical therapy services are not reasonable and necessary and would not be covered if the expected results are insignificant",
+    "case_fact": "The appellant also concedes that the beneficiary met her goals by September 11, 2008"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "decision": "PARTLY_COVERED",
+  "reason": "PT to teach safe lift transfers and establish a maintenance program is covered skilled therapy, but therapist visits solely to train home health aides are not billable, and the aide visits and later PT are not shown to be skilled; details UNKNOWN.",
+  "findings": [
+   {
+    "claim": "Therapy to teach safe mobility is reasonable and necessary until the goal is reached",
+    "passage_id": 292,
+    "quote": "Physical therapy would be reasonable and necessary to teach the patient to climb and descend stairs safely.",
+    "case_fact": "the skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift"
+   },
+   {
+    "claim": "Visits solely to train home health aides are not billable",
+    "passage_id": 285,
+    "quote": "visits made by skilled therapists to a patient's home solely to train other HHA staff (e.g., home health aides) are not billable as visits",
+    "case_fact": "setting up a maintenance program for the home health aides to take over was a goal"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "decision": "COVERED",
+  "reason": "The beneficiary had recurrent UTIs, rectal bleeding, abscesses, a urosepsis hospitalization and a new fistula, so the ostomy care involved complications requiring skilled nursing and observation; he cannot leave home without maximum help.",
+  "findings": [
+   {
+    "claim": "Colostomy care is routine only absent complications; here complications arose",
+    "passage_id": 231,
+    "quote": "A patient with a well-established colostomy absent complications may require assistance changing the colostomy bag",
+    "case_fact": "The beneficiary developed a fistula near the colostomy site."
+   },
+   {
+    "claim": "Complications requiring more frequent skilled care are covered with documentation",
+    "passage_id": 256,
+    "quote": "where there are complications that require more frequent skilled care related to the catheter, such care would, with adequate documentation, be covered",
+    "case_fact": "He was hospitalized for several days in July 2007 for urosepsis and e.coli infection."
+   }
+  ]
+ },
+ {
+  "case_id": "ny",
+  "decision": "PARTLY_COVERED",
+  "reason": "Medicare covers combined part-time or intermittent aide and nursing care up to 28 hours weekly, or up to 35 hours on a case-by-case review, but not more; the actual hours and need are UNKNOWN.",
+  "findings": [
+   {
+    "claim": "Weekly hour caps of 28, or 35 on case-by-case review",
+    "passage_id": 341,
+    "quote": "subject to review on a case-by-case basis as to the need for care, less than 8 hours each day and 35 or fewer hours",
+    "case_fact": "whether Medicare covered at least 28 hours and up to 35 hours of the home health services"
+   },
+   {
+    "claim": "Care beyond the limits may be billed elsewhere without affecting coverage of the covered portion",
+    "passage_id": 342,
+    "quote": "may be provided to a home care patient or purchased by other payers without bearing on whether",
+    "case_fact": "coverage is available for home health aide or skilled nursing services on a part-time basis"
+   }
+  ]
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "decision": "NOT_COVERED",
+  "reason": "The beneficiary was placed in a noncertified bed; the manual says payment cannot be made when the institution fails to place the patient in an appropriate bed for any reason, including no bed available, subject only to limitation of liability.",
+  "findings": [
+   {
+    "claim": "Placement in a noncertified bed bars Part A payment even if no certified bed was available",
+    "passage_id": 666,
+    "quote": "or for any other reason the institution fails to place the patient in the appropriate bed",
+    "case_fact": "The beneficiary’s medical records indicate that she was placed in a noncertified bed"
+   },
+   {
+    "claim": "Payment may be possible only under limitation of liability provisions",
+    "passage_id": 666,
+    "quote": "the services may be paid under certain conditions, based on the limitation of liability provisions",
+    "case_fact": "At the time she was discharged from the hospital, the appellant’s facility did not have a certified bed available."
+   }
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "decision": "NOT_COVERED",
+  "reason": "The facts give no clinical information showing the IRF criteria were met, only procedural issues; IRF care is covered only if all requirements are met, which is UNKNOWN here.",
+  "findings": [
+   {
+    "claim": "IRF care must meet all listed requirements to be reasonable and necessary",
+    "passage_id": 72,
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act",
+    "case_fact": "were Medicare coverage criteria met for the IRF services at issue"
+   }
+  ]
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "decision": "PARTLY_COVERED",
+  "reason": "Skilled observation for psychiatric symptoms and pneumonia and PT five times a week support coverage early in August, but behavior had stabilized by August 12 and the facts do not show daily skilled need through August 31.",
+  "findings": [
+   {
+    "claim": "Skilled observation is covered only until the condition is essentially stabilized",
+    "passage_id": 626,
+    "quote": "until the patient’s condition is essentially stabilized",
+    "case_fact": "her behavioral condition had stabilized"
+   },
+   {
+    "claim": "Pneumonia monitoring after August 4 is skilled observation",
+    "passage_id": 626,
+    "quote": "Observation and assessment are skilled services when the likelihood of change in a patient’s condition requires skilled nursing or skilled rehabilitation personnel",
+    "case_fact": "the beneficiary was diagnosed with pneumonia"
+   },
+   {
+    "claim": "SNF admission followed the hospital stay promptly",
+    "passage_id": 579,
+    "quote": "Extended care services are “post-hospital” if initiated within 30 days after discharge from a hospital stay",
+    "case_fact": "On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility, the appellant’s SNF."
+   }
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "decision": "COVERED",
+  "reason": "The beneficiary was independent before knee replacement, needed moderate to maximum assistance on admission and the appellant relied on the medical expert; however, severe pain on PCA Dilaudid raises doubt about participation in intensive therapy, and preadmission screening and 3-hour therapy are UNKNOWN.",
+  "findings": [
+   {
+    "claim": "IRF necessity is judged on individual care needs, here a major functional decline from independence",
+    "passage_id": 72,
+    "quote": "Medicare requires determinations of whether IRF stays are reasonable and necessary to be based on an assessment of each beneficiary's individual care needs.",
+    "case_fact": "Prior to the total knee replacement surgery, the beneficiary was independent with all of her activities of daily living (ADL’s)"
+   },
+   {
+    "claim": "Patient must be able to actively participate in intensive therapy; severe pain is a concern but not settled",
+    "passage_id": 71,
+    "quote": "patients must be able to actively participate in and benefit from the intensive rehabilitation therapy program",
+    "case_fact": "experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid"
+   }
+  ]
+ }
+]

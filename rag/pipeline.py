@@ -9,10 +9,10 @@ from sklearn.metrics.pairwise import linear_kernel
 
 RUN = pathlib.Path(os.environ.get("RUN_DIR", "results/llm_runs")); RUN.mkdir(parents=True, exist_ok=True)
 DEC_OUT = "results/milestone1_decisions.json" if str(RUN) == "results/llm_runs" else str(RUN / "decisions.json")
-idx = json.load(open("data/index_v2/chunks.json")); chunks = idx["chunks"]
-cases = {c["case_id"]: c for c in (json.load(open(f)) for f in sorted(glob.glob("data/cases_v2/*.json")))}
+idx = json.load(open(os.environ.get("INDEX_DIR", "data/index_v2") + "/chunks.json")); chunks = idx["chunks"]
+cases = {c["case_id"]: c for c in (json.load(open(f)) for f in sorted(glob.glob(os.environ.get("CASES_DIR", "data/cases_v2") + "/*.json")))}
 split = json.load(open("results/retrieval_v2.json"))["split"]
-DOMDOC = {"home_health": "MBPM ch.7", "ambulance": "MBPM ch.10", "inpatient_rehab": "MBPM ch.1"}
+DOMDOC = {"home_health": "MBPM ch.7", "ambulance": "MBPM ch.10", "inpatient_rehab": "MBPM ch.1", "snf": "MBPM ch.8"}
 vec = TfidfVectorizer(stop_words="english", ngram_range=(1, 2), sublinear_tf=True)
 X = vec.fit_transform([c["text"] for c in chunks])
 ROLES = {
@@ -63,6 +63,14 @@ def orch():
              "Use ONLY the agents' findings and the case facts; do not use outside knowledge. Cite the passage ids your decision relies on. COVERED = coverage is supported; NOT_COVERED = it is not; PARTLY_COVERED = part of the service or period is covered and part is not.\n\n"
              f"<case_facts>\n{facts_text(c)}\n</case_facts>\n\n{blocks}\n"
              'Reply with JSON only: {"decision": "COVERED" | "NOT_COVERED" | "PARTLY_COVERED", "reason": "one or two sentences", "passage_ids": [<int>, ...]}')
+        if os.environ.get("ORCH_V2"):
+            p = ("You are the Orchestrator in a Medicare coverage-review system. Three specialist agents have reviewed the case. Combine their findings into one decision. "
+                 "Use ONLY the agents' findings and case facts; do not use outside knowledge. Cite the passage ids your decision relies on. "
+                 "Step 1: split the claim into separable components (for example: the transport versus extra mileage; different time periods or visits; different services). If the claim has only one component, use one. "
+                 "Step 2: for each component decide COVERED or NOT_COVERED using the agents' findings. A single specialist's DOES_NOT_SUPPORT or UNKNOWN does not settle a component by itself; weigh the findings. "
+                 "Step 3: final decision = COVERED if all components are covered, NOT_COVERED if none are, PARTLY_COVERED if some are and some are not.\n\n"
+                 f"<case_facts>\n{facts_text(c)}\n</case_facts>\n\n{blocks}\n"
+                 'Reply with JSON only: {"components": [{"name": "...", "decision": "COVERED" | "NOT_COVERED"}], "decision": "COVERED" | "NOT_COVERED" | "PARTLY_COVERED", "reason": "one or two sentences", "passage_ids": [<int>, ...]}')
         out.append({"case_id": cid, "prompt": p})
     json.dump(out, open(RUN / "prompts_orch.json", "w"), indent=1); print(len(out), "orchestrator prompts")
 
@@ -83,13 +91,13 @@ def assemble():
         for role, R in (("elig", E), ("nec", N), ("doc", D)):
             a, b = check(R[cid]["findings"], cid, role); ok += a; bad += b
         sok, sbad = check(B[cid]["findings"], cid, "base")
-        rows.append(dict(case=cid, split=split[cid], domain=c["domain"], reference=ref, multi=ma, single=sa, multi_ok=ma == ref, single_ok=sa == ref,
+        rows.append(dict(case=cid, split=split.get(cid, "heldout"), domain=c["domain"], reference=ref, multi=ma, single=sa, multi_ok=ma == ref, single_ok=sa == ref,
                          multi_findings_valid=ok, multi_findings_invalid=bad, single_findings_valid=sok, single_findings_invalid=sbad,
                          agent_verdicts=[E[cid]["verdict"], N[cid]["verdict"], D[cid]["verdict"]]))
     def agg(rs, k): return round(sum(r[k] for r in rs) / len(rs), 3) if rs else None
     def val(rs, p): v = sum(r[p + "_findings_valid"] for r in rs); i = sum(r[p + "_findings_invalid"] for r in rs); return {"findings": v + i, "mechanically_valid": round(v / (v + i), 3) if v + i else None}
     summ = {}
-    for name, rs in (("all", rows), ("dev", [r for r in rows if r["split"] == "dev"]), ("test", [r for r in rows if r["split"] == "test"])):
+    for name, rs in (("all", rows), ("dev", [r for r in rows if r["split"] == "dev"]), ("test", [r for r in rows if r["split"] == "test"]), ("heldout", [r for r in rows if r["split"] == "heldout"])):
         summ[name] = {"n": len(rs), "decision_agreement_multi": agg(rs, "multi_ok"), "decision_agreement_single": agg(rs, "single_ok"), "citation_check_multi": val(rs, "multi"), "citation_check_single": val(rs, "single")}
     from collections import Counter
     summ["reference_distribution"] = dict(Counter(r["reference"] for r in rows)); summ["multi_predictions"] = dict(Counter(r["multi"] for r in rows)); summ["single_predictions"] = dict(Counter(r["single"] for r in rows))

@@ -1,0 +1,167 @@
+[
+ {
+  "case_id": "11-1343",
+  "decision": "COVERED",
+  "reason": "Eligibility and documentation agents find therapy furnished by the SNF reasonable, necessary and documented given the documented functional decline.",
+  "passage_ids": [
+   669,
+   638,
+   640
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "decision": "COVERED",
+  "reason": "A 12-day hospital stay is asserted by both parties and the record shows ongoing skilled need (repeated medication adjustments), so the stay is treated as qualifying and SNF care as covered.",
+  "passage_ids": [
+   574,
+   608
+  ]
+ },
+ {
+  "case_id": "baptist_health_care",
+  "decision": "NOT_COVERED",
+  "reason": "The appellant contests only liability, not coverage; nothing shows an admission order or support for inpatient level of care, so coverage is not supported.",
+  "passage_ids": [
+   29,
+   13
+  ]
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "decision": "NOT_COVERED",
+  "reason": "The facts concern only briefing deadlines and show no qualifying stay or services, so coverage is not supported.",
+  "passage_ids": [
+   571
+  ]
+ },
+ {
+  "case_id": "connecticut11",
+  "decision": "PARTLY_COVERED",
+  "reason": "SNF admission followed a qualifying stay, and PT plateaued by Feb 7; the appellant argues only liability for non-covered services, implying early care covered and later care not.",
+  "passage_ids": [
+   607,
+   574
+  ]
+ },
+ {
+  "case_id": "gr",
+  "decision": "NOT_COVERED",
+  "reason": "Homebound status, skilled need and non-duplication with facility-required services are not established, so coverage is not supported.",
+  "passage_ids": [
+   185,
+   186,
+   215
+  ]
+ },
+ {
+  "case_id": "m-10-1884",
+  "decision": "NOT_COVERED",
+  "reason": "Disputed dates follow therapy discharge, no qualifying stay length or ongoing skilled need is shown, so coverage is not supported.",
+  "passage_ids": [
+   563,
+   595
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "decision": "COVERED",
+  "reason": "Nurses relayed fluctuating glucose logs, insulin was repeatedly adjusted, and the skilled need was documented in visit notes.",
+  "passage_ids": [
+   238,
+   257,
+   256
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "decision": "COVERED",
+  "reason": "The Feb 12-17 stay meets the 3-day requirement, SNF admission was direct for a condition treated in hospital, and skilled nursing need was documented.",
+  "passage_ids": [
+   563,
+   572,
+   579
+  ]
+ },
+ {
+  "case_id": "m-12-1140",
+  "decision": "PARTLY_COVERED",
+  "reason": "Qualifying stay and direct admission support coverage initially, but therapy was discharged Sept 30 and later skilled need is not shown, so only the earlier period is covered.",
+  "passage_ids": [
+   579,
+   669
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "decision": "NOT_COVERED",
+  "reason": "Skilled need and an active written plan are only asserted by the appellant, and the beneficiary met goals by Sept 11, so coverage is not supported.",
+  "passage_ids": [
+   636,
+   637,
+   639
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "decision": "NOT_COVERED",
+  "reason": "Skilled need and homebound status are only asserted, and aide-training or maintenance visits are not billable, so coverage is not supported.",
+  "passage_ids": [
+   285,
+   292
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "decision": "COVERED",
+  "reason": "Documented complications (UTIs, urosepsis, abscesses, fistula near colostomy) go beyond routine care and required skilled nursing.",
+  "passage_ids": [
+   231,
+   256,
+   257
+  ]
+ },
+ {
+  "case_id": "ny",
+  "decision": "PARTLY_COVERED",
+  "reason": "Coverage is limited to part-time hours (28, up to 35 case by case), so only hours within that limit could be covered, not any excess.",
+  "passage_ids": [
+   341
+  ]
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "decision": "NOT_COVERED",
+  "reason": "Placement in a noncertified bed bars payment under the appropriate-bed rule despite the qualifying stay.",
+  "passage_ids": [
+   666,
+   563
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "decision": "NOT_COVERED",
+  "reason": "No patient-level clinical facts show the IRF requirements were met, so coverage is not supported.",
+  "passage_ids": [
+   72
+  ]
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "decision": "COVERED",
+  "reason": "SNF admission followed a qualifying psychiatric stay, and skilled observation of psychiatric symptoms and pneumonia was necessary and documented.",
+  "passage_ids": [
+   579,
+   629
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "decision": "COVERED",
+  "reason": "IRF admission after knee replacement with substantial functional deficits and IV/IM pain management supports medical necessity.",
+  "passage_ids": [
+   72,
+   74
+  ]
+ }
+]

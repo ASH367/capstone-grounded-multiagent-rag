@@ -2,6 +2,7 @@
 import re, json, pathlib
 RAW = pathlib.Path("data/raw/text")
 MANUALS = {"MBPM ch.1": "bp102c01.txt", "MBPM ch.7": "bp102c07.txt", "MBPM ch.10": "bp102c10.txt"}
+MANUALS_V3 = {**MANUALS, "MBPM ch.6": "bp102c06.txt", "MBPM ch.8": "bp102c08.txt"}   # v3 index adds ch.6 and ch.8 (separate from v2)
 HEAD = re.compile(r"(?m)^\x0c?(\d{1,3}(?:\.\d+){0,5}(?:\.[A-Z])?)[ \u00a0]*[-\u2013\u2014][ \u00a0]*(\S.*)$")  # \x0c = pdftotext page break   # headings start at column 0 in the body
 MAXW = 220
 
@@ -27,16 +28,19 @@ def chunk_manual(doc, fname):
                         "text": f"{m.group(1)} {m.group(2).strip()}. {part}"})
     return out, version
 
-def build():
+def build(manuals=None, outdir="data/index_v2"):
+    manuals = manuals or MANUALS
     chunks, versions = [], {}
-    for doc, f in MANUALS.items():
+    for doc, f in manuals.items():
         c, v = chunk_manual(doc, f); chunks += c; versions[doc] = v
     for i, c in enumerate(chunks): c["chunk_id"] = i
-    pathlib.Path("data/index_v2").mkdir(parents=True, exist_ok=True)
-    json.dump({"versions": versions, "chunks": chunks}, open("data/index_v2/chunks.json", "w"), indent=1)
+    pathlib.Path(outdir).mkdir(parents=True, exist_ok=True)
+    json.dump({"versions": versions, "chunks": chunks}, open(outdir + "/chunks.json", "w"), indent=1)
     return chunks, versions
 
 if __name__ == "__main__":
-    chunks, versions = build()
+    import sys
+    v3 = len(sys.argv) > 1 and sys.argv[1] == "v3"
+    chunks, versions = build(MANUALS_V3, "data/index_v3") if v3 else build()
     print("chunks:", len(chunks)); print(versions)
-    for d in MANUALS: print(d, sum(c["doc"] == d for c in chunks), "chunks,", len({c['section'] for c in chunks if c['doc']==d}), "sections")
+    for d in (MANUALS_V3 if v3 else MANUALS): print(d, sum(c["doc"] == d for c in chunks), "chunks,", len({c['section'] for c in chunks if c['doc']==d}), "sections")

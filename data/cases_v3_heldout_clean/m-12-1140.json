@@ -1,0 +1,26 @@
+{
+ "case_id": "m-12-1140",
+ "domain": "snf",
+ "docket": "M-12-1140",
+ "service_at_issue": "SNF skilled therapy and nursing services after October 5, 2011 (termination of Medicare coverage)",
+ "facts": [
+  "the 87 year old beneficiary was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011, for a \u201cseizure-type episode.\u201d Dec. at 2. The beneficiary was then sent to the hospital emergency room on August 28, 2011, for chest pain, was released, and was re-admitted to the SNF on August 30, 2011. Id. Following readmission, the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services. Id.",
+  "In her request for review, the appellant refers the Council to the \u201c2nd full paragraph\u201d on page six of the ALJ\u2019s decision, then asserts that \u201crehabilitative services were \u2018medically reasonable and necessary\u2019 . . . .\u201d Exh. MAC-1, at 1. The appellant also argues that she \u201cdid not have prior knowledge that Medicare payment for services would be denied before 90 or 100 days.\u201d Id. The appellant states that \u201crehabilitative services should have been continued\u201d and that, although some of the beneficiary\u2019s chronic conditions did not improve, others did.",
+  "the provider discharged the beneficiary from skilled PT and OT on September 30, 2011, a month after readmission to the SNF, because the beneficiary had inconsistent vital signs, low blood pressure, and dizziness while standing. Dec. at 6. The beneficiary could at that time transfer with moderate assistance, ambulate with a rolling walker for fifteen feet with minimum to moderate assistance, could \u201ccomplete four minutes of activity tolerance exercises,\u201d and had shown \u201csome improvements in activities of daily living."
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council adopted the ALJ decision because the beneficiary did not require skilled services after October 5, 2011 (Jimmo settlement did not change coverage criteria) and she remained liable for non-covered charges after notice.",
+ "cited_sections": [],
+ "other_cites": [
+  "SSA 1862",
+  "SSA 1879",
+  "42 CFR 409.31(a)(2)",
+  "42 CFR 409.32",
+  "42 CFR 409.32(c)",
+  "42 CFR 409.33",
+  "Jimmo v. Sebelius settlement fact sheet"
+ ],
+ "scope": "included",
+ "key_quality": "no_mbpm_key",
+ "facts_original_count": 4
+}

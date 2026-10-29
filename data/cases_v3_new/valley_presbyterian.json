@@ -1,0 +1,36 @@
+{
+ "case_id": "valley_presbyterian",
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "service_at_issue": "Inpatient rehabilitation facility (IRF) stay July 17-24, 2003 following total knee replacement",
+ "facts": [
+  "The appellant billed Medicare for IRF services furnished to the beneficiary from July 17, 2003, through July 24, 2003. Exh. 3 at 2. The Medicare intermediary initially paid the claim, however, on July 28, 2006, the Recovery Audit Contractor (RAC) reopened and reviewed the claim. Exh. 4 at 1.",
+  "On July 15, 2003, the 71 year old beneficiary was admitted to the acute hospital where she underwent a right total knee replacement secondary to degenerative joint disease. Exh. 3 at 17-19. Two days later, on July 17, 2003, the beneficiary was transferred and admitted to the appellant\u2019s IRF where she received treatment and rehabilitation services until her discharge one week later on July 24, 2003. Exh. 3 at 19.",
+  "During the period at issue, the beneficiary received intravenous (IV) or intramuscular (IM) medications (e.g., trimethobenzamide for nausea, dextrose with Lactated Ringers solution and Toradol for specialty fluid replacement and pain management, and diphenhydramine for itching or rash) and experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid. Exh. 3 at 59-67, 68-92, 133.",
+  "Prior to the total knee replacement surgery, the beneficiary was independent with all of her activities of daily living (ADL\u2019s) and lived alone with her husband. Upon admission, the beneficiary\u2019s functional status was as follows: moderate assistance supine to sit, sit to stand, sit to supine, bed to chair, chair to bed, commode transfers, and tub/shower transfers, maximum assistance with lower extremity dressing, minimal assistance with lower extremity bathing, and ambulate 15 feet with front wheeled walker. Exh. 3 at 21-24, 41, 48.",
+  "In its request for review, the appellant set forth two main assertions as to why the overpayment should be termed invalid: 1. The ALJ has jurisdiction to review the RAC\u2019s compliance with timeframe and good cause requirements for reopening and revision of the claims at issue, as set forth in 42 C.F.R. \u00a7\u00a7 405.980, 405.986 and 405.841 2. The record establishes that Beneficiary\u2019s inpatient admission to a rehabilitation hospital was medically reasonable and necessary in accordance with Medicare Benefit Policy Manual (\u201cMBPM\u201d), Internet-Only Manual Publication 100-2, Ch. 1, \u00a7110, et. seq.",
+  "On April 10, 2008, the ALJ conducted a telephone hearing in which the appellant\u2019s representative attorneys participated. ALJ Hearing CD. The hearing largely focused on the issue of reopening. The issue of medical reasonableness and necessity was briefly discussed, where the appellant relied upon the opinion of the ALJ\u2019s medical expert. Id."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council reversed the ALJ on coverage, holding the IRF services medically reasonable and necessary under section 1862(a)(1) (relying on the independent medical expert and the record), so the overpayment was invalid, though it agreed it could not review the RAC's decision to reopen.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "110"
+  }
+ ],
+ "other_cites": [
+  "CMS Ruling 85-2",
+  "SSA 1862(a)(1)",
+  "42 CFR 405.980",
+  "42 CFR 405.926(l)",
+  "42 CFR 405.986",
+  "42 CFR 405.902",
+  "42 CFR 405.841",
+  "MPIM (CMS Pub. 100-08) ch.3 sec.3.6.B",
+  "MCPM ch.34 sec.10",
+  "70 Fed. Reg. 11,420 (Mar. 8, 2005)"
+ ],
+ "scope": "included",
+ "key_quality": "has_mbpm_key"
+}

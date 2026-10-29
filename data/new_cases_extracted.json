@@ -1,0 +1,834 @@
+[
+ {
+  "case_id": "m-12-1140",
+  "domain": "snf",
+  "docket": "M-12-1140",
+  "service_at_issue": "SNF skilled therapy and nursing services after October 5, 2011 (termination of Medicare coverage)",
+  "facts": [
+   "the 87 year old beneficiary was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011, for a \u201cseizure-type episode.\u201d Dec. at 2. The beneficiary was then sent to the hospital emergency room on August 28, 2011, for chest pain, was released, and was re-admitted to the SNF on August 30, 2011. Id. Following readmission, the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services. Id.",
+   "The SNF discharged the beneficiary from both PT and OT on September 30, 2011, and issued a \u201cNotice of Medicare Non-Coverage\u201d (NNC), which stated that Medicare coverage of SNF services would end on October 5, 2011, as \u201cthere [was] no continuing evidence of medical necessity for the skills of a professional nurse or a therapist to safely and effectively carry out the plan of care.",
+   "In her request for review, the appellant refers the Council to the \u201c2nd full paragraph\u201d on page six of the ALJ\u2019s decision, then asserts that \u201crehabilitative services were \u2018medically reasonable and necessary\u2019 . . . .\u201d Exh. MAC-1, at 1. The appellant also argues that she \u201cdid not have prior knowledge that Medicare payment for services would be denied before 90 or 100 days.\u201d Id. The appellant states that \u201crehabilitative services should have been continued\u201d and that, although some of the beneficiary\u2019s chronic conditions did not improve, others did.",
+   "the provider discharged the beneficiary from skilled PT and OT on September 30, 2011, a month after readmission to the SNF, because the beneficiary had inconsistent vital signs, low blood pressure, and dizziness while standing. Dec. at 6. The beneficiary could at that time transfer with moderate assistance, ambulate with a rolling walker for fifteen feet with minimum to moderate assistance, could \u201ccomplete four minutes of activity tolerance exercises,\u201d and had shown \u201csome improvements in activities of daily living."
+  ],
+  "reference_outcome": "unfavorable",
+  "outcome_note": "The Council adopted the ALJ decision because the beneficiary did not require skilled services after October 5, 2011 (Jimmo settlement did not change coverage criteria) and she remained liable for non-covered charges after notice.",
+  "cited_sections": [],
+  "other_cites": [
+   "SSA 1862",
+   "SSA 1879",
+   "42 CFR 409.31(a)(2)",
+   "42 CFR 409.32",
+   "42 CFR 409.32(c)",
+   "42 CFR 409.33",
+   "Jimmo v. Sebelius settlement fact sheet"
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "domain": "snf",
+  "docket": "M-11-1967",
+  "service_at_issue": "SNF skilled nursing (observation and assessment, care plan management) March 5-8, 2010",
+  "facts": [
+   "the beneficiary\u2019s hospitalization from February 12 to February 17, 2010, for \u201cworsening gross hematuria.\u201d His recent medical history included a diagnosis of deep vein thrombosis and the placement of an inferior vena cava filter. Exh. 4 at 3, 6. At the hospital, the beneficiary underwent a cystoscopy and transurethral resection of the prostate (which had a nodular growth that had reoccurred despite two prior transurethral resections), and received three transfusions. Id. at 4.",
+   "After the resection, the beneficiary had bloody urine for three days which \u201cgradually quieted,\u201d and, on the date of discharge from the hospital, the urine was described as \u201cdark tea color.\u201d Id. At the time of discharge from the hospital on February 17 (for admission to the SNF) the beneficiary was diagnosed with hematuria secondary to prostate enlargement, recent deep vein thrombosis, chronic renal failure, Parkinson\u2019s disease, obstructive sleep apnea, and a history of squamous cell carcinoma. Id. at 3.",
+   "As of March 2, 2010, a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void, and to check the Foley catheter. Exh. 4 at 10. The nurses\u2019 notes leading up to March 5, 2010 indicate, among other things, drainage of bloody urine from the Foley catheter. Laboratory tests were ordered. The beneficiary was placed on Ensure five times daily because he was noted to have had a poor appetite. The nurses were to monitor the amount of Ensure ingested. See id. at 17-18.",
+   "the nurses continued to monitor the beneficiary for signs of hematuria. Laboratory results were abnormal. Exh. 4 at 19. Laboratory tests were ordered to be repeated. Id. at 15. The next day, March 6, 2010, the doctor ordered the beneficiary to be hospitalized; the \u201cabnormal\u201d laboratory results were again noted. Id. at 15, 19; Exh. 10. The next day, March 7, 2010, nurses documented \u201cbright red\u201d hematuria (Exh. 4 at 20), and a doctor again ordered that laboratory tests be performed (id. at 20-21)."
+  ],
+  "reference_outcome": "favorable",
+  "outcome_note": "The Council reversed the ALJ and found coverage for March 5-8, 2010 because the beneficiary required and received daily skilled observation and assessment and care plan management for ongoing hematuria.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.8",
+    "section": "30.2.3.2"
+   },
+   {
+    "doc": "MBPM ch.8",
+    "section": "30.2.3.1"
+   }
+  ],
+  "other_cites": [
+   "SSA 1862(a)(1)(A)",
+   "SSA 1879",
+   "42 CFR 409.31",
+   "42 CFR 409.32(a)",
+   "42 CFR 409.33(a)(1)",
+   "42 CFR 409.33(a)(2)"
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "domain": "snf",
+  "docket": "M-11-1869",
+  "service_at_issue": "Home health skilled nursing visits for diabetes management (Oct 2007-Sept 2008) [note: home health, not SNF]",
+  "facts": [
+   "New England Home Care provided home health services (nursing visits) to the beneficiary, who has diabetes and is legally blind. This case began with a claim for services furnished from August 6, 2007 to March 28, 2008 and May 28, 2008 to September 24, 2008.",
+   "The 72-year-old beneficiary\u2019s principal diagnosis is diabetes. Her medical conditions also include hypertension, hypercholesterolemia, and legal blindness. See, e.g., Exh. 1 at 4. As the appellant acknowledges in its brief, the beneficiary tested blood sugar levels on her own. Exh. MAC-1 at 5.",
+   "On multiple occasions during this period, the nurses had the beneficiary see her doctor with her blood sugar logs or sent logs evidencing fluctuating blood sugar levels to the beneficiary\u2019s endocrinologist. As a result of these actions taken by the nurses, the beneficiary\u2019s insulin dosage was adjusted numerous times during this period. See, e.g., Exh. 1 at 8, 9 (November 2007, two increases in dosage of Lantus, subcutaneous solution), 16 (another increase in dosage, December 2007).",
+   "the records dated within this period include numerous documented instances of changes in the beneficiary\u2019s medication schedule, as well as problems related to compliance with taking diabetic medications (to include Starlix) as directed, and reports of difficulty using a talking glucometer, all for which the nurses provided ongoing monitoring, assessment, and instructions to take the medications as directed. See, e.g., id. at 9, 10, 21, 25, 59, 67, 75, 232.",
+   "The nurses\u2019 visit notes for this period also indicate that the nurses assessed the beneficiary\u2019s reports of changes in her urine. The nurses contacted the beneficiary\u2019s doctor to obtain permission to take a urine sample for analysis. The beneficiary was given Cipro for a urinary tract infection, and the nurses thereafter continued to monitor her for compliance with medication for this infection. See id. at 417, 421, 425."
+  ],
+  "reference_outcome": "favorable",
+  "outcome_note": "The Council reversed the ALJ and found the home health skilled nursing visits reasonable and necessary because the beneficiary needed skilled observation, assessment and management of a changing diabetic condition.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.7",
+    "section": "30"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "40.1"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "40.1.1"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "40.1.2.1"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "40.1.2.3"
+   }
+  ],
+  "other_cites": [
+   "SSA 1862(a)(1)",
+   "42 CFR 409.42",
+   "42 CFR 409.44(b)",
+   "42 CFR 409.44(b)(3)",
+   "42 CFR 409.32(c)",
+   "42 CFR 409.33(a)(1)",
+   "42 CFR 409.33(a)(2)"
+  ]
+ },
+ {
+  "case_id": "11-1343",
+  "domain": "snf",
+  "docket": "M-11-1343",
+  "service_at_issue": "SNF stays billed at RUG-III therapy levels for three beneficiaries (Aug/Oct 2009): PT, OT, ST and skilled nursing",
+  "facts": [
+   "D.E. had a prior hospital stay for a diagnosis of congestive heart failure from August 23, 2009, to August 26, 2009. Exh. 2 at 216. The beneficiary\u2019s medical history included stroke, left-sided weakness due to stroke, hearing loss, hypertension, GERD, depression (present situational depression), chronic Coumadin treatment, diabetes type II, hyperlipidemia, left hip arthroplasty, CHF and anemia. Exh. 2 at 166. The beneficiary was noted to have \u201csome obvious \u2018cognitive deficits,\u2019 but no official diagnosis of dementia.\u201d Id. at 168.",
+   "At OT initiation, D.E.\u2019s functional status had declined as follows: her sitting balance was poor; she required moderate assistance with lower body bathing; maximal assistance with upper body bathing; maximal assistance with lower body dressing; and maximal assistance with toilet transfers. Id.",
+   "the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination. Exh. 2 at 212. D.E.\u2019s prior level of function was noted to be \u201crequired assistance to transfer from sitting to standing.\u201d Id. at 216. D.E. was referred to PT due to decreased strength and decreased ADLs due to illness. Id. At the beginning of PT, D.E. required moderate assistance for all functional transfers. Id. at 217.",
+   "the services were initiated on August 27, 2009, with a treatment diagnosis of cognitive deficits. Exh. 2 at 246. At the onset of ST, D.E. exhibited moderate to severe receptive and expressive language and cognitive deficits. Exh. 2 at 214. D.E. was referred to ST to evaluate for speech/language cognitive deficits affecting her communication and safety. Exh. 2 at 250. D.E.\u2019s goals included \u201c[increased] quality of life to enjoy a maximum possible level of cognitive functioning and communication skills as measured by skilled observation and modified formal testing [with] 80% proficiency.\u201d Exh. 2 at 250.",
+   "E.M. was referred to ST following a recent hospitalization for severe shortness of breath, worsening cough, and difficulty lying down. See Exh. 2 at 105. E.M.\u2019s primary functional goal was to increase her quality of life to enjoy maximal possible level of cognitive functioning and communication skills. Id.",
+   "OT services were initiated on August 24, 2009 with a treatment diagnosis of lack of coordination and muscle weakness. Exh. 2 at 194. E.M.\u2019s prior level of functional was minimal to moderate assistance with ADLs. Id. at 187. E.M. was referred to OT due to an overall decline in transfers, range of motion, strength, and independence with ADLs. Id. at 187. In September 2009, E.M. required maximal assist and 100% tactical, visual or verbal cue to attend to task. Id. at 186.",
+   "J.M. was referred to PT secondary to a fall with fracture of the left hip with weakness. Exh. 2 at 316. At the beginning of PT, J.M. required moderate to maximal assist with functional mobility. Exh. 2 at 316. J.M.\u2019s right lower extremity strength measured 3/5 and left lower extremity measured 2+/5. Id.",
+   "the nursing notes indicate that on July 28, 2009, the beneficiary sustained a fall and hit her head. She was transported to the hospital for a head scan. Id. at 172. Upon return to the SNF, she was placed on a neurological watch and fall precautions. Id. at 172-173. The nurses monitored J.M.\u2019s condition including pupil size, alertness, signs and symptoms of pain and ability to follow commands. Id. at 173.",
+   "services were initiated on June 14, 2009, with a treatment diagnosis of muscle weakness. J.M.\u2019s prior level of function was documented as independent with bed mobility, transfers, ambulation and eating and required minimal assist with all other care. Exh. 2 at 294. At the onset of OT services, J.M. required minimal assistance with feeding, maximal assistance with all other care. Id. Bilateral upper extremity strength was rated 3/5. Goals were developed to improve functionality. Id."
+  ],
+  "reference_outcome": "partial",
+  "outcome_note": "The Council modified the ALJ decisions: physician signature on the plan of care was not required, so the lack of signatures was not a basis for denial, but most PT/OT/ST was not reasonable and necessary (only D.E. OT, E.M. ST and J.M. skilled nursing were), so claims were downcoded and the beneficiaries were held not liable.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.8",
+    "section": "30"
+   }
+  ],
+  "other_cites": [
+   "SSA 1861(h)",
+   "SSA 1862(a)(1)(A)",
+   "SSA 1862(a)(9)",
+   "SSA 1814(a)(2)(B)",
+   "SSA 1866(a)(1)(A)",
+   "SSA 1879",
+   "SSA 1833(e)",
+   "SSA 1888(e)(6)",
+   "42 CFR 409.30-409.36",
+   "42 CFR 409.31(a)",
+   "42 CFR 411.15(g)",
+   "42 CFR 424.11",
+   "42 CFR 424.5(a)(6)",
+   "42 CFR 411.400",
+   "42 CFR 411.404",
+   "42 CFR 411.406",
+   "MPIM ch.6 6.1, 6.1.3, 6.2",
+   "CMS Ruling 95-1",
+   "MCPM ch.30"
+  ]
+ },
+ {
+  "case_id": "m-13-04",
+  "domain": "snf",
+  "docket": "M-13-04",
+  "service_at_issue": "SNF services October 22-27, 2010 (post-hospital SNF stay) and liability for non-covered charges",
+  "facts": [
+   "This matter involves SNF services the appellant provider furnished to the beneficiary from October 22, 2010, through October 27, 2010. Exh. MAC-1, at 1. The contractor, National Government Services (NGS), denied Medicare coverage initially and on redetermination. Exh. 16, at 1.",
+   "In addition, a letter from the appellant dated October 25, 2010, and addressed to the beneficiary\u2019s representative, indicates that the SNF services provided to the beneficiary will cease to be covered by Medicare as of October 28, 2010. Id. at 52.",
+   "3. The ALJ erred in applying section 1879 of the Act to limit appellant\u2019s liability. See 42 C.F.R. \u00a7 405.1063(a). The ALJ failed to consider section 411.406(e) of Title 42 of the CFR, stating providers participating in Medicare have constructive knowledge of the Act, the C.F.R., and program guidance published by CMS and its contractors. 4. The ALJ erred in finding appellant furnished the beneficiary with sufficient notice of non-coverage. The ALJ failed to consider sections 40.3.1.2 and 70.5 of chapter 30 of the Medicare Claims Processing Manual which require an ABN of Medicare non-coverage to be furnished in advance of the service."
+  ],
+  "reference_outcome": "unfavorable",
+  "outcome_note": "On CMS own-motion review the Council held the SNF services not covered (unchallenged), reversed the ALJ on liability, and held the provider, not the beneficiary, liable because no adequate advance notice was given and the provider had constructive knowledge and lacked valid physician certification.",
+  "cited_sections": [],
+  "other_cites": [
+   "SSA 1862(a)(1)",
+   "SSA 1814(a)(2)(B)",
+   "SSA 1879",
+   "42 CFR 411.400",
+   "42 CFR 411.404",
+   "42 CFR 411.406",
+   "42 CFR 411.408",
+   "42 CFR 489.21(b)(1)",
+   "42 CFR 405.1046(a)",
+   "42 CFR 405.1020",
+   "42 CFR 405.1008",
+   "42 CFR 405.1022",
+   "MCPM ch.30 40.3, 40.3.4.2, 40.3.8"
+  ]
+ },
+ {
+  "case_id": "12-987",
+  "domain": "snf",
+  "docket": "M-12-987",
+  "service_at_issue": "Outpatient (Part B) occupational therapy furnished to a nursing facility resident, March 1-21, 2011 (CPT 97024, 97535, 97542)",
+  "facts": [
+   "The beneficiary lived in the appellant\u2019s facility since July 31, 2006. Exh. 3, at 44. Her medical diagnoses included rheumatoid arthritis, degenerative disc disease, hypertension, and history of falls. Id. During the dates of service, the appellant provided physical therapy (PT) and OT services to the beneficiary. Exh. 1, at 4-7.",
+   "As relevant here, on February 16, 2011, an APRN signed and certified an OT plan of treatment (POT) for the beneficiary on behalf of the physician. Exh. 2, at 16. The POT is largely illegible, but the legible portions show that the beneficiary had a treatment diagnosis of abnormal posture and the POT contained orders for \u201cself care/home management training\u201d and wheelchair management. Id. The POT also shows that the goals of the OT services were to enable the beneficiary to propel her wheelchair to the dining room and to tolerate sitting in the wheelchair without complaints of discomfort. Id.",
+   "The appellant subsequently sought coverage for the PT and OT services furnished to the beneficiary from March 1, 2011, through March 21, 2011. Exh. 1, at 4-7. On initial determination, the Medicare contractor covered the PT services, but denied coverage for the OT services, which were billed under CPT codes 97024 (diathermy), 97535 (self-care management training), and 97542 (wheelchair management training).",
+   "the beneficiary had received OT services from February 11, 2011, through February 18, 2011, but was subsequently placed on \u201chold\u201d for further OT services while awaiting the delivery of a wheelchair cushion. Exh. 2, at 21, 29, 31. On March 7, 2011, and March 8, 2011, the appellant resumed OT services to provide diathermy services.",
+   "the appellant provided OT services for wheelchair management training on March 14, 2011, and March 15, 2011. Exh. 1, at 7; Exh. 2, at 35. The training consisted of asking the beneficiary to propel the wheelchair to the dining room and observing the beneficiary\u2019s wheelchair positioning and foot contact. Exh. 2, at 35."
+  ],
+  "reference_outcome": "unfavorable",
+  "outcome_note": "The Council agreed APRN signatures were acceptable but found the OT services not reasonable and necessary (outside the plan of treatment, repetitive, no functional deficit), and held the provider liable for the non-covered charges.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.15",
+    "section": "220"
+   },
+   {
+    "doc": "MBPM ch.15",
+    "section": "220(A)"
+   },
+   {
+    "doc": "MBPM ch.15",
+    "section": "220.1.3(C)"
+   },
+   {
+    "doc": "MBPM ch.15",
+    "section": "220.2(B)"
+   }
+  ],
+  "other_cites": [
+   "SSA 1835(a)(2)(C)",
+   "SSA 1862(a)(1)(A)",
+   "SSA 1879",
+   "42 CFR 410.59",
+   "42 CFR 410.61(b)(5)",
+   "42 CFR 424.11(e)",
+   "42 CFR 405.1062",
+   "42 CFR 411.406(e)",
+   "LCD L26884",
+   "CMS Ruling 95-1",
+   "MCPM ch.30 40.1-40.1.2, 40.2"
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "domain": "snf",
+  "docket": "M-10-1771",
+  "service_at_issue": "SNF Part A stays (E.M. Dec 2008; J.S. Sept 2008) billed at RUG-III therapy levels and outpatient Part B PT (E.K., Sept 2008)",
+  "facts": [
+   "In its request for review, the appellant asserts that the record does, in fact, document that the beneficiary sustained a fall in the facility on September 2, 2008, resulting in a \u201cleft upper extremity sprain,\u201d and that it can be assumed that \u201cprior to this fall she did not have a left upper extremity sprain.\u201d The appellant maintains that this event constituted a \u201cnew physical decline which warranted Physical Therapy . . . intervention in order to ensure continued safety and independence.\u201d Exh. MAC-1 at 1.",
+   "the beneficiary demonstrated \u201cslow but steady progress\u201d reflecting gains in \u201csafety, balance and overall functional mobility.\u201d The appellant asserts that the documentation of record, present throughout all levels of review, demonstrates the clear need for the skills of a physical therapist to provide the beneficiary with \u201crehabilitation services to promote safety and maximize functional independence in . . . [the beneficiary\u2019s] environment.\u201d Exh. MAC-1 at 1-2.",
+   "The beneficiary\u2019s medical history was significant for a total right knee replacement (November 3, 2008), after which she was admitted to an inpatient rehabilitation facility (IRF) from November 6-21, 2008. While in the IRF, the beneficiary was diagnosed with dysphagia, and was treated for atrial fibrillation, anxiety/depression, hypertension and anemia. Upon discharge from the IRF, the beneficiary\u2019s muscle strength was rated at 4+/5 and she was able to ambulate 200 feet with a rolling walker and minimal assistance. Dec. at 18.",
+   "The appellant asserts that the beneficiary made steady progress throughout physical therapy while receiving progressive resistance strengthening exercises to improve lower body, strength and balance, as well as \u201csignificant . . . education regarding safety awareness.\u201d The appellant further contends that the fact that the beneficiary required \u201cencouragement and reassurance does not prevent her from being a candidate for therapy.\u201d Exh. MAC-2 at 1-2.",
+   "Addressing speech therapy, the appellant indicates that while the beneficiary was admitted with physician\u2019s orders for a mechanical soft diet, the beneficiary requested an upgrade to a \u201cregular diet.\u201d Consequently, it was necessary to conduct a ST evaluation to ensure the beneficiary\u2019s ability to tolerate the upgraded diet. Exh. MAC-2 at 2.",
+   "In its request for review, the appellant generally references an \u201cAttached\u201d \u201chistory and physical\u201d from the beneficiary\u2019s physician indicating that the beneficiary \u201chad memory loss and difficulty concentrating consistent with dementia.\u201d Exh. MAC-3 at 1. The appellant asserts that his information indicates that the beneficiary \u201chad newly worsening cognition both prior to and following\u201d her hospitalization. The appellant maintains that the beneficiary deserved the opportunity to improve her memory. The appellant also concedes that the beneficiary met her goals by September 11, 2008"
+  ],
+  "reference_outcome": "unfavorable",
+  "outcome_note": "The Council held the E.K. PT and the E.M. and J.S. SNF stays not covered at any RUG level (therapy not documented as skilled/necessary and unchallenged custodial nursing), modifying the ALJ downcoding, with the provider liable.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.8",
+    "section": "30"
+   },
+   {
+    "doc": "MBPM ch.8",
+    "section": "30.4.1.1"
+   },
+   {
+    "doc": "MBPM ch.8",
+    "section": "30.4.1.2"
+   }
+  ],
+  "other_cites": [
+   "SSA 1833(e)",
+   "SSA 1862(a)(9)",
+   "SSA 1879",
+   "SSA 1888(e)(6)",
+   "42 CFR 409.30-409.36",
+   "42 CFR 409.34(a)(1)",
+   "42 CFR 424.5(a)(6)",
+   "42 CFR 405.1122(c)",
+   "MPIM ch.6 6.1, 6.1.3, 6.2",
+   "64 Fed. Reg. 41666"
+  ]
+ },
+ {
+  "case_id": "m-11-1350",
+  "domain": "snf",
+  "docket": "M-11-1350",
+  "service_at_issue": "SNF stay after Dec. 25, 2009 (Medicare Advantage; PT/OT and nursing; cellulitis)",
+  "facts": [
+   "the enrollee, 68 years old during the time period at issue, was hospitalized on November 18, 2009, for low back pain and urinary tract infection. Exh. 6, at 124-25. Her past medical history included bipolar disorder, depression, diet- controlled diabetes, hypercholesterolemia, and hypertension. Id. at 125.",
+   "the enrollee received skilled physical therapy (PT) and occupational therapy (OT) from November 22, 2009, to December 24, 2009. See id. at 67-102. The enrollee was discharged from *** on December 28, 2009, at which time she returned home. See id. at 114, 107.",
+   "On December 23, 2009, the provider notified the enrollee that Medicare coverage for her SNF stay would end on December 25, 2009. Exh. 2, at 45-46. Also on December 23, 2009, the enrollee\u2019s representative made a telephone request for an expedited determination to challenge the decision to end coverage of SNF services. See Exh. 4, at 56.",
+   "Before the ALJ, the enrollee argued that she could not leave the SNF before the attending physician examined her and signed discharge orders. See Exh. 6, at 138. She further argued that, as a practical matter, because of the Christmas holiday, the first opportunity for the physician to examine her was Monday, December 28, 2009. Id. She therefore argued that she should not be financially responsible for the three days of non-covered SNF charges incurred from December 26 to 28, 2009. Id.",
+   "Before the Council, the enrollee argues that the provider\u2019s medical records demonstrate that the enrollee\u2019s medical condition was such that she continued to need skilled observation and assessment by nursing staff, as well as skilled rehabilitation services, on and after December 26, 2009. See Exh. MAC-1.",
+   "In support of this contention, she points to PT and OT recertifications completed on December 23, 2009. See Exh. 6, at 70-73, 89-91, 115. In these documents, the therapists requested physician recertification of the need for PT for the period 12/22/2009- 1/20/2010 and for OT for the period 12/23/2009-1/21/2010."
+  ],
+  "reference_outcome": "unfavorable",
+  "outcome_note": "The Council adopted the ALJ decision: the enrollee did not require or receive daily skilled nursing (cellulitis treated with oral medication) and had reached most therapy goals after five weeks, so SNF coverage ended and she remained liable.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.8",
+    "section": "30"
+   },
+   {
+    "doc": "MBPM ch.8",
+    "section": "30.4.1.1"
+   }
+  ],
+  "other_cites": [
+   "42 CFR 409.31(b)",
+   "42 CFR 422.608",
+   "42 CFR 422.566",
+   "42 CFR 405.1032",
+   "CMS Ruling 93-1",
+   "42 CFR 401.108",
+   "42 CFR 405.1063"
+  ]
+ },
+ {
+  "case_id": "m-10-1884",
+  "domain": "snf",
+  "docket": "M-10-1884",
+  "service_at_issue": "SNF services January 28 - March 1, 2009 for a beneficiary who elected hospice; liability",
+  "facts": [
+   "on the dates of service at issue, the beneficiary was an 89-year-old female with a history of multiple myeloma and breast cancer, among other diagnoses. See Exh. 1, at 24, 207. The beneficiary was re-admitted to * * * Health & Rehab Center (SNF) on December 11, 2008, following a hospital stay for gastrointestinal bleeding.",
+   "The beneficiary required and received skilled physical therapy (PT) and occupational therapy (OT) services during December 2008 and January 2009. See id. at 257-286. She was discharged from OT on January 19, 2009, and from PT on January 22, 2009. Id. at 249.",
+   "The SNF billed the appellant for the beneficiary\u2019s care for dates of service January 28 through January 31, 2009, and for February 1, 2009 through March 1, 2009. See Exh. 2, at 29-32. The appellant disputed that the beneficiary was liable for the charges and asserted that Medicare should cover the charges. Id.",
+   "The SNF documented that it provided notice to the appellant, by telephone, that the beneficiary would no longer require skilled care after January 27, 2009. Exh. 1, at 477. According to the SNF note, the appellant was informed that the beneficiary\u2019s last Medicare-covered day would be January 27, 2009. Id. The appellant appears to concede that he received a telephone contact from the SNF. Exh. MAC-1.",
+   "The appellant does not contend that the SNF care at issue was unrelated to the beneficiary\u2019s terminal condition. See Exh. MAC-1. Instead, he argues that the services were skilled, and that the beneficiary had not exhausted her Medicare Part A SNF benefits. Id."
+  ],
+  "reference_outcome": "partial",
+  "outcome_note": "The Council agreed the SNF services were not covered (hospice elected, Medicare already paid hospice) but reversed the ALJ on liability: the telephone notice was ineffective so the estate is not liable and the SNF is.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.9",
+    "section": "20.3"
+   }
+  ],
+  "other_cites": [
+   "SSA 1862(a)(1)",
+   "SSA 1879",
+   "42 CFR 411.404",
+   "42 CFR 411.406(d)",
+   "42 CFR 405.1200",
+   "MCPM ch.29",
+   "MCPM ch.30 40.3, 40.3.4.2"
+  ]
+ },
+ {
+  "case_id": "11-1925",
+  "domain": "snf",
+  "docket": "M-11-1925",
+  "service_at_issue": "SNF services Sept 19 - Oct 31, 2009; beneficiary vs provider liability after notice of non-coverage",
+  "facts": [
+   "The beneficiary began receiving skilled nursing services from a SNF in August 2009 following a qualifying three-day hospital stay. See Exh. 2 at 10. After several weeks of furnishing Medicare-covered SNF level services, the provider prepared a written notice of non-coverage (NONC) to advise the beneficiary that Medicare \u201cprobably will not pay\u201d for services rendered beginning September 19, 2009, and that the beneficiary could appeal this determination.",
+   "The appellant sought Medicare coverage for the services provided to the beneficiary from September 19, 2009, to October 31, 2009. See Exh. 3 at 4\u20145. Initially and at the redetermination level, the Medicare contractor denied coverage for the services on the ground that they were not reasonable and necessary. Id. at 1\u20142.",
+   "The appellant contests the validity of the NONC as an ABN for two reasons. First, the appellant contends that the NONC is insufficient as an ABN because it does not specify what services Medicare would not cover and does not explain why Medicare would deny such services. See id."
+  ],
+  "reference_outcome": "partial",
+  "outcome_note": "Council adopted the ALJ's non-coverage finding (undisputed) but reversed on liability, holding the beneficiary not liable and the provider liable because the NONC was not a valid SNF ABN.",
+  "cited_sections": [],
+  "other_cites": [
+   "SSA 1879(a)",
+   "42 CFR 411.400",
+   "42 CFR 411.404",
+   "MCPM ch.30 40.3.1.2",
+   "MCPM ch.30 40.3",
+   "Expedited Determination Process Q&As Group 5"
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "domain": "snf",
+  "docket": "M-11-1546",
+  "service_at_issue": "SNF services Feb 2 - Mar 3, 2010 (Part A)",
+  "facts": [
+   "Both the provider and the State Medicaid Agency requested review of the ALJ\u2019s decision, each contending that the beneficiary had a qualifying three-day stay. See Exhs. MAC-1; MAC-2. The provider submits, as evidence of the three-day stay, hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay at *** *** Hospital. See id. The State Medicaid Agency further contends that it was under a \u201cgood faith impression\u201d that the relevant evidence regarding the qualifying three-day hospital stay was contained in the claim file. See MAC-2. Lastly, the State Medicaid agency contends that the beneficiary\u2019s SNF stay met the criteria for Medicare coverage. Id.",
+   "In the instant case, the beneficiary is a deaf mute with Alzheimer\u2019s dementia who had difficulty communicating. Exh. 4 at 36, 194, see also, id. at 3-25. The record indicates that he had diagnoses of pneumonia, shortness of breath, acute myocardial infarction, atrial flutter, and renal insufficiency. Id. at 36, 194; MAC-1 at 3.",
+   "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings, and to notify the doctor if three consecutive doses of medication were refused or held. Id. at 36. On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate. Id. at 3-25, reference Hearing CD. Psychoactive medication (Trazadone) was also given on an as needed basis. Id. at 48."
+  ],
+  "reference_outcome": "favorable",
+  "outcome_note": "Council reversed the ALJ, finding a qualifying three-day hospital stay existed and the beneficiary required and received daily skilled nursing services.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.8",
+    "section": "30.2.3.2"
+   }
+  ],
+  "other_cites": [
+   "42 CFR 409.31(b)",
+   "42 CFR 409.31(b)(2)(ii)",
+   "42 CFR 409.32(a)",
+   "42 CFR 409.33(a)(1)",
+   "42 CFR 409.33(a)(2)",
+   "42 CFR 409.33(b)(1)",
+   "42 CFR 405.1122(c)",
+   "SSA 1833(e)"
+  ]
+ },
+ {
+  "case_id": "11-213",
+  "domain": "snf",
+  "docket": "M-11-213",
+  "service_at_issue": "Occupational therapy in SNF resident, Part B, Mar 23-31, 2009",
+  "facts": [
+   "The appellant maintains that the skills of a licensed therapist were required to assess the beneficiary\u2019s \u201cdeficits in strength, range of motion, and mobility that were related to her decline in function,\u201d including sit/stand technique for transfer as well as diathermy and stretching for range of motion. Id. The appellant points to the beneficiary\u2019s prior discharge from OT on January 6, 2009, as establishing functional benchmarks that evidence the beneficiary\u2019s \u201csignificant decline\u201d from then until the dates of service. Id.",
+   "The appellant also argues that the physician approved services including therapeutic exercise, therapeutic activities, activities of daily living (ADL) retraining, and modalities (moist hot pack, ultrasound, electrical stimulation, and diathermy) to improve range of motion. Id. The appellant cites the beneficiary\u2019s documented progress in several areas as supporting medical necessity. Id. at 2.",
+   "On March 23, 2009, the physician ordered OT 5x/wk for 30 days. Exh. 6, at 2. Treatment records indicate that the beneficiary also received services on April 2, 2009, and April 3, 2009. Id. at 12. The OT Evaluation and ALJ decision indicate that the services were billed to Medicare Part B, and the initial determination, redetermination, and reconsideration reflect dates of service from March 23, 2009, through March 31, 2009. Dec. at 1; Exhs. 6, at 6, 9; 4, at 1; 3, at 1.",
+   "On March 4, 2009, the physician noted that the beneficiary had \u201cdepression with some increased symptomology partially related to parkinsonian symptoms. We are going to try her on an Exelon patch 4.6 for 24 hours. Get rid of her Mirapex and see if we can help stabilize that as she\u2019s also having some early dementia symptomology which may be related to early Alzheimer\u2019s versus parkinsonian dimension.\u201d Exh. 6, at 18.",
+   "On March 29, 2009, the physician noted that the beneficiary \u201ccontinu[ed] to have some emotional outbreaks over the past three weeks.\u201d Exh. 6, at 18. Her Exelon patch had been placed on hold for one week, but no difference was noted. Id. The physician had prescribed OT secondary to the beneficiary\u2019s decline, but \u201c[n]o significant changes there.\u201d Id. Her Exelon patch was resumed, but there was \u201c[r]eally not a whole lot of change emotionally.\u201d Id. The physician noted that the beneficiary was worse at lunch time and that the appellant staff had \u201cbeen trying to get her more involved in activities.\u201d Id.",
+   "On April 7, 2009, the appellant prepared a quarterly assessment Minimum Data Set (MDS) form which indicates that the beneficiary had modified independence in cognitive skills for daily decision making. Exh. 1, at 20. She was documented as having indicators of depression, anxiety, and sad mood, but the MDS states that the \u201cindicators present [were] easily altered.\u201d Id."
+  ],
+  "reference_outcome": "favorable",
+  "outcome_note": "Council reversed the ALJ, finding skilled therapist services were reasonable and necessary given the functional decline and expectation of material improvement.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.15",
+    "section": "220.2"
+   }
+  ],
+  "other_cites": [
+   "42 CFR 409.44(c)",
+   "42 CFR 409.44(c)(iii)",
+   "42 CFR 409.33(d)(13)",
+   "SSA 1879"
+  ]
+ },
+ {
+  "case_id": "m-2011-443",
+  "domain": "snf",
+  "docket": "M-11-443",
+  "service_at_issue": "Medicare Secondary Payer conditional payment recovery; request for review after withdrawal by substitute party",
+  "facts": [
+   "This matter concerns Medicare\u2019s claim as secondary payer for recovery of a conditional payment made on behalf of the beneficiary. The beneficiary died on June 19, 2010, after requesting a hearing. Attorney David A. Azran advised the Office of Medicare Hearings and Appeals (OMHA), in a letter dated July 7, 2010, that he was working to determine who may have a legal interest in the claim following the beneficiary\u2019s death. Exh. 16, at 1. Further, Mr. Azran advised that he would file the form HHS-722, to substitute a party upon the death of a party, with OMHA when that person was identified. Id.",
+   "The ALJ hearing was originally scheduled for August 4, 2010. Exh. 14, at 1. During this telephone communication, Mr. Azran explained that the beneficiary\u2019s father was her heir. Hearing CD. He went onto inform the ALJ that the father was incapacitated and that his daughter (the appellant) had power of attorney, so she would be handling matters. Id. Mr. Azran stated that the daughter is the sister of the decedent applicant. Id.",
+   "Mr. Azran included an appointment of representative form, as well as form HHS-722, in a letter dated September 1, 2010. Exh. 22, at 1-3. On form HHS-722, Ms. L*** had checked the box stating \u201cI do not wish to proceed with the hearing requested by the deceased, and I withdraw the request for hearing.\u201d Id. at 2.",
+   "Further, Mr. Azran states that \u201cthe appellant was operating on erroneous facts and/or assumptions based on the MSPRC\u2019s representation regarding their treatment and consideration of Appellant\u2019s Request for Compromise...and regarding the issue of whether or not Medicare is entitled to interest on the principal claimed amount.\u201d Id. Included in the appellant\u2019s request for review is a \u201cDeclaration of A*** L***\u201d, which further explains her understanding and belief, which is apparently based directly on the advice of counsel. In the Declaration, Ms. L*** represents that she is a proper appellant as the beneficiary\u2019s sister because she holds the power of attorney for D*** D***, the beneficiary\u2019s father."
+  ],
+  "reference_outcome": "unfavorable",
+  "outcome_note": "Council dismissed the request for review because the appellant had not shown she was a proper substitute party with a financial interest, leaving the reconsideration binding.",
+  "cited_sections": [],
+  "other_cites": [
+   "42 CFR 405.1114(c)(1)"
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "domain": "snf",
+  "docket": "M-10-2061",
+  "service_at_issue": "Home health skilled nursing visits Apr 17 - Oct 13, 2007 (Part B)",
+  "facts": [
+   "The beneficiary is a male in his forties who has, among other medical conditions, diabetes and spina bifida with hydrocephalus. His medical history includes recurrent urinary tract infections, and anal and rectal abscesses. His bowel and bladder functions are maintained by colostomy and urostomy.",
+   "He is totally dependent for his care. His mother acts as his primary caregiver. He cannot bear weight and requires maximum assistance to leave his home. At issue in this appeal are skilled nursing visits furnished by Ocean County Board of Health, the provider, from April 17, 2007, through October 13, 2007.",
+   "He had a recurrence of urinary tract infection around mid-point during the six-month period at issue. He was hospitalized for several days in July 2007 for urosepsis and e.coli infection. He experienced another bout of urinary tract infection two months later. He experienced rectal bleeding more than once during the dates of service, and penile discharge (for which he was given prescription antibiotics). Tissue was found in the urostomy. The nurses noted abscesses in the rectum. The beneficiary developed a fistula near the colostomy site."
+  ],
+  "reference_outcome": "favorable",
+  "outcome_note": "Council reversed the ALJ, holding the intermittent skilled nursing visits (wound care, observation and assessment, care-plan management) were reasonable and necessary regardless of chronicity.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.7",
+    "section": "20.2"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "40.1.1"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "40.1.2.1"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "40.1.2.3"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "40.1.2.8"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "40.1.2.2"
+   }
+  ],
+  "other_cites": [
+   "42 CFR 409.33(a)(1)",
+   "42 CFR 409.33(a)(2)",
+   "42 CFR 409.33(a)(3)",
+   "42 CFR 409.33(b)(5)",
+   "42 CFR 409.32(c)",
+   "42 CFR 409.44(b)(1)(iii)",
+   "42 CFR 409.44(b)(3)",
+   "42 CFR 409.44(b)(3)(iii)"
+  ]
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "domain": "snf",
+  "docket": "M-10-1564",
+  "service_at_issue": "SNF services Aug 1-31, 2009 (nursing and PT) after psychiatric hospitalization",
+  "facts": [
+   "The appellant asserts in its request for review that from August 1, 2009, through August 31, 2009, the beneficiary required and received skilled nursing care (for psychological, behavioral, and medical reasons), and received skilled physical therapy for her gait and ambulation problems, difficulty with transferring, and need to reduce her risk of falls. Exh. MAC-1.",
+   "On July 20, 2009, the beneficiary (age 88) was admitted to the acute psychiatric unit at Yale University for dementia (apparently vascular in origin), paranoid behavior, significant difficulty sleeping, agitation, and being violent and assaultive toward her primary caregiver. Exh. 1 at 4-6. There she was diagnosed with dementia, a behavioral disturbance, and psychosis not otherwise specified. Id. at 7, 15. The beneficiary also had a history of alcohol dependence, and had undergone detox treatments several times. Id. at 5, 14, 29.",
+   "At Yale, the beneficiary was treated with Haldol, an antipsychotic medication. Exh. 1 at 9-10. One of the beneficiary\u2019s treating physicians wrote a letter recommending that she be cared for in a nursing home, and opining that she could be cared for in such a setting without injury to herself or others. Id. at 37.",
+   "On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility, the appellant\u2019s SNF. Exh. 1 at 54. The appellant\u2019s medical director evaluated the beneficiary and raised questions about her aggressiveness and assaultiveness, and whether she could be managed at the SNF. Id. at 44, 46, 47. Upon the beneficiary\u2019s admission to the SNF, physical therapy (PT) was started five times a week (id. at 54), and Warfarin (for her atrial fibrillation) was discontinued because the risks outweighed the benefits (id. at 47, 60, 62).",
+   "On July 29, 2009, the beneficiary was evaluated by a psychiatric advanced practice registered nurse (APRN). Exh. 1 at 44-45. The APRN consulted with the medical director, and a decision was made not to alter the beneficiary\u2019s medications at that time, but to closely monitor her moods and behaviors at the SNF. Id. During the period from July 27, 2009, through August 11, 2009, the beneficiary was closely monitored by the skilled nurses (multiple times each day), one or more physicians, and the psychiatric APRN, for changes in her mood, her behaviors, and other psychological symptoms. Id. at 40-45, 59-62, 63-64, 69- 70.",
+   "On August 5, 2009, the psychiatrist reduced her Haldol from three to two times a day (Exh. 1 at 59), and close monitoring of her moods and behaviors continued in light of that change. Id. at 40-41, 63-64, 69-70. By August 12, 2009, when the beneficiary was again evaluated by the psychiatric advanced practice registered nurse, her behavioral condition had stabilized. Id. at 40-41.",
+   "On August 4, 2009, the nursing staff identified expiratory wheezing and crackles in the beneficiary\u2019s lungs, bilaterally, and pulse oximeter readings of 85 to 87 percent. Id. at 63. They notified the medical director, a chest x-ray was taken, and the beneficiary was diagnosed with pneumonia. Id. at 63, 70; Exh. 4 at 7. The beneficiary\u2019s treatment included an oral antibiotic for ten days, oxygen as needed, and ongoing, frequent monitoring by the nursing staff. Exh. 1 at 59, 63-64, 69-70."
+  ],
+  "reference_outcome": "partial",
+  "outcome_note": "Council reversed in part: skilled nursing for psychiatric/behavioral monitoring and other medical needs made Aug 1-11 covered, but services Aug 12-31 were not sufficiently skilled and the provider is liable.",
+  "cited_sections": [],
+  "other_cites": [
+   "42 CFR 409.30",
+   "42 CFR 409.31(b)",
+   "42 CFR 409.31(b)(2)(i)",
+   "42 CFR 409.31(b)(2)(ii)",
+   "42 CFR 409.33(a)(2)(ii)",
+   "42 CFR 409.33(c)"
+  ]
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "domain": "snf",
+  "docket": "M-10-571",
+  "service_at_issue": "SNF services in noncertified bed, Sept 29, 2003 - Jan 6, 2004 (two stays)",
+  "facts": [
+   "The beneficiary was a 53-year-old woman diagnosed with metastatic breast cancer. She was admitted to REMH for two periods, from September 29, 2003, through November 27, 2003, and from December 11, 2003 through January 6, 2004, both following a qualifying hospital stay. She died on January 6, 2004 from the cancer.",
+   "On September 29, 2003, the beneficiary was admitted to the appellant\u2019s nursing facility, REMH, immediately following her discharge from the hospital (Danville Regional Medical Center). Exh. 1 at 111. The beneficiary\u2019s medical records indicate that she was placed in a noncertified bed at the appellant\u2019s facility. At the time she was discharged from the hospital, the appellant\u2019s facility did not have a certified bed available.",
+   "The beneficiary\u2019s physician requested her admission for the noncertified bed because he did not practice at any other area facility, and did not think she should change oncologists given the advanced stage of her illness. ALJ Hearing, see also Exh. 3 at 17.",
+   "The appellant\u2019s September 29, 2003 letter, addressed to the daughter, states: On 9-29-03 we reviewed the medical information available at the time of admission. [The beneficiary] may receive services which may be covered under Medicare. The patient must be in the Skilled Care section of the nursing home to receive Medicare benefits. At the time of admission, our vacancy was in the Intermediate Care section of the nursing home, which you agreed to accept. Therefore, the services here cannot be covered under Medicare.",
+   "On October 1, 2003, the appellant prepared a form document, entitled \u201cPhysician\u2019s Orders,\u201d which was signed by a physician on October 14, 2003, and included a \u201cCertification/ Recertification\u201d section. Exh. 1 at 50-51. The physician\u2019s signature is illegible. The form states that \u201cThis Patient Requires [an] Intermediate Level of Nursing Care.\u201d Id.",
+   "Physician\u2019s Telephone Orders requiring intravenous and intramuscular medication for pain and morphine via a portacath are also included for the second admission. Exh. 1 at 67-70. These orders were signed by the beneficiary\u2019s treating physician. The beneficiary\u2019s medical services ended on January 6, 2004, when, as noted above, she died as a result of metastatic cancer.",
+   "The appellant contends that the third condition does not exist because it had a good-faith, reasonable basis for placing the beneficiary in a noncertified bed. The appellant contends that it wanted to place the beneficiary in a certified bed, however, it did not have one available. Exh. MAC-1 at 1."
+  ],
+  "reference_outcome": "unfavorable",
+  "outcome_note": "Council upheld the result: first stay lacked skilled care and physician certification; second stay involved skilled care but the notice/consent for the noncertified bed was invalid, so the beneficiary is not liable and the provider, not Medicare, is liable.",
+  "cited_sections": [],
+  "other_cites": [
+   "SSA 1879(e)",
+   "SSA 1814(a)(2)",
+   "42 CFR 424.20",
+   "42 CFR 424.11(b)",
+   "42 CFR 409.33(d)(13)",
+   "MCPM ch.30 130.3",
+   "MCPM ch.30 130.4",
+   "MCPM ch.30 40.3.5",
+   "Medicare General Information, Eligibility, and Entitlement Manual ch.4 40-40.4.6",
+   "Medicare Program Integrity Manual ch.6 6.3"
+  ]
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "domain": "snf",
+  "docket": "M-2009-1329",
+  "service_at_issue": "SNF services Mar 30 - Apr 30, 2008 (Wintonbury Care Center)",
+  "facts": [
+   "By a letter dated October 5, 2009, the Council granted the appellant a 30-day opportunity to file a brief. Exh. MAC-2. The letter informed the appellant that the Council will act on the request for review based on the present record if nothing further is received within 30 days. The appellant did not file a brief within 30 days thereafter.",
+   "Nearly a month after the expiration of the due date for the brief, on December 1, 2009, the appellant filed, by telefacsimile, a request for an additional extension of time, to January 10, 2010, to brief the case. The appellant\u2019s brief was received after January 10, 2010, by telefacsimile.",
+   "The appellant filed a timely request for Council review (Form DAB-101), dated August 24, 2009, and received on August 26, 2009. The appellant asked for a 60-day opportunity to file a 2 brief in support of the request for review, pursuant to 42 C.F.R. \u00a7 405.1120. Exh. MAC-1."
+  ],
+  "reference_outcome": "unfavorable",
+  "outcome_note": "Council adopted the ALJ's decision (services custodial, beneficiary liable) because the appellant raised no specific exceptions and filed its brief late.",
+  "cited_sections": [],
+  "other_cites": [
+   "SSA 1879",
+   "42 CFR 405.1120"
+  ]
+ },
+ {
+  "case_id": "connecticut11",
+  "domain": "snf",
+  "docket": null,
+  "service_at_issue": "SNF services Feb 25 - Mar 26, 2006; beneficiary liability after notice of non-coverage",
+  "facts": [
+   "The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration. Exh. 1 at 1. The beneficiary\u2019s hospital discharge diagnoses included: chronic dementia, UTI, dehydration, myocardial infarction, hypercholesterolemia, insulin-dependent diabetes mellitus, hypertension, history of cerebral thrombosis, history of transient ischemic attacks, urethral stricture, and depression. Id.",
+   "The beneficiary received skilled physical and occupational therapies after admission. Id. at 47, 35. His physical and occupational therapies were discontinued on February 7, 2006, and February 24, 2006, respectively. Id. On February 22, 2006, a notice of non-coverage was initialed by the beneficiary and witnessed by the SNF\u2019s social worker stating that the last day of skilled services to qualify the stay for Medicare coverage would be February 24, 2006. Exh. 3 at 2-3.",
+   "On behalf of the appellant, Center for Medicare Advocacy (CMA) requested an ALJ hearing which was conducted by teleconference on March 14, 2007. Dec. at 2. A representative of CMA was present at the hearing and although notice of the hearing was sent to the provider, they did not appear. Id., See Exh. 10 at 1. A Council audit of the hearing established that the appellant\u2019s representative stated, \u201cI will be limiting my argument to the fact that the beneficiary\u2019s liability should be waived in this case on the grounds that he was not a capable recipient to receive the notice of Medicare non-coverage.\u201d",
+   "The appellant contends that the ALJ erred in holding the beneficiary liable for the costs of the non-covered services. They assert that the beneficiary\u2019s liability should be waived, as he was not a \u201ccapable recipient\u201d in accordance with the MCPM, Chap. 30, \u00a740.3.4.3. Exh. MAC-2 at 2. Specifically, \u201c[i]n addition to his diagnosis of dementia, the record shows that [the beneficiary] experienced confusion on such a regular basis as to render not legally able to \u2018understand and act on his rights.\u201d Exh. MAC-2 at 6.",
+   "Upon admission on January 17, 2006, the beneficiary\u2019s physician ordered a wanderguard, a chair pad alarm while in his wheelchair, and a \u201cpressure alarm when in bed related to poor safety awareness [secondary] to Dementia.\u201d Exh. 1 at 6, 80. These orders were reauthorized, signed by the physician on February 15, 2006, and in effect for 60 days, during the time the beneficiary signed the notice of non-coverage. Id.",
+   "On February 7, 2006, the beneficiary\u2019s physical therapist discharged him from therapy because, \u201c[p]lateau of benefits from skilled PT interventions reached at current mental level [secondary to] dementia.\u201d Exh. 1 at 47. On February 21, 2006, the beneficiary\u2019s occupational therapist noted that he continued to demonstrate decreased cognition and fluctuating alertness. Id. at 40."
+  ],
+  "reference_outcome": "partial",
+  "outcome_note": "Council adopted the undisputed non-coverage finding but reversed on liability: the beneficiary was not a capable recipient of the notice, so his liability is waived and the provider is liable.",
+  "cited_sections": [],
+  "other_cites": [
+   "SSA 1879",
+   "42 CFR 411.400",
+   "42 CFR 411.404",
+   "42 CFR 411.406",
+   "CMS Ruling 95-1",
+   "MCPM ch.30 40.3.1.3",
+   "MCPM ch.30 40.3.4.3",
+   "MCPM ch.30 40.1"
+  ]
+ },
+ {
+  "case_id": "holycross_hosp",
+  "domain": "inpatient_rehab",
+  "docket": null,
+  "service_at_issue": "Inpatient hospital admission (acute care) on February 6, 2004 and related services",
+  "facts": [
+   "This appeal involves inpatient hospital admission of, and related services provided to, the beneficiary on February 6, 2004. The claim was initially paid in February 2004. In February 2008, a Recovery Audit Contractor (RAC) informed the appellant that the appellant had been overpaid on this claim",
+   "The beneficiary was admitted with a chief complaint of abdominal pain radiating down to the back. His medical history included human immunodeficiency virus (HIV), AIDS, gastroesophageal reflux, history of bilateral macular degeneration, and hyperlipidemia. Exh. 2 at 54. The appellant argued below that the beneficiary\u2019s gallbladder disease, in combination with a compromised system due to HIV and AIDS, called for inpatient admission.",
+   "On the issue of waiver of the overpayment, in its request for Council review, the appellant argues that the ALJ erred by incorrectly calculating the period after the year on which the claim was initially paid and the year on which the overpayment determination was made. The appellant states, in part: [The appellant] assert[s] that the [ALJ] made a factual error in determining that this case was reopened within three years from the date of [the] initial claim payment, and therefore the [ALJ] erroneously failed to conclude that the [appellant] should be presumed without fault, and [the ALJ] erroneously failed to waive the determined overpayment."
+  ],
+  "reference_outcome": "unfavorable",
+  "outcome_note": "The Council modified the ALJ decision (applying the three-year no-fault presumption but finding it rebutted) and upheld the overpayment, provider liability under section 1879, and denial of waiver because the inpatient admission was not shown to be necessary and the provider was not without fault.",
+  "cited_sections": [],
+  "other_cites": [
+   "SSA 1862(a)(1)(A)",
+   "SSA 1862(a)(9)",
+   "SSA 1879",
+   "SSA 1870(b)",
+   "SSA 1870(c)",
+   "42 CFR 411.400(a)",
+   "42 CFR 411.404",
+   "42 CFR 411.406",
+   "42 CFR 405.980(b)(3)",
+   "MCPM (CMS Pub. 100-04) ch.30 sec.20, 30.1, 40.1, 40.1.1",
+   "MFMM (CMS Pub. 100-06) ch.3 sec.70.3.A, 80, 80.1, 90, 90.1"
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "domain": "inpatient_rehab",
+  "docket": null,
+  "service_at_issue": "Inpatient rehabilitation facility (IRF) services for five beneficiaries, March 2003 to May 2004",
+  "facts": [
+   "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004. See Appendix A. The claims were initially paid between April 2003 and June 2004. Between October 2006 and April 2007, PRG Schultz, the Recovery Audit Contractor (RAC), informed the appellant that the claims had been selected for complex post- payment review.",
+   "The ALJ held a telephonic hearing in July 2008, for all of the claims. Dr. K.F., appellant\u2019s Medical Director, testified. On August 8, 2008, the ALJ issued five hearing decisions. In each decision, the ALJ identified the issues before her as follows: Are the reopened initial determinations time-barred and, if not, were Medicare coverage criteria met for the IRF services at issue[?] If the reopenings are not time-barred and if Medicare coverage criteria are not met, should reimbursement be made under \u00a7 1879 of the [Social Security] Act and, if not, who, if anyone, is responsible for the non-covered charges?",
+   "(3) the ALJ erred by not applying special rules applicable to overpayments discovered after the third year after the initial determinations (that is, the appellant should be deemed without fault in creating the overpayments without evidence to the contrary, of which there is none);",
+   "(4) inasmuch as the appellant was without fault in creating the overpayments, there is no basis to recover any asserted overpayment; and (5) the appellant\u2019s due process rights were violated by the RAC\u2019s pecuniary interest in the outcome of the appeal."
+  ],
+  "reference_outcome": "unfavorable",
+  "outcome_note": "The Council modified the ALJ decisions (the ALJ lacked authority to review the RAC's reopening and should have applied the three-year no-fault presumption, which was rebutted) but upheld the overpayments, provider liability and denial of waiver because the IRF services were not reasonable and necessary.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.1",
+    "section": "110"
+   }
+  ],
+  "other_cites": [
+   "CMS Ruling 85-2",
+   "SSA 1862(a)(1)(A)",
+   "SSA 1862(a)(9)",
+   "SSA 1879",
+   "SSA 1870(b)",
+   "42 CFR 405.980",
+   "42 CFR 405.926(l)",
+   "42 CFR 405.986",
+   "42 CFR 405.902",
+   "42 CFR 411.400(a)",
+   "42 CFR 411.404",
+   "42 CFR 411.406",
+   "MPIM (CMS Pub. 100-08) ch.3 sec.3.6.B",
+   "MCPM (CMS Pub. 100-04) ch.30 sec.20, 30.1, 40.1, 40.1.1",
+   "MFMM (CMS Pub. 100-06) ch.3 sec.70.1.B, 70.3, 70.3.A, 80, 80.1, 90, 90.1",
+   "70 Fed. Reg. 11,420 (Mar. 8, 2005)"
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "domain": "inpatient_rehab",
+  "docket": null,
+  "service_at_issue": "Inpatient rehabilitation facility (IRF) stay July 17-24, 2003 following total knee replacement",
+  "facts": [
+   "The appellant billed Medicare for IRF services furnished to the beneficiary from July 17, 2003, through July 24, 2003. Exh. 3 at 2. The Medicare intermediary initially paid the claim, however, on July 28, 2006, the Recovery Audit Contractor (RAC) reopened and reviewed the claim. Exh. 4 at 1.",
+   "On July 15, 2003, the 71 year old beneficiary was admitted to the acute hospital where she underwent a right total knee replacement secondary to degenerative joint disease. Exh. 3 at 17-19. Two days later, on July 17, 2003, the beneficiary was transferred and admitted to the appellant\u2019s IRF where she received treatment and rehabilitation services until her discharge one week later on July 24, 2003. Exh. 3 at 19.",
+   "During the period at issue, the beneficiary received intravenous (IV) or intramuscular (IM) medications (e.g., trimethobenzamide for nausea, dextrose with Lactated Ringers solution and Toradol for specialty fluid replacement and pain management, and diphenhydramine for itching or rash) and experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid. Exh. 3 at 59-67, 68-92, 133.",
+   "Prior to the total knee replacement surgery, the beneficiary was independent with all of her activities of daily living (ADL\u2019s) and lived alone with her husband. Upon admission, the beneficiary\u2019s functional status was as follows: moderate assistance supine to sit, sit to stand, sit to supine, bed to chair, chair to bed, commode transfers, and tub/shower transfers, maximum assistance with lower extremity dressing, minimal assistance with lower extremity bathing, and ambulate 15 feet with front wheeled walker. Exh. 3 at 21-24, 41, 48.",
+   "In its request for review, the appellant set forth two main assertions as to why the overpayment should be termed invalid: 1. The ALJ has jurisdiction to review the RAC\u2019s compliance with timeframe and good cause requirements for reopening and revision of the claims at issue, as set forth in 42 C.F.R. \u00a7\u00a7 405.980, 405.986 and 405.841 2. The record establishes that Beneficiary\u2019s inpatient admission to a rehabilitation hospital was medically reasonable and necessary in accordance with Medicare Benefit Policy Manual (\u201cMBPM\u201d), Internet-Only Manual Publication 100-2, Ch. 1, \u00a7110, et. seq.",
+   "On April 10, 2008, the ALJ conducted a telephone hearing in which the appellant\u2019s representative attorneys participated. ALJ Hearing CD. The hearing largely focused on the issue of reopening. The issue of medical reasonableness and necessity was briefly discussed, where the appellant relied upon the opinion of the ALJ\u2019s medical expert. Id."
+  ],
+  "reference_outcome": "favorable",
+  "outcome_note": "The Council reversed the ALJ on coverage, holding the IRF services medically reasonable and necessary under section 1862(a)(1) (relying on the independent medical expert and the record), so the overpayment was invalid, though it agreed it could not review the RAC's decision to reopen.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.1",
+    "section": "110"
+   }
+  ],
+  "other_cites": [
+   "CMS Ruling 85-2",
+   "SSA 1862(a)(1)",
+   "42 CFR 405.980",
+   "42 CFR 405.926(l)",
+   "42 CFR 405.986",
+   "42 CFR 405.902",
+   "42 CFR 405.841",
+   "MPIM (CMS Pub. 100-08) ch.3 sec.3.6.B",
+   "MCPM ch.34 sec.10",
+   "70 Fed. Reg. 11,420 (Mar. 8, 2005)"
+  ]
+ },
+ {
+  "case_id": "baptist_health_care",
+  "domain": "inpatient_rehab",
+  "docket": null,
+  "service_at_issue": "Inpatient hospitalizations for AICD replacement (7 beneficiaries) and other cardiac services (2 beneficiaries), 2003-2006",
+  "facts": [
+   "The Administrative Law Judge (ALJ) issued separate decisions, each dated January 22, 2009, pertaining to hospital services provided to nine beneficiaries. The decisions concerned overpayments assessed concerning hospitalizations related to the replacement of automatic implantable cardioverter defibrillators (AICD) provided to seven beneficiaries from February 3, 2005, through October 6, 2006, and hospitalizations for cardiac- related services provided to two beneficiaries from May 2, 2003, through September 15, 2003.",
+   "The appellant specifically claims that it had no notice that the services at issue would not be covered by Medicare. See e.g., Exh. MAC-1 at 3. The appellant cites the Federal Register to support its claim that it had no knowledge that Medicare would not cover the services at issue, and, to the contrary, believed that Medicare could cover inpatient replacement of automatic implantable cardioverter defibrillators (AICDs). See e.g., Id. at 4.",
+   "The appellant also presents the June 1, 2006, statement of the Florida Medical Quality Assurance, Inc., (FMQAI), the CMS contracted Florida QIO. Exh. MAC-1 at 5. FMQAI alerted hospitals within its jurisdiction that [a]s of July 1, 2006, FMQAI will no longer be uniformly allowing these procedures to be billed as inpatient services.... The medical record must contain information that documents the need for an inpatient level of care. Those cases that appear to be routine, expected discharge within 24 hours and which do not substantiate SI & IS criteria will be considered for impatient billing denial.",
+   "In summary, the appellant states that Considering the FMQAI policy at the time of [the services at issue], the guidance from the InterQual Guidelines for Surgery and Procedures in the Inpatient Setting, and the cited guidance of the Federal Register, we assert that the provider had neither actual nor constructive knowledge that the [admissions] would not be considered covered [services]. See e.g., Exh. MAC-1 at 4.",
+   "In its nine separate requests for review, each dated March 17, 2009, the appellant solely contests the ALJ\u2019s findings concerning liability pursuant to Section 1879 of the Social Security Act (Act) and/or Section 1870 of the Act. Exhs. MAC-1 through MAC-9.",
+   "In these cases, the appellant specifically contends that it disagrees with the ALJ\u2019s decisions regarding Section 1870 of the Act, specifically challenging the RAC\u2019s right to reopen the determinations concerning A.J. and J.M. See e.g., Exh. MAC-8 at 1. Specifically, the appellant argues that the RAC is limited in its right to reopen claims after three calendar years after the Medicare contractor\u2019s initial payment, citing the Medicare Financial Management Manual. Id. at 2."
+  ],
+  "reference_outcome": "partial",
+  "outcome_note": "The Council adopted the ALJ's non-coverage findings (appellant contested only liability) but reversed liability and found the provider without fault for five AICD stays before July 1, 2006, while holding the provider liable and not without fault for the two later AICD stays and the two non-AICD cardiac stays.",
+  "cited_sections": [],
+  "other_cites": [
+   "SSA 1879",
+   "SSA 1870",
+   "SSA 1870(b)",
+   "SSA 1862(a)(1)",
+   "SSA 1862(a)(9)",
+   "SSA 1833(t)(9)(A)",
+   "42 CFR 411.400",
+   "42 CFR 411.404",
+   "42 CFR 411.406",
+   "42 CFR 405.926(l)",
+   "42 CFR 405.980(a)(5)",
+   "42 CFR 405.980(b)(2)",
+   "CMS Ruling 95-1",
+   "MCPM (CMS Pub. 100-04) ch.30 sec.40.1, 40.1.2",
+   "MFMM (CMS Pub. 100-06) ch.3 sec.90",
+   "65 Fed. Reg. 18462 (Apr. 17, 2000)",
+   "67 Fed. Reg. 69311 (Nov. 15, 2002)",
+   "70 Fed. Reg. 11419 (Mar. 8, 2005)"
+  ]
+ },
+ {
+  "case_id": "ny",
+  "domain": "home_health",
+  "docket": "M-14-3875, M-14-4055, M-14-5355",
+  "service_at_issue": "Home health aide and skilled nursing services exceeding 28/35 weekly hours (NY Medicaid agency appellant)",
+  "facts": [
+   "In each case, the physician ordered and the provider furnished to the beneficiary home health services consisting of skilled nursing visits ranging from once every other week to twice every week and home health aide visits ranging between five and seven days per week, and between four and 24 hours per day. See, e.g., Exh. 1 (M.D.) at 15-17; Exh. 1 (Y.L.) at 16-18; Exh. 1 (R.L.) at 35. The provider submitted demand bills, and the contractor denied the claims initially and on redetermination.",
+   "Before the Council, the appellant argues that the ALJ failed to analyze whether the services furnished to each beneficiary were reasonable and necessary and, therefore, whether Medicare covered at least 28 hours and up to 35 hours of the home health services furnished to the beneficiary during the dates of service at issue.",
+   "In that regard, the appellant asserts that coverage is available for home health aide or skilled nursing services on a part-time basis (seven days a week, but fewer than eight hours each day) or an intermittent basis (six or fewer times a week for as many as 24-hours per day).",
+   "In these cases, the provider\u2019s demand bills included services furnished prior to October 1, 2010. See, e.g., Exh. 1 (R.L.) at 26. On review, the contractor excluded from review all of the dates of service prior to that date because they were part of the Third Party Liability (TPL) Demonstration Project. See, e.g., id. at 20-21."
+  ],
+  "reference_outcome": "partial",
+  "outcome_note": "The Council dismissed hearing requests for pre-October 1, 2010 dates of service (TPL Demonstration Project waiver) and vacated and remanded the rest because the ALJ erred in denying all coverage solely for exceeding 28/35 weekly hours without analyzing reasonableness and necessity.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.7",
+    "section": "30"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "40"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "50.7"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "50.7.1"
+   }
+  ],
+  "other_cites": [
+   "SSA 1812(a)(3)",
+   "SSA 1814(a)(2)(C)",
+   "SSA 1835(a)(2)(A)",
+   "SSA 1861(m)",
+   "SSA 1862(a)(1)(A)",
+   "SSA 1879",
+   "42 CFR 409.42",
+   "42 CFR 409.44",
+   "42 CFR 409.45",
+   "42 CFR 405.904(a)(2)",
+   "42 CFR 405.1052(a)(3)",
+   "42 CFR 405.1116",
+   "42 CFR 405.1018(c)",
+   "42 CFR 405.1028"
+  ]
+ },
+ {
+  "case_id": "gr",
+  "domain": "home_health",
+  "docket": null,
+  "service_at_issue": "Skilled nursing home health services (daily injections) for a beneficiary in an assisted living facility, Feb-Dec 2004",
+  "facts": [
+   "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility, by the Visiting Nurses Association of Chittenden and Grand Isle Counties, Inc., from February 29, 2004, through April 28, 2004, and August 27, 2004, through December 24, 2004.",
+   "During the periods of service at issue, the beneficiary was a 51 year-old male, who resided in an assisted living facility, had a primary diagnosis of cerebrovascular accident complications, and relied on a power wheelchair for mobility. The medical records in evidence demonstrate that the beneficiary required daily injections of streptococcal septic medication but was unable to self-inject due to deformity of his hand and paralysis of the right arm. Due to his functional limitations, the beneficiary was unable to reposition himself independently and was fully dependent on assistance for all activities of daily living, including bathing and dressing.",
+   "On February 6, 2007, with the consent and participation of counsel for the appellant, the ALJ held one hearing on five appeals involving the same beneficiary and provider, but each with different dates of service. The provider was given notice of the hearing but did not respond or participate.",
+   "The appellant contends that the ALJ\u2019s findings that the beneficiary could leave home without considerable and taxing effort are against the substantial weight of evidence because an examination of the medical records, taken as a whole, illustrates that the beneficiary was"
+  ],
+  "reference_outcome": "favorable",
+  "outcome_note": "The Council reversed the ALJ and held the services covered because, giving great weight to prior favorable homebound decisions and with no change in his condition, the beneficiary remained confined to the home.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.7",
+    "section": "30.1"
+   }
+  ],
+  "other_cites": [
+   "MPIM (CMS Pub. 100-08) ch.6 sec.6.2.1",
+   "42 CFR 405.1062(a)"
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "domain": "home_health",
+  "docket": null,
+  "service_at_issue": "Skilled nursing (Lupron injections), physical therapy and home health aide visits for two beneficiaries, 2005-2006",
+  "facts": [
+   "The Administrative Law Judge (ALJ) issued two decisions dated October 8, 2008, which concerned Medicare coverage for home health services provided to beneficiary W.B. from October 22, 2005, through October 16, 2006, and to beneficiary D.W. from October 10, 2005, through December 3, 2006.",
+   "The visits remaining at issue took place between October 25, 2005, and November 29, 2005. The appellant asserts that these physical therapy services were provided in relation to the installation of a new stair lift mechanism to assist the beneficiary with difficulty navigating stairs in his home due to fatigue, pain and abnormality of gait attributed to post-polio syndrome and unequal leg length. Request for Review (W.B. RR) Br. at 6.",
+   "The appellant further asserts that the skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift. Id. In addition, the appellant states that the therapist was \u201cin the process of designing an appropriate home exercise program\u201d for the beneficiary, and cites section 409.44(c)(2)(iii) of the Medicare regulations as providing coverage for physical therapy services which are \u201cnecessary to perform a safe and effective maintenance program required in connection with a specific disease . . . .\u201d W.B. RR Br. at 7, quoting 42 C.F.R. \u00a7 409.44(c)(2)(iii) and citing MBPM, Ch. 7, \u00a7\u00a7 40.2.1 and 40.2.2.",
+   "The appellant originally sought coverage for all home health services provided to D.W. from October 10, 2005 through December 3, 2006. At the ALJ hearing, however, the appellant withdrew its claim for 17 skilled nursing visits but maintained its claim as to 48 physical therapy sessions and 97 home health aide visits. ALJ Decision-D.W. at 1 n.1; Hearing CD.",
+   "Among the symptoms common to EDS patients are fragility (the attending physician noted the beneficiary was very fragile, at Ex. 10, at 513), joint hypermobility with potential for joint dislocations, easily torn or bruised skin, and abnormal curvature of feet and spine (in addition to severe lordosis, the beneficiary had an acquired ankle-foot defect recorded at Ex. 1, at 325). See Hearing CD. The beneficiary reported intermittent pain at levels ranging from 5 to 10 on a 10-point scale. See, e.g., Ex. 1, at 297 (August 2006 OASIS report).",
+   "The appellant agreed that setting up a maintenance program for the home health aides to take over was a goal, but reported that this goals was frustrated because the home health aides were afraid or unwilling to touch her, failed to handle her correctly, and either left or were fired for those reasons. Hearing CD; D.W. RR Br. at 6; Ex. 1, at 333 (physician certification of April 8, 2006), at 133 (PT notes of February 7, 2006), at 144 (PT notes of March 9, 2006), at 148 (PT notes of March 20, 2006)."
+  ],
+  "reference_outcome": "favorable",
+  "outcome_note": "The Council reversed the ALJ and held all disputed services (four skilled nursing visits and eleven PT visits for W.B.; 48 PT sessions and 97 home health aide visits for D.W.) covered, finding chronic condition no bar and the services reasonable and necessary.",
+  "cited_sections": [
+   {
+    "doc": "MBPM ch.7",
+    "section": "30"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "40.2.1"
+   },
+   {
+    "doc": "MBPM ch.7",
+    "section": "40.2.2"
+   }
+  ],
+  "other_cites": [
+   "SSA 1835(a)(2)(A)",
+   "42 CFR 409.42",
+   "42 CFR 409.44(b)(3)",
+   "42 CFR 409.44(c)(2)(ii)",
+   "42 CFR 409.44(c)(2)(iii)",
+   "42 CFR 409.33(b)(1)",
+   "42 CFR 409.33(c)(2)",
+   "42 CFR 409.33(c)(3)",
+   "42 CFR 409.33(c)(4)",
+   "42 CFR 409.33(d)(13)",
+   "42 CFR 409.32(b)",
+   "42 CFR 409.32(c)",
+   "42 CFR 409.43(b)",
+   "42 CFR 409.45(a)",
+   "42 CFR 409.45(b)"
+  ]
+ }
+]

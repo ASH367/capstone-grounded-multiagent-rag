@@ -1,0 +1,56 @@
+{
+ "case_id": "m_12_809",
+ "domain": "inpatient_rehab",
+ "docket": "M-12-809",
+ "service_at_issue": "Acute inpatient admission following cardiac catheterization and stenting, February 18 to 20, 2010",
+ "facts": [
+  "The 67-year-old male beneficiary arrived at * * * * Hospital on February 17, 2010 complaining of generalized chest pain. He had a past medical history of coronary artery disease with coronary bypass surgery, angioplasty, stent implantation, paroxysmal atrial fibrillation, hypertension, hyperlipidemia, and gastoesophageal reflux disease. Exh. 1, at 23.",
+  "The following morning, on February 18, 2010, the beneficiary was transferred to Providence Hospital (the appellant) for a \u201chigher level of care.\u201d Exh. 2, at 65. He was initially placed in observation status but subsequently admitted to inpatient status.",
+  "During his hospital stay, the beneficiary was diagnosed with atherosclerosis native coronary artery, intermediate coronary syndrome, hypertension, hyperlipidemia, percutaneous transluminal angioplasty (PTA) status, and aortocoronary bypass status. Exh. 2, at 23.",
+  "During these procedures, the appellant experienced a temporary drop in blood pressure and bradycardia. Prior to surgery, radiology studies had shown normal EKG sinus rhythm and normal cardiac enzymes; however, new T-wave inversion was noted. Exh. 2, at 46.",
+  "There were no complications following the cardiac catheterization and stenting procedure, and the beneficiary was discharged home from the hospital on February 20, 2010, the following day.",
+  "The appellant, through a physician representative, argues that the beneficiary had been admitted to a hospital just two days prior to the surgical procedure for chest pain, that an EKG noted new inverted T waves, and that the beneficiary had an extensive history of cardiac problems. The appellant noted that the beneficiary underwent cardiac catheterization, during which he experienced brief low blood pressure with bradycardia, and that he was returned to the telemetry unit following surgery for cardiac monitoring."
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council adopted the ALJ's finding that the inpatient admission was not reasonable and necessary (observation sufficed), but directed Part B payment for reasonable and necessary outpatient services, with the provider liable for the difference.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "10"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "150"
+  },
+  {
+   "doc": "MBPM ch.6",
+   "section": "10"
+  },
+  {
+   "doc": "MBPM ch.6",
+   "section": "20.6(A)"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 405.1060(a)(4)",
+  "42 CFR 405.1063",
+  "42 CFR 405.1062(a)",
+  "42 CFR 405.1062(b)",
+  "42 CFR 411.406",
+  "42 CFR 476.71(a)(3)",
+  "42 CFR 421.104",
+  "HCFA Ruling 93-1",
+  "HCFA Ruling 95-1",
+  "SSA 1862(a)(1)(A)",
+  "SSA 1879",
+  "MCPM ch.30 40.1",
+  "MCPM ch.30 40.1.2",
+  "MCPM ch.3 50",
+  "MCPM ch.1 50.1.7",
+  "MCPM ch.29 280.3",
+  "MFMM ch.3 170.1"
+ ],
+ "facts_original_count": 6
+}

@@ -1,0 +1,303 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-12-987
+
+
+In the case of                            Claim for
+
+Meadow View Manor
+c/o Extendicare Health                    Supplementary Medical
+Services, Inc.                            Insurance Benefits (Part B)
+(Appellant)
+
+
+ ****                                      ****
+(Beneficiary)                             (HIC Number)
+
+
+National Government Services               ****
+(Contractor)                              (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+February 2, 2012, concerning outpatient occupational therapy
+(OT) services furnished to the beneficiary from March 1, 2011,
+through March 21, 2011. The ALJ determined that the services
+were reasonable and necessary under section 1862(a) of the
+Social Security Act (Act), but denied payment for the services
+because the physician’s orders and plan of treatment were signed
+by an advanced practice registered nurse (APRN) on behalf of the
+physician rather than the physician himself. The ALJ did not
+determine the party liable for the non-covered charges. The
+appellant has asked the Medicare Appeals Council (Council) to
+review this action. The Council enters the appellant’s request
+for review dated March 1, 2012, and attachments into the record
+as Exhibits (Exhs.) MAC-1 and MAC-2, respectively. 1
+
+
+
+1
+   The attachments consisted of new evidence containing excerpts to the
+Wisconsin Administrative Code and the Medicare Benefit Policy Manual (MBPM)
+(CMS Pub. 100-02). Because the new evidence supports the appellant’s
+contention of an issue raised by the ALJ for the first time, the Council
+finds good cause for admitting the new evidence into the record. 42 C.F.R.
+§ 405.1122(c).
+                                                                          2
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+Id. § 405.1112(c).
+
+As set forth below, the Council modifies the ALJ’s decision to
+correct the basis for the coverage denial and to determine the
+party liable for the non-covered charges.
+
+                                BACKGROUND
+
+The beneficiary lived in the appellant’s facility since July 31,
+2006. Exh. 3, at 44. Her medical diagnoses included rheumatoid
+arthritis, degenerative disc disease, hypertension, and history
+of falls. Id. During the dates of service, the appellant
+provided physical therapy (PT) and OT services to the
+beneficiary. Exh. 1, at 4-7.
+
+As relevant here, on February 16, 2011, an APRN signed and
+certified an OT plan of treatment (POT) for the beneficiary on
+behalf of the physician. Exh. 2, at 16. The POT is largely
+illegible, but the legible portions show that the beneficiary
+had a treatment diagnosis of abnormal posture and the POT
+contained orders for “self care/home management training” and
+wheelchair management. Id. The POT also shows that the goals
+of the OT services were to enable the beneficiary to propel her
+wheelchair to the dining room and to tolerate sitting in the
+wheelchair without complaints of discomfort. Id.
+
+The appellant subsequently sought coverage for the PT and OT
+services furnished to the beneficiary from March 1, 2011,
+through March 21, 2011. Exh. 1, at 4-7. On initial
+determination, the Medicare contractor covered the PT services,
+but denied coverage for the OT services, which were billed under
+CPT codes 97024 (diathermy), 97535 (self-care management
+training), and 97542 (wheelchair management training). 2 Id. The
+appellant appealed the coverage denial for the OT services, but
+on redetermination, the contractor denied coverage and held the
+appellant liable for the non-covered charges. Exh. 3, at 39,
+
+2
+   The Centers for Medicare & Medicaid Services (CMS) has developed the
+Healthcare Common Procedure Coding System (HCPCS) to establish “uniform
+national definitions of services, codes to represent services, and payment
+modifiers to the codes.” 42 C.F.R. § 414.40(a). CPT codes are Level I HCPCS
+codes and are 5-position numeric codes representing physician services.
+                                                                            3
+citing LCD for Outpatient Physical and Occupational Therapy
+Services (LCD L26884). 3 On reconsideration, the Qualified
+Independent Contractor (QIC) affirmed the redetermination’s
+coverage and liability conclusions. Exh. 4, at 50-52.
+
+As discussed above, upon further appeal, the ALJ denied coverage
+for the OT services because the physician’s orders and plan of
+treatments were signed by an APRN. Dec. at 4-5. The ALJ
+further concluded that “[b]ecause the services are not being
+denied under [section] 1862 of the Act, liability cannot be
+waived.” Id. at 5. The ALJ did not ultimately determine the
+party liable for the non-covered charges. Id.
+
+In the request for review, the appellant argues that the MBPM
+allows for an APRN to sign a plan of care on behalf of a
+physician. Exh. MAC-1, at 1, citing MBPM, Ch. 15, § 220(A). 4
+The appellant also argues that its state and local laws do not
+prohibit this practice. Id.
+
+                                  DISCUSSION
+
+       Coverage
+
+Medicare coverage for outpatient OT services requires that the
+services be (1) furnished under a written POT, (2) while the
+individual is or was under the care of a physician, and (3) the
+services are medically reasonable and necessary. Act
+§§ 1835(a)(2)(C), 1862(a)(1)(A); see also 42 C.F.R. § 410.59;
+MBPM, Ch. 15, § 220. The Council agrees with the appellant that
+the ALJ erred by concluding that the APRN may not sign
+certifications or orders on behalf of the physician. Medicare
+regulations make clear that a nurse practitioner may sign
+certification statements and establish POTs. 42 C.F.R.
+§§ 410.61(b)(5), 424.11(e). The MBPM also states that a
+nonphysician practitioner (NPP) such as a nurse practitioner may
+certify therapy services. MBPM, Ch. 15, §§ 220(A); 220.1.3(C).
+Accordingly, the Council finds that the case contains the proper
+signatures.
+
+
+However, despite the proper signatures, we find that Medicare
+does not cover the OT services furnished to the beneficiary
+
+3
+   Contractor LCDs can be found using the search function in the Medicare
+Coverage Database (MCD) at www.cms.hhs.gov/mcd.
+4
+    Manuals issued by the CMS can be found at http://www.cms.gov/manuals.
+                                                                             4
+because they were not medically reasonable and necessary under
+section 1862(a)(1)(A) of the Act. As relevant here, the MBPM
+provides that outpatient therapy services are considered
+reasonable and necessary if the following conditions are met:
+
+     •   The services shall be of such a level of complexity
+         and sophistication or the condition of the patient
+         shall be such that the services required can be
+         safely and effectively performed only by a
+         therapist.
+     •   There must be an expectation that the patient’s
+         condition will improve significantly in a reasonable
+         (and generally predictable) period of time, or the
+         services must be necessary for the establishment of
+         a safe and effective maintenance program required in
+         connection with a specific disease state.
+     •   The amount, frequency, and duration of the services
+         must be reasonable under accepted standards of
+         practice.
+
+MBPM, Ch. 15, § 220.2(B).
+
+Additionally, LCD L26884, 5 the applicable LCD not discussed by
+the ALJ, provides additional coverage guidelines and states that
+“[s]ervices related to activities for the general good and
+welfare of patients, such as general exercises to promote
+overall fitness and flexibility, and activities to provide
+diversion or general motivation, do not constitute (covered)
+therapy services.” (italics in original). The LCD also states
+that “if at any point in the treatment of an illness or injury
+it is determined that the treatment is not rehabilitative, or
+becomes repetitive and does not require the unique skills of a
+therapist, the services are non-covered.” LCD L26884.
+
+
+The record indicates that the beneficiary had received OT
+services from February 11, 2011, through February 18, 2011, but
+was subsequently placed on “hold” for further OT services while
+awaiting the delivery of a wheelchair cushion. Exh. 2, at 21,
+29, 31. On March 7, 2011, and March 8, 2011, the appellant
+resumed OT services to provide diathermy services. Id. at 22,
+5
+   ALJs and the Council must give substantial deference to LCDs. 42 C.F.R.
+§ 405.1062(a). Should an ALJ or the Council decline to follow a LCD, the
+decision must explain the reasons why the policy was not followed. Id.
+§ 405.1062(b). Further, an ALJ and the Council may not set aside or review
+the validity of a LCD for purposes of a claim appeal. Id. § 405.1062(c).
+                                                                   5
+33; Exh. 1, at 7. At that time, the wheelchair cushion was
+still on order and the diathermy treatment addressed the
+beneficiary’s complaint of shoulder pain with the use of a
+wheeled walker. Exh. 2, at 33. The diathermy treatments
+however were not related to the beneficiary’s POT goals of
+increasing wheelchair mobility and comfort, and therefore, were
+not furnished under a written plan of treatment as required by
+42 C.F.R. § 410.59(a)(2). Id. at 16, 22. Additionally, the
+order for diathermy did not state the duration and frequency for
+the treatment, and therefore, there is no way to determine
+whether the clinician expected that the beneficiary’s condition
+would improve significantly in a reasonable (and generally
+predictable) period of time. Id. at 22; MBPM, Ch. 15,
+§ 220.2(B).
+
+On March 7, 2011, and March 8, 2011, the appellant also resumed
+OT services to provide self-care management training. Exh. 1,
+at 7; Exh. 2, at 33-34. The training consisted of asking the
+beneficiary to perform various finger and shoulder stretches and
+instructing the beneficiary regarding toileting task transfers
+with a wheeled walker. Exh. 2, at 33-34. However, these
+trainings were also not related to the beneficiary’s POT goals
+of increasing wheelchair mobility and comfort, and therefore,
+were not furnished under a written plan of treatment as required
+by 42 C.F.R. § 410.59(a)(2). Additionally, the record does not
+show that the beneficiary had a functional deficit or medical
+condition that would warrant such training and the beneficiary
+had even questioned the usefulness of the training. See, e.g.,
+id. at 23, 34. Therefore, the self-care management training
+appears to be for the general good and welfare of the
+beneficiary, and therefore, is not a covered therapy service.
+LCD L26884.
+
+
+Lastly, the appellant provided OT services for wheelchair
+management training on March 14, 2011, and March 15, 2011. Exh.
+1, at 7; Exh. 2, at 35. The training consisted of asking the
+beneficiary to propel the wheelchair to the dining room and
+observing the beneficiary’s wheelchair positioning and foot
+contact. Exh. 2, at 35. However, the beneficiary had
+previously received such training and had already been able to
+propel the wheelchair for up to 212 feet and to the dining room
+on February 17, 2011, and February 18, 2011, respectively. Id.
+at 29, 31, 35. The record also does not indicate that the
+beneficiary had a functional deficit or medical condition during
+the period at issue that would warrant these additional
+                                                                   6
+trainings. Therefore, the wheelchair management trainings were
+repetitive and ceased to be rehabilitative. LCD L26884.
+Accordingly, the services did not require the unique skills of a
+therapist and are not covered by Medicare. Id.
+
+In sum, we find that the OT services at issue are not covered by
+Medicare because they were not medically reasonable and
+necessary under section 1862(a)(1)(A) of the Act.
+
+     Liability
+
+Because we are denying coverage under section 1862(a)(1)(A) of
+the Act, the limitation on liability provision under section
+1879 of the Act becomes applicable. See Act § 1879.
+Specifically, section 1879(a)(2) of the Act provides that the
+limitation on liability applies when a beneficiary or provider
+did not know, and could not reasonably have been expected to
+know, that the item or service was not covered by Medicare.
+
+In this case, the record does not contain any evidence, such as
+an Advanced Beneficiary Notice (ABN), showing that the
+beneficiary had knowledge of the non-coverage before receiving
+the services. See generally CMS Ruling 95-1; Medicare Claims
+Policy Manual (MCPM) (CMS Pub. 100-04), Ch. 30, § 40.2 (evidence
+of beneficiary knowledge). The Council therefore finds that the
+beneficiary did not know and could not reasonably have been
+expected to know that the services were not covered by Medicare.
+
+The Council however finds that the appellant, as a provider
+participating in the Medicare program, knew or had reason to
+know that Medicare would not cover the OT services at issue.
+See 42 C.F.R. § 411.406(e); MCPM, Ch. 30, §§ 40.1-40.1.2.
+Accordingly, the appellant is liable for the non-covered charges
+under section 1879 of the Act.
+
+
+
+                            DECISION
+
+The Council finds that the OT services furnished to the
+beneficiary from March 1, 2011, through March 21, 2011, are not
+covered by Medicare. The Council also finds that the appellant
+is liable for the non-covered charges.
+                                                                   7
+
+The ALJ’s decision is modified consistent with this decision.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Stanley I. Osborne, Jr.
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/Constance B. Tobias, Chair
+                                   Departmental Appeals Board
+
+Date:   June 20, 2012
+

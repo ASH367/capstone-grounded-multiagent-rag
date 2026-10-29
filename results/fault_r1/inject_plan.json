@@ -1,0 +1,74 @@
+[
+ {
+  "case_id": "11-1343",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ },
+ {
+  "case_id": "11-1546",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ },
+ {
+  "case_id": "baptist_health_care",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "inject_verdict": "SUPPORTS_COVERAGE"
+ },
+ {
+  "case_id": "connecticut11",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ },
+ {
+  "case_id": "gr",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ },
+ {
+  "case_id": "m-10-1884",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ },
+ {
+  "case_id": "m-11-1869",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ },
+ {
+  "case_id": "m-11-1967",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ },
+ {
+  "case_id": "m-12-1140",
+  "inject_verdict": "SUPPORTS_COVERAGE"
+ },
+ {
+  "case_id": "m_10_1771",
+  "inject_verdict": "SUPPORTS_COVERAGE"
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ },
+ {
+  "case_id": "ny",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "inject_verdict": "SUPPORTS_COVERAGE"
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "inject_verdict": "SUPPORTS_COVERAGE"
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "inject_verdict": "DOES_NOT_SUPPORT"
+ }
+]

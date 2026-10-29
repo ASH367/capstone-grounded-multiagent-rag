@@ -1,0 +1,321 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-10-1884
+
+
+In the case of                            Claim for
+
+Estate of B.A., by ***,                   Hospital Insurance Benefits
+personal representative                   (Part A)
+(Appellant)
+
+
+****                                      ****
+(Beneficiary)                             (HIC Number)
+
+
+Wisconsin Physicians Service              ****
+(Contractor)                              (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+July 30, 2010. The ALJ’s decision concerned skilled nursing
+facility (SNF) services furnished to the beneficiary from
+January 28, 2009, through March 1, 2009. The ALJ determined
+that the SNF services do not meet Medicare coverage criteria
+because the beneficiary was not receiving skilled services on a
+continuous basis, the care was custodial, and the beneficiary
+was receiving similar care from a hospice provider; therefore,
+the care was not medically reasonable and necessary under
+section 1862(a)(1) of the Social Security Act. The ALJ further
+found that the beneficiary was liable for the cost of the non-
+covered care pursuant to section 1879 of the Act. The appellant
+(the beneficiary’s son as representative of the beneficiary’s
+estate) 1 has asked the Medicare Appeals Council to review this
+action. The appellant’s timely filed request for review is
+entered into the administrative record as Exhibit (Exh.) MAC-1.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+
+1
+  While the beneficiary was alive her son had previously had acted as her
+authorized representative, as that term is defined in 42 C.F.R. § 405.902.
+                                                                   2
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+The Council has considered the record and exceptions. For the
+reasons explained below, the Council concludes that the
+appellant did not know, and could not be expected to know, that
+the SNF services would not be covered by Medicare. The Council
+therefore reverses the ALJ’s decision as to liability and finds
+that the provider is liable.
+
+                           DISCUSSION
+
+The ALJ’s decision sets forth the procedural history and
+applicable legal authorities accurately and in detail. The
+Council will not repeat that information in full in this action.
+Briefly, on the dates of service at issue, the beneficiary was
+an 89-year-old female with a history of multiple myeloma and
+breast cancer, among other diagnoses. See Exh. 1, at 24, 207.
+The beneficiary was re-admitted to   * * * Health & Rehab
+Center (SNF) on December 11, 2008, following a hospital stay for
+gastrointestinal bleeding. Id. See also id. at 29, 476
+(reverse). The beneficiary required and received skilled
+physical therapy (PT) and occupational therapy (OT) services
+during December 2008 and January 2009. See id. at 257-286. She
+was discharged from OT on January 19, 2009, and from PT on
+January 22, 2009. Id. at 249.
+
+By telephone on January 21, 2009, the SNF spoke to the appellant
+”regarding residents LCD [presumably ‘last covered day’] as of
+1-27-09. Resident will no longer require skilled care - Also
+discussed what his plans were -.” Id. at 477. There is no
+evidence that the SNF issued any written advance beneficiary
+notice of non-coverage to the beneficiary or the appellant, or
+that the SNF issued a written termination of services notice as
+required by 42 C.F.R. § 405.1200. The appellant later signed a
+hospice election for the beneficiary on January 28, 2009. Id.
+at 581-82. The beneficiary died on March 1, 2009. Id. at 548
+(reverse).
+
+The SNF billed the appellant for the beneficiary’s care for
+dates of service January 28 through January 31, 2009, and for
+February 1, 2009 through March 1, 2009. See Exh. 2, at 29-32.
+The appellant disputed that the beneficiary was liable for the
+charges and asserted that Medicare should cover the charges.
+Id. Thereafter, the SNF submitted claims to the Medicare
+                                                                                3
+contractor. The contractor denied the claims initially and on
+redetermination. Exh. 3, at 70-85. On further appeal, the
+Qualified Independent Contractor (QIC) also denied the claims.
+Exh. 4, at 111-16. Both the redetermination and the
+reconsideration stated that Medicare would not pay for the SNF
+services because the beneficiary was receiving Medicare-covered
+hospice services on the dates of service in question. In both
+actions, the contractors held the beneficiary, and not the
+provider, liable for the cost of the non-covered care.
+
+The appellant requested a hearing before an ALJ. The ALJ held a
+hearing by telephone on July 22, 2010. Representatives of the
+provider appeared at the hearing. The appellant was unable to
+be present at the hearing. 2 Dec. at 2. The ALJ issued his
+decision on July 30, 2010. As noted above, the ALJ concluded
+that the SNF services are not covered by Medicare and the
+appellant is liable for the non-covered charges.
+
+The ALJ determined that the SNF services do not meet Medicare
+coverage criteria because the beneficiary was not receiving
+skilled services on a continuous basis, the care was custodial,
+and the beneficiary was receiving similar care from a hospice
+provider; therefore, the care was not medically reasonable and
+necessary under section 1862(a)(1) of the Social Security Act.
+Dec. at 8-9. The Council finds no error in this portion of the
+ALJ’s analysis.
+
+With regard to nursing home residents who elect hospice
+benefits, the Medicare Benefit Policy Manual (MBPM), 3 CMS Pub.
+100-02, provides:
+
+      A Medicare beneficiary who resides in an SNF or NF may
+      elect the hospice benefit if:
+
+         •   The residential care is paid for by the
+             beneficiary; or
+         •   The beneficiary is eligible for Medicaid and the
+             facility is being reimbursed for the
+             beneficiary’s care by Medicaid, and
+
+
+
+2
+   The Council notes that the appellant does not contend he was prejudiced by
+not appearing at the hearing. See Exh. MAC-1.
+3
+   CMS manuals may be accessed via the internet at https://www.cms.gov/
+Manuals/IOM/list.asp (last visited November 29, 2011).
+         •   The hospice and the facility have a written agreement 4
+             under which the hospice takes full responsibility
+             for the professional management of the
+             individual’s hospice care and the facility agrees
+             to provide room and board to the individual.
+
+MBPM, Ch. 9, § 20.3.
+
+Under this guidance, when a beneficiary elects hospice care,
+Medicare pays for all nursing care related to the beneficiary’s
+terminal condition by making payment to the hospice provider.
+Medicare is not obligated to pay any other provider for services
+furnished to the beneficiary related to the terminal condition.
+If Medicare were to pay both the hospice provider and the SNF
+for such services, it would amount to paying twice for the same
+services.
+
+The appellant does not contend that the SNF care at issue was
+unrelated to the beneficiary’s terminal condition. See Exh.
+MAC-1. Instead, he argues that the services were skilled, and
+that the beneficiary had not exhausted her Medicare Part A SNF
+benefits. Id. However, even if the SNF had provided skilled
+nursing care — which the ALJ found did not happen — this would
+not alter the fact that Medicare paid for all nursing services
+when it reimbursed the hospice provider. No additional Medicare
+payment is due with respect to the SNF services.
+
+This does not end our inquiry, however. The ALJ concluded that
+the appellant, and not the provider, is liable for the costs of
+the non-covered care pursuant to section 1879 of the Act. Dec.
+at 9. The ALJ found that the appellant knew, or had reason to
+know, that Medicare would not pay for the SNF services. 4 Id. On
+de novo review of the record, we conclude that the SNF did not
+give the required written notice of noncoverage to the
+appellant.
+
+
+
+
+4
+   The ALJ seems to have reached the conclusion that the appellant had actual
+knowledge that the SNF services would not be covered based on the fact that
+the representative signed several forms issued by the hospice provider
+indicating that Medicare’s hospice benefit does not cover room and board in a
+nursing home. See Dec. at 9; see also Exh. 1, at 686, 613. As discussed
+below, the Council concludes that the record lacks evidence that the
+appellant understood that the SNF services furnished to the beneficiary on
+the dates of service in question were not covered by Medicare, or that he
+made an informed consumer decision to continue to receive care in the SNF.
+The regulations at 42 C.F.R. § 411.404 provide that a           5
+beneficiary is considered to have known that services are not
+covered if the provider that furnished the services gives the
+beneficiary, or someone acting on her behalf, written notice
+that the services are not covered because they do not meet
+Medicare coverage guidelines. Detailed requirements for the
+timing and content on this written notice, which is called the
+advance beneficiary notice (ABN), are set forth in the Medicare
+Claims Processing Manual (MCPM), CMS Pub. 100-04, ch. 29.
+
+The purpose of the ABN is to inform a Medicare beneficiary,
+before he or she receives specified items or services that
+otherwise might be paid for, that Medicare certainly or probably
+will not pay for them on that particular occasion. The ABN,
+also, allows the beneficiary to make an informed consumer
+decision whether or not to receive the items or services for
+which he or she may have to pay out of pocket or through other
+insurance. In addition, the ABN allows the beneficiary to
+better participate in his/her own health care treatment
+decisions by making informed consumer decisions. If the
+provider, practitioner, or supplier expects payment for the
+items or services to be denied by Medicare, the provider,
+practitioner, or supplier must advise the beneficiary before
+items or services are furnished that, in its opinion, the
+beneficiary will be personally and fully responsible for
+payment. To be “personally and fully responsible for payment,”
+means that the beneficiary will be liable to make payment “out-
+of-pocket,” through other insurance coverage. Id. at §40.3.
+
+The provider, practitioner, or supplier must issue an ABN each
+time, and as soon as, it makes the assessment that Medicare
+payment certainly or probably will not be made. A notification
+which does not meet the prescribed ABN standards may be ruled
+defective and may not serve to protect the interests of the
+notifier (provider, practitioner, or supplier). Any requirement
+to furnish a notice to a beneficiary is not met by delivery of a
+defective notice. When, for a particular purpose, an approved
+standard form exists, it constitutes the proper notice document.
+Id. CMS-approved model Form CMS-10055 is the ABN for use with
+SNF services. 5
+
+
+5
+  In addition to giving the beneficiary a written ABN for purposes of
+limitation on liability under section 1879 of the Act, a SNF must also give a
+beneficiary a separate notice which explains the right to request an
+immediate appeal by a Quality Improvement Organization under 42 C.F.R. §
+405.1200. There is no evidence that the SNF provided this required notice
+either.
+The Manual further provides that a notice of non-coverage          6
+delivered via telephone is not generally sufficient to shift
+liability from a provider to a beneficiary:
+
+     The contractor will not consider a telephone notice to
+     a beneficiary, or authorized representative, to be
+     sufficient evidence of proper notice for limiting any
+     potential liability, unless the content of the
+     telephone contact can be verified and is not disputed
+     by the beneficiary. If a telephone notice was followed
+     up immediately with a mailed notice or a personal
+     visit at which written notice was delivered in person
+     and the beneficiary signed the written notice
+     accepting responsibility for payment, the contractor
+     will accept the time of the telephone notice as the
+     time of ABN delivery.
+
+MCPM, Ch. 30, § 40.3.4.2.
+
+The SNF documented that it provided notice to the appellant, by
+telephone, that the beneficiary would no longer require skilled
+care after January 27, 2009. Exh. 1, at 477. According to the
+SNF note, the appellant was informed that the beneficiary’s last
+Medicare-covered day would be January 27, 2009. Id. The
+appellant appears to concede that he received a telephone
+contact from the SNF. Exh. MAC-1. However, it appears that he
+disputes the content of the telephone notification, or did not
+understand its import. Id. From our reading of the request for
+review, the Council concludes that the appellant believed at the
+time of the purported notice, and continues to believe, that the
+beneficiary was entitled to Medicare coverage for the SNF
+services furnished on the dates of service in question.
+
+The Council has found no evidence that the SNF followed up the
+telephone notification with a written notice. The Council
+therefore finds that the telephone notice was ineffective to put
+the appellant on notice that Medicare would no longer cover SNF
+services furnished to the beneficiary after January 27, 2009.
+Nor was the appellant on notice of the reason(s) Medicare would
+likely not cover the services. Accordingly, the appellant did
+not know, and could not reasonably be expected to know, that the
+SNF services would not be covered by Medicare. The liability of
+the appellant (the beneficiary’s estate) is waived.
+                                                                   7
+By contrast, the regulations provide that a provider,
+practitioner, or supplier will be considered to have known that
+items or services are not covered if it informed the beneficiary
+that the services were not covered or that the beneficiary no
+longer needed the services. 42 C.F.R. 411.406(d). Here, the
+SNF documented that it notified the appellant that the services
+would not be covered. Therefore, the SNF knew that Medicare
+would not cover the services. The SNF’s liability for the non-
+covered services is not waived.
+
+                            DECISION
+
+It is the decision of the Medicare Appeals Council that the SNF
+services furnished to the beneficiary from January 28, 2009,
+through March 1, 2009, are not covered by Medicare because the
+beneficiary had elected hospice services during those dates.
+Neither the beneficiary nor her representative knew, or could
+reasonably be expected to know, that the SNF services would not
+be covered by Medicare. The beneficiary’s estate is not liable
+for the cost of the non-covered services. The SNF knew that
+Medicare would not cover the services. The SNF is liable for
+the cost of the non-covered services. The ALJ’s decision is
+reversed as to the issue of liability.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+                                   /s/ Clausen J. Krzywicki
+                                   Administrative Appeals Judge
+
+
+                                   /s/ Susan S. Yim
+                                   Administrative Appeals Judge
+
+
+Date: December 05, 2011
+

@@ -1,0 +1,31 @@
+{
+ "case_id": "11-213",
+ "domain": "snf",
+ "docket": "M-11-213",
+ "service_at_issue": "Occupational therapy in SNF resident, Part B, Mar 23-31, 2009",
+ "facts": [
+  "The appellant maintains that the skills of a licensed therapist were required to assess the beneficiary\u2019s \u201cdeficits in strength, range of motion, and mobility that were related to her decline in function,\u201d including sit/stand technique for transfer as well as diathermy and stretching for range of motion. Id. The appellant points to the beneficiary\u2019s prior discharge from OT on January 6, 2009, as establishing functional benchmarks that evidence the beneficiary\u2019s \u201csignificant decline\u201d from then until the dates of service. Id.",
+  "The appellant also argues that the physician approved services including therapeutic exercise, therapeutic activities, activities of daily living (ADL) retraining, and modalities (moist hot pack, ultrasound, electrical stimulation, and diathermy) to improve range of motion. Id. The appellant cites the beneficiary\u2019s documented progress in several areas as supporting medical necessity. Id. at 2.",
+  "On March 23, 2009, the physician ordered OT 5x/wk for 30 days. Exh. 6, at 2. Treatment records indicate that the beneficiary also received services on April 2, 2009, and April 3, 2009. Id. at 12. The OT Evaluation and ALJ decision indicate that the services were billed to Medicare Part B, and the initial determination, redetermination, and reconsideration reflect dates of service from March 23, 2009, through March 31, 2009. Dec. at 1; Exhs. 6, at 6, 9; 4, at 1; 3, at 1.",
+  "On March 4, 2009, the physician noted that the beneficiary had \u201cdepression with some increased symptomology partially related to parkinsonian symptoms. We are going to try her on an Exelon patch 4.6 for 24 hours. Get rid of her Mirapex and see if we can help stabilize that as she\u2019s also having some early dementia symptomology which may be related to early Alzheimer\u2019s versus parkinsonian dimension.\u201d Exh. 6, at 18.",
+  "On March 29, 2009, the physician noted that the beneficiary \u201ccontinu[ed] to have some emotional outbreaks over the past three weeks.\u201d Exh. 6, at 18. Her Exelon patch had been placed on hold for one week, but no difference was noted. Id. The physician had prescribed OT secondary to the beneficiary\u2019s decline, but \u201c[n]o significant changes there.\u201d Id. Her Exelon patch was resumed, but there was \u201c[r]eally not a whole lot of change emotionally.\u201d Id. The physician noted that the beneficiary was worse at lunch time and that the appellant staff had \u201cbeen trying to get her more involved in activities.\u201d Id.",
+  "On April 7, 2009, the appellant prepared a quarterly assessment Minimum Data Set (MDS) form which indicates that the beneficiary had modified independence in cognitive skills for daily decision making. Exh. 1, at 20. She was documented as having indicators of depression, anxiety, and sad mood, but the MDS states that the \u201cindicators present [were] easily altered.\u201d Id."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "Council reversed the ALJ, finding skilled therapist services were reasonable and necessary given the functional decline and expectation of material improvement.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.15",
+   "section": "220.2"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 409.44(c)",
+  "42 CFR 409.44(c)(iii)",
+  "42 CFR 409.33(d)(13)",
+  "SSA 1879"
+ ],
+ "scope": "excluded",
+ "scope_reason": "Part B outpatient therapy (MBPM ch.15, not in corpus)",
+ "key_quality": "no_mbpm_key"
+}

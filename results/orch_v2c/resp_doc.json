@@ -1,0 +1,350 @@
+[
+ {
+  "case_id": "12-1251",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Chest pain is a listed sign of cardiac distress meeting the contraindication condition; ambulance report documents chest pain",
+    "passage_id": 434,
+    "quote": "Exhibits signs and symptoms of acute respiratory distress or cardiac distress such as shortness of breath or chest pain",
+    "case_fact": "The ambulance report states that the beneficiary was being transported due to chest pain."
+   }
+  ]
+ },
+ {
+  "case_id": "altabates",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Multiple therapy disciplines (PT and OT) documented",
+    "passage_id": 83,
+    "quote": "The patient must require the active and ongoing therapeutic intervention of multiple therapy disciplines",
+    "case_fact": "Physical therapy totaling 60-90 minutes per day was provided every weekday."
+   },
+   {
+    "claim": "Intensity of at least 3 hours/day is only asserted by the appellant; record does not settle it",
+    "passage_id": 83,
+    "quote": "generally consists of at least 3 hours of therapy per day at least 5 days per week",
+    "case_fact": "the patient received three hours daily of therapy services"
+   }
+  ]
+ },
+ {
+  "case_id": "case_excellenthomecare",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Plan of care frequency documented for one beneficiary only",
+    "passage_id": 192,
+    "quote": "The orders on the plan of care must indicate the type of services to be provided to the patient",
+    "case_fact": "skilled nursing services three times a week for three weeks, twice a week for five weeks and once a week"
+   },
+   {
+    "claim": "Visit-level documentation of need for skilled observation is not shown",
+    "passage_id": 239,
+    "quote": "The patient’s necessity for skilled observation must be documented at each home health visit",
+    "case_fact": "the beneficiary was alert and oriented, with forgetfulness at a “baseline” level."
+   }
+  ]
+ },
+ {
+  "case_id": "case_landmark",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Plan of care orders specify service and frequency",
+    "passage_id": 192,
+    "quote": "The orders on the plan of care must indicate the type of services to be provided to the patient",
+    "case_fact": "ordered skilled nursing care once in the initial week and then twice a week for four weeks"
+   },
+   {
+    "claim": "Prothrombin monitoring documented with dosage adjustments",
+    "passage_id": 268,
+    "quote": "Where the documentation shows that the dosage is being adjusted, monitoring would be reasonable and necessary as ordered by the physician or allowed practitioner.",
+    "case_fact": "his physician modified the Coumadin dosages twice"
+   }
+  ]
+ },
+ {
+  "case_id": "dc_case",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "BLS ambulance crew staffing/certification required; record is silent on it",
+    "passage_id": 382,
+    "quote": "Basic Life Support (BLS) ambulances must be staffed by at least two people",
+    "case_fact": "Basic Life Support ambulance transportation (A0429-RH)"
+   }
+  ]
+ },
+ {
+  "case_id": "eagle_air_med",
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Air ambulance requires condition that could not be met by ground; appellant concedes ground to closer hospital was reasonable",
+    "passage_id": 417,
+    "quote": "medical condition required immediate and rapid ambulance transportation that could not have been provided by ground ambulance",
+    "case_fact": "ground transportation to a closer hospital was reasonable"
+   },
+   {
+    "claim": "Vital signs stable, no further significant bleeding",
+    "passage_id": 417,
+    "quote": "medical condition required immediate and rapid ambulance transportation",
+    "case_fact": "vital signs were stable at the time of transfer"
+   }
+  ]
+ },
+ {
+  "case_id": "estate_gbr",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Hospital-to-hospital transport covered only if destination is nearest with appropriate facilities; record does not show this",
+    "passage_id": 422,
+    "quote": "covered only if the hospital to which the patient is transferred is the nearest one with appropriate facilities.",
+    "case_fact": "who recommended that the beneficiary be transferred to the"
+   }
+  ]
+ },
+ {
+  "case_id": "gold_cross_ambulance",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Medical necessity must be established; cardiologist statement supports it but ambulance record notes he could stand and walk",
+    "passage_id": 400,
+    "quote": "only if medical necessity and other program coverage criteria are met",
+    "case_fact": "to take him from the hospital to the rehabilitation center by ambulance with a cardiac monitor"
+   }
+  ]
+ },
+ {
+  "case_id": "kaweah_rehabilitationhospital",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Multiple therapy disciplines documented in initial plan",
+    "passage_id": 86,
+    "quote": "the patient required the active and ongoing therapeutic intervention of multiple therapy disciplines",
+    "case_fact": "providing daily occupational and physical therapy"
+   },
+   {
+    "claim": "Rehabilitation physician face-to-face visits 3 days/week not documented",
+    "passage_id": 84,
+    "quote": "the rehabilitation physician must conduct face-to-face visits with the patient at least 3 days per week",
+    "case_fact": "A discharge evaluation form records that the beneficiary had achieved modified independence"
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1559",
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Observation orders do not meet inpatient admission requirements; discharge summary says observation",
+    "passage_id": 42,
+    "quote": "such orders will not be treated as meeting the inpatient admission requirements",
+    "case_fact": "was admitted for overnight observation."
+   },
+   {
+    "claim": "Admission order is evidence of decision to admit; the inpatient decision was recorded as made in error",
+    "passage_id": 42,
+    "quote": "The admission order is evidence of the decision by the ordering practitioner to admit the beneficiary to inpatient status.",
+    "case_fact": "Decision to change from observation to inpt status was made in ERROR."
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-2450",
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Transport to a physician-directed clinic is not covered; run sheet lists destination only as a clinic, no record of hospital/CAH/SNF destination",
+    "passage_id": 437,
+    "quote": "or a physician-directed clinic is not covered",
+    "case_fact": "On the ambulance run sheet, the destination to which the appellant was taken was described as a"
+   }
+  ]
+ },
+ {
+  "case_id": "m_12_257",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Re-certification documents inability to leave home without taxing effort with functional limitations",
+    "passage_id": 179,
+    "quote": "longitudinal clinical information about the patient",
+    "case_fact": "the beneficiary was unable to leave the home without taxing efforts."
+   },
+   {
+    "claim": "Infrequent absences (adult day care, doctor visits) do not defeat homebound status",
+    "passage_id": 180,
+    "quote": "shall not so disqualify an individual if the absence is of an infrequent or of relatively short duration",
+    "case_fact": "absences from the home, though infrequent, included adult day care and doctor visits."
+   }
+  ]
+ },
+ {
+  "case_id": "m_12_809",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Inpatient status requires an admission order; record only says admitted to inpatient status after observation, no order or certification shown",
+    "passage_id": 42,
+    "quote": "The admission order is evidence of the decision by the ordering practitioner to admit the beneficiary to inpatient status.",
+    "case_fact": "He was initially placed in observation status but subsequently admitted to inpatient status."
+   }
+  ]
+ },
+ {
+  "case_id": "midwest_lifeteam",
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Hospital-to-hospital air transport covered only if destination is nearest appropriate facility; appellant admits a preferred nearer facility was not tried",
+    "passage_id": 422,
+    "quote": "is covered only if the hospital to which the patient is transferred is the nearest one with appropriate facilities",
+    "case_fact": "He just gave up & settled on one in the state of KS before trying the facility in TX that Medicare preferred."
+   },
+   {
+    "claim": "Transferring hospital lacked cardiology, but no documentation that ground transport would endanger health",
+    "passage_id": 422,
+    "quote": "transportation by ground ambulance would endanger the beneficiary’s health",
+    "case_fact": "The transfer occurred so that the beneficiary would be treated in a hospital where specialist cardiologist services were available."
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices5",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Physician-signed care plan ordered the speech/dysphagia therapy by a speech-language pathologist",
+    "passage_id": 298,
+    "quote": "Speech-language pathology would be covered where a skilled service can only be provided by a speech-language pathologist",
+    "case_fact": "dysphagia therapy was ordered twice a week for 8 weeks in the care plan signed by the physician."
+   },
+   {
+    "claim": "SLP must document assessments and effectiveness of therapy; therapy notes record progress",
+    "passage_id": 297,
+    "quote": "document the results of the assessments, corresponding measurements, and effectiveness of therapy",
+    "case_fact": "The therapy notes of the second four week period record"
+   }
+  ]
+ },
+ {
+  "case_id": "prestige_homecare",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Plan of care states service type and frequency",
+    "passage_id": 192,
+    "quote": "The orders on the plan of care must indicate the type of services to be provided to the patient",
+    "case_fact": "the certification and plan of care called for skilled nursing services one to two times a month"
+   },
+   {
+    "claim": "Visit-level documentation supporting need for skilled nursing is not in the record provided",
+    "passage_id": 233,
+    "quote": "there must be documentation to support the need for continued skilled nursing services",
+    "case_fact": "skilled nursing services one to two times a month (for observation and assessment, and teaching medications)"
+   }
+  ]
+ },
+ {
+  "case_id": "rb_obo_jb",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Adult day care attended four days a week must be licensed/certified; record does not show licensure or certification",
+    "passage_id": 188,
+    "quote": "only to assure that the adult day care center is licensed/certified by the State or accrediting body",
+    "case_fact": "an adult day care center, sponsored by a county mental health/mental retardation program"
+   }
+  ]
+ },
+ {
+  "case_id": "rx_homecare",
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Skilled observation requires documented rationale of potential for complication; orders only call for pouring a mediplanner",
+    "passage_id": 236,
+    "quote": "must document the rationale that demonstrates that there is a reasonable potential for a future complication or acute episode",
+    "case_fact": "visit Q 2 weeks to pour mediplanner."
+   },
+   {
+    "claim": "Necessity for skilled observation must be documented at each visit; none shown for biweekly visits",
+    "passage_id": 239,
+    "quote": "necessity for skilled observation must be documented at each home health visit",
+    "case_fact": "a skilled nurse visited the beneficiary approximately once every two weeks to fill a mediplanner with pills and oversee home health aides."
+   }
+  ]
+ },
+ {
+  "case_id": "sacredheart_hospital",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Retrieved policy covers services related to non-covered services; no inpatient order/certification or medical-necessity criteria are in the passages, so the record cannot be tested",
+    "passage_id": 105,
+    "quote": "Services \"not related to\" non-covered services are covered under Medicare.",
+    "case_fact": "the amount of dissection required intra- abdominally as well as her underlying pulmonary status."
+   }
+  ]
+ },
+ {
+  "case_id": "state_of_vt",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Wound care requires documented size, depth, drainage and skin condition; the quoted nurse note lacks size/depth/drainage",
+    "passage_id": 258,
+    "quote": "the size, depth, nature of drainage (color, odor, consistency, and quantity), and condition and appearance of the skin surrounding the wound",
+    "case_fact": "There is a new small area above the original area that has two white blisters."
+   },
+   {
+    "claim": "Each visit must document the need for skilled nursing; nurses documented assessment and wound care",
+    "passage_id": 260,
+    "quote": "The home health record at each visit must document the need for the skilled nursing services.",
+    "case_fact": "observed and assessed the pressure ulcer on the beneficiary"
+   }
+  ]
+ },
+ {
+  "case_id": "uphams_homehealthcare",
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Services that family/unskilled caregivers can safely perform are not covered; plan of care shows family gives medications and monitors glucose",
+    "passage_id": 225,
+    "quote": "they could safely and effectively be performed by the patient or unskilled caregivers",
+    "case_fact": "family administered her medications without problems"
+   },
+   {
+    "claim": "Clinical notes must show need for skilled care; only the appellant's assertions and two glucose readings are cited",
+    "passage_id": 233,
+    "quote": "there must be documentation to support the need for continued skilled nursing services",
+    "case_fact": "The appellant references two blood glucose readings and edema of the beneficiary"
+   }
+  ]
+ },
+ {
+  "case_id": "visitingnursing",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Plan of care orders specify service and frequency",
+    "passage_id": 192,
+    "quote": "The orders on the plan of care must indicate the type of services to be provided to the patient",
+    "case_fact": "ordered physical therapy once a week for one week, and twice a week for five weeks"
+   },
+   {
+    "claim": "Objective measurements of function documented at evaluation and discharge",
+    "passage_id": 292,
+    "quote": "the patient with objective measurements of function",
+    "case_fact": "score was 7/28, which indicates that she had a risk of severe falls."
+   }
+  ]
+ }
+]

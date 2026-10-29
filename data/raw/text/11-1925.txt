@@ -1,0 +1,250 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-11-1925
+
+
+In the case of                        Claim for
+
+Commissioner, Connecticut             Hospital Insurance Benefits
+Department of Social Services         (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+National Government Services          ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+April 21, 2011, which concerned Medicare coverage for services
+provided to the beneficiary in a skilled nursing facility (SNF)
+from September 19, 2011, through October 31, 2009. The ALJ
+found that these services did not constitute daily skilled care,
+and therefore, were not covered by Medicare. The ALJ then found
+the beneficiary liable for the non-covered services. The
+appellant, the State of Connecticut Department of Social
+Services, a state Medicaid agency as statutory subrogee, has
+asked the Medicare Appeals Council (Council) to review this
+action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the appellant in the request
+for review, unless the appellant is an unrepresented
+beneficiary. Id. § 405.1112(c). The Council admits the
+appellant’s request for review and supporting brief into the
+administrative record as Exhibit (Exh.) MAC-1.
+
+Neither the appellant nor the provider in this case disputes
+that the services at issue are not covered by Medicare.
+                                                                            2
+Therefore, the Council adopts the ALJ’s finding of non-coverage
+without further discussion. However, as set forth below, the
+Council finds that the beneficiary is not liable for the non-
+covered services at issue and therefore reverses the ALJ’s
+decision on liability. The Council finds the provider liable
+for the non-covered services.
+
+
+                   BACKGROUND AND PROCEDURAL HISTORY
+
+The beneficiary began receiving skilled nursing services from a
+SNF in August 2009 following a qualifying three-day hospital
+stay. See Exh. 2 at 10. After several weeks of furnishing
+Medicare-covered SNF level services, the provider prepared a
+written notice of non-coverage (NONC) to advise the beneficiary
+that Medicare “probably will not pay” for services rendered
+beginning September 19, 2009, and that the beneficiary could
+appeal this determination. On September 14, 2009, the provider
+delivered the NONC to the beneficiary’s authorized represent-
+tative, who signed 1 and dated the NONC on September 16, 2009.
+There was no additional written notice in the record detailing
+the basis for the non-coverage in follow-up to the signed notice
+of non-coverage.
+
+The appellant sought Medicare coverage for the services provided
+to the beneficiary from September 19, 2009, to October 31, 2009.
+See Exh. 3 at 4—5. Initially and at the redetermination level,
+the Medicare contractor denied coverage for the services on the
+ground that they were not reasonable and necessary. Id. at 1—2.
+The contractor also found the provider liable for the services.
+Id. The appellant requested a reconsideration by a Qualified
+Independent Contractor (QIC). See Exh. 4 at 9-10. The QIC
+agreed with the contractor’s conclusions that Medicare did not
+cover the services and that the provider was liable for the non-
+covered services. See id. at 2—4.
+
+The appellant subsequently filed a request for an ALJ hearing,
+disputing only the beneficiary’s liability for the services.
+Exh. 5 at 1-4. During the hearing, the appellant argued that
+the NONC was insufficient because it did not identify the
+specific non-covered services and did not explain why such
+
+
+
+1
+  In his decision, the ALJ stated that the beneficiary signed the NONC;
+however, it was the beneficiary’s authorized representative (wife) who signed
+it. See Dec. at 4.
+                                                                             3
+services would not be covered. Testimony of M.A., CD Recording
+of ALJ Hearing, March 22, 2011.
+
+The ALJ reversed the QIC’s reconsideration on liability and
+found the beneficiary liable for the non-covered services. Dec.
+at 5. The ALJ reasoned that the NONC included an explanation of
+the reasons that Medicare would not cover the services, the
+potential liability of the beneficiary, and the beneficiary’s
+appeal rights. Id. The ALJ also found that a handwritten
+notation 2 on the NONC indicated that the beneficiary received in-
+person delivery of the notice. Id. Accordingly, the ALJ
+concluded that the beneficiary received actual notice of non-
+coverage. See Dec. at 5. Before the Council, the appellant
+contests whether the NONC provided sufficient notice of non-
+coverage to the beneficiary.
+
+                      APPLICABLE LEGAL AUTHORITIES
+
+Medicare may limit a beneficiary’s liability for non-covered
+services if certain conditions are met. See Social Security
+Act, § 1879(a). Medicare regulations provide that a beneficiary
+is not liable if he receives services that are not medically
+reasonable and necessary, and if he did not know and could not
+reasonably have been expected to know that the services were not
+covered by Medicare. See id. § 1879(a)(2); see also 42 C.F.R.
+§ 411.400.
+
+The Medicare regulation at 42 C.F.R. § 411.404 sets forth the
+criteria for determining whether a beneficiary knew that
+services were not covered. According to the regulation, a
+beneficiary is considered to have known that the services were
+not covered if written notice has been given to the beneficiary,
+or to someone acting on his behalf, and if the notice was given
+by the provider. 42 C.F.R. §§ 411.404(b) and (c)(3).
+
+The requisite written notice must include an Expedited
+Determination (ED) generic notice (Form CMS-10123) when covered
+services are being terminated. See Expedited Determination
+Process for Original Medicare, Questions and Answers (Q&As),
+Group 5, Q&A 3 and Q&A 4. This notice alerts a beneficiary of
+an appeal right, in particular, the right to obtain an immediate
+review by a Quality Improvement Organization (QIO) of the
+decision to terminate skilled services. Id. Group 5, Q&A 2.
+
+2
+  The following note appears below the representative’s signature on the NONC:
+“informed in person on 9/14/09.” Exh. 7 at 3.
+                                                                   4
+The ED generic notice by itself, however, provides insufficient
+notice in a situation where all Medicare-covered services are
+ending, but the provider intends to deliver non-covered care.
+See Expedited Determination Process for Original Medicare, Q&As,
+Group 5, Q&A 4. Under these circumstances, CMS policy requires
+providers to issue both an ED generic notice and a Skilled
+Nursing Facility Advance Beneficiary Notice (SNF ABN). Id.
+Group 5, Q&A 4.
+
+A SNF ABN must cite the particular services for which payment
+will be or is likely to be denied and must also cite the
+notifier’s reasons for believing Medicare payment will be or is
+likely to be denied. Medicare Claims Processing Manual (MCPM)
+(IOM Pub. 100-04), ch. 30, § 40.3.1.2. The purpose of a SNF ABN
+is to inform a Medicare beneficiary, before he receives services
+that under other circumstances might be covered, that Medicare
+certainly or probably will not cover the services in this
+situation and why. Id. § 40.3. A SNF ABN allows the
+beneficiary to make an informed consumer decision about whether
+to receive the services for which he may have to pay out of
+pocket or through other insurance. See id. Applying these
+guidelines, the Council reviews the appellant’s contentions and
+the notice in this case.
+
+                           DISCUSSION
+
+The appellant contests the validity of the NONC as an ABN for
+two reasons. First, the appellant contends that the NONC is
+insufficient as an ABN because it does not specify what services
+Medicare would not cover and does not explain why Medicare would
+deny such services. See id. Second, the appellant argues that
+there was insufficient documentation of the in-person notice of
+non-coverage provided to the beneficiary to constitute valid
+delivery. See id.
+
+The Council agrees with the appellant that the NONC was
+insufficient to qualify as an ABN. The NONC in this case was an
+ED generic notice that alerted the beneficiary of the date when
+coverage would end and explained the beneficiary’s right to
+obtain a QIO review. See Exh. 7 at 2-3. This NONC was the only
+written notice provided to the beneficiary for the relevant
+dates of service, and the record lacks evidence that the
+beneficiary received a complementary SNF ABN, in accordance with
+the manual provisions.
+                                                                   5
+
+As noted above, the ED generic notice cannot serve as an advance
+beneficiary notice, for purposes of shifting liability from the
+provider to the beneficiary, where, as here, all Medicare-
+covered services are ending, but the provider intends to deliver
+non-covered care. See Expedited Determination Process for
+Original Medicare, Q&As, Group 5, Q&A 4.
+
+Under these circumstances, Medicare guidelines expressly state
+that a SNF ABN must be provided to a beneficiary in addition to
+an ED generic notice because an ED generic notice, like the one
+in this case, does not specify the particular type of services
+that would not be covered by Medicare. See id. Group 5, Q&A 2,
+Q&A 4. The NONC also does not explain why Medicare coverage of
+SNF services would end. See id. Group 5, Q&A 2. Without this
+information, a beneficiary cannot make an informed consumer
+decision about whether to receive the non-covered services.
+
+Moreover, the documentation of the in-person notice is
+inadequate to determine the content of the notice, who gave
+notice, or to whom it was given. The notice is annotated
+“informed in person on 9/14/09.” However, the notice does not
+indicate who was informed in person (the beneficiary or her
+responsible party) and is not signed by an authorized
+representative of the SNF. The documentation does not indicate
+that the recipient of any oral notice received the complete
+information required in a valid written notice. It does not
+indicate whether the provider explained why Medicare will not
+cover the services or whether the provider even identified the
+particular non-covered services for the beneficiary.
+
+Based upon the facts and Medicare guidance, the Council
+concludes that the SNF did not effect valid delivery of an ABN.
+Accordingly, the beneficiary is not liable for the non-covered
+services for the period at issue. The Council holds that the
+provider, in issuing the NONC, knew that the services would not
+be covered. Therefore, the provider is liable for the non-
+covered charges.
+
+                            DECISION
+
+Because the appellant limits its request for review to the issue
+of liability, the Council adopts the ALJ’s conclusion that the
+                                                                   6
+nursing services at issue were not covered by Medicare.
+However, the Council reverses the ALJ’s findings and conclusions
+on liability. The Council holds the provider liable for the
+non-covered services provided to the beneficiary from September
+19, 2009, through October 31, 2009.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+                                   /s/ Gilde Morrisson
+                                   Administrative Appeals Judge
+
+
+                                   /s/ Clausen J. Krzywicki
+                                   Administrative Appeals Judge
+Date: November 21, 2011
+

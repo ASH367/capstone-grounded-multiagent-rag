@@ -1,0 +1,306 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+
+
+In the case of                        Claim for
+
+
+Commissioner, Connecticut             Hospital Insurance Benefits
+Department of Social Services         (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+Empire Medicare services              ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision dated April
+4, 2007. The ALJ decision concerned skilled nursing facility
+(SNF) services provided by *** for the beneficiary, ***, from
+February 25, 2006, through March 26, 2006. The ALJ determined
+the services provided were not covered by Medicare and that the
+beneficiary remained responsible for the non-covered services.
+The appellant has asked the Medicare Appeals Council to review
+this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a).   The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+The Council considered the record and exceptions set forth in
+the appellant’s request for review and supplementary Memorandum
+of Law. The appellant’s request for review is entered into the
+record as Exh. MAC-1 and the appellant’s Memorandum of Law is
+entered into the record as Exh. MAC-2.
+
+As set forth below, the Council reverses the ALJ’s decision on
+liability and adopts the finding of Medicare non-coverage.
+                                                                             2
+
+                   BACKGROUND AND PROCEDURAL HISTORY
+
+The beneficiary was admitted to *** skilled nursing facility
+(SNF) on January 17, 2006, after a qualifying hospital stay for
+treatment of delirium, a urinary tract infection (UTI), and
+dehydration. Exh. 1 at 1. The beneficiary’s hospital discharge
+diagnoses included: chronic dementia, UTI, dehydration,
+myocardial infarction, hypercholesterolemia, insulin-dependent
+diabetes mellitus, hypertension, history of cerebral thrombosis,
+history of transient ischemic attacks, urethral stricture, and
+depression. Id. The beneficiary received skilled physical and
+occupational therapies after admission. Id. at 47, 35. His
+physical and occupational therapies were discontinued on
+February 7, 2006, and February 24, 2006, respectively. Id. On
+February 22, 2006, a notice of non-coverage was initialed by the
+beneficiary and witnessed by the SNF’s social worker stating
+that the last day of skilled services to qualify the stay for
+Medicare coverage would be February 24, 2006. Exh. 3 at 2-3.
+
+A demand bill was submitted to the Medicare contractor for SNF
+services provided from February 25, 2006, through March 26,
+2006. The contractor’s initial determination and
+redetermination as well as the Qualified Independent
+Contractor’s (QIC) reconsideration all determined that the
+services were not covered by Medicare and that the beneficiary
+was responsible for payment because the provider issued a notice
+of non-coverage. Exh. 5 at 1-2, Exh. 8 at 4-5.
+
+On behalf of the appellant, Center for Medicare Advocacy (CMA)
+requested an ALJ hearing which was conducted by teleconference
+on March 14, 2007. Dec. at 2. A representative of CMA was
+present at the hearing and although notice of the hearing was
+sent to the provider, they did not appear. Id., See Exh. 10 at
+1. A Council audit of the hearing established that the
+appellant’s representative stated, “I will be limiting my
+argument to the fact that the beneficiary’s liability should be
+waived in this case on the grounds that he was not a capable
+recipient to receive the notice of Medicare non-coverage.”
+
+The ALJ addressed the issue of liability in his decision,
+finding that on February 22, 2006, the beneficiary and “the
+Beneficiary’s Representative” signed the notice of non-coverage
+and therefore the notice was valid.1 Dec. at 11. The ALJ
+1
+  The notice of non-coverage was initialed by the beneficiary and witnessed by
+***, MSW, the provider’s social worker. Exh. 3 at 3.
+                                                                                 3
+concluded the services provided to the beneficiary from February
+25, 2006, through March 26, 2006, were not covered by Medicare,
+and that the beneficiary was responsible for payment of the non-
+covered services. Id.
+
+The appellant filed a timely request for Council review
+asserting that the ALJ failed to consider that the beneficiary
+was not a capable recipient of the notice of non-coverage. Exh.
+MAC-2 at 2.
+
+                            LEGAL AUTHORITIES
+
+According to section 1879 of the Act, Medicare may limit the
+liability of a beneficiary or provider (or both) for costs of
+services not covered under sections 1862(a)(1)(A) or (a)(9).
+The statute provides that the liability for a non-covered item
+or service may be limited, when a provider, practitioner,
+supplier, or beneficiary did not know and could not reasonably
+have been expected to know that the item or service was not
+covered by Medicare. 42 C.F.R. § 411.400. A provider may be
+deemed to have “knowledge” based on its written notice of non-
+coverage to the beneficiary or its “experience, actual notice,
+or constructive notice.” 42 C.F.R. § 411.406.
+
+Medicare regulations at 42 C.F.R. § 411.404 set forth the
+criteria for determining whether a beneficiary knew that
+services were excluded from coverage as custodial care or as not
+reasonable and necessary. In determining beneficiary liability,
+the regulation provides that a beneficiary who receives services
+that constitute custodial care or that are not reasonable and
+necessary “is considered to have known that the services were
+not covered if . . . written notice has been given to the
+beneficiary, or to someone acting on his or her behalf, that the
+services were not covered because they did not meet Medicare
+coverage guidelines.” 42 C.F.R. § 411.404(b). The notice may
+be given by the provider, practitioner, or supplier that
+furnished the services. 42 C.F.R. § 411.404(c)(3).
+
+Further guidance concerning the criteria for establishing
+knowledge is found in CMS Ruling 95-1.2 The Ruling explains
+that, pursuant to the Act and the regulations, a beneficiary
+will be considered to have knowledge of non-coverage if he, or
+the person acting on his behalf, was furnished with a written
+notice that contains “sufficient information to enable the
+2
+   By regulation, CMS rulings are binding on ALJs and the Council.   42 C.F.R.
+§§ 401.108 and 405.1063.
+                                                                   4
+beneficiary to understand the basis of the denial.” Id. CMS
+Ruling 95-1 explains that when a beneficiary is provided written
+notice, there is a “presumption that the [beneficiary] knew, or
+could reasonably have been expected to know, that Medicare
+payment for a service or item would be denied.” CMS Ruling 95-
+1-16, see also 42 C.F.R. § 411.404.
+
+In addition, the Medicare Claims Processing Manual (MCPM)
+addresses the issue of defective notice related to capacity of
+the beneficiary stating, “An [advance beneficiary notice] is not
+acceptable evidence if [the beneficiary] is incapable of
+understanding the notice....” CMS Manual System, Pub. 100-04,
+MCPM, Chapter 30, Section 40.3.1.3. The Manual further
+clarifies who may qualify as a “capable recipient” of that
+notice. Id. at § 40.3.4.3. Specifically, “[a] comatose person,
+a confused person (e.g., someone who is experiencing confusion
+due to senility, dementia, Alzheimer’s disease), [or] a legally
+incompetent person . . . is not able to understand and act on
+his/her rights, therefore necessitating the presence of an
+authorized representative for purposes of notice.” Id.
+Furthermore, “[i]f the beneficiary was not capable of receiving
+the notice, the contractor will hold that the beneficiary did
+not receive proper notice, hold that the beneficiary is not
+liable, and will hold the notifier liable.” Id.
+
+                           DISCUSSION
+
+The Council has carefully considered the ALJ’s decision, the
+record, and the appellant’s exceptions. The appellant only
+contests the ALJ’s ruling concerning liability in this case.
+Exh. MAC-1, MAC-2. Therefore, we adopt without further
+discussion the ALJ’s findings and conclusion that the SNF
+services at issue were not covered.
+
+The appellant contends that the ALJ erred in holding the
+beneficiary liable for the costs of the non-covered services.
+They assert that the beneficiary’s liability should be waived,
+as he was not a “capable recipient” in accordance with the MCPM,
+Chap. 30, §40.3.4.3. Exh. MAC-2 at 2. Specifically, “[i]n
+addition to his diagnosis of dementia, the record shows that
+[the beneficiary] experienced confusion on such a regular basis
+as to render not legally able to ‘understand and act on his
+rights.” Exh. MAC-2 at 6. For the reasons explained below, the
+Council concludes that the beneficiary did not receive proper
+notice that the services provided would likely not be covered by
+                                                                   5
+Medicare, and finds that the provider is liable for the non-
+covered services.
+
+The record reflects that the beneficiary did not possess the
+requisite capacity to qualify as a capable recipient when he
+signed the notice of non-coverage. Upon admission on January
+17, 2006, the beneficiary’s physician ordered a wanderguard, a
+chair pad alarm while in his wheelchair, and a “pressure alarm
+when in bed related to poor safety awareness [secondary] to
+Dementia.” Exh. 1 at 6, 80. These orders were reauthorized,
+signed by the physician on February 15, 2006, and in effect for
+60 days, during the time the beneficiary signed the notice of
+non-coverage. Id.
+
+The social worker’s initial evaluation conducted on January 17,
+2006, approximately one month prior to the date at issue,
+determined that the beneficiary was confused, frequently
+forgetful, and oriented to person only, not oriented to place or
+time. Exh. 1 at 91. Nevertheless, the social worker who
+witnessed the beneficiary’s signature on the notice of non-
+coverage did not document the event in her progress notes or
+make an entry regarding the beneficiary’s momentary ability to
+comprehend and act on the notice of non-coverage.
+
+The Medicare 30 day assessment Minimum Data Set (MDS), which was
+completed just seven days prior to the date the beneficiary
+signed the notice of non-coverage, denotes severe cognitive
+deficits. Exh. 1 at 84. The beneficiary was only oriented to
+staff names or faces; he was not able to normally recall the
+current season, location of his room, or that he was in a
+nursing home. The beneficiary possessed indicators of delirium,
+periodic disordered thinking or awareness. His cognitive skills
+for daily decision-making regarding simple tasks of daily life
+were labeled as “severely impaired.” Id. Furthermore, the
+beneficiary’s cognitive status, skills, or abilities had
+“deteriorated” when compared to his status about 30 days prior.
+Id.
+
+On February 7, 2006, the beneficiary’s physical therapist
+discharged him from therapy because, “[p]lateau of benefits from
+skilled PT interventions reached at current mental level
+[secondary to] dementia.” Exh. 1 at 47. On February 21, 2006,
+the beneficiary’s occupational therapist noted that he continued
+to demonstrate decreased cognition and fluctuating alertness.
+Id. at 40. On February 24, 2006, two days after the beneficiary
+signed the notice of non-coverage, the occupational therapist
+                                                                   6
+discharged the beneficiary from treatment because his
+“cogn[itive] status and limited mobility limit[ed] further
+progress.” Id. at 41.
+
+On February 22, 2006, date the beneficiary signed the notice,
+the nurses noted that the beneficiary had, “usual confusion.”
+Exh. 1 at 22.
+
+The beneficiary’s psychiatrist conducted a follow-up psychiatric
+consultation on March 10, 2006, less than four weeks after the
+beneficiary signed the notice of non-coverage. The psychiatrist
+determined the beneficiary possessed “Dementia, continuous,
+intrusive” and found it to be “severe.” Exh. 1 at 58. The
+psychiatrist also stated the beneficiary’s psychiatric
+medication dosage should not be reduced due to the beneficiary’s
+delusions. The psychiatrist determined that the beneficiary had
+impaired memory, concentration, attention, and orientation.
+Again, the beneficiary was documented to be oriented only to
+person and not to place or time. Id.
+
+The record shows that the beneficiary had an authorized
+representative that would qualify as a capable recipient of the
+notice of non-coverage. The hospital transfer report states
+that the beneficiary’s daughter, S.H., is the responsible
+person. Exh. 1 at 3. The social service initial assessment and
+each progress note also mention the involvement of the
+beneficiary’s daughter. Id. at 93. Finally, the MDS states
+that the beneficiary’s family member is responsible. Id. at 84,
+91.
+
+The MCPM explains that a “confused person (e.g., someone who is
+experiencing confusion due to senility, dementia, Alzheimer’s
+Disease) . . . is not able to understand and act on his/her
+rights,” and therefore an authorized representative must be
+provided the notice of non-coverage under such circumstances.
+MCPM, Chapter 30, Section 40.3.4.3. The presumption that the
+beneficiary had knowledge, indicated by CMS Ruling 95-1, is
+rebutted by the overwhelming evidence that the beneficiary was
+not able to understand and act on his rights and as such not a
+capable recipient of the notice of non-coverage. Therefore, the
+notice requirements of section 1879 and Ruling 95-1 were not met
+by the notice of non-coverage of record. Having no other
+evidence that the beneficiary knew or should have known that the
+services would not be covered, the Council finds that the
+beneficiary’s liability is waived.
+                                                                   7
+The Council finds that the provider, in issuing the notice of
+non-coverage, knew that the services were not covered. MCPM,
+Pub. 100-04, Chap. 30, § 40.1. Therefore, the provider is
+liable for the non-covered charges.
+
+                            DECISION
+
+It is the decision of the Medicare Appeals Council that the
+beneficiary’s liability is waived under section 1879 of the Act.
+The provider is liable for the non-covered charges.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+                                   /s/ Constance B. Tobias
+                                   Chair, Departmental Appeals
+                                   Board
+
+
+                                   /s/ Mary C. Peltzer
+                                   Appeals Officer
+
+Date: January 11, 2008
+

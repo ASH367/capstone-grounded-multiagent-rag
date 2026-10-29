@@ -1,0 +1,709 @@
+[
+ {
+  "case_id": "11-1343",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "11-1343",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "11-1343",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "11-1343",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "11-1343",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "11-1343",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "11-1343",
+  "fact_index": 7,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "11-1343",
+  "fact_index": 8,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "11-1343",
+  "fact_index": 9,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "11-1546",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "11-1546",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "11-1546",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "11-1925",
+  "fact_index": 1,
+  "label": "MIXED",
+  "reason": "Patient/stay facts plus provider notice that Medicare \"probably will not pay\"",
+  "leak_text": "prepared a written notice of non-coverage (NONC) to advise the beneficiary that Medicare \"probably will not pay\" for services rendered beginning September 19, 2009"
+ },
+ {
+  "case_id": "11-1925",
+  "fact_index": 2,
+  "label": "MIXED",
+  "reason": "Services sought (claim fact) plus contractor denial and its rationale reveals outcome",
+  "leak_text": "the Medicare contractor denied coverage for the services on the ground that they were not reasonable and necessary"
+ },
+ {
+  "case_id": "11-1925",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant contention about NONC validity",
+  "leak_text": ""
+ },
+ {
+  "case_id": "baptist_health_care",
+  "fact_index": 1,
+  "label": "MIXED",
+  "reason": "Procedural facts plus indication overpayments were assessed (prior adverse determination)",
+  "leak_text": "overpayments assessed"
+ },
+ {
+  "case_id": "baptist_health_care",
+  "fact_index": 2,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant claim of no notice",
+  "leak_text": ""
+ },
+ {
+  "case_id": "baptist_health_care",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant-submitted QIO statement; party evidence",
+  "leak_text": ""
+ },
+ {
+  "case_id": "baptist_health_care",
+  "fact_index": 4,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant summary argument",
+  "leak_text": ""
+ },
+ {
+  "case_id": "baptist_health_care",
+  "fact_index": 5,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant contentions on liability",
+  "leak_text": ""
+ },
+ {
+  "case_id": "baptist_health_care",
+  "fact_index": 6,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant contentions on reopening",
+  "leak_text": ""
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Procedural history",
+  "leak_text": ""
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Procedural history",
+  "leak_text": ""
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Procedural history",
+  "leak_text": ""
+ },
+ {
+  "case_id": "connecticut11",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "connecticut11",
+  "fact_index": 2,
+  "label": "MIXED",
+  "reason": "Therapy facts plus provider non-coverage notice setting last covered day",
+  "leak_text": "a notice of non-coverage was initialed ... stating that the last day of skilled services to qualify the stay for Medicare coverage would be February 24, 2006"
+ },
+ {
+  "case_id": "connecticut11",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Representative limits argument to liability waiver (concession that coverage not contested)",
+  "leak_text": ""
+ },
+ {
+  "case_id": "connecticut11",
+  "fact_index": 4,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant contention (reveals ALJ held beneficiary liable)",
+  "leak_text": ""
+ },
+ {
+  "case_id": "connecticut11",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "connecticut11",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "gr",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "gr",
+  "fact_index": 2,
+  "label": "MIXED",
+  "reason": "Clinical facts plus adjudicator characterization of record",
+  "leak_text": "The medical records in evidence demonstrate that the beneficiary required daily injections"
+ },
+ {
+  "case_id": "gr",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Procedural facts",
+  "leak_text": ""
+ },
+ {
+  "case_id": "gr",
+  "fact_index": 4,
+  "label": "MIXED",
+  "reason": "Appellant argument that embeds ALJ finding (could leave home without taxing effort), revealing outcome",
+  "leak_text": "the ALJ's findings that the beneficiary could leave home without considerable and taxing effort"
+ },
+ {
+  "case_id": "holycross_hosp",
+  "fact_index": 1,
+  "label": "MIXED",
+  "reason": "Claim facts plus RAC overpayment determination",
+  "leak_text": "a Recovery Audit Contractor (RAC) informed the appellant that the appellant had been overpaid on this claim"
+ },
+ {
+  "case_id": "holycross_hosp",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical facts and appellant argument below (no adjudicator evaluation)",
+  "leak_text": ""
+ },
+ {
+  "case_id": "holycross_hosp",
+  "fact_index": 3,
+  "label": "MIXED",
+  "reason": "Party argument embedding ALJ determination on reopening and refusal to waive",
+  "leak_text": "the [ALJ] erroneously failed to waive the determined overpayment"
+ },
+ {
+  "case_id": "m-10-1884",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-10-1884",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-10-1884",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Billing facts and appellant dispute",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-10-1884",
+  "fact_index": 4,
+  "label": "MIXED",
+  "reason": "Notice facts plus SNF determination of no further skilled need",
+  "leak_text": "the beneficiary would no longer require skilled care after January 27, 2009"
+ },
+ {
+  "case_id": "m-10-1884",
+  "fact_index": 5,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant concessions/arguments",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1869",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1869",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1869",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1869",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1869",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1967",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1967",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1967",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-11-1967",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-12-1140",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-12-1140",
+  "fact_index": 2,
+  "label": "MIXED",
+  "reason": "Discharge facts plus NNC rationale stating no medical necessity",
+  "leak_text": "there [was] no continuing evidence of medical necessity for the skills of a professional nurse or a therapist"
+ },
+ {
+  "case_id": "m-12-1140",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant arguments",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-12-1140",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m-13-04",
+  "fact_index": 1,
+  "label": "MIXED",
+  "reason": "Services/dates plus contractor denial",
+  "leak_text": "The contractor, National Government Services (NGS), denied Medicare coverage initially and on redetermination"
+ },
+ {
+  "case_id": "m-13-04",
+  "fact_index": 2,
+  "label": "ADJUDICATOR_FINDING",
+  "reason": "Provider notice that services cease to be covered",
+  "leak_text": "the SNF services provided to the beneficiary will cease to be covered by Medicare as of October 28, 2010"
+ },
+ {
+  "case_id": "m-13-04",
+  "fact_index": 3,
+  "label": "MIXED",
+  "reason": "Appellant argument embedding ALJ findings (limited liability applied; sufficient notice found)",
+  "leak_text": "The ALJ erred in applying section 1879 ... The ALJ erred in finding appellant furnished the beneficiary with sufficient notice of non-coverage"
+ },
+ {
+  "case_id": "m_10_1771",
+  "fact_index": 1,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertions",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_10_1771",
+  "fact_index": 2,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertions",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_10_1771",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_10_1771",
+  "fact_index": 4,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertions",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_10_1771",
+  "fact_index": 5,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant explanation",
+  "leak_text": ""
+ },
+ {
+  "case_id": "m_10_1771",
+  "fact_index": 6,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertions and concession",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "fact_index": 2,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertions about PT purpose",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertions",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "fact_index": 4,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant withdrew part of claim (procedural concession)",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "fact_index": 6,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant agreement/report",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "ny",
+  "fact_index": 1,
+  "label": "MIXED",
+  "reason": "Services furnished plus contractor denial",
+  "leak_text": "the contractor denied the claims initially and on redetermination"
+ },
+ {
+  "case_id": "ny",
+  "fact_index": 2,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant argument",
+  "leak_text": ""
+ },
+ {
+  "case_id": "ny",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertion",
+  "leak_text": ""
+ },
+ {
+  "case_id": "ny",
+  "fact_index": 4,
+  "label": "MIXED",
+  "reason": "Billing facts plus contractor exclusion of dates from review",
+  "leak_text": "the contractor excluded from review all of the dates of service prior to that date because they were part of the Third Party Liability (TPL) Demonstration Project"
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "fact_index": 4,
+  "label": "ADJUDICATOR_FINDING",
+  "reason": "Provider letter stating services cannot be covered",
+  "leak_text": "the services here cannot be covered under Medicare"
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "fact_index": 5,
+  "label": "MIXED",
+  "reason": "Form facts plus adjudicator observation on evidentiary weakness of certification",
+  "leak_text": "The physician's signature is illegible."
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "fact_index": 7,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant contention",
+  "leak_text": ""
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "fact_index": 3,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant argument (implies ALJ outcome)",
+  "leak_text": ""
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "fact_index": 4,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant argument",
+  "leak_text": ""
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "fact_index": 1,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertion",
+  "leak_text": ""
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "fact_index": 5,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "fact_index": 7,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "fact_index": 1,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "fact_index": 2,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "fact_index": 3,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "fact_index": 4,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "fact_index": 5,
+  "label": "PARTY_ARGUMENT",
+  "reason": "Appellant assertions",
+  "leak_text": ""
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "fact_index": 6,
+  "label": "PATIENT_CLAIM",
+  "reason": "Clinical/claim/procedural fact as reported",
+  "leak_text": ""
+ }
+]

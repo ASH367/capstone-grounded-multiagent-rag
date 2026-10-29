@@ -1,0 +1,290 @@
+[
+ {
+  "case_id": "11-1343",
+  "components": [
+   {
+    "name": "SNF therapy (PT/OT/ST)",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Eligibility and Documentation agents support coverage; therapy for documented functional decline is reasonable and necessary, and the frequency concern from the Medical Necessity agent is unsettled rather than adverse.",
+  "passage_ids": [
+   669,
+   638,
+   640
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "components": [
+   {
+    "name": "SNF stay",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents are UNKNOWN: the qualifying stay, direct SNF admission and inpatient status are not established in the record.",
+  "passage_ids": [
+   574,
+   608
+  ]
+ },
+ {
+  "case_id": "baptist_health_care",
+  "components": [
+   {
+    "name": "Inpatient admissions (AICD replacement)",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "No agent finds support; admission orders and clinical facts for inpatient need are not shown.",
+  "passage_ids": [
+   29,
+   13
+  ]
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "components": [
+   {
+    "name": "SNF stay",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "Case facts contain only briefing deadlines; no qualifying stay or SNF care is shown.",
+  "passage_ids": [
+   571
+  ]
+ },
+ {
+  "case_id": "connecticut11",
+  "components": [
+   {
+    "name": "SNF stay",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "Only the qualifying admission is supported; no skilled need is shown beyond a PT plateau, with dementia-related custodial needs.",
+  "passage_ids": [
+   607,
+   574
+  ]
+ },
+ {
+  "case_id": "gr",
+  "components": [
+   {
+    "name": "Home nursing at assisted living facility",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents UNKNOWN; homebound status, skilled need, non-duplication and certification are not established.",
+  "passage_ids": [
+   185,
+   186,
+   215
+  ]
+ },
+ {
+  "case_id": "m-10-1884",
+  "components": [
+   {
+    "name": "SNF care Jan 28-31, 2009",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "SNF care Feb 1-Mar 1, 2009",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "Therapy ended before the disputed dates and the qualifying stay length and skilled need are not shown.",
+  "passage_ids": [
+   563,
+   595
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "components": [
+   {
+    "name": "Home health skilled nursing visits",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Nurses relayed fluctuating glucose logs leading to repeated insulin adjustments, supported by medical necessity and documentation agents.",
+  "passage_ids": [
+   238,
+   257,
+   256
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "components": [
+   {
+    "name": "SNF care after hospitalization for hematuria",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "All agents support: stay of more than 3 days, direct admission, and care for a condition treated in the hospital.",
+  "passage_ids": [
+   572,
+   563,
+   579
+  ]
+ },
+ {
+  "case_id": "m-12-1140",
+  "components": [
+   {
+    "name": "SNF care with PT/OT through Sep 30, 2011",
+    "decision": "COVERED"
+   },
+   {
+    "name": "SNF care after therapy discharge",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "PARTLY_COVERED",
+  "reason": "Qualifying stay and prompt admission support the therapy period, but skilled need after therapy discharge is not shown.",
+  "passage_ids": [
+   579,
+   669
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "components": [
+   {
+    "name": "PT/ST/cognitive services",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents UNKNOWN; need for skilled care and a written plan are only asserted by the appellant.",
+  "passage_ids": [
+   636,
+   637,
+   639
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "components": [
+   {
+    "name": "W.B. PT visits Oct-Nov 2005",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "D.W. PT and home health aide visits",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents UNKNOWN; homebound status, plan of care and documentation are unestablished, and aide-training visits are not billable.",
+  "passage_ids": [
+   292,
+   285
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "components": [
+   {
+    "name": "Skilled nursing visits Apr-Oct 2007",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Eligibility and Medical Necessity agents support given complications (fistula, abscesses, UTIs) beyond routine care; documentation is not contradicted.",
+  "passage_ids": [
+   256,
+   231,
+   257
+  ]
+ },
+ {
+  "case_id": "ny",
+  "components": [
+   {
+    "name": "Home health hours",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents UNKNOWN; homebound status, skilled need and actual hours are not shown.",
+  "passage_ids": [
+   341,
+   177
+  ]
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "components": [
+   {
+    "name": "SNF care in noncertified bed",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "Eligibility agent finds noncertified bed placement bars payment; limitation of liability is unsettled.",
+  "passage_ids": [
+   666,
+   563,
+   573
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "components": [
+   {
+    "name": "IRF services",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "No patient-level clinical facts support the IRF requirements; all agents UNKNOWN.",
+  "passage_ids": [
+   72
+  ]
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "components": [
+   {
+    "name": "SNF skilled nursing and PT, August 2009",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "All three agents support: qualifying stay, skilled observation of psychiatric symptoms and pneumonia, with documented monitoring.",
+  "passage_ids": [
+   579,
+   629,
+   563
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "components": [
+   {
+    "name": "IRF stay Jul 17-24, 2003",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents UNKNOWN; preadmission screening and all IRF requirements are not shown.",
+  "passage_ids": [
+   72,
+   74
+  ]
+ }
+]

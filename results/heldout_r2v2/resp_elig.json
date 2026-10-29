@@ -1,0 +1,302 @@
+[
+ {
+  "case_id": "11-1343",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "PT/OT/ST furnished by an SNF are the covered type of service for a covered Part A stay.",
+    "passage_id": 669,
+    "quote": "must be provided by the SNF or by others under arrangements with the SNF for beneficiaries in either a covered Part A stay",
+    "case_fact": "the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "Therapy appears reasonable and necessary given documented functional decline; SNF residency and certification details are not stated.",
+    "passage_id": 638,
+    "quote": "The services must be reasonable and necessary for the treatment of the patient’s condition",
+    "case_fact": "D.E. was referred to PT due to decreased strength and decreased ADLs due to illness."
+   }
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "A hospital stay of 12 days is reported, which would exceed 3 consecutive days, but direct SNF admission and inpatient status are not documented.",
+    "passage_id": 574,
+    "quote": "as long as some portion of the stay included at least 3 consecutive days of medically necessary inpatient hospital services",
+    "case_fact": "hospital records concerning the beneficiary’s December 15, 2009, through December 27, 2009, stay at *** *** Hospital"
+   },
+   {
+    "claim": "Whether the presumption of coverage applies cannot be determined because the SNF admission date and route are not stated.",
+    "passage_id": 608,
+    "quote": "If the beneficiary is discharged from the hospital to a setting other than the SNF, the presumption of coverage does not apply",
+    "case_fact": "Lastly, the State Medicaid agency contends that the beneficiary’s SNF stay met the criteria for Medicare coverage."
+   }
+  ]
+ },
+ {
+  "case_id": "baptist_health_care",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Inpatient coverage requires a practitioner admission order; the case facts do not say whether one existed.",
+    "passage_id": 29,
+    "quote": "is therefore required for all hospital inpatient cases for hospital inpatient coverage and payment under Part A",
+    "case_fact": "The medical record must contain information that documents the need for an inpatient level of care."
+   },
+   {
+    "claim": "Admission coverage turns on medical judgment, not length of stay; the patient-specific facts are not in the case facts.",
+    "passage_id": 13,
+    "quote": "Admissions of particular patients are not covered or noncovered solely on the basis of the length of time the patient actually spends in the hospital",
+    "case_fact": "Those cases that appear to be routine, expected discharge within 24 hours"
+   }
+  ]
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "SNF coverage requires a qualifying 3-day hospital stay; the case facts address only briefing deadlines and contain no clinical or stay information.",
+    "passage_id": 571,
+    "quote": "the individual must have been an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days",
+    "case_fact": "The appellant filed a timely request for Council review (Form DAB-101), dated August 24, 2009, and received on August 26, 2009."
+   }
+  ]
+ },
+ {
+  "case_id": "connecticut11",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "SNF admission followed a qualifying hospital stay; the policy presumes level of care for direct admission after a 3-day qualifying stay.",
+    "passage_id": 607,
+    "quote": "If the beneficiary is admitted to the SNF immediately following a 3-day qualifying hospital stay",
+    "case_fact": "admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay"
+   },
+   {
+    "claim": "Hospital stay discharge counts as the day of leaving, and level of care at discharge is not determinative.",
+    "passage_id": 574,
+    "quote": "the level of care being furnished at that particular point is not a determining factor",
+    "case_fact": "The beneficiary’s hospital discharge diagnoses included: chronic dementia, UTI, dehydration, myocardial infarction"
+   }
+  ]
+ },
+ {
+  "case_id": "gr",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "An assisted living resident may be confined to the home only if the facility is not primarily engaged in providing institutional medical care; this is not established.",
+    "passage_id": 185,
+    "quote": "for purposes of Medicare coverage of home health services if he or she resides in an institution that is not primarily engaged in providing",
+    "case_fact": "nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility"
+   },
+   {
+    "claim": "Services duplicative of what the facility must provide under State licensure are denied; the case facts do not say what the facility provides.",
+    "passage_id": 186,
+    "quote": "would not be an optional substitute for the services that a facility is required to provide by law to its patients",
+    "case_fact": "nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility"
+   }
+  ]
+ },
+ {
+  "case_id": "m-10-1884",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The qualifying 3-day inpatient stay requirement cannot be verified because the length of the GI bleeding hospital stay is not stated.",
+    "passage_id": 563,
+    "quote": "The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days.",
+    "case_fact": "The beneficiary was re-admitted to * * * Health & Rehab Center (SNF) on December 11, 2008, following a hospital stay for gastrointestinal bleeding."
+   },
+   {
+    "claim": "Disputed dates are after therapy discharge and the appellant does not contend care was unrelated to the terminal condition; hospice status is not stated.",
+    "passage_id": 595,
+    "quote": "Hospices contract with SNFs for services related to the beneficiary’s terminal condition.",
+    "case_fact": "The appellant does not contend that the SNF care at issue was unrelated to the beneficiary’s terminal condition."
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The passages address venipuncture and catheters, not skilled nursing for insulin or medication management, and homebound status and plan of care are not stated.",
+    "passage_id": 267,
+    "quote": "The home health record must document the rationale for the blood draw as well as the results.",
+    "case_fact": "As the appellant acknowledges in its brief, the beneficiary tested blood sugar levels on her own."
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The hospital stay Feb 12 to Feb 17 counts as at least 3 consecutive days with the admission day counted and the discharge day not.",
+    "passage_id": 572,
+    "quote": "the day of admission, but not the day of discharge, is counted as a hospital inpatient day",
+    "case_fact": "the beneficiary’s hospitalization from February 12 to February 17, 2010"
+   },
+   {
+    "claim": "SNF care is needed for a condition treated in the hospital (hematuria), and SNF admission was at hospital discharge, within 30 days.",
+    "passage_id": 563,
+    "quote": "the beneficiary must require SNF care for a condition that was treated during the qualifying hospital stay",
+    "case_fact": "At the time of discharge from the hospital on February 17 (for admission to the SNF)"
+   }
+  ]
+ },
+ {
+  "case_id": "m-12-1140",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "SNF admission on the day of discharge from a 9-day inpatient stay meets the post-hospital and 30-day transfer requirements.",
+    "passage_id": 579,
+    "quote": "if initiated within 30 days after discharge from a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services",
+    "case_fact": "first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011"
+   }
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Skilled therapy is a covered type of service regardless of improvement potential, but SNF admission date and the qualifying stay timing are unclear in the case facts.",
+    "passage_id": 636,
+    "quote": "Coverage for such skilled therapy services does not turn on the presence or absence of a beneficiary’s potential for improvement",
+    "case_fact": "demonstrates the clear need for the skills of a physical therapist"
+   },
+   {
+    "claim": "Coverage requires an active written treatment plan after an initial evaluation in the SNF; this is not documented in the case facts.",
+    "passage_id": 637,
+    "quote": "The services must be directly and specifically related to an active written treatment plan",
+    "case_fact": "The appellant also concedes that the beneficiary met her goals by September 11, 2008"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Teaching safe transfers and stair use is a covered skilled PT type of service, but homebound status and a plan of care are not stated.",
+    "passage_id": 292,
+    "quote": "Physical therapy would be reasonable and necessary to teach the patient to climb and descend stairs safely.",
+    "case_fact": "the skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift"
+   },
+   {
+    "claim": "Therapist visits solely to train home health aides are not billable, relevant to the D.W. maintenance-program goal.",
+    "passage_id": 285,
+    "quote": "visits made by skilled therapists to a patient's home solely to train other HHA staff (e.g., home health aides) are not billable as visits",
+    "case_fact": "setting up a maintenance program for the home health aides to take over was a goal"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Complications related to the urinary system requiring more frequent skilled care can be covered with documentation.",
+    "passage_id": 256,
+    "quote": "where there are complications that require more frequent skilled care related to the catheter, such care would, with adequate documentation, be covered",
+    "case_fact": "He had a recurrence of urinary tract infection around mid-point during the six-month period at issue."
+   },
+   {
+    "claim": "Routine colostomy care is not skilled, but the beneficiary had a fistula and abscesses, indicating complications beyond routine care.",
+    "passage_id": 231,
+    "quote": "changing the colostomy bag does not become a skilled nursing service when the nurse provides it",
+    "case_fact": "The beneficiary developed a fistula near the colostomy site."
+   }
+  ]
+ },
+ {
+  "case_id": "ny",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Part-time or intermittent limits are 28 hours weekly, up to 35 case-by-case, but eligibility to receive home health at all is not shown.",
+    "passage_id": 341,
+    "quote": "less than 8 hours each day and 28 or fewer hours each week",
+    "case_fact": "whether Medicare covered at least 28 hours and up to 35 hours of the home health services furnished to the beneficiary"
+   },
+   {
+    "claim": "Home health requires being confined to the home and a need for skilled nursing or therapy; case facts say nothing on these.",
+    "passage_id": 177,
+    "quote": "Be confined to the home",
+    "case_fact": "coverage is available for home health aide or skilled nursing services on a part-time basis"
+   }
+  ]
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Placement in a noncertified bed is addressed by the rule that payment is not made when the institution fails to place the patient in the appropriate bed.",
+    "passage_id": 666,
+    "quote": "or for any other reason the institution fails to place the patient in the appropriate bed",
+    "case_fact": "she was placed in a noncertified bed at the appellant’s facility"
+   },
+   {
+    "claim": "The qualifying hospital stay condition appears met, but this does not cure the noncertified bed placement.",
+    "passage_id": 563,
+    "quote": "stay of at least 3 consecutive calendar days",
+    "case_fact": "both following a qualifying hospital stay"
+   }
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "IRF care is covered only if the patient meets specified requirements; the case facts contain no patient-level clinical information.",
+    "passage_id": 72,
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act",
+    "case_fact": "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004."
+   }
+  ]
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "SNF admission on July 27 followed an inpatient acute psychiatric stay beginning July 20, within 30 days of discharge.",
+    "passage_id": 579,
+    "quote": "if initiated within 30 days after discharge from a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services",
+    "case_fact": "On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility, the appellant’s SNF."
+   },
+   {
+    "claim": "Skilled observation and assessment can be covered for patients with psychiatric needs, as here.",
+    "passage_id": 629,
+    "quote": "Skilled observation and assessment may also be required for patients whose primary condition and needs are psychiatric in nature",
+    "case_fact": "the beneficiary was closely monitored by the skilled nurses (multiple times each day)"
+   }
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "IRF coverage depends on meeting regulatory requirements; the case facts do not show all of them were met.",
+    "passage_id": 72,
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act",
+    "case_fact": "Two days later, on July 17, 2003, the beneficiary was transferred and admitted to the appellant’s IRF"
+   },
+   {
+    "claim": "A preadmission screening within 48 hours of IRF admission is required; none is described in the case facts.",
+    "passage_id": 74,
+    "quote": "a preadmission screening is an evaluation of the patient’s condition and need for rehabilitation therapy and medical treatment",
+    "case_fact": "Upon admission, the beneficiary’s functional status was as follows: moderate assistance supine to sit, sit to stand"
+   }
+  ]
+ }
+]

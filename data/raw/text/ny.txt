@@ -1,0 +1,463 @@
+               DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                      DEPARTMENTAL APPEALS BOARD
+
+
+                  ORDER OF MEDICARE APPEALS COUNCIL
+             REMANDING CASES TO ADMINISTRATIVE LAW JUDGE
+          Docket Numbers: M-14-3875, M-14-4055, M-14-5355
+
+
+In the case of                            Claim for
+
+State of New York, Office of
+the Medicaid Inspector                    Hospital Insurance Benefits
+General                                   (Part A)
+(Appellant)
+
+
+****
+(Beneficiaries)                           ****
+                                          (HIC Numbers)
+
+National Government Services,
+Inc.                                      ****
+(Contractor)                              (ALJ Appeal Numbers)
+
+
+The Administrative Law Judge (ALJ) issued eight decisions
+between May 13, 2014, and July 3, 2014, which concerned Medicare
+coverage of home health services furnished on multiple dates of
+service to the eight beneficiaries identified in the attachment
+to this action. 1 In each case, the ALJ determined that the
+physician ordered and the beneficiary received more than 28 (or
+35) hours of home health services. Therefore, the services were
+not intermittent, as required by sections 1814(a)(2)(C),
+1835(a)(2)(A), and 1861(m) of the Social Security Act (Act), and
+were not covered. The ALJ further determined in most cases that
+the provider was liable for the non-covered services pursuant to
+section 1879. The ALJ held beneficiary T.M. liable for the non-
+covered services he received pursuant to an Advance Beneficiary
+Notice (ABN) contained in the record. The appellant, a State
+
+
+1
+  We identify the beneficiaries, when necessary, by their initials to protect
+their privacy. We have enclosed with this action a list of the
+beneficiaries, along with the dates of service at issue. The appellant and
+provider will receive a full list of the beneficiaries. Each beneficiary
+will receive a redacted list that contains only the information pertaining to
+his or her case.
+                                                                   2
+Medicaid agency, has asked the Medicare Appeals Council
+(Council) to review the ALJ’s actions.
+
+The Council reviews the ALJ’s decisions de novo. 42 C.F.R.
+§ 405.1108(a). We admit the appellant’s requests for Council
+review into the record as Exhibit MAC-1 for each respective
+beneficiary. We also admit into the record as Exhibit MAC-2 the
+appellant’s letter to the Council dated November 17, 2015,
+redacted to maintain privacy. The letter included a two-page
+chart referencing 97 cases, each pertaining to a different
+beneficiary. For privacy purposes, though, we have not included
+the chart in Exhibit MAC-2. We note that the claims identified
+in the requests for review now before the Council were listed in
+the chart.
+
+As we discuss below, the Council finds that the ALJ erred in
+concluding that Medicare will not cover any of the home health
+services solely because each beneficiary was ordered and
+received more than 28 (or 35) hours per week of care. Because
+the ALJ did not analyze whether the services furnished were
+reasonable and necessary, we vacate the hearing decisions and
+remand these cases to the ALJ for further proceedings, including
+new decisions. See 42 C.F.R. §§ 405.1032, 405.1108(a),
+405.1128(a).
+
+                           BACKGROUND
+
+In each case, the physician ordered and the provider furnished
+to the beneficiary home health services consisting of skilled
+nursing visits ranging from once every other week to twice every
+week and home health aide visits ranging between five and seven
+days per week, and between four and 24 hours per day. See,
+e.g., Exh. 1 (M.D.) at 15-17; Exh. 1 (Y.L.) at 16-18; Exh. 1
+(R.L.) at 35. The provider submitted demand bills, and the
+contractor denied the claims initially and on redetermination.
+See, e.g., Exh. 1 (R.L.) at 20-28. On reconsideration, the
+Qualified Independent Contractor (QIC) upheld the denials. See,
+e.g., id. at 9-14. The contractor and the QIC both held the
+provider liable for the non-covered charges in each case
+pursuant to section 1879 of the Act. See, e.g., id. at 22, 13-
+14.
+
+The appellant timely appealed each case to the ALJ. See, e.g.,
+Exh. 1 (R.L.) at 1-3. Pursuant to the appellant’s waiver of its
+right to a hearing, the ALJ conducted on-the-record reviews in
+each case, with the exception of the claims involving
+                                                                   3
+beneficiary R.L. See, e.g., Exh. 3 (D.B.). For beneficiary
+R.L., the ALJ scheduled a consolidated hearing, notifying the
+appellant, the various providers, and the QIC that the hearing
+would address the home health services furnished on multiple
+dates of service to the multiple beneficiaries. See, e.g., Exh.
+2 (R.L.).
+
+The ALJ ultimately issued a written decision in each case
+denying coverage for all the home health services. See
+generally ALJ Decisions (Dec.). The ALJ stated that “it must be
+determined if the services provided to the Beneficiary were
+‘intermittent’ as required by Title XVII §§ 1861(m), 1814(a)(2)
+and 1835(a)(2)(A) of the Act, 42 C.F.R. § 409.42, and 42 C.F.R.
+§ 409.45(b)(2)(ii).” See, e.g., Dec. (R.L.) at 8. The ALJ then
+stated that section 1861(m) of the Act defines “part-time or
+intermittent services” as skilled nursing and home health
+services furnished on any number of days per week for (combined)
+less than eight hours each day and 28 hours each week, or, on a
+case-by-case basis, 35 or fewer hours each week. See, e.g., id.
+The ALJ then reasoned that, because each beneficiary was ordered
+and received weekly home health aide and skilled nursing
+services exceeding the 28-hour (or 35-hour) limitation, the
+services were not “intermittent.” See, e.g., id. Therefore, he
+concluded, Medicare did not cover any of the home health
+services furnished to the beneficiaries. See, e.g., id. The
+ALJ, as had the contractor and QIC, held the provider liable for
+the non-covered charges. See, e.g., id. at 9. As noted, for
+the claims concerning beneficiary T.M., the ALJ held T.M. liable
+for the non-covered charges pursuant to an ABN in the record.
+Dec. (T.M.) at 9.
+
+The appellant’s timely requests for Council review followed.
+See, e.g., Exh. MAC-1 (R.L.). Before the Council, the appellant
+argues that the ALJ failed to analyze whether the services
+furnished to each beneficiary were reasonable and necessary and,
+therefore, whether Medicare covered at least 28 hours and up to
+35 hours of the home health services furnished to the
+beneficiary during the dates of service at issue. See, e.g.,
+id. at 3 (reverse). In that regard, the appellant asserts that
+coverage is available for home health aide or skilled nursing
+services on a part-time basis (seven days a week, but fewer than
+eight hours each day) or an intermittent basis (six or fewer
+times a week for as many as 24-hours per day). See, e.g., id.
+at 4 (reverse). Further, if the beneficiary is homebound, in
+need of reasonable and necessary skilled services provided under
+a plan of care certified by a home health agency, home health
+                                                                   4
+services are covered “up to 28 hours or for as many as 35 hours
+where medical justification is shown.” See, e.g., id. In
+addition, the appellant asserts that the ALJ’s use of the term
+“at least” in discussing “the intermittent nature of the
+services” indicates that the ALJ was “[a]ssuming facts not in
+evidence.” See, e.g., id. The appellant ultimately asks that
+the Council reverse and remand these cases based on the ALJ’s
+error in applying the law and his failure to consider the
+evidence in each particular case. See, e.g., id. at 5.
+
+                           DISCUSSION
+
+     Dates of Service at Issue for Beneficiaries M.D. and Y.L.
+     (M-14-3875), Beneficiaries Q.W. and S.W. (M-14-4055), and
+     Beneficiary R.L. (M-14-5355)
+
+In these cases, the provider’s demand bills included services
+furnished prior to October 1, 2010. See, e.g., Exh. 1 (R.L.) at
+26. On review, the contractor excluded from review all of the
+dates of service prior to that date because they were part of
+the Third Party Liability (TPL) Demonstration Project. See,
+e.g., id. at 20-21. In some, though not in all, cases, the QIC
+excluded those dates of service from review as well. See, e.g.,
+id. at 10. The appellant’s requests for hearing sought review
+of all of the dates of service originally identified in the
+demand bills, including the dates prior to October 1, 2010.
+See, e.g., id. at 1. In some cases, the ALJ recognized that
+dates prior to October 1, 2010, had not been included in the
+earlier reviews, though the ALJ did not dismiss the appellant’s
+requests for hearing with respect to those dates. See, e.g.,
+Dec. (R.L.) at 1, 9. In its requests for review, the appellant
+has continued to seek review of the dates of service prior to
+October 1, 2010. See, e.g., Exh. MAC-1 (R.L.) at 1. As we
+explain below, we vacate the ALJ’s decisions and dismiss the
+appellant’s requests for hearing as they pertain to dates of
+service prior to October 1, 2010, because they were not reviewed
+by the QIC in some cases and because the appellant has waived
+its right to review of those claims by participating in the TPL
+demonstration project.
+
+In the Medicare claim appeals process, generally before an
+appellant may seek review of a claim at any particular level,
+the prior level of review must have considered the claim and
+issued a determination. 42 C.F.R. § 405.904(a)(2). In some
+cases, the QIC excluded all dates of service prior to October 1,
+                                                                   5
+2010, from its reviews, and, therefore, those dates of service
+were not properly before the ALJ.
+
+More importantly, under the TPL Demonstration Project, CMS and
+the State of New York agreed to utilize a sampling approach to
+determine Medicare’s share of the cost of home health service
+claims for dually eligible beneficiaries that were originally
+submitted to, and paid for, by the state’s Medicaid agency for
+Fiscal Years 2008-2010. See CMS Active Project Report,
+Demonstration of Home Health Agencies Settlement for Dual
+Eligibles for the State of New York, Project Number 95-W-
+00084/02. This sampling was used in lieu of individually
+gathering Medicare claims from home health agencies for every
+dually eligible Medicaid claim that the state had possibly paid
+in error, thus eliminating the need for the regional home health
+intermediary to review every case. The Active Projects Report
+is available online at: http://www.cms.gov/Research-Statistics-
+Data-and-Systems/Statistics-Trends-and-Reports/ActiveProject
+Reports/index.html (last visited March 7, 2016).
+
+Any appeal of a claim denial under the TPL Demonstration Project
+is committed to arbitration outside of the regular Medicare
+administrative appeals process, promulgated in 42 C.F.R. Part
+405, Subpart I. By participating in the TPL Demonstration
+Project, therefore, the appellant has waived any rights to claim
+review under the aforementioned regulations for services
+provided before October 1, 2010. Despite this waiver, however,
+the appellant has continued to include all the dates of service
+prior to October 1, 2010, in its requests for review.
+
+In sum, the appellant had no right to ALJ review of the dates of
+service that occurred prior to October 1, 2010. Medicare
+regulations provide that when a party has no right to an ALJ
+hearing, an ALJ may dismiss a request for a hearing. The
+Council may similarly dismiss a request for an ALJ hearing for
+any reason that the ALJ could have dismissed the request.
+42 C.F.R. §§ 405.1052(a)(3), 405.1116. Therefore, we vacate the
+ALJ’s decisions with respect to all dates of service prior to
+October 1, 2010, and dismiss the appellant’s requests for
+hearing as they pertain to those dates of service. The
+Council’s dismissal is binding and not subject to judicial
+review. 42 C.F.R. § 405.1116.
+                                                                   6
+     Medicare Eligibility for and Coverage of Home Health
+     Services Beginning on October 1, 2010
+
+Having carefully reviewed the records in these cases, including
+the prior decisions, and having considered the appellant’s
+arguments, we agree with the appellant that the ALJ’s rationale
+for denying coverage is based on an error of law. For the
+reasons we explain below, we vacate the ALJ’s decisions and
+remand these cases for further proceedings.
+
+Medicare Part A covers home health services, which include part-
+time or intermittent skilled nursing services, physical or
+occupational therapy, speech-language pathology, medical social
+services, and home health aide services. Act, §§ 1812(a)(3),
+1861(m); 42 C.F.R. § 409.44. Coverage of medical social
+services and home health aide services depends on the
+beneficiary’s need for intermittent skilled nursing services,
+need for physical therapy or speech language pathology, or
+continuing need for occupational therapy. Act, § 1861(m); 42
+C.F.R. § 409.45.
+
+To qualify for coverage of home health services a beneficiary
+must be: confined to the home; under the care of a physician;
+in need of skilled nursing care on an intermittent basis,
+physical therapy, speech-language pathology, or continuing
+occupational therapy; and under a plan of care. 42 C.F.R.
+§ 409.42(a)-(d). See also Act, §§ 1814(a)(2)(C), 1835(a)(2)(A);
+MBPM, Ch. 7, § 30 (Rev. 1, 10-01-03). In addition, the home
+health services must be furnished by (or under arrangements made
+by) a participating home health agency. Id. at § 409.42(e).
+For purposes of eligibility for coverage of home health
+services, “intermittent” refers to skilled nursing care provided
+or needed on fewer than seven days a week or fewer than eight
+hours a day for a period of 21 days or less, with extensions in
+“exceptional circumstances when the need for additional care is
+finite and predictable.” Act, § 1861(m); MBPM, Ch. 7, § 30.
+
+Once a beneficiary qualifies for coverage of home health
+services, Medicare will cover either part-time or intermittent
+skilled nursing care and home health aide services. Act,
+§ 1861(m)(1),(4); MBPM, Ch. 7, §§ 40, 50.7. In the context of
+Medicare coverage of skilled nursing and home health aide
+services:
+                                                                   7
+     [T]he term “part-time or intermittent services” means
+     skilled nursing and home health aide services
+     furnished any number of days per week as long as they
+     are furnished (combined) less than 8 hours each day
+     and 28 or fewer hours each week (or, subject to review
+     on a case-by-case basis as to the need for care, less
+     than 8 hours a day and 35 or fewer hours per week).
+
+Act, § 1861(m).
+
+This definition of “part-time or intermittent” operates as a
+limit on Medicare coverage of skilled nursing and home health
+aide services. MBPM, Ch. 7, § 50.7. Section 50.7.1 of the
+MBPM, Chapter 7, explains the impact of this coverage limit on
+care that is provided on greater than an “intermittent” or a
+“part-time” basis:
+
+     Home health aide and/or skilled nursing care, in
+     excess of the amounts of care that meet the definition
+     of part-time or intermittent, may be provided to a
+     home care patient or purchased by other payers without
+     bearing on whether the home health aide and skilled
+     nursing care meets the Medicare definitions of
+     part-time or intermittent.
+
+     EXAMPLE: A patient needs skilled nursing care monthly
+     for a catheter change and the home health agency also
+     renders needed daily home health aide services 24
+     hours per day that will be needed for a long and
+     indefinite period of time. The HHA bills Medicare for
+     the skilled nursing and home health aide services
+     which were provided before the 35th hour of service
+     each week, and bills the beneficiary (or another
+     payer) for the remainder of the care. If the
+     intermediary determines that the 35 hours of care are
+     reasonable and necessary, Medicare would cover the 35
+     hours of skilled nursing and home health aide visits.
+
+In these cases, the ALJ erroneously concluded that, because the
+provider furnished more than 28 (or 35) hours of home health
+services weekly for each beneficiary, Medicare would not cover
+any of the home health services. However, as we have discussed,
+qualification for home health services is distinct from coverage
+limits for those services. Once a beneficiary qualifies for
+home health services by virtue of needing intermittent skilled
+nursing care, then skilled nursing and home health aide services
+                                                                   8
+may be furnished to the beneficiary up to the limits of
+coverage, i.e. up to what is considered to be part-time or
+intermittent care as defined in section 1861(m) of the Act. In
+other words, the total amount of Medicare-covered skilled
+nursing care and home health aide services generally cannot
+exceed 28 hours per week, or 35 hours per week on a case-by-case
+basis if there is need for 35 hours of care. See MBPM, Ch. 7,
+§ 50.7. If more than 35 hours of services are furnished per
+week, the additional services may be billed to other payers,
+such as a State Medicaid agency.
+
+In sum, the fact that a beneficiary received home health aide
+services exceeding Medicare’s 35-hour coverage limit is not a
+basis for denying eligibility for services and, consequently,
+for denying coverage up to the limit. Therefore, to determine
+whether the first 35 hours of skilled nursing and home health
+aide services were covered each week, the adjudicator must
+determine whether those services were reasonable and necessary
+and otherwise covered. See Act, § 1862(a)(1)(A).
+
+In its November 17, 2015 letter, the appellant urges that the
+Council issue a favorable decision, citing a previous decision
+in Council Docket Number M-15-1052. Exh. MAC-2. The ALJ in
+that case determined that the home health services furnished to
+the beneficiary were reasonable and necessary. Council Dec. (M-
+15-1052) at 2. However, the ALJ nevertheless denied coverage
+because the beneficiary had received more than 35 hours of
+services weekly. Id. at 2-3. On own motion review, we
+concluded that the ALJ made an error of law in that regard and,
+accordingly, reversed the ALJ’s decision and ordered the
+contractor to calculate the reimbursement due to the provider.
+Id. at 7-8. Because the ALJ had considered the facts of the
+case and the evidence of record and had determined that the
+services furnished to the beneficiary were reasonable and
+necessary, reversing the ALJ’s denial of coverage based solely
+on the number of hours of services was appropriate.
+
+In the cases now before the Council, the ALJ’s sole basis for
+denying coverage was that the beneficiary received daily home
+health aide services in excess of the weekly coverage limits, as
+was the case in M-15-1052. This, as we have explained in
+detail, was erroneous. However, as the appellant has argued,
+the ALJ in the instant cases failed to analyze whether the
+services furnished to the beneficiaries were reasonable and
+necessary, and otherwise covered, based on the evidence of
+record. Therefore, we remand these cases for the ALJ to
+                                                                   9
+consider, based on the evidence of record and arguments
+presented, whether the services furnished to the beneficiaries,
+up to 35 hours weekly, were reasonable and necessary and
+otherwise covered.
+
+On a final note, we do not agree with the appellant that the ALJ
+was “[a]ssuming facts not in evidence” by estimating the number
+of hours of services the beneficiaries received weekly. It is
+not error for the ALJ to use a general term, such as “at least”
+or “usually” to refer to the number of hours actually furnished
+weekly instead of undertaking the task of counting those hours.
+Should services ultimately be paid, the contractor would be
+capable of calculating the number of hours actually furnished.
+Therefore, the ALJ’s use of such terms was not error.
+
+                              ORDER
+
+In accordance with the discussion above, we vacate the ALJ’s
+decisions and dismiss the appellant’s requests for hearing as
+they pertain to all dates of service prior to October 1, 2010.
+
+With respect to the remaining dates of service at issue, as
+identified in the attachment to this action, we vacate the ALJ’s
+decisions and find that the ALJ erred in concluding that
+Medicare will not cover any of the home health services
+furnished to the beneficiaries because the services were not
+part-time or intermittent, as those terms are defined in section
+1861(m) of the Act, and thus exceeded the weekly coverage limit.
+Because the ALJ did not analyze whether any of the home health
+services furnished were reasonable and necessary and otherwise
+covered, we remand this case to the ALJ for further proceedings.
+
+On remand, the ALJ may offer the parties the opportunity for
+hearings, as necessary. Any declination to participate in a
+hearing must be documented, in writing, in the case record.
+The ALJ must provide notice of any scheduled hearing, pursuant
+to 42 C.F.R. sections 405.1020(c) and 405.1022.
+
+With respect to the claim involving beneficiary T.M., both the
+contractor and the QIC had determined that the provider was
+liable for the non-covered charges. The ALJ, though, determined
+that the ABN of record was valid and held the beneficiary liable
+without having afforded her the opportunity to participate in a
+hearing. Therefore, for the claim pertaining to beneficiary
+T.M., the ALJ must offer her the opportunity for a hearing,
+providing notice to all parties, including the beneficiary.
+                                                                  10
+
+The ALJ must make a complete record of these cases, including
+any hearing proceedings and any notices issued to the parties.
+See 42 C.F.R. § 405.1042. We note that the record before us for
+beneficiary Q.W. appears to be missing the Plan of
+Care/physician certifications pertaining to the dates of service
+at issue. See generally Claim File (Q.W.). In addition, for
+beneficiary D.B., the record only contains the first page of the
+Plan of Care/physician certification pertaining to the March
+2011 dates of service. On remand, the appellant will have the
+opportunity to submit additional documentation to the ALJ. We
+note that the regulations at 42 C.F.R. sections 405.1018(c) and
+405.1028 do not require a State Medicaid agency to establish
+good cause when submitting new evidence to the ALJ.
+
+The ALJ must consider the record in this case and, as discussed
+above, analyze whether the home health services furnished to the
+beneficiaries were reasonable and necessary and otherwise
+covered. In addition, the ALJ must consider any other issue
+raised by the contractors below.
+
+The ALJ must then issue a new decision that applies the
+authorities discussed above. If appropriate, the ALJ must also
+determine the financial liability of the parties.
+
+The ALJ may take further action not inconsistent with this
+order.
+
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Clausen J. Krzywicki
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/ Constance B. Tobias, Chair
+                                   Departmental Appeals Board
+
+
+Date: March 17, 2016
+

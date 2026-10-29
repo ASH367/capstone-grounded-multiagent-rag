@@ -1,0 +1,953 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                        Docket Number: M-10-571
+
+
+In the case of                        Claim for
+
+Roman Eagle Memorial Home,            Hospital Insurance Benefits
+Inc.                                  (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+National Government Services,
+Inc.                                  ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+November 24, 2007. The ALJ’s decision concerned skilled nursing
+facility (SNF) services the appellant, Roman Eagle Memorial
+Home(REMH), furnished to the beneficiary, for two periods, from
+September 29, 2003, through November 27, 2003, and from
+December 11, 2003 through January 6, 2004. The ALJ decided that
+Medicare would not pay for the services and that the appellant,
+but not the beneficiary, would be liable for the costs of the
+noncovered services. The appellant has asked the Medicare
+Appeals Council to review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+The Council has considered the record and exceptions set forth
+in the appellant’s request for review, as well as various
+attachments. The appellant’s request for review and attachments
+are entered into the record as Exh. MAC-1. For the reasons set
+forth below, the Council modifies the ALJ’s decision by
+upholding the result, yet altering the reasoning in the
+decision.
+                                                                   2
+In the first part of this decision, we describe the
+circumstances of the beneficiary’s two admissions and stays at
+the appellant’s nursing facility, based on the documentation in
+the record. This description includes details concerning the
+appellant’s efforts to provide the beneficiary with notice about
+her placement in a noncertified bed, the physician
+certifications in the medical record, and the level of care the
+beneficiary received. We also explain how the provider’s appeal
+from a denial of Medicare coverage was handled at the
+redetermination and reconsideration stages, and by the ALJ.
+
+After listing the reasons for the appellant’s request for review
+and the applicable legal standards, we then analyze the case in
+detail and the reasons for our decision, based primarily on
+Section 1879(e) of the Social Security Act (Act) the Medicare
+Claims Processing Manual (MCPM), Pub. 100-4, chapter 30,
+sections 130.3 and 130.4.
+
+                BACKGROUND AND PROCEDURAL HISTORY
+
+The beneficiary was a 53-year-old woman diagnosed with
+metastatic breast cancer. She was admitted to REMH for two
+periods, from September 29, 2003, through November 27, 2003, and
+from December 11, 2003 through January 6, 2004, both following a
+qualifying hospital stay. She died on January 6, 2004 from the
+cancer.
+
+I. First Admission and Stay from September 29, 2003,
+   Through November 27, 2003
+
+On September 29, 2003, the beneficiary was admitted to the
+appellant’s nursing facility, REMH, immediately following her
+discharge from the hospital (Danville Regional Medical Center).
+Exh. 1 at 111. The beneficiary’s medical records indicate that
+she was placed in a noncertified bed at the appellant’s
+facility. At the time she was discharged from the hospital, the
+appellant’s facility did not have a certified bed available.
+
+The beneficiary’s physician requested her admission for the
+noncertified bed because he did not practice at any other area
+facility, and did not think she should change oncologists given
+the advanced stage of her illness. ALJ Hearing, see also Exh. 3
+at 17.
+
+The admission form for appellant REMH was signed by the
+beneficiary’s daughter (who would later become her mother’s
+                                                                   3
+representative) on September 29, 2003. Id. The appellant’s
+social worker, who assisted the beneficiary’s daughter with the
+form, listed “request for family to manage affairs” as the
+reason for the resident’s inability to sign the form. Id. The
+social worker signed the admission form as a witness. Id.
+
+Dan Setliff, the appellant’s administrator, testified at the ALJ
+hearing on November 23, 2009, that the beneficiary’s daughter
+was seventeen at the time of her mother’s initial admission.
+Mr. Setliff also testified that the beneficiary’s daughter
+turned eighteen at some point during the beneficiary’s stay.
+
+     A. Beneficiary Notice and Consent Documents
+
+On September 29, 2003, the appellant sent a letter to the
+beneficiary’s daughter. Exh. 1 at 109. It is unclear whether
+the beneficiary and her daughter had signed a power of attorney
+or similar document at this point, or whether they signed one
+later during her stay. No such document is included in the
+record. It is also unclear when the beneficiary’s daughter
+turned eighteen and was therefore legally able to act as her
+mother’s representative. The appellant’s September 29, 2003
+letter, addressed to the daughter, states:
+
+     On 9-29-03 we reviewed the medical information
+     available at the time of admission. [The beneficiary]
+     may receive services which may be covered under
+     Medicare. The patient must be in the Skilled Care
+     section of the nursing home to receive Medicare
+     benefits. At the time of admission, our vacancy was
+     in the Intermediate Care section of the nursing home,
+     which you agreed to accept. Therefore, the services
+     here cannot be covered under Medicare.
+
+     [The letter also included information about the 30-day
+     grace period and the beneficiary’s potential to
+     transfer within that time to a Skilled-section bed,
+     depending on the availability of a vacancy, to use her
+     Medicare benefits.]
+
+Exh. 1 at 109.
+
+With the September 29, 2003 letter, the appellant also enclosed
+a “Notice of Medicare Ineligibility” that stated:
+                                                                             4
+      The patient/responsible party was notified of non-
+      coverage of services verbally by the Social Worker on
+      9-29-03.
+
+      The patient/responsible party was notified of non-
+      coverage of services in writing on _______. [M]ailed
+      to [beneficiary’s daughter] 9-30-03[.] [initialed by
+      appellant’s business manager.]”
+
+            [BLANK}
+            SIGNATURE OF PATIENT OR RESPONSIBLE PARTY
+
+Exh. 1 at 110. Neither the beneficiary nor her daughter ever
+signed this form.
+
+      B. Physician Certification and Level of Care Evidence
+
+The physician and other staff members at the nursing facility
+developed a series of orders and plans for the beneficiary’s
+care, and many of these are included in the record. They
+provide information about whether the beneficiary’s two nursing
+facility stays were certified, and what level of care she
+received. The first set of Physician Telephone Orders are dated
+September 29, 2003, are signed by beneficiary’s physician, and
+give the physician’s orders for medication, and approval of a
+care plan. Exh. 1 at 2-4. 1
+
+The beneficiary’s “Plan of Treatment for Outpatient
+Rehabilitation” lists certification for the period of “9/29/03
+through 10/29/03;” however, the signature of the authorizing
+physician and the date (“12/----“) are largely illegible. Exh.
+1 at 5. Further, this document orders physical therapy three
+times a week for four weeks, but not daily. Exh. 1 at 5.
+
+The beneficiary’s physician completed a “Medical History and
+Admission Evaluation” form on September 30, 2003. Exh. 1 at
+112. Among other things, the physician checked “None” under the
+“Rehabilitation Potential” classification; and he checked
+“Nursing Facility,” not “Medicare Skilled,” under the “Level of
+Care Required” section. Id.
+
+
+1
+  The Initial Care Plan contains instructions for the period from September 29
+to October 20, 2003. Exh. 1 at 16. The first Comprehensive Care Plan,
+developed by a multi-disciplinary team, is dated October 21, 2003. It has
+typed long term goals and actions specified on October 21, 2003, and
+handwritten revisions for November and December 2003. Exh. 1 at 17-24.
+                                                                   5
+On October 1, 2003, the appellant prepared a form document,
+entitled “Physician’s Orders,” which was signed by a physician
+on October 14, 2003, and included a “Certification/
+Recertification” section. Exh. 1 at 50-51. The physician’s
+signature is illegible. The form states that “This Patient
+Requires [an] Intermediate Level of Nursing Care.” Id.
+
+Further “Physician Telephone Orders” for October 2003 are
+included in the record as well. Exh. 1 at 53-55. These
+indicate that the beneficiary’s physician clarified an
+October 2, 2003 order, stating “SRP [specialized restorative
+program] 6x week for A [ambulation] [with] transfers and
+amb[ulation] [with] FWW [front wheel walker] . . ..” on October
+7, 2003. Exh. 1 at 53; see also Exh. 1 at 86 (reverse) (REMH
+Nursing Summary indicating this was provided to the beneficiary
+pursuant to the physician’s orders). Again, the physician did
+not order any daily services, other than administration of oral
+medication and a Duragesic patch. Id.
+
+Finally, on the October 12, 2003, “Basic Assessment Tracking
+Form – Rehabilitation Services” section, the nurse checked “Yes”
+to the category of “Ambulation/Transfer skills” under
+“Restorative Nursing: (Dr.’s order required).” Exh. 1 at 86
+(reverse). The forms also contain evidence that the beneficiary
+continued to receive the patch and oral medications for pain.
+Id. at 85-89.
+
+Then, on November 27, 2003, the beneficiary was re-admitted to
+Danville Regional Medical Center for “severe right side pain.”
+Exh. 1 at 89. She remained in the hospital until December 11,
+2003. Id. at 90.
+
+II. Readmission and Second Stay from December 11, 2003,
+    Through January 6, 2004
+
+On December 11, 2003, the beneficiary was readmitted to
+appellant’s nursing facility after her hospital stay. Exh. 1 at
+90. The appellant’s assessment forms from December 11, 2003
+indicate the beneficiary was “totally dependent” in multiple
+assessment categories.
+
+     A. Beneficiary Notice and Consent Documents
+
+There are no notice and consent documents from the beneficiary’s
+December 11, 2003 re-admission to appellant REMH.
+                                                                              6
+      B. Physician Certification and Level of Care Evidence
+
+The appellant filled out a second “Physician’s Orders” form
+which a physician appears to have signed on December 12, 2003.
+Exh. 1 at 62-64. 2 The form includes a “Certification/
+Recertification” section, and the word “Intermediate” is typed
+in under “This Patient Requires ________ Level of Nursing Care.”
+Id. The form also lists orders for “[p]articipation in a
+specialized restorative program 6x week for (A) with transfer
+and ambulation,” as well as qualifying skilled-level procedures,
+such as intravenous administration of medication. Id.
+
+Physician’s Telephone Orders requiring intravenous and
+intramuscular medication for pain and morphine via a portacath
+are also included for the second admission. Exh. 1 at 67-70.
+These orders were signed by the beneficiary’s treating
+physician.
+
+The beneficiary’s medical services ended on January 6, 2004,
+when, as noted above, she died as a result of metastatic cancer.
+
+III. Procedural History
+
+The appellant initially believed that Medicaid would pay for the
+beneficiary’s care. Exh. MAC-1. It did not submit Medicare
+claims until the second half of 2008. Exh. 2 at 1-2. The
+claims were initially denied “because the notice mailed to the
+patient’s representative did not comply with requirements.”
+Exh. 3 at 21. The appellant was held liable under section 1879
+of the Act.
+
+      A. Redetermination
+
+On January 22, 2009, the CMS contractor issued an unfavorable
+redetermination for the services rendered to the beneficiary
+during both of her SNF stays. Exh. 3 at 21-23. Relying on the
+Medicare Claims Processing Manual (Pub. 100-4), Ch. 30, §§
+130.3-130.4, the contractor found that the “notice” letter
+mailed to the beneficiary’s daughter to explain the services in
+a noncertified bed was invalid. Id. The contractor also held
+the provider liable for the noncovered costs, and waived the
+beneficiary’s liability based on Section 1879 of the Social
+Security Act. Id.
+
+2
+  The first two of the physician signatures are dated 12/12/2003; the third
+signature appears to be dated 12/12/07.
+                                                                                7
+      B. QIC Reconsideration
+
+On June 30, 2009, the Qualified Independent Contractor (QIC)
+issued an unfavorable reconsideration. Exh. 3 at 3-10. The QIC
+found that the requisite physician certifications were missing
+from the medical records. Therefore, the QIC explained, under
+the Medicare General Information, Eligibility, and Entitlement
+Manual (Pub. 100-1), Ch. 4, §§ 40-40.4.6, the services cannot be
+covered. Exh. 3 at 4-5. Further, the QIC found that in giving
+the Advance Beneficiary Notice (ABN), appellant did not verify
+that the addressee met the requirements for a qualified
+representative, and also that confirmation of delivery of the
+notice was defective because it was not signed by the recipient,
+the beneficiary’s daughter. Id. at 5-6. Therefore, the notice
+was defective. The QIC concluded that under Section 1879 of the
+Social Security Act, the beneficiary could not be liable and the
+provider is liable for the noncovered services. Id. at 6-7.
+
+      C. ALJ Decision
+
+On November 24, 2009, the ALJ made an unfavorable decision on
+the appellant’s claim. Dec. at 1-7. The ALJ incorrectly stated
+“[the] Contractor determined that post-hospital extended care
+services were reasonable and necessary to treat Beneficiary’s
+condition.” 3 The ALJ also determined that the appellant could
+not obtain relief under the provisions of Section 1879(e) of the
+Social Security Act because the appellant’s placement of the
+beneficiary in a noncertified bed was not “unintentional,
+inadvertent, or erroneous.” Id. at 5. With respect to the
+issue of liability, the ALJ found that notice to the beneficiary
+was invalid, thus waiving the beneficiary’s liability under
+1879(b), and concluded that the appellant was liable for the
+noncovered services. Id. at 6-7.
+
+
+
+
+3
+   The ALJ also incorrectly stated, “[b]oth the QIC and Contractor determined
+that Beneficiary required skilled services.” Dec. at 5. In fact, the QIC
+specifically referred to the fact that the beneficiary had received non-
+skilled nursing services. Exh. 3 at 4. The QIC found that “the provider
+failed to submit the required documentation to support that the SNF services
+from [9/29/03-1/6/04] met Medicare coverage criteria.” Id. at 5. The
+contractor’s redetermination found the notice provided to the beneficiary was
+invalid; it did not address whether the beneficiary received daily skilled
+care. Id. at 21-23.
+                                                                             8
+                         APPELLANT’S CONTENTIONS
+
+The appellant contends that:
+
+    a) It should have relief from liability under Section 1879(e)
+       of the Social Security Act because the placement in a
+       noncertified bed was made in good faith.
+
+    b) The beneficiary’s representative received valid notice.
+
+    c) It was determined that the beneficiary did “require and
+       receive skilled nursing services,” citing Dec. at 5. 4
+
+                              LEGAL STANDARDS
+
+The limitation on liability provisions in sections 1879(a) and
+(b) of the Act are not applicable here because the claims were
+not denied under the medically reasonable and necessary or
+custodial care provisions of sections 1862 (a)(1)(A) or (a)(9)
+of the Act. Instead, section 1879(e) applies. This section
+permits waiver of beneficiary or provider liability, stating, in
+relevant part:
+
+      e) Where payment for inpatient hospital services or
+      extended care services may not be made under part A of
+      this title on behalf of an individual entitled to
+      benefits under such part solely because of an
+      unintentional, inadvertent, or erroneous action with
+      respect to the transfer of such individual from a
+      hospital or skilled nursing facility that meets the
+      requirements of section 1861(e) . . . or on the basis
+      of a clearly erroneous administrative decision by a
+      provider of services, the Secretary shall take such
+      action with respect to the payment of such benefits as
+      he determines may be necessary to correct the effects
+      of such unintentional, inadvertent, or erroneous
+      action.
+
+Sec. 1879(e); 42 U.S.C. 1395pp.
+
+The MCPM provides guidance on applying this provision in SNF
+claims. In particular, in chapter 30 (Financial Liability
+Protections), sections 30, 40, 130.3, and 130.4, outline when
+4
+   However, as explained in the foregoing footnote, neither the contractor nor
+the QIC had determined that the beneficiary required and received skilled
+services.
+                                                                  9
+liability may be waived for both the beneficiary and provider,
+as well as the governing criteria. Sections 30 and 40 are
+generally informative insofar as the requirements for knowledge
+and valid notice where limitation on liability may be
+applicable, and sections 130.3 and 130.4 address the
+circumstances raised herein, that is “Application of Limitation
+on Liability to SNF and Hospital Claims for Services Furnished
+in Noncertified or Inappropriately Certified Beds,” and
+“Determining Liability for Services Furnished in a Noncertified
+SNF or Hospital Bed,” respectively.
+
+In summary, liability should be assessed according to a
+sequential evaluation process:
+
+     Payment for SNF and hospital claims may not be denied
+     solely on the basis of a beneficiary’s placement in a
+     noncertified bed of a participating SNF or hospital.
+     When requested by the beneficiary or his/her
+     authorized representative, a provider must submit a
+     claim to the FI [fiscal intermediary] for services
+     rendered in a noncertified bed. When the FI reviews a
+     claim for services rendered in a noncertified bed, it
+     first determines whether the beneficiary consented to
+     the placement. (See subsection C.) If the FI finds
+     that the beneficiary consented, it denies the claim.
+     If it finds that the beneficiary did not consent, it
+     determines whether there are any other reasons for
+     denying the claim. (See subsection D.) If there is
+     another reason for denying the claim, the FI denies
+     it. However, if none of the reasons for denial exist,
+     beneficiary liability must be waived as provided under
+     § 1879(e) of the Act and a further determination must
+     be made as to whether the provider, rather than the
+     Medicare program, must accept liability for the
+     services in question . . ..
+
+MCPM, Ch. 30, § 130.3.A (emphasis added).
+
+Finally, the physician certification requirements of Section
+1814(a)(2) of the Social Security Act, state, in relevant part:
+
+     Sec. 1814. [42 U.S.C. 1395f] (a) Except as provided in
+     subsections (d) and (g) and in section 1876, payment
+     for services furnished an individual may be made only
+     to providers of services which are eligible therefore
+     under section 1866 and only if—
+                                                               10
+     *                   *                     *
+
+     (2) a physician, or, in the case of services described
+     in subparagraph (B), a physician, or a nurse
+     practitioner or clinical nurse specialist who does not
+     have a direct or indirect employment relationship with
+     the facility but is working in collaboration with a
+     physician, certifies (and recertifies, where such
+     services are furnished over a period of time, in such
+     cases, with such frequency, and accompanied by such
+     supporting material, appropriate to the case involved,
+     as may be provided by regulations, except that the
+     first of such recertifications shall be required in
+     each case of inpatient hospital services not later
+     than the 20th day of such period) that—
+
+         *               *                     *
+
+     (B) in the case of post-hospital extended care
+     services, such services are or were required to be
+     given because the individual needs or needed on a
+     daily basis skilled nursing care (provided directly by
+     or requiring the supervision of skilled nursing
+     personnel) or other skilled rehabilitation services,
+     which as a practical matter can only be provided in a
+     skilled nursing facility on an inpatient basis, for
+     any of the conditions with respect to which he was
+     receiving inpatient hospital services; . . ..
+
+The regulation at 42 C.F.R. § 424.20 implementing this statutory
+requirement states in relevant part:
+
+     Requirements for posthospital SNF care.
+
+     Medicare Part A pays for posthospital SNF care
+     furnished by an SNF, or a hospital or CAH with a
+     swing-bed approval, only if the certification and
+     recertification for services are consistent with the
+     content of paragraph (a) or (c) of this section, as
+     appropriate.
+      (a) Content of certification--(1) General
+     requirements. Posthospital SNF care is or was required
+     because--
+      (i) The individual needs or needed on a daily basis
+     skilled nursing care (furnished directly by or
+     requiring the supervision of skilled nursing
+                                                                  11
+     personnel) or other skilled rehabilitation services
+     that, as a practical matter, can only be provided in
+     an SNF or a swing-bed hospital on an inpatient basis,
+     and the SNF care is or was needed for a condition for
+     which the individual received inpatient care in a
+     participating hospital or a qualified hospital, as
+     defined in § 409.3 of this chapter;
+
+     *                   *                   *
+      (b) Timing of certification.--(1) General rule. The
+     certification must be obtained at the time of
+     admission or as soon thereafter as is reasonable and
+     practicable.
+
+     *                   *                   *
+      (c) Content of recertifications. (1) The reasons for
+     the continued need for posthospital SNF care;
+      (2) The estimated time the individual will need to
+     remain in the SNF;
+
+     *                   *                   *
+      (d) Timing of recertifications. (1) The first
+     recertification is required no later than the 14th day
+     of posthospital SNF care.
+      (2) Subsequent recertifications are required at least
+     every 30 days after the first recertification.
+      (e) Signature. Certification and recertification
+     statements may be signed by--
+      (1) The physician responsible for the case or, with
+     his or her authorization, by a physician on the SNF
+     staff or a physician who is available in case of an
+     emergency and has knowledge of the case; . . ..
+
+                           DISCUSSION
+
+At issue in this case is the Medicare coverage of services, and
+liability for payment for services, rendered to a beneficiary
+placed in a noncertified SNF bed. The MCPM provides
+instructions for determining the instances where liability for
+noncovered services in noncertified beds shifts between the
+beneficiary, the provider, and the Medicare Program. See MCPM,
+Ch. 30, §§ 130.3 and 130.4.
+
+In summary, the analysis of a SNF’s request for a limitation of
+liability for services furnished to a beneficiary in a
+noncertified bed begins with issue of notice to, and consent by,
+                                                                               12
+the beneficiary. MCPM, Ch. 30, § 130.3.A., B., and C. If there
+is evidence to show that the SNF provided valid notice and
+received valid consent from the beneficiary for placement in the
+noncertified bed, liability may rest with the beneficiary.
+Because here the record does not indicate the beneficiary
+received valid notice or provided valid consent, liability will
+rest with the provider or the Program.
+
+After determining whether or not the beneficiary consented, the
+Manual provision asks if there are other reasons for denial of
+the claim. MCPM, Ch. 30, § 130.3.D. In this case, Medicare
+coverage of services would be denied if there is insufficient
+evidence that the beneficiary required or received skilled-level
+care, or insufficient documentation of physician certification
+for skilled care. 5
+
+Where the reasons enumerated in section 130.3.D of Chapter 30
+for denial of the claim do not exist, then the Council makes a
+liability determination pursuant to section 130.4. Beneficiary
+liability is examined first, and waived if the beneficiary did
+not consent to placement in the noncertified bed and there is no
+other reason for denial. Id. at § 130.4.A.
+
+If the beneficiary’s liability is waived and there are no other
+reasons for denying the claim, liability rests with the Medicare
+Program unless the provider did not provide timely, written
+notice to the beneficiary, did not attempt to obtain valid
+consent from the beneficiary, or did not have a reasonable basis
+for placement in a noncertified bed. See § 1879(e) of the Act;
+see also MCPM, Ch. 30, § 130.4.B.
+
+I. Limitation on Liability - Premised on Notice and Consent
+
+      A. Did the appellant satisfy the notice requirement?
+
+When the appellant provider placed the beneficiary in a
+noncertified bed, it was required to “notify the patient (or
+authorized representative) in writing that services in a
+noncertified or inappropriately certified bed are not covered.”
+MCPM, Ch. 30, § 130.3.B. In particular, such written notice is
+evaluated under the requirements of the MCPM, chapter 30,
+section 70 (citing section 40).
+
+5
+  The other possible reasons for denial given in the MCPM are not applicable
+here (e.g., “the benefits are exhausted”). Therefore the Council need only
+consider the issues of the level of care required and received and physician
+certification in the record.
+                                                                            13
+The SNF letter to the beneficiary should explain that the
+beneficiary is being placed in a noncertified bed, the reason
+for such placement, that such placement is not covered by
+Medicare, and that the beneficiary “may request us to file a
+claim for Medicare benefits.” MCPM, Ch. 30, § 130.3.B. The
+letter included every component of valid notice required by
+Section 130.3.B, except that it failed to mention that the
+beneficiary could ask the SNF to submit the claim to Medicare.
+Exh. 1 at 109. There is no other evidence in the record to
+suggest that the SNF sent a subsequent, qualifying notice to the
+beneficiary or her daughter. 6
+
+In addition, the beneficiary’s daughter was not old enough to
+serve as the beneficiary’s representative at the time that the
+September 29, 2003 notice letter was sent and the social worker
+talked with her about her mother’s placement. The appellant’s
+administrator testified that she was only seventeen at that
+time. ALJ Hearing. See MCPM, Chapter 30, Section 40.3.5 (adult
+children may serve as authorized representatives); see also
+Virginia Revised Code § 31-37 (defining eighteen as the age of
+majority). Therefore, the notice is invalid.
+
+     B. Did the beneficiary consent to placement
+        in a noncertified bed?___________________
+
+The Manual provides guidance on “Determining Beneficiary
+Consent.” MCPM, Ch. 30, § 130.3.C. According to the Manual,
+Medicare “presumes that the beneficiary did not consent to being
+placed in a noncertified bed.” Id. The provider must
+demonstrate that it obtained valid consent with a signed ABN.
+Id. This consent form will be analyzed for validity by the
+fiscal intermediary. Id.
+
+Because the record does not contain a signed ABN (or any other
+type of consent form or document), the Council finds that the
+beneficiary or a responsible party did not give valid consent to
+
+6
+   The record does include an affidavit from the appellant’s social worker
+attesting to oral discussion with the beneficiary’s daughter about the
+beneficiary’s placement in a noncertified bed. Exh. 3 at 19. The social
+worker’s affidavit states that the “[beneficiary’s daughter] elected to forgo
+Medicare benefits and be admitted to a noncertified bed. Subsequent to this,
+both [the beneficiary] and her daughter indicated they were very satisfied
+with the nursing unit which she was on and did not want to move to our
+skilled unit.” Id. The Manual is clear, however, that written notice is
+required to ensure that the beneficiary or responsible party understands the
+financial implications of placement in a noncertified bed. See MCPM, Ch. 30,
+§§ 40, 70 and 130.3.
+                                                                  14
+placement in the noncertified bed. Therefore, the beneficiary
+is not liable for the noncovered services. MCPM, Ch. 30, §
+130.4.A.
+
+II. Requirements for SNF-Level Care and Physician Certification
+
+Since the beneficiary is not liable, the Council examines
+whether a denial of Medicare coverage is appropriate for any of
+the five reasons enumerated in the MCPM, Chapter 30, Section
+130.3.D.
+
+The Manual provides, in relevant part, that:
+
+          Denials still are appropriate for any of the
+          following reasons . . .:
+
+               The patient did not receive or
+                require otherwise covered hospital
+                services or a covered level of SNF
+                care;
+
+               The benefits are exhausted;
+
+                The physician’s certification
+                requirement is not met;
+
+               There was no qualifying          3-day
+                hospital stay . . .; or
+
+               Transfer from the hospital to the
+                SNF was not made on a timely basis
+                . . ..
+
+MCPM, Ch. 30, § 130.3.D.
+
+The two criteria relevant to this case are 1) whether the
+beneficiary received or required SNF-level care, and 2) the
+existence of proper physician certifications for such care.
+The other three reasons for denial are not present.
+
+     A. The Beneficiary’s First Admission and Stay
+
+The criteria provided by the Act in sections 1814(a)(2) and
+(a)(2)(B) are implemented by regulations at 42 C.F.R. § 424.20.
+In order for Medicare to cover the services, the beneficiary
+                                                                              15
+must have needed and received SNF-level care and the record must
+include valid physician certifications for each SNF stay.
+
+In this case, the physician ordered “Nursing Facility
+Care,” not “Medicare Skilled care” under the “Level of Care
+Required” section on the beneficiary’s initial Medical History
+and Admission Evaluation form. Exh. 1 at 112. This form
+suggests that the beneficiary did not need daily, skilled care.
+Id. Shortly thereafter, the beneficiary’s physician ordered
+physical therapy three times per week for four weeks, which does
+not constitute covered skilled care because it was not daily.
+Exh. 1 at 5, 16. The restorative nursing program (SRP) for
+assisted ambulation and transfer is not a skilled level of care,
+pursuant to 42 C.F.R. § 409.33(d)(13). Exh. 1 at 53, 57, 59,
+77, 86, 88.
+
+Finally, the Physician’s Telephone Orders and Physician’s
+Orders, which were followed, include only orders for the
+administration of oral medications and the Duragesic patch, not
+medications administered intravenously or by intramuscular
+injection (as prescribed in December 2003) that fall within SNF-
+level care. E.g., Exh. 1 at 2-4, 50-61. 7 The corresponding
+nurse’s notes do not indicate that the beneficiary received any
+more than the ordered level of care, which was not skilled.
+Exh. 1 at 25-32. Therefore, Medicare coverage of the claim for
+the first stay must be denied because the beneficiary did not
+receive or require skilled care.
+
+As to the requirement for physician certification, valid
+certification must demonstrate, first, that posthospital SNF
+care was required because the beneficiary “needs or needed on a
+daily basis skilled nursing care . . . or other skilled
+rehabilitation services that, as a practical matter, can only be
+provided [as an inpatient at a SNF and that SNF-level care is
+for the same condition the individual received treatment for at
+the hospital].” 42 C.F.R. § 424.20(a)(1)(i). As explained
+above, the medical records and other documentation indicate that
+the physician ordered and certified only an intermediate level
+of unskilled nursing facility care, and not daily SNF-level care
+during the first SNF stay.
+
+Accordingly, the Council concludes that there is no evidence to
+demonstrate the beneficiary received or required skilled, SNF-
+level care, and that there is no valid physician certification
+7
+   One exception to this was intravenous chemotherapy, on October 16, 2003.
+See Exh. 1 at 27-28, 73.
+                                                                 16
+in the record, for the beneficiary’s stay from September 29,
+2003, through November 27, 2003. Therefore, as to the first
+stay, Medicare coverage is denied and liability rests with the
+provider. MCPM, Ch. 30, §130.3.D.
+
+     B. The Beneficiary’s Readmission and Second Stay
+
+As to the beneficiary’s second nursing facility stay, the
+Council has examined the documentation and medical records to
+determine if the beneficiary required and received skilled care,
+and whether valid certification exists (without requiring a
+discrete, specific physician certification form). See 42 C.F.R.
+§§ 424.20, 424.11(b).
+
+There is evidence in the record to support the contention that
+the beneficiary required and received SNF-level care during her
+stay from December 11, 2003 through January 6, 2004. The
+physician’s orders are signed by her attending and treating
+physicians in compliance with the requirements of 42 C.F.R.
+§ 424.20(e)(1). Exh. 1 at 56, 62-71. The physician’s orders
+and notes for the second stay include the regular, daily
+administration of medications intravenously and by intramuscular
+injections, as well as other skilled-level procedures. Exh. 1
+at 62-71. Therefore, the beneficiary required and received
+skilled care.
+
+Next, the Council has examined whether the record contains valid
+certification for the beneficiary’s second stay. The Manual
+highlights that 42 C.F.R. § 424.20 provides the content
+requirements for certification and § 424.11 provides that “[t]he
+certification and re-certifications statements may be entered on
+forms, notes, or records that the appropriate individual signs .
+. ..” See also Medicare Program Integrity Manual (Pub. 100-8),
+Ch. 6, § 6.3, “Medical Review of Certification and
+Recertification of Residents in SNFs.” Because the orders and
+notes mentioned above contain signatures and descriptions of
+skilled-level care, the first two requirements for valid
+certification are met.
+
+The re-admission physician’s orders and plans are dated and
+signed from December 11, 2003 through January 6, 2003 for
+skilled-level services. Id. Therefore the requirements that
+the initial certification be the date of admission, and
+                                                                           17
+recertification be within fourteen days of the initial admission
+are satisfied. 8 See 42 C.F.R. § 424.20(b)(1) and (d)(1).
+
+Given the evidence in the record, the Council finds that the
+beneficiary required and received SNF-level care during her
+second nursing facility stay, and that there is valid
+certification for the second admission and stay. Therefore, a
+denial of coverage for the second stay is not appropriate for
+any of the five reasons enumerated in Section 130.3.D. of the
+MCPM (Chapter 30). Next, the Council considers whether
+liability for the second stay rests with the provider or the
+Medicare Program. Id.
+
+III. Liability Determination for the Beneficiary’s SNF Stay
+     From December 11, 2003, Through January 6, 2004________
+
+Subsection A of Section 130.4 (MCPM, Ch. 30) reiterates that if
+the beneficiary did not consent to placement in the noncertified
+bed, and no other reason for denial of the claim exists, the
+beneficiary is found not liable under Section 1879 of the Act.
+Based on the foregoing analysis, the beneficiary is not liable
+under Section 1879(e) of the Social Security Act.
+
+Next, the Council determines whether the provider or the
+Medicare program is to be found liable. This depends on whether
+any of the following three conditions exist. The Manual at
+Chapter 30, subsection 130.4.B. provides guidance for
+determining liability once the beneficiary’s liability is
+waived. This subsection states:
+
+     Liability rests with the Medicare program, unless any
+     of the following conditions exist, in which case the
+     provider is liable for the services.
+
+     -- The provider did not give timely written notice to
+     the beneficiary of the implications of receiving care
+     in a noncertified or inappropriately certified bed as
+     discussed in §130.3.B;
+
+     -- The provider failed to provide the beneficiary with
+     an appropriate ABN and/or did not attempt to obtain a
+8
+  Because the beneficiary passed away within thirty days of the second
+admission, no further recertification pursuant to 42 C.F.R. § 424.20(d)(2) is
+necessary.
+                                                                           18
+     valid consent statement from the beneficiary. (See
+     §130.3.C.); or
+
+     -- The FI determined from medical records in its
+     claims files that it is clear that the beneficiary
+     required and received services equivalent to a covered
+     level of SNF care, or that constituted covered
+     hospital services, and the provider had no reasonable
+     basis for placing the beneficiary in a noncertified
+     bed. [Examples omitted.]
+
+MCPM, Ch. 30, § 130.4.B. (emphasis added).
+
+The appellant provider is liable under the first two conditions,
+based on a reasonable reading of the record. First, the notice
+is invalid, for these reasons:
+
+     a) The appellant made no effort to provide notice or obtain
+     consent about the noncertified bed at the time of the re-
+     admission or during the second stay;
+
+     b) As explained in the analysis above, the September 29,
+     2003 letter lacks the element informing the beneficiary
+     that she may ask the SNF to submit the claim to
+     Medicare; and
+
+     c) As also explained above, the letter was sent to a minor,
+     who was not capable of being a legal representative for the
+     beneficiary.
+
+Second, subsection 130.4.B. requires the provider to give the
+beneficiary a valid ABN “and/or” follow up to obtain a valid
+consent statement. While the initial admission occurred when
+the beneficiary was seriously ill, and when her daughter was a
+minor, there is no evidence in the record to suggest that the
+appellant made any other efforts beyond the initial “Notice of
+Ineligibility” letter to obtain consent or more fully notify the
+beneficiary of the implications of placement in a noncertified
+bed. See Exh. 1 at 109-110. 9
+
+9
+  The Council is not denying a waiver of provider liability simply because a
+signed consent form is not in the record. The Manual does relieve the
+provider of liability if the beneficiary refused to sign the consent form.
+MCPM, Ch. 30, §130.3.C (citing § 40.3.4.6). However, in this case there is a
+complete absence of any evidence demonstrating an attempt beyond the initial
+notice to obtain valid written informed consent from the beneficiary or
+responsible party, or that either refused to sign the ABN.
+                                                                  19
+In the request for review, the appellant relies heavily on the
+conversations between the social worker and the beneficiary and
+the beneficiary’s daughter. Exh. MAC-1 at 1-2, and 4. However,
+Medicare specifically requires a writing to constitute valid
+notice and a valid attempt to obtain consent. Appellant
+introduces no evidence that it attempted to gain written consent
+from the beneficiary or her daughter during any of these
+conversations or the daughter’s visits to the facility, beyond
+the initial mailed ABN and “Notice of Ineligibility,” which was
+never returned --– signed or unsigned. Exh. 1 at 109-110.
+
+The appellant also did not obtain valid consent from the
+daughter at any point during the beneficiary’s second stay.
+Although it appears that the beneficiary and her daughter
+requested placement in the same, noncertified bed upon re-
+admission, and it appears there was some reliance on and belief
+by the beneficiary, her daughter, and the SNF about a pending
+Medicaid application, the lack of documentation regarding any
+further attempt by the appellant to gain the beneficiary’s
+consent means that under the second provision of Section 130.4.B
+(MCPM), liability shifts to the provider from Medicare. The
+appellant’s mistaken belief that Medicaid would pay for the
+admission does not make Medicare liable for non-covered
+services.
+
+The Council finds that the mailing of one notice at the initial
+admission, when the daughter was a minor, and the failure to
+attempt to obtain valid consent with valid notice at the second
+admission, waives Medicare’s liability. MCPM, Ch. 30,
+§ 130.4.B. Because two of the conditions for provider liability
+specified in § 130.4.B. exist (failure to provide valid written
+notice and failure to obtain valid consent), the provider, not
+Medicare, is liable for the noncovered services during the
+second stay, under Section 1879.
+
+The appellant contends that the third condition does not exist
+because it had a good-faith, reasonable basis for placing the
+beneficiary in a noncertified bed. The appellant contends that
+it wanted to place the beneficiary in a certified bed, however,
+it did not have one available. Exh. MAC-1 at 1. Further, the
+beneficiary’s doctor did not practice at another SNF in that
+geographical area, and determined that it would be unreasonable
+for the beneficiary to change oncologists at this stage in her
+illness. Exh. MAC-1 at 3. Whether or not this is a reasonable
+basis for the beneficiary’s placement in a noncertified bed is
+moot, given that the appellant is otherwise liable.
+                                                               20
+                            DECISION
+
+The Medicare Appeals Council concurs with the ALJ’s decision
+that the SNF services at issue were not covered, that the
+beneficiary is not liable for the noncovered charges, and that
+the appellant provider is liable. However, the Council modifies
+the ALJ’s decision by altering the reasons in support of the
+decision as explained above and summarized below.
+
+It is the decision of the Medicare Appeals Council that the SNF
+services at issue were provided in a noncertified bed without
+the valid consent of the beneficiary. Therefore, the
+beneficiary’s liability is waived under Section 1879(e) of the
+Social Security Act. The Council concurs with the ALJ’s
+decision that notice to the beneficiary’s daughter was defective
+under the statutory requirements, and that the provider failed
+to gain the consent of the beneficiary.
+
+The appellant correctly points out that the beneficiary required
+and received skilled care; however, the Council finds that this
+only applies to the period from December 11, 2003 through
+January 6, 2004. Therefore, Medicare coverage for the period
+from September 29 through November 27, 2003 is denied because
+the beneficiary did not receive skilled care and her physician
+did not certify her need for a skilled level of care.
+Accordingly, for those dates of services (her first stay)
+liability rests with the provider.
+
+During the second stay, from December 11, 2003, through
+January 6, 2004, the beneficiary received skilled care and her
+physician certified her need for skilled-level care. However,
+the Council finds that the appellant cannot obtain relief from
+liability under Section 1879(e) of the Act because the appellant
+failed to provide the beneficiary with valid notice, and failed
+to demonstrate any attempt to obtain valid consent from the
+                                                                 21
+beneficiary for the second stay. Therefore, the appellant,
+not Medicare, is liable for the noncovered charges for the
+second nursing facility stay.
+
+
+                                  MEDICARE APPEALS COUNCIL
+
+
+
+                                  /s/ Clausen Krzywicki
+                                  Administrative Appeals Judge
+
+
+
+                                  /s/ M. Susan Wiley
+                                  Administrative Appeals Judge
+
+Date: June 10, 2010
+

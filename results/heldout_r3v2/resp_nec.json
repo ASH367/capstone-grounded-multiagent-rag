@@ -1,0 +1,235 @@
+[
+ {
+  "case_id": "11-1343",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Documented functional decline with PT referral fits restoring lost function through skilled therapy.",
+    "passage_id": 638,
+    "quote": "requires a brief period of daily skilled physical therapy to restore lost functions, those services are reasonable and necessary",
+    "case_fact": "D.E.’s functional status had declined as follows: her sitting balance was poor"
+   },
+   {
+    "claim": "PT assessment of strength and ADLs is a skilled need.",
+    "passage_id": 640,
+    "quote": "The skills of a physical therapist are required for the ongoing assessment of a patient’s rehabilitation needs and potential.",
+    "case_fact": "D.E. was referred to PT due to decreased strength and decreased ADLs due to illness."
+   },
+   {
+    "claim": "Referral after hospitalization shows a decline needing evaluation.",
+    "passage_id": 638,
+    "quote": "the amount, frequency, and duration of the services must be reasonable",
+    "case_fact": "E.M. was referred to OT due to an overall decline in transfers, range of motion, strength, and independence with ADLs."
+   }
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Passages address presumption of coverage, not clinical criteria; coverage rests on medical evidence in the file, which is not settled.",
+    "passage_id": 608,
+    "quote": "coverage would be determined based on a review of the medical evidence in the file",
+    "case_fact": "On at least thirteen occasions the beneficiary’s medications had to be adjusted due to fluctuations in his blood pressure and heart rate."
+   }
+  ]
+ },
+ {
+  "case_id": "baptist_health_care",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Admission coverage is not decided by length of stay alone; the case facts give no patient clinical details.",
+    "passage_id": 13,
+    "quote": "Admissions of particular patients are not covered or noncovered solely on the basis of the length of time the patient actually spends in the hospital.",
+    "case_fact": "Those cases that appear to be routine, expected discharge within 24 hours and which do not substantiate SI & IS criteria"
+   }
+  ]
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "verdict": "UNKNOWN",
+  "findings": []
+ },
+ {
+  "case_id": "connecticut11",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Level of care needs individual determination; facts do not settle skilled need after the plateau.",
+    "passage_id": 607,
+    "quote": "the beneficiary must receive an individual level of care determination using existing administrative criteria and procedures",
+    "case_fact": "[p]lateau of benefits from skilled PT interventions reached at current mental level"
+   }
+  ]
+ },
+ {
+  "case_id": "gr",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Services duplicative of facility-required care are not reasonable and necessary, but facts do not show the nursing content.",
+    "passage_id": 186,
+    "quote": "Services to people who already have access to appropriate care from a willing caregiver would not be considered reasonable and necessary",
+    "case_fact": "nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility"
+   }
+  ]
+ },
+ {
+  "case_id": "m-10-1884",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Therapy was received but facts show discharge from PT/OT before the dates at issue and no skilled need for those dates.",
+    "passage_id": 670,
+    "quote": "For a discussion of skilled therapy (that is, PT, SLP, and OT) services in the context of the SNF level of care criteria",
+    "case_fact": "She was discharged from OT on January 19, 2009, and from PT on January 22, 2009."
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Insulin dosage changes after nurse-forwarded logs show an unstabilized regimen needing skilled observation.",
+    "passage_id": 238,
+    "quote": "skilled observation and treatment must be documented at each home health visit, until the patient's clinical condition and/or treatment regimen has stabilized",
+    "case_fact": "the beneficiary’s insulin dosage was adjusted numerous times during this period"
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "SNF care was for hematuria treated in the qualifying hospital stay.",
+    "passage_id": 563,
+    "quote": "the beneficiary must require SNF care for a condition that was treated during the qualifying hospital stay",
+    "case_fact": "the beneficiary was diagnosed with hematuria secondary to prostate enlargement"
+   }
+  ]
+ },
+ {
+  "case_id": "m-12-1140",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Timing of SNF admission after hospital stay is satisfied, but passages do not settle the need for continued therapy.",
+    "passage_id": 579,
+    "quote": "Extended care services are “post-hospital” if initiated within 30 days after discharge from a hospital stay",
+    "case_fact": "first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011"
+   }
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Coverage needs an individualized assessment of skilled need; the facts are largely appellant assertions.",
+    "passage_id": 636,
+    "quote": "skilled therapy services are covered when an individualized assessment of the patient’s clinical condition demonstrates",
+    "case_fact": "the beneficiary demonstrated “slow but steady progress” reflecting gains in “safety, balance and overall functional mobility.”"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Teaching safe stair/transfer technique can be reasonable, but facts are only appellant assertions.",
+    "passage_id": 292,
+    "quote": "Physical therapy would be reasonable and necessary to teach the patient to climb and descend stairs safely.",
+    "case_fact": "the skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Complications require more frequent skilled care and are covered with documentation.",
+    "passage_id": 256,
+    "quote": "where there are complications that require more frequent skilled care related to the catheter, such care would, with adequate documentation, be covered",
+    "case_fact": "He was hospitalized for several days in July 2007 for urosepsis and e.coli infection."
+   },
+   {
+    "claim": "Routine colostomy care alone is not skilled, but this beneficiary had complications.",
+    "passage_id": 231,
+    "quote": "A patient with a well-established colostomy absent complications may require assistance changing the colostomy bag",
+    "case_fact": "The beneficiary developed a fistula near the colostomy site."
+   }
+  ]
+ },
+ {
+  "case_id": "ny",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Hour limits are stated, but no facts about skilled need are given.",
+    "passage_id": 341,
+    "quote": "less than 8 hours each day and 28 or fewer hours each week",
+    "case_fact": "coverage is available for home health aide or skilled nursing services on a part-time basis"
+   }
+  ]
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Level of care needs an individual determination; facts do not show a skilled-need finding.",
+    "passage_id": 607,
+    "quote": "the beneficiary must receive an individual level of care determination using existing administrative criteria and procedures",
+    "case_fact": "Physician’s Telephone Orders requiring intravenous and intramuscular medication for pain and morphine via a portacath"
+   }
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "IRF necessity depends on individual care needs, which the facts do not describe.",
+    "passage_id": 72,
+    "quote": "Medicare requires determinations of whether IRF stays are reasonable and necessary to be based on an assessment of each beneficiary's individual care needs",
+    "case_fact": "were Medicare coverage criteria met for the IRF services at issue"
+   }
+  ]
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Close nurse monitoring with medication changes shows potential to change treatment.",
+    "passage_id": 629,
+    "quote": "there is a reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment of the patient",
+    "case_fact": "On August 5, 2009, the psychiatrist reduced her Haldol from three to two times a day"
+   },
+   {
+    "claim": "Pneumonia treatment with ongoing nursing monitoring is skilled observation.",
+    "passage_id": 633,
+    "quote": "skilled nursing services are covered when an individualized assessment of the patient’s clinical condition demonstrates",
+    "case_fact": "and the beneficiary was diagnosed with pneumonia"
+   }
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "IRF care requires meeting all 42 CFR 412.622 requirements; facts do not show therapy intensity or preadmission screening.",
+    "passage_id": 72,
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act if the patient meets all",
+    "case_fact": "Upon admission, the beneficiary’s functional status was as follows: moderate assistance supine to sit"
+   }
+  ]
+ }
+]

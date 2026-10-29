@@ -1,0 +1,49 @@
+{
+ "case_id": "12-987",
+ "domain": "snf",
+ "docket": "M-12-987",
+ "service_at_issue": "Outpatient (Part B) occupational therapy furnished to a nursing facility resident, March 1-21, 2011 (CPT 97024, 97535, 97542)",
+ "facts": [
+  "The beneficiary lived in the appellant\u2019s facility since July 31, 2006. Exh. 3, at 44. Her medical diagnoses included rheumatoid arthritis, degenerative disc disease, hypertension, and history of falls. Id. During the dates of service, the appellant provided physical therapy (PT) and OT services to the beneficiary. Exh. 1, at 4-7.",
+  "As relevant here, on February 16, 2011, an APRN signed and certified an OT plan of treatment (POT) for the beneficiary on behalf of the physician. Exh. 2, at 16. The POT is largely illegible, but the legible portions show that the beneficiary had a treatment diagnosis of abnormal posture and the POT contained orders for \u201cself care/home management training\u201d and wheelchair management. Id. The POT also shows that the goals of the OT services were to enable the beneficiary to propel her wheelchair to the dining room and to tolerate sitting in the wheelchair without complaints of discomfort. Id.",
+  "The appellant subsequently sought coverage for the PT and OT services furnished to the beneficiary from March 1, 2011, through March 21, 2011. Exh. 1, at 4-7. On initial determination, the Medicare contractor covered the PT services, but denied coverage for the OT services, which were billed under CPT codes 97024 (diathermy), 97535 (self-care management training), and 97542 (wheelchair management training).",
+  "the beneficiary had received OT services from February 11, 2011, through February 18, 2011, but was subsequently placed on \u201chold\u201d for further OT services while awaiting the delivery of a wheelchair cushion. Exh. 2, at 21, 29, 31. On March 7, 2011, and March 8, 2011, the appellant resumed OT services to provide diathermy services.",
+  "the appellant provided OT services for wheelchair management training on March 14, 2011, and March 15, 2011. Exh. 1, at 7; Exh. 2, at 35. The training consisted of asking the beneficiary to propel the wheelchair to the dining room and observing the beneficiary\u2019s wheelchair positioning and foot contact. Exh. 2, at 35."
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council agreed APRN signatures were acceptable but found the OT services not reasonable and necessary (outside the plan of treatment, repetitive, no functional deficit), and held the provider liable for the non-covered charges.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.15",
+   "section": "220"
+  },
+  {
+   "doc": "MBPM ch.15",
+   "section": "220(A)"
+  },
+  {
+   "doc": "MBPM ch.15",
+   "section": "220.1.3(C)"
+  },
+  {
+   "doc": "MBPM ch.15",
+   "section": "220.2(B)"
+  }
+ ],
+ "other_cites": [
+  "SSA 1835(a)(2)(C)",
+  "SSA 1862(a)(1)(A)",
+  "SSA 1879",
+  "42 CFR 410.59",
+  "42 CFR 410.61(b)(5)",
+  "42 CFR 424.11(e)",
+  "42 CFR 405.1062",
+  "42 CFR 411.406(e)",
+  "LCD L26884",
+  "CMS Ruling 95-1",
+  "MCPM ch.30 40.1-40.1.2, 40.2"
+ ],
+ "scope": "excluded",
+ "scope_reason": "Part B outpatient therapy (MBPM ch.15, not in corpus)",
+ "key_quality": "no_mbpm_key"
+}

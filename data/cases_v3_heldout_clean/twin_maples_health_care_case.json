@@ -1,0 +1,29 @@
+{
+ "case_id": "twin_maples_health_care_case",
+ "domain": "snf",
+ "docket": "M-10-1564",
+ "service_at_issue": "SNF services Aug 1-31, 2009 (nursing and PT) after psychiatric hospitalization",
+ "facts": [
+  "The appellant asserts in its request for review that from August 1, 2009, through August 31, 2009, the beneficiary required and received skilled nursing care (for psychological, behavioral, and medical reasons), and received skilled physical therapy for her gait and ambulation problems, difficulty with transferring, and need to reduce her risk of falls. Exh. MAC-1.",
+  "On July 20, 2009, the beneficiary (age 88) was admitted to the acute psychiatric unit at Yale University for dementia (apparently vascular in origin), paranoid behavior, significant difficulty sleeping, agitation, and being violent and assaultive toward her primary caregiver. Exh. 1 at 4-6. There she was diagnosed with dementia, a behavioral disturbance, and psychosis not otherwise specified. Id. at 7, 15. The beneficiary also had a history of alcohol dependence, and had undergone detox treatments several times. Id. at 5, 14, 29.",
+  "At Yale, the beneficiary was treated with Haldol, an antipsychotic medication. Exh. 1 at 9-10. One of the beneficiary\u2019s treating physicians wrote a letter recommending that she be cared for in a nursing home, and opining that she could be cared for in such a setting without injury to herself or others. Id. at 37.",
+  "On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility, the appellant\u2019s SNF. Exh. 1 at 54. The appellant\u2019s medical director evaluated the beneficiary and raised questions about her aggressiveness and assaultiveness, and whether she could be managed at the SNF. Id. at 44, 46, 47. Upon the beneficiary\u2019s admission to the SNF, physical therapy (PT) was started five times a week (id. at 54), and Warfarin (for her atrial fibrillation) was discontinued because the risks outweighed the benefits (id. at 47, 60, 62).",
+  "On July 29, 2009, the beneficiary was evaluated by a psychiatric advanced practice registered nurse (APRN). Exh. 1 at 44-45. The APRN consulted with the medical director, and a decision was made not to alter the beneficiary\u2019s medications at that time, but to closely monitor her moods and behaviors at the SNF. Id. During the period from July 27, 2009, through August 11, 2009, the beneficiary was closely monitored by the skilled nurses (multiple times each day), one or more physicians, and the psychiatric APRN, for changes in her mood, her behaviors, and other psychological symptoms. Id. at 40-45, 59-62, 63-64, 69- 70.",
+  "On August 5, 2009, the psychiatrist reduced her Haldol from three to two times a day (Exh. 1 at 59), and close monitoring of her moods and behaviors continued in light of that change. Id. at 40-41, 63-64, 69-70. By August 12, 2009, when the beneficiary was again evaluated by the psychiatric advanced practice registered nurse, her behavioral condition had stabilized. Id. at 40-41.",
+  "On August 4, 2009, the nursing staff identified expiratory wheezing and crackles in the beneficiary\u2019s lungs, bilaterally, and pulse oximeter readings of 85 to 87 percent. Id. at 63. They notified the medical director, a chest x-ray was taken, and the beneficiary was diagnosed with pneumonia. Id. at 63, 70; Exh. 4 at 7. The beneficiary\u2019s treatment included an oral antibiotic for ten days, oxygen as needed, and ongoing, frequent monitoring by the nursing staff. Exh. 1 at 59, 63-64, 69-70."
+ ],
+ "reference_outcome": "partial",
+ "outcome_note": "Council reversed in part: skilled nursing for psychiatric/behavioral monitoring and other medical needs made Aug 1-11 covered, but services Aug 12-31 were not sufficiently skilled and the provider is liable.",
+ "cited_sections": [],
+ "other_cites": [
+  "42 CFR 409.30",
+  "42 CFR 409.31(b)",
+  "42 CFR 409.31(b)(2)(i)",
+  "42 CFR 409.31(b)(2)(ii)",
+  "42 CFR 409.33(a)(2)(ii)",
+  "42 CFR 409.33(c)"
+ ],
+ "scope": "included",
+ "key_quality": "no_mbpm_key",
+ "facts_original_count": 7
+}

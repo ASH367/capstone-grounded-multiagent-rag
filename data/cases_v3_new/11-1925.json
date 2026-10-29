@@ -1,0 +1,24 @@
+{
+ "case_id": "11-1925",
+ "domain": "snf",
+ "docket": "M-11-1925",
+ "service_at_issue": "SNF services Sept 19 - Oct 31, 2009; beneficiary vs provider liability after notice of non-coverage",
+ "facts": [
+  "The beneficiary began receiving skilled nursing services from a SNF in August 2009 following a qualifying three-day hospital stay. See Exh. 2 at 10. After several weeks of furnishing Medicare-covered SNF level services, the provider prepared a written notice of non-coverage (NONC) to advise the beneficiary that Medicare \u201cprobably will not pay\u201d for services rendered beginning September 19, 2009, and that the beneficiary could appeal this determination.",
+  "The appellant sought Medicare coverage for the services provided to the beneficiary from September 19, 2009, to October 31, 2009. See Exh. 3 at 4\u20145. Initially and at the redetermination level, the Medicare contractor denied coverage for the services on the ground that they were not reasonable and necessary. Id. at 1\u20142.",
+  "The appellant contests the validity of the NONC as an ABN for two reasons. First, the appellant contends that the NONC is insufficient as an ABN because it does not specify what services Medicare would not cover and does not explain why Medicare would deny such services. See id."
+ ],
+ "reference_outcome": "partial",
+ "outcome_note": "Council adopted the ALJ's non-coverage finding (undisputed) but reversed on liability, holding the beneficiary not liable and the provider liable because the NONC was not a valid SNF ABN.",
+ "cited_sections": [],
+ "other_cites": [
+  "SSA 1879(a)",
+  "42 CFR 411.400",
+  "42 CFR 411.404",
+  "MCPM ch.30 40.3.1.2",
+  "MCPM ch.30 40.3",
+  "Expedited Determination Process Q&As Group 5"
+ ],
+ "scope": "included",
+ "key_quality": "no_mbpm_key"
+}

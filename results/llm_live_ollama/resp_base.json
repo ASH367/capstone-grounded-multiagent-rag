@@ -1,0 +1,65 @@
+[
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary was transported due to chest pain, which is a sign of acute cardiac distress.",
+  "findings": [
+   {
+    "claim": "The ambulance report states that the beneficiary was being transported due to chest pain.",
+    "passage_id": 434,
+    "quote": "exhibits signs and symptoms of acute respiratory distress or cardiac distress such as shortness of breath or chest pain",
+    "case_fact": "[4] The ambulance report states that the beneficiary was being transported due to chest pain."
+   }
+  ],
+  "case_id": "12-1251"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The patient required the active and ongoing therapeutic intervention of multiple therapy disciplines, including physical therapy, occupational therapy, and a neuropsychologist.",
+  "findings": [
+   {
+    "claim": "I.W. was admitted to the IRF on April 20, 2004 with \u2018exacerbation of bilateral lower extremity weakness, secondary to polymyositis,\u2019\u201d especially on the right side, as well as pain when lifting her right arm.",
+    "passage_id": "86",
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the interdisciplinary approach to providing rehabilitation therapy services in an IRF. Patients requiring only one discipline of therapy would not need this interdisciplinary approach to care.",
+    "case_fact": "[1] I.W. was an 88-year old woman who was admitted to the IRF on April 20, 2004 with \u2018exacerbation of bilateral lower extremity weakness, secondary to polymyositis,\u2019\u201d especially on the right side, as well as pain when lifting her right arm."
+   },
+   {
+    "claim": "The patient generally required an intensive rehabilitation therapy program, as defined in section 110.2.2.",
+    "passage_id": "83",
+    "quote": "Under current industry standards, this intensive rehabilitation therapy program generally consists of at least 3 hours of therapy per day at least 5 days per week.",
+    "case_fact": "[8] Physical therapy totaling 60-90 minutes per day was provided every weekday."
+   },
+   {
+    "claim": "The patient required physician supervision by a rehabilitation physician, defined as a licensed physician who is determined by the IRF to have specialized training and experience in inpatient rehabilitation.",
+    "passage_id": "84",
+    "quote": "The requirement for medical supervision means that the rehabilitation physician must conduct face-to-face visits with the patient at least 3 days per week throughout the patient\u2019s stay in the IRF to assess the patient both medically and functionally, as well as to modify the plan of care.",
+    "case_fact": "[6] The appellant\u2019s medical director argued that progress notes show \u2018daily direct contact by a physiatrist throughout the patient\u2019s stay,\u2019\u201d writing at least one order each day and close monitoring and adjustment in light of complex interactions among her medications and potential complications."
+   },
+   {
+    "claim": "The patient can only be expected to benefit significantly from the intensive rehabilitation therapy program if the patient\u2019s condition and functional status are such that the patient can reasonably be expected to make measurable improvement (that will be of practical value to improve the patient\u2019s functional capacity or adaptation to impairments) as a result of the rehabilitation treatment, as defined in section 110.3, and if such improvement can be expected to be made within a prescribed period of time.",
+    "passage_id": "84",
+    "quote": "The patient need not be expected to achieve complete independence in the domain of self-care nor be expected to return to his or her prior level of functioning in order to meet this standard.",
+    "case_fact": "[10] By her discharge after two weeks in the IRF, I.W. had succeeded in raising all her ADL levels, most of them to her goal level, and had regained the ability to live at her daughter\u2019s home with modified independence."
+   }
+  ],
+  "case_id": "altabates"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary's medical history included Type II diabetes, benign hypertension, esophageal reflux and angina. The plan of care called for skilled nursing services three times a week for three weeks, twice a week for five weeks and once a week for one week.",
+  "findings": [
+   {
+    "claim": "The certification period in issue covers August 27, 2008 through October 25, 2008.",
+    "passage_id": "239",
+    "quote": "The patient\u2019s necessity for skilled observation must be documented at each home health visit, until the clinical condition and/or patient's treatment regimen has stabilized.",
+    "case_fact": "[1] The certification period in issue covers August 27, 2008 through October 25, 2008."
+   },
+   {
+    "claim": "The beneficiary was discharged from home health care on October 21, 2008, based on the general stability of his blood sugar, blood pressure and overall control of his conditions.",
+    "passage_id": "239",
+    "quote": "The patient\u2019s necessity for skilled observation must be documented at each home health visit, until the clinical condition and/or patient's treatment regimen has stabilized.",
+    "case_fact": "[2] The beneficiary was discharged from home health care on October 21, 2008, based on the general stability of his blood sugar, blood pressure and overall control of his conditions."
+   }
+  ],
+  "case_id": "case_excellenthomecare"
+ }
+]

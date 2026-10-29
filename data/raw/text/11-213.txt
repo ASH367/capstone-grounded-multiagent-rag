@@ -1,0 +1,262 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-11-213
+
+
+In the case of                        Claim for
+
+Ottawa County Riverview               Supplementary Medical
+Nursing Home                          Insurance Benefits (Part B)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+National Government Services          ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+
+                             INTRODUCTION
+
+The Administrative Law Judge (ALJ) issued a decision dated
+August 31, 2010, which concerned occupational therapy (OT)
+services provided under the Medicare Part B benefit to the
+beneficiary, then a resident of a skilled nursing facility
+(SNF), from March 23, 2009, through March 31, 2009. The ALJ
+determined that the services were not covered and that the
+appellant was liable for non-covered charges. The appellant has
+asked the Medicare Appeals Council (Council) to review this
+action. The Council admits the appellant’s request for review
+and enclosures, and subsequent interim correspondence, into the
+administrative record as Exhibits (Exhs.) MAC-1 and MAC-2.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). As set forth below, the Council
+reverses the ALJ’s decision.
+                                                                                2
+                      APPLICABLE LEGAL AUTHORITIES
+
+The Council adopts and incorporates the ALJ’s statement of
+“Principles of Law” herein. Dec. at 3. Medicare regulations
+also provide coverage requirements for skilled OT services, as
+follows:
+
+      [Occupational therapy] services must be reasonable and
+      necessary. To be considered reasonable and necessary,
+      the following conditions must be met:
+           (i) The services must be considered under
+      accepted standards of medical practice to be a
+      specific, safe, and effective treatment for the
+      beneficiary’s condition.
+           (ii) The services must be of such a level of
+      complexity and sophistication or the condition of the
+      beneficiary must be such that the services required
+      can safely and effectively be performed only by . . .
+      a qualified occupational therapist or a qualified
+      occupational therapy assistant under the supervision
+      of a qualified occupational therapist . . . .
+      Services that do not require the performance or
+      supervision of . . . an occupational therapist are not
+      considered reasonable or necessary . . . occupational
+      therapy services, even if they are performed by or
+      supervised by [an] occupational therapist. . . .
+           (iii) There must be an expectation that the
+      beneficiary’s condition will improve materially in a
+      reasonable (and generally predictable) period of time
+      based on the physician’s assessment of the
+      beneficiary’s restoration potential and unique medical
+      condition, or the services must be necessary to
+      establish a safe and effective maintenance program
+      required in connection with a specific disease, or the
+      skills of a therapist must be necessary to perform a
+      safe and effective maintenance program. . . .
+           (iv) The amount, frequency, and duration of the
+      services must be reasonable.
+
+42 C.F.R. § 409.44(c); Medicare Benefit Policy Manual
+(MBPM)(Pub. 100-02), Ch. 15 § 220.2. 1 Regulations further
+provide that “[g]eneral supervision of exercises which have been
+taught to the patient; including the actual carrying out of
+
+1
+  Manuals issued by the Centers for Medicare & Medicaid Services (CMS) can be
+found at http://www.cms.hhs.gov/manuals.
+                                                                           3
+maintenance programs, i.e., the performance of the repetitive
+exercises required to maintain function do not require the
+skills of a therapist and would not constitute skilled
+rehabilitation services . . . .” 42 C.F.R. § 409.33(d)(13).
+
+                                DISCUSSION
+
+On appeal, the appellant argues that the ALJ erred by concluding
+that, “[w]hile the record established a need for rehabilitation
+due to a decline in the Beneficiary’s overall ability to
+function, the record fails to show that the beneficiary required
+the skills of a licensed therapist” for the eight OT sessions.
+Exh. MAC-1, at 1. The appellant maintains that the skills of a
+licensed therapist were required to assess the beneficiary’s
+“deficits in strength, range of motion, and mobility that were
+related to her decline in function,” including sit/stand
+technique for transfer as well as diathermy and stretching for
+range of motion. Id. The appellant points to the beneficiary’s
+prior discharge from OT on January 6, 2009, as establishing
+functional benchmarks that evidence the beneficiary’s
+“significant decline” from then until the dates of service. Id.
+The appellant also argues that the physician approved services
+including therapeutic exercise, therapeutic activities,
+activities of daily living (ADL) retraining, and modalities
+(moist hot pack, ultrasound, electrical stimulation, and
+diathermy) to improve range of motion. Id. The appellant cites
+the beneficiary’s documented progress in several areas as
+supporting medical necessity. Id. at 2.
+
+The ALJ found that, as of January 6, 2009, the 93 year old
+beneficiary’s level of function included grooming with set up,
+bathing and toilet transfers with minimal assistance, and
+wheelchair propulsion with stand by assistance. Dec. at 2. On
+March 3, 2009, the physician ordered OT services because of “the
+patient’s decline in simple ADLs and in mobility with a
+diagnosis of lack of coordination.” Id. 2 The ALJ noted that a
+treatment plan was established and, at that time, the
+beneficiary’s level of function included minimal assistance in
+
+2
+  On March 23, 2009, the physician ordered OT 5x/wk for 30 days. Exh. 6, at
+2. Treatment records indicate that the beneficiary also received services on
+April 2, 2009, and April 3, 2009. Id. at 12. The OT Evaluation and ALJ
+decision indicate that the services were billed to Medicare Part B, and the
+initial determination, redetermination, and reconsideration reflect dates of
+service from March 23, 2009, through March 31, 2009. Dec. at 1; Exhs. 6, at
+6, 9; 4, at 1; 3, at 1.    The Council’s decision is thus confined to dates
+of service March 23, 2009, through March 31, 2009.
+                                                                             4
+grooming, “2 maximum assist with bathing and toilet transfers,”
+and “poor wheel chair propulsion ability.” Id. In his
+analysis, the ALJ stated that the beneficiary had “experienced a
+functional decline which could be addressed by a course of
+outpatient rehabilitation,” but then found that the evidence
+failed to establish that the skills of a licensed therapist were
+required. Id. at 3-4. In response to questioning, the
+appellant’s representative “indicated that the therapist was
+familiar with the patient and the patient’s prior level of
+function and expected that the patient would improve in a
+reasonable period of time.” Id. The ALJ found this testimony
+insufficient to establish that the skills of a licensed
+therapist were required. Id., citing MBPM, Ch. 15, §§ 220.2(B),
+(C). The ALJ concluded that the OT services from March 23,
+2009, through March 31, 2009, were not covered by Medicare and
+that the appellant was liable for non-covered charges under
+section 1879 of the Social Security Act (Act). Id.
+
+On March 4, 2009, the physician noted that the beneficiary had
+“depression with some increased symptomology partially related
+to parkinsonian symptoms. We are going to try her on an Exelon
+patch 4.6 for 24 hours. Get rid of her Mirapex and see if we
+can help stabilize that as she’s also having some early dementia
+symptomology which may be related to early Alzheimer’s versus
+parkinsonian dimension.” Exh. 6, at 18. 3 The beneficiary would
+continue Lexapro for depression, while the physician stated that
+he would “see if we can stabilize the mood issue with Exelon and
+follow up.” Id.
+
+On March 29, 2009, the physician noted that the beneficiary
+“continu[ed] to have some emotional outbreaks over the past
+three weeks.” Exh. 6, at 18. Her Exelon patch had been placed
+on hold for one week, but no difference was noted. Id. The
+physician had prescribed OT secondary to the beneficiary’s
+decline, but “[n]o significant changes there.” Id. Her Exelon
+patch was resumed, but there was “[r]eally not a whole lot of
+change emotionally.” Id. The physician noted that the
+beneficiary was worse at lunch time and that the appellant staff
+had “been trying to get her more involved in activities.” Id.
+The plan was to discontinue the Exelon patches, hold the Mirapex
+medication, continue the anti-depressant, and add a low dose of
+
+
+
+3
+  Exelon (Rivastigmine) is indicated for treatment of Alzheimer’s Disease,
+while Mirapex (Pramipexole) is indicated for treatment of Parkinson’s
+Disease. http://www.nlm.nih.gov/ (August 29, 2011).
+                                                                   5
+Xanax anti-anxiety medication at lunch time and “see how the
+next couple of weeks go with that.” Id.
+
+On April 7, 2009, the appellant prepared a quarterly assessment
+Minimum Data Set (MDS) form which indicates that the beneficiary
+had modified independence in cognitive skills for daily decision
+making. Exh. 1, at 20. She was documented as having indicators
+of depression, anxiety, and sad mood, but the MDS states that
+the “indicators present [were] easily altered.” Id. With
+respect to ADLs, the beneficiary required extensive one person
+assistance with respect to locomotion off the unit, dressing,
+toilet use, and bathing. Id. Her conditions were noted as
+unstable, i.e., “fluctuating, precarious, or deteriorating.”
+Id. at 22. She had received training in skills required to
+return to the community (e.g., ADLs) and OT in the prior 14
+days. Id. at 22-23. Her “overall self sufficiency” level was
+unchanged from 90 days before. Id.
+
+The Council agrees with the ALJ that the beneficiary experienced
+a functional decline prior to the physician’s order for the OT
+services. Dec. at 4. However, the Council disagrees that the
+skills of a licensed therapist were not medically necessary to
+address that decline. More specifically, the Council finds that
+the record establishes “an expectation that the beneficiary’s
+condition [would] improve materially in a reasonable (and
+generally predictable) period of time based on the physician’s
+assessment of the beneficiary’s restoration potential and unique
+medical condition . . . .” 42 C.F.R. § 409.44(c)(iii). The
+record indicates that, on January 6, 2009, the beneficiary
+required, in part, minimal assistance with both bathing and
+toilet transfer. Exh. MAC-1, at 1. At the onset of the instant
+services, the beneficiary required maximum assistance from two
+persons for the same functions. Id. The Council finds that, on
+the facts of this case, this decline supports the intervention
+of skilled rehabilitation services in response.
+
+The record also indicates that the physician attempted more than
+one intervention in response to the beneficiary’s decline,
+including the eight OT visits. On March 29, 2009, the physician
+determined that there were no “significant changes” resulting
+from the OT and made further medication changes. Exh. 6, at 18.
+This conclusion, however, does not obviate the reasonable
+expectation for material improvement at the time the services
+were ordered on March 23, 2009. Id. at 2. In fact, the MDS,
+dated April 7, 2009, reflects that the beneficiary required a
+                                                                   6
+one person assist with toilet transfers, indicating improvement
+since the evaluation. Compare Exh. 6, at 21 with Exh. MAC-1, at
+1. The Council thus finds that the OT services were reasonable
+and necessary and are covered under the Medicare Part B benefit.
+
+                            DECISION
+
+It is the decision of the Medicare Appeals Council that the
+occupational therapy services provided from March 23, through
+March 31, 2009, are covered by Medicare Part B. The decision of
+the ALJ is reversed.
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Gilde Morrisson
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/Constance B. Tobias, Chair
+                                   Departmental Appeals Board
+
+Date: September 7, 2011
+

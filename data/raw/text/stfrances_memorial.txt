@@ -1,0 +1,578 @@
+               DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                      DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+
+
+In the case of                            Claim for
+
+                                          Supplementary Medical
+St. Francis Memorial Hospital             Insurance Benefits (Part B)
+(Appellant)
+
+
+
+****                                      ****
+(Beneficiaries)                           (HIC Numbers)
+
+
+                                          1-285032491 and 4 others
+National Government Services              (see attached)
+(Contractor)                              (ALJ Appeal Numbers)
+
+
+On August 8, 2008, the Administrative Law Judge (ALJ) issued
+five hearing decisions concerning overpayment determinations on
+five beneficiary claims based on inpatient rehabilitation
+facility (IRF) services provided by the appellant between March
+2003 and May 2004.1 The ALJ found that the IRF services were not
+medically reasonable and necessary for any beneficiary and,
+therefore, not covered under Medicare Part B; upheld each
+overpayment determination; and concluded that the recovery of
+the overpayments may not be waived. The appellant seeks
+Medicare Appeals Council review of the ALJ’s decisions.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+The Council modifies the ALJ’s decisions as set forth below.
+
+
+
+
+1
+   For a list of the beneficiaries, the dates of service, the Health Insurance
+Claim (HIC) Numbers, and ALJ appeal numbers, see Appendix A.
+                                                                                2
+                   BACKGROUND AND PROCEDURAL HISTORY
+
+This appeal involves IRF services provided by the appellant to
+five beneficiaries on various dates between March 2003 and May
+2004. See Appendix A. The claims were initially paid between
+April 2003 and June 2004. Between October 2006 and April 2007,
+PRG Schultz, the Recovery Audit Contractor (RAC), informed the
+appellant that the claims had been selected for complex post-
+payment review. By five notices issued in February 2007 (H.F.;
+E.M.; N.R.), in May 2007 (L.S.), and in June 2007 (S.L.), the
+appellant was informed that overpayments were found based on a
+determination that the documents submitted to support the claims
+and in response to the RAC’s request for such documents did not
+support the beneficiaries’ need for IRF services, and that the
+appellant was responsible for reimbursement of the overpayments.
+The fiscal intermediary issued unfavorable redeterminations, and
+the Qualified Independent Contractor upheld the denials on
+reconsideration. The appellant then sought ALJ review.
+
+The ALJ held a telephonic hearing in July 2008, for all of the
+claims. Dr. K.F., appellant’s Medical Director, testified. On
+August 8, 2008, the ALJ issued five hearing decisions. In each
+decision, the ALJ identified the issues before her as follows:
+
+      Are the reopened initial determinations time-barred
+      and, if not, were Medicare coverage criteria met for
+      the IRF services at issue[?]
+
+      If the reopenings are not time-barred and if Medicare
+      coverage criteria are not met, should reimbursement be
+      made under § 1879 of the [Social Security] Act and, if
+      not, who, if anyone, is responsible for the
+      non-covered charges?
+
+See, e.g., Dec. (H.F.)2 at 2.
+
+In each decision, the ALJ found that:
+
+    (1)   “circumstances of ‘similar fault’” have been identified
+          because the appellant “is both deemed and considered to
+          have known that the IRF services at issue were not
+          covered by Medicare and could have been expected to know
+          that the claims would likely be denied by Medicare”; and
+2
+   Unless otherwise stated, all citations to the ALJ’s decision herein are to
+the ALJ’s decision for lead beneficiary H.F. as representative of the five
+ALJ decisions.
+                                                                   3
+
+  (2)   there is good cause as defined in 42 C.F.R. § 405.986 to
+        reopen the claims at issue within four years from the
+        date of initial determination.
+
+Dec. at 17. The ALJ then considered the merits of the claims
+based on a review of the evidence specific to each beneficiary,
+and determined, as to each, that the evidence did not support
+the need for care in an IRF setting, but rather, the
+beneficiaries could have been administered therapy in a less
+intensive setting, such as in a SNF. She concluded, therefore,
+that the IRF services provided to the beneficiaries did not meet
+Medicare coverage criteria for medical reasonableness and
+necessity. Dec. at 18-19.
+
+The ALJ then addressed the issue of liability and waiver of
+recovery of overpayments. As to each beneficiary, the ALJ found
+no evidence of a written advance beneficiary notice of
+noncoverage. The ALJ stated that the appellant is deemed to
+have known that the IRF services would not be covered and
+concluded that reimbursement is impermissible under section 1879
+of the Act. Finally, she concluded that the appellant is not
+without fault for creating the overpayments and, therefore, the
+overpayments cannot be waived under section 1870 of the Act.
+Dec. at 19.
+
+The appellant, by counsel, timely sought Council review (the
+request for review is admitted as Exh. MAC-1) of all five ALJ
+decisions. Subsequently, the appellant’s counsel filed five
+briefs, each one specific to a beneficiary, in support of the
+request for review. The briefs are admitted into the record as
+Exhs. MAC-2 (H.F.), MAC-3 (S.L.), MAC-4 (E.M.), MAC-5 (N.R.),
+and MAC-6 (L.S.).
+
+In Exhs. MAC-1 through MAC-6, the appellant sets forth various
+grounds for asserting ALJ error, as summarized below.
+
+(1) The ALJ erred in finding that good cause existed to reopen
+the claims based on “similar fault” on the appellant’s part in
+creating the overpayments;
+
+(2) medical reasonableness and necessity is shown as to each of
+the five beneficiaries, but, even if the claims are not deemed
+covered because medical reasonableness and necessity is not
+shown, the appellant is still entitled to payment pursuant to
+the waiver of liability provisions of section 1879 of the Act;
+                                                                   4
+
+(3) the ALJ erred by not applying special rules applicable to
+overpayments discovered after the third year after the initial
+determinations (that is, the appellant should be deemed without
+fault in creating the overpayments without evidence to the
+contrary, of which there is none);
+
+(4) inasmuch as the appellant was without fault in creating the
+overpayments, there is no basis to recover any asserted
+overpayment; and
+
+(5) the appellant’s due process rights were violated by the
+RAC’s pecuniary interest in the outcome of the appeal.
+
+The Council addresses the appellant’s contentions and grounds
+for finding ALJ error in detail below, under the section headed
+“Discussion.” For the reasons and bases set forth therein, the
+Council modifies the ALJ’s five decisions.
+
+                     APPLICABLE AUTHORITIES
+
+     Reopening Initial Determinations
+
+The regulation at 42 C.F.R. § 405.980 provides a stratified
+structure for reopening. A CMS contractor may reopen an initial
+determination or redetermination. 42 C.F.R. § 405.980(a)(1)(i).
+An ALJ’s or the Council’s authority to reopen is limited,
+respectively, to a revision of ALJ hearing decisions and hearing
+and Council decisions (by the Council). 42 C.F.R.
+§§ 405.980(a)(1)(ii) and (iii). Notably, neither the ALJ, nor
+the Council, has any authority to reopen or revise an initial
+determination or redetermination.
+
+The regulation at 42 C.F.R. § 405.926 sets forth actions that
+are not initial determinations and not appealable. Included
+among them is a “contractor’s . . . decision to reopen or not
+reopen an initial determination.” 42 C.F.R. § 405.926(l). This
+lack of jurisdiction extends to whether the contractor met good
+cause standards for reopening in 42 C.F.R. § 405.980(b)(2). The
+regulation at 42 C.F.R. § 405.980(a)(5) further states that
+“[t]he contractor’s, QIC’s, ALJ’s, or MAC’s decision on whether
+to reopen is final and not subject to appeal.”
+
+The regulation at 42 C.F.R. § 405.980(b) establishes the time
+frame for reopening initial determinations and redeterminations
+initiated by a contractor. Section 405.980 provides, in part:
+                                                                        5
+
+      A contractor may reopen and revise its initial
+      determination or redetermination on its own
+      motion - -
+
+             (1) Within 1 year from the date of the initial
+             determination or redetermination for any reason.
+
+             (2) Within 4 years from the date of the initial
+             determination or redetermination for good cause
+             as defined in § 405.986.
+
+             (3) At any time if there exists reliable
+             evidence as defined in § 405.902 that the
+             initial determination was procured by fraud or
+             similar fault as defined in § 405.902.3
+
+The regulation addressing good cause for reopening,
+42 C.F.R. § 405.986, provides, in part:
+
+      (a)    Good cause may be established when –
+
+      (1)    There is new and material evidence that –
+
+      (i) Was not available or known at the time of the
+      determination or decision; and
+
+      (ii)    May result in a different conclusion; or
+
+      (2) The evidence that was considered in making the
+      determination or decision clearly shows on its face
+      that an obvious error was made at the time of the
+      determination or decision. . . .
+
+When conducting a post-payment review of claims, contractors
+must adhere to reopening rules. Medicare Program Integrity
+Manual (MPIM), CMS Pub. 100-08, Ch. 3, § 3.6.B. However,
+neither the ALJ, nor the Council, has jurisdiction to review
+that aspect of the contractor’s action. A contractor’s decision
+on whether to reopen is final and not subject to appeal. 42
+C.F.R. §§ 405.926(l); 405.980(a)(5). This restriction extends
+
+3
+   “Similar fault” is defined in 42 C.F.R. § 405.902, in part, as “to
+obtain, retain, convert, seek, or receive Medicare funds to which a
+person knows or should reasonably be expected to know that he or she
+or another for whose benefit Medicare funds are obtained, retained,
+converted, sought, or received is not legally entitled.”
+                                                                    6
+to whether or not the contractor met the good cause standards
+for reopening set forth in 42 C.F.R. § 405.980(b)(2). CMS has
+expressly stated that the enforcement mechanism for good cause
+standards lies within its evaluation and monitoring of
+contractor performance, not the administrative appeals process.
+Interim Final Rule with Comment Period, 70 Fed. Reg. 11,420,
+11,453 (Mar. 8, 2005).
+
+     Liability Provisions
+
+Medicare is a defined-benefit program. Items and services
+within a benefit category are covered under statutory and
+administrative authority. Nonetheless, an item or service may
+meet Medicare coverage criteria, yet still be excluded from
+coverage as not reasonable and necessary, or as constituting
+custodial care. Act, sections 1862(a)(1)(A), 1862(a)(9). In
+that event, section 1879 of the Act may limit the liability of a
+beneficiary or provider for non-covered items or services based
+upon whether or not they had prior knowledge of non-coverage.
+Act, section 1879(a); 42 C.F.R. §§ 411.400(a), 411.404, 411.406.
+The limitation on liability provisions of section 1879 apply
+only to denials where the items or services are determined to be
+not medically reasonable and necessary.
+
+Section 1870 of the Act governs recovery of overpayments, based
+upon provider or beneficiary fault. Section 1870(b) of the Act
+provides for waiver of recovery of an overpayment to a provider
+or supplier whenever it is without fault in incurring the
+overpayment. It provides, inter alia, that –
+
+  (b)   where –
+
+        (1)   more than the correct amount is paid under this
+              title to a provider of services . . . and the
+              Secretary determines (A) that, within such period as
+              he may specify, the excess over the correct amount
+              cannot be recouped from such provider of services .
+              . . , or (B) that such provider of services . . .
+              was without fault with respect to the payment of
+              such excess over the correct amount . . .
+
+              proper adjustments shall be made, under regulations
+              prescribed . . . by the Secretary . . . .
+
+Act, § 1870(b).
+                                                                   7
+
+The Medicare Financial Management Manual (MFMM), CMS Pub. 100-
+06, provides that a supplier is without fault under the
+following circumstances:
+
+     The FI [fiscal intermediary] or carrier considers a
+     provider without fault, if it exercised reasonable
+     care in billing for, and accepting, the payment; i.e.,
+          • It made full disclosure of all material
+          facts; and
+          • On the basis of the information available to
+          it, including, but not limited to, the Medicare
+          instructions and regulations, it had a reasonable
+          basis for assuming that the payment was correct,
+          or, if it had reason to question the payment; it
+          promptly brought the question to the FI or
+          carrier’s attention.
+
+MFMM, Ch. 3, § 90. Further, absent evidence to the contrary, a
+provider is deemed without fault for an overpayment discovered
+after the third calendar year following the year of payment.
+MFMM, CMS Pub. 100-06, Ch. 3, § 70.3.A.
+
+CMS has stated that “[a]n overpayment does not exist if a
+determination is made that the limitation of liability provision
+[under section 1879] applies.” MFMM, Ch. 3, § 70.1.B. “Once a
+contractor has concluded that an overpayment exists (that is, a
+finding that payment cannot be made under the waiver of
+liability provisions), it makes a § 1870(b) determination” on
+provider or beneficiary fault in creating the overpayment.” Id.
+at § 70.3. The contractor would then determine whether waiver
+of recovery was appropriate under section 1870(c). Id. “If
+§ 1879 of the Act is applicable, then § 1879 determination is
+made first since [a section 1870] overpayment does not exist if
+payment can be made under § 1879 because there was lack of
+knowledge by both the beneficiary and the provider.” Id.
+
+                           DISCUSSION
+
+Having fully considered the appellant’s contentions in Exhs.
+MAC-1 through MAC-6 and reviewed the entire record, the Council
+addresses the appellant’s contentions below and, for the reasons
+articulated below, modifies the ALJ’s decisions.
+                                                                   8
+
+     Reopening of the Five Claims
+
+There are multiple grounds for ALJ error concerning the RAC’s
+reopening of the five claims. The Council addresses each in
+turn, below.
+
+First, the ALJ erred by addressing the issue of the RAC’s
+decision to reopen the claims. A contractor’s decision on
+whether to reopen is final and not subject to administrative
+review. 42 C.F.R. § 405.980(a)(5). Moreover, the parallel
+regulation at 42 C.F.R. § 405.926(l) states that a contractor’s
+determination to reopen or not to reopen is not an initial
+determination, and is, therefore, not appealable. Therefore,
+the ALJ did not have authority to review the RAC’s decision to
+reopen the five claims.
+
+Second, the ALJ erred by addressing the issue of whether the
+contractor had good cause to reopen the claims. The restriction
+against reviewing the contractor’s decision whether to reopen an
+initial determination extends to whether or not the contractor
+met the good cause standards for reopening set forth in 42
+C.F.R. § 405.980(b)(2). CMS has expressly, and recently, stated
+that the enforcement mechanism for good cause standards lies
+within CMS’s evaluation and monitoring of contractor
+performance, not the administrative appeals process. Interim
+Final Rule with Comment Period, 70 Fed. Reg. 11,420, 11,453
+(Mar. 8, 2005). Thus, the ALJ erred in concluding that she had
+authority, as part of her review of a revised determination, to
+examine whether or not there was good cause for reopening.
+
+The third area of ALJ error concerns the ALJ’s analytical
+approach on the issue of whether good cause was shown to reopen
+the five claims. Essentially, in each decision, the ALJ found
+that the appellant is “both deemed and considered to have known
+that the IRF services at issue were not covered by Medicare and
+could have been expected to know that the claim would likely be
+denied by Medicare.” Dec. at 17. And, on this basis, she
+concluded that “circumstances of ‘similar fault’ have been
+identified” to justify the decision to reopen “at any time” and,
+further, that good cause, as defined in 42 C.F.R. § 405.986, to
+reopen the claims within four years, was shown. Id.
+
+The ALJ did not err to the extent that she stated that good
+cause is a relevant issue in this case, because all five claims
+were reopened after one year after the initial determinations,
+                                                                   9
+but before four years. 42 C.F.R. §§ 405.980(b)(2), 405.986. It
+also is true that a contractor may reopen and revise an initial
+determination at any time with evidence that payment was
+procured by fraud or similar fault. 42 C.F.R. §§ 405.980(b)(3),
+405.902. See also n.3 supra. But, as stated above, contractors
+have discretion to decide whether to reopen a claim. To the
+extent that the ALJ’s rationale for finding that “similar fault”
+was demonstrated in this case to support the reopening suggests
+that the ALJ or the Council may second-guess a contractor’s
+exercise of discretion in reopening, the Council disagrees. The
+regulation at 42 C.F.R. 405.926(l) bars such an action.
+
+     Overpayment Determinations
+
+Having considered the record for all five beneficiaries, the
+Council fully agrees with the ALJ’s findings and conclusions
+that the IRF services provided to these beneficiaries were not
+medically reasonable and necessary and consistent with governing
+criteria. See CMS Ruling 85-2; Medicare Benefit Policy Manual
+(MBPM), CMS Pub. 100-02, Ch. 1, § 110. The Council adopts the
+ALJ’s findings and conclusions on this issue without further
+comment and concludes, based on the ALJ’s findings and
+conclusions, that the overpayment determinations were valid.
+
+     Liability and Waiver of Recoupment of Overpayments
+
+In her decisions, the ALJ treated all five claims similarly in
+terms of calculating the three-year time period between the year
+on which the initial determinations were made and the year on
+which overpayments were found. As explained below, the claims
+are distinguishable.
+
+In three beneficiary claims (H.F.; S.L.; L.S.), the overpayment
+determinations were issued in 2007, more than three calendar
+years following the year on which the claims were initially paid
+(2003). In two beneficiary claims (E.M.; N.R.), the overpayment
+determinations were issued in 2007, more than two calendar years
+after the year on which the claims were initially paid (2004).
+
+Section 1870 of the Act governs the recovery of overpayments,
+based upon provider or beneficiary fault. Section 1870(b) of
+the Act provides for a waiver of recovery of an overpayment to a
+provider or supplier if it is without fault in incurring the
+overpayment. Section 1870(b) of the Act effectively presumes no
+fault on a provider’s part where an overpayment determination is
+made “subsequent to the third year following the year in which
+                                                                  10
+notice was sent to such individual that such amount had been
+paid” in the absence of evidence to the contrary. The Medicare
+Financial Management Manual (MFMM), CMS Pub. 100-06, provides
+guidance on this issue. It provides, for overpayments found
+after the third calendar year after the year of payment:
+
+     There are special rules that apply when an overpayment
+     is discovered subsequent to the third year following
+     the year in which notice was sent that the amount was
+     paid. Ordinarily, the provider or beneficiary will be
+     considered without fault unless there is evidence to
+     the contrary. In the absence of evidence to the
+     contrary, the FI [fiscal intermediary] or carrier will
+     not recover the determined overpayment. (One example
+     of evidence to the contrary would be a pattern of
+     billing errors. See PIM, Chapter 3.)
+
+MFMM, Ch. 3, § 80 (emphasis added). The MFMM also provides
+guidance on calculating the “third year” after the year payment
+was approved. It states:
+
+     Only the year of the payment and the year it was found
+     to be an overpayment enter into the determination of
+     the 3-year calendar period. The day and month are
+     irrelevant. [For example,] [w]ith respect to payments
+     made in 2000, the third calendar year thereafter is
+     2003.
+
+MFMM, Ch. 3, section 80.1.
+
+In essence, under Section 1870(b) of the Act and MFMM, there is
+a rebuttable presumption that providers/suppliers are “without
+fault” with regard to overpayments discovered more than three
+calendar years after the year on which the initial determination
+was made, as was the case with beneficiaries H.F., S.L., and
+L.S. Therefore, the ALJ should have discussed the applicability
+of the presumption for these three cases, and articulated
+whether the presumption was rebutted, but did not. The ALJ
+relied, in particular, on portions of the Interim Final Rule
+with Comment Period, 70 Fed. Reg. 11,420, 11,450-53 (Mar. 8,
+2005), which included a discussion of the instances where
+similar fault may be found (such as where a contractor
+identifies an inappropriate billing that does not rise to the
+level of fraud; see Dec. at 7-9), the ALJ concluded, in all five
+decisions, that the appellant “billed and/or received payment
+                                                               11
+for services for which it should have known it was not entitled,
+it is not without fault, [and] the overpayment recovery cannot
+be waived under § 1870 of the Act.” Dec. at 19.
+
+Section 1870(b) does not define the meaning of the term “without
+fault”; however, the MFMM, Ch. 3, section 90, provides guidance.
+A provider is without fault if it exercised reasonable care in
+billing and accepting Medicare payment. A provider is
+considered not “without fault” if, e.g., it did not submit
+documentation to substantiate that services billed were covered,
+or billed, or Medicare paid, for services the provider should
+have known were not covered. Id. at § 90.1. The MFMM explains
+that the provider should have known about a policy or rule if
+the policy or rule is in the provider manual or in the
+regulations. Id.
+
+The MFMM also provides that, generally, a provider’s allegation
+that it was not at fault with respect to payment for noncovered
+services because it was not aware of coverage requirements is
+not considered a basis for finding it “without fault” if one of
+several conditions is met. One such condition is if the
+provider billed, or Medicare paid for, services the provider
+should have known were not covered. Id. It was on this
+condition that the RAC determined that overpayments were made in
+the five cases at issue. See, e.g., Exh. L at 252 (H.F. claim
+file).
+
+Having considered the bases on which the overpayments were found
+in this case, as discussed above, and Section 1870(b) and MFMM
+guidance, the Council agrees with the ALJ’s ultimate conclusion
+in each case that the appellant was not without fault in
+creating the overpayments. The Council modifies the ALJ’s
+decisions as to H.F., S.L., and L.S. to the extent that the
+applicability of the “without fault” rebuttable presumption
+should have been, but was not, applied, and finds that the
+presumption was rebutted in these three cases. The Council
+adopts the ALJ’s ultimate conclusion that, because the appellant
+was not “without fault” in creating the overpayments, a waiver
+of recoupment of the overpayment is not warranted for any of the
+five beneficiaries.
+
+As for limitation of liability under section 1879 of the Act,
+the Medicare program makes payment for non-covered services when
+neither the beneficiary, nor the provider, practitioner, or
+supplier knew, or could reasonably have been expected to know,
+that the items or services would be found non-covered on the
+                                                               12
+grounds that they were not medically reasonable and necessary.
+Medicare Claims Processing Manual (MCPM), CMS Pub. 100-04, Ch.
+30, § 20. A beneficiary is presumed not to know that services
+are not covered unless the evidence indicates that written
+notice was given to the beneficiary before the services were
+provided. Id. at § 30.1. The Council sees no error in the
+ALJ’s conclusion that the five beneficiaries were not liable for
+the costs of the non-covered services pursuant to section 1879
+of the Act because none received an advance beneficiary notice
+concerning the services at issue and, therefore, did not know,
+and could not reasonably have been expected to know, that the
+services would not be covered.
+
+Providers and suppliers, however, are held to have constructive
+knowledge of CMS manual instructions, bulletins, contractors’
+written guides, and directives. Id. at §§ 40.1, 40.1.1. The
+Council finds that the appellant had constructive knowledge of the
+coverage guidance for IRF services found in, inter alia, CMS
+Ruling 85-2 and MBPM, Ch. 1, section 110. Therefore, the Council
+concurs with the ALJ that the appellant knew, or could reasonably
+have been expected to know, that the IRF services would not be
+covered by Medicare. Accordingly, the appellant is liable for the
+costs of the non-covered services pursuant to section 1879 of the
+Act.
+
+Alleged Due Process Violation
+
+Finally, with respect to the allegation that the appellant’s due
+process rights were violated because the RAC had an interest in
+the outcome of the cases, i.e., recovery of alleged
+overpayments, the Council finds no basis in this allegation to
+alter the ALJ’s decisions. In the Interim Final Rule, 70 Fed.
+Reg. at 11,453, CMS expressly stated that the enforcement
+mechanism for good cause standards for reopening lie within
+CMS’s evaluation and monitoring of contractor performance, not
+the administrative appeals process. In the case of unfavorable
+revised determinations, as in this appeal, the appellant’s due
+process concerns are addressed by the fact that it is entitled
+to administrative review of the revised determinations. The
+appellant has exercised its right to such review.
+                                                                  13
+
+The ALJ’s August 8, 2008 decisions are modified in accordance
+with this decision.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Susan S. Yim
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/ M. Susan Wiley
+                                   Administrative Appeals Judge
+
+
+Date: May 7, 2009
+

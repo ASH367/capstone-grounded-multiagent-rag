@@ -1,0 +1,164 @@
+[
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The ambulance transport was not separately payable under Part B.",
+    "passage_id": 403,
+    "quote": "Because the service is covered and payable as a beneficiary transportation service under Part A, the service cannot be classified and paid for as an ambulance service under Part B.",
+    "case_fact": "Initially, this claim was paid, but then an overpayment was assessed because the record showed that the beneficiary was a hospital inpatient on the date of service at issue."
+   },
+   {
+    "claim": "The ambulance transport did not meet condition 1 (transported by an approved supplier) of \u00a710.2.",
+    "passage_id": 434,
+    "quote": "Payment may be made for expenses incurred by a patient for ambulance service provided conditions l, 2, and 3 in the left-hand column have been met.",
+    "case_fact": "The ambulance report states that the beneficiary was being transported due to chest pain."
+   },
+   {
+    "claim": "The ambulance transport did not meet condition 2 (suffering from an illness or injury) of \u00a710.2.",
+    "passage_id": 434,
+    "quote": "Payment may be made for expenses incurred by a patient for ambulance service provided conditions l, 2 and 3 in the left-hand column have been met.",
+    "case_fact": "The beneficiary complained of \u201csubsternal non-radiating\u201d chest pain."
+   },
+   {
+    "claim": "The ambulance transport did not meet condition 3 (transported in an emergency situation) of \u00a710.2.",
+    "passage_id": 434,
+    "quote": "Payment may be made for expenses incurred by a patient for ambulance service provided conditions l, 2 and 3 in the left-hand column have been met.",
+    "case_fact": "On April 17, 2011, the beneficiary was transported from her residence to a hospital."
+   }
+  ],
+  "case_id": "12-1251"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "I.W. was an 88-year old woman who was admitted to the IRF on April 20, 2004 with \u2018exacerbation of bilateral lower extremity weakness, secondary to polymyositis,\u2019 especially on the right side, as well as pain when lifting her right arm.",
+    "passage_id": 86,
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the interdisciplinary approach to providing rehabilitation therapy services in an IRF.",
+    "case_fact": "[1] I.W. was an 88-year old woman who was admitted to the IRF on April 20, 2004 with \u2018exacerbation of bilateral lower extremity weakness, secondary to polymyositis,\u2019 especially on the right side, as well as pain when lifting her right arm."
+   },
+   {
+    "claim": "I.W. had been admitted to the acute care hospital on April 5, 2004 with abdominal distention, the cause of which was not conclusively identified, but she was treated there for an active urinary tract infection and found to also have a thoracic aortic aneurysm and degenerative disc problems on cervical and thoracic scans.",
+    "passage_id": 71,
+    "quote": "The inpatient rehabilitation facility (IRF) benefit is designed to provide intensive rehabilitation therapy in a resource intensive inpatient hospital environment for patients who, due to the complexity of their nursing, medical management, and rehabilitation needs, require and can reasonably be expected to benefit from an inpatient stay and an interdisciplinary team approach to the delivery of rehabilitation care.",
+    "case_fact": "[2] She had been admitted to the acute care hospital on April 5, 2004 with abdominal distention, the cause of which was not conclusively identified, but she was treated there for an active urinary tract infection and found to also have a thoracic aortic aneurysm and degenerative disc problems on cervical and thoracic scans."
+   },
+   {
+    "claim": "I.W. had been on prednisone for 12 years to manage a giant cell arteritis and had had polymyalgia rheumatic since 1997.",
+    "passage_id": 86,
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the interdisciplinary approach to providing rehabilitation therapy services in an IRF.",
+    "case_fact": "[3] She had been on prednisone for 12 years to manage a giant cell arteritis and had had polymyalgia rheumatic since 1997."
+   },
+   {
+    "claim": "I.W. was discharged to a skilled nursing facility where she stayed from April 9, 2004 to April 20, 2004 and then transferred to the IRF for \u2018aggressive, intensive inpatient rehabilitation\u2019.",
+    "passage_id": 71,
+    "quote": "The inpatient rehabilitation facility (IRF) benefit is designed to provide intensive rehabilitation therapy in a resource intensive inpatient hospital environment for patients who, due to the complexity of their nursing, medical management, and rehabilitation needs, require and can reasonably be expected to benefit from an inpatient stay and an interdisciplinary team approach to the delivery of rehabilitation care.",
+    "case_fact": "[4] She was discharged to a skilled nursing facility where she stayed from April 9, 2004 to April 20, 2004 and then transferred to the IRF for \u2018aggressive, intensive inpatient rehabilitation\u2019."
+   },
+   {
+    "claim": "Her physician orders on IRF admission included 13 medications.",
+    "passage_id": 87,
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the intensity of rehabilitation therapy services provided in an IRF.",
+    "case_fact": "[5] However, her physician orders on IRF admission included 13 medications,"
+   },
+   {
+    "claim": "The appellant\u2019s medical director argued that progress notes show \u2018daily direct contact by a physiatrist throughout the patient\u2019s stay\u2019",
+    "passage_id": 87,
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the intensity of rehabilitation therapy services provided in an IRF.",
+    "case_fact": "[6] The appellant\u2019s medical director argued that progress notes show \u2018daily direct contact by a physiatrist throughout the patient\u2019s stay\u2019"
+   },
+   {
+    "claim": "The patient received three hours daily of therapy services, as well as specialized attention 24 hours a day from rehabilitation nurses.",
+    "passage_id": 87,
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the intensity of rehabilitation therapy services provided in an IRF.",
+    "case_fact": "[7] He also asserted that the patient received three hours daily of therapy services, as well as specialized attention 24 hours a day from rehabilitation nurses who could reinforce therapeutic techniques and provide continuous monitoring of progress as well as safety and education for the patient."
+   },
+   {
+    "claim": "Physical therapy totaling 60-90 minutes per day was provided every weekday.",
+    "passage_id": 87,
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the intensity of rehabilitation therapy services provided in an IRF.",
+    "case_fact": "[8] Physical therapy totaling 60-90 minutes per day was provided every weekday."
+   },
+   {
+    "claim": "Occupational therapy was provided almost every day for periods of time totaling between 15 and 120 minutes per day.",
+    "passage_id": 87,
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the intensity of rehabilitation therapy services provided in an IRF.",
+    "case_fact": "[9] Occupational therapy was provided almost every day for periods of time totaling between 15 and 120 minutes per day."
+   },
+   {
+    "claim": "I.W. had succeeded in raising all her ADL levels, most of them to her goal level, and had regained the ability to live at her daughter\u2019s home with modified independence.",
+    "passage_id": 87,
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the intensity of rehabilitation therapy services provided in an IRF.",
+    "case_fact": "[10] By her discharge after two weeks in the IRF, I.W. had succeeded in raising all her ADL levels, most of them to her goal level, and had regained the ability to live at her daughter\u2019s home with modified independence."
+   },
+   {
+    "claim": "I.W. was able to ambulate with her walker up to 150 feet and had exceeded her goal in stair climbing.",
+    "passage_id": 87,
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the intensity of rehabilitation therapy services provided in an IRF.",
+    "case_fact": "[10] By her discharge after two weeks in the IRF, I.W. had succeeded in raising all her ADL levels, most of them to her goal level, and had regained the ability to live at her daughter\u2019s home with modified independence."
+   },
+   {
+    "claim": "The patient must require the active and ongoing therapeutic intervention of multiple therapy disciplines (physical therapy, occupational therapy, speech-language pathology, or prosthetics/orthotics), one of which must be physical or occupational therapy.",
+    "passage_id": 86,
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the interdisciplinary approach to providing rehabilitation therapy services in an IRF.",
+    "case_fact": "[6] The appellant\u2019s medical director argued that progress notes show \u2018daily direct contact by a physiatrist throughout the patient\u2019s stay\u2019"
+   },
+   {
+    "claim": "The patient must generally require an intensive rehabilitation therapy program, as defined in section 110.2.2.",
+    "passage_id": 87,
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the intensity of rehabilitation therapy services provided in an IRF.",
+    "case_fact": "[7] He also asserted that the patient received three hours daily of therapy services, as well as specialized attention 24 hours a day from rehabilitation nurses who could reinforce therapeutic techniques and provide continuous monitoring of progress as well as safety and education for the patient."
+   },
+   {
+    "claim": "This intensive rehabilitation therapy program generally consists of at least 3 hours of therapy per day at least 5 days per week.",
+    "passage_id": 87,
+    "quote": "A primary distinction between the IRF environment and other rehabilitation settings is the intensity of rehabilitation therapy services provided in an IRF.",
+    "case_fact": "[7] He also asserted that the patient received three hours daily of therapy services, as well as specialized attention 24 hours a day from rehabilitation nurses who could reinforce therapeutic techniques and provide continuous monitoring of progress as well as safety and education for the patient."
+   },
+   {
+    "claim": "The intensive rehabilitation therapy program provided in IRFs is designed to provide patients with the opportunity to actively participate in and benefit from the therapy.",
+    "passage_id": 71,
+    "quote": "Therefore, patients who are not able to actively participate in and benefit from the intensive rehabilitation therapy services because they are still completing their course of treatment in the referring hospital should remain in the referring hospital until they are able to",
+    "case_fact": "[7] He also asserted that the patient received three hours daily of therapy services, as well as specialized attention 24 hours a day from rehabilitation nurses who could reinforce therapeutic techniques and provide continuous monitoring of progress as well as safety and education for the patient."
+   }
+  ],
+  "case_id": "altabates"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The certification period in issue covers August 27, 2008 through October 25, 2008.",
+    "passage_id": "192",
+    "quote": "EXAMPLE 1: SN x 7/wk x 1 wk; 3/wk x 4 wk; 2/wk x 3 wk,",
+    "case_fact": "The certification period in issue covers August 27, 2008 through October 25, 2008."
+   },
+   {
+    "claim": "The beneficiary was discharged from home health care on October 21, 2008, based on the general stability of his blood sugar, blood pressure and overall control of his conditions.",
+    "passage_id": "239",
+    "quote": "EXAMPLE 6: A patient with hypertension suffered dizziness and weakness. The physician found that the blood pressure was too low and discontinued the hypertension medication.",
+    "case_fact": "The beneficiary was discharged from home health care on October 21, 2008, based on the general stability of his blood sugar, blood pressure and overall control of his conditions."
+   },
+   {
+    "claim": "The beneficiary\u2019s medical history included Type II diabetes, benign hypertension, esophageal reflux and angina.",
+    "passage_id": "251",
+    "quote": "B. Oral Medications The administration of oral medications by a nurse is not reasonable and necessary skilled nursing care except in the specific situation in which the complexity of the patient's condition,",
+    "case_fact": "The beneficiary\u2019s medical history included Type II diabetes, benign hypertension, esophageal reflux and angina."
+   },
+   {
+    "claim": "The beneficiary was taking a variety of medications in pill form.",
+    "passage_id": "251",
+    "quote": "B. Oral Medications The administration of oral medications by a nurse is not reasonable and necessary skilled nursing care except in the specific situation in which the complexity of the patient's condition,",
+    "case_fact": "The beneficiary was taking a variety of medications in pill form."
+   },
+   {
+    "claim": "The beneficiary\u2019s mental status was oriented but depressed and his prognosis \u201cfair\u201d.",
+    "passage_id": "239",
+    "quote": "EXAMPLE 7: A patient has chronic non-healing skin ulcers, Diabetes Mellitus Type I, and spinal muscular atrophy. In the past, the patient\u2019s wounds have deteriorated,",
+    "case_fact": "The beneficiary\u2019s mental status was oriented but depressed and his prognosis \u201cfair\u201d."
+   }
+  ],
+  "case_id": "case_excellenthomecare"
+ }
+]

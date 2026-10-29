@@ -1,0 +1,105 @@
+[
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The beneficiary was a hospital inpatient on the date of service at issue.",
+    "passage_id": 403,
+    "quote": "Once a beneficiary is admitted to a hospital...",
+    "case_fact": "Initially, this claim was paid, but then an overpayment was assessed because the record showed that the beneficiary was a hospital inpatient on the date of service at issue."
+   },
+   {
+    "claim": "The ambulance transport was for emergency services during the ambulance transport.",
+    "passage_id": 434,
+    "quote": "Was transported in an emergency situation...",
+    "case_fact": "The ambulance report indicates that the beneficiary received emergency services during the ambulance transport."
+   },
+   {
+    "claim": "The patient was suffering from an illness or injury which contraindicated transportation by other means.",
+    "passage_id": 434,
+    "quote": "Was transported in an emergency situation...",
+    "case_fact": "On April 17, 2011, the beneficiary was transported from her residence to a hospital."
+   },
+   {
+    "claim": "The patient exhibited signs and symptoms of acute respiratory distress or cardiac distress such as shortness of breath or chest pain.",
+    "passage_id": 434,
+    "quote": "Exhibits signs and symptoms of acute respiratory distress...",
+    "case_fact": "The ambulance report states that the beneficiary was being transported due to chest pain."
+   },
+   {
+    "claim": "The patient exhibited signs and symptoms that indicate the possibility of acute stroke; or",
+    "passage_id": 434,
+    "quote": "Exhibits signs and symptoms that indicate the possibility of acute stroke;",
+    "case_fact": "The ambulance report states that the beneficiary was being transported due to chest pain."
+   },
+   {
+    "claim": "The patient had to remain immobile because of a fracture that had not been set or the possibility of a fracture.",
+    "passage_id": 434,
+    "quote": "Had to remain immobile because of a fracture...",
+    "case_fact": "The beneficiary was found in bed in the fowler position."
+   },
+   {
+    "claim": "The patient was experiencing severe hemorrhage; or",
+    "passage_id": 434,
+    "quote": "Was experiencing severe hemorrhage;",
+    "case_fact": "The ambulance report states that the beneficiary was being transported due to chest pain."
+   },
+   {
+    "claim": "The patient was unconscious or in shock; or",
+    "passage_id": 434,
+    "quote": "Was unconscious or in shock;",
+    "case_fact": "The ambulance report states that the beneficiary was being transported due to chest pain."
+   }
+  ],
+  "case_id": "12-1251"
+ },
+ {
+  "case_id": "altabates",
+  "verdict": "UNKNOWN",
+  "decision": "NOT_COVERED",
+  "reason": "ERROR timed out",
+  "findings": []
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary was 66 years old and entered the appellant\u2019s home health program on June 28, 2008.",
+    "passage_id": "192",
+    "quote": "EXAMPLE 1: SN x 7/wk x 1 wk; 3/wk x 4 wk; 2/wk x 3 wk,",
+    "case_fact": "The beneficiary was 66 years old and entered the appellant\u2019s home health program on June 28, 2008."
+   },
+   {
+    "claim": "The certification period in issue covers August 27, 2008 through October 25, 2008.",
+    "passage_id": "192",
+    "quote": "EXAMPLE 1: SN x 7/wk x 1 wk; 3/wk x 4 wk; 2/wk x 3 wk,",
+    "case_fact": "The certification period in issue covers August 27, 2008 through October 25, 2008."
+   },
+   {
+    "claim": "The beneficiary\u2019s medical history included Type II diabetes, benign hypertension, esophageal reflux and angina.",
+    "passage_id": "239",
+    "quote": "EXAMPLE 6: A patient with hypertension suffered dizziness and weakness. The physician found that the blood pressure was too low and discontinued the hypertension medication.",
+    "case_fact": "The beneficiary\u2019s medical history included Type II diabetes, benign hypertension, esophageal reflux and angina."
+   },
+   {
+    "claim": "The beneficiary was discharged from home health care on October 21, 2008, based on the general stability of his blood sugar, blood pressure and overall control of his conditions.",
+    "passage_id": "239",
+    "quote": "EXAMPLE 6: A patient with hypertension suffered dizziness and weakness. The physician found that the blood pressure was too low and discontinued the hypertension medication.",
+    "case_fact": "The beneficiary was discharged from home health care on October 21, 2008, based on the general stability of his blood sugar, blood pressure and overall control of his conditions."
+   },
+   {
+    "claim": "The beneficiary\u2019s mental status was oriented but depressed and his prognosis \u201cfair\u201d.",
+    "passage_id": "251",
+    "quote": "an able and willing caregiver to inject her insulin, skilled nursing care would be reasonable and necessary for the injection of the insulin.",
+    "case_fact": "The beneficiary\u2019s mental status was oriented but depressed and his prognosis \u201cfair\u201d. Further the beneficiary had a caregiver who provided assistance with activities of daily living as well as the administration of oral medications and injections of insulin."
+   },
+   {
+    "claim": "The beneficiary was discharged from home health care on October 21, 2008, based on the general stability of his blood sugar, blood pressure and overall control of his conditions.",
+    "passage_id": "251",
+    "quote": "an able and willing caregiver to inject her insulin, skilled nursing care would be reasonable and necessary for the injection of the insulin.",
+    "case_fact": "The beneficiary was discharged from home health care on October 21, 2008, based on the general stability of his blood sugar, blood pressure and overall control of his conditions."
+   }
+  ],
+  "case_id": "case_excellenthomecare"
+ }
+]

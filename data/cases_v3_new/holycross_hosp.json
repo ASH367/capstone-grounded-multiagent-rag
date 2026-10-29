@@ -1,0 +1,29 @@
+{
+ "case_id": "holycross_hosp",
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "service_at_issue": "Inpatient hospital admission (acute care) on February 6, 2004 and related services",
+ "facts": [
+  "This appeal involves inpatient hospital admission of, and related services provided to, the beneficiary on February 6, 2004. The claim was initially paid in February 2004. In February 2008, a Recovery Audit Contractor (RAC) informed the appellant that the appellant had been overpaid on this claim",
+  "The beneficiary was admitted with a chief complaint of abdominal pain radiating down to the back. His medical history included human immunodeficiency virus (HIV), AIDS, gastroesophageal reflux, history of bilateral macular degeneration, and hyperlipidemia. Exh. 2 at 54. The appellant argued below that the beneficiary\u2019s gallbladder disease, in combination with a compromised system due to HIV and AIDS, called for inpatient admission.",
+  "On the issue of waiver of the overpayment, in its request for Council review, the appellant argues that the ALJ erred by incorrectly calculating the period after the year on which the claim was initially paid and the year on which the overpayment determination was made. The appellant states, in part: [The appellant] assert[s] that the [ALJ] made a factual error in determining that this case was reopened within three years from the date of [the] initial claim payment, and therefore the [ALJ] erroneously failed to conclude that the [appellant] should be presumed without fault, and [the ALJ] erroneously failed to waive the determined overpayment."
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council modified the ALJ decision (applying the three-year no-fault presumption but finding it rebutted) and upheld the overpayment, provider liability under section 1879, and denial of waiver because the inpatient admission was not shown to be necessary and the provider was not without fault.",
+ "cited_sections": [],
+ "other_cites": [
+  "SSA 1862(a)(1)(A)",
+  "SSA 1862(a)(9)",
+  "SSA 1879",
+  "SSA 1870(b)",
+  "SSA 1870(c)",
+  "42 CFR 411.400(a)",
+  "42 CFR 411.404",
+  "42 CFR 411.406",
+  "42 CFR 405.980(b)(3)",
+  "MCPM (CMS Pub. 100-04) ch.30 sec.20, 30.1, 40.1, 40.1.1",
+  "MFMM (CMS Pub. 100-06) ch.3 sec.70.3.A, 80, 80.1, 90, 90.1"
+ ],
+ "scope": "included",
+ "key_quality": "no_mbpm_key"
+}

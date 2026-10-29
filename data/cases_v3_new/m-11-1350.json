@@ -1,0 +1,38 @@
+{
+ "case_id": "m-11-1350",
+ "domain": "snf",
+ "docket": "M-11-1350",
+ "service_at_issue": "SNF stay after Dec. 25, 2009 (Medicare Advantage; PT/OT and nursing; cellulitis)",
+ "facts": [
+  "the enrollee, 68 years old during the time period at issue, was hospitalized on November 18, 2009, for low back pain and urinary tract infection. Exh. 6, at 124-25. Her past medical history included bipolar disorder, depression, diet- controlled diabetes, hypercholesterolemia, and hypertension. Id. at 125.",
+  "the enrollee received skilled physical therapy (PT) and occupational therapy (OT) from November 22, 2009, to December 24, 2009. See id. at 67-102. The enrollee was discharged from *** on December 28, 2009, at which time she returned home. See id. at 114, 107.",
+  "On December 23, 2009, the provider notified the enrollee that Medicare coverage for her SNF stay would end on December 25, 2009. Exh. 2, at 45-46. Also on December 23, 2009, the enrollee\u2019s representative made a telephone request for an expedited determination to challenge the decision to end coverage of SNF services. See Exh. 4, at 56.",
+  "Before the ALJ, the enrollee argued that she could not leave the SNF before the attending physician examined her and signed discharge orders. See Exh. 6, at 138. She further argued that, as a practical matter, because of the Christmas holiday, the first opportunity for the physician to examine her was Monday, December 28, 2009. Id. She therefore argued that she should not be financially responsible for the three days of non-covered SNF charges incurred from December 26 to 28, 2009. Id.",
+  "Before the Council, the enrollee argues that the provider\u2019s medical records demonstrate that the enrollee\u2019s medical condition was such that she continued to need skilled observation and assessment by nursing staff, as well as skilled rehabilitation services, on and after December 26, 2009. See Exh. MAC-1.",
+  "In support of this contention, she points to PT and OT recertifications completed on December 23, 2009. See Exh. 6, at 70-73, 89-91, 115. In these documents, the therapists requested physician recertification of the need for PT for the period 12/22/2009- 1/20/2010 and for OT for the period 12/23/2009-1/21/2010."
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council adopted the ALJ decision: the enrollee did not require or receive daily skilled nursing (cellulitis treated with oral medication) and had reached most therapy goals after five weeks, so SNF coverage ended and she remained liable.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.8",
+   "section": "30"
+  },
+  {
+   "doc": "MBPM ch.8",
+   "section": "30.4.1.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 409.31(b)",
+  "42 CFR 422.608",
+  "42 CFR 422.566",
+  "42 CFR 405.1032",
+  "CMS Ruling 93-1",
+  "42 CFR 401.108",
+  "42 CFR 405.1063"
+ ],
+ "scope": "excluded",
+ "scope_reason": "Medicare Advantage SNF termination, different benefit rules",
+ "key_quality": "has_mbpm_key"
+}

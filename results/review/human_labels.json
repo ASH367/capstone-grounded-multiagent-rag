@@ -1,0 +1,722 @@
+{
+ "reviewer": "Ashish Ubale",
+ "exported": "2026-10-28T22:43:22.289Z",
+ "items": {
+  "CP4|dc_case": {
+   "answers": {
+    "decision": "CANNOT_TELL"
+   },
+   "note": ""
+  },
+  "CP4|eagle_air_med": {
+   "answers": {
+    "decision": "PARTLY_COVERED"
+   },
+   "note": ""
+  },
+  "CP4|estate_gbr": {
+   "answers": {
+    "decision": "CANNOT_TELL"
+   },
+   "note": ""
+  },
+  "CP4|gold_cross_ambulance": {
+   "answers": {
+    "decision": "CANNOT_TELL"
+   },
+   "note": ""
+  },
+  "CP2|12-1251": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP2|altabates": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": ""
+  },
+  "CP2|case_excellenthomecare": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP2|case_landmark": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": ""
+  },
+  "CP2|dc_case": {
+   "answers": {
+    "adequate": "NO"
+   },
+   "note": ""
+  },
+  "CP2|eagle_air_med": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": ""
+  },
+  "CP2|estate_gbr": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP2|gold_cross_ambulance": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP2|kaweah_rehabilitationhospital": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP2|m-11-1559": {
+   "answers": {
+    "adequate": "NO"
+   },
+   "note": ""
+  },
+  "CP2|m-11-2450": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": ""
+  },
+  "CP2|m_12_257": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": ""
+  },
+  "CP2|m_12_809": {
+   "answers": {
+    "adequate": "NO"
+   },
+   "note": ""
+  },
+  "CP2|midwest_lifeteam": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": ""
+  },
+  "CP2|nj_dept_humanservices5": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": ""
+  },
+  "CP2|prestige_homecare": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": ""
+  },
+  "CP2|rb_obo_jb": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP2|rx_homecare": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": ""
+  },
+  "CP2|sacredheart_hospital": {
+   "answers": {
+    "adequate": "NO"
+   },
+   "note": ""
+  },
+  "CP2|state_of_vt": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": ""
+  },
+  "CP2|uphams_homehealthcare": {
+   "answers": {
+    "adequate": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP2|visitingnursing": {
+   "answers": {
+    "adequate": "YES"
+   },
+   "note": ""
+  },
+  "CP1|12-1251": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|altabates": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|case_excellenthomecare": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|case_landmark": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|dc_case": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|eagle_air_med": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|estate_gbr": {
+   "answers": {
+    "facts": "NO",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|gold_cross_ambulance": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|kaweah_rehabilitationhospital": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|m-11-1559": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|m-11-2450": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|m_12_257": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|m_12_809": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|midwest_lifeteam": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|nj_dept_humanservices5": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|prestige_homecare": {
+   "answers": {
+    "facts": "NO",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|rb_obo_jb": {
+   "answers": {
+    "facts": "NO",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|rx_homecare": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|sacredheart_hospital": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|state_of_vt": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|uphams_homehealthcare": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP1|visitingnursing": {
+   "answers": {
+    "facts": "YES",
+    "outcome": "YES",
+    "sections": "YES"
+   },
+   "note": ""
+  },
+  "CP4|m_12_809": {
+   "answers": {
+    "decision": "CANNOT_TELL"
+   },
+   "note": ""
+  },
+  "CP4|midwest_lifeteam": {
+   "answers": {
+    "decision": "PARTLY_COVERED"
+   },
+   "note": ""
+  },
+  "CP4|rb_obo_jb": {
+   "answers": {
+    "decision": "CANNOT_TELL"
+   },
+   "note": ""
+  },
+  "CP4|sacredheart_hospital": {
+   "answers": {
+    "decision": "CANNOT_TELL"
+   },
+   "note": ""
+  },
+  "CP3|uphams_homehealthcare|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|12-1251|doc|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|case_excellenthomecare|base|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|sacredheart_hospital|doc|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|m-11-2450|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|rx_homecare|base|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|visitingnursing|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|altabates|doc|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|midwest_lifeteam|base|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|gold_cross_ambulance|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|rx_homecare|nec|0": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|12-1251|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|kaweah_rehabilitationhospital|base|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|nj_dept_humanservices5|nec|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|rx_homecare|elig|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|altabates|doc|0": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|gold_cross_ambulance|nec|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|midwest_lifeteam|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|estate_gbr|nec|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|altabates|doc|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|eagle_air_med|elig|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|eagle_air_med|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|state_of_vt|base|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|state_of_vt|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|m_12_809|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|sacredheart_hospital|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|state_of_vt|doc|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|midwest_lifeteam|elig|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|gold_cross_ambulance|elig|0": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|prestige_homecare|doc|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|altabates|base|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|eagle_air_med|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|estate_gbr|base|0": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|midwest_lifeteam|nec|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|m-11-1559|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|kaweah_rehabilitationhospital|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|m_12_809|nec|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|m_12_809|base|2": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|rx_homecare|doc|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|uphams_homehealthcare|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|m_12_257|base|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|state_of_vt|base|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|rx_homecare|elig|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|case_excellenthomecare|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|dc_case|base|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|altabates|nec|1": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|12-1251|base|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|estate_gbr|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|m_12_257|base|2": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|eagle_air_med|base|2": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|gold_cross_ambulance|base|2": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|m-11-2450|doc|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|sacredheart_hospital|elig|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|case_landmark|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|nj_dept_humanservices5|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|12-1251|elig|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|sacredheart_hospital|nec|0": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|m_12_809|base|0": {
+   "answers": {
+    "support": "PARTLY"
+   },
+   "note": ""
+  },
+  "CP3|rx_homecare|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  },
+  "CP3|m-11-1559|base|1": {
+   "answers": {
+    "support": "SUPPORTED"
+   },
+   "note": ""
+  }
+ }
+}

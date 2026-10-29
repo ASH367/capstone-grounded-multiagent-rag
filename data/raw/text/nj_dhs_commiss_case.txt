@@ -1,0 +1,204 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-10-2061
+
+
+In the case of                            Claim for
+
+Commissioner, State of New
+Jersey Dept. of Human                     Supplementary Medical
+Services                                  Insurance Benefits (Part B)
+(Appellant)
+
+
+****                                      ****
+(Beneficiary)                             (HIC Number)
+
+
+National Government
+Services, Inc.                            ****
+(Contractor)                              (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision on February
+18, 2010. The ALJ denied Medicare coverage for home health
+skilled nursing services provided to the beneficiary by Ocean
+County Board of Health from April 17, 2007, through October 13,
+2007, as not medically reasonable and necessary. 1 The appellant,
+a state Medicaid agency, as the beneficiary’s subrogee, has
+asked the Medicare Appeals Council (Council) to review the ALJ’s
+action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+The Council has admitted the appellant’s request for review and
+brief in support of the request into the record as Exhibit
+(Exh.) MAC-1.
+
+
+
+1
+   The ALJ determined that a speech therapy evaluation, provided during the
+same time period, would be covered. The ALJ did not address the issue of
+liability for the non-covered home health skilled nursing services.
+                                                                   2
+For the reasons and bases set forth below, the Council reverses
+the ALJ’s decision. Medicare coverage is available for the home
+health skilled nursing services furnished from April 17, 2007,
+through October 13, 2007.
+
+
+                BACKGROUND AND PROCEDURAL HISTORY
+
+The beneficiary is a male in his forties who has, among other
+medical conditions, diabetes and spina bifida with
+hydrocephalus. His medical history includes recurrent urinary
+tract infections, and anal and rectal abscesses. His bowel and
+bladder functions are maintained by colostomy and urostomy. He
+is totally dependent for his care. His mother acts as his
+primary caregiver. He cannot bear weight and requires maximum
+assistance to leave his home. At issue in this appeal are
+skilled nursing visits furnished by Ocean County Board of
+Health, the provider, from April 17, 2007, through October 13,
+2007.
+
+The contractor denied coverage for the nursing services at issue
+because they did not result in “significant changes in the
+patient’s condition”; nor were there any changes to the plan of
+care. Exh. 4, at 284. The Qualified Independent Contractor
+(QIC) determined that the nursing services were not medically
+reasonable and necessary. Exh. 5, at 308-09. Both the
+contractor and the QIC found the provider liable for the
+noncovered costs. Exhs. 4, at 283; 5, at 308.
+
+The ALJ denied coverage of the skilled home health nursing
+services, in essence, on the basis that, skilled observation and
+assessment by a nurse are not reasonable and necessary where, as
+in this case, the beneficiary’s “condition” is “chronic” and the
+problems for which the nursing services were furnished are “a
+part of a longstanding pattern of [his] condition” for which
+there has been “no attempt to change the treatment to resolve”
+the condition. See Dec. at 22-23.
+
+
+                           DISCUSSION
+
+The Council disagrees with the ALJ’s assessment of the evidence.
+We find that medically reasonable home health skilled nursing
+visits were provided on an intermittent basis during the dates
+of service.
+                                                                   3
+The skilled nursing services were needed, first, to observe and
+assess the beneficiary’s wounds, from April 17, through at least
+the first week of June 2007, and as well, to provide appropriate
+wound care training. The ALJ stated that “the record lacks
+documentation of the wound size, depth, nature of drainage and
+condition and appearance of the surrounding skin.” Dec. at 23.
+This statement does not accurately capture the contents of the
+records in the file, as they document the beneficiary’s open,
+exudating wound on the coccyx, which the nurses cleaned,
+irrigated, sterilized, packed, and covered. This activity
+itself is a skilled nursing service. 42 C.F.R. § 409.33(b)(5)
+(application of dressings involving prescription medications and
+aseptic techniques).
+
+Further, in our view, whether or not the beneficiary’s
+immobility or “chronic” condition(s) contributed to or caused
+the development of the beneficiary’s wounds in this case (see
+Dec. at 23) misses the point. The regulations state that, for a
+service to be considered reasonable and necessary, the service
+must be consistent with the nature and severity of the
+beneficiary’s condition, his or her medical needs, and accepted
+standards of medical and nursing practice. It must be
+reasonable within the context of his or her condition. See 42
+C.F.R. § 409.44(b)(3). Whether skilled nursing services are, or
+are not, medically reasonable and necessary, is a determination
+that must be made “solely on the beneficiary’s unique condition
+and individual needs, without regard to whether the illness or
+injury is acute, chronic, terminal, or expected to last a long
+time.” See 42 C.F.R. § 409.44(b)(3)(iii) (italics supplied);
+see also 42 C.F.R. § 409.32(c) (potential for restoration is not
+the deciding factor for determining the necessity of skilled
+services).
+
+Moreover, the ALJ did not consider whether the observation and
+assessment of the status of the beneficiary’s wounds for signs
+and symptoms of infection or other complications constituted a
+skilled, and medically necessary, nursing service for this
+beneficiary. We find that it was, in accordance with 42 C.F.R.
+section 409.33(a)(2). And, in addition to assessing the status
+of the beneficiary’s wound, the nurses instructed the
+beneficiary’s mother and sister on the beneficiary’s wound care
+regimen. The fact that, during the dates of service, the
+beneficiary apparently had at least one family member who is
+familiar with the beneficiary’s medical conditions and care
+needs and routinely acts as the primary caregiver does not
+necessarily warrant a conclusion that that family member’s
+                                                                   4
+caregiver services could effectively substitute those of a
+skilled nurse who possesses specialized knowledge of, and
+experience in, how to identify changes or complications in
+wounds and to assess any need for appropriate wound care
+intervention or instruction. 42 C.F.R. §§ 409.33(a)(2) and (3),
+409.44(b)(1)(iii); see also Medicare Benefit Policy Manual
+(MBPM), CMS Pub. 100-02, Ch. 7, sections 20.2; 40.1.1; 40.1.2.1;
+40.1.2.3; 40.1.2.8.
+
+Aside from the medically reasonable and necessary wound care-
+related skilled nursing services discussed above, the
+beneficiary also required ongoing skilled level of monitoring
+and assessment during the dates of service at issue to manage
+and evaluate his care plan in accordance with the physician’s
+directions. 42 C.F.R. § 409.33(a)(1). Particularly pertinent
+in this case are the beneficiary’s history of urinary tract
+infections and his bowel/bladder functions managed by colostomy
+and urostomy. The beneficiary experienced numerous medical
+complications related to his bowel and bladder functioning
+throughout the dates of service. He had a recurrence of urinary
+tract infection around mid-point during the six-month period at
+issue. He was hospitalized for several days in July 2007 for
+urosepsis and e.coli infection. He experienced another bout of
+urinary tract infection two months later. He experienced rectal
+bleeding more than once during the dates of service, and penile
+discharge (for which he was given prescription antibiotics).
+Tissue was found in the urostomy. The nurses noted abscesses in
+the rectum. The beneficiary developed a fistula near the
+colostomy site.
+
+During the dates of service at issue, the nurses provided
+medically reasonable and necessary management and evaluation of
+the beneficiary’s care plan. The beneficiary’s underlying
+conditions and complications related to his conditions required
+ongoing, intermittent intervention by skilled personnel to
+promote recovery and medical safety in view of the beneficiary’s
+overall condition. See MBPM, Ch. 7, § 40.1.2.2.
+                                                                   5
+
+                            DECISION
+
+Based on the foregoing reasons and bases, the Medicare Appeals
+Council reverses the ALJ’s decision. The home health skilled
+nursing services provided from April 17, 2007, through October
+13, 2007, are covered by Medicare, and reimbursement shall be
+made in accordance with this decision.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+                                   /s/ Susan S. Yim
+                                   Administrative Appeals Judge
+
+
+                                   /s/Constance B. Tobias, Chair
+                                   Departmental Appeals Board
+
+
+Date: December 15, 2010
+

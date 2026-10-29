@@ -1,0 +1,178 @@
+[
+ {
+  "case_id": "11-1343",
+  "decision": "COVERED",
+  "reason": "All three agents support coverage: therapy was furnished by the SNF, functional decline and strength deficits justified skilled PT/OT/ST, and nursing observation after the fall was documented.",
+  "passage_ids": [
+   669,
+   638,
+   640,
+   626
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "decision": "COVERED",
+  "reason": "Hospital records show a stay well beyond three days, and the file shows repeated medication adjustments for fluctuating blood pressure and heart rate, supporting skilled need.",
+  "passage_ids": [
+   574,
+   608
+  ]
+ },
+ {
+  "case_id": "baptist_health_care",
+  "decision": "NOT_COVERED",
+  "reason": "Case facts contain only liability and reopening arguments, with no admission order, certification, or clinical evidence of need for inpatient care, so coverage is not supported.",
+  "passage_ids": [
+   13,
+   29
+  ]
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "decision": "NOT_COVERED",
+  "reason": "Case facts are procedural only and show no qualifying hospital stay or any supporting evidence, so coverage is not supported.",
+  "passage_ids": [
+   571
+  ]
+ },
+ {
+  "case_id": "connecticut11",
+  "decision": "NOT_COVERED",
+  "reason": "Only post-hospital eligibility is supported; PT was discharged for a plateau due to dementia, skilled need is not shown, and the notice of non-coverage was signed, so coverage is not supported.",
+  "passage_ids": [
+   607,
+   596,
+   574
+  ]
+ },
+ {
+  "case_id": "gr",
+  "decision": "NOT_COVERED",
+  "reason": "No facts show homebound status, facility type, skilled nursing content, or supporting records for the home health services, so coverage is not supported.",
+  "passage_ids": [
+   186,
+   215,
+   185
+  ]
+ },
+ {
+  "case_id": "m-10-1884",
+  "decision": "NOT_COVERED",
+  "reason": "Therapy ended before the billed dates, the care appears related to the terminal condition, and no skilled care or qualifying stay length is shown.",
+  "passage_ids": [
+   595,
+   669,
+   563
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "decision": "COVERED",
+  "reason": "Insulin dosage changes after nurse-forwarded logs, medication compliance problems, and the UTI assessment show documented skilled observation needs.",
+  "passage_ids": [
+   238,
+   257,
+   268
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "decision": "COVERED",
+  "reason": "A stay of more than three inpatient days preceded same-day SNF transfer for the hematuria treated in hospital, with physician-ordered skilled nursing documented.",
+  "passage_ids": [
+   572,
+   579,
+   563
+  ]
+ },
+ {
+  "case_id": "m-12-1140",
+  "decision": "PARTLY_COVERED",
+  "reason": "Post-hospital eligibility and therapy through the September 30 discharge from PT/OT are supported, but need for continued therapy afterward is not shown.",
+  "passage_ids": [
+   579,
+   669,
+   563
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "decision": "NOT_COVERED",
+  "reason": "Facts are mainly the appellant's assertions; no initial evaluation, written treatment plan, or documented skilled need is shown, and goals were met.",
+  "passage_ids": [
+   636,
+   637,
+   640
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "decision": "NOT_COVERED",
+  "reason": "Facts are only the appellant's assertions; homebound status and maintenance-program documentation are not shown.",
+  "passage_ids": [
+   285,
+   292,
+   294
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "decision": "COVERED",
+  "reason": "Routine ostomy care is not skilled, but documented complications (infections, hospitalization, fistula, abscesses) required more frequent skilled nursing.",
+  "passage_ids": [
+   256,
+   257,
+   231,
+   232
+  ]
+ },
+ {
+  "case_id": "ny",
+  "decision": "NOT_COVERED",
+  "reason": "Case facts contain only the appellant's argument, with no records of hours, services, or skilled need.",
+  "passage_ids": [
+   341,
+   223
+  ]
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "decision": "NOT_COVERED",
+  "reason": "The beneficiary was placed in a noncertified bed and no skilled-need finding is shown, so SNF coverage is not supported; payment would depend on limitation of liability.",
+  "passage_ids": [
+   666,
+   607,
+   563
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "decision": "NOT_COVERED",
+  "reason": "Case facts are procedural and contain no clinical evidence that IRF requirements were met.",
+  "passage_ids": [
+   72
+  ]
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "decision": "COVERED",
+  "reason": "Documented skilled nursing observation (psychiatric monitoring, pneumonia), daily PT, and timely post-hospital admission support coverage.",
+  "passage_ids": [
+   629,
+   633,
+   632,
+   563
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "decision": "NOT_COVERED",
+  "reason": "The facts do not show a preadmission screening, post-admission evaluation, plan of care, or other required IRF documentation.",
+  "passage_ids": [
+   72,
+   74,
+   4
+  ]
+ }
+]

@@ -1,0 +1,475 @@
+               DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                      DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+
+
+In the case of                            Claim for
+
+                                          Hospital Insurance Benefits
+Baptist Health Care                       (Part A)
+(Appellant)
+
+
+****                                      ****
+(Beneficiaries)                           (HIC Numbers)
+
+
+HeathDataInsights, Inc.                   ****
+(Recovery Audit Contractor)               (ALJ Appeal Number)
+
+The Administrative Law Judge (ALJ) issued separate decisions,
+each dated January 22, 2009, pertaining to hospital services
+provided to nine beneficiaries. The decisions concerned
+overpayments assessed concerning hospitalizations related to the
+replacement of automatic implantable cardioverter defibrillators
+(AICD) provided to seven beneficiaries from February 3, 2005,
+through October 6, 2006, and hospitalizations for cardiac-
+related services provided to two beneficiaries from May 2, 2003,
+through September 15, 2003.1
+
+In each case the ALJ determined that there was insufficient
+evidence in the record to support a finding that the
+hospitalization was medically reasonable and necessary. Further
+the ALJ found that the appellant had acquired knowledge that
+hospitalization for such services would likely be excluded by
+Medicare. Thus, the appellant was found liable for the non-
+covered services in each case. The appellant has asked the
+Medicare Appeals Council (Council) to review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c). The appellant’s nine requests for
+1
+  For a complete list of beneficiaries, dates of service and corresponding
+types of service, see Appendix A.
+                                                                                2
+review, each dated March 17, 2009, have been entered into the
+record as Exhibits (Exh.) MAC-1 through MAC-9.
+
+                                 BACKGROUND
+
+Initially, the Medicare fiscal intermediary paid the appellant’s
+claims for the beneficiaries’ hospitalizations. See e.g.,
+beneficiary A.B. case file, Exh. 1 at 17. Subsequently,
+HealthDataInsights, Inc. (HDI), a Centers for Medicare &
+Medicaid Services (CMS) Recovery Audit Contractor (RAC)
+determined that the services should have been provided to the
+beneficiaries in an outpatient setting and, thus, the inpatient
+hospitalizations were not medically reasonable. Id. Upon
+appeal, the fiscal intermediary upheld the RAC’s determinations,
+finding that the initial claims were paid in error. Id. at 11.
+The appellant then requested reconsideration by a Qualified
+Independent Contractor (QIC), which found that, while the
+management of care received by the beneficiaries was
+foreseeable, the medical documentation in each case does not
+support the medical necessity for the acute hospitalizations.
+Id. at 3.
+
+In response to the QIC’s decisions, the appellant requested an
+ALJ hearing, which was held on January 13, 2009. See e.g.,
+beneficiary A.B. case file, Exh. 3. The ALJ found that the
+issue of whether the RAC had good cause to reopen claims that
+had been paid four years prior to the date of reopening had been
+addressed by the Council in Critical Care of North Jacksonville.2
+See e.g., beneficiary A.B. case file, Dec. at 7. The ALJ cited
+CMS’ reopening policy, as interpreted by the Council, i.e., that
+the regulations at 42 C.F.R. § 405.926(l) and § 405.980(a)(5) do
+not permit an ALJ to rule on whether the RAC had good cause to
+reopen a determination. Id. Thus, the ALJ stated that he would
+not address whether the RAC had good cause to reopen the claims
+at issue in his January 22, 2009, decisions. Id.
+
+The ALJ found that the appellant had not established that the
+nine inpatient hospitalizations at issue had been medically
+reasonable and necessary. Id. at 7-8.3 Further, the ALJ
+2
+  Critical Care of North Jacksonville (February 29, 2008) can be found on the
+Council’s webpage at http://www.hhs.gov/dab/macdecision/
+3
+  Additionally, the ALJ found that hospitalization for two beneficiaries, who
+were not included in the appellant’s request for review, was medically
+reasonable and necessary. The ALJ also issued an unfavorable determination
+for one beneficiary, similar to those at issue. However, the appellant did
+not request review for this beneficiary. Thus, the Council’s decision is
+                                                                              3
+concurred with the QIC in finding the appellant liable for the
+non-covered services for each beneficiary at issue. Id.; See
+also beneficiary A.B. case file, Exh. 1 at 4.
+
+
+                                 DISCUSSION
+
+In its nine separate requests for review, each dated March 17,
+2009, the appellant solely contests the ALJ’s findings
+concerning liability pursuant to Section 1879 of the Social
+Security Act (Act) and/or Section 1870 of the Act. Exhs. MAC-1
+through MAC-9. The Council therefore adopts the ALJ’s findings
+of non-coverage without further discussion. See e.g.,
+beneficiary A.B. case file, Dec. at 7-8.
+
+In determining beneficiary liability, the regulation codified at
+42 C.F.R. §411.404 provides that a beneficiary who receives
+services that are not reasonable and necessary “is considered to
+have known that the services were not covered if . . . written
+notice has been given to the beneficiary, or to someone acting
+on his or her behalf, that the services were not covered because
+they did not meet Medicare coverage guidelines.” As a
+preliminary matter, the Council notes that there is no
+indication that the appellant provided written notice to any of
+the beneficiaries stating that the services at issue would not
+be covered by Medicare. Thus, the Council finds that none of
+the beneficiaries whose claims were included in the overpayment
+determinations are liable for any of the non-covered services.
+
+The appellant claims, however, that the ALJ failed to adequately
+apply the limitation of liability provisions of § 1879 of the
+Act, 42 C.F.R. § 411.406, CMS Ruling 95-1 and a prior Council
+decision. See e.g., Exh. MAC-1 at 1. Section 1879 of the Act
+is applicable when an item or service is not covered by Medicare
+because it is determined to be custodial care, or not medically
+reasonable and necessary pursuant to sections 1862(a)(1) or
+(a)(9) of the Act. The statute provides that the liability for
+a non-covered item or service may be limited when a provider,
+practitioner, supplier, or beneficiary did not know, and could
+not have been reasonably expected to know, that the item or
+service would be found not covered by Medicare on the basis of
+sections 1862(a)(1) or (a)(9). 42 C.F.R. § 411.400.4
+
+limited to those beneficiaries for whom the appellant has requested review.
+See Appendix A.
+4
+  The Council notes that since an overpayment was assessed for the above-
+described services, section 1870 of the Act would apply as well.
+                                                                              4
+
+In accordance with regulations at 42 C.F.R. § 411.406 and CMS
+Ruling 95-1, the Medicare Claims Processing Manual (MCPM), CMS
+Pub. 100-4, Ch. 30, §§ 40.1 and 40.1.2 (in part) provide
+guidance concerning what constitutes evidence that a provider
+knew or should have known that Medicare would not pay for a
+service:
+
+       A Medicare contractor’s prior written notice to the
+        provider of Medicare denial of payment for similar or
+        reasonably comparable services,
+
+       Medicare’s general notices to the medical community of
+        Medicare payment denial of services under all or certain
+        circumstances (such notices include, but are not limited
+        to, manual instructions, bulletins, contractor’s written
+        guides and directives),
+
+       Provision of services inconsistent with acceptable
+        standards of practice in the local medical community,
+
+       The provider’s utilization review committee informed the
+        provider in writing that the services were not covered, and
+
+       A Medicare contractor previously issued a written notice to
+        the provider that Medicare payment for a particular service
+        or item is denied. This also includes notification of
+        Quality Improvement Organization (QIO) screening criteria
+        specific to the condition of the beneficiary for whom the
+        furnished services are at issue and of medical procedures
+        subject to preadmission review by the QIO.
+
+See MCPM §§ 40.1 and 40.1.2; See also 42 C.F.R. 411.406 and CMS
+Ruling 95-1 at page 18.5
+
+In each request for review, the appellant cites the Council’s
+findings in Niobrara Valley Hospital for the proposition that it
+should not be held liable for non-covered services based on the
+result of a post payment review because “post payment review
+
+5
+  CMS, then known as the Health Care Financing Administration (HCFA) issued
+Ruling 95-1 in December 1995. Ruling 95-1 explains the requirements for
+determining if Medicare payment will be made under the limitation on
+liability provisions, section 1879 of the Act, to a provider for certain
+services and items for which Medicare payment is denied. Ruling 95-1 can be
+found at www.cms.hhs.gov/Rulings/downloads/hcfar951.pdf
+                                                                             5
+                                     6
+does not constitute knowledge.”   See e.g., Exh. MAC-1 at 3.
+While our prior decisions are not precedental, the Council
+agrees that the principles of limitation of liability are
+relevant to the claims at issue. The Council agrees with the
+appellant that the performance of a post payment review itself
+cannot constitute knowledge of non-coverage of services provided
+and billed for prior to the assessment of the overpayment.
+
+In these cases, however, the ALJ did not claim that the provider
+had knowledge that Medicare would not pay for the services based
+on a post-payment review, but on the fact that CMS had issued
+relevant manuals, bulletins and written guidelines. See e.g.,
+beneficiary A.B. case file, Dec. at 8. We discuss these
+guidelines below.
+
+Medicare Coverage of Hospitalization for AICD Services
+
+The Council first notes that there was no dispute at any level
+of appeal that the seven beneficiaries at issue required
+hospital attention for their automatic implantable cardioverter
+defibrillators. The sole issue throughout the appellant’s
+appeals was whether the beneficiaries’ inpatient
+hospitalizations were medically reasonable and necessary at the
+time of their admissions to the appellant’s facility.
+
+The appellant specifically claims that it had no notice that the
+services at issue would not be covered by Medicare. See e.g.,
+Exh. MAC-1 at 3. The appellant cites the Federal Register to
+support its claim that it had no knowledge that Medicare would
+not cover the services at issue, and, to the contrary, believed
+that Medicare could cover inpatient replacement of automatic
+implantable cardioverter defibrillators (AICDs). See e.g., Id.
+at 4. For example, in the final rule regarding the Prospective
+Payment System (PPS) for Hospital Outpatient Services, CMS
+established that AICDs would be placed on the outpatient list in
+cases of “only the simplest and least resource intensive
+procedure” cases. See 65 Fed. Reg. 18462 (April 17, 2000). In
+addition to describing the new process, the notice discussed
+that CMS would establish and maintain an “Appendix E” to its
+yearly PPS update with a list of HCPCS/CPT codes that would
+remain covered only on an inpatient basis. Id. In pertinent
+part, the notice explains that:
+
+
+
+6
+  In the case of Niobrara Valley Hospital (March 27, 2003) can be found on the
+Council’s webpage at http://www.hhs.gov/dab/macdecision/
+                                                                             6
+      In the future, as part of our annual update process,
+      we will be working with professional societies and
+      hospital associations, as well as with the expert
+      outside advisory panel that we will be convening as
+      required by new section 1833(t)(9)(A) of the Act, to
+      reevaluate procedures on the “inpatient only” list
+      and we will propose to move procedures to the
+      outpatient setting whenever we determine it to be
+      appropriate. For example, a decreasing length of
+      inpatient stay for a procedure may signal that it is
+      appropriate for consideration for payment under the
+      outpatient PPS. If hospitals find that surgeons are
+      discharging patients successfully on the day of
+      surgery, they should bring this to our attention as
+      well, because hospitals may become aware of this trend
+      before our payment data disclose it. Thus, assignment
+      of a “C” payment status indicator in this final rule
+      should not be considered as a permanent or irrevocable
+      designation.
+
+Id.
+
+During each of the years of services at issue, 2003, 2005 and
+2006, AICD was included on “Appendix E” as a “C” class inpatient
+service. See e.g., CMS Hospital PPS update, CMS 1427P,
+“Appendix E,” November 19, 2004;7 See also InterQual Guidelines
+for Surgery and Procedures in the Inpatient Setting., IMPT-3,
+CMS Impatient List, Exh. MAC-1 at 6.
+
+The appellant also presents the June 1, 2006, statement of the
+Florida Medical Quality Assurance, Inc., (FMQAI), the CMS
+contracted Florida QIO. Exh. MAC-1 at 5. FMQAI alerted
+hospitals within its jurisdiction that
+
+      [a]s of July 1, 2006, FMQAI will no longer be
+      uniformly allowing these procedures to be billed as
+      inpatient services.... The medical record must contain
+      information that documents the need for an inpatient
+      level of care. Those cases that appear to be routine,
+      expected discharge within 24 hours and which do not
+      substantiate SI & IS criteria will be considered for
+      impatient billing denial.
+
+See “PTCA, PCI and AICD Pacemaker Billing,” FMQAI, June 1, 2006.
+7
+  Appendix E to the Hospital PPS update can be found at
+http://www.cms.hhs.gov/hospitaloutpatientpps/downloads/cms-1427-p_addE.pdf
+                                                                   7
+
+In summary, the appellant states that
+
+     Considering the FMQAI policy at the time of [the
+     services at issue], the guidance from the InterQual
+     Guidelines for Surgery and Procedures in the Inpatient
+     Setting, and the cited guidance of the Federal
+     Register, we assert that the provider had neither
+     actual nor constructive knowledge that the
+     [admissions] would not be considered covered
+     [services].
+
+See e.g., Exh. MAC-1 at 4.
+
+The Council agrees, in part, and finds that the provider did not
+know, and did not have reason to know, that Medicare would not
+cover automatic implantable cardioverter defibrillators services
+provided in an inpatient hospital setting until FMQAI issued its
+notice that effective July 1, 2006, these services would no
+longer be “uniformly allowed.” See “PTCA, PCI and AICD
+Pacemaker Billing,” FMQAI, June 1, 2006. Thus, the Council
+reverses the ALJ’s findings concerning liability for
+beneficiaries B.A., R.M., J.P., T.S. and J.W., finding that
+neither the beneficiaries nor the provider knew or could have
+reasonably been expected to know that the inpatient
+hospitalizations would not be covered. Similarly, the Council
+finds that the appellant was without fault in causing any
+overpayment for the above claims. Accordingly, the appellant is
+not required to refund to Medicare the payments for the
+hospitalizations for the above beneficiaries.
+
+For the two beneficiaries whose AICD services were provided
+after July 1, 2006, the Council finds that the provider knew, or
+should have known, that the services would not be covered by
+Medicare. As recounted above, the provider did not provide
+notice of non-coverage for these two beneficiaries.
+Accordingly, the provider is liable for the non-covered services
+and is not without fault for causing the overpayments.
+
+Medicare Coverage of Hospitalization for Cardiac, Non-AICD
+Services
+
+As stated above, the appellant does not request review of
+Medicare coverage for the services at issue for beneficiaries
+A.J. and J.M. See Exhs. MAC-8, MAC-9. Thus, the Council adopts
+                                                                   8
+the ALJ’s findings that the hospitalizations for cardiac
+services were not medically reasonable and necessary.
+
+In these cases, the appellant specifically contends that it
+disagrees with the ALJ’s decisions regarding Section 1870 of the
+Act, specifically challenging the RAC’s right to reopen the
+determinations concerning A.J. and J.M.   See e.g., Exh. MAC-8
+at 1. Specifically, the appellant argues that the RAC is
+limited in its right to reopen claims after three calendar years
+after the Medicare contractor’s initial payment, citing the
+Medicare Financial Management Manual. Id. at 2.
+
+CMS explained in its discussion on reopening claims for fraud or
+similar fault that when the proposed new appeals regulations
+were published, stating that “[s]ince a reopening of an initial
+determination is an administrative action to correct erroneous
+payment, there is no requirement for a burden of proof.”
+Medicare Program: Changes to the Medicare Claims Appeal
+Procedures; Proposed Rule, 67 Fed. Reg. 69311, 69327 (Nov. 15,
+2002). In the final rule, CMS considered and expressly declined
+to establish an evidentiary burden of proof to reopen or to
+create enforcement mechanisms for the good cause standard beyond
+CMS evaluation and monitoring of contractor performance.
+Medicare Program: Changes to the Medicare Claims Appeal
+Procedures; Interim Final Rule, 70 Fed. Reg. 11419, 11453 (Mar.
+8, 2005). A contractor’s decision on whether to reopen is final
+and not subject to appeal. 42 C.F.R. §§ 405.926(l),
+405.980(a)(5). This lack of jurisdiction extends to whether or
+not the contractor met good cause standards for reopening set
+forth in 42 C.F.R. § 405.980(b)(2).
+
+The ALJ also cited the relevant CMS’ reopening policy that does
+not permit an ALJ [or the Council] to rule on whether the RAC
+had good cause to reopen a determination. See e.g., beneficiary
+A.J. case file, Dec. at 8. The Council agrees and finds
+unpersuasive the appellant’s argument that it should be found
+without fault pursuant to Section 1870 of the Act because the
+RAC lacked good cause to reopen.
+
+Section 1870 of the Social Security Act (Act) provides, inter
+alia, that --
+
+     (b) where –
+
+          (1) more than the correct amount is paid under
+          this title to a provider of services . . . and
+                                                                   9
+          the Secretary determines (A) that, within such
+          period as he may specify, the excess over the
+          correct amount cannot be recouped from such
+          provider of services . . . , or (B) that such
+          provider of services . . . was without fault with
+          respect to the payment of such excess over the
+          correct amount . . .
+
+          proper adjustments shall be made, under
+          regulations prescribed . . . by the Secretary . .
+          . .
+
+Section 1870(b) of the Act applies to overpayments made by
+providers and suppliers, such as the appellant, and therefore is
+applicable here. Section 1870(b) provides waiver of liability
+for an overpayment in certain circumstances where a provider or
+supplier is “without fault.” The Medicare Financial Management
+Manual (MFMM) (CMS Pub. 100-06), instructs that a provider or
+supplier is “without fault” when the provider or supplier:
+
+     exercised reasonable care in billing for, and
+     accepting the payment; i.e.;
+
+          • It made full disclosure of all material facts;
+          and
+          • On the basis of the information available to
+          it, including, but not limited to, the Medicare
+          instructions and regulations, it had a reasonable
+          basis for assuming that the payment was correct,
+          or, if it had reason to question the payment; it
+          promptly brought the question to the [fiscal
+          intermediary’s] attention.
+
+MFMM, Ch. 3 § 90.
+
+The Council agrees with the ALJ and finds that the appellant is
+“not without fault in regards to the overpayment received and
+liability is not waived under Section 1870 of the Act.” Id. at
+9. Medicare had issued various relevant instructions and
+regulations concerning cardiac-related hospitalizations during
+the dates of service at issue, including but not limited to, the
+instructions from the FMQAI and in the InterQual Guidelines that
+the appellant submitted in support of its arguments concerning
+the defibrillator-related hospitalizations. Thus, the appellant
+is not without fault and is responsible for the overpayments
+                                                                  10
+assessed concerning the non-covered services provided to
+beneficiaries A.J. and J.M..
+
+                           CONCLUSION
+
+The Council agrees with the ALJ in part and modifies the ALJ’s
+nine decisions dated January 22, 2009 as follows. The Council
+finds that the provider did not know, or have any reason to
+know, that Medicare would not cover automatic implantable
+cardioverter defibrillators services until FMQAI issued its
+notice that effective July 1, 2006, these services would not
+longer be “uniformly allowed.” Thus, the Council reverses the
+ALJ’s findings concerning liability for beneficiaries B.A.,
+R.M., J.P., T.S. and J.W., and finds that the intermediary may
+not collect an overpayment for the inpatient hospital services
+provided to those beneficiaries during the periods at issue.
+
+For the two beneficiaries whose AICD services were provided
+after July 1, 2006, the Council finds that the provider knew, or
+should have known, that the services would not be covered by
+Medicare. Thus, the provider is liable for the non-covered
+services, and therefore responsible the resulting overpayment,
+concerning the hospital stays for beneficiaries J.D. and A.D..
+
+The Council agrees with the ALJ in finding that the appellant is
+“not without fault in regards to the [remaining] overpayment
+received” concerning beneficiaries A.J. and J. M. pursuant to
+Section 1870 of the Act. The hearing decision is modified
+accordingly.
+
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ M. Susan Wiley
+                                   Administrative Appeals Judge
+
+
+
+                                   /s/ Gilde Morrison
+                                   Administrative Appeals Judge
+Date: June 26, 2009
+

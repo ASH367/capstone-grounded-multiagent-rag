@@ -1,0 +1,166 @@
+[
+ {
+  "case_id": "11-1343",
+  "decision": "COVERED",
+  "reason": "Hip-fracture PT began at moderate-to-maximal assist with weakness; this need is skilled rehabilitation, and moving from dependence is not maintenance-level, so the necessity objection is unsupported.",
+  "passage_ids": [
+   640,
+   669,
+   638
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "decision": "COVERED",
+  "reason": "The submitted 12-day hospital stay exceeds 3 days, and the record shows repeated medication adjustments for fluctuating blood pressure and heart rate by nursing, supporting skilled need.",
+  "passage_ids": [
+   574,
+   608
+  ]
+ },
+ {
+  "case_id": "baptist_health_care",
+  "decision": "NOT_COVERED",
+  "reason": "The facts only recite the appellant's notice arguments; no clinical facts show an inpatient level of care was needed, and the QIO notice says routine short-stay cases would be denied.",
+  "passage_ids": [
+   13,
+   29
+  ]
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "decision": "NOT_COVERED",
+  "reason": "The facts are procedural only and show no qualifying hospital stay or skilled care, so coverage is not supported.",
+  "passage_ids": [
+   571
+  ]
+ },
+ {
+  "case_id": "connecticut11",
+  "decision": "PARTLY_COVERED",
+  "reason": "Admission followed a qualifying hospital stay, but PT was discharged on Feb 7 for plateau and a non-coverage notice was issued around Feb 15, so the early stay is supported and the later period is not.",
+  "passage_ids": [
+   574,
+   607
+  ]
+ },
+ {
+  "case_id": "gr",
+  "decision": "NOT_COVERED",
+  "reason": "Nothing in the facts shows the assisted living residence qualifies as home, homebound status, or a certification, so coverage is not supported.",
+  "passage_ids": [
+   185,
+   215
+  ]
+ },
+ {
+  "case_id": "m-10-1884",
+  "decision": "NOT_COVERED",
+  "reason": "Skilled PT and OT ended in January 2009, before the disputed dates beginning January 28, and no skilled services are shown on those dates.",
+  "passage_ids": [
+   669,
+   563,
+   595
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "decision": "COVERED",
+  "reason": "Nurses repeatedly assessed and monitored, and arranged physician-directed insulin changes, medication non-compliance problems and a UTI in a legally blind diabetic, which is documented skilled observation.",
+  "passage_ids": [
+   238,
+   257
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "decision": "COVERED",
+  "reason": "The Feb 12-17 stay counts as at least 3 inpatient days (admission day counted), SNF admission was direct, and a physician ordered skilled nursing to monitor hematuria and the catheter.",
+  "passage_ids": [
+   572,
+   563
+  ]
+ },
+ {
+  "case_id": "m-12-1140",
+  "decision": "PARTLY_COVERED",
+  "reason": "Qualifying stay and direct admission support coverage while skilled PT/OT continued, but therapy ended Sept 30 for medical reasons and the facts do not support continued rehabilitative coverage afterward.",
+  "passage_ids": [
+   579,
+   669
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "decision": "PARTLY_COVERED",
+  "reason": "Skilled PT with steady progress after the Sept 2 fall supports coverage, but the appellant concedes goals were met by Sept 11, 2008, so later services are not shown necessary.",
+  "passage_ids": [
+   636,
+   639
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "decision": "PARTLY_COVERED",
+  "reason": "Stair-lift and stair-safety PT instruction is reasonable and necessary, but visits solely to train aides or set up an aide program are not billable.",
+  "passage_ids": [
+   285,
+   292
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "decision": "COVERED",
+  "reason": "The beneficiary had recurrent UTIs, urosepsis, bleeding, abscesses and a fistula, so nursing evaluation of complications is skilled and documented, distinct from routine ostomy care.",
+  "passage_ids": [
+   257,
+   231,
+   232
+  ]
+ },
+ {
+  "case_id": "ny",
+  "decision": "PARTLY_COVERED",
+  "reason": "Part-time or intermittent home health is covered only up to the limits (under 8 hours daily and 28 hours weekly), so hours up to the limit may be covered and hours beyond are not.",
+  "passage_ids": [
+   341,
+   177
+  ]
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "decision": "NOT_COVERED",
+  "reason": "Placement in a noncertified bed is payable only under limitation-of-liability conditions, and the facts do not show those conditions were met.",
+  "passage_ids": [
+   666,
+   607
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "decision": "NOT_COVERED",
+  "reason": "The facts are procedural only and contain no beneficiary-level assessments showing IRF coverage criteria were met.",
+  "passage_ids": [
+   72
+  ]
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "decision": "PARTLY_COVERED",
+  "reason": "A qualifying stay and skilled nursing and PT support coverage in early August through behavior stabilization and pneumonia treatment, but the facts do not support skilled need through August 31.",
+  "passage_ids": [
+   629,
+   633,
+   579
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "decision": "COVERED",
+  "reason": "Post-knee-replacement IRF stay with IV/IM medication, severe pain managed by PCA, and moderate-to-maximal assistance needs after prior independence shows reasonable and necessary IRF care.",
+  "passage_ids": [
+   72,
+   74
+  ]
+ }
+]

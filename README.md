@@ -1,59 +1,34 @@
-# Grounded Multi-Agent RAG for Healthcare Workflow Automation - Milestone 1
+# Grounded Multi-Agent RAG for Healthcare Workflow Automation
 
-CSCI 788 capstone (RIT). Advisor: Prof. Xumin Liu.
+CSCI 788 capstone, Rochester Institute of Technology. Student: Ashish Ubale. Instructor: Prof. Leon Reznik.
+(Faculty advisor: under discussion; see the weekly status updates.)
 
 ## What this is
-A pipeline that takes a prior-authorization request for facet joint interventions and returns a
-decision in CMS vocabulary (provisional affirmation / partial affirmation / non-affirmation),
-where every finding cites the exact policy passage it relies on.
+A pipeline that checks Medicare coverage questions against public CMS policy. Three specialist agents
+(Eligibility, Medical Necessity, Documentation) retrieve and cite policy passages, and an orchestrator returns
+COVERED / NOT_COVERED / PARTLY_COVERED with the cited passages. A single-agent RAG system is the baseline.
+Research question: does splitting the task across agents improve grounded, auditable decisions over one agent?
+Success measures (project specification): groundedness, hallucination rate, decision accuracy, latency.
 
-## Data (all public; nothing in the evaluation set is written by us)
-- **Policies:** CMS OPD Prior Authorization FAQ (Nov 14, 2024) and LCD L38765 *Facet Joint Interventions for Pain Management*
-  (v27), unmodified. See `data/policies/SOURCES.md`.
-- **Cases (15):** 14 real, name-redacted Texas Dept. of Insurance Independent Review Organization decisions on facet /
-  medial branch block / radiofrequency procedures (each with the real outcome, upheld or overturned) + 1 open-access
-  published case report (PMC13276552). See `data/cases/MAPPING_NOTES.md`.
-- **Code smoke tests (made up, NOT results):** `tests/smoke_cases/`.
+## Data (all public, nothing synthetic)
+- Policies: Medicare Benefit Policy Manual ch.1, 6, 7, 8, 10 (cms.gov, unmodified). Indexes: `data/index_v2` (ch.1/7/10, 463 chunks), `data/index_v3` (adds ch.6/8, 692 chunks).
+- Cases: real HHS Departmental Appeals Board / Medicare Appeals Council decisions. Patient facts are copied verbatim, outcomes stripped; the answer key is the manual sections the decision cites.
+  `data/cases_v2` (22 original), `data/cases_v2_clean` (adjudicator-finding facts removed), `data/cases_v3_heldout_clean` (18 held-out, never used for tuning).
+- Raw files: `data/raw`.
 
-## Pipeline
-1. `src/ingest.py` - chunks the two documents into 85 citable units
-   (62 FAQ questions, 23 LCD criterion/limitation blocks) -> `data/index/chunks.json`.
-2. `src/retriever.py` - TF-IDF + cosine similarity baseline, restricted per agent to its document.
-3. `src/agents.py` - Eligibility (FAQ), Medical Necessity (LCD), Documentation (LCD). Each criterion is
-   evaluated by explicit rules on the case fields and cited with the retrieved chunk.
-4. `src/orchestrator.py` - aggregates per-service decisions (incl. the LCD 1-2 level limit) -> `results/milestone1_output.json`.
+## Results so far (details in `results/*.md`)
+- Held-out (18 cases, 3 runs): single-agent 11.0/18 (61%), multi-agent 9.7/18 (54%), majority baseline 39% (`results/heldout_m2.md`).
+- Original 22 cases, cleaned, 3 runs: multi 16.7 +/- 1.5, single 18.7 +/- 1.5 (`results/repeat_runs_m2.md`).
+- Leak audit: removing facts that reveal the outcome did not inflate results (`results/leak_ablation_m2.md`).
+- Human review by the author (112 items, `results/review/human_labels.json`): finding support 80% multi-agent vs 67% single-agent, 0% unsupported in either (30 findings each); Cohen's kappa vs AI reviewers 0.35 (finding support), 0.54 (retrieval).
+- Negative result: a per-component orchestrator did not help (`results/orchestrator_v2_m2.md`).
+- Not yet done: latency in seconds (live backend run), dense-embedding retrieval, LangGraph wrapper, second human reviewer.
 
-Run: `pip install -r requirements.txt && python src/ingest.py && python src/orchestrator.py`
+## AI assistance and verification
+Claude (Anthropic) was used to help write code, to play the agent roles in file-based runs (every prompt and response is saved in `results/`), to extract case facts, and to draft analyses. The author verified outputs, performed the human review himself, and reports AI reviewer labels separately as AI. Citation validity is checked mechanically by script.
 
-## Milestone 1 results (15 real cases)
-| Measure | Result |
-|---|---|
-| Citations verified present in the index | 172/172 |
-| Retrieval hit@1 / hit@3 vs hand-labelled gold chunk | 172/172 / 172/172 (queries are close to policy wording; optimistic) |
-| System decision | 14 NON-AFFIRMATION, 1 INSUFFICIENT INFORMATION |
-| vs. real IRO outcome | upheld denials: 9/9 non-affirmed; overturned denials: 0/5 affirmed |
-| Cases where the reviewer cited radiculopathy (4) | system hard-failed the radiculopathy criterion in 4/4 |
-
-What the results mean
-- The system is far stricter than the real reviewers: it fails 13/14 cases on "no non-facet pathology", because the
-  rule treats any listed disc finding as disqualifying. The LCD names fracture/tumor/infection/significant deformity.
-  That rule is too blunt. It was NOT tuned to these labels (that would overfit); fixing it needs a held-out split (Milestone 2).
-- Redacted/summarised records leave most criteria UNKNOWN (e.g., 14/14 have no disability scale, no pain duration).
-- The reviewers used ODG/ACOEM, not LCD L38765, so agreement with the outcome is an external check, not LCD accuracy.
-- The 5/5 and 72/72 numbers from the made-up smoke tests are not reported as results.
-
-## Honest limitations
-- Decisions are rule-based and extractive; no LLM generates text yet.
-- Retrieval queries are written close to the policy wording, so retrieval scores are optimistic.
-- Case facts come from decision summaries, not full medical records; no case has an LCD-based label yet.
-- 15 cases, no held-out split, rules not tuned. This is a baseline, not an accuracy claim.
-
-## Milestone 2 plan
-LangGraph orchestration; LLM-generated rationales under the same citation contract; larger,
-harder case set (incl. adversarial queries not phrased like the policy); dense-embedding retrieval vs
-this TF-IDF baseline; single-agent vs multi-agent comparison on groundedness, hallucination rate,
-decision accuracy and latency.
-
+## Layout
+`rag/` Milestone 2 pipeline, retrieval, review layer; `data/`; `results/`; `src/`, `scripts/`, `tests/` Milestone 1 early prototype (see below).
 
 ## Milestone 2 additions
 - `rag/retrievers.py`, `rag/eval_retrieval_v2.py`: TF-IDF vs BM25 vs LSA vs hybrids. Chosen on the development cases only; the test cases were scored once. Result: LSA looked better on dev but did not beat TF-IDF on test, so TF-IDF stays (results/retrieval_m2.json). `rag/embed_retriever.py` is an untested dense-embedding option to run on a machine that can download models.
@@ -63,4 +38,13 @@ decision accuracy and latency.
 - data/NEXT_BATCH.md lists the next decisions and manual chapter to download.
 
 ### AI review results (not human)
-`results/review/ai_labels.json` holds labels from three blind Claude subagent reviewers (A: decisions and retrieval, B: finding support, C: data fidelity). These are AI judgments, not human verification, and `review_summary.json` says so. Treat them as a stand-in until a person labels `results/review/reviewer.html`. The same model family produced the outputs, so the numbers may be optimistic. CP1 did not re-check outcome labels.
+`results/review/ai_labels.json` holds labels from three blind Claude subagent reviewers. These are AI judgments, not human verification, and are summarized separately in `results/review/review_summary_ai.json`. The human labels are in `human_labels.json`.
+
+## Archived: early prototype (superseded)
+`src/`, `scripts/build_iro_cases.py`, `tests/smoke_cases` and `data/cases` hold an earlier rule-based prototype for facet-joint prior authorization (LCD L38765, Texas IRO decisions). It was replaced by the Medicare coverage pipeline above and is not part of the reported results. Its smoke-test cases are made up and are not results.
+
+
+### Added Oct 28
+- `rag/langgraph_app.py`: LangGraph version of the multi-agent graph (three specialists in parallel, then the orchestrator) with a pluggable backend and per-call timing. Tested with a mock backend only (`results/_mock_harness_test_NOT_RESULTS`, not a result).
+- `rag/eval_dense_heldout.py`: TF-IDF vs dense retrieval on the held-out cases (TF-IDF result in `results/retrieval_heldout_m2.txt`; dense needs a local embedding model).
+- `results/sensitivity_m2.md`, `results/fault_injection_m2.md`: sensitivity analysis and error-propagation test.

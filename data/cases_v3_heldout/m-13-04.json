@@ -1,0 +1,31 @@
+{
+ "case_id": "m-13-04",
+ "domain": "snf",
+ "docket": "M-13-04",
+ "service_at_issue": "SNF services October 22-27, 2010 (post-hospital SNF stay) and liability for non-covered charges",
+ "facts": [
+  "This matter involves SNF services the appellant provider furnished to the beneficiary from October 22, 2010, through October 27, 2010. Exh. MAC-1, at 1. The contractor, National Government Services (NGS), denied Medicare coverage initially and on redetermination. Exh. 16, at 1.",
+  "In addition, a letter from the appellant dated October 25, 2010, and addressed to the beneficiary\u2019s representative, indicates that the SNF services provided to the beneficiary will cease to be covered by Medicare as of October 28, 2010. Id. at 52.",
+  "3. The ALJ erred in applying section 1879 of the Act to limit appellant\u2019s liability. See 42 C.F.R. \u00a7 405.1063(a). The ALJ failed to consider section 411.406(e) of Title 42 of the CFR, stating providers participating in Medicare have constructive knowledge of the Act, the C.F.R., and program guidance published by CMS and its contractors. 4. The ALJ erred in finding appellant furnished the beneficiary with sufficient notice of non-coverage. The ALJ failed to consider sections 40.3.1.2 and 70.5 of chapter 30 of the Medicare Claims Processing Manual which require an ABN of Medicare non-coverage to be furnished in advance of the service."
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "On CMS own-motion review the Council held the SNF services not covered (unchallenged), reversed the ALJ on liability, and held the provider, not the beneficiary, liable because no adequate advance notice was given and the provider had constructive knowledge and lacked valid physician certification.",
+ "cited_sections": [],
+ "other_cites": [
+  "SSA 1862(a)(1)",
+  "SSA 1814(a)(2)(B)",
+  "SSA 1879",
+  "42 CFR 411.400",
+  "42 CFR 411.404",
+  "42 CFR 411.406",
+  "42 CFR 411.408",
+  "42 CFR 489.21(b)(1)",
+  "42 CFR 405.1046(a)",
+  "42 CFR 405.1020",
+  "42 CFR 405.1008",
+  "42 CFR 405.1022",
+  "MCPM ch.30 40.3, 40.3.4.2, 40.3.8"
+ ],
+ "scope": "included",
+ "key_quality": "no_mbpm_key"
+}

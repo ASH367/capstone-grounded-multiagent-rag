@@ -1,0 +1,5 @@
+Retrieval on held-out cases (index_v3, 10 cases with an MBPM key). Dense = Ollama nomic-embed-text, off the shelf; nothing tuned on these cases.
+tfidf   n=10  top5: exact 35% related 66%  top10: exact 56% related 74%
+dense   n=10  top5: exact 18% related 49%  top10: exact 44% related 79%
+hybrid  n=10  top5: exact 37% related 66%  top10: exact 63% related 88%
+Hybrid = z-scored TF-IDF + dense. n=10 is small (one case = 10 points); treat as indicative.

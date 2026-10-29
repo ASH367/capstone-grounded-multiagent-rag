@@ -1,0 +1,296 @@
+[
+ {
+  "case_id": "11-1343",
+  "components": [
+   {
+    "name": "SNF PT/OT/ST therapy services",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "All three agents support coverage: documented functional decline, skilled therapy needs, and strength/ADL measurements.",
+  "passage_ids": [
+   638,
+   640,
+   669
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "components": [
+   {
+    "name": "SNF stay",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Hospital records show a qualifying stay and the file shows ongoing medication adjustments needing skilled observation; documentation supports coverage and no agent opposes.",
+  "passage_ids": [
+   574,
+   608
+  ]
+ },
+ {
+  "case_id": "baptist_health_care",
+  "components": [
+   {
+    "name": "Inpatient admissions",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents are UNKNOWN; case facts address only liability and reopening, with no clinical or admission-order evidence of need for inpatient care.",
+  "passage_ids": [
+   13,
+   29
+  ]
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "components": [
+   {
+    "name": "SNF stay",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "Case facts are purely procedural and show no qualifying hospital stay or any coverage evidence.",
+  "passage_ids": [
+   571
+  ]
+ },
+ {
+  "case_id": "connecticut11",
+  "components": [
+   {
+    "name": "SNF stay after notice of non-coverage",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "Only eligibility is supported; skilled need after the PT plateau is unsettled, and the notice is in dispute with no evidence of continued skilled need.",
+  "passage_ids": [
+   607,
+   596,
+   574
+  ]
+ },
+ {
+  "case_id": "gr",
+  "components": [
+   {
+    "name": "Home nursing services at assisted living facility",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents are UNKNOWN; no facts show homebound status, nursing content, or supporting documentation.",
+  "passage_ids": [
+   186,
+   215,
+   185
+  ]
+ },
+ {
+  "case_id": "m-10-1884",
+  "components": [
+   {
+    "name": "SNF care Jan 28-Mar 1, 2009",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "Therapy ended before the billed dates, no skilled care is shown, and terminal-condition care is not billed through Part A.",
+  "passage_ids": [
+   595,
+   669,
+   563
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "components": [
+   {
+    "name": "Home health skilled nursing visits",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Insulin dose changes after nurse-forwarded logs show an unstabilized regimen needing skilled observation, and it is documented in visit notes.",
+  "passage_ids": [
+   238,
+   257,
+   268
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "components": [
+   {
+    "name": "SNF stay after hematuria hospitalization",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Qualifying stay, same-day SNF transfer, and SNF care for the hospital-treated condition are all supported and documented.",
+  "passage_ids": [
+   572,
+   579,
+   563
+  ]
+ },
+ {
+  "case_id": "m-12-1140",
+  "components": [
+   {
+    "name": "SNF care through PT/OT discharge on Sept 30, 2011",
+    "decision": "COVERED"
+   },
+   {
+    "name": "Continued rehabilitative therapy after Sept 30, 2011",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "PARTLY_COVERED",
+  "reason": "Post-hospital eligibility and therapy are supported while it was furnished, but the need for continued therapy is unsettled and the provider discharged her for unstable vitals.",
+  "passage_ids": [
+   579,
+   669
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "components": [
+   {
+    "name": "SNF PT and ST services",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents are UNKNOWN; facts are largely appellant assertions with no evaluation or treatment plan shown.",
+  "passage_ids": [
+   636,
+   637,
+   640
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "components": [
+   {
+    "name": "W.B. physical therapy visits",
+    "decision": "NOT_COVERED"
+   },
+   {
+    "name": "D.W. PT sessions and home health aide visits",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents are UNKNOWN; facts are only appellant assertions with no homebound status or documentation of the therapy content.",
+  "passage_ids": [
+   285,
+   292,
+   294
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "components": [
+   {
+    "name": "Skilled nursing visits Apr-Oct 2007",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Ostomy complications, recurrent infections, and hospitalization show skilled need beyond routine colostomy care, and it is documented.",
+  "passage_ids": [
+   256,
+   257,
+   231,
+   232
+  ]
+ },
+ {
+  "case_id": "ny",
+  "components": [
+   {
+    "name": "Home health aide/nursing hours",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents are UNKNOWN; there are no facts on skilled need or services furnished, only the appellant's argument.",
+  "passage_ids": [
+   341,
+   223
+  ]
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "components": [
+   {
+    "name": "Admission Sept 29-Nov 27, 2003",
+    "decision": "COVERED"
+   },
+   {
+    "name": "Admission Dec 11, 2003-Jan 6, 2004",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "Both admissions followed a qualifying stay with physician-ordered skilled IV/IM care, and no certified bed was available, which fits the limitation-of-liability conditions.",
+  "passage_ids": [
+   607,
+   666,
+   563
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "components": [
+   {
+    "name": "IRF services",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents are UNKNOWN; facts are procedural with no clinical records showing the IRF requirements.",
+  "passage_ids": [
+   72
+  ]
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "components": [
+   {
+    "name": "SNF care Aug 2009",
+    "decision": "COVERED"
+   }
+  ],
+  "decision": "COVERED",
+  "reason": "All agents support coverage: documented skilled nursing observation, pneumonia treatment, daily PT, and a timely post-hospital admission.",
+  "passage_ids": [
+   629,
+   633,
+   563,
+   632
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "components": [
+   {
+    "name": "IRF services Jul 17-24, 2003",
+    "decision": "NOT_COVERED"
+   }
+  ],
+  "decision": "NOT_COVERED",
+  "reason": "All agents are UNKNOWN; no preadmission screening or required IRF documentation is shown.",
+  "passage_ids": [
+   72,
+   74,
+   4
+  ]
+ }
+]

@@ -1,0 +1,31 @@
+{
+ "case_id": "11-1546",
+ "domain": "snf",
+ "docket": "M-11-1546",
+ "service_at_issue": "SNF services Feb 2 - Mar 3, 2010 (Part A)",
+ "facts": [
+  "Both the provider and the State Medicaid Agency requested review of the ALJ\u2019s decision, each contending that the beneficiary had a qualifying three-day stay. See Exhs. MAC-1; MAC-2. The provider submits, as evidence of the three-day stay, hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay at *** *** Hospital. See id. The State Medicaid Agency further contends that it was under a \u201cgood faith impression\u201d that the relevant evidence regarding the qualifying three-day hospital stay was contained in the claim file. See MAC-2. Lastly, the State Medicaid agency contends that the beneficiary\u2019s SNF stay met the criteria for Medicare coverage. Id.",
+  "In the instant case, the beneficiary is a deaf mute with Alzheimer\u2019s dementia who had difficulty communicating. Exh. 4 at 36, 194, see also, id. at 3-25. The record indicates that he had diagnoses of pneumonia, shortness of breath, acute myocardial infarction, atrial flutter, and renal insufficiency. Id. at 36, 194; MAC-1 at 3.",
+  "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings, and to notify the doctor if three consecutive doses of medication were refused or held. Id. at 36. On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate. Id. at 3-25, reference Hearing CD. Psychoactive medication (Trazadone) was also given on an as needed basis. Id. at 48."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "Council reversed the ALJ, finding a qualifying three-day hospital stay existed and the beneficiary required and received daily skilled nursing services.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.8",
+   "section": "30.2.3.2"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 409.31(b)",
+  "42 CFR 409.31(b)(2)(ii)",
+  "42 CFR 409.32(a)",
+  "42 CFR 409.33(a)(1)",
+  "42 CFR 409.33(a)(2)",
+  "42 CFR 409.33(b)(1)",
+  "42 CFR 405.1122(c)",
+  "SSA 1833(e)"
+ ],
+ "scope": "included",
+ "key_quality": "has_mbpm_key"
+}

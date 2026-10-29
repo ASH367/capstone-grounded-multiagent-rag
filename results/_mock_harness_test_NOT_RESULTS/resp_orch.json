@@ -1,0 +1,50 @@
+[
+ {
+  "decision": "NOT_COVERED",
+  "reason": "mock",
+  "findings": [
+   {
+    "claim": "mock",
+    "passage_id": 0,
+    "quote": "",
+    "case_fact": "D.E. had a prior hospital stay for a"
+   }
+  ],
+  "passage_ids": [
+   0
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "mock",
+  "findings": [
+   {
+    "claim": "mock",
+    "passage_id": 0,
+    "quote": "",
+    "case_fact": "Both the provider and the State Medicaid Agency"
+   }
+  ],
+  "passage_ids": [
+   0
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "mock",
+  "findings": [
+   {
+    "claim": "mock",
+    "passage_id": 0,
+    "quote": "",
+    "case_fact": "The appellant specifically claims that it had no"
+   }
+  ],
+  "passage_ids": [
+   0
+  ],
+  "case_id": "baptist_health_care"
+ }
+]

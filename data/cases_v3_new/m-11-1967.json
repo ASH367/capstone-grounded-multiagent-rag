@@ -1,0 +1,34 @@
+{
+ "case_id": "m-11-1967",
+ "domain": "snf",
+ "docket": "M-11-1967",
+ "service_at_issue": "SNF skilled nursing (observation and assessment, care plan management) March 5-8, 2010",
+ "facts": [
+  "the beneficiary\u2019s hospitalization from February 12 to February 17, 2010, for \u201cworsening gross hematuria.\u201d His recent medical history included a diagnosis of deep vein thrombosis and the placement of an inferior vena cava filter. Exh. 4 at 3, 6. At the hospital, the beneficiary underwent a cystoscopy and transurethral resection of the prostate (which had a nodular growth that had reoccurred despite two prior transurethral resections), and received three transfusions. Id. at 4.",
+  "After the resection, the beneficiary had bloody urine for three days which \u201cgradually quieted,\u201d and, on the date of discharge from the hospital, the urine was described as \u201cdark tea color.\u201d Id. At the time of discharge from the hospital on February 17 (for admission to the SNF) the beneficiary was diagnosed with hematuria secondary to prostate enlargement, recent deep vein thrombosis, chronic renal failure, Parkinson\u2019s disease, obstructive sleep apnea, and a history of squamous cell carcinoma. Id. at 3.",
+  "As of March 2, 2010, a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void, and to check the Foley catheter. Exh. 4 at 10. The nurses\u2019 notes leading up to March 5, 2010 indicate, among other things, drainage of bloody urine from the Foley catheter. Laboratory tests were ordered. The beneficiary was placed on Ensure five times daily because he was noted to have had a poor appetite. The nurses were to monitor the amount of Ensure ingested. See id. at 17-18.",
+  "the nurses continued to monitor the beneficiary for signs of hematuria. Laboratory results were abnormal. Exh. 4 at 19. Laboratory tests were ordered to be repeated. Id. at 15. The next day, March 6, 2010, the doctor ordered the beneficiary to be hospitalized; the \u201cabnormal\u201d laboratory results were again noted. Id. at 15, 19; Exh. 10. The next day, March 7, 2010, nurses documented \u201cbright red\u201d hematuria (Exh. 4 at 20), and a doctor again ordered that laboratory tests be performed (id. at 20-21)."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council reversed the ALJ and found coverage for March 5-8, 2010 because the beneficiary required and received daily skilled observation and assessment and care plan management for ongoing hematuria.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.8",
+   "section": "30.2.3.2"
+  },
+  {
+   "doc": "MBPM ch.8",
+   "section": "30.2.3.1"
+  }
+ ],
+ "other_cites": [
+  "SSA 1862(a)(1)(A)",
+  "SSA 1879",
+  "42 CFR 409.31",
+  "42 CFR 409.32(a)",
+  "42 CFR 409.33(a)(1)",
+  "42 CFR 409.33(a)(2)"
+ ],
+ "scope": "included",
+ "key_quality": "has_mbpm_key"
+}

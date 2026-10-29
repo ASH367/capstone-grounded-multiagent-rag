@@ -1,0 +1,233 @@
+                  DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                         DEPARTMENTAL APPEALS BOARD
+
+                    DECISION OF MEDICARE APPEALS COUNCIL
+                          Docket Number: M-11-1546
+
+
+In the case of                               Claim for
+
+Apple Rehab, Inc. &
+Commissioner, Connecticut                    Hospital Insurance Benefits
+Dept. of Social Services                     (Part A)
+(Appellants)
+
+
+****                                         ****
+(Beneficiary)                                (HIC Number)
+
+
+National Government Services                 ****
+(Contractor)                                 (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision dated
+April 29, 2011, which concerned Medicare coverage for skilled
+nursing facility (SNF) services provided to the beneficiary from
+February 2, 2010, through March 3, 2010. The ALJ found that the
+beneficiary did not have a prior qualifying three-day hospital
+stay and therefore Medicare did not cover the services provided.
+Both the SNF provider, Apple Rehab, Inc., (hereinafter
+“provider”), 1 and the State of Connecticut Department of Social
+Services (hereinafter “State Medicaid Agency”), have asked the
+Medicare Appeals Council (Council) to review this action. 2 The
+Council enters the appellants’ requests for review into the
+record as Exhibit (Exh.) MAC-1 and Exh. MAC-2, respectively.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+
+1
+    The provider is also known as Liberty Hall Convalescent Home.
+2
+    The beneficiary is a dual Medicaid/Medicare enrollee.
+                                                                   2
+As set forth below, the Council reverses the ALJ’s decision and
+finds that the beneficiary had a qualifying three-day hospital
+stay, and required and received covered daily skilled nursing
+services during the dates at issue.
+
+                           BACKGROUND
+
+For the dates of service at issue, Medicare initially denied
+coverage. Upon redetermination, the contractor found that
+Medicare covered the services provided from February 15, 2010,
+through February 26, 2010. Exh. 2 at 1-2. The contractor
+denied coverage for the SNF services provided from February 2,
+2010, through February 14, 2010, and February 26, 2010, through
+March 3, 2010. Id. The State Medicaid Agency appealed to the
+Qualified Independent Contractor (QIC) requesting review of the
+dates for which the contractor denied coverage. On appeal, the
+QIC denied coverage for all dates of service, finding that the
+documentation provided did not support a finding that the
+beneficiary required or received skilled nursing services
+relative to his prior hospital stay. Exh. 3 at 1-5. The State
+Medicaid Agency next requested an ALJ hearing, which was held on
+April 4, 2011. Exh 8. at 1. After which, the ALJ issued a
+decision finding that the record did not contain evidence that
+the beneficiary met the three-day qualifying hospital stay
+requirement, and therefore, he could not make a payment
+determination under 1833(e) of the Social Security Act. Dec. at
+12.
+
+Both the provider and the State Medicaid Agency requested review
+of the ALJ’s decision, each contending that the beneficiary had
+a qualifying three-day stay. See Exhs. MAC-1; MAC-2. The
+provider submits, as evidence of the three-day stay, hospital
+records concerning the beneficiary’s December 15, 2009, through
+December 27, 2009, stay at *** *** Hospital. See id.
+The State Medicaid Agency further contends that it was under a
+“good faith impression” that the relevant evidence regarding the
+qualifying three-day hospital stay was contained in the claim
+file. See MAC-2. Lastly, the State Medicaid agency contends
+that the beneficiary’s SNF stay met the criteria for Medicare
+coverage. Id.
+
+                        PROCEDURAL ISSUES
+
+As a preliminary matter, the Council needs to address the
+documentation submitted with the provider’s request for review,
+See MAC-1 at 2-11. The Council finds the hospital documentation
+                                                                  3
+regarding the beneficiary’s January 26, 2010, hospital stay,
+Skilled Nursing Facility Advanced Beneficiary Notice (SNF ABN)
+and Notice of Non-Coverage (NONC) signed on February 1, 2010,
+are duplicative and already included in the record. See Exh. 6
+at 1, Exh. 4 at 156-157, Exh. 1 at 41. The Council further
+finds, however, that the documents pertaining to the December
+2009 hospital stay are new evidence.
+
+When a party submits new evidence before the Council which was
+not submitted to the QIC prior to the reconsideration decision
+and which relates to an issue previously considered by the QIC,
+the Council will only consider such evidence if the party
+establishes good cause for submitting it for the first time at
+the Council level. Otherwise, the Council must exclude such
+evidence from the record. 42 C.F.R. § 405.1122(c). In the
+instant case, the new evidence submitted directly relate to the
+reason for which the ALJ denied coverage -- lack of a three-day
+qualifying hospital stay. This issue was not brought out in any
+of the determinations below the ALJ level. Since the ALJ based
+his decision on a new issue, the Council finds good cause for
+the submission of new evidence and admits the evidence into the
+record. See MAC-1 at 2-5.
+
+                           DISCUSSION
+
+The Council first notes that there is evidence of a three-day
+qualifying hospital stay in the record before the ALJ, in
+addition to the new evidence. Specifically, the claim summary
+report from the Medicare contractor is conclusive evidence from
+the beneficiary’s Medicare utilization record that the
+beneficiary had a qualifying hospital stay from December 15,
+2009, through December 27, 2009. Exh. 7 at 16, Exh. 1 at 16.
+Id. Further, the contractor previously allowed coverage for a
+SNF stay based on this qualifying stay. The Council therefore
+concurs with the appellants’ contentions that the beneficiary
+had a qualifying three-day stay.
+
+The State Medicaid Agency further argues that the services met
+the criteria for Medicare coverage. After reviewing the entire
+record and auditing the hearing CD, the Council has determined
+that the file contains sufficient documentation to make a
+favorable coverage decision. For the following reasons, the
+Council finds that the services were medically reasonable and
+necessary, and thus, covered by Medicare.
+                                                                   4
+Medicare regulation 42 C.F.R. 409.32(a) states that a service
+constitutes skilled care when the service is “so inherently
+complex that it can be safely and effectively performed only by,
+or under the supervision of, professional or technical
+personnel.” A “beneficiary must require skilled nursing or
+skilled rehabilitation services, or both, on a daily basis” to
+qualify for Medicare coverage of SNF services. 42 C.F.R.
+§ 409.31(b). The services at issue must be furnished for a
+condition for which the beneficiary received inpatient hospital
+services or “which arose while the beneficiary was receiving
+care in a SNF . . . for a condition for which he received
+inpatient hospital services.” 42 C.F.R. § 409.31(b)(2)(ii).
+Overall management and evaluation of the care plan constitute
+“skilled services” when because of the patient’s physical or
+mental condition, those activities require the involvement of
+technical or professional personnel in order to meet the
+patient’s needs, promote recovery, and ensure medical safety.
+42 C.F.R. § 409.33(a)(1).
+
+Observation and assessment constitute “skilled services” when
+the skills of a technical or professional person are required to
+identify and evaluate the patient’s needs for modification of
+treatment or for additional medical procedures until his or her
+condition is stabilized. Id. at § 409.33(a)(2). As the
+Medicare Benefit Policy Manual (MBPM) makes clear, observation
+and assessment satisfies this standard “when the likelihood of
+change in a patient’s condition requires skilled nursing or
+skilled rehabilitation personnel to identify and evaluate the
+patient’s need for possible modification of treatment or
+initiation of additional medical procedures, until the patient’s
+treatment regimen is essentially stabilized.” MBPM (CMS Pub.
+100-02), Ch. 8, § 30.2.3.2.
+
+On review of the record, the Council concludes that the
+beneficiary required and received skilled nursing services
+during the relevant period. In the instant case, the
+beneficiary is a deaf mute with Alzheimer’s dementia who had
+difficulty communicating. Exh. 4 at 36, 194, see also, id. at
+3-25. The record indicates that he had diagnoses of pneumonia,
+shortness of breath, acute myocardial infarction, atrial
+flutter, and renal insufficiency. Id. at 36, 194; MAC-1 at 3.
+
+The record indicates that the beneficiary was agitated and
+uncooperative with the staff; he refused foods, fluids and
+medications on numerous occasions. Id. at 3-25. During the
+dates of service, the beneficiary was on multiple cardiac and
+                                                                   5
+hypertension medications. Id. at 36. As such, the nursing
+staff had to closely monitor him to determine the proper doses
+of his medication. Id. The nursing staff was instructed to
+administer these medications based on fluctuating blood pressure
+readings, and to notify the doctor if three consecutive doses of
+medication were refused or held. Id. at 36. On at least
+thirteen occasions the beneficiary’s medications had to be
+adjusted due to fluctuations in his blood pressure and heart
+rate. Id. at 3-25, reference Hearing CD. Psychoactive
+medication (Trazadone) was also given on an as needed basis.
+Id. at 48.
+
+Additionally, intake and output was also carefully monitored.
+The beneficiary became sufficiently dehydrated to require
+intravenous (IV) fluids from February 15, 2010, through February
+25, 2010. This is a per se skilled nursing service under
+Medicare regulations. See 42 C.F.R. §409.33(b)(1). Id. at 55-
+60, 70-73, 76-82. The record also shows that after a non-
+responsive episode, that required a brief admission to the ER,
+he received oxygen therapy, which required close monitoring.
+Id. at 20-21.
+
+In sum, the Council finds the record supports that there was a
+reasonable potential for a change in the beneficiary’s condition
+that necessitated skilled nursing care during the relevant dates
+of service.
+
+                            DECISION
+
+It is the decision of the Medicare Appeals Council that the
+provider furnished medically necessary daily covered skilled
+nursing services to the beneficiary from February 2, 2010,
+through March 3, 2010. The ALJ’s decision is reversed.
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+                                   /s/ Clausen J. Krzywicki
+                                   Administrative Appeals Judge
+
+
+                                   /s/ Susan S. Yim
+                                   Administrative Appeals Judge
+
+Date: November 17, 2011
+

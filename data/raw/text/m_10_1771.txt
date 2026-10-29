@@ -1,0 +1,860 @@
+             DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                    DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-10-1771
+
+
+In the case of                       Claim for
+
+
+                                     Hospital Insurance Benefits
+                                     (Part A); Supplementary
+                                     Medical Insurance Benefits
+Village at Cook Springs              (Part B of A)
+(Appellant)
+
+
+
+ ****                                 ****
+(Beneficiaries)                      (HIC Numbers)
+
+
+Cahaba Government
+Benefit Administrators                ****
+(Contractor)                         (ALJ Appeal Number)
+
+
+The Administrative Law Judge (ALJ) issued a decision, partially
+favorable to the appellant, dated June 14, 2010. The ALJ’s
+decision concerned the appellant’s claims for Medicare coverage
+of skilled nursing facility (SNF) and outpatient therapy
+services provided to seven beneficiaries between September 1 and
+December 31, 2008. The ALJ found that the services provided to
+three beneficiaries satisfied the applicable Medicare coverage
+criteria. See Dec. at 8-9 and 22-25. In beneficiary-specific
+submissions, the appellant has asked the Medicare Appeals
+Council to review the ALJ’s analysis pertaining to three of the
+remaining four beneficiaries for whom the ALJ found the
+appellant’s documentation had not satisfied Medicare coverage
+criteria and that the appellant was liable for the resulting
+non-covered costs. The Council enters the appellant’s requests
+for review into the record as Exhibit (Exh.) MAC-1 (Beneficiary
+E.K.), Exhibit MAC-2 (Beneficiary E.M) and Exhibit MAC-3
+(Beneficiary J.S.).
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.       2
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+Following consideration of the beneficiaries’ records and the
+appellant’s exceptions, the Council modifies the ALJ’s decision
+to clarify that since both the rehabilitative therapy and the
+nursing services provided to Beneficiaries E.M. and J.S. failed
+to satisfy the applicable Medicare coverage criteria, no
+Medicare reimbursement is available for the appellant’s claims
+associated with those beneficiaries.
+
+                     APPLICABLE LEGAL AUTHORITIES
+
+Coverage for Skilled Nursing Facility Services
+
+The regulatory provisions codified at 42 C.F.R. §§ 409.30
+through 409.36 are applicable in determining Medicare coverage
+of skilled nursing facility (SNF) services, including physical
+therapy (PT), speech therapy (ST), and occupational therapy
+(OT). CMS has summarized the conditions for Medicare coverage
+of SNF services in the Medicare Benefit Policy Manual (MBPM)
+(IOM Pub. 100-2). The MBPM provides that SNF services are
+covered under the following circumstances:
+
+    •   The patient requires skilled nursing services or
+        skilled rehabilitation services; i.e. services that
+        must be performed by or under the supervision of
+        professional or technical personnel . . . .
+
+    •   The patient requires such services on a daily basis;
+
+    •   As a practical matter, the daily skilled services
+        can be provided only on an inpatient basis in a SNF;
+        and
+
+    •   The services must be reasonable and necessary for
+        the treatment of a patient’s illness or injury,
+        i.e., be consistent with the nature and severity of
+        the individual’s illness or injury, the individual’s
+        particular medical needs . . . The services must
+        also be reasonable in terms of duration and
+        quantity.
+     If any one of these four factors is not met, a stay in              3
+     a SNF, even though it might include the delivery of
+     some skilled services, is not covered. For example,
+     payment for a SNF level of care could not be made if a
+     patient needs an intermittent rather than daily skilled
+     service.
+
+MBPM, ch. 8, § 30.
+
+The RUG-III Classification System
+
+In 1998, Medicare began paying for SNF services under a
+"Prospective Payment System" (PPS). Medicare Program Integrity
+Manual (MPIM) (IOM Pub. 100-08), ch. 6, § 6.1. The SNF PPS is
+based on academic studies on case-adjusted payment mixes that
+linked the amount of payment to the intensity of resources used.
+63 Fed. Reg. 26252, 26253-55 (May 12, 1998). PPS covered SNF
+services include post-hospital SNF services for which benefits
+are provided under Medicare Part A and all items and services
+for a SNF inpatient (other than certain services excluded by
+statute) for which, prior to July 1, 1998, payment had been made
+under Medicare Part B. The SNF PPS per diem rates use a
+resident classification system to account for relative resource
+utilization of different patient types. For this purpose, SNF
+PPS uses Version III of the Resource Utilization Group (RUG-III)
+classification system to determine a SNF’s per diem rate for all
+or part of a SNF stay.
+
+The SNF PPS payments are determined based upon a patient's
+condition and classification in a RUG-III code. Id.; see also
+CMS Resident Assessment Instrument Manual Version 2.0 (RAIM)
+ch. 6, § 6.2. 1 The RUG-III category classification is based upon
+a resident assessment conducted using the Minimum Data Set (MDS)
+2.0. Id. MDS 2.0 is a clinical assessment tool reflecting
+beneficiary diagnoses, ability to perform activities of daily
+living (ADLs), and treatments received. Id. The RUG-III
+classification system is based on a hierarchy of major patient
+types, organized into major categories, including extensive
+services, special care, and clinically complex. Each category
+is further differentiated, resulting in specific patient groups
+used for payment. These groups are assigned using MDS 2.0
+resident assessment data. The 3-digit RUG-III code and the
+2-digit assessment indicator make up the Health Insurance
+Prospective Payment System (HIPPS) code that appears on the
+
+1
+  The RAIM is found through the link for MDS 2.0 on the CMS website at
+http://www.cms.hhs.gov/NursingHomeQualityInits/.
+bill, and is used to determine the SNF PPS payment rate.   See     4
+MPIM, ch. 6, § 6.2.
+
+Assessment Requirements
+
+Following section 1888(e)(6) of the Social Security Act (Act),
+regarding the PPS, SNFs must provide resident assessment data
+necessary to develop and implement the payment rates. Resident
+assessments must be completed according to a prescribed
+schedule — i.e., on or by the fifth (5-day assessment using the
+indicator “01”), fourteenth (assessment indicators “07,” “17”
+or “79”), thirtieth (assessment indicators “02” or “29”),
+sixtieth (assessment indicators “03” or “39”), and ninetieth
+(assessment indicators “04,” “49” or “54”) days after admission.
+
+Under the SNF PPS, the amount of payment due for a continued SNF
+stay in a given period is prospectively determined by the
+resources required to care for a patient in a previous “look
+back” or “assessment period,” so long as the SNF stay remains
+medically necessary, even if less resources are required to care
+for the patient during that given period. See generally 63 Fed.
+Reg. 26252 (May 12, 1998). Any assessment performed after the
+initial five-day assessment could result in a RUG classification
+change. The level of services delivered during that assessment
+period determines the amount of payment due for the next thirty
+days, unless a new assessment is performed.
+
+The initial presumption of coverage that arises from the
+beneficiary’s first assessment, the 5-day assessment,
+encompasses only the period from admission through the
+assessment reference date for the initial 5-day assessment.
+See 64 Fed. Reg. 41666 (July 30, 1999); see also 42 C.F.R.
+§ 409.30. The rebuttable presumption of coverage based on the
+5-day assessment is not intended to create an opportunity for
+continued payment beyond the point where the services are no
+longer medically necessary and reasonable. See 64 Fed. Reg.
+41666-41668. Thus, whenever a beneficiary is provided with care
+that does not meet the requirements for Medicare coverage set
+forth in 42 C.F.R. §§ 409.31 through 409.35, the custodial care
+exclusion in § 1862(a)(9) of the Act, “takes precedence over
+other provisions of the program—including any initial
+presumption made with regard to coverage.” 64 Fed. Reg. 41668.
+
+If the contractor determines that all rehabilitation services
+are no longer reasonable and necessary, or the documentation
+does not support that any further rehabilitation services were
+being provided, at some point during the covered days associated
+with that MDS, but that other medically necessary skilled        5
+services were being provided, the contractor shall determine
+whether there is a clinical group for which the beneficiary
+qualifies, and pay the claim according to the correct RUG value,
+for all covered days from the date that the rehabilitation
+services are determined to be not reasonable and necessary or
+not provided. See Medicare Program Integrity Manual (MPIM) (IOM
+Pub. 100-08), ch. 6, § 6.1.3.
+
+Pursuant to section 1833(e) of the Act, an appellant bears the
+responsibility for documenting the medical necessity of its
+claim for coverage. See also 42 C.F.R. § 424.5(a)(6).
+
+                           BACKGROUND
+
+Pertinent to the three beneficiaries in issue, the appellant
+submitted claims for Medicare coverage for the various therapy
+services provided to them in a skilled nursing setting. The
+Medicare contractor initially denied coverage for the claims as
+billed, but, for Beneficiaries E.M. and J.S., allowed
+reimbursement at rates appropriate to down-coded RUG-III levels
+for otherwise covered SNF stays. The claim for Beneficiary
+E.K., who was a long-term care resident of the appellant nursing
+facility and was receiving rehabilitative PT and OT services
+under Medicare Part B, was denied coverage for the PT services.
+Upon redetermination, the Medicare contractor upheld its initial
+denial (E.K.) and downcodings (E.M. and J.S.). The appellant
+requested reconsiderations by a Qualified Independent Contractor
+(QIC). As explained in more detail below, the QIC found the
+claims could not be covered as billed and affirmed the denial
+and downcodings. Pursuant to the appellant’s request, the ALJ
+conducted a hearing on June 10, 2010, at which the appellant’s
+representative (Facility Executive Director) presented his case.
+The decision now before the Council followed. To the extent
+that the ALJ found that certain services were not covered by
+Medicare, the ALJ held the appellant liable for the resulting
+non-covered costs pursuant to section 1879 of the Act. See Dec.
+at 6.
+                                                                   6
+                            ANALYSIS
+
+Preliminary Evidentiary Issue
+
+Pertinent to the cases now before the Counsel, the ALJ excluded
+from evidence documentation submitted by the appellant, for the
+first time, after the Qualified Independent Contractor’s (QIC’s)
+reconsiderations. The ALJ uniformly ruled that the –
+
+     Appellant has not provided good cause for the
+     admission of the documentation contained in Exhibit 3
+     of this beneficiary file, most of which is duplicative
+     of documentation found in Exhibits 1 and 2.
+     Consequently, Exhibit 3 is excluded from evidence
+     pursuant to 42 C.F.R. §§ 405.966, 405.1018 and
+     405.1028.
+
+Dec. at 10, 13 and 18.
+
+As noted above, the appellant has submitted beneficiary-specific
+requests for review. However, each request for review is
+accompanied by additional medical documentation. Similar to
+proceedings before an ALJ, pursuant to 42 C.F.R.
+§§ 405.1122(c)(1) and 405.1122(c)(2), if a party submits new
+evidence to the Council with its request for review, the Council
+must determine if good cause exits for the submission of that
+evidence, for the first time, to the Council.
+
+In its requests for review, the appellant neither offered an
+explanation for the submission of the additional medical
+documentation with its requests for review, nor did it identify
+those submissions as “new” documentation, documentation already
+in the record, or documentation previously excluded by the ALJ.
+Consequently, each of the following beneficiary-specific
+coverage analyses contains a ruling on the admissibility of the
+appellant’s accompanying documentary submissions.
+Beneficiary-Specific Claims                                                    7
+
+
+Beneficiary E.K.
+Issue: Outpatient PT (Part B of A)
+Dates of Service: September 4-30, 2008
+
+Evidentiary Ruling
+
+The ALJ’s analysis included a ruling excluding evidence
+pertinent to the claim involving Beneficiary E.K. See Dec.
+at 10. However, the Exhibit List in Beneficiary E.K.’s case
+folder, at the mark for “Exhibit 3,” indicates that there was no
+post-QIC reconsideration documentation submitted for Beneficiary
+E.K. Additionally, there are no physical documents under the
+“Exhibit 3” cover in the beneficiary’s record. 2  Consequently,
+the documentation submitted with the appellant’s request for
+review is not an attempt to submit previously excluded evidence.
+Moreover, the documentation submitted with the appellant’s
+request for review of this beneficiary is duplicative of
+material already in this beneficiary’s record. Accordingly, the
+appellant’s documentary submission to the Council accompanying
+its request for review associated with Beneficiary E.K. is not
+new evidence and will be retained in the record.
+
+Coverage
+
+The beneficiary, who was a long-term care patient at the
+appellant facility, received PT services during the dates of
+service at issue. 3 The beneficiary’s medical history included a
+primary diagnosis of hemiparesis and was otherwise significant
+for cerebral vascular accident, dementia, depression, seizure
+disorder, and esophageal reflux. Dec. at 13.
+
+The QIC issued an unfavorable reconsideration finding that the
+treatment in issue did not require the skills of a physical
+therapist nor was it reasonable and necessary, particularly when
+the beneficiary had been receiving ongoing occupational therapy
+services. The QIC noted that the record did not contain
+documentation of the “beneficiary’s prior functional status,”
+and that the beneficiary had retained deficits from an earlier
+stroke which affected her left side such that a decline in the
+functional status of her left arm could not, as the appellant
+contended, be attributed to a left arm sprain. The QIC found
+
+2
+  Unless otherwise indicated the Council’s references to “Exhibits” are to
+those in beneficiary-specific claim files.
+3
+  The beneficiary also received OT services, which were found covered by the
+contractor and are not at issue before the Council.
+that the appellant’s documentation, which consisted of an        8
+evaluation, two progress notes, and daily treatment encounter
+notes, did not support the necessity of skilled PT services.
+The QIC also held the appellant liable for the non-covered costs
+under section 1879 of the Act. Exh. 1 at 2-7.
+
+The ALJ denied coverage finding that the beneficiary’s “prior
+level of function is not identified” and the current “level of
+function indicates no change from the baseline.” Based on
+testimony and the limited documentation available, the ALJ found
+that the beneficiary began the period of service requiring
+“minimum assistance in most activities” and remained at that
+level throughout. The ALJ noted that, at the hearing, the
+appellant’s representative had conceded that “essential
+documentation is not contained in the . . . record.”
+Characterizing the services provided to the beneficiary as
+“repetitious in nature and not requiring the skills of a
+licensed therapist,” the ALJ denied coverage for the PT services
+provided to this beneficiary. Dec. at 13-14.
+
+In its request for review, the appellant asserts that the record
+does, in fact, document that the beneficiary sustained a fall in
+the facility on September 2, 2008, resulting in a “left upper
+extremity sprain,” and that it can be assumed that “prior to
+this fall she did not have a left upper extremity sprain.”    The
+appellant maintains that this event constituted a “new physical
+decline which warranted Physical Therapy . . . intervention in
+order to ensure continued safety and independence.” Exh. MAC-1
+at 1. The appellant contends that, contrary to the ALJ’s
+findings, the beneficiary demonstrated “slow but steady
+progress” reflecting gains in “safety, balance and overall
+functional mobility.” The appellant asserts that the
+documentation of record, present throughout all levels of
+review, demonstrates the clear need for the skills of a physical
+therapist to provide the beneficiary with “rehabilitation
+services to promote safety and maximize functional independence
+in . . . [the beneficiary’s] environment.” Exh. MAC-1 at 1-2.
+
+The appellant’s arguments for coverage are not supported by the
+evidence of record. As noted throughout the earlier stages of
+the claims review process, the appellant’s documentation lacks
+the level of detail necessary to support a claim for Medicare
+coverage of PT services. The documentation for Beneficiary E.K.
+reveals that the beneficiary made, at most, minimal progress
+during the period of services in issue. Moreover, as both the
+QIC and the ALJ noted, without documentation of the
+beneficiary’s prior level of function there is no basis for
+finding that the beneficiary had endured a significant decline 9
+in functional status. While the beneficiary’s weekly progress
+summaries do contain notations of “Baseline/Previous” function,
+there is no basis of origination of these markers. The Council
+understands the context of the appellant’s comment that “[w]e
+can assume that prior to this fall . . . [the beneficiary] did
+not have a left upper extremity sprain.” However, without more
+precise documentation it is not possible to determine what
+short-term incapacity may have resulted from the sprain versus
+long-term incapacity from the stroke. As noted above, pursuant
+to section 1833(e) of the Act and the implementing regulation at
+42 C.F.R. § 424.5(a)(6), an appellant bears the responsibility
+for documenting the medical necessity of its claim for coverage.
+
+As described above, the regulations governing skilled therapy
+services provide generally that, to be covered by Medicare, a
+skilled service must be so inherently complex that it can be
+safely and effectively performed only by, or under the
+supervision of, professional or technical personnel. As the ALJ
+noted the progress recorded in the beneficiary’s weekly progress
+summaries is generally minimal, and does not, in the Council’s
+view, document significant improvement. Compare Exh. 1 at 51,
+54, 60 and 63. For example, up to at least the September 18,
+2008, weekly summary, the beneficiary was too unstable to
+participate in gait training.   A comparison of the weekly
+progress summaries for September 11, 2008, and October 2, 2008,
+demonstrates very little measurable progress. Similarly, the
+beneficiary’s therapy progress notes also do not evidence
+meaningful progress. Id. at 55, 57, 61
+and 67
+
+Accordingly, we conclude that the ALJ did not err in finding
+that the physical therapy provided to Beneficiary E.K. was not
+reasonable and necessary and, accordingly, not covered by
+Medicare.
+
+Beneficiary E.M.
+Issues: SNF Coverage (Part A)
+Dates of Service: December 1-31, 2008
+
+New Evidence
+
+The ALJ’s analysis contained a ruling excluding evidence
+pertinent to the claim involving Beneficiary E.M. Dec. at 18.
+The excluded evidence is contained at Exhibit 3 of Beneficiary
+E.M.’s case folder. The appellant has submitted additional
+medical documentation with its request for review. However, the
+appellant neither offered an explanation for the submission of 10
+additional medical documentation with its request for review,
+nor did it identify this submission as “new” documentation,
+documentation already in the record or documentation excluded by
+the ALJ. See, generally, Exh. MAC-2.
+
+Pursuant to 42 C.F.R. §§ 405.1122(c)(1) and (2), if a party
+submits new evidence to the Council with its request for review,
+the Council must determine if good cause exits for the
+submission of that evidence at that point in the claim appeals
+process. Absent a showing of good cause for the submission, the
+Council excludes from evidence the documentary submissions
+accompanying the appellant’s request for review of the claim
+associated with Beneficiary E.M. 4 However, in the interest of
+completeness, the excluded documentation will be retained in the
+record with Exhibit MAC-2.
+
+Coverage
+
+The beneficiary’s medical history was significant for a total
+right knee replacement (November 3, 2008), after which she was
+admitted to an inpatient rehabilitation facility (IRF) from
+November 6-21, 2008. While in the IRF, the beneficiary was
+diagnosed with dysphagia, and was treated for atrial
+fibrillation, anxiety/depression, hypertension and anemia. Upon
+discharge from the IRF, the beneficiary’s muscle strength was
+rated at 4+/5 and she was able to ambulate 200 feet with a
+rolling walker and minimal assistance. Dec. at 18.
+
+Upon reconsideration, the QIC upheld the Medicare contractor’s
+earlier downcoding of the services provided to the beneficiary.
+The QIC found that the PT grid notes showed the beneficiary to
+be at baseline status with restorative services not required.
+The beneficiary remained at a constant OT level throughout the
+period of service and the ST evaluation did not find any
+problems/difficulties with swallowing. Generally, the QIC found
+the beneficiary to be at a reasonable level of modified
+independence given her age and medical history. Specifically,
+the QIC concluded that “Medicare coverage criteria were not met
+for the RUG III levels originally billed. The previously
+downcoded RUG III levels of RHB 11, RMB07 and PAI02 must be
+affirmed.” Exh. 1 at 2-5. The QIC held the appellant liable
+
+
+4
+  Here, as well as in the case of Beneficiary J.S., in making this ruling the
+Council is excluding duplicative medical records, but will consider the
+earlier copies of such documents already entered into the record. See,
+generally, Exh. 2 in claim folders for Beneficiaries E.M. and J.S.
+for the resulting non-covered costs pursuant to section 1879 of 11
+the Act. Id. at 6.
+
+Generally, the ALJ concluded that the appellant had not
+demonstrated “by a preponderance of the evidence” that the
+various therapy services at issue were medically reasonable and
+necessary. Relative to PT, the ALJ found that, on December 18,
+2008, the beneficiary was put on a functional maintenance
+program; her “PT Grids” showed limited progress in gait and
+ambulation and she met her bed mobility goals “almost
+immediately.” Further, the beneficiary required encouragement
+for PT activities. Based on the evidence, the ALJ reasoned that
+the beneficiary had plateaued prior to the period of service in
+issue and that the PT in question was geared toward increasing
+the beneficiary’s strength and endurance which could have been
+provided in a restorative nursing setting. Dec. at 18-19.
+
+Similarly, in the context of OT, the ALJ found that the
+beneficiary made “no significant progress,” had plateaued prior
+to the period of service and could have received OT services in
+a restorative nursing setting. Dec. at 19.
+
+Regarding ST the ALJ noted that beneficiary was given a BS
+(barium swallow) with no noted results and that the beneficiary
+reported no difficulty swallowing. The beneficiary was examined
+and otherwise found to have oral motor strength and coordination
+within normal limits as well as appropriate bolus manipulation
+and mastication skills. The beneficiary was discharged from ST
+on December 12, 2008. The ALJ found that a skilled level of ST
+was not necessary as the beneficiary had “very mild” laryngeal
+weakness and, while at times requiring two swallows, was
+otherwise able to consume a diet of regular consistency with no
+coughing or throat clearing. Dec. at 19.
+
+The ALJ then concluded that absent a demonstrated need for
+skilled therapy services, the appellant must prove that the
+beneficiary required and received daily skilled nursing
+services. The ALJ concluded that the nursing services provided
+to the beneficiary were no more than custodial. The ALJ then
+concluded that because the rehabilitative therapy services were
+not medically reasonable and necessary, Medicare was required to
+“remove” the therapy services from consideration in calculating
+the appropriate RUG III categories. Consequently, the ALJ found
+that the Medicare contractor had properly downcoded the level of
+available reimbursement for this claim. Dec. at 20-21.
+In general, in its request for review the appellant argues that 12
+the beneficiary’s post-hospitalization decline in her functional
+abilities necessitated skilled intervention. The appellant
+insists that the beneficiary made excellent progress throughout
+her therapeutic regimen and was ultimately able to return home
+at her highest functional potential. Consequently, the
+appellant requests that the beneficiary be returned to her
+“originally billed RUG levels.” Exh. MAC-2 at 4.
+
+The appellant asserts that the beneficiary made steady progress
+throughout physical therapy while receiving progressive
+resistance strengthening exercises to improve lower body,
+strength and balance, as well as “significant . . . education
+regarding safety awareness.” The appellant further contends
+that the fact that the beneficiary required “encouragement and
+reassurance does not prevent her from being a candidate for
+therapy.” Exh. MAC-2 at 1-2.
+
+Regarding occupational therapy, the appellant asserts,
+generally, that it had “provided documentation that OT provided
+progressive resistance strengthening exercises to improve
+strength, balance, and endurance with adjustments week to week
+regarding . . . [various] activities of daily living . . . .”
+Exh. MAC-2 at 2. The appellant notes that OT also provided
+significant patient education regarding safety and the use of
+adaptive equipment that could only be provided by licensed
+professional therapists. Id.
+
+Addressing speech therapy, the appellant indicates that while
+the beneficiary was admitted with physician’s orders for a
+mechanical soft diet, the beneficiary requested an upgrade to a
+“regular diet.” Consequently, it was necessary to conduct a ST
+evaluation to ensure the beneficiary’s ability to tolerate the
+upgraded diet. Exh. MAC-2 at 2.
+
+The appellant’s documentation does not demonstrate the medical
+necessity for any of the therapy services in issue. Regarding
+physical therapy, the beneficiary generally made limited
+progress. See Exh 2 at 58-59. The beneficiary’s weekly
+progress summaries chronicled her as an unwilling, resistant
+participant who - “requests to return to room frequently”
+(12/3/08), required “encouragement + reassurance” (12/11/08),
+was placed on a functional maintenance program (12/18/08), and
+was noted for inconsistent participation (12/26/08). See Exh. 2
+at 56 and 60-63.
+The beneficiary’s weekly progress summaries for occupational                13
+therapy show the beneficiary to have remained at a steady
+functional level specifically a “minimum” level of assistance
+throughout the period of service. See Exh. 2 at 70, 73
+and 75-77.
+
+As the appellant notes, the beneficiary was placed in speech
+therapy not in response to a particular medical injury or
+condition, but rather because she requested an upgrade in her
+dietary consistency from the “mechanical soft diet” prescribed
+by her physician to a regular diet. Exh. MAC-2 at 2. An
+evaluation showed the beneficiary to have, at most, “mild
+difficulty swallowing.” Exh. 2 at 78. The beneficiary was in
+speech therapy approximately one week, having been discharged on
+December 8, 2008. Id. at 78-79 and 86.
+
+The beneficiary’s therapy-specific documentation does not
+demonstrate the medical necessity of any of the claimed therapy
+services. Improvement in the beneficiary’s condition, without
+more, does not establish that therapy is medically reasonable
+and necessary, and very little improvement occurred during the
+dates of service at issue. Instead, the applicable guidance
+provides that therapy in a SNF is reasonable and necessary if
+there is an expectation that the beneficiary’s condition will
+“improve materially in a reasonable and generally predictable
+period of time.” MBPM, ch. 8, § 30.4.1.1.
+
+Moreover, the mere fact that a beneficiary’s condition may
+improve does not establish that the services rendered are
+skilled. Rather, “[t]he services must be of a level of
+complexity and sophistication, or the condition of the patient
+must be of a nature that requires the judgment, knowledge, and
+skills of a qualified … therapist.” MBPM, ch. 8, § 30.4.1.1.
+For example, it is possible for a beneficiary’s mobility or
+independence to improve as a result of participating in
+repetitive exercises or assistive walking, neither of which
+requires the skill of a licensed therapist. 5
+
+For these reasons, we conclude that the ALJ did not err in
+finding that the PT, OT and ST services provided were not
+reasonable and necessary and, accordingly, not covered by
+Medicare.
+
+5
+   See, e.g., MBPM, ch. 8, § 30.4.1.2., which provides: “Repetitious exercises
+to improve gait, or to maintain strength and endurance, and assistive walking
+are appropriately provided by supportive personnel, e.g., aides or nursing
+personnel, and do not require the skills of a physical therapist. Thus, such
+services are not skilled physical therapy.”
+                                                               14
+The ALJ next determined that, absent documentation of the
+medical necessity of the questioned therapy services, the burden
+fell on the appellant to otherwise demonstrate the medical
+necessity of skilled nursing services. See Dec. at 20. Citing
+42 C.F.R. § 409.34(a)(1)), the ALJ indicated that in order for
+skilled nursing services to be payable under Medicare Part A,
+they must be furnished on a daily basis. The ALJ noted that
+while a break of one or two days was permissible in the context
+of skilled rehabilitation services, no such break was permitted
+in the context of skilled nursing. Based upon the nursing
+notes, the ALJ found that the care provide to the beneficiary
+was custodial as the beneficiary was stable, and there was no
+evidence of medical complications or that the nursing staff was
+treating any acute medical condition. Dec. at 20. However, the
+ALJ then concluded that the appellant should be reimbursed at
+the downcoded levels indicated by the Medicare contractor and
+QIC. Dec. at 21.
+
+The Council will limit its review of the ALJ’s action to the
+exceptions raised by the party in the request for review, unless
+the appellant is an unrepresented beneficiary. 42 C.F.R.
+§ 405.1112(c). As noted above, the burden is always on an
+appellant to document the medical necessity of claims for
+coverage. See section 1833(e) of the Act and 42 C.F.R.
+§ 424.5(a)(6). The appellant did not contest the ALJ’s finding
+that the beneficiary’s nursing services did not meet Medicare
+coverage criteria. See, generally, Exh. MAC-2.
+
+The ALJ’s conclusion, that the appellant’s claim should be
+reimbursed at a down-coded rate, is inconsistent with his
+findings that both the therapy services in issue were not
+covered by Medicare and that the beneficiary was otherwise only
+receiving custodial nursing care. Those findings leave no basis
+for downcoding as the principle in downcoding is that the SNF
+stay is otherwise covered, albeit at a lesser rate of
+reimbursement than that initially sought. However, where
+neither skilled nursing nor rehabilitative therapy are medically
+reasonable and necessary nor furnished on a daily basis, the SNF
+stay itself is not covered at any RUG-III level and is denied.
+
+The Council agrees with the ALJ that the speech therapy services
+provided to Beneficiary E.M. were not adequately documented and
+thus, were not medically reasonable and necessary on a daily
+basis. Absent a challenge to the ALJ’s finding that the nursing
+services provided to Beneficiary M.S. were custodial and thus
+not covered by Medicare, the Council can only affirm the ALJ’s
+finding relative to the nature of the nursing services provided 15
+to Beneficiary E.M. Accordingly, this claim for SNF coverage is
+denied in its entirety.
+
+Beneficiary J.S.
+Issues: SNF Coverage (Part A)
+Dates of Service: September 1-18, 2008
+
+New Evidence
+
+The ALJ’s analysis contained a ruling excluding evidence
+pertinent to the claim involving Beneficiary J.S. Dec. at 10.
+The excluded evidence is contained at Exhibit 3 of Beneficiary
+J.S.’s case folder. The appellant has submitted additional
+medical documentation with its request for review. However, the
+appellant neither offered an explanation for the submission of
+additional medical documentation with its request for review,
+nor did it identify this submission as “new” documentation,
+documentation already in the record or documentation excluded by
+the ALJ. See, generally, Exh. MAC-3.
+
+Pursuant to 42 C.F.R. §§ 405.1122(c)(1) and (2), if a party
+submits new evidence to the Council with its request for review,
+the Council must determine if good cause exits for the
+submission of that evidence at that point in the claim appeals
+process. Absent a showing of good cause for the submission, the
+Council excludes from evidence the documentary submissions
+accompanying the appellant’s request for review of the claim
+associated with Beneficiary J.S. However, in the interest of
+completeness, the excluded documentation will be retained in the
+record with Exhibit MAC-3.
+
+Coverage
+
+The beneficiary’s medical history was significant for dementia,
+atrial fibrillation, diabetes, hypertension, esophageal reflux,
+Bell’s palsy and difficulty walking, including a history of
+falls.
+
+The Medicare contractor’s redetermination was limited to a
+review of ST services. However, upon reconsideration, the QIC
+found no PT notes for the look back periods in review. Without
+a documented prior level of function, the QIC found it
+impossible to determine if the beneficiary had experienced “a
+significant functional decline to warrant skilled therapy
+interventions.” Regarding OT, the QIC could not find
+occupational therapy notes and “the submitted documentation did
+not support a complex functional deficit to warrant skilled     16
+therapy intervention.” Similarly, for ST, the QIC found that
+without “a prior level of function relative to the beneficiary’s
+cognitive status documented in objective measurable terms it is
+not possible to determine that the beneficiary had experienced a
+significant functional decline to warrant skilled therapy
+interventions.” The QIC next found that because the appellant
+had not adequately documented the medical necessity of the
+therapy services, “Medicare cannot cover the SNF services for
+this beneficiary at the rate originally billed: and we affirm
+the previously downcoded RUG III levels of PB107 and PB102.”
+The QIC held the appellant liable for the resulting non-covered
+costs pursuant to section 1879 of the Act. Exh. 1 at 3-7.
+
+During the ALJ hearing, the appellant “conceded the issues of PT
+and OT . . . [limiting its] challenges [to] the determination
+that [the] ST services . . . were not reasonable and necessary.”
+Dec. at 10. The ALJ also noted that hearing testimony “revealed
+that the beneficiary’s prior hospitalization was due to
+behavioral issues.” Dec. at 11. The ALJ indicated that the
+beneficiary’s August 18, 2008, Minimum Data Set (MDS) identified
+“no memory recall deficits with the exception of short term
+memory issues.” Id. at 10. The beneficiary’s baseline function
+was identified as “60% sequencing, 70% follow direction and 50%
+problem solving” Moreover, although the speech therapist
+indicated that the plan for the beneficiary was to regain
+previous level of function, there was no identified prior level
+of function. Dec. at 10. The ALJ found that, on September 8,
+2008, the beneficiary’s level of function was “75% sequencing,
+85% follow direction and 65% problem solving.” The ALJ
+recognized that the beneficiary’s September 18, 2008, “Updated
+Plan of Progress for Outpatient Rehabilitation,” which also
+served as her “documentation of discharge,” indicated that the
+beneficiary “had met goals up to 100% accuracy” without
+identifying the goals. Id. at 11; see also Exh. 2 at 61. The
+ALJ also characterized “the ST weekly notes” as “very general
+. . . [showing] only the current status.” Dec. at 11; see also
+Exh. 2 at 66-70. Consequently, the ALJ concluded that the
+appellant’s documentation did not demonstrate that the ST
+services in issue were medically reasonable and necessary.
+Dec. at 11.
+
+Turning to skilled nursing services and the appropriate RUG III
+classification, the ALJ concluded that absent a demonstrated
+need for skilled therapy services, the appellant must prove that
+the beneficiary required and received daily skilled nursing
+services. The ALJ concluded that the nursing services provided
+to the beneficiary were no more than custodial. The ALJ then 17
+concluded that because the rehabilitative therapy services were
+not medically reasonable and necessary, Medicare was required to
+“remove” the therapy services from consideration in calculating
+the appropriate RUG III categories. Consequently, the ALJ found
+that the Medicare contractor had properly downcoded the level of
+available reimbursement for this claim to PB107 and PB102. Dec.
+at 11-12.
+
+In its request for review, the appellant generally references an
+“Attached” “history and physical” from the beneficiary’s
+physician indicating that the beneficiary “had memory loss and
+difficulty concentrating consistent with dementia.” Exh. MAC-3
+at 1. The appellant asserts that his information indicates that
+the beneficiary “had newly worsening cognition both prior to and
+following” her hospitalization. The appellant maintains that
+the beneficiary deserved the opportunity to improve her memory.
+The appellant also concedes that the beneficiary met her goals
+by September 11, 2008, but indicates that her therapist re-
+evaluated her and determined that she continued to exhibit
+cognitive defects requiring skilled treatment. The appellant
+contends that it requires a trained skilled therapist to
+constantly review and update, as needed, a beneficiary’s plan of
+care. The appellant also challenges the ALJ’s characterization
+of the weekly speech therapy notes as general, noting that they
+contain information regarding previous and current week’s status
+regarding identified goals. Additionally, the appellant
+maintains that, pursuant to 42 C.F.R. § 409.31(b)(2)(ii), in
+spite of having been hospitalized for “behavioral defects,” the
+beneficiary was otherwise eligible for ST for cognitive defects.
+Exh. MAC-3 at 1-2.
+
+The appellant’s documentation relative to the speech therapy
+services provided to the beneficiary for the period
+September 1-18, 2008, contains general assertions of progress
+but no specific identification of the manner, i.e. the
+treatment, by which that progress was achieved. See Exh. 2 at
+61-62 and 65-67. That is, there is no evidence that the
+performance of the services provided necessitated skilled
+professionals. As the ALJ noted, the appellant’s documentation
+is couched in general terms and does not provide an adequate
+basis for determining that the beneficiary required skilled
+speech therapy services.
+
+The ALJ next determined that absent documentation of the medical
+necessity of the questioned speech therapy services, the burden
+fell on the appellant to otherwise demonstrate the medical
+necessity of skilled nursing services. See Dec. at 11. Citing 18
+42 C.F.R. § 409.34(a)(1)), the ALJ indicated that in order for
+skilled nursing services to be payable under Medicare Part A,
+they must be furnished on a daily basis. The ALJ noted that
+while a break of one or two days was permissible in the context
+of skilled rehabilitation services, no such break was permitted
+in the context of skilled nursing. Based upon the nursing
+notes, the ALJ found that the care provide to the beneficiary
+was custodial as the beneficiary was stable, and there was no
+evidence of medical complications or that the nursing staff was
+treating any acute medical condition. Dec. at 11.    However,
+the ALJ then concluded that the appellant should be reimbursed
+at the downcoded levels indicated by the Medicare contractor and
+QIC. Id. at 12.
+
+The Council will limit its review of the ALJ’s action to the
+exceptions raised by the party in the request for review, unless
+the appellant is an unrepresented beneficiary. 42 C.F.R.
+§ 405.1112(c). As noted above, the burden is always on an
+appellant to document the medical necessity of claims for
+coverage. See section 1833(e) of the Act and 42 C.F.R.
+§ 424.5(a)(6). The appellant did not contest the ALJ’s finding
+that the beneficiary’s nursing services did not meet Medicare
+coverage criteria. See, generally, Exh. MAC-3.
+
+The ALJ’s conclusion, that the appellant’s claim should be
+reimbursed at a down-coded rate, is inconsistent with his
+findings that both the speech therapy services in issue was not
+medically reasonable and necessary on a daily basis and that the
+beneficiary was otherwise only receiving custodial nursing care.
+Those findings leave no basis for downcoding as the principle in
+downcoding is that the SNF stay is covered, albeit at a lesser
+rate of reimbursement than that initially sought. However,
+where neither skilled nursing nor rehabilitative therapy
+services are medically reasonable and necessary or furnished on
+a daily basis, the SNF stay itself is not covered at any RUG-III
+level and is denied.
+
+The Council agrees with the ALJ that the speech therapy services
+provided to Beneficiary J.S. were not adequately documented and
+thus, were essentially custodial. Absent, a challenge to the
+ALJ’s finding that the nursing services provided to Beneficiary
+J.S. were custodial and thus not covered by Medicare, the
+Council can only affirm the ALJ’s finding relative to the nature
+of the nursing services provided to Beneficiary J.S.
+Accordingly, this claim is denied in its entirety.
+Liability                                                         19
+
+
+The appellant did not raise any contention with respect to the
+ALJ’s conclusions that, pursuant to section 1879 of the Act, the
+appellant was liable for the non-covered costs associated with
+its claims. Consequently, the Council affirms the ALJ’s
+conclusions on liability.
+
+                           CONCLUSION
+
+For the reasons explained above, the Council concludes that the
+physical therapy services provided to Beneficiary E.K. were not
+covered by Medicare. The Council further concludes that the
+skilled nursing facility services provided to Beneficiaries E.M.
+and J.S. were not covered by Medicare. The appellant is liable
+for all non-covered costs.
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+
+                                   /s/ Gilde Morrisson
+                                   Administrative Appeals Judge
+
+
+                                   /s/ Leslie A. Sussan
+                                   Deputy Chair
+                                   Departmental Appeals Board
+
+
+Date: June, 14, 2012
+

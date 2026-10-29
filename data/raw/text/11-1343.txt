@@ -1,0 +1,900 @@
+               DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                      DEPARTMENTAL APPEALS BOARD
+
+                 DECISION OF MEDICARE APPEALS COUNCIL
+                       Docket Number: M-11-1343
+
+
+In the case of                            Claim for
+
+                                          Hospital Insurance Benefits
+Restore Management Company                (Part A)
+ (Appellant)
+
+
+****                                      ****
+(Beneficiaries)                           (HIC Numbers)
+
+
+Cahaba                                    ****
+(Contractor)                              (ALJ Appeal Number)
+
+
+On March 4, 2011, the Administrative Law Judge (ALJ) issued
+three separate decisions,1 which concerned skilled nursing
+facility (SNF) care furnished to beneficiaries D.E. and E.M.
+from October 1, 2009, to October 31, 2009, and beneficiary J.M.
+from August 1, 2009 to August 31, 2009.2 The ALJ held that the
+majority of the therapy services provided to the beneficiaries
+during the dates of service at issue did not meet the Medicare
+statutory requirements of section 1814(a)(2)(B) of the Social
+Security Act (Act) for coverage, on the grounds that the
+beneficiaries’ physicians did not sign the plans of care for the
+therapy services. The ALJ found that OT services provided to
+beneficiary J.M. and the PT services furnished to beneficiary
+E.M. were not medically reasonable and necessary or
+insufficiently documented pursuant to section 1862(a)(1)(A) of
+the Act. The ALJ found that the occupational therapy (OT)
+services furnished to beneficiary D.E., the speech therapy (ST)
+1
+  The Council notes that although the ALJ issued three separate decisions,
+each decision has the same ALJ number ****.
+2
+  A list with the beneficiaries’ initials, redacted health insurance claim
+numbers (HICNs), date(s) of service at issue, and the ALJ Appeal Number, is
+attached to this decision as Appendix A, and will be sent to the appellant
+only. Each beneficiary will be sent a redacted list that includes only the
+information concerning his or her case.
+                                                                   2
+services furnished to beneficiary E.M., and the skilled nursing
+(SN) services furnished to J.M. were medically reasonable and
+necessary and furnished on a daily basis; thus, the SNF stays
+would be covered at a downcoded RUG level. Finally, the ALJ
+held the appellant liable for the non-covered charges with
+respect to all the beneficiaries, thus finding that the services
+found not medically reasonable and necessary could not be billed
+to the beneficiaries. The appellant has asked the Medicare
+Appeals Council (Council) to review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+The Council admits the following documents into the record:
+
+Exhibit (Exh.) MAC-1:      Request for Review for D.E.
+
+Exh. MAC-2:                 Request for Review for E.M.
+
+Exh. MAC-3:                 Request for Review for J.M.
+
+As set forth below, the Council modifies the ALJ’s decisions.
+
+
+                        APPLICABLE LEGAL AUTHORITIES
+
+Coverage for Skilled Nursing Facility Services
+
+Medicare Part A covers post-hospital SNF care. Social Security
+Act (Act), § 1861(h); 42 C.F.R. §§ 409.5, 409.20. The
+regulations at 42 C.F.R. §§ 409.30 through 409.36 are applicable
+in determining Medicare coverage of SNF services, including
+physical therapy (PT), speech therapy (ST), occupational therapy
+(OT), and skilled nursing (SN) services . Skilled nursing and
+rehabilitation services are defined as those that are: (1)
+ordered by a physician, (2) require the skills of professional
+personnel; and (3) are furnished directly by (or under the
+supervision of) such personnel. 42 C.F.R. § 409.31(a).
+
+CMS has summarized the conditions for Medicare coverage of SNF
+services in the Medicare Benefit Policy Manual (MBPM) (IOM Pub.
+100-2). The MBPM provides that SNF services are covered under
+the following circumstances:
+                                                                   3
+
+    •   The patient requires skilled nursing services or
+        skilled rehabilitation services; i.e. services that
+        must be performed by or under the supervision of
+        professional or technical personnel; are ordered by
+        a physician and the services are rendered for a
+        condition for which the patient received inpatient
+        hospital services or for a condition that arose
+        while receiving care in a SNF for a condition for
+        which he received inpatient hospital services;
+
+    •   The patient requires such services on a daily basis;
+
+    •   As a practical matter, the daily skilled services
+        can be provided only on an inpatient basis in a SNF;
+        and
+
+    •   The services must be reasonable and necessary for
+        the treatment of a patient’s illness or injury,
+        i.e., be consistent with the nature and severity of
+        the individual’s illness or injury, the individual’s
+        particular medical needs . . . The services must
+        also be reasonable in terms of duration and
+        quantity.
+
+    If any one of these four factors is not met, a stay in
+    a SNF, even though it might include the delivery of
+    some skilled services, is not covered. For example,
+    payment for a SNF level of care could not be made if a
+    patient needs an intermittent rather than daily skilled
+    service.
+
+MBPM, ch. 8, § 30.
+
+Medicare does not cover SNF services “where such expenses are
+for custodial care.” Act, § 1862(a)(9). The regulation at 42
+C.F.R. § 411.15(g) defines “custodial care” as any care that
+does not meet the SNF care coverage requirements set out at 42
+C.F.R. §§ 409.31–409.35.
+
+Medicare also excludes from coverage items and services that are
+not “reasonable and necessary for the diagnosis or treatment of
+illness or injury or to improve the functioning of a malformed
+body member.” Act, § 1862(a)(1)(A).
+                                                                         4
+
+The RUG-III Classification System
+
+In 1998, Medicare began paying for SNF services under a
+"Prospective Payment System" (PPS). Medicare Program Integrity
+Manual (MPIM) (IOM Pub. 100-08), ch. 6, § 6.1. The SNF PPS is
+based on academic studies on case-adjusted payment mixes that
+linked the amount of payment to the intensity of resources used.
+63 Fed. Reg. 26252, 26253-55 (May 12, 1998). PPS covered SNF
+services include post-hospital SNF services for which benefits
+are provided under Medicare Part A and all items and services
+for a SNF inpatient (other than certain services excluded by
+statute) for which, prior to July 1, 1998, payment had been made
+under Medicare Part B. The SNF PPS per diem rates use a
+resident classification system to account for relative resource
+utilization of different patient types. For this purpose, SNF
+PPS uses Version III of the Resource Utilization Group (RUG-III)
+classification system to determine a SNF’s per diem rate for all
+or part of a SNF stay.
+
+The SNF PPS payments are determined based upon a patient's
+condition and classification in a RUG-III code. Id.; see also
+CMS Resident Assessment Instrument Manual Version 2.0 (RAIM)
+ch. 6, § 6.2.3 The RUG-III category classification is based upon
+a resident assessment conducted using the Minimum Data Set (MDS)
+2.0. Id. MDS 2.0 is a clinical assessment tool reflecting
+beneficiary diagnoses, ability to perform activities of daily
+living (ADLs), and treatments received. Id. The RUG-III
+classification system is based on a hierarchy of major patient
+types, organized into major categories, including extensive
+services, special care, and clinically complex. Each category
+is further differentiated, resulting in specific patient groups
+used for payment. These groups are assigned using MDS 2.0
+resident assessment data. The 3-digit RUG-III code and the
+2-digit assessment indicator make up the Health Insurance
+Prospective Payment System (HIPPS) code that appears on the
+bill, and is used to determine the SNF PPS payment rate. See
+MPIM, ch. 6, § 6.2.
+
+
+
+
+3
+  The RAIM is found through the link for MDS 2.0 on the CMS website at
+http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment­
+Instruments/NursingHomeQualityInits/index.html
+                                                                   5
+Assessment Requirements
+
+Following section 1888(e)(6) of the Act, regarding the PPS, SNFs
+must provide resident assessment data necessary to develop and
+implement the payment rates. Resident assessments must be
+completed according to a prescribed schedule — i.e., on or by
+the fifth (5-day assessment using the indicator “01”),
+fourteenth (assessment indicators “07,” “17” or “79”), thirtieth
+(assessment indicators “02” or “29”), sixtieth (assessment
+indicators “03” or “39”), and ninetieth (assessment indicators
+“04,” “49” or “54”) days after admission.
+
+Under the SNF PPS, the amount of payment due for a continued SNF
+stay in a given period is prospectively determined by the
+resources required to care for a patient in a previous “look
+back” or “assessment period,” so long as the SNF stay remains
+medically necessary, even if less resources are required to care
+for the patient during that given period. See generally 63 Fed.
+Reg. 26252 (May 12, 1998). Any assessment performed after the
+initial five-day assessment may result in a RUG-III
+classification change. The level of services delivered during
+those “look back” periods will determine the amount of payment
+due for the next sixty days, unless a new assessment is
+performed. The assessment reference date (ARD) is the common
+date on which all MDS observation periods end. The observation
+period is also referred to as the look back period. It is the
+time period during which data is captured for inclusion on the
+MDS assessment. The ARD is the last day of the observation
+period and controls what care and services are captured on the
+MDS assessment. Anything that happens after the ARD will not be
+captured on that MDS. For example, for a MDS item with a 7-day
+period of observation (look back period), assessment information
+is collected for a 7-day period ending on and including the ARD.
+CMS Resident Assessment Instrument (RAI) Version 2.0 Manual,
+ch. 3, § A3.
+
+The initial presumption of coverage that arises from the
+beneficiary’s first assessment, the 5-day assessment,
+encompasses only the period from admission through the
+assessment reference date for the initial 5-day assessment.
+See 64 Fed. Reg. 41666 (July 30, 1999); see also 42 C.F.R.
+§ 409.30. The rebuttable presumption of coverage based on the
+5-day assessment is not intended to create an opportunity for
+continued payment beyond the point where the services are no
+longer medically necessary and reasonable. See 64 Fed. Reg.
+41666-41668 (emphasis supplied). Thus, whenever a beneficiary
+                                                                   6
+is provided with care that does not meet the requirements for
+Medicare coverage set forth in 42 C.F.R. §§ 409.31 through
+409.35, the custodial care exclusion in § 1862(a)(9) of the Act,
+“takes precedence over other provisions of the program—including
+any initial presumption made with regard to coverage.” 64 Fed.
+Reg. 41668 (emphasis supplied).
+
+If the contractor determines that all rehabilitation services
+are no longer reasonable and necessary, or the documentation
+does not support that any further rehabilitation services were
+being provided, at some point during the covered days associated
+with that MDS, but that other medically necessary skilled
+services were being provided, the contractor shall determine
+whether there is a clinical group for which the beneficiary
+qualifies, and pay the claim according to the correct RUG value,
+for all covered days from the date that the rehabilitation
+services are determined to be not reasonable and necessary or
+not provided. See MPIM, ch. 6, § 6.1.3.
+
+Pursuant to section 1833(e) of the Act, an appellant bears the
+responsibility for documenting the medical necessity of its
+claim for coverage. See also 42 C.F.R. § 424.5(a)(6).
+
+
+                           DISCUSSION
+
+  1. Beneficiary D.E.
+     Dates of Service:   October 1, 2009, to October 31, 2009
+
+                Background and Procedural History
+
+The appellant billed Medicare for SNF services provided to D.E.,
+using HCPCS codes RUB02 and RUB03. Exh. 1 at 33. The Medicare
+contractor determined that the PT, OT, and ST services provided
+to D.E. were not medically reasonable and necessary, and
+therefore downcoded the RUG-III codes to reflect the proper RUG­
+III codes if the PT, OT, and/or ST services were not medically
+reasonable and necessary, but the beneficiary received SN
+services. See D.E. Exh. 1 at 35. The contractor then denied
+the downcoded claims as not reasonable and necessary, after
+finding that the record did not contain documentation to support
+a finding for medically reasonable and necessary daily SN
+services. See id. At redetermination, the contractor affirmed
+the initial denial. Id. at 16-17.
+                                                                  7
+On reconsideration, the Qualified Independent Contractor (QIC)
+affirmed the contractor’s decision, also finding that the
+services were not medically reasonable and necessary. See D.E.
+Exh. 1 at 2-4.
+
+On further appeal, with respect to the OT services, the ALJ
+reversed the prior adjudicators’ findings and determined that
+the OT services provided were medically reasonable and
+necessary. The ALJ also determined that the PT and ST services
+did not meet the Medicare coverage statutory requirements of
+section 1814(a)(2)(B) of the Social Security Act (Act) on the
+grounds that D.E.’s physician did not sign the initial plans of
+care for the therapy services. ALJ Decision (Dec.) at 13-14.
+Regarding the PT and ST services, the ALJ, after stating that
+section 1879 of the Act’s limitation of liability did not apply,
+held the appellant liable under section 1866(a)(1)(A) of the
+Act, which prohibits a provider from charging an individual for
+services for which the individual would receive coverage had the
+provider complied with procedural and other requirements. Id.
+Because the ALJ determined that the PT and ST services did not
+meet Medicare coverage criteria, she determined that the
+appellant was not entitled to payment under Medicare Part A for
+RUG levels RUB02 and RUB03 billed by the appellant, and
+therefore directed the contractor to reassign D.E. to the
+appropriate RUG-III category based on the ALJ’s finding that the
+OT services were medically reasonable and necessary. Id. at 12.
+
+Before the Council, the appellant contests the ALJ’s findings
+that the appellant’s PT and ST documentation did not meet the
+statutory requirements of section 1814(a)(2)(B). See Exh. MAC­
+1. The appellant contends that the record shows sufficient
+evidence that D.E.’s physician was aware, ordered, and was in
+agreement with the therapy plans.
+
+                            Coverage
+
+The record indicates that D.E. had a prior hospital stay for a
+diagnosis of congestive heart failure from August 23, 2009, to
+August 26, 2009. Exh. 2 at 216. The beneficiary’s medical
+history included stroke, left-sided weakness due to stroke,
+hearing loss, hypertension, GERD, depression (present
+situational depression), chronic Coumadin treatment, diabetes
+type II, hyperlipidemia, left hip arthroplasty, CHF and anemia.
+Exh. 2 at 166. The beneficiary was noted to have “some obvious
+‘cognitive deficits,’ but no official diagnosis of dementia.”
+Id. at 168.
+                                                                   8
+
+After review of the administrative record, the Council concurs
+with the ALJ’s finding that the OT services were medically
+reasonable and necessary under section 1862(a)(1)(A) of the Act.
+The Council, however, determines the ALJ erred in determining
+the PT and ST failed to meet Medicare statutory criteria
+pursuant to section 1814(a)(2)(B) of the Act. However, upon
+reviewing the substantive documentation, the Council determines
+that the PT and ST services were not medically reasonable and
+necessary under section 1862(a)(1)(A) of the Act. We therefore
+modify the ALJ’s decision to provide a substantive analysis as
+to why the services were not medically reasonable and necessary.
+
+OT Services
+
+D.E. was referred to OT due to a decline in her functional ADLs.
+Exh. 2 at 179. As noted by the ALJ, D.E.’s prior level of
+function was that she required minimal to moderate assistance
+with all functional transfers. Dec. at 9; Exh. 2 at 179. At OT
+initiation, D.E.’s functional status had declined as follows:
+her sitting balance was poor; she required moderate assistance
+with lower body bathing; maximal assistance with upper body
+bathing; maximal assistance with lower body dressing; and
+maximal assistance with toilet transfers. Id. The ALJ found
+that the record indicated D.E. showed improvement and
+restoration of her functioning, as the record indicated she
+participated in the therapy program and her condition improved.
+Id. Specifically, the ALJ found that the OT progress notes
+indicated that D.E.’s functional status had improved to: only
+requiring moderate assistance with upper body bathing, upper and
+lower body dressing, and toilet transfers; and D.E. required
+minimal to standby assistance with self-feeding. Id.
+Additionally D.E. performed 40 minutes of reaching activities
+with minimal assistance while sitting at the edge of the bed.
+Id. Accordingly, the Council concurs with the ALJ’s
+determination that the OT services were medically reasonable and
+necessary.
+
+PT and ST Services
+
+With respect to the PT and ST services provided to D.E., the
+Council finds the ALJ erred in determining that the appellant
+did not meet the statutory requirement for coverage and
+therefore did not establish medical necessity. As discussed
+above, skilled nursing and rehabilitation services are defined
+as those that are: (1) ordered by a physician, (2) require the
+                                                                   9
+skills of professional personnel; and (3) are furnished directly
+by (or under the supervision of) such personnel. See 42 C.F.R.
+§ 409.31(a)(Emphasis added). In her decision, the ALJ
+erroneously focuses on that fact that the initial therapy plans
+of care (CMS 700 form) for the PT and ST services were not
+signed by D.E.’s treating physician, as a basis for finding that
+the physician did not order, and therefore there were no valid
+physician certification for these services. A physician’s
+signature on a plan of treatment is not a requirement per se for
+inpatient SNF rehabilitation care, but is simply one indication
+that a particular therapy service has been ordered by a
+physician and/or furnished pursuant to an active plan of
+treatment. If the physician’s signature is not located within
+the plan of care, the reviewer may look to other documentation
+within the record. 42 C.F.R. section 424.11 provides:
+
+     No specific procedures or forms are required for
+     certification and recertification statements. The
+     provider may adopt any method that permits
+     verification. The certification and recertification
+     statements may be entered on forms, notes, or records
+     that the appropriate individual signs, or on a special
+     separate form.
+
+In this case, the record contains sufficient documentation that
+D.E.’s physician ordered the PT and ST services prior to the
+initiation of therapy services. Specifically, the record
+contains written orders signed by D.E.’s physician with specific
+and detailed instructions, for both PT and ST, dated August 28,
+2009. See Exh. 2 at 136. Therefore, although the physician did
+not sign the PT and ST initial therapy plans of care (CMS 700
+form), the Council finds the signed physician orders to be
+sufficient documentation for a finding that the rehabilitation
+services were ordered by D.E.’s treating physician, and that a
+plan of care was established and in effect for each of the
+therapies for the dates of service at issue.
+
+Regarding PT, the services were initiated on August 28, 2009,
+with treatment diagnoses of muscle weakness and lack of
+coordination. Exh. 2 at 212. D.E.’s prior level of function
+was noted to be “required assistance to transfer from sitting to
+standing.” Id. at 216. D.E. was referred to PT due to
+decreased strength and decreased ADLs due to illness. Id. At
+the beginning of PT, D.E. required moderate assistance for all
+functional transfers. Id. at 217. D.E.’s extremity strength
+for both legs was noted to fluctuate from session to session
+                                                               10
+with no consistent measurements to evaluate improvements. Id.
+at 217-233. Additionally, by the dates of service at issue, the
+beneficiary was noted to still require moderate to maximal
+assistance to transfer from sitting to standing. Id. Lastly,
+the therapist notes do not indicate that D.E. made any
+significant functional gains, even with the ongoing PT services.
+Id. Accordingly, the record does not support a finding that the
+PT services were medically reasonable and necessary.
+
+Regarding ST, the services were initiated on August 27, 2009,
+with a treatment diagnosis of cognitive deficits. Exh. 2 at
+246. At the onset of ST, D.E. exhibited moderate to severe
+receptive and expressive language and cognitive deficits. Exh.
+2 at 214. D.E. was referred to ST to evaluate for
+speech/language cognitive deficits affecting her communication
+and safety. Exh. 2 at 250. D.E.’s goals included “[increased]
+quality of life to enjoy a maximum possible level of cognitive
+functioning and communication skills as measured by skilled
+observation and modified formal testing [with] 80% proficiency.”
+Exh. 2 at 250. The record indicates that due to mixed hearing
+loss and flat tympanograms, D.E. needed to be medically
+evaluated for possible external and/or middle ear pathology.
+Id. at 241. In September 2009, D.E. began utilizing an
+assistive listening device (ALD). See e.g., Exh. 2 at 257.
+Although the ST notes indicated that D.E. showed improvement,
+the Council notes that by the dates of service at issue, she
+still required moderate cognitive and verbal cueing when
+performing tasks. Exh. 2 at 252-265. Accordingly, the record
+does not support a finding that D.E. experienced significant
+progress to justify continued skilled speech therapy.
+
+In sum, the Council concurs with the ALJ that the OT services
+were medically reasonable and necessary, but finds that the PT,
+and ST services at issue were not medically reasonable and
+necessary pursuant to section 1862(a)(1)(A) of the Act. The
+Council further concurs with the ALJ that the appellant is not
+entitled to payment under the RUG categories RUB02 and RUB03.
+The contractor is therefore directed to reassign the beneficiary
+to the appropriate RUG codes based on the 255 minutes of OT
+provided by the appellant, which were determined to be medically
+reasonable and necessary.
+                                                                11
+  2. Beneficiary E.M.
+     Dates of Service:   October 1, 2009, to October 31, 2009
+
+                Background and Procedural History
+
+The appellant billed Medicare for SNF services provided to E.M.,
+using HCPCS codes RUB02 and RUB03. Exh. 1 at 26. The Medicare
+contractor determined that the PT, OT, and ST services provided
+to E.M. were not medically reasonable and necessary, and
+therefore downcoded the RUG-III codes to reflect the proper RUG­
+III codes if the PT, OT, and/or ST services were not medically
+reasonable and necessary, but the beneficiary received SN
+services. See E.M. Exh. 1 at 24. The contractor then denied
+the downcoded claims as not reasonable and necessary, after
+finding that the record did not contain documentation to support
+a finding for medically reasonable and necessary daily SN
+services. See id. On redetermination, the contractor upheld
+the initial denial. See E.M. Exh. 1 at 41-43.
+
+On reconsideration, the Qualified Independent Contractor (QIC)
+affirmed the contractor’s decision, finding that the services
+were not medically reasonable and necessary. See E.M. Exh. 1 at
+1 at 63-67.
+
+On further appeal, with respect to the ST services, the ALJ
+reversed the prior adjudicators’ findings, and found that the ST
+services were medically reasonable and necessary pursuant to
+section 1862(a)(1)(A). The ALJ also determined that the PT
+services were not medically reasonable and necessary, and that
+the OT services did not meet the statutory requirements of
+section 1814(a)(2)(B) of the Social Security Act (Act) on the
+grounds that E.M.’s physician did not sign the initial plans of
+care for the therapy services. ALJ Decision (Dec.) at 15-16.
+Regarding the PT and OT services, the ALJ, after stating that
+section 1879 of the Act’s limitation of liability did not apply,
+held the appellant liable for the non-covered services under
+section 1866(a)(1)(A) of the Act, which prohibits a provider
+from charging an individual for services for which the
+individual would receive coverage had the provider complied with
+procedural and other requirements.
+
+Additionally, because the ALJ determined that the PT and OT
+services did not meet Medicare coverage criteria, she determined
+that the appellant was not entitled to payment under Medicare
+Part A for RUG levels RUB02 and RUB03 billed by the appellant,
+and therefore directed the contractor to reassign E.M. to the
+                                                               12
+appropriate RUG-III category based on the ALJ’s finding that the
+255 minutes of ST were medically reasonable and necessary. Id.
+at 15.
+
+Before the Council, the appellant contests the ALJ’s findings
+that the appellant’s documentation did not meet the statutory
+requirements of section 1814(a)(2)(B). See Exh. MAC-2. The
+appellant contends that the record shows sufficient evidence
+that E.M.’s physician was aware, ordered, and was in agreement
+with the therapy plans. See id.
+
+                            Coverage
+
+After review of the administrative record, the Council concurs
+with the ALJ’s finding that the ST services were medically
+reasonable and necessary under section 1862(a)(1)(A) of the Act.
+The Council also concurs with the ALJ’s finding that the PT
+services were not medically reasonable and necessary under
+section 1862(a)(1)(A) of the Act. The Council, however,
+determines the ALJ erred in determining the OT services failed
+to meet Medicare statutory criteria pursuant to section
+1814(a)(2)(B) of the Act. However, upon reviewing the
+substantive documentation, the Council determines that the OT
+services were not medically reasonable and necessary under
+section 1862(a)(1)(A) of the Act. We therefore modify the ALJ’s
+decision to prove a substantive analysis as to why the OT
+services were not medically reasonable and necessary.
+
+With respect to the OT services provided to E.M., the Council
+finds the ALJ erred in determining that the appellant did not
+meet the statutory requirement for coverage and therefore did
+not establish medical necessity. As discussed above, skilled
+nursing and rehabilitation services are defined as those that
+are: (1) ordered by a physician, (2) require the skills of
+professional personnel; and (3) are furnished directly by (or
+under the supervision of) such personnel. See 42 C.F.R. §
+409.31(a)(Emphasis added). In her decision, the ALJ erroneously
+focuses on that fact that the initial therapy plan of care (CMS
+700 form) for the OT services were not signed by E.M.’s treating
+physician, as a basis for finding that the physician did not
+order, and therefore there were no valid physician certification
+for these services. A physician’s signature on a plan of
+treatment is not a requirement per se for inpatient SNF
+rehabilitation care, but is simply one indication that a
+particular therapy service has been ordered by a physician
+and/or furnished pursuant to an active plan of treatment. If
+                                                                  13
+the physician’s signature is not located within the plan of
+care, the reviewer may look to other documentation within the
+record. 42 C.F.R. section 424.11 provides:
+
+     No specific procedures or forms are required for
+     certification and recertification statements. The
+     provider may adopt any method that permits
+     verification. The certification and recertification
+     statements may be entered on forms, notes, or records
+     that the appropriate individual signs, or on a special
+     separate form.
+
+In this case, the record contains sufficient documentation that
+E.M.’s physician ordered the OT services prior to the initiation
+of therapy services. Specifically, the record contains written
+orders signed by E.M.’s physician with specific and detailed
+instructions for OT dated August 21, 2009. See Exh. 2 at 252.
+Therefore, although the physician did not sign the OT initial
+therapy plan of care (CMS 700 form), the Council finds the
+signed physician order to be sufficient documentation for a
+finding that the rehabilitation services were ordered by E.M.’s
+treating physician, and that a plan of care was established and
+in effect for the therapy for the dates of service at issue.
+
+Regarding the OT services, although the Council finds they met
+the statutory requirement for coverage, we nevertheless
+determine that the services were not medically reasonable and
+necessary. As indicated by the record, OT services were
+initiated on August 24, 2009 with a treatment diagnosis of lack
+of coordination and muscle weakness. Exh. 2 at 194. E.M.’s
+prior level of functional was minimal to moderate assistance
+with ADLs. Id. at 187. E.M. was referred to OT due to an
+overall decline in transfers, range of motion, strength, and
+independence with ADLs. Id. at 187. In September 2009, E.M.
+required maximal assist and 100% tactical, visual or verbal cue
+to attend to task. Id. at 186. The record indicates that
+during the dates of service, the therapists continued to teach
+repetitive exercises to improve upper extremity strength to
+perform ADLs. Id. at 170-176. The Council notes that continued
+teaching of repetitive exercises does not require the skills of
+therapist. Further, the record does not indicate that
+significant functional gains were not made and E.M. remained at
+a level of extensive to total assist for personal care tasks.
+
+PT services were initiated on August 21, 2009, with a treatment
+diagnosis of muscle weakness and difficulty walking. Exh. 2 at
+                                                                14
+155. E.M. was referred to PT due to decline in functional
+ability to transfer, walk, and weakness. Id. at 147. Goals
+were set to improve functionality. Id. In September 2009, E.M.
+was noted to require moderate assist with all functional
+transfers. Id. at 145. By the dates of service at issue, even
+with ongoing therapy, E.M. was unable to accomplish the goal of
+ambulation with a walker and the goal was eventually deferred.
+Id. at 123. Moreover, the notes do no indicate the specific
+progress E.M. achieved in gait training and functional
+transfers. Id. Accordingly, the record does not support a
+finding that significant functional gains were accomplished as
+E.M. remained dependent and required extensive assistance to
+ambulate in the room and for transfers. See id. at 122-145.
+Accordingly, the record does not support a finding that the PT
+services were medically reasonable and necessary.
+
+Regarding ST, services were initiated on August 21, 2009, with a
+treatment diagnosis of aphasia; goals were set to improve
+functionality. Upon review of the record, the Council concurs
+with the ALJ’s determination that the ST services were medically
+reasonable and necessary. E.M. was referred to ST following a
+recent hospitalization for severe shortness of breath, worsening
+cough, and difficulty lying down. See Exh. 2 at 105. E.M.’s
+primary functional goal was to increase her quality of life to
+enjoy maximal possible level of cognitive functioning and
+communication skills. Id. The record indicates that her prior
+level of function was that she resided in a SNF and was
+adequately able to express her wants and needs. Id. As noted
+by the ALJ, her functional status had declined as follows: she
+answered abstract yes/no questions with 35% accuracy; she was
+able to verbally label objects and pictures with 20% accuracy;
+she followed one step directions with 40% accuracy; she
+generally demonstrated appropriate object use with 17% accuracy;
+and she consumed less than 50% of her meals. For the look back
+periods at issue, the progress notes indicated that E.M.’s
+functional status had improved to: she preformed phrase
+completion with 75% accuracy needing minimal verbal cues; she
+completed one word reading tasks with 80% accuracy benefiting
+from minimal verbal cues; she exhibited minimal to moderate
+throat clearing with pudding and water, she completed naming
+tasks with 100% accuracy; she completed answering “wh” questions
+with 68% accuracy; she named products associated to brand names
+with 45% accuracy; and she completed a task where she matched
+items with their pictures with 70% accuracy. See Exh. 2 at 94,
+101-13.
+                                                                15
+In sum, the Council concurs with the ALJ that the ST services
+were medically reasonable and necessary, but finds that the PT,
+and OT services at issue were not medically reasonable and
+necessary pursuant to section 1862(a)(1)(A) of the Act. The
+Council further concurs with the ALJ that the appellant is not
+entitled to payment under the RUG categories RUB02 and RUB03.
+The contractor is therefore directed to reassign the beneficiary
+to the appropriate RUG codes based on the 255 minutes of ST,
+which were determined to be medically reasonable and necessary.
+
+
+  3. Beneficiary J.M.
+     Dates of Service:   August 1, 2009 to August 31, 2009
+
+                Background and Procedural History
+
+The appellant billed Medicare for SNF services provided to J.M.,
+using HCPCS codes RUA03 and RUB02. Exh. 1 at 54. Initially and
+at redetermination, the Medicare contractor determined that the
+SNF services provided were not medically reasonable and
+necessary. J.M. Exh. 1 at 25-27, 47. On reconsideration, the
+Qualified Independent Contractor (QIC) also determined the
+services were not medically reasonable and necessary. See J.M.
+Exh. 1 at 2-7.
+
+On further appeal, the ALJ also determined that the OT services
+provided to beneficiary J.M., were not medically reasonable and
+necessary pursuant to section 1862(a)(1)(A) and held the
+appellant liable for the noncovered services pursuant to section
+1879 of the Act. The ALJ also determined that the SN services
+furnished on the dates of service at issue were skilled, and
+therefore reasonable and necessary, pursuant to section
+1862(a)(1)(A). With respect to the PT and ST services provided
+to J.M., the ALJ determined that the appellant’s documentation
+did not meet the statutory requirements of section 1814(a)(2)(B)
+of the Social Security Act (Act) on the grounds that J.M.’s
+physician did not sign the initial therapy plans of care (CMS
+700 form) for the services. See ALJ Decision (Dec.) Regarding
+the PT and ST services, the ALJ after stating that section 1879
+of the Act’s limitation of liability did not apply, held the
+appellant liable under section 1866(a)(1)(A) of the Act, which
+prohibits a provider from charging an individual for services
+for which the individual would receive coverage had the provider
+complied with procedural and other requirements.
+                                                                 16
+Before the Council, the appellant contests the ALJ’s findings
+that the appellant’s documentation did not meet the statutory
+requirements of section 1814(a)(2)(B). See Exh. MAC-3. The
+appellant contends that the record shows sufficient evidence
+that J.M.’s physician was aware, ordered, and was in agreement
+with the therapy plans. See id.
+
+                            Coverage
+
+After review of the administrative record, the Council concurs
+with the ALJ’s finding that the OT services were not medically
+reasonable and necessary under section 1862(a)(1)(A) of the Act.
+The Council also concurs with the ALJ’s finding that the SN
+services for the dates of service at issue were medically
+reasonable and necessary under section 1862(a)(1)(A) of the Act.
+The Council, however, determines the ALJ erred in determining
+the PT and ST failed to meet Medicare statutory criteria
+pursuant to section 1814(a)(2)(B) of the Act. However, upon
+reviewing the substantive documentation, the Council determines
+that the PT and ST services were not medically reasonable and
+necessary under section 1862(a)(1)(A) of the Act. We therefore
+modify the ALJ’s decision to provide a substantive analysis as
+to why the PT and ST services were not medically reasonable and
+necessary.
+
+With respect to the PT and ST services provided to J.M., the
+Council finds the ALJ erred in determining that the appellant
+did not meet the statutory requirement for coverage and
+therefore did not establish medical necessity. As discussed
+above, skilled nursing and rehabilitation services are defined
+as those that are: (1) ordered by a physician, (2) require the
+skills of professional personnel; and (3) are furnished directly
+by (or under the supervision of) such personnel. See 42 C.F.R.
+§ 409.31(a)(Emphasis added). In her decision, the ALJ
+erroneously focuses on that fact that the initial therapy plans
+of care (CMS 700 form) for the PT and ST services were not
+signed by J.M.’s treating physician, as a basis for finding that
+the physician did not order, and therefore there were no valid
+physician certification for these services. A physician’s
+signature on a plan of treatment is not a requirement per se for
+inpatient SNF rehabilitation care, but is simply one indication
+that a particular therapy service has been ordered by a
+physician and/or furnished pursuant to an active plan of
+treatment. If the physician’s signature is not located within
+the plan of care, the reviewer may look to other documentation
+within the record. 42 C.F.R. section 424.11 provides:
+                                                               17
+
+     No specific procedures or forms are required for
+     certification and recertification statements. The
+     provider may adopt any method that permits
+     verification. The certification and recertification
+     statements may be entered on forms, notes, or records
+     that the appropriate individual signs, or on a special
+     separate form.
+
+In this case, the record contains sufficient documentation that
+J.M.’s physician ordered the PT and ST services prior to the
+initiation of therapy services. Specifically, the record
+contains written orders signed by J.M.’s physician with specific
+and detailed instructions for the PT and ST services dated June
+16, 2009. See Exh. 2 at 224-225. Therefore, although the
+physician did not sign the PT and ST initial plans of care, the
+Council finds the signed physician orders to be sufficient
+documentation for a finding that the rehabilitation services
+were ordered by J.M.’s treating physician, and that a plan of
+care was established and in effect for the therapies for the
+dates of service at issue.
+
+Regarding PT, services were initiated on June 15, 2009, with a
+treatment diagnosis of muscle weakness and difficulty
+ambulating. Prior level of function was documented as
+independent with transfers and ambulation. Exh. 2 at 316. J.M.
+was referred to PT secondary to a fall with fracture of the left
+hip with weakness. Exh. 2 at 316. At the beginning of PT, J.M.
+required moderate to maximal assist with functional mobility.
+Exh. 2 at 316. J.M.’s right lower extremity strength measured
+3/5 and left lower extremity measured 2+/5. Id. Goals were
+developed to improve functionality, including increasing
+bilateral lower extremity strength to 4+/5; ability to transfer
+from sitting to standing/standing to sitting with moderate
+assist; gait training of 30 feet with rolling walker and
+moderate assist. Id. By July 26, 2009, therapy documentation
+indicated that J.M.’s strength and ambulation ability improved
+to minimal assistance up to 300 feet with a rolling walker. Id.
+at 325. Additionally, her lower extremity strength increased to
+“grossly 4/5.” Further, J.M. transferred from sitting to
+standing with minimal to stand-by assist. Id. Accordingly, by
+the dates of service at issue, the record indicates that J.M.
+had substantially met or exceeded the stated PT goals. By the
+dates of service at issue, a restorative nursing program would
+have been more appropriate than continued services by a skilled
+therapist.
+                                                                  18
+
+Regarding OT, services were initiated on June 14, 2009, with a
+treatment diagnosis of muscle weakness. J.M.’s prior level of
+function was documented as independent with bed mobility,
+transfers, ambulation and eating and required minimal assist
+with all other care. Exh. 2 at 294. At the onset of OT
+services, J.M. required minimal assistance with feeding, maximal
+assistance with all other care. Id. Bilateral upper extremity
+strength was rated 3/5. Goals were developed to improve
+functionality. Id. Repetitive strengthening exercises were
+provided, yet the record does not indicate that significant
+functional gains occurred. J.M. remained at a level of minimal
+to moderate assistance with all personal care throughout the
+dates in review. Id. at 294-308. As noted by the QIC,
+sufficient time had passed to establish a restorative program
+with nursing staff for ongoing strengthening exercises and
+verbal cueing.
+
+ST services were initiated on June 12, 2009, with a treatment
+diagnosis of symbolic language dysfunction. Prior level of
+function was documented as “long-term resident of SNF on
+Alzheimer’s unit”. Exh. 2 at 337. At the onset of services,
+J.M. exhibited moderate to severe receptive and expressive
+language and cognitive deficits. Id. at 331. Her baseline was
+noted to be 38% for language and 33% for cognitive abilities.
+Id. at 337. Goals were developed to improve functionality,
+including increasing expressive and receptive language and
+cognitive abilities to 80%. For the time period prior to and
+during the dates of service at issue, the record showed minimal
+progress. See id. at 337-350. The therapist noted that J.M.
+required maximal repetitions to complete tasks and accurately
+respond to questions and statements. See id.
+
+With regard to skilled nursing services, the nursing notes
+indicate that on July 28, 2009, the beneficiary sustained a fall
+and hit her head. She was transported to the hospital for a
+head scan. Id. at 172. Upon return to the SNF, she was placed
+on a neurological watch and fall precautions. Id. at 172-173.
+The nurses monitored J.M.’s condition including pupil size,
+alertness, signs and symptoms of pain and ability to follow
+commands. Id. at 173. The Council therefore concurs with the
+ALJ’s determination that the beneficiary’s fall and subsequent
+placement on a neurological watch required the services of
+skilled personnel.
+                                                                19
+In sum, the Council finds the PT, OT, and ST services at issue
+were not medically reasonable and necessary pursuant to section
+1862(a)(1)(A) of the Act. The Council further finds that the SN
+services for dates of service at issue were skilled, and thus
+medically reasonable and necessary. Because the therapy
+services are not medically reasonable and necessary, the
+appellant is not entitled to payment under the RUGS categories
+billed: RUA03 and RUB02. The contractor is therefore directed
+to reassign the beneficiary to the appropriate RUG codes based
+on the finding that the SN services which were determined to be
+medically reasonable and necessary.
+
+
+                     LIMITATION ON LIABILITY
+
+Section 1879(a) of the Act provides for the limitation on
+liability for items or services denied Medicare coverage as not
+“reasonable and necessary” absent “knowledge” by a beneficiary
+or provider that the items or services would not be covered.
+Section 1879(a); 42 C.F.R. § 411.400(a). Section 1879(g) of the
+Act specifies that the limitation on liability provisions apply
+to a determination that an individual is not terminally ill.
+
+A beneficiary has “knowledge” of non-coverage when he or she has
+been given written notice of non-coverage by the provider,
+practitioner, or supplier. 42 C.F.R. § 411.404(a). A provider
+may have knowledge based on its written notice of non-coverage
+to the beneficiary or its own experience, actual notice, or
+constructive notice. 42 C.F.R. § 411.406. CMS has provided
+further guidance on financial liability protections in its
+Medicare Claims Processing Manual (Pub. 100-04), Ch. 30 and CMS
+Ruling 95-1.
+
+In these cases, there is no evidence that the beneficiary had
+knowledge that certain services furnished in the SNF would be
+found not medically reasonable and necessary; therefore, the
+Council finds the appellant may not bill the beneficiary for the
+non-covered portion of the charges under section 1879 of the
+Act.
+                                                                  20
+
+                            DECISION
+
+The Council modifies the ALJ’s decisions in accordance with the
+above. The Council finds that with regard to each beneficiary,
+the services should be downcoded to the proper RUG level for
+each SNF stay during the dates of service at issue based on the
+limited types of services found medically reasonable and
+necessary. The beneficiary may not be charged for any portion
+of the services found not medically reasonable and necessary
+under section 1879 of the Act.
+
+
+                          MEDICARE APPEALS COUNCIL
+
+
+
+                          /s/ Gilde Morrisson
+                          Administrative Appeals Judge
+
+
+
+                          /s/ Constance B. Tobias, Chair
+                          Departmental Appeals Board
+
+Date:   March 20, 2013
+

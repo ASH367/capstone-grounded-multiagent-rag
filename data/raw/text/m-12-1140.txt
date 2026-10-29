@@ -1,0 +1,214 @@
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+                       DEPARTMENTAL APPEALS BOARD
+
+                  ACTION OF MEDICARE APPEALS COUNCIL
+                         ON REQUEST FOR REVIEW
+                       Docket Number: M-12-1140
+
+
+In the case of                        Claim for
+
+                                      Hospital Insurance Benefits
+L.R. o/b/o A.R.                       (Part A)
+(Appellant)
+
+
+****                                  ****
+(Beneficiary)                         (HIC Number)
+
+
+IPRO (QIO)                            ****
+(Contractor)                          (ALJ Appeal Number)
+
+
+                             INTRODUCTION
+
+The Administrative Law Judge (ALJ) issued an unfavorable
+decision, dated January 18, 2012, concerning the decision of the
+provider skilled nursing facility (SNF) to terminate skilled
+services for the beneficiary on October 5, 2011. The ALJ
+determined that the SNF’s decision was appropriate, as the
+beneficiary no longer required skilled care. The beneficiary,
+through her representative (daughter), has asked the Medicare
+Appeals Council (Council) to review this action.
+
+The Council reviews the ALJ’s decision de novo. 42 C.F.R.
+§ 405.1108(a). The Council will limit its review of the ALJ’s
+action to the exceptions raised by the party in the request for
+review, unless the appellant is an unrepresented beneficiary.
+42 C.F.R. § 405.1112(c).
+
+The appellant did not send a copy of the request for review to
+the provider, although the provider is a party to the appeal.
+Failure to copy all parties on a request for review tolls the
+Council’s adjudication deadline until all parties “receive
+notice of the request for [Council] review.” 42 C.F.R.
+                                                                          2
+
+§ 405.1106(a). On June 25, 2012, the Council sent the provider
+(via facsimile) a copy of the request for review. The Council
+has received no response from the provider.
+
+The Council admits the appellant’s request for review and
+subsequent interim correspondence into the record as Exhibits
+(Exhs.) MAC-1 through MAC-4, respectively. As set forth below,
+the Council adopts the ALJ’s decision.
+
+                                 BACKGROUND
+
+The ALJ found that the 87 year old beneficiary was first
+admitted to the SNF on August 25, 2011, following inpatient
+hospitalization from August 16, 2011, through August 25, 2011,
+for a “seizure-type episode.” Dec. at 2. The beneficiary was
+then sent to the hospital emergency room on August 28, 2011, for
+chest pain, was released, and was re-admitted to the SNF on
+August 30, 2011. Id. Following readmission, the beneficiary
+received physical therapy (PT), occupational therapy (OT), and
+nursing services. Id. The SNF discharged the beneficiary from
+both PT and OT on September 30, 2011, and issued a “Notice of
+Medicare Non-Coverage” (NNC), which stated that Medicare
+coverage of SNF services would end on October 5, 2011, as “there
+[was] no continuing evidence of medical necessity for the skills
+of a professional nurse or a therapist to safely and effectively
+carry out the plan of care.” Id. at 1-2, citing Exh. 1. A SNF
+representative documented in the NNC that she notified the
+beneficiary’s daughter by telephone on October 3, 2011, of the
+termination of skilled services and of the beneficiary’s appeal
+rights. Exh. 1, at 1, 3. The Quality Improvement Organization
+(QIO) and the Qualified Independent Contractor (QIC) affirmed
+the provider’s decision on appeal. Dec. at 1-2.
+
+The ALJ stated that the provider terminated skilled care based
+on a lack of evidence that the skills of a professional nurse or
+therapist were required. Dec. at 5. The ALJ also reviewed the
+beneficiary’s medical condition, on initial admission to the
+SNF, subsequent hospitalization, and readmission, and determined
+that “[i]t is clear that no skilled services were ordered or
+received after October 5, 2011, and thus there are no services”
+for which the ALJ could order reimbursement. Id. at 5-6. 1 The
+ALJ then found the beneficiary liable for any non-covered
+charges, based on “actual knowledge” of non-coverage. Id. at 6.
+
+
+1
+  The ALJ found that she lacked jurisdiction to order the resumption of
+therapy. Id.
+                                                                           3
+
+                                 DISCUSSION
+
+In her request for review, the appellant refers the Council to
+the “2nd full paragraph” on page six of the ALJ’s decision, then
+asserts that “rehabilitative services were ‘medically reasonable
+and necessary’ . . . .” Exh. MAC-1, at 1. The appellant also
+argues that she “did not have prior knowledge that Medicare
+payment for services would be denied before 90 or 100 days.”
+Id. The appellant states that “rehabilitative services should
+have been continued” and that, although some of the
+beneficiary’s chronic conditions did not improve, others did.
+Id. The appellant concludes by asking that the Council review
+the ALJ’s decision in light of the decision in Jimmo v.
+Sebelius, Civil No. 5:11-CV-17 (D. Vt. October 25, 2011). Id.
+
+The Council is unclear on the appellant’s reference to the
+second full paragraph on page six of the ALJ’s decision, as that
+paragraph concerns limitation on liability under section 1879 of
+the Social Security Act (Act), not medical necessity under
+section 1862 of the Act. The Council construes the appellant’s
+contention, however, as being that the services provided were
+“reasonable and necessary” under section 1862 and that the
+beneficiary continued to require skilled care as of and beyond
+the cut-off date of October 5, 2011.
+
+As the ALJ pointed out, the record indicates that the provider
+discharged the beneficiary from skilled PT and OT on September
+30, 2011, a month after readmission to the SNF, because the
+beneficiary had inconsistent vital signs, low blood pressure,
+and dizziness while standing. Dec. at 6. The beneficiary could
+at that time transfer with moderate assistance, ambulate with a
+rolling walker for fifteen feet with minimum to moderate
+assistance, could “complete four minutes of activity tolerance
+exercises,” and had shown “some improvements in activities of
+daily living.” Id. The Council agrees with the ALJ that the
+record does not establish that the beneficiary qualified for
+care after October 5, 2011, that was both medically reasonable
+as well as necessary, within Medicare’s coverage criteria. 2
+
+The appellant’s reliance on the Jimmo v. Sebelius litigation is
+also unavailing. On January 24, 2013, the United States
+District Court for the District of Vermont approved a settlement
+agreement in that case, in which the plaintiffs alleged that the
+Centers for Medicare & Medicaid Services (CMS) wrongly applied
+an “improvement standard” in making skilled care determinations
+2
+  The fact that the beneficiary did not use the entire 100 day SNF “spell of
+illness” benefit is irrelevant in determining coverage.
+                                                                             4
+
+for home health, SNF, and outpatient rehabilitation services.
+In a Fact Sheet on the litigation, 3 CMS stated that it had denied
+establishing an improper “rule of thumb” improvement standard
+and that the Court had not ruled on the plaintiffs’ arguments.
+CMS also stated that, while expectation of improvement was one
+factor for consideration in determining skilled care, “Medicare
+policy has long recognized that there may also be specific
+instances where no improvement is expected but skilled care is,
+nevertheless, required in order to prevent or slow deterioration
+and maintain a beneficiary at the maximum practicable level of
+function.” Emphasis supplied; see 42 C.F.R. § 409.32(c). CMS
+summarized that “coverage depends not on the beneficiary’s
+restoration potential, but on whether skilled care is required,
+along with the underlying reasonableness and necessity of the
+services themselves.” Emphasis supplied. CMS pointed out a
+party’s responsibility to provide “sufficient documentation to
+substantiate clearly that skilled care is required, that it is
+in fact provided, and that the services themselves are
+reasonable and necessary . . . .” CMS noted that the Settlement
+Agreement also specified: “Nothing in this Settlement Agreement
+modifies, contracts, or expands the existing eligibility
+requirements for receiving Medicare coverage.” Bold in
+original. Instead, CMS stated that the Settlement Agreement
+required that CMS clarify existing policies for consistent and
+appropriate coverage determinations. See, generally, “Jimmo v.
+Sebelius Settlement Agreement Fact Sheet,” Attachment.
+
+The Jimmo v. Sebelius Settlement Agreement Fact Sheet is not
+itself authority, but it concisely restates the governing
+coverage standards as relevant to this case in light of the
+appellant’s contention referring to the settlement. A Medicare
+beneficiary must, in part, require the skills of professional or
+technical personnel for rehabilitation therapy services to meet
+coverage requirements. See, e.g., 42 C.F.R. §§ 409.31(a)(2),
+409.32, 409.33. In this case, the Council agrees with the ALJ
+that the beneficiary did not require skilled services after
+October 5, 2011.
+
+As the beneficiary does not dispute the documented telephone
+contact by the provider on the NNC, the Council upholds the
+ALJ’s finding that the beneficiary is liable for any non-covered
+charges after October 5, 2011.
+
+
+
+
+3
+    The Council includes the CMS Fact Sheet as an attachment to this decision.
+                                                               5
+
+                           CONCLUSION
+
+The Council has considered the record and exceptions. The
+Council concludes that the appellant’s exceptions present no
+basis for changing the ALJ’s action. The Council therefore
+adopts the ALJ decision.
+
+                                   MEDICARE APPEALS COUNCIL
+
+
+
+                                   /s/ Susan S. Yim
+                                   Administrative Appeals Judge
+
+
+Date: February 21, 2014
+

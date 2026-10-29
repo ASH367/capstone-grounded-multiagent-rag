@@ -1,30 +1,30 @@
 {
- "reviewer": "AI reviewers A/B/C (Claude subagents, NOT human)",
+ "reviewer": "Ashish Ubale",
  "CP3_multi": {
   "n": 30,
-  "supported": 21,
-  "partly": 7,
-  "not_supported": 2,
-  "groundedness": 0.7,
-  "hallucination": 0.067
+  "supported": 24,
+  "partly": 6,
+  "not_supported": 0,
+  "groundedness": 0.8,
+  "hallucination": 0.0
  },
  "CP3_single": {
   "n": 30,
-  "supported": 22,
-  "partly": 7,
-  "not_supported": 1,
-  "groundedness": 0.733,
-  "hallucination": 0.033
+  "supported": 20,
+  "partly": 10,
+  "not_supported": 0,
+  "groundedness": 0.667,
+  "hallucination": 0.0
  },
  "CP2_retrieval_adequate": {
   "n": 22,
-  "yes": 13,
+  "yes": 11,
   "partly": 7,
-  "no": 2
+  "no": 4
  },
  "CP1_data_fidelity": {
   "n": 22,
-  "fully_correct": 22,
+  "fully_correct": 19,
   "checked": "excerpt fidelity and cited sections only; outcome label not re-checked"
  },
  "CP4_gating": {
@@ -33,6 +33,18 @@
   "multi_accuracy": 0.773,
   "human_gated_accuracy": 0.818,
   "flagged_cases_system_correct": 5,
-  "flagged_cases_human_correct": 6
+  "flagged_cases_human_correct": 2
+ },
+ "kappa_CP3": {
+  "n": 60,
+  "kappa": 0.353
+ },
+ "kappa_CP2": {
+  "n": 22,
+  "kappa": 0.535
+ },
+ "kappa_CP4": {
+  "n": 8,
+  "kappa": 0.2
  }
 }

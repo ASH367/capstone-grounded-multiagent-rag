@@ -1,0 +1,39 @@
+{
+ "case_id": "baptist_health_care",
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "service_at_issue": "Inpatient hospitalizations for AICD replacement (7 beneficiaries) and other cardiac services (2 beneficiaries), 2003-2006",
+ "facts": [
+  "The appellant specifically claims that it had no notice that the services at issue would not be covered by Medicare. See e.g., Exh. MAC-1 at 3. The appellant cites the Federal Register to support its claim that it had no knowledge that Medicare would not cover the services at issue, and, to the contrary, believed that Medicare could cover inpatient replacement of automatic implantable cardioverter defibrillators (AICDs). See e.g., Id. at 4.",
+  "The appellant also presents the June 1, 2006, statement of the Florida Medical Quality Assurance, Inc., (FMQAI), the CMS contracted Florida QIO. Exh. MAC-1 at 5. FMQAI alerted hospitals within its jurisdiction that [a]s of July 1, 2006, FMQAI will no longer be uniformly allowing these procedures to be billed as inpatient services.... The medical record must contain information that documents the need for an inpatient level of care. Those cases that appear to be routine, expected discharge within 24 hours and which do not substantiate SI & IS criteria will be considered for impatient billing denial.",
+  "In summary, the appellant states that Considering the FMQAI policy at the time of [the services at issue], the guidance from the InterQual Guidelines for Surgery and Procedures in the Inpatient Setting, and the cited guidance of the Federal Register, we assert that the provider had neither actual nor constructive knowledge that the [admissions] would not be considered covered [services]. See e.g., Exh. MAC-1 at 4.",
+  "In its nine separate requests for review, each dated March 17, 2009, the appellant solely contests the ALJ\u2019s findings concerning liability pursuant to Section 1879 of the Social Security Act (Act) and/or Section 1870 of the Act. Exhs. MAC-1 through MAC-9.",
+  "In these cases, the appellant specifically contends that it disagrees with the ALJ\u2019s decisions regarding Section 1870 of the Act, specifically challenging the RAC\u2019s right to reopen the determinations concerning A.J. and J.M. See e.g., Exh. MAC-8 at 1. Specifically, the appellant argues that the RAC is limited in its right to reopen claims after three calendar years after the Medicare contractor\u2019s initial payment, citing the Medicare Financial Management Manual. Id. at 2."
+ ],
+ "reference_outcome": "partial",
+ "outcome_note": "The Council adopted the ALJ's non-coverage findings (appellant contested only liability) but reversed liability and found the provider without fault for five AICD stays before July 1, 2006, while holding the provider liable and not without fault for the two later AICD stays and the two non-AICD cardiac stays.",
+ "cited_sections": [],
+ "other_cites": [
+  "SSA 1879",
+  "SSA 1870",
+  "SSA 1870(b)",
+  "SSA 1862(a)(1)",
+  "SSA 1862(a)(9)",
+  "SSA 1833(t)(9)(A)",
+  "42 CFR 411.400",
+  "42 CFR 411.404",
+  "42 CFR 411.406",
+  "42 CFR 405.926(l)",
+  "42 CFR 405.980(a)(5)",
+  "42 CFR 405.980(b)(2)",
+  "CMS Ruling 95-1",
+  "MCPM (CMS Pub. 100-04) ch.30 sec.40.1, 40.1.2",
+  "MFMM (CMS Pub. 100-06) ch.3 sec.90",
+  "65 Fed. Reg. 18462 (Apr. 17, 2000)",
+  "67 Fed. Reg. 69311 (Nov. 15, 2002)",
+  "70 Fed. Reg. 11419 (Mar. 8, 2005)"
+ ],
+ "scope": "included",
+ "key_quality": "no_mbpm_key",
+ "facts_original_count": 6
+}
