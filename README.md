@@ -24,9 +24,6 @@ Success measures (project specification): groundedness, hallucination rate, deci
 - Negative result: a per-component orchestrator did not help (`results/orchestrator_v2_m2.md`).
 - Not yet done: latency in seconds (live backend run), dense-embedding retrieval, LangGraph wrapper, second human reviewer.
 
-## AI assistance and verification
-Claude (Anthropic) was used to help write code, to play the agent roles in file-based runs (every prompt and response is saved in `results/`), to extract case facts, and to draft analyses. The author verified outputs, performed the human review himself, and reports AI reviewer labels separately as AI. Citation validity is checked mechanically by script.
-
 ## Layout
 `rag/` Milestone 2 pipeline, retrieval, review layer; `data/`; `results/`; `src/`, `scripts/`, `tests/` Milestone 1 early prototype (see below).
 
