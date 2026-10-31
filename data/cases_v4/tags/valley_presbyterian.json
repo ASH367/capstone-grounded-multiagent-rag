@@ -1,0 +1,1077 @@
+{
+"case_id": "valley_presbyterian",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated January 30, 2009, concerning an overpayment assessed against the appellant for inpatient rehabilitation facility (IRF) services provided to the beneficiary from July 17, 2003, through July 24, 2003.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined that the services at issue were not reasonable and necessary under section 1862(a)(1) of the Social Security Act (Act), and therefore the overpayment was valid.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ further concluded that the appellant remained responsible for the non-covered charges.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council (Council) to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council has considered the record before the ALJ, as well as the appellant\u2019s request for review dated March 30, 2009, which is entered into the record as Exhibit (Exh.) MAC-1.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "With the request for review, the appellant submitted additional documentation.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 2,
+"si": 2,
+"section": "INTRO",
+"text": "However, by letter dated April 30, 2009, the appellant informed the Council that \u201cnone of the attachments included with Appellant\u2019s referral to the MAC consisted of new evidence because they were already a part of the beneficiary\u2019s administrative record at the ALJ hearing.\u201d",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 3,
+"section": "INTRO",
+"text": "Thus, the Council excludes the submissions as duplicative of documents already contained in the record before the ALJ.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "INTRO",
+"text": "As set forth below, the Council reverses the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 1,
+"section": "INTRO",
+"text": "Specifically, the Council agrees with the ALJ\u2019s finding that the contractor\u2019s decision to re-open the claim is final and not subject to review.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 2,
+"section": "INTRO",
+"text": "However, the Council reverses the ALJ\u2019s conclusion regarding Medicare coverage and payment for the IRF services at issue.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 3,
+"section": "INTRO",
+"text": "The Council finds that the services were medically reasonable and necessary in accordance with section 1862(a)(1) of the Act and that the overpayment assessed was not valid.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 4,
+"section": "INTRO",
+"text": "The appellant is entitled to payment for the IRF services provided to the beneficiary from July 17, 2003, through July 24, 2003.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant billed Medicare for IRF services furnished to the beneficiary from July 17, 2003, through July 24, 2003. Exh. 3 at 2.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "The Medicare intermediary initially paid the claim, however, on July 28, 2006, the Recovery Audit Contractor (RAC) reopened and reviewed the claim. Exh. 4 at 1.",
+"tag": "PRIOR_DENIAL",
+"reason": "RAC"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "FACTS",
+"text": "On October 3, 2006, the RAC issued a notice stating that the Medicare payment was in error, resulting in an overpayment for the services. Id. at 3.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 5,
+"si": 3,
+"section": "FACTS",
+"text": "The appellant requested a contractor redetermination, who found that Medicare did not cover the services at issue because \u201cit was not necessary to furnish the care on an inpatient hospital basis rather than a less intensive facility\u201d and upheld the overpayment. Exh. 7 at 3.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "After reviewing the record, the Qualified Independent Contractor (QIC) also concluded that Medicare did not cover the services at issue because the beneficiary\u2019s \u201cnursing and rehabilitation needs could have been safely managed in a setting with a lower level of intensity than an IRF.\u201d Exh. 9 at 4.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "The QIC also determined that the appellant\u2019s responsibility for the overpayment could not be waived because it was not \u201cwithout fault.\u201d Id.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "On February 20, 2008, the appellant requested an ALJ hearing. Exh. 10.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "FACTS",
+"text": "On March 4, 2008, the ALJ issued a Notice of Hearing. Exh. 11.",
+"tag": "PROC",
+"reason": "Notice of"
+},
+{
+"pi": 7,
+"si": 2,
+"section": "FACTS",
+"text": "The ALJ subsequently retained an independent medical expert, to review the medical documentation of record and provide expert opinion as answers to interrogatories. Exh. 15.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 3,
+"section": "FACTS",
+"text": "On March 18, 2008, the medical expert answered the interrogatories and included a detailed analysis, opining that the services provided were medically reasonable and necessary. Exh. 16.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "FACTS",
+"text": "On April 10, 2008, the ALJ conducted a telephone hearing in which the appellant\u2019s representative attorneys participated.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "FACTS",
+"text": "ALJ Hearing CD.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "FACTS",
+"text": "The hearing largely focused on the issue of reopening.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 8,
+"si": 3,
+"section": "FACTS",
+"text": "The issue of medical reasonableness and necessity was briefly discussed, where the appellant relied upon the opinion of the ALJ\u2019s medical expert. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 4,
+"section": "FACTS",
+"text": "On January 30, 2009, the ALJ issued an unfavorable determination to the appellant.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 5,
+"section": "FACTS",
+"text": "In that decision, the ALJ found that under \u201c42 C.F.R. \u00a7 405.980, the contractor\u2019s decision on whether or not to re-open is final and not subject to appeal\u201d and therefore is \u201cnot an issue for review by the ALJ.\u201d Dec. at 9.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 8,
+"si": 6,
+"section": "FACTS",
+"text": "Further, the ALJ found that the \u201c[b]eneficiary did not require rehabilitative care in a hospital rather than in a SNF or on an outpatient basis.\u201d Id. at 8.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 7,
+"section": "FACTS",
+"text": "Therefore, the ALJ denied Medicare coverage finding that the services at issue were \u201cnot medically reasonable and necessary,\u201d thereby upholding the overpayment determination. Id. at 8-9.",
+"tag": "COUNCIL",
+"reason": "upholding"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "FACTS",
+"text": "In its request for review, the appellant set forth two main assertions as to why the overpayment should be termed invalid:",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "FACTS",
+"text": "1.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ has jurisdiction to review the RAC\u2019s compliance with timeframe and good cause requirements for reopening and revision of the claims at issue, as set forth in 42 C.F.R. \u00a7\u00a7 405.980, 405.986 and 405.841",
+"tag": "PROC",
+"reason": "jurisdiction"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "FACTS",
+"text": "2.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "FACTS",
+"text": "The record establishes that Beneficiary\u2019s inpatient admission to a rehabilitation hospital was medically reasonable and necessary in accordance with Medicare Benefit Policy Manual (\u201cMBPM\u201d), Internet-Only Manual Publication 100-2, Ch. 1, \u00a7110, et. seq.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "FACTS",
+"text": "Exh. MAC-1 at 3, 5.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "FACTS",
+"text": "As discussed below, the ALJ correctly determined that he was without jurisdiction to review the determination to reopen.",
+"tag": "PROC",
+"reason": "jurisdiction"
+},
+{
+"pi": 13,
+"si": 1,
+"section": "FACTS",
+"text": "However, the Council agrees with the appellant\u2019s contention that the services at issue were medically reasonable and necessary in accordance with Medicare regulations.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 405.980 provides a stratified structure for reopening.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 16,
+"si": 1,
+"section": "LAW",
+"text": "A CMS contractor may reopen an initial determination or redetermination.",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 16,
+"si": 2,
+"section": "LAW",
+"text": "C.F.R. \u00a7 405.980(a)(1)(i).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 16,
+"si": 3,
+"section": "LAW",
+"text": "An ALJ\u2019s or the Council\u2019s authority to reopen is limited, respectively, to a revision of ALJ hearing decisions and hearing and Council decisions (by the Council).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 16,
+"si": 4,
+"section": "LAW",
+"text": "C.F.R. \u00a7\u00a7 405.980(a)(1)(iii) and (iv).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 16,
+"si": 5,
+"section": "LAW",
+"text": "Notably, neither the ALJ, nor the Council, has any authority to reopen or revise an initial determination or redetermination.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 405.926 sets forth actions that are not initial determinations and not appealable.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 17,
+"si": 1,
+"section": "LAW",
+"text": "Included among them is a \u201ccontractor\u2019s . . . decision to reopen or not reopen an initial determination.\u201d 42 C.F.R. \u00a7 405.926(l).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 17,
+"si": 2,
+"section": "LAW",
+"text": "This lack of jurisdiction extends to whether the contractor met good cause standards for reopening in 42 C.F.R. \u00a7 405.980(b)(2).",
+"tag": "PROC",
+"reason": "jurisdiction"
+},
+{
+"pi": 17,
+"si": 3,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 405.980(a)(5) further states that \u201c[t]he contractor\u2019s, QIC\u2019s, ALJ\u2019s, or MAC\u2019s decision on whether to reopen is final and not subject to appeal.\u201d",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 405.980(b) establishes the time frame for reopening initial determinations and redeterminations initiated by a contractor.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 18,
+"si": 1,
+"section": "LAW",
+"text": "Section 405.980 provides, in part:",
+"tag": "LAW",
+"reason": "Section 4"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "LAW",
+"text": "A contractor may reopen and revise its initial determination or redetermination on its own motion -",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "LAW",
+"text": "(1) Within 1 year from the date of the initial determination or redetermination for any reason.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "LAW",
+"text": "(2) Within 4 years from the date of the initial determination or redetermination for good cause as defined in \u00a7 405.986.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "LAW",
+"text": "(3) At any time if there exists reliable evidence as defined in \u00a7 405.902 that the initial determination was procured by fraud or similar fault as defined in \u00a7 405.902.1",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "LAW",
+"text": "The regulation addressing good cause for reopening, 42 C.F.R. \u00a7 405.986, provides, in part:",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "LAW",
+"text": "(a) Good cause may be established when \u2013",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "LAW",
+"text": "(i) Was not available or known at the time of the determination or decision; and",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "LAW",
+"text": "(ii) May result in a different conclusion; or",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "LAW",
+"text": "(2) The evidence that was considered in making the determination or decision clearly shows on its face that an obvious error was made at the time of the determination or decision. . . .",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "LAW",
+"text": "When conducting a post-payment review of claims, contractors must adhere to reopening rules.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 29,
+"si": 1,
+"section": "LAW",
+"text": "CMS Manual System, Medicare Program Integrity (MPIM), CMS Pub. 100-08, Ch. 3, \u00a7 3.6.B. However, neither the ALJ, nor the Council, has jurisdiction to review that aspect of the contractor\u2019s action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 29,
+"si": 2,
+"section": "LAW",
+"text": "A contractor\u2019s decision on whether to reopen is final and not subject to appeal.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 29,
+"si": 3,
+"section": "LAW",
+"text": "C.F.R. \u00a7\u00a7 405.926(l); 405.980(a)(5).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 29,
+"si": 4,
+"section": "LAW",
+"text": "This restriction extends regardless of whether the contractor met the good cause standards for reopening set forth in 42 C.F.R. \u00a7 405.980(b)(2).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 29,
+"si": 5,
+"section": "LAW",
+"text": "CMS has expressly stated that the enforcement mechanism for good cause standards lies within its evaluation and monitoring of contractor performance, not the administrative appeals process.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 29,
+"si": 6,
+"section": "LAW",
+"text": "Interim Final Rule with Comment Period, 70 Fed. Reg. 11,420, 11,453 (Mar. 8, 2005).",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 31,
+"si": 0,
+"section": "LAW",
+"text": "The Centers for Medicare & Medicaid Services (CMS) Ruling 85-2 and the Medicare Benefit Policy Manual (MBPM), (CMS Pub. 100- 02), Chapter 1, section 110, establish two basic requirements for coverage of IRF services:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 32,
+"si": 0,
+"section": "LAW",
+"text": "1.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 32,
+"si": 1,
+"section": "LAW",
+"text": "The services must be reasonable and necessary (in terms of efficacy, duration, frequency, and amount) for the treatment of the patient\u2019s condition; and",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 33,
+"si": 0,
+"section": "LAW",
+"text": "2.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 33,
+"si": 1,
+"section": "LAW",
+"text": "It must be reasonable and necessary to furnish the care on an inpatient hospital basis, rather than in a less intensive facility such as a SNF, or on an outpatient basis.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 34,
+"si": 0,
+"section": "LAW",
+"text": "Medicare recognizes that determinations of whether hospital stays for rehabilitation services are reasonable and necessary must be based upon an assessment of each beneficiary\u2019s individual care needs.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 34,
+"si": 1,
+"section": "LAW",
+"text": "CMS applies eight screening criteria, originally discussed in CMS Ruling 85-2, and incorporated in MBPM, Ch. 1, section 110, as a starting point for determining whether the services provided were reasonable and necessary.",
+"tag": "LAW",
+"reason": "CMS Ruling"
+},
+{
+"pi": 34,
+"si": 2,
+"section": "LAW",
+"text": "Specifically, the eight criteria establish efficacy, duration, frequency and amount.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 34,
+"si": 3,
+"section": "LAW",
+"text": "An analysis of the two \u201cbasic requirements\u201d is not triggered after the beneficiary fails to meet the standards of CMS Ruling 85-2; alternatively, the first of the two \u201cbasic requirements\u201d is met if the beneficiary\u2019s care meets the eight criteria.",
+"tag": "LAW",
+"reason": "CMS Ruling"
+},
+{
+"pi": 35,
+"si": 0,
+"section": "LAW",
+"text": "Inpatient rehabilitation services are reasonable and necessary when an individual\u2019s physical condition requires at least all of the following: (1) the 24-hour availability of a physician with special training or experience in the field of rehabilitation; (2) the 24-hour availability of a registered nurse with special training or experience in rehabilitation; (3) relatively intense level of rehabilitation services, which, in general, means at least 3 hours a day of physical and/or occupational therapy; and (4) a multidisciplinary team approach for rehabilitation services including involvement of at least a physician, rehabilitation nurse, and a therapist. See CMS Ruling 85-2.",
+"tag": "LAW",
+"reason": "CMS Ruling"
+},
+{
+"pi": 37,
+"si": 0,
+"section": "MIXED",
+"text": "As set forth below, the Council affirms the ALJ\u2019s conclusion that he did not have authority to review the contractor\u2019s decision to reopen the claims at issue in accordance with 42 C.F.R. \u00a7 405.980(a)(5).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 37,
+"si": 1,
+"section": "MIXED",
+"text": "However, the Council reverses the ALJ\u2019s determination of non-coverage.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 37,
+"si": 2,
+"section": "MIXED",
+"text": "The Council finds that the services at issue were medically reasonable and necessary pursuant to section 1862(a)(1) of the Act, and are covered by Medicare; thereby finding the overpayment assessed invalid.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 39,
+"si": 0,
+"section": "MIXED",
+"text": "Before the Council, the appellant asserts that pursuant to Chapter 34, Section 10 of the MCPM, \u201cnew appeal rights attached to the revised adverse determination, including the right to determine whether or not RAC met the statutory requirements of good cause for reopening the claim.\u201d Exh. MAC-1 at 6.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 39,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant maintains that as a result, \u201cthe ALJ should have examined whether RAC\u2019s reopening was proper in light of the regulations and Appellant\u2019s due process rights.\u201d Id.",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 39,
+"si": 2,
+"section": "MIXED",
+"text": "However, the Council finds this contention to be without merit.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 40,
+"si": 0,
+"section": "MIXED",
+"text": "A contractor\u2019s decision on whether to reopen is final and not subject to review.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 40,
+"si": 1,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.980(a)(5).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 40,
+"si": 2,
+"section": "MIXED",
+"text": "Moreover, the parallel regulation at 42 C.F.R. \u00a7 405.926(l) states that a contractor\u2019s determination to reopen or not to reopen is not an initial determination, and is, therefore, not appealable.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 40,
+"si": 3,
+"section": "MIXED",
+"text": "Therefore, neither the ALJ, nor the Council, has the authority to review the RAC\u2019s decision to reopen the claim.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 40,
+"si": 4,
+"section": "MIXED",
+"text": "The restriction against reviewing the contractor\u2019s decision whether to reopen an initial determination extends to whether or not the contractor met the good cause standards for reopening set forth in 42 C.F.R. \u00a7 405.980(b)(2).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 40,
+"si": 5,
+"section": "MIXED",
+"text": "CMS has expressly stated that the enforcement mechanism for good cause standards lies within CMS\u2019s evaluation and monitoring of contractor performance, not the administrative appeals process.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 40,
+"si": 6,
+"section": "MIXED",
+"text": "Interim Final Rule with Comment Period, 70 Fed. Reg. 11,420, 11,453 (Mar. 8, 2005).",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 40,
+"si": 7,
+"section": "MIXED",
+"text": "Thus, the Council finds that the ALJ did not err in concluding that he did not have the authority to examine whether there was good cause for reopening the claim after one year from the date of the initial determination. Dec. at 9.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 42,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant contends that the ALJ erred in finding that the IRF services at issue were not medically reasonable and necessary in accordance with section 1862(a)(1) of the Act. Exh. MAC-1 at 3-5.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 42,
+"si": 1,
+"section": "MIXED",
+"text": "At the ALJ hearing, in its April 7, 2008, pre-hearing brief, and in its April 28, 2008, supplemental post- hearing brief, the appellant based its arguments for coverage largely upon the findings and conclusions of the ALJ-retained medical expert.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 42,
+"si": 2,
+"section": "MIXED",
+"text": "The appellant asserts that the ALJ\u2019s decision \u201cmade no mention of the independent medical expert\u2019s opinion that the \u2018services rendered to [the] Beneficiary were in accordance with Medicare standards for \u201cInpatient Hospital Level of Rehabilitation Care.\u201d\u2019\u201d Exh. MAC-1 at 3 (emphasis deleted), citing Medical Expert Interrogatories, Exh. 16.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 42,
+"si": 3,
+"section": "MIXED",
+"text": "The appellant maintains that the medical expert retained by the ALJ was correct in finding that the beneficiary\u2019s condition was such that she required the greater intensity provided in the inpatient setting of rehabilitative care. Id. at 4.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 42,
+"si": 4,
+"section": "MIXED",
+"text": "The Council agrees.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 44,
+"si": 0,
+"section": "MIXED",
+"text": "On July 15, 2003, the 71 year old beneficiary was admitted to the acute hospital where she underwent a right total knee replacement secondary to degenerative joint disease. Exh. 3 at 17-19.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 44,
+"si": 1,
+"section": "MIXED",
+"text": "Two days later, on July 17, 2003, the beneficiary was transferred and admitted to the appellant\u2019s IRF where she received treatment and rehabilitation services until her discharge one week later on July 24, 2003. Exh. 3 at 19.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 45,
+"si": 0,
+"section": "MIXED",
+"text": "The record shows that the previous year the beneficiary had both right and left total hip replacements also secondary to degenerative joint disease. Exh. 3 at 17-23.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 45,
+"si": 1,
+"section": "MIXED",
+"text": "An MRI previously conducted also indicated multilevel lumbar degenerative disc disease. Id. at 21.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 45,
+"si": 2,
+"section": "MIXED",
+"text": "The medical record indicates that the beneficiary\u2019s medical history is significant for: polyarthritis secondary to degenerative joint disease of the right knee, bilateral hips, and lumbosacral spine; epidural injections for root compression; left rotator cuff tendonitis; osteopenia; deep vein thrombosis; obesity; neuralgia of the chest wall; anxiety disorder with panic attacks; depression; insomnia with tension headaches; cystopexy; prior treatment of lymphoma; dehydration; dyslipidemia; hysterectomy; wrist fracture two years prior; vaginal prolapse; appendectomy; and history of herpes zoster. Id. at 21-22, 59-62.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 46,
+"si": 0,
+"section": "MIXED",
+"text": "During the period at issue, the beneficiary received intravenous (IV) or intramuscular (IM) medications (e.g., trimethobenzamide for nausea, dextrose with Lactated Ringers solution and Toradol for specialty fluid replacement and pain management, and diphenhydramine for itching or rash) and experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid. Exh. 3 at 59-67, 68-92, 133.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 46,
+"si": 1,
+"section": "MIXED",
+"text": "Also during the period, daily labs were conducted due to the beneficiary\u2019s fluctuating values. 38-40.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 46,
+"si": 2,
+"section": "MIXED",
+"text": "Based on these results, the beneficiary\u2019s Coumadin dosage was altered six out of the seven days of admission, and her rehabilitation program was altered accordingly. Id. at 27-37, 59-67, 118-133.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 46,
+"si": 3,
+"section": "MIXED",
+"text": "The record also indicates that the beneficiary\u2019s physician was monitoring and treating her for possible effusion.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 46,
+"si": 4,
+"section": "MIXED",
+"text": "The beneficiary was seen at the IRF by at least three physicians and was monitored daily by the nursing staff. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 47,
+"si": 0,
+"section": "MIXED",
+"text": "Prior to the total knee replacement surgery, the beneficiary was independent with all of her activities of daily living (ADL\u2019s) and lived alone with her husband.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 47,
+"si": 1,
+"section": "MIXED",
+"text": "Upon admission, the beneficiary\u2019s functional status was as follows: moderate assistance supine to sit, sit to stand, sit to supine, bed to chair, chair to bed, commode transfers, and tub/shower transfers, maximum assistance with lower extremity dressing, minimal assistance with lower extremity bathing, and ambulate 15 feet with front wheeled walker. Exh. 3 at 21-24, 41, 48.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 47,
+"si": 2,
+"section": "MIXED",
+"text": "The beneficiary received intensive physical and occupational therapy each day after admission until discharge. Id. at 41-58, 143- 144.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 47,
+"si": 3,
+"section": "MIXED",
+"text": "Upon discharge, the beneficiary\u2019s functional status improved to the following: independent with supine to sit, modified independent sit to stand , modified independent transfers, minimal assistance with lower extremity dressing with adaptive equipment, independent with upper extremity dressing, and upper extremity bathing, supervision with ascend/descend steps with side rails, and ambulate 250 feet modified independent with front wheeled walker. Id. at 19-20, 143.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 49,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ concluded that the \u201cdocumentation substantiates that the Beneficiary did not require the 24-hour availability of a [physical medicine and rehabilitation] physician in order to evaluate the Beneficiary\u2019s condition\u201d and that the care could have been provided in a less intensive setting. Dec. at 8.",
+"tag": "LAW",
+"reason": "law statement: in order to"
+},
+{
+"pi": 49,
+"si": 1,
+"section": "MIXED",
+"text": "In his decision, the ALJ did not cite to the independent medical expert that he obtained which was the only medical professional that provided opinion for ALJ review. See, Dec. 1-8, Hearing CD.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 49,
+"si": 2,
+"section": "MIXED",
+"text": "Nor did the ALJ explain why he came to a different conclusion than the independent medical expert.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 50,
+"si": 0,
+"section": "MIXED",
+"text": "The independent medical expert is board certified by the American Board of Physical Medicine and Rehabilitation, and attested that the ALJ provided sufficient medical evidence to form an opinion of the beneficiary\u2019s medical status. Exh. 16 at 1, 5.",
+"tag": "COUNCIL",
+"reason": "board"
+},
+{
+"pi": 50,
+"si": 1,
+"section": "MIXED",
+"text": "Specifically, the expert found that \u201cbased on the literature, medical record on file, applicable regulations, and beneficiary\u2019s condition on July 17, 2003,\u201d the beneficiary\u2019s admission to the IRF level of care was justified.",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 50,
+"si": 2,
+"section": "MIXED",
+"text": "Further, the expert concluded that the services rendered by the IRF thereafter were in accordance with Medicare standards for inpatient hospital level of rehabilitation care. Id. at 2.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 51,
+"si": 0,
+"section": "MIXED",
+"text": "The independent medical expert concluded that upon admission, the beneficiary required close medical supervision by a physician with specialized training or experience in rehabilitation, 24 hour rehabilitation nursing, a relatively intense level of rehabilitation services, a multidisciplinary team approach, a coordinated program of care, that significant practical improvement was expected, that realistic goals were set and met, and that these needs could not have been accomplished in a less intensive setting such as a SNF. Id. at 3-4.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 52,
+"si": 0,
+"section": "MIXED",
+"text": "Specifically, the medical expert attested that:",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 53,
+"si": 0,
+"section": "MIXED",
+"text": "[c]lose medical supervision by a physician with specialized training or experience in rehabilitation was required primarily because she was transferred rapidly (post-operative day number 2) from the acute setting and due to her medical comorbidities (specifically, osteopenia, anxiety, and obesity) in concert with her history of multiple joint replacements, which provide added safety concerns.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 53,
+"si": 1,
+"section": "MIXED",
+"text": "Specifically, at the time of transfer from the acute medical setting to acute inpatient rehabilitation, she was still requiring intravenous medications and fluids, coumadin dosage was being determined for deep venous thrombosis prophylaxis, and anemia and hypokalemia required frequent monitoring.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 53,
+"si": 2,
+"section": "MIXED",
+"text": "This is greater intensity of medical rehabilitation services than provided in a SNF or outpatient setting.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 54,
+"si": 0,
+"section": "MIXED",
+"text": "Id. at 4.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 54,
+"si": 1,
+"section": "MIXED",
+"text": "The medical expert addressed each element required for Medicare coverage as outlined in the CMS Ruling 85-2 and in the MBPM, finding that the beneficiary\u2019s stay at the IRF was medically reasonable and necessary and appropriate. Id. at 3-4.",
+"tag": "LAW",
+"reason": "CMS Ruling"
+},
+{
+"pi": 55,
+"si": 0,
+"section": "MIXED",
+"text": "The record supports the conclusions of the medical expert.",
+"tag": "EVAL",
+"reason": "supports the"
+},
+{
+"pi": 55,
+"si": 1,
+"section": "MIXED",
+"text": "The record indicates that upon admission and during the period at issue the beneficiary required multiple IV and oral medications for severe pain, that the physician changed the dose or held the Coumadin six out of the seven days at issue, that the beneficiary had possible effusion, osteopenia, obesity, total hip replacement of both hips the previous year, and IRF admission only two days after total knee replacement surgery.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 55,
+"si": 2,
+"section": "MIXED",
+"text": "Appropriately managing the beneficiary\u2019s pain, comorbidities, and medications while providing intensive rehabilitative therapy in which the beneficiary makes significant practical improvement often may require inpatient rehabilitation.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 55,
+"si": 3,
+"section": "MIXED",
+"text": "These issues combined with the conclusions of the independent medical expert, and nothing in the record to contradict the expert\u2019s clinical findings, lead the Council to conclude that the ALJ erred in determining that the IRF services were not medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 56,
+"si": 0,
+"section": "MIXED",
+"text": "Therefore, the Council hereby reverses the ALJ decision and finds the services covered by Medicare in accordance with section 1862(a)(1) of the Act and the overpayment assessed for such services invalid.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 58,
+"si": 0,
+"section": "TERMINAL",
+"text": "It is the decision of the Medicare Appeals Council that the IRF services provided by the appellant to the beneficiary from July 17, 2003, through July 24, 2003, were medically reasonable and necessary, and covered by Medicare in accordance with section 1862(a)(1) of the Act.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 58,
+"si": 1,
+"section": "TERMINAL",
+"text": "The overpayment assessed is invalid; the appellant is entitled to payment for the services.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

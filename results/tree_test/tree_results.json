@@ -1,0 +1,337 @@
+{
+ "backend": "openai-compat:anthropic/claude-haiku-5.5",
+ "results": [
+  {
+   "case_id": "11-1343",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 5.257152291946113,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe skilled PT, OT, ST, and nursing services but never state how many days per week they were actually furnished, so the daily-basis requirement cannot be confirmed or refuted.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.daily",
+     "seconds": 2.8611150411888957,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe documented functional decline, referrals, and goals for each beneficiary, which fit the treatment needs. However, they do not address whether the services were reasonable in duration and quantity or whether they achieved the documented goals.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 4.139506583102047,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      619
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe functional decline and skilled therapy referrals but say nothing about whether outpatient or home alternatives were available, feasible, or less economical, so the practical-matter criterion is not settled.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.practical",
+     "seconds": 2.3366989591158926,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      659
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "After J.M.'s fall with a head strike, nurses placed her on a neurological watch and monitored pupil size, alertness, and pain, which shows skilled nursing oversight of her total care for a likely change in condition.",
+     "passage_id": 623,
+     "quote": "the total care, skilled or not, is planned and managed by skilled nursing personnel",
+     "case_fact": "Upon return to the SNF, she was placed on a neurological watch and fall precautions.",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 5.000472417101264,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe mainly therapy services (PT, OT, ST) and one nursing neuro-watch for J.M., but do not state that this monitoring required RN-level skill or that direct skilled nursing was needed for any patient.",
+     "passage_id": null,
+     "quote": null,
+     "case_fact": null,
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 4.662159624975175,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      615
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "After J.M.'s head strike, nurses placed her on a neurological watch and monitored pupil size, alertness, and ability to follow commands, which fits observation for a possible change in condition.",
+     "passage_id": 626,
+     "quote": "the likelihood of change in a patient's condition requires skilled nursing or skilled rehabilitation personnel to identify and evaluate",
+     "case_fact": "Upon return to the SNF, she was placed on a neurological watch and fall precautions.",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 4.95153637509793,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe therapy evaluations, functional decline, and goals, but never state that skilled personnel were teaching any patient to manage a treatment regimen, so the criterion is neither shown as met nor as not met.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 2.1476814169436693,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "D.E. was referred to speech-language therapy to evaluate significant cognitive and communication deficits, with skilled goals set, which supports a need for a therapist's skills.",
+     "passage_id": 636,
+     "quote": "the specialized judgment, knowledge, and skills of a qualified therapist are necessary for the performance of the rehabilitation services",
+     "case_fact": "D.E. was referred to ST to evaluate for speech/language cognitive deficits affecting her communication and safety.",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 5.248173957690597,
+     "offered_passage_ids": [
+      638,
+      640,
+      636,
+      641
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "D.E.'s hospital stay ended August 26, 2009, and SNF services were initiated August 27-28, 2009, within 30 days after discharge.",
+     "passage_id": 579,
+     "quote": "Extended care services are post-hospital if initiated within 30 days after discharge from a hospital stay",
+     "case_fact": "the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination",
+     "case_id": "11-1343",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 4.833159459289163,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      557
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case reports a prior hospital stay from August 23 to August 26, 2009, which spans three calendar days counting admission day and not discharge day, and medical necessity is presumed under the cited policy.",
+     "passage_id": 571,
+     "quote": "must have been an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days",
+     "case_fact": "D.E. had a prior hospital stay for a diagnosis of congestive heart failure from August 23, 2009, to August 26, 2009.",
+     "case_id": "11-1343",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 4.284761457704008,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "11-1546",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 6.578572541940957,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe fluctuating blood pressure, medication adjustments on at least thirteen occasions, and nursing instructions, but do not state that skilled nursing or rehabilitation was needed and provided on each day, seven days a week.",
+     "passage_id": null,
+     "quote": null,
+     "case_fact": null,
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.daily",
+     "seconds": 1.9496838748455048,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "Medications were repeatedly adjusted for his fluctuating blood pressure and heart rate, and the nursing protocol tracked those readings, which fits his cardiac and renal diagnoses and his particular needs.",
+     "passage_id": 602,
+     "quote": "The services delivered are reasonable and necessary for the treatment of a patient\u2019s illness or injury",
+     "case_fact": "On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate.",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 3.364591166842729,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      603
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's conditions and medication adjustments but say nothing about whether the skilled services could be provided on an outpatient or home basis, family assistance, or transportation.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.practical",
+     "seconds": 2.1279202080331743,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      603
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "Nursing staff were instructed to give medications based on fluctuating blood pressure and to notify the doctor after refused doses, and medications were adjusted at least thirteen times, which supports skilled management of the care plan.",
+     "passage_id": 623,
+     "quote": "the total care, skilled or not, is planned and managed by skilled nursing personnel",
+     "case_fact": "On at least thirteen occasions the beneficiary's medications had to be adjusted due to fluctuations in his blood pressure and heart rate.",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 4.12384729180485,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "Staff administering medications based on fluctuating blood pressure, with medications adjusted at least thirteen times for BP and heart rate changes, indicates judgment-dependent care that fits the passage's skilled-nursing standard.",
+     "passage_id": 633,
+     "quote": "an individualized assessment of the patient's clinical condition demonstrates that the specialized judgment, knowledge, and skills of a registered nurse",
+     "case_fact": "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 3.769873334094882,
+     "offered_passage_ids": [
+      633,
+      634,
+      614,
+      635
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "Fluctuating blood pressure and heart rate required repeated medication adjustments (at least thirteen times), showing a likelihood of change needing skilled nursing evaluation of treatment modification.",
+     "passage_id": 628,
+     "quote": "Such signs and symptoms as abnormal/fluctuating vital signs, weight changes, edema",
+     "case_fact": "On at least thirteen occasions the beneficiary's medications had to be adjusted due to fluctuations in his blood pressure and heart rate.",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 2.908882916904986,
+     "offered_passage_ids": [
+      626,
+      627,
+      628,
+      629
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe nursing staff administering medications and adjusting treatment, but say nothing about any teaching or training of the patient to manage his own regimen.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.6681775003671646,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's communication difficulty, diagnoses, and medication management but never state whether he needed or received physical, occupational, or speech-language therapy, so the criterion cannot be settled.",
+     "passage_id": null,
+     "quote": null,
+     "case_fact": null,
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 1.7383353342302144,
+     "offered_passage_ids": [
+      636,
+      646,
+      637,
+      643
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts give the hospital stay dates (December 15-27, 2009) but do not state when the beneficiary was admitted to a participating SNF, so the 30-day transfer requirement cannot be assessed.",
+     "passage_id": null,
+     "quote": null,
+     "case_fact": null,
+     "case_id": "11-1546",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 1.5547121251001954,
+     "offered_passage_ids": [
+      571,
+      580,
+      579,
+      581
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case describes a hospital stay from December 15 to December 27, 2009, which far exceeds three consecutive days, and the provider contends it is the qualifying stay, though the facts do not expressly state inpatient status.",
+     "passage_id": 571,
+     "quote": "the individual must have been an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days",
+     "case_fact": "the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay at",
+     "case_id": "11-1546",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 6.568887042347342,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  }
+ ]
+}

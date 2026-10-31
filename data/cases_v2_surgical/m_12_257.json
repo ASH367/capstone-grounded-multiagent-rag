@@ -1,0 +1,42 @@
+{
+ "case_id": "m_12_257",
+ "domain": "home_health",
+ "docket": "M-12-257",
+ "service_at_issue": "home health services, recertification period May 20, 2010 through July 18, 2010",
+ "facts": [
+  "The beneficiary began receiving home health services on September 22, 2009. Exh. 2 at 6. The dates of service at issue are for the re-certification period of May 20, 2010, through July 18, 2010. Id. The beneficiary had a primary diagnosis of diabetes mellitus. Id. Secondary diagnoses included history of stroke, high blood cholesterol and hypertension.",
+  "The re-certification further noted that the beneficiary was unable to leave the home without taxing efforts. Id. Additionally, the re-certification documented the beneficiary had functional limitations which included poor vision, poor manual dexterity, unstable and weak gait, poor hearing, impaired tactile sensation, dyspnea with moderate exertion, left side paralysis and limited range of motion, and incontinence. Id. The re-certification also noted the beneficiary received assistance daily from an attendant.",
+  "In the case at hand, absences from the home, though infrequent, included adult day care and doctor visits. Id. at 7.",
+  "On the assessments, the nurse indicated the beneficiary experienced moderate shortness of breath on exertion, had poor manual dexterity, and was ambulatory only with assistive devices.",
+  "The record indicates that nine visits were conducted over the dates of service at issue."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council found the record showed the beneficiary was homebound and that the nursing observation, assessment and teaching were skilled and reasonable and necessary.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30.1.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.3"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 409.42(a)",
+  "42 CFR 409.42(c)",
+  "42 CFR 409.32",
+  "42 CFR 409.33(a)(2)",
+  "42 CFR 409.33(a)(3)",
+  "42 CFR 409.44(b)(3)",
+  "SSA 1814(a)",
+  "SSA 1835(a)"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

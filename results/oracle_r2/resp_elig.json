@@ -1,0 +1,170 @@
+[
+ {
+  "case_id": "11-1343",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "SNF care is covered when skilled services are needed for a condition treated in a hospital; the case shows a prior CHF hospital stay.",
+    "passage_id": 602,
+    "quote": "Care in a SNF is covered if all of the following four factors are met",
+    "case_fact": "D.E. had a prior hospital stay for a diagnosis of congestive heart failure from August 23, 2009, to August 26, 2009."
+   },
+   {
+    "claim": "Skilled rehabilitation (PT) was provided for decreased strength and ADLs, matching the skilled-service requirement.",
+    "passage_id": 602,
+    "quote": "The patient requires skilled nursing services or skilled rehabilitation services",
+    "case_fact": "D.E. was referred to PT due to decreased strength and decreased ADLs due to illness."
+   }
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Fluctuating vital signs with repeated medication adjustment may justify skilled observation, but the passages do not address the qualifying three-day hospital stay or other eligibility conditions, so eligibility is not settled.",
+    "passage_id": 626,
+    "quote": "Observation and assessment are skilled services when the likelihood of change in a patient’s condition requires skilled nursing",
+    "case_fact": "On at least thirteen occasions the beneficiary’s medications had to be adjusted due to fluctuations in his blood pressure and heart rate."
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Nurse observation and assessment is a covered skilled home health service; nurses prompted insulin dose changes.",
+    "passage_id": 236,
+    "quote": "Observation and assessment of the patient's condition by a nurse are reasonable and necessary skilled services",
+    "case_fact": "the beneficiary’s insulin dosage was adjusted numerous times during this period."
+   },
+   {
+    "claim": "Fluctuating lab values such as blood sugar may justify skilled observation.",
+    "passage_id": 236,
+    "quote": "abnormal/fluctuating lab values",
+    "case_fact": "sent logs evidencing fluctuating blood sugar levels to the beneficiary’s endocrinologist."
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled observation after hospitalization with abnormal findings is a covered skilled nursing service.",
+    "passage_id": 626,
+    "quote": "Observation and assessment are skilled services when the likelihood of change in a patient’s condition requires skilled nursing",
+    "case_fact": "a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void"
+   },
+   {
+    "claim": "Abnormal lab values may justify skilled observation.",
+    "passage_id": 628,
+    "quote": "abnormal/fluctuating lab values",
+    "case_fact": "Laboratory results were abnormal."
+   }
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Skilled PT after knee replacement is a covered type of care, but the passages require an initial PT evaluation, active written plan and physician approval, which the case facts do not show.",
+    "passage_id": 637,
+    "quote": "Skilled physical therapy services must meet all of the following conditions",
+    "case_fact": "The beneficiary’s medical history was significant for a total right knee replacement (November 3, 2008)"
+   },
+   {
+    "claim": "Coverage depends on skilled need and the services being provided for a condition treated in inpatient hospital; the stay was in an IRF and the record does not settle the hospital-stay link or daily skilled need.",
+    "passage_id": 602,
+    "quote": "The patient requires skilled nursing services or skilled rehabilitation services",
+    "case_fact": "she was admitted to an inpatient rehabilitation facility (IRF) from November 6-21, 2008."
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Home health PT is a covered type of care, but the benefit requires confinement to the home, which the case facts do not establish.",
+    "passage_id": 177,
+    "quote": "Be confined to the home;",
+    "case_fact": "to assist the beneficiary with difficulty navigating stairs in his home due to fatigue, pain and abnormality of gait"
+   },
+   {
+    "claim": "Teaching safe transfers and designing an exercise program are skilled therapy, but a physician plan of care is also required and only a physician certification is mentioned for D.W.",
+    "passage_id": 286,
+    "quote": "skilled therapy services are covered when an individualized assessment of the patient’s clinical condition demonstrates",
+    "case_fact": "the therapist was “in the process of designing an appropriate home exercise program” for the beneficiary"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Wound care including fistulas is a skilled nursing service; the beneficiary developed a fistula.",
+    "passage_id": 258,
+    "quote": "Care of wounds, (including, but not limited to, ulcers, burns, pressure sores, open surgical sites, fistulas",
+    "case_fact": "The beneficiary developed a fistula near the colostomy site."
+   },
+   {
+    "claim": "Teaching and reinforcement of ostomy care is a skilled nursing activity; the patient has colostomy and urostomy.",
+    "passage_id": 247,
+    "quote": "Teaching care for a recent ostomy or where reinforcement of ostomy care is needed",
+    "case_fact": "His bowel and bladder functions are maintained by colostomy and urostomy."
+   }
+  ]
+ },
+ {
+  "case_id": "ny",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Home health aide and skilled nursing services are a covered type of care for eligible patients, but eligibility itself is not shown.",
+    "passage_id": 341,
+    "quote": "Where a patient is eligible for coverage of home health services, Medicare covers either part-time or intermittent home health aide services or skilled nursing services",
+    "case_fact": "coverage is available for home health aide or skilled nursing services on a part-time basis"
+   },
+   {
+    "claim": "Qualifying criteria (home confinement, physician care, plan of care, skilled need) are not addressed by the case facts.",
+    "passage_id": 177,
+    "quote": "A patient must meet each of the criteria specified in this section.",
+    "case_fact": "whether Medicare covered at least 28 hours and up to 35 hours of the home health services furnished to the beneficiary"
+   }
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "IRF services are a covered type of care only if individual requirements are met; the case facts give no patient-level information to assess them.",
+    "passage_id": 72,
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act if the patient meets all of the requirements",
+    "case_fact": "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004."
+   }
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "IRF care after acute hospital knee replacement is the covered type of care, but the passages require the patient be able to participate in intensive therapy and to have completed the hospital course; the IV/IM medications and severe pain leave this unsettled.",
+    "passage_id": 71,
+    "quote": "patients must be able to actively participate in and benefit from the intensive rehabilitation therapy program provided in IRFs",
+    "case_fact": "experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid."
+   },
+   {
+    "claim": "The beneficiary was transferred from an acute hospital to the IRF, consistent with the referral-from-hospital premise of the benefit.",
+    "passage_id": 71,
+    "quote": "The IRF benefit is not to be used as an alternative to completion of the full course of treatment in the referring hospital.",
+    "case_fact": "Two days later, on July 17, 2003, the beneficiary was transferred and admitted to the appellant’s IRF"
+   }
+  ]
+ }
+]

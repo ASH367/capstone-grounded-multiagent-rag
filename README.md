@@ -20,7 +20,7 @@ Success measures (project specification): groundedness, hallucination rate, deci
 - Held-out (18 cases, 3 runs): single-agent 11.0/18 (61%), multi-agent 9.7/18 (54%), majority baseline 39% (`results/heldout_m2.md`).
 - Original 22 cases, cleaned, 3 runs: multi 16.7 +/- 1.5, single 18.7 +/- 1.5 (`results/repeat_runs_m2.md`).
 - Leak audit: removing facts that reveal the outcome did not inflate results (`results/leak_ablation_m2.md`).
-- Human review by the author (112 items, `results/review/human_labels.json`): finding support 80% multi-agent vs 67% single-agent, 0% unsupported in either (30 findings each); Cohen's kappa vs AI reviewers 0.35 (finding support), 0.54 (retrieval).
+- Human review by the author (112 items, `results/review/human_labels.json`): finding support 80% multi-agent vs 67% single-agent on 30 findings each, but a stricter AI verifier finds no difference (53% vs 57% on the same findings; 56% vs 57% on 375 held-out findings), so a groundedness advantage is not confirmed (`results/verifier_m2.md`); unsupported claims are rare in both; Cohen's kappa vs AI reviewers 0.35 (finding support), 0.54 (retrieval).
 - Negative result: a per-component orchestrator did not help (`results/orchestrator_v2_m2.md`).
 - Not yet done: latency in seconds (live backend run), dense-embedding retrieval, LangGraph wrapper, second human reviewer.
 
@@ -45,3 +45,6 @@ Success measures (project specification): groundedness, hallucination rate, deci
 - `rag/langgraph_app.py`: LangGraph version of the multi-agent graph (three specialists in parallel, then the orchestrator) with a pluggable backend and per-call timing. Tested with a mock backend only (`results/_mock_harness_test_NOT_RESULTS`, not a result).
 - `rag/eval_dense_heldout.py`: TF-IDF vs dense retrieval on the held-out cases (TF-IDF result in `results/retrieval_heldout_m2.txt`; dense needs a local embedding model).
 - `results/sensitivity_m2.md`, `results/fault_injection_m2.md`: sensitivity analysis and error-propagation test.
+- `results/oracle_retrieval_m2.md` (perfect retrieval did not raise accuracy), `results/abstention_m2.md` (run agreement as a weak abstention signal), `results/verifier_m2.md` (verifier agent, kappa 0.45 vs my labels).
+
+- Alternative designs (planner+components, advocate/skeptic+judge, generate-verify-revise, majority vote) compared on held-out: none beat single-agent (61%). See results/designs_m2.md.

@@ -1,0 +1,11 @@
+==== results/fair/A_strict_final_dev/run1   MAIN n=23 from 19 decisions   labels {'COVERED': 13, 'NOT_COVERED': 10}   majority baseline 57%
+  MULTI  forced answer: 21/23 = 91%  (95% cluster CI 78%-100%); predicted PARTLY on 0 single-label units
+     primary rule       coverage 10/23 = 43% | accuracy when committing 10/10 = 100% | sent to human 13 (forced answer wrong on 2 = review precision 15%) | forced errors captured 2/2 | confident-wrong 0
+     self-flag variant  coverage 8/23 = 35% | accuracy when committing 8/8 = 100% | sent to human 15 (forced answer wrong on 2 = review precision 13%) | forced errors captured 2/2 | confident-wrong 0
+  SINGLE forced answer: 18/23 = 78%  (95% cluster CI 60%-96%); predicted PARTLY on 0 single-label units
+     primary rule       coverage 19/23 = 83% | accuracy when committing 16/19 = 84% | sent to human 4 (forced answer wrong on 2 = review precision 50%) | forced errors captured 2/5 | confident-wrong 3
+     self-flag variant  coverage 4/23 = 17% | accuracy when committing 4/4 = 100% | sent to human 19 (forced answer wrong on 5 = review precision 26%) | forced errors captured 5/5 | confident-wrong 0
+  BLIND PROBE (facts only, no policy): 21/23 = 91%
+  multi - single forced accuracy gap: +13 pts (95% cluster CI +0 to +30)
+  by label: {'COVERED': {'multi': '12/13', 'single': '11/13'}, 'NOT_COVERED': {'multi': '9/10', 'single': '7/10'}}
+  SEPARATE list (unsplit PARTLY, not in main score): [('eagle_air_med', 'PARTLY_COVERED', 'multi=NOT_COVERED', 'single=NOT_COVERED'), ('midwest_lifeteam', 'PARTLY_COVERED', 'multi=NOT_COVERED', 'single=NOT_COVERED'), ('state_of_vt', 'PARTLY_COVERED', 'multi=PARTLY_COVERED', 'single=COVERED')]

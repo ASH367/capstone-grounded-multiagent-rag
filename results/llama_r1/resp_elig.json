@@ -1,0 +1,566 @@
+[
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination.",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "[3] the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "At the beginning of PT, D.E. required moderate assistance for all functional transfers.",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "[3] the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "The services must be considered under accepted standards of medical practice to be specific and effective treatment for the patient\u2019s condition;",
+    "passage_id": 638,
+    "quote": "The services must be considered under accepted standards of medical practice to be specific and effective treatment for the patient\u2019s condition; and,",
+    "case_fact": "[3] the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "The services must be reasonable and necessary for the treatment of the patient\u2019s condition;",
+    "passage_id": 638,
+    "quote": "The services must be considered under accepted standards of medical practice to be specific and effective treatment for the patient\u2019s condition; and, \u2022 The services must be reasonable and necessary for the treatment of the patient\u2019s condition;",
+    "case_fact": "[3] the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "The amount, frequency, and duration of the services must be reasonable.",
+    "passage_id": 638,
+    "quote": "The services must be considered under accepted standards of medical practice to be specific and effective treatment for the patient\u2019s condition; and, \u2022 The services must be reasonable and necessary for the treatment of the patient\u2019s condition; this includes the requirement that the amount, frequency, and duration of the services must be reasonable.",
+    "case_fact": "[3] the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   }
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary had a qualifying three-day stay in the hospital.",
+    "passage_id": 574,
+    "quote": "some portion of the stay included at least 3 consecutive days of medically necessary inpatient hospital services.",
+    "case_fact": "hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay at *** *** Hospital."
+   },
+   {
+    "claim": "The beneficiary was readmitted to the SNF within 30 days after discharge from the initial SNF stay.",
+    "passage_id": 609,
+    "quote": "if a beneficiary goes directly from a qualifying hospital stay to the SNF...",
+    "case_fact": "the provider submits, as evidence of the three-day stay, hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay at *** *** Hospital."
+   },
+   {
+    "claim": "The beneficiary meets the level of care criteria for Medicare coverage during the first 8 days of the SNF stay.",
+    "passage_id": 610,
+    "quote": "If a beneficiary met the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay...",
+    "case_fact": "the record indicates that he had diagnoses of pneumonia, shortness of breath, acute myocardial infarction, atrial flutter, and renal insufficiency."
+   }
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The services at issue are inpatient replacement of automatic implantable cardioverter defibrillators (AICDs)",
+    "passage_id": 29,
+    "quote": "the order to admit as an inpatient (\u201cpractitioner order\u201d) is a critical element...",
+    "case_fact": "The appellant specifically claims that it had no notice that the services at issue would not be covered by Medicare."
+   },
+   {
+    "claim": "Physician certification of inpatient services is required for cases that are 20 inpatient days or more",
+    "passage_id": 29,
+    "quote": "A. Physician Certification. Physician certification of inpatient services is required...",
+    "case_fact": "The appellant presents the June 1, 2006, statement of the Florida Medical Quality Assurance, Inc., (FMQAI), which alerts hospitals that as of July 1, 2006, FMQAI will no longer be uniformly allowing these procedures to be billed as inpatient services."
+   },
+   {
+    "claim": "The decision to admit a patient is a complex medical judgment",
+    "passage_id": 13,
+    "quote": "the decision to admit a patient is a complex medical judgment which can be made only after the physician has considered...",
+    "case_fact": "In certain specific situations coverage of services on an inpatient or outpatient basis is determined by the following rules: Minor Surgery or Other Treatment - When patients with known diagnoses enter..."
+   }
+  ],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The appellant did not file a brief within 30 days after the Council's letter dated October 5, 2009.",
+    "passage_id": "579",
+    "quote": "In determining the 30-day transfer period, the day of discharge from the hospital is not counted in the 30 days.",
+    "case_fact": "[1] By a letter dated October 5, 2009, the Council granted the appellant a 30-day opportunity to file a brief."
+   },
+   {
+    "claim": "The appellant's request for review was timely filed on August 24, 2009.",
+    "passage_id": "571",
+    "quote": "In order to qualify for post-hospital extended care services, the individual must have been an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days.",
+    "case_fact": "[3] The appellant filed a timely request for Council review (Form DAB-101), dated August 24, 2009,"
+   },
+   {
+    "claim": "The appellant's brief was received after January 10, 2010, by telefacsimile.",
+    "passage_id": "579",
+    "quote": "In determining the 30-day transfer period, the day of discharge from the hospital is not counted in the 30 days.",
+    "case_fact": "[2] Nearly a month after the expiration of the due date for the brief, on December 1, 2009, the appellant filed, by telefacsimile, a request for an additional extension of time, to January 10, 2010, to brief the case."
+   }
+  ],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary was admitted to a skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration.",
+    "passage_id": "574",
+    "quote": "Even if a beneficiary\u2019s care during a qualifying hospital stay becomes less intensive during the latter part of the stay...",
+    "case_fact": "[1] The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration."
+   },
+   {
+    "claim": "The beneficiary\u2019s hospital discharge diagnoses included: chronic dementia, UTI, dehydration, myocardial infarction, hypercholesterolemia, insulin-dependent diabetes mellitus, hypertension, history of cerebral thrombosis, history of transient ischemic attacks, urethral stricture, and depression.",
+    "passage_id": "574",
+    "quote": "Even if a beneficiary\u2019s care during a qualifying hospital stay becomes less intensive during the latter part of the stay...",
+    "case_fact": "[1] The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration."
+   },
+   {
+    "claim": "The SNF must notify the beneficiary or responsible family member that sanctions have been imposed, and explain how the sanctions will affect the beneficiary\u2019s benefits.",
+    "passage_id": "596",
+    "quote": "Before admitting a beneficiary, the SNF must notify the beneficiary or responsible family member...",
+    "case_fact": "[2] On behalf of the appellant, Center for Medicare Advocacy (CMA) requested an ALJ hearing which was conducted by teleconference on March 14, 2007."
+   },
+   {
+    "claim": "The Notice of Non-Coverage also applies to former residents that had been discharged with no expectation of return and are being readmitted after the imposition of the payment ban.",
+    "passage_id": "596",
+    "quote": "This Notice of Non-Coverage also applies to former residents...",
+    "case_fact": "[1] The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration."
+   },
+   {
+    "claim": "The beneficiary\u2019s physician ordered a wanderguard, a chair pad alarm while in his wheelchair, and a \u201cpressure alarm when in bed related to poor safety awareness [secondary] to Dementia.\u201d",
+    "passage_id": "574",
+    "quote": "Even if a beneficiary\u2019s care during a qualifying hospital stay becomes less intensive during the latter part of the stay...",
+    "case_fact": "[4] Upon admission on January 17, 2006, the beneficiary\u2019s physician ordered a wanderguard, a chair pad alarm while in his wheelchair, and a \u201cpressure alarm when in bed related to poor safety awareness [secondary] to Dementia.\u201d"
+   },
+   {
+    "claim": "The beneficiary was not a capable recipient to receive the notice of Medicare non-coverage.",
+    "passage_id": "574",
+    "quote": "Even if a beneficiary\u2019s care during a qualifying hospital stay becomes less intensive during the latter part of the stay...",
+    "case_fact": "[3] The appellant contends that the ALJ erred in holding the beneficiary liable for the costs of the non-covered services."
+   }
+  ],
+  "case_id": "connecticut11"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility...",
+    "passage_id": 184,
+    "quote": "A patient's residence is wherever he or she makes his or her home.",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "An individual may be 'confined to the home' for purposes of Medicare coverage of home health services if he or she resides in an institution that is not primarily engaged in providing...",
+    "passage_id": 185,
+    "quote": "An individual may be 'confined to the home' for purposes of Medicare coverage of home health services if he or she resides in an institution that is not primarily engaged in providing",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "If it is determined that the assisted living facility (also called personal care homes, group homes, etc.) in which the individuals reside are not primarily engaged in providing...",
+    "passage_id": 185,
+    "quote": "If it is determined that the assisted living facility (also called personal care homes, group homes, etc.) in which the individuals reside are not primarily engaged in providing",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "Medicare will cover reasonable and necessary home health care furnished to these individuals.",
+    "passage_id": 185,
+    "quote": "Medicare will cover reasonable and necessary home health care furnished to these individuals.",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "If it is determined that the services furnished by the home health agency are duplicative of services furnished by an assisted living facility when provision of such care is required of the facility under State licensure requirements...",
+    "passage_id": 186,
+    "quote": "If it is determined that the services furnished by the home health agency are duplicative of services furnished by an assisted living facility when provision of such care is required of the facility under State licensure requirements",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "Services to people who already have access to appropriate care from a willing caregiver would not be considered reasonable and necessary to the treatment of the individual's illness or injury.",
+    "passage_id": 186,
+    "quote": "Services to people who already have access to appropriate care from a willing caregiver would not be considered reasonable and necessary to the treatment of the individual's illness or injury.",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "Medicare coverage would not be an optional substitute for the services that a facility is required to provide by law to its patients or where the services are included in the base contract of the facility.",
+    "passage_id": 186,
+    "quote": "Medicare coverage would not be an optional substitute for the services that a facility is required to provide by law to its patients or where the services are included in the base contract of the facility.",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "A patient's residence is wherever he or she makes his or her home. This may be his or her own dwelling, an apartment, a relative's home, a home for the aged, or some other type of institution.",
+    "passage_id": 184,
+    "quote": "A patient's residence is wherever he or she makes his or her home.",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "However, an institution may not be considered a patient's residence if the institution meets the requirements of \u00a7\u00a71861(e)(1) or 1819(a)(1) of the Act.",
+    "passage_id": 184,
+    "quote": "However, an institution may not be considered a patient's residence if the institution meets the requirements of \u00a7\u00a71861(e)(1) or 1819(a)(1) of the Act.",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "Thus, if a patient is in an institution or distinct part of an institution identified above, the patient is not entitled to have payment made for home health services under either Part A or Part B since such an institution may not be considered their residence.",
+    "passage_id": 184,
+    "quote": "Thus, if a patient is in an institution or distinct part of an institution identified above, the patient is not entitled to have payment made for home health services under either Part A or Part B since such an institution may not be considered their residence.",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "A patient may have more than one home and the Medicare rules do not prohibit a patient from having one or more places of residence.",
+    "passage_id": 184,
+    "quote": "A patient may have more than one home and the Medicare rules do not prohibit a patient from having one or more places of residence.",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "However, if a beneficiary qualifies for home health eligibility based on a skilled need other than solely venipuncture (e.g., eligibility based on the skilled nursing service of wound care and meets all other Medicare home health eligibility criteria), medically reasonable and necessary venipuncture coverage may continue under a home health plan of care.",
+    "passage_id": 266,
+    "quote": "However, if a beneficiary qualifies for home health eligibility based on a skilled need other than solely venipuncture (e.g., eligibility based on the skilled nursing service of wound care and meets all other Medicare home health eligibility criteria), medically reasonable and necessary venipuncture coverage may continue under a home health plan of care.",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "Sections 1814(a)(2)(C) and 1835(a)(2)(A) of the Act specifically exclude venipuncture, as a basis for qualifying for Medicare home health services if this is the sole skilled service the beneficiary requires.",
+    "passage_id": 266,
+    "quote": "Sections 1814(a)(2)(C) and 1835(a)(2)(A) of the Act specifically exclude venipuncture, as a basis for qualifying for Medicare home health services if this is the sole skilled service the beneficiary requires.",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "For venipuncture to be reasonable and necessary: 1. The physician or allowed practitioner order for the venipuncture for a laboratory test should be associated with a specific symptom or diagnosis, or the documentation should clarify the need for the test when it is not diagnosis/illness specific.",
+    "passage_id": 266,
+    "quote": "For venipuncture to be reasonable and necessary: 1. The physician or allowed practitioner order for the venipuncture for a laboratory test should be associated with a specific symptom or diagnosis, or the documentation should clarify the need for the test when it is not diagnosis/illness specific.",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "In addition, the treatment must be recognized (in the Physician's Order) as being necessary for a condition that requires skilled care.",
+    "passage_id": 266,
+    "quote": "In addition, the treatment must be recognized (in the Physician's Order) as being necessary for a condition that requires skilled care.",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   }
+  ],
+  "case_id": "gr"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The service is a type of care that the policy covers at all.",
+    "passage_id": 669,
+    "quote": "Physical therapy (PT), speech-language pathology (SLP), and occupational therapy (OT) services must be provided by the SNF or by others under arrangements with the SNF for beneficiaries in either a covered Part A stay or a non-covered stay in the SNF.",
+    "case_fact": "The beneficiary required and received skilled physical therapy (PT) and occupational therapy (OT) services during December 2008 and January 2009."
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy appear satisfied.",
+    "passage_id": 563,
+    "quote": "The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days.",
+    "case_fact": "on the dates of service at issue, the beneficiary was an 89-year-old female with a history of multiple myeloma and breast cancer, among other diagnoses. See Exh. 1, at 24, 207."
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy appear satisfied.",
+    "passage_id": 563,
+    "quote": "The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days.",
+    "case_fact": "The SNF billed the appellant for the beneficiary\u2019s care for dates of service January 28 through January 31, 2009, and for February 1, 2009 through March 1, 2009."
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy appear satisfied.",
+    "passage_id": 563,
+    "quote": "The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days.",
+    "case_fact": "The beneficiary was re-admitted to * * * Health & Rehab Center (SNF) on December 11, 2008, following a hospital stay for gastrointestinal bleeding."
+   }
+  ],
+  "case_id": "m-10-1884"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The nurses provided ongoing monitoring, assessment, and instructions to take the medications as directed.",
+    "passage_id": 267,
+    "quote": "Examples of reasonable and necessary venipuncture for stabilized patients include, but are not limited to those described below.",
+    "case_fact": "the records dated within this period include numerous documented instances of changes in the beneficiary\u2019s medication schedule, as well as problems related to compliance with taking diabetic medications (to include Starlix) as directed,"
+   },
+   {
+    "claim": "The nurses assessed the beneficiary\u2019s reports of changes in her urine and contacted the beneficiary\u2019s doctor to obtain permission to take a urine sample for analysis.",
+    "passage_id": 256,
+    "quote": "Insertion and sterile irrigation and replacement of catheters, care of a suprapubic catheter, and in selected patients, urethral catheters, are considered to be skilled nursing services.",
+    "case_fact": "The nurses\u2019 visit notes for this period also indicate that the nurses assessed the beneficiary\u2019s reports of changes in her urine. The nurses contacted the beneficiary\u2019s doctor to obtain permission to take a urine sample for analysis."
+   },
+   {
+    "claim": "The nurses continued to monitor her for compliance with medication for this infection.",
+    "passage_id": 256,
+    "quote": "Insertion and sterile irrigation and replacement of catheters, care of a suprapubic catheter, and in selected patients, urethral catheters, are considered to be skilled nursing services.",
+    "case_fact": "The beneficiary was given Cipro for a urinary tract infection, and the nurses thereafter continued to monitor her for compliance with medication for this infection."
+   }
+  ],
+  "case_id": "m-11-1869"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary's hospitalization from February 12 to February 17, 2010, for \"worsening gross hematuria\" is a type of care that the policy covers at all.",
+    "passage_id": "563",
+    "quote": "the hospital insurance program. The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days.",
+    "case_fact": "the beneficiary\u2019s hospitalization from February 12 to February 17, 2010, for \u201cworsening gross hematuria.\u201d"
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy (patient status, type of service, certification or similar) appear satisfied.",
+    "passage_id": "572",
+    "quote": "In accordance with section 226(c)(1)(B) of the Social Security Act and the implementing regulations at 42 CFR 409.30(a)(2), the hospital discharge must have occurred on or after the first day of the month in which the individual attained age 65 or, effective July 1, 1973, became entitled to health insurance benefits under the disability or chronic renal disease provisions of the law.",
+    "case_fact": "the beneficiary\u2019s hospitalization from February 12 to February 17, 2010, for \u201cworsening gross hematuria.\u201d"
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy (patient status, type of service, certification or similar) appear satisfied.",
+    "passage_id": "579",
+    "quote": "A3-3131.3.A, SNF-212.3.A Post-hospital extended care services represent an extension of care for a condition for which the individual received inpatient hospital services.",
+    "case_fact": "the beneficiary underwent a cystoscopy and transurethral resection of the prostate (which had a nodular growth that had reoccurred despite two prior transurethral resections), and received three transfusions."
+   }
+  ],
+  "case_id": "m-11-1967"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The service is a type of care that the policy covers at all.",
+    "passage_id": 669,
+    "quote": "Physical therapy (PT), speech-language pathology (SLP), and occupational therapy (OT) services must be provided by the SNF or by others under arrangements with the SNF for beneficiaries in either a covered Part A stay or a non-covered stay in the SNF.",
+    "case_fact": "the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services."
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy appear satisfied, specifically that the patient was admitted to the SNF within 30 days after discharge from a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services.",
+    "passage_id": 579,
+    "quote": "Extended care services are \u201cpost-hospital\u201d if initiated within 30 days after discharge from a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services.",
+    "case_fact": "the beneficiary was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011."
+   }
+  ],
+  "case_id": "m-12-1140"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The service is a type of care that the policy covers at all.",
+    "passage_id": 636,
+    "quote": "Coverage for such skilled therapy services does not turn on the presence or absence of a beneficiary\u2019s potential for improvement from therapy services, but rather on the beneficiary\u2019s need for skilled care.",
+    "case_fact": "The appellant asserts that the record does, in fact, document that the beneficiary sustained a fall in the facility on September 2, 2008, resulting in a \u201cleft upper extremity sprain,\u201d and that it can be assumed that \u201cprior to this fall she did not have a left upper extremity sprain.\u201d"
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy appear satisfied.",
+    "passage_id": 637,
+    "quote": "Skilled physical therapy services must meet all of the following conditions:",
+    "case_fact": "The appellant asserts that the beneficiary made steady progress throughout physical therapy while receiving progressive resistance strengthening exercises to improve lower body, strength and balance, as well as \u201csignificant . . . education regarding safety awareness.\u201d"
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy appear satisfied.",
+    "passage_id": 636,
+    "quote": "Therapy services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by, or under the supervision of, a qualified therapist.",
+    "case_fact": "The appellant maintains that this event constituted a \u201cnew physical decline which warranted Physical Therapy . . . intervention in order to ensure continued safety and independence.\u201d"
+   }
+  ],
+  "case_id": "m_10_1771"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The physical therapy services were provided in relation to the installation of a new stair lift mechanism.",
+    "passage_id": 292,
+    "quote": "EXAMPLE 2: A patient who has had a total hip replacement is ambulatory but demonstrates weakness and is unable to climb stairs safely.",
+    "case_fact": "[2] The visits remaining at issue took place between October 25, 2005, and November 29, 2005."
+   },
+   {
+    "claim": "The skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift.",
+    "passage_id": 292,
+    "quote": "EXAMPLE 2: A patient who has had a total hip replacement is ambulatory but demonstrates weakness and is unable to climb stairs safely.",
+    "case_fact": "[2] The visits remaining at issue took place between October 25, 2005, and November 29, 2005."
+   },
+   {
+    "claim": "The therapist was \u2018in the process of designing an appropriate home exercise program\u2019 for the beneficiary.",
+    "passage_id": 292,
+    "quote": "EXAMPLE 3: A patient who has received gait training has reached their maximum restoration potential, and the physical therapist is teaching the patient and family how to safely perform the activities that are a part of the maintenance program.",
+    "case_fact": "[2] The visits remaining at issue took place between October 25, 2005, and November 29, 2005."
+   },
+   {
+    "claim": "The beneficiary had an acquired ankle-foot defect recorded at Ex. 1, at 325.",
+    "passage_id": 292,
+    "quote": "EXAMPLE 4: Where there is an unhealed, unstable fracture that requires regular exercise to maintain function until the fracture heals, the skills of a physical therapist would be needed to ensure that the fractured extremity is maintained in proper position and alignment during maintenance range of motion exercises.",
+    "case_fact": "[5] Among the symptoms common to EDS patients are fragility (the attending physician noted the beneficiary was very fragile, at Ex. 10, at 513), joint hypermobility with potential for joint dislocations, easily torn or bruised skin, and abnormal curvature of feet and spine"
+   },
+   {
+    "claim": "The home health aides were afraid or unwilling to touch her, failed to handle her correctly, and either left or were fired for those reasons.",
+    "passage_id": 174,
+    "quote": "EXAMPLE 1: A patient who lives with an adult daughter and otherwise qualifies for Medicare coverage of home health services, requires the assistance of a home health aide for bathing and assistance with an exercise program to improve endurance. The daughter is unwilling to bathe her elderly father and assist him with the exercise program.",
+    "case_fact": "[6] The appellant agreed that setting up a maintenance program for the home health aides to take over was a goal, but reported that this goals was frustrated because"
+   }
+  ],
+  "case_id": "nj_dept_humanservices22"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The service is a type of care that the policy covers at all.",
+    "passage_id": 231,
+    "quote": "If the enema were necessary to treat the illness or injury, then the visit would be covered as a skilled nursing visit.",
+    "case_fact": "He experienced rectal bleeding more than once during the dates of service,"
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy (patient status, type of service, certification or similar) appear satisfied.",
+    "passage_id": 256,
+    "quote": "Where the catheter is necessitated by a permanent or temporary loss of bladder control, skilled nursing services that are provided at a frequency appropriate to the type of catheter in use would be considered reasonable and necessary.",
+    "case_fact": "His bowel and bladder functions are maintained by colostomy and urostomy."
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy (patient status, type of service, certification or similar) appear satisfied.",
+    "passage_id": 231,
+    "quote": "If the enema were necessary to treat the illness or injury, then the visit would be covered as a skilled nursing visit.",
+    "case_fact": "He experienced rectal bleeding more than once during the dates of service,"
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy (patient status, type of service, certification or similar) appear satisfied.",
+    "passage_id": 231,
+    "quote": "A patient with a well-established colostomy absent complications may require assistance changing the colostomy bag because they cannot do it themselves and there is no one else to change the bag.",
+    "case_fact": "His bowel and bladder functions are maintained by colostomy and urostomy."
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy (patient status, type of service, certification or similar) appear satisfied.",
+    "passage_id": 231,
+    "quote": "A patient with a hairline fracture of the hip. The home health record must document the reason skilled services are required and why the nursing visits are reasonable and necessary for treatment of the patient's hip injury.",
+    "case_fact": "He is totally dependent for his care."
+   }
+  ],
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The service is a type of care that the retrieved policy covers at all.",
+    "passage_id": "341",
+    "quote": "Where a patient is eligible for coverage of home health services, Medicare covers either part-time or intermittent home health aide services or skilled nursing services subject to the limits below.",
+    "case_fact": "Coverage is available for home health aide or skilled nursing services on a part-time basis (seven days a week, but fewer than eight hours each day) or an intermittent basis (six or fewer times a week for as many as 24-hours per day)."
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy appear satisfied.",
+    "passage_id": "177",
+    "quote": "To qualify for the Medicare home health benefit, under \u00a7\u00a71814(a)(2)(C) and 1835(a)(2)(A) of the Act, a Medicare beneficiary must meet the following requirements:",
+    "case_fact": "Be confined to the home; Under the care of a physician or allowed practitioner; Receiving services under a plan of care established and periodically reviewed by a physician or allowed practitioner; Be in need of skilled nursing care on an intermittent basis or physical therapy or speech-language pathology; or Have a continuing need for occupational therapy."
+   }
+  ],
+  "case_id": "ny"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The service is covered under hospital insurance.",
+    "passage_id": 666,
+    "quote": "The extended care services in \u00a7\u00a750.1 - 50.9, below, are covered under hospital insurance.",
+    "case_fact": "The beneficiary was admitted to REMH for two periods, from September 29, 2003, through November 27, 2003, and from December 11, 2003 through January 6, 2004, both following a qualifying hospital stay."
+   },
+   {
+    "claim": "The beneficiary met the level of care criteria for Medicare coverage during the first 8 days of the stay.",
+    "passage_id": 610,
+    "quote": "If a beneficiary met the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay...",
+    "case_fact": "The beneficiary was admitted to REMH immediately following her discharge from the hospital (Danville Regional Medical Center)."
+   },
+   {
+    "claim": "The beneficiary required SNF care for a condition that arose while in the SNF for treatment of a condition for which the beneficiary was previously treated in the hospital.",
+    "passage_id": 563,
+    "quote": "the beneficiary must require SNF care for a condition that arose while in the SNF for treatment of a condition for which the beneficiary was previously treated in the hospital.",
+    "case_fact": "The beneficiary\u2019s medical records indicate that she was placed in a noncertified bed at the appellant\u2019s facility. At the time she was discharged from the hospital, the appellant\u2019s facility did not have a certified bed available."
+   }
+  ],
+  "case_id": "roman_eagle_memorial_home"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004.",
+    "passage_id": "72",
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act if the patient meets all of the requirements outlined in 42 CFR \u00a7 412.622(a)(3), (4), and (5).",
+    "case_fact": "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004."
+   },
+   {
+    "claim": "The ALJ held a telephonic hearing in July 2008, for all of the claims. Dr. K.F., appellant\u2019s Medical Director, testified.",
+    "passage_id": "72",
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act if the patient meets all of the requirements outlined in 42 CFR \u00a7 412.622(a)(3), (4), and (5).",
+    "case_fact": "The ALJ held a telephonic hearing in July 2008, for all of the claims. Dr. K.F., appellant\u2019s Medical Director, testified."
+   },
+   {
+    "claim": "In each decision, the ALJ identified the issues before her as follows: Are the reopened initial determinations time-barred and, if not, were Medicare coverage criteria met for the IRF services at issue[?]",
+    "passage_id": "72",
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act if the patient meets all of the requirements outlined in 42 CFR \u00a7 412.622(a)(3), (4), and (5).",
+    "case_fact": "In each decision, the ALJ identified the issues before her as follows: Are the reopened initial determinations time-barred and, if not, were Medicare coverage criteria met for the IRF services at issue[?]"
+   }
+  ],
+  "case_id": "stfrances_memorial"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The service is a type of care that the retrieved policy covers at all.",
+    "passage_id": 686,
+    "quote": "Under Part A, physical therapy, occupational therapy, and speech pathology services are included in the SNF PPS rate for cost reporting periods beginning on or after July 1, 1998.",
+    "case_fact": "The appellant asserts in its request for review that from August 1, 2009, through August 31, 2009, the beneficiary required and received skilled nursing care (for psychological, behavioral, and medical reasons), and received skilled physical therapy for her gait and ambulation problems, difficulty with transferring, and need to reduce her risk of falls."
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy appear satisfied.",
+    "passage_id": 579,
+    "quote": "A3-3131.3.A, SNF-212.3.A Post-hospital extended care services represent an extension of care for a condition for which the individual received inpatient hospital services.",
+    "case_fact": "On July 20, 2009, the beneficiary (age 88) was admitted to the acute psychiatric unit at Yale University for dementia (apparently vascular in origin), paranoid behavior, significant difficulty sleeping, agitation, and being violent and assaultive toward her primary caregiver."
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy appear satisfied.",
+    "passage_id": 632,
+    "quote": "There must be specific evidence that daily skilled nursing or skilled rehabilitation services are required and received if: \u2022 The primary service needed is oral medication; or \u2022 The patient is capable of independent ambulation, dressing, feeding, and hygiene.",
+    "case_fact": "The beneficiary was treated with Haldol, an antipsychotic medication."
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy appear satisfied.",
+    "passage_id": 633,
+    "quote": "Nursing services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by, or under the supervision of, a registered nurse or, when provided by regulation, a licensed practical (vocational) nurse.",
+    "case_fact": "Physical therapy (PT) was started five times a week upon the beneficiary\u2019s admission to the SNF."
+   },
+   {
+    "claim": "The basic eligibility conditions in the policy appear satisfied.",
+    "passage_id": 629,
+    "quote": "Where these signs and symptoms are such that there is a reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment of the patient,",
+    "case_fact": "On July 29, 2009, the beneficiary was evaluated by a psychiatric advanced practice registered nurse (APRN)."
+   }
+  ],
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The service is IRF services furnished to the beneficiary from July 17, 2003, through July 24, 2003.",
+    "passage_id": "72",
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act if the patient meets all of the requirements outlined in 42 CFR \u00a7 412.622(a)(3), (4), and (5).",
+    "case_fact": "The appellant billed Medicare for IRF services furnished to the beneficiary from July 17, 2003, through July 24, 2003."
+   },
+   {
+    "claim": "The patient meets all of the requirements outlined in 42 CFR \u00a7 412.622(a)(3), (4), and (5).",
+    "passage_id": "72",
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act if the patient meets all of the requirements outlined in 42 CFR \u00a7 412.622(a)(3), (4), and (5).",
+    "case_fact": "Prior to the total knee replacement surgery, the beneficiary was independent with all of her activities of daily living (ADL\u2019s) and lived alone with her husband."
+   },
+   {
+    "claim": "The patient has a condition that would qualify under Medicare Part A for inpatient hospital services or extended care services.",
+    "passage_id": "109",
+    "quote": "A beneficiary may elect to receive care in an RNHCI based on his or her own religious convictions or to revoke that election at any time if for any reason he or she decides to pursue medical care. Section 1821(a) of the Act requires that as a condition for Part A Medicare coverage, the beneficiary must have a condition that would qualify under Medicare Part A for inpatient hospital services or extended care services furnished in a hospital or skilled nursing facility that is not an RNHCI if it were not for their religious convictions.",
+    "case_fact": "The 71 year old beneficiary was admitted to the acute hospital where she underwent a right total knee replacement secondary to degenerative joint disease."
+   }
+  ],
+  "case_id": "valley_presbyterian"
+ }
+]

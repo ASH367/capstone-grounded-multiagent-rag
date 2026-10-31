@@ -1,0 +1,48 @@
+{
+ "results/fair/probe_D_wide_held": {
+  "original_key_all": {
+   "n": 18,
+   "multi": 13,
+   "single": 13,
+   "majority": 0.3888888888888889,
+   "mcnemar_p": 1.0,
+   "gap_ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "coverage_key_merits": {
+   "n": 13,
+   "multi": 11,
+   "single": 11,
+   "majority": 0.5384615384615384,
+   "mcnemar_p": 1.0,
+   "gap_ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "PRIMARY_coverage_key_merits_evidence_ok": {
+   "n": 11,
+   "multi": 9,
+   "single": 9,
+   "majority": 0.6363636363636364,
+   "mcnemar_p": 1.0,
+   "gap_ci": [
+    0.0,
+    0.0
+   ]
+  },
+  "sens_coverage_key_merits_wordfloor": {
+   "n": 13,
+   "multi": 11,
+   "single": 11,
+   "majority": 0.5384615384615384,
+   "mcnemar_p": 1.0,
+   "gap_ci": [
+    0.0,
+    0.0
+   ]
+  }
+ }
+}

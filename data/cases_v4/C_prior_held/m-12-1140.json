@@ -1,0 +1,35 @@
+{
+ "case_id": "m-12-1140",
+ "domain": "snf",
+ "docket": "M-12-1140",
+ "service_at_issue": "SNF skilled therapy and nursing services after October 5, 2011 (termination of Medicare coverage)",
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council adopted the ALJ decision because the beneficiary did not require skilled services after October 5, 2011 (Jimmo settlement did not change coverage criteria) and she remained liable for non-covered charges after notice.",
+ "cited_sections": [],
+ "other_cites": [
+  "SSA 1862",
+  "SSA 1879",
+  "42 CFR 409.31(a)(2)",
+  "42 CFR 409.32",
+  "42 CFR 409.32(c)",
+  "42 CFR 409.33",
+  "Jimmo v. Sebelius settlement fact sheet"
+ ],
+ "facts": [
+  "On January 24, 2013, the United States District Court for the District of Vermont approved a settlement agreement in that case, in which the plaintiffs alleged that the Centers for Medicare & Medicaid Services (CMS) wrongly applied an \u201cimprovement standard\u201d in making skilled care determinations for home health, SNF, and outpatient rehabilitation services. In a Fact Sheet on the litigation, 3 CMS stated that it had denied establishing an improper \u201crule of thumb\u201d improvement standard and that the Court had not ruled on the plaintiffs\u2019 arguments.",
+  "Instead, CMS stated that the Settlement Agreement required that CMS clarify existing policies for consistent and appropriate coverage determinations. See, generally, \u201cJimmo v. Sebelius Settlement Agreement Fact Sheet,\u201d Attachment."
+ ],
+ "arm": "C_prior",
+ "set": "held",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 0,
+ "evidence_words_D": 162,
+ "evidence_ok": 0,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

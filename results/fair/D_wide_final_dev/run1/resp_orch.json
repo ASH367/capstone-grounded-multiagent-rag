@@ -1,0 +1,354 @@
+[
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The case facts find that the beneficiary was alert and stable and could have been safely transported by other means. Under the necessity rule, which bars payment in that situation, ambulance transport is not covered. The chest-pain presumption is not enough to overcome this, and the 911 call and ambulance report conflict on her breathing.",
+  "passage_ids": [
+   388,
+   434,
+   1,
+   2,
+   3,
+   4
+  ],
+  "case_id": "12-1251"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "A.D. received PT, OT and speech therapy and was judged an excellent rehabilitation candidate. He had measurable functional goals, made documented gains, and was discharged home as intended. The facts also describe medical complexity beyond custodial care. The documentation points the Documentation Agent flagged as unknown (physician visit frequency, preadmission screening, expected timeframe) are gaps in the record, not findings of non-compliance, so the substantive criteria support coverage.",
+  "passage_ids": [
+   83,
+   84,
+   86,
+   103
+  ],
+  "case_id": "altabates__AD"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "Both the Eligibility and Medical Necessity agents support coverage. The patient was expected to benefit and did benefit, returning home with modified independence. Multiple therapy disciplines (PT and OT) were involved, and daily physiatrist contact exceeded the 3-days-per-week requirement. The Documentation Agent's open points (preadmission screening, therapy logs, a predetermined time frame) are UNKNOWN rather than shown to be deficient. The policy also says 3 hours per day is not the only way to show intensity, so those gaps do not defeat coverage.",
+  "passage_ids": [
+   83,
+   84,
+   87,
+   103
+  ],
+  "case_id": "altabates__IW"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The record supports only the multiple-therapy-disciplines element (OT and speech-language therapy, daily). The agents found no documentation of intensive therapy (about 3 hours per day, 5 days per week) or of rehabilitation-physician face-to-face visits 3 days per week, so inpatient-level coverage is not supported.",
+  "passage_ids": [
+   2,
+   3,
+   4,
+   5,
+   83,
+   86,
+   92
+  ],
+  "case_id": "altabates__JH"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "Both beneficiaries had stable conditions with no documented change in condition, medication or treatment. The skilled nursing visits were general observation and assessment plus repetitive teaching, which the agents found do not meet the reasonable-and-necessary standard. The Eligibility Agent returned UNKNOWN, but the Medical Necessity and Documentation Agents both found the record does not support coverage. Nothing in the findings shows a covered portion of either certification period.",
+  "passage_ids": [
+   239,
+   246,
+   251,
+   192
+  ],
+  "case_id": "case_excellenthomecare"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "All three agents support coverage. The physician ordered skilled nursing after the cyanosis episode, given the beneficiary's cardiac and pulmonary comorbidities, which created a reasonable potential for complications. The nurses' blood draws for prothrombin/INR led to two Coumadin dose changes, and they also provided skilled observation and teaching. The unconfirmed documentation of caregiver responses to teaching is a minor gap and does not undercut the other covered services.",
+  "passage_ids": [
+   1,
+   3,
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "case_id": "case_landmark"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents found that ambulance transport was not shown to be medically necessary. The beneficiary had only nausea, normal vital signs, and stayed stable without treatment, so other transport could have been used safely. The daughter's refusal or inability to use her SUV goes to availability, which the policy says does not support payment.",
+  "passage_ids": [
+   5,
+   6,
+   7,
+   4,
+   3
+  ],
+  "case_id": "dc_case"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "reason": "The beneficiary's condition warranted ambulance transport, but the record does not show that ground ambulance was inappropriate. Payment is therefore limited to the ground ambulance rate (A0427) and the ground miles to the nearer capable facility (A0425, 136 miles). The air ambulance service and the 243 air miles as billed are not covered.",
+  "passage_ids": [
+   415,
+   417,
+   424
+  ],
+  "case_id": "eagle_air_med"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The ER physician consulted the on-call neurosurgeon, who recommended transfer to the St. Francis Neuro ICU, and the family could not decide on surgery until a neurosurgeon there evaluated the beneficiary. That supports a medically necessary transfer to an institution with appropriate facilities, and the case facts say transport to both institutions is covered up to the mileage to the nearest appropriate institution. The agents found the record does not show what Proctor lacked or that St. Francis was the nearest appropriate facility. I weighed the physician-directed transfer more heavily than those gaps.",
+  "passage_ids": [
+   2,
+   6,
+   7,
+   399,
+   396
+  ],
+  "case_id": "estate_gbr"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The cardiologist's documentation shows the beneficiary was pacemaker-dependent with a recent device infection and newly implanted leads, so a cardiac-monitored ambulance was necessary and any other transport was contraindicated. This contradicts the reconsideration's stretcher-van rationale. The missing trip report and the unclear 'rehabilitation center' destination are unresolved, but nothing in the record shows they defeat coverage, so the medically supported necessity finding controls.",
+  "passage_ids": [
+   388,
+   400,
+   376
+  ],
+  "case_id": "gold_cross_ambulance"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The claim was initially paid. The case facts show multiple active comorbidities, physician-directed medical intervention, and a multidisciplinary evaluation with good rehabilitation potential. The patient also improved and met all discharge goals. The Eligibility and Medical Necessity agents support coverage. The Documentation Agent's UNKNOWN items (3-day physician visits, weekly conferences, forms) are gaps in the record, not evidence against coverage. The facts also rebut the claims that she was stable and had no active comorbidities.",
+  "passage_ids": [
+   84,
+   95,
+   92,
+   1,
+   3,
+   4,
+   5,
+   9,
+   10,
+   11,
+   13,
+   14,
+   15
+  ],
+  "case_id": "kaweah_rehabilitationhospital"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The ED plan to admit, neurology's admission, and the inpatient clinical notes from July 4 to 8 support inpatient status for July 3\u20138; the revert-to-observation entry is dated July 8. That gives the three-day qualifying stay. For the SNF stay, physician orders and therapy documentation cover the whole period, which outweighs the QIC's certification/recertification objection. All three agents returned UNKNOWN, so this rests on the case facts rather than on their findings.",
+  "passage_ids": [
+   1,
+   2,
+   12,
+   13,
+   15,
+   16,
+   17,
+   23,
+   24,
+   26,
+   27,
+   28
+  ],
+  "case_id": "m-11-1559"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "Transport from an accident scene is covered only to the nearest hospital, CAH, or SNF able to provide the needed care. The record calls the destination a 'clinic', and the appellant's claim that it was a SNF or small hospital is unsupported. The agents all returned UNKNOWN, so nothing shows the destination qualified, that it was the nearest suitable facility, or that the transport was medically necessary, and coverage is therefore not supported.",
+  "passage_ids": [
+   400,
+   447,
+   376,
+   392,
+   382
+  ],
+  "case_id": "m-11-2450"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "All three agents support coverage. The physician's re-certification documents homebound status, taxing effort to leave home, and functional limitations, and the infrequent absences for adult day care and doctor visits do not defeat homebound status. Unstable blood sugars (88-303) and recent medication changes support skilled observation, assessment and teaching. The Documentation Agent's open point on visit-level notes is an evidentiary gap, not a contrary finding, and the case facts do not show that it defeats coverage.",
+  "passage_ids": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "case_id": "m_12_257"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The agents returned UNKNOWN on the order and two-midnight expectation because the record is silent. The case facts support the contractor and QIC: the patient had no chest pain at transfer, normal enzymes and no acute EKG changes, tolerated the elective catheterization and stenting well, and went home the next day with no complications. The appellant's cardiac history and new T-wave inversion do not show that inpatient admission was needed, so the inpatient stay is not supported.",
+  "passage_ids": [
+   1,
+   2,
+   3,
+   6,
+   12,
+   13,
+   14,
+   15
+  ],
+  "case_id": "m_12_809"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "reason": "All three agents returned UNKNOWN, and nothing in the case facts rebuts the contractor's finding that a nearer appropriate facility was 133 miles away. Under the payment limit in passage 424, the 133 miles stand as covered and the 70 miles beyond that distance remain denied. The record does not show the destination was the nearest appropriate facility (passage 397), so the denial is not overturned.",
+  "passage_ids": [
+   424,
+   397,
+   460,
+   415
+  ],
+  "case_id": "midwest_lifeteam"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "All three agents support coverage. The case facts show a physician-ordered course of skilled speech-language pathology for dysphagia, with objective barium swallow comparisons and documented functional gains. The provider's doubt about the overall brain-injury prognosis does not defeat coverage, because coverage is not determined solely on improvement potential. Timing requirements, homebound status and certification are not addressed in the record, so they remain unconfirmed, but nothing in the record contradicts coverage.",
+  "passage_ids": [
+   297,
+   298,
+   279,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "case_id": "nj_dept_humanservices5"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "Only the physician certifications and plan of care are shown. The record does not show the visit-level documentation of skilled need that passage 233 requires, and the Medical Necessity and Documentation agents could not confirm it. The ostomy category does not apply because the beneficiary had no ostomy, and the aide services depend on a qualifying skilled need that is not established. Coverage is therefore not supported on this record.",
+  "passage_ids": [
+   131,
+   233,
+   311,
+   256
+  ],
+  "case_id": "prestige_homecare__BK"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents found the skilled nursing observation and assessment not reasonable and necessary. The record shows no significant change in condition, medications, or treatment plan, only longstanding chronic signs and symptoms, and no evidence of likely complications or an acute episode, so the policy's requirement of a reasonable potential for change is not met.",
+  "passage_ids": [
+   236,
+   237,
+   225
+  ],
+  "case_id": "prestige_homecare__BN"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "Skilled observation and assessment and skilled teaching are covered service types, and the physician certified them. However, the record lacks the required rationale for a reasonable potential of complication or acute episode. The edema, palpitations and wheezing were not assessed or followed up, and no skilled teaching was documented. The Medical Necessity and Documentation agents therefore prevail over the Eligibility Agent, whose support depended on those unsettled issues. The denial applies to both periods.",
+  "passage_ids": [
+   236,
+   245,
+   233,
+   4,
+   5,
+   6,
+   7
+  ],
+  "case_id": "prestige_homecare__FP"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "Coverage depends on the beneficiary being homebound, which requires a normal inability to leave home and a considerable and taxing effort to do so. The record does not establish this. It does not show the hours she spends at the day-care center or whether the center is state-licensed or certified. It also does not show a physician's homebound certification or how she leaves home. Her regular four-day-a-week absences for two years are not shown to be infrequent or short, so coverage is not supported on this record.",
+  "passage_ids": [
+   4,
+   5,
+   6,
+   178,
+   179,
+   180,
+   188
+  ],
+  "case_id": "rb_obo_jb"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The plans of care do contain a physician order for the nursing visit frequency (\"visit Q 2 weeks\"), which answers the contractor's and QIC's stated basis for denial. But the nurse only filled a mediplanner and oversaw aides, and the record shows no documented rationale for a reasonable potential of complication, no need to observe and assess the effects of the unskilled services, and no skilled observation at each visit. Skilled need is therefore not established, and the aide services are not supported without it.",
+  "passage_ids": [
+   236,
+   239,
+   242,
+   3,
+   4,
+   5,
+   7
+  ],
+  "case_id": "rx_homecare"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The intermediary (on redetermination) and the QIC both found the medical record did not support an inpatient level of care and that the stay should have been billed as outpatient/observation. The record shows a stable post-operative course with low-flow oxygen, spirometry, routine monitoring, and no infection or complications. This outweighs the physician's stated rationale (extent of dissection and pulmonary status), and the other agents found nothing that establishes inpatient coverage.",
+  "passage_ids": [
+   1,
+   2,
+   7,
+   8,
+   9,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18
+  ],
+  "case_id": "sacredheart_hospital"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "reason": "Nurse visits that assessed, treated, and taught wound care are skilled services supported by the record: the June 2007 sacral ulcer, the August 2007 buttock lesion through August 30, and the October 2007 foot wounds. A stable condition does not by itself defeat skilled need. The diabetes-management visits under the plan of care show no documented skilled need, and the contractor and QIC found none, so those dates are not supported.",
+  "passage_ids": [
+   228,
+   261,
+   239,
+   225,
+   230,
+   5,
+   6,
+   10,
+   11,
+   3,
+   2
+  ],
+  "case_id": "state_of_vt"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "Both the Medical Necessity and Documentation agents found that the skilled nursing visits are not supported. The nurse notes show an asymptomatic patient with generally normal glucose readings who was on an oral agent. The diet and fluid teaching could be done by unskilled caregivers, and the record does not document why skilled nursing was required. The Eligibility Agent's open items (plan of care, homebound status, certification, electronic authentication) are unknown and do not offset these findings.",
+  "passage_ids": [
+   225,
+   237,
+   232,
+   2
+  ],
+  "case_id": "uphams_homehealthcare"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "All three agents support coverage. The beneficiary needed a rolling walker to leave her room, and nothing in the record suggests she was other than homebound. Skilled gait training occurred at every visit, and the Tinetti score improved from 7/28 to 18/28. The therapy amount, frequency and duration were reasonable. The QIC's denial rested solely on the OASIS, which should not be the exclusive basis for a coverage determination. The physician's homebound certification is not expressly stated in the case facts, but a Plan of Care and therapy orders are documented, and the record does not contradict homebound status.",
+  "passage_ids": [
+   2,
+   3,
+   4,
+   8,
+   13,
+   14,
+   15,
+   16,
+   18
+  ],
+  "case_id": "visitingnursing"
+ }
+]

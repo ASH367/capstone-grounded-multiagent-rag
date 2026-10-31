@@ -1,0 +1,35 @@
+{
+ "case_id": "uphams_homehealthcare",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "weekly home health skilled nursing visits, September 8, 2007 through November 6, 2007",
+ "facts": [
+  "The appellant asserts that the 105 year old beneficiary required skilled nursing visits for assessment of diabetes, peripheral vascular disease, osteoarthrosis as well as assessment of her skin relative to urinary incontinence.",
+  "asserts that the skilled nursing visits were necessary to teach family members to provide the beneficiary with a proper diet and to encourage fluids. The appellant references two blood glucose readings and edema of the beneficiary's lower extremities in support of its contentions.",
+  "The beneficiary had been under the appellant's care since May 11, 2007, for a period of four months before the period at issue. Id. at 110.",
+  "The Plan of Care indicates that the beneficiary's family administered her medications without problems, that the beneficiary received services from home health aides through **** Services, and that the family had been instructed in monitoring the appellant's blood glucose on a daily and \"as needed\" basis. Id. at 109.",
+  "the POC covers the certification period September 8, 2007, through November 6, 2007, but was not signed by the physician until November 6, 2007. Exh. 1, at 110. Box 23 of the POC (nurse's signature) contains typed entries reflecting a verbal start of care on September 7, 2007, and a name for a registered nurse, but no handwritten signature."
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council agreed the visits were not reasonable and necessary given the controlled diabetes and family support, noted plan-of-care signature defects, and held the provider liable.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30.2.5"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "30.2.8"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 411.400",
+  "42 CFR 411.404",
+  "42 CFR 411.406",
+  "SSA 1862(a)(1)(A)",
+  "SSA 1879"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

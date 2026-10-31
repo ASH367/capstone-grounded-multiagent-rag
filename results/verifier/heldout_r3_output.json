@@ -1,0 +1,657 @@
+[
+ {
+  "id": "r3|multi|elig|11-1343|0",
+  "label": "PARTLY",
+  "reason": "Referral shown; SNF provision not shown in fact"
+ },
+ {
+  "id": "r3|multi|elig|11-1343|1",
+  "label": "PARTLY",
+  "reason": "Policy backs first half; referral fit is inference"
+ },
+ {
+  "id": "r3|multi|elig|11-1546|0",
+  "label": "PARTLY",
+  "reason": "Only parties' contention of stay, not documented"
+ },
+ {
+  "id": "r3|multi|elig|baptist_health_care|0",
+  "label": "SUPPORTED",
+  "reason": "Policy says length alone not decisive; fact is short-stay expectation"
+ },
+ {
+  "id": "r3|multi|elig|connecticut11|0",
+  "label": "PARTLY",
+  "reason": "Policy quote truncated; presumption basis not shown"
+ },
+ {
+  "id": "r3|multi|elig|gr|0",
+  "label": "PARTLY",
+  "reason": "Policy condition truncated; fact only shows ALF residence"
+ },
+ {
+  "id": "r3|multi|elig|m-10-1884|0",
+  "label": "PARTLY",
+  "reason": "Policy quote never mentions hospice or Part A billing"
+ },
+ {
+  "id": "r3|multi|elig|m-10-1884|1",
+  "label": "PARTLY",
+  "reason": "Disputed dates not in item; policy irrelevant to dates"
+ },
+ {
+  "id": "r3|multi|elig|m-11-1869|0",
+  "label": "PARTLY",
+  "reason": "Policy doesn't limit venipuncture coverage to home health"
+ },
+ {
+  "id": "r3|multi|elig|m-11-1967|0",
+  "label": "SUPPORTED",
+  "reason": "Feb 12-17 gives five counted days under admission-day rule"
+ },
+ {
+  "id": "r3|multi|elig|m-11-1967|1",
+  "label": "SUPPORTED",
+  "reason": "Same-day SNF admission within 30 days per quoted rule"
+ },
+ {
+  "id": "r3|multi|elig|m-12-1140|0",
+  "label": "SUPPORTED",
+  "reason": "Admission on discharge date after nine-day stay fits rule"
+ },
+ {
+  "id": "r3|multi|elig|m-12-1140|1",
+  "label": "PARTLY",
+  "reason": "Policy says SNF must provide; covered type inferred"
+ },
+ {
+  "id": "r3|multi|elig|m_10_1771|0",
+  "label": "SUPPORTED",
+  "reason": "Policy says coverage not tied to improvement; fact is progress claim"
+ },
+ {
+  "id": "r3|multi|elig|nj_dept_humanservices22|0",
+  "label": "SUPPORTED",
+  "reason": "Policy covers therapist-taught maintenance; fact shows teaching need"
+ },
+ {
+  "id": "r3|multi|elig|nj_dhs_commiss_case|0",
+  "label": "SUPPORTED",
+  "reason": "Policy states bag change not skilled; fact shows colostomy"
+ },
+ {
+  "id": "r3|multi|elig|nj_dhs_commiss_case|1",
+  "label": "PARTLY",
+  "reason": "Policy concerns catheter change; fact only mentions UTI"
+ },
+ {
+  "id": "r3|multi|elig|ny|0",
+  "label": "SUPPORTED",
+  "reason": "Fact and policy both state part-time and hour limits"
+ },
+ {
+  "id": "r3|multi|elig|roman_eagle_memorial_home|0",
+  "label": "SUPPORTED",
+  "reason": "Fact states no certified bed; policy allows conditional payment"
+ },
+ {
+  "id": "r3|multi|elig|roman_eagle_memorial_home|1",
+  "label": "SUPPORTED",
+  "reason": "Fact states qualifying stay; policy defines requirement"
+ },
+ {
+  "id": "r3|multi|elig|stfrances_memorial|0",
+  "label": "PARTLY",
+  "reason": "Policy quote lacks 412.622; fact only says IRF appeal"
+ },
+ {
+  "id": "r3|multi|elig|twin_maples_health_care_case|0",
+  "label": "PARTLY",
+  "reason": "Fact shows monitoring; policy defines skilled but fit inferred"
+ },
+ {
+  "id": "r3|multi|elig|twin_maples_health_care_case|1",
+  "label": "PARTLY",
+  "reason": "'Carefully documented' absent from quote; facts show diagnoses only"
+ },
+ {
+  "id": "r3|multi|elig|valley_presbyterian|0",
+  "label": "PARTLY",
+  "reason": "Policy quote lacks 412.622; fact is only transfer date"
+ },
+ {
+  "id": "r3|multi|nec|11-1343|0",
+  "label": "SUPPORTED",
+  "reason": "Documented decline with policy on restoring lost function"
+ },
+ {
+  "id": "r3|multi|nec|11-1343|1",
+  "label": "PARTLY",
+  "reason": "Referral fact; policy on assessment needs inference"
+ },
+ {
+  "id": "r3|multi|nec|11-1343|2",
+  "label": "NOT_SUPPORTED",
+  "reason": "Policy on frequency reasonableness; hospitalization not in fact"
+ },
+ {
+  "id": "r3|multi|nec|11-1546|0",
+  "label": "PARTLY",
+  "reason": "Policy on medical evidence fits; presumption framing inferred"
+ },
+ {
+  "id": "r3|multi|nec|baptist_health_care|0",
+  "label": "SUPPORTED",
+  "reason": "Policy says length alone not decisive; no clinical details"
+ },
+ {
+  "id": "r3|multi|nec|connecticut11|0",
+  "label": "SUPPORTED",
+  "reason": "Plateau fact and individual determination policy fit claim"
+ },
+ {
+  "id": "r3|multi|nec|gr|0",
+  "label": "PARTLY",
+  "reason": "Policy concerns willing caregiver, not duplicating facility care"
+ },
+ {
+  "id": "r3|multi|nec|m-10-1884|0",
+  "label": "PARTLY",
+  "reason": "Discharge dates shown; no-skilled-need is inference; policy is cross-reference"
+ },
+ {
+  "id": "r3|multi|nec|m-11-1869|0",
+  "label": "PARTLY",
+  "reason": "Logs and unstabilized status inferred; policy needs documentation"
+ },
+ {
+  "id": "r3|multi|nec|m-11-1967|0",
+  "label": "PARTLY",
+  "reason": "Diagnosis shown; SNF care for hematuria not stated"
+ },
+ {
+  "id": "r3|multi|nec|m-12-1140|0",
+  "label": "SUPPORTED",
+  "reason": "Admission day after inpatient stay within 30 days; need unsettled"
+ },
+ {
+  "id": "r3|multi|nec|m_10_1771|0",
+  "label": "SUPPORTED",
+  "reason": "Policy needs individualized assessment; facts are appellant assertions"
+ },
+ {
+  "id": "r3|multi|nec|nj_dept_humanservices22|0",
+  "label": "PARTLY",
+  "reason": "Policy covers stairs; fact concerns lift transfer"
+ },
+ {
+  "id": "r3|multi|nec|nj_dhs_commiss_case|0",
+  "label": "PARTLY",
+  "reason": "Policy concerns catheter complications; fact is hospitalization only"
+ },
+ {
+  "id": "r3|multi|nec|nj_dhs_commiss_case|1",
+  "label": "SUPPORTED",
+  "reason": "Fistula is complication; policy says uncomplicated care only"
+ },
+ {
+  "id": "r3|multi|nec|ny|0",
+  "label": "SUPPORTED",
+  "reason": "Hour limits quoted; no skilled-need facts"
+ },
+ {
+  "id": "r3|multi|nec|roman_eagle_memorial_home|0",
+  "label": "SUPPORTED",
+  "reason": "Orders shown; policy requires individual determination, none shown"
+ },
+ {
+  "id": "r3|multi|nec|stfrances_memorial|0",
+  "label": "SUPPORTED",
+  "reason": "Fact is issue statement; policy requires individual assessment"
+ },
+ {
+  "id": "r3|multi|nec|twin_maples_health_care_case|0",
+  "label": "SUPPORTED",
+  "reason": "Haldol change fits policy on treatment-change potential"
+ },
+ {
+  "id": "r3|multi|nec|twin_maples_health_care_case|1",
+  "label": "PARTLY",
+  "reason": "Diagnosis only; policy quote truncated, monitoring not shown"
+ },
+ {
+  "id": "r3|multi|nec|valley_presbyterian|0",
+  "label": "SUPPORTED",
+  "reason": "Policy requires all criteria; facts give functional status only"
+ },
+ {
+  "id": "r3|multi|doc|11-1343|0",
+  "label": "SUPPORTED",
+  "reason": "Fact records deficits at PT start; policy requires such documentation"
+ },
+ {
+  "id": "r3|multi|doc|11-1343|1",
+  "label": "SUPPORTED",
+  "reason": "Strength measurements match policy's tests and measurements"
+ },
+ {
+  "id": "r3|multi|doc|11-1343|2",
+  "label": "PARTLY",
+  "reason": "Nurse monitoring shown; 'after fall' not in fact"
+ },
+ {
+  "id": "r3|multi|doc|11-1546|0",
+  "label": "SUPPORTED",
+  "reason": "Dec 15-27 stay exceeds three days"
+ },
+ {
+  "id": "r3|multi|doc|11-1546|1",
+  "label": "SUPPORTED",
+  "reason": "Fact records medication adjustments; policy relies on file evidence"
+ },
+ {
+  "id": "r3|multi|doc|baptist_health_care|0",
+  "label": "PARTLY",
+  "reason": "Quote truncated; no admission-order evidence either way stated"
+ },
+ {
+  "id": "r3|multi|doc|baptist_health_care|1",
+  "label": "PARTLY",
+  "reason": "Fact shows liability only; reopening not shown"
+ },
+ {
+  "id": "r3|multi|doc|conn_dept_social_services|0",
+  "label": "SUPPORTED",
+  "reason": "Fact is procedural; policy requires qualifying stay"
+ },
+ {
+  "id": "r3|multi|doc|connecticut11|0",
+  "label": "SUPPORTED",
+  "reason": "Fact references signed notice only; content absent"
+ },
+ {
+  "id": "r3|multi|doc|connecticut11|1",
+  "label": "SUPPORTED",
+  "reason": "Stay asserted without length; policy requires three days"
+ },
+ {
+  "id": "r3|multi|doc|gr|0",
+  "label": "SUPPORTED",
+  "reason": "Fact names setting only; policy requires supporting records"
+ },
+ {
+  "id": "r3|multi|doc|gr|1",
+  "label": "PARTLY",
+  "reason": "ALF stated; 'skilled services' differs from institutional care"
+ },
+ {
+  "id": "r3|multi|doc|m-10-1884|0",
+  "label": "SUPPORTED",
+  "reason": "No stay length given; policy requires three days"
+ },
+ {
+  "id": "r3|multi|doc|m-10-1884|1",
+  "label": "PARTLY",
+  "reason": "'January 28 onward' not in item; discharge dates support"
+ },
+ {
+  "id": "r3|multi|doc|m-11-1869|0",
+  "label": "PARTLY",
+  "reason": "Medication changes shown; skilled need inferred"
+ },
+ {
+  "id": "r3|multi|doc|m-11-1869|1",
+  "label": "SUPPORTED",
+  "reason": "Nurses contacted doctor about urine sample; matches policy example"
+ },
+ {
+  "id": "r3|multi|doc|m-11-1869|2",
+  "label": "PARTLY",
+  "reason": "Dose changes shown; nurse-reported logs not in fact"
+ },
+ {
+  "id": "r3|multi|doc|m-11-1967|0",
+  "label": "SUPPORTED",
+  "reason": "Feb 12-17 stay counts more than three days"
+ },
+ {
+  "id": "r3|multi|doc|m-11-1967|1",
+  "label": "SUPPORTED",
+  "reason": "Discharge-day SNF admission within 30 days"
+ },
+ {
+  "id": "r3|multi|doc|m-11-1967|2",
+  "label": "SUPPORTED",
+  "reason": "Physician-ordered skilled nursing for hematuria monitoring documented"
+ },
+ {
+  "id": "r3|multi|doc|m-12-1140|0",
+  "label": "SUPPORTED",
+  "reason": "Aug 16-25 stay exceeds three days"
+ },
+ {
+  "id": "r3|multi|doc|m-12-1140|1",
+  "label": "SUPPORTED",
+  "reason": "Admission on discharge date within 30 days"
+ },
+ {
+  "id": "r3|multi|doc|m-12-1140|2",
+  "label": "PARTLY",
+  "reason": "Services received stated; recording and SNF provision inferred"
+ },
+ {
+  "id": "r3|multi|doc|m_10_1771|0",
+  "label": "SUPPORTED",
+  "reason": "Fact quotes only appellant assertion; policy requires written plan"
+ },
+ {
+  "id": "r3|multi|doc|m_10_1771|1",
+  "label": "SUPPORTED",
+  "reason": "Fact relays appellant claim; policy requires documentation"
+ },
+ {
+  "id": "r3|multi|doc|nj_dept_humanservices22|0",
+  "label": "SUPPORTED",
+  "reason": "Design process quoted as assertion; policy requires documentation"
+ },
+ {
+  "id": "r3|multi|doc|nj_dept_humanservices22|1",
+  "label": "SUPPORTED",
+  "reason": "PT notes cited without content; policy requires documented reason"
+ },
+ {
+  "id": "r3|multi|doc|nj_dhs_commiss_case|0",
+  "label": "PARTLY",
+  "reason": "Abscesses noted; 'ostomy complications' and skilled need inferred"
+ },
+ {
+  "id": "r3|multi|doc|nj_dhs_commiss_case|1",
+  "label": "PARTLY",
+  "reason": "Only fistula in fact; tissue in urostomy not shown"
+ },
+ {
+  "id": "r3|multi|doc|nj_dhs_commiss_case|2",
+  "label": "PARTLY",
+  "reason": "Hospitalization shown; recurrent infections not in fact"
+ },
+ {
+  "id": "r3|multi|doc|ny|0",
+  "label": "SUPPORTED",
+  "reason": "Fact only argument; policy sets hour limits"
+ },
+ {
+  "id": "r3|multi|doc|ny|1",
+  "label": "SUPPORTED",
+  "reason": "Fact shows argument only; policy requires qualifying criteria"
+ },
+ {
+  "id": "r3|multi|doc|roman_eagle_memorial_home|0",
+  "label": "SUPPORTED",
+  "reason": "Immediate admission after discharge matches policy"
+ },
+ {
+  "id": "r3|multi|doc|roman_eagle_memorial_home|1",
+  "label": "PARTLY",
+  "reason": "Noncertified bed shown; 'no certified bed' not in this fact"
+ },
+ {
+  "id": "r3|multi|doc|roman_eagle_memorial_home|2",
+  "label": "PARTLY",
+  "reason": "Orders shown; 'signed' and link to hospital condition inferred"
+ },
+ {
+  "id": "r3|multi|doc|stfrances_memorial|0",
+  "label": "SUPPORTED",
+  "reason": "Fact is procedural issue; policy requires individual assessment"
+ },
+ {
+  "id": "r3|multi|doc|stfrances_memorial|1",
+  "label": "PARTLY",
+  "reason": "Testimony shown; claim dates not in fact"
+ },
+ {
+  "id": "r3|multi|doc|twin_maples_health_care_case|0",
+  "label": "PARTLY",
+  "reason": "Monitoring shown; careful documentation not evidenced"
+ },
+ {
+  "id": "r3|multi|doc|twin_maples_health_care_case|1",
+  "label": "PARTLY",
+  "reason": "Pneumonia diagnosis shown; antibiotic not in fact"
+ },
+ {
+  "id": "r3|multi|doc|twin_maples_health_care_case|2",
+  "label": "NOT_SUPPORTED",
+  "reason": "Fact gives only SNF admission date; no hospital stay"
+ },
+ {
+  "id": "r3|multi|doc|twin_maples_health_care_case|3",
+  "label": "PARTLY",
+  "reason": "PT frequency shown; daily evidence and from-admission unstated"
+ },
+ {
+  "id": "r3|multi|doc|valley_presbyterian|0",
+  "label": "PARTLY",
+  "reason": "Fact shows admission; 48-hour requirement not in policy quote"
+ },
+ {
+  "id": "r3|multi|doc|valley_presbyterian|1",
+  "label": "SUPPORTED",
+  "reason": "Policy lists documentation; fact shows only functional status"
+ },
+ {
+  "id": "r3|single|base|11-1343|0",
+  "label": "SUPPORTED",
+  "reason": "Fact states PT referral for illness-related decline; policy matches"
+ },
+ {
+  "id": "r3|single|base|11-1343|1",
+  "label": "SUPPORTED",
+  "reason": "Fact and policy align; unknown extent acknowledged"
+ },
+ {
+  "id": "r3|single|base|11-1546|0",
+  "label": "SUPPORTED",
+  "reason": "Stay of 12 days exceeds three-day requirement"
+ },
+ {
+  "id": "r3|single|base|11-1546|1",
+  "label": "SUPPORTED",
+  "reason": "Policy relies on medical evidence; fact shows adjustments"
+ },
+ {
+  "id": "r3|single|base|baptist_health_care|0",
+  "label": "SUPPORTED",
+  "reason": "Policy denies unneeded admissions; QIO flagged short stays"
+ },
+ {
+  "id": "r3|single|base|baptist_health_care|1",
+  "label": "SUPPORTED",
+  "reason": "Fact states no knowledge; policy supports limitation of liability"
+ },
+ {
+  "id": "r3|single|base|conn_dept_social_services|0",
+  "label": "SUPPORTED",
+  "reason": "Fact is procedural; qualifying stay unknown"
+ },
+ {
+  "id": "r3|single|base|connecticut11|0",
+  "label": "SUPPORTED",
+  "reason": "Qualifying stay stated; coverage of period unknown"
+ },
+ {
+  "id": "r3|single|base|connecticut11|1",
+  "label": "PARTLY",
+  "reason": "Plateau not in quoted fact; non-covered stay policy supports"
+ },
+ {
+  "id": "r3|single|base|gr|0",
+  "label": "SUPPORTED",
+  "reason": "Policy says facility duties not optional Medicare substitute"
+ },
+ {
+  "id": "r3|single|base|gr|1",
+  "label": "SUPPORTED",
+  "reason": "Policy conditional; ALF status unknown"
+ },
+ {
+  "id": "r3|single|base|m-10-1884|0",
+  "label": "SUPPORTED",
+  "reason": "Therapy discharge dates and skilled definition fit"
+ },
+ {
+  "id": "r3|single|base|m-10-1884|1",
+  "label": "SUPPORTED",
+  "reason": "Billed dates follow therapy discharge; policy requires related condition"
+ },
+ {
+  "id": "r3|single|base|m-11-1869|0",
+  "label": "PARTLY",
+  "reason": "Insulin changes shown; policy quote only requires documentation"
+ },
+ {
+  "id": "r3|single|base|m-11-1869|1",
+  "label": "PARTLY",
+  "reason": "Noncompliance shown; policy fragment doesn't state coverage"
+ },
+ {
+  "id": "r3|single|base|m-11-1967|0",
+  "label": "PARTLY",
+  "reason": "Hospital dates shown; transfer timing not in fact"
+ },
+ {
+  "id": "r3|single|base|m-11-1967|1",
+  "label": "PARTLY",
+  "reason": "Order shown; policy quote truncated, daily need unstated"
+ },
+ {
+  "id": "r3|single|base|m-12-1140|0",
+  "label": "SUPPORTED",
+  "reason": "Multi-day stay and admission within 30 days"
+ },
+ {
+  "id": "r3|single|base|m-12-1140|1",
+  "label": "SUPPORTED",
+  "reason": "Readmission rule quoted; fact shows readmission; whether done unknown"
+ },
+ {
+  "id": "r3|single|base|m-12-1140|2",
+  "label": "PARTLY",
+  "reason": "Vital-sign reason shown; policy fragment on complexity only"
+ },
+ {
+  "id": "r3|single|base|m_10_1771|0",
+  "label": "SUPPORTED",
+  "reason": "Policy says coverage not tied to improvement"
+ },
+ {
+  "id": "r3|single|base|m_10_1771|1",
+  "label": "PARTLY",
+  "reason": "Exercises shown; supervision requirement not shown"
+ },
+ {
+  "id": "r3|single|base|m_10_1771|2",
+  "label": "SUPPORTED",
+  "reason": "Concession of goals met fits policy on complexity"
+ },
+ {
+  "id": "r3|single|base|nj_dept_humanservices22|0",
+  "label": "PARTLY",
+  "reason": "Stair lift fact; policy on stair teaching inferred"
+ },
+ {
+  "id": "r3|single|base|nj_dept_humanservices22|1",
+  "label": "PARTLY",
+  "reason": "Goal of aide program shown; solely-training not shown"
+ },
+ {
+  "id": "r3|single|base|nj_dept_humanservices22|2",
+  "label": "SUPPORTED",
+  "reason": "Policy states maintenance covered if skilled care required"
+ },
+ {
+  "id": "r3|single|base|nj_dhs_commiss_case|0",
+  "label": "SUPPORTED",
+  "reason": "Fact and policy match on routine ostomy care"
+ },
+ {
+  "id": "r3|single|base|nj_dhs_commiss_case|1",
+  "label": "SUPPORTED",
+  "reason": "Complications policy with documentation matches hospitalization"
+ },
+ {
+  "id": "r3|single|base|ny|0",
+  "label": "PARTLY",
+  "reason": "Fact has 28-35 hours; case-by-case not in policy"
+ },
+ {
+  "id": "r3|single|base|ny|1",
+  "label": "SUPPORTED",
+  "reason": "Policy says 35 hours covered if reasonable and necessary"
+ },
+ {
+  "id": "r3|single|base|ny|2",
+  "label": "SUPPORTED",
+  "reason": "Policy requires confined to home; eligibility unknown"
+ },
+ {
+  "id": "r3|single|base|roman_eagle_memorial_home|0",
+  "label": "SUPPORTED",
+  "reason": "Noncertified bed fact fits limitation-of-liability policy"
+ },
+ {
+  "id": "r3|single|base|roman_eagle_memorial_home|1",
+  "label": "SUPPORTED",
+  "reason": "Policy covers other reasons for failing to place in bed"
+ },
+ {
+  "id": "r3|single|base|roman_eagle_memorial_home|2",
+  "label": "SUPPORTED",
+  "reason": "Fact states qualifying stay; policy defines requirement"
+ },
+ {
+  "id": "r3|single|base|stfrances_memorial|0",
+  "label": "SUPPORTED",
+  "reason": "Policy quote conditions IRF coverage; facts show no criteria"
+ },
+ {
+  "id": "r3|single|base|stfrances_memorial|1",
+  "label": "SUPPORTED",
+  "reason": "Policy quote fits; fact shows only appeal; unknown"
+ },
+ {
+  "id": "r3|single|base|twin_maples_health_care_case|0",
+  "label": "SUPPORTED",
+  "reason": "Policy says observation skilled with likely change"
+ },
+ {
+  "id": "r3|single|base|twin_maples_health_care_case|1",
+  "label": "SUPPORTED",
+  "reason": "Haldol reduction fits reasonable treatment-change potential"
+ },
+ {
+  "id": "r3|single|base|twin_maples_health_care_case|2",
+  "label": "PARTLY",
+  "reason": "PT frequency shown; policy on improvement unrelated to PT"
+ },
+ {
+  "id": "r3|single|base|twin_maples_health_care_case|3",
+  "label": "NOT_SUPPORTED",
+  "reason": "Fact shows SNF admission only; hospital discharge date absent"
+ },
+ {
+  "id": "r3|single|base|valley_presbyterian|0",
+  "label": "PARTLY",
+  "reason": "Functional deficits shown; complexity of needs inferred"
+ },
+ {
+  "id": "r3|single|base|valley_presbyterian|1",
+  "label": "SUPPORTED",
+  "reason": "Fact notes discussion; policy requires individual assessment"
+ },
+ {
+  "id": "r3|single|base|valley_presbyterian|2",
+  "label": "SUPPORTED",
+  "reason": "Fact shows admission only; screening unknown"
+ }
+]

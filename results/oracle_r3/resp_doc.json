@@ -1,0 +1,176 @@
+[
+ {
+  "case_id": "11-1343",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled rehabilitation services needed",
+    "passage_id": 602,
+    "quote": "The patient requires skilled nursing services or skilled rehabilitation services",
+    "case_fact": "D.E. was referred to PT due to decreased strength and decreased ADLs due to illness."
+   },
+   {
+    "claim": "Services follow a qualifying hospital stay",
+    "passage_id": 602,
+    "quote": "the services are rendered for a condition for which the patient received inpatient hospital services",
+    "case_fact": "D.E. had a prior hospital stay for a diagnosis of congestive heart failure from August 23, 2009, to August 26, 2009."
+   }
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Fluctuating vital signs documented, supporting skilled observation",
+    "passage_id": 628,
+    "quote": "abnormal/fluctuating vital signs, weight changes, edema",
+    "case_fact": "On at least thirteen occasions the beneficiary’s medications had to be adjusted due to fluctuations in his blood pressure and heart rate."
+   },
+   {
+    "claim": "Record shows potential for treatment changes",
+    "passage_id": 629,
+    "quote": "reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment",
+    "case_fact": "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings"
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Nurse visit notes document assessment, matching required clinical notes",
+    "passage_id": 229,
+    "quote": "the home health clinical notes must document as appropriate",
+    "case_fact": "The nurses’ visit notes for this period also indicate that the nurses assessed the beneficiary’s reports of changes in her urine."
+   },
+   {
+    "claim": "Documented observation led to treatment changes",
+    "passage_id": 237,
+    "quote": "reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment",
+    "case_fact": "the beneficiary’s insulin dosage was adjusted numerous times during this period"
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Physician order for skilled nursing present",
+    "passage_id": 623,
+    "quote": "based on the physician’s orders and supporting documentation",
+    "case_fact": "a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots"
+   },
+   {
+    "claim": "Abnormal lab values documented",
+    "passage_id": 628,
+    "quote": "abnormal/fluctuating lab values",
+    "case_fact": "Laboratory results were abnormal."
+   }
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Therapy by a therapist alone does not make a service skilled; appellant relies on encouragement and reassurance",
+    "passage_id": 642,
+    "quote": "A service is not considered a skilled therapy service merely because it is furnished by a therapist",
+    "case_fact": "encouragement and reassurance does not prevent her from being a candidate for therapy."
+   },
+   {
+    "claim": "Initial PT evaluation and physician-approved written plan are not shown in the case facts, only appellant assertions",
+    "passage_id": 637,
+    "quote": "approved by the physician after any needed consultation with the qualified physical therapist",
+    "case_fact": "The appellant asserts that the beneficiary made steady progress throughout physical therapy"
+   },
+   {
+    "claim": "Goals were met, so further therapy results are insignificant",
+    "passage_id": 639,
+    "quote": "Physical therapy services are not reasonable and necessary and would not be covered if the expected results are insignificant",
+    "case_fact": "The appellant also concedes that the beneficiary met her goals by September 11, 2008"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Visit records must reflect need for skilled care; PT notes are cited but contents not given",
+    "passage_id": 287,
+    "quote": "the home health records for every visit will reflect the need for the skilled medical care provided",
+    "case_fact": "at 133 (PT notes of February 7, 2006)"
+   },
+   {
+    "claim": "Maintenance program design requires documentation; only appellant assertion is given",
+    "passage_id": 284,
+    "quote": "the specialized skills, knowledge, and judgment of a qualified therapist are required to develop a maintenance program",
+    "case_fact": "“in the process of designing an appropriate home exercise program”"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Fistula is a wound type covered as skilled nursing care",
+    "passage_id": 258,
+    "quote": "pressure sores, open surgical sites, fistulas, tube sites, and tumor erosion sites",
+    "case_fact": "The beneficiary developed a fistula near the colostomy site."
+   },
+   {
+    "claim": "Ostomy care teaching is skilled; beneficiary has ostomies",
+    "passage_id": 247,
+    "quote": "Teaching care for a recent ostomy or where reinforcement of ostomy care is needed",
+    "case_fact": "His bowel and bladder functions are maintained by colostomy and urostomy."
+   }
+  ]
+ },
+ {
+  "case_id": "ny",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Case facts contain only appellant arguments, no visit records",
+    "passage_id": 229,
+    "quote": "the home health records for every visit will reflect the need for the skilled medical care provided",
+    "case_fact": "the appellant asserts that coverage is available for home health aide or skilled nursing services on a part-time basis"
+   }
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Required IRF documentation is not described in the case facts",
+    "passage_id": 4,
+    "quote": "110.1.2 - Required Post-Admission Physician Evaluation",
+    "case_fact": "This appeal involves IRF services provided by the appellant to five beneficiaries"
+   }
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Ability to participate in intensive therapy not settled by the facts",
+    "passage_id": 71,
+    "quote": "patients must be able to actively participate in and benefit from the intensive rehabilitation therapy program",
+    "case_fact": "experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid."
+   },
+   {
+    "claim": "Required plan of care and physician evaluation not shown",
+    "passage_id": 4,
+    "quote": "110.1.3 - Required Individualized Overall Plan of Care",
+    "case_fact": "Upon admission, the beneficiary’s functional status was as follows"
+   }
+  ]
+ }
+]

@@ -1,0 +1,236 @@
+[
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires multiple therapy disciplines, one of them PT or OT. The case shows only a discharge to inpatient rehabilitation and earlier speech therapy. It does not document which therapies were needed, so this criterion is not settled.",
+    "passage_id": 83,
+    "quote": "The patient must require the active and ongoing therapeutic intervention of multiple therapy disciplines",
+    "case_fact": "He was discharged to the inpatient rehabilitation unit on hospital day 7 with a plan to remain off all anticoagulation therapies."
+   },
+   {
+    "claim": "The policy requires an intensive therapy program, generally 3 hours a day at least 5 days a week. The case gives no information on the intensity of therapy needed or provided, so this is not settled.",
+    "passage_id": 83,
+    "quote": "this intensive rehabilitation therapy program generally consists of at least 3 hours of therapy per day at least 5 days per week",
+    "case_fact": "He recovered well, with mild expressive aphasia and weakness; however, his contralateral bradykinesia and rigidity did again worsen as the hemorrhage resolved."
+   },
+   {
+    "claim": "The policy requires a reasonable expectation of measurable improvement and active participation at admission. Neurologic examinations slowly improved, but he stayed intermittently confused. The case does not document his ability to participate in intensive therapy or an expected improvement within a set period, so this is not settled.",
+    "passage_id": 84,
+    "quote": "can reasonably be expected to make measurable improvement",
+    "case_fact": "the results of the patient's neurologic examinations slowly improved, although he remained intermittently confused."
+   }
+  ],
+  "case_id": "pmc_3556834_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires documented rehabilitation-physician visits at least 3 days per week during an IRF stay. The case shows a transfer to a stroke rehabilitation unit but does not document physician visit frequency or IRF status, so this point cannot be settled.",
+    "passage_id": 92,
+    "quote": "documented face-to-face visits from a rehabilitation physician at least 3 days per week",
+    "case_fact": "She was transferred to Stroke Rehabilitation Unit in the district hospital on the 8th postoperative day"
+   },
+   {
+    "claim": "The policy requires a reasonable expectation of measurable, practical functional improvement, documented in the IRF record. The case describes neurological recovery with residual swallowing difficulty, but no IRF record or expected-improvement goals are provided, so this is not settled.",
+    "passage_id": 103,
+    "quote": "a reasonable expectation that a measurable, practical improvement",
+    "case_fact": "reasonable neurological recovery, including resolution of left hemiparesis, although swallowing difficulties remained."
+   },
+   {
+    "claim": "The policy requires an intensive, coordinated interdisciplinary rehabilitation approach. The case does not describe the intensity or interdisciplinary nature of the rehabilitation she received, so this is not settled.",
+    "passage_id": 85,
+    "quote": "The patient must require an intensive and coordinated interdisciplinary approach to providing rehabilitation",
+    "case_fact": "She was transferred to Stroke Rehabilitation Unit in the district hospital on the 8th postoperative day"
+   }
+  ],
+  "case_id": "pmc_3652732_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy treats skilled observation after surgery as reasonable and necessary in a SNF. The case shows only that the patient went to a SNF after a 25-day hospital stay. It does not say what skilled observation or services he needs there.",
+    "passage_id": 627,
+    "quote": "Skilled observation and monitoring of the patient for possible adverse reaction to the operative procedure",
+    "case_fact": "the patient was discharged to a skilled nursing facility for further care."
+   },
+   {
+    "claim": "The policy requires the record to document the skilled services and the rationale for them. The case gives no SNF care plan or skilled-service need. It says only that the patient was in stable condition at ICU transfer.",
+    "passage_id": 620,
+    "quote": "Therefore the patient\u2019s medical record must document as appropriate",
+    "case_fact": "the patient remained intubated and was transferred to the ICU in stable condition."
+   },
+   {
+    "claim": "The policy requires that services be reasonable and necessary for the patient's condition. The case does not describe any SNF services or their amount, frequency, or duration, so this criterion cannot be decided.",
+    "passage_id": 638,
+    "quote": "The services must be reasonable and necessary for the treatment of the patient\u2019s condition",
+    "case_fact": "After a 25-day hospital course, the patient was discharged to a skilled nursing facility for further care."
+   }
+  ],
+  "case_id": "pmc_3687721_1"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The acute renal failure treated with continuous hemodiafiltration fits the policy's description of acute dialysis, which is usually an inpatient service. This supports inpatient hospital coverage for the acute stay. The passages set no other clinical criteria for the surgery itself.",
+    "passage_id": 14,
+    "quote": "patients undergoing short-term dialysis until their kidneys recover from an acute illness (acute dialysis)",
+    "case_fact": "continuous hemodiafiltration, polymyxin B hemoperfusion, and blood transfusion, was continued to address circulatory failure and acute renal failure due to sepsis."
+   },
+   {
+    "claim": "UNKNOWN whether the inpatient rehabilitation facility criteria are met. The case records only a transfer to a rehabilitation hospital and gives no information on the patient's therapy disciplines or intensity.",
+    "passage_id": 83,
+    "quote": "The patient must require the active and ongoing therapeutic intervention of multiple therapy disciplines",
+    "case_fact": "she was then transferred to a rehabilitation hospital on postoperative day 71."
+   }
+  ],
+  "case_id": "pmc_3906958_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires a reasonable expectation of active participation in intensive therapy and significant benefit. The case says consciousness did not recover, which raises doubt. It does not document her status or expected participation at rehabilitation admission, so this cannot be settled.",
+    "passage_id": 84,
+    "quote": "patient must reasonably be expected to actively participate in, and benefit significantly from, the intensive rehabilitation therapy program",
+    "case_fact": "Although the postoperative course was uneventful, the patient's consciousness did not recover."
+   },
+   {
+    "claim": "Measurable improvement of practical value within a prescribed period is required. The case gives no prognosis or functional-gain expectation, and does not say the receiving facility is an inpatient rehabilitation facility (IRF).",
+    "passage_id": 84,
+    "quote": "the patient can reasonably be expected to make measurable improvement",
+    "case_fact": "Five months after admission, the patient was discharged to a rehabilitation hospital."
+   },
+   {
+    "claim": "The policy requires documented medical-management and rehabilitation needs that call for an inpatient stay and close physician involvement. The case gives no information on rehabilitation-stay documentation or physician visits.",
+    "passage_id": 92,
+    "quote": "the patient's medical management and rehabilitation needs require an inpatient stay and close physician involvement",
+    "case_fact": "Five months after admission, the patient was discharged to a rehabilitation hospital."
+   }
+  ],
+  "case_id": "pmc_4480245_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The hospital stay appears to have lasted several days and was for treatment of active conditions, so the qualifying-stay requirement is likely met. The case does not state the admission and discharge dates, so the exact length of stay is not confirmed.",
+    "passage_id": 573,
+    "quote": "Medical necessity will generally be presumed to exist.",
+    "case_fact": "Clinically, the patient was improving until Hospital Day 5"
+   },
+   {
+    "claim": "Whether skilled physical therapy is reasonable and necessary cannot be determined. The case states only that she went to a facility for further physical therapy. It gives no expected results, duration, or need for a skilled therapist.",
+    "passage_id": 639,
+    "quote": "Physical therapy services are not reasonable and necessary and would not be covered if the expected results are insignificant",
+    "case_fact": "was discharged to a subacute nursing facility for further physical therapy."
+   },
+   {
+    "claim": "The policy requires a documented rationale for skilled care. The case facts describe the hospital course but contain no SNF skilled-service documentation or plan of care.",
+    "passage_id": 620,
+    "quote": "The history and physical exam pertinent to the patient\u2019s care",
+    "case_fact": "The patient had no further episodes of confusion and lethargy since being discharged."
+   }
+  ],
+  "case_id": "pmc_4887827_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The prior hospital stay was long and for serious conditions, and the policy presumes a qualifying stay was medically necessary. The case does not say the nursing home is a SNF or that Medicare SNF coverage was requested, so the policy's 3-day test cannot be fully applied.",
+    "passage_id": 573,
+    "quote": "Medical necessity will generally be presumed to exist.",
+    "case_fact": "She recovered slowly and was discharged to a nursing home after two weeks of hospitalization."
+   },
+   {
+    "claim": "The policy requires documentation of skilled nursing services needed after discharge. The case lists oral antimicrobials at the nursing home but does not describe any daily skilled nursing or rehabilitation need, so this criterion is not settled.",
+    "passage_id": 627,
+    "quote": "The medical documentation must describe the skilled services that require the involvement of nursing personnel",
+    "case_fact": "She was later discharged to a nursing home on oral levofloxacin, clindamycin, and fluconazole pending identification of the yeast."
+   },
+   {
+    "claim": "The policy requires that the amount, frequency, and duration of services be reasonable. The case does not give the services provided or their amount, frequency, or duration, so this is unknown.",
+    "passage_id": 638,
+    "quote": "the amount, frequency, and duration of the services must be reasonable.",
+    "case_fact": "She remained clinically stable at one-year follow-up visit."
+   }
+  ],
+  "case_id": "pmc_5039271_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires documentation of the specific skilled services that need nursing personnel. The case says only that the patient went to a SNF and does not describe any skilled services there, so this point cannot be settled.",
+    "passage_id": 627,
+    "quote": "The medical documentation must describe the skilled services that require the involvement of nursing personnel to promote the patient's recovery and medical safety",
+    "case_fact": "He was ultimately discharged to a skilled nursing facility."
+   },
+   {
+    "claim": "Timely SNF admission after hospital discharge is required, and a covered level of care must be needed within that window. The case gives no discharge or admission dates and no SNF care plan, so the 30-day requirement cannot be assessed.",
+    "passage_id": 580,
+    "quote": "an individual who is admitted to a SNF within 30 days after discharge from a hospital",
+    "case_fact": "He was ultimately discharged to a skilled nursing facility."
+   },
+   {
+    "claim": "Persistent neurologic deficits suggest a possible ongoing need for skilled observation, but the case does not say what daily skilled care or monitoring is required. The policy's stabilization example is not clearly met or unmet.",
+    "passage_id": 627,
+    "quote": "skilled observation is reasonable and necessary as mobilization is initiated, until the patient\u2019s treatment regimen is essentially stabilized.",
+    "case_fact": "However, his other neurologic deficits persisted."
+   }
+  ],
+  "case_id": "pmc_5698783_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires a reasonable expectation, documented at IRF admission, that the patient needs active, ongoing therapy from multiple disciplines, one of them PT or OT. The case facts say only that he moved to a rehabilitation hospital and describe no therapy needs, so this criterion cannot be confirmed.",
+    "passage_id": 83,
+    "quote": "The patient must require the active and ongoing therapeutic intervention of multiple therapy disciplines",
+    "case_fact": "The patient recovered and was moved to a rehabilitation hospital on POD 66 following his first surgery."
+   },
+   {
+    "claim": "The policy generally requires an intensive rehabilitation therapy program of about 3 hours per day, 5 days per week. The case does not say whether the patient could tolerate or take part in this. He had a continuously disturbed mental state and difficulty with ambulation, which raises doubt, but the case does not settle the point.",
+    "passage_id": 83,
+    "quote": "generally require an intensive rehabilitation therapy program",
+    "case_fact": "As ambulation and oral intake were difficult, due to a continuously disturbed mental state, enteral feeding was continued."
+   },
+   {
+    "claim": "The policy allows brief breaks in therapy only when they are documented and the initial expectation of participation was based on diligent preadmission screening. The case contains no IRF preadmission screening, plan of care, or admission documentation, so this cannot be evaluated.",
+    "passage_id": 90,
+    "quote": "based on a diligent preadmission screening, post- admission physician evaluation, and overall plan of care",
+    "case_fact": "The patient recovered and was moved to a rehabilitation hospital on POD 66 following his first surgery."
+   }
+  ],
+  "case_id": "pmc_5891105_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The IRF criterion requires multiple therapy disciplines, one of them PT or OT. The case documents only physiotherapy and does not say whether the rehabilitation hospital is an IRF or whether multiple disciplines were needed. This point is not settled.",
+    "passage_id": 83,
+    "quote": "The patient must require the active and ongoing therapeutic intervention of multiple therapy disciplines",
+    "case_fact": "His physiotherapy rehabilitation continued for 2 months, and he was transferred to a rehabilitation hospital on day 201 of hospitalization."
+   },
+   {
+    "claim": "The IRF criterion requires an intensive therapy program, typically 3 hours a day at least 5 days a week. The case gives no therapy hours or intensity for the post-transfer rehabilitation, so this cannot be determined.",
+    "passage_id": 87,
+    "quote": "intensive therapies at least 3 hours per day at least 5 days per week",
+    "case_fact": "His physiotherapy rehabilitation continued for 2 months, and he was transferred to a rehabilitation hospital on day 201 of hospitalization."
+   },
+   {
+    "claim": "The policy covers inpatient hospital services for patients with hospital insurance. The case describes a long inpatient stay but does not state Medicare Part A entitlement, an admission order or certification, so coverage cannot be confirmed.",
+    "passage_id": 9,
+    "quote": "Patients covered under hospital insurance are entitled to have payment made on their behalf for inpatient hospital services.",
+    "case_fact": "He was discharged from the ICU to the general ward on ICU day 127."
+   }
+  ],
+  "case_id": "pmc_6182792_1"
+ }
+]

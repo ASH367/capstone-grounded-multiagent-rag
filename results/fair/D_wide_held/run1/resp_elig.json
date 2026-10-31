@@ -1,0 +1,458 @@
+[
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "SNF level-of-care is a covered category, but it requires a daily skilled service. Intermittent skilled need would not qualify, and the facts do not settle whether the daily skilled need was met.",
+    "passage_id": 603,
+    "quote": "payment for a SNF level of care could not be made if a patient needs an intermittent rather than daily skilled service",
+    "case_fact": "For example, payment for a SNF level of care could not be made if a patient needs an intermittent rather than daily skilled service."
+   },
+   {
+    "claim": "Coverage turns first on whether a skilled need exists. The contractor found no documentation of daily skilled nursing, and the therapy was found not reasonable and necessary, so the basic skilled-care eligibility condition is unresolved or disputed.",
+    "passage_id": 603,
+    "quote": "the A/B MAC (A) first considers whether a patient needs skilled care",
+    "case_fact": "after finding that the record did not contain documentation to support a finding for medically reasonable and necessary daily SN services."
+   },
+   {
+    "claim": "Physician certification and recertification are required for payment. The case facts show signed physician therapy orders but no explicit certification or recertification statement, so certification is not established.",
+    "passage_id": 661,
+    "quote": "There is no requirement for a specific procedure or form",
+    "case_fact": "the record contains written orders signed by D.E.\u2019s physician with specific and detailed instructions, for both PT and ST, dated August 28, 2009."
+   },
+   {
+    "claim": "An MDS assessment is required for payment during a SNF Part A stay. The case facts indicate MDS-based RUG classification, which suggests this requirement was addressed.",
+    "passage_id": 603,
+    "quote": "the facility must complete an MDS",
+    "case_fact": "These groups are assigned using MDS 2.0 resident assessment data."
+   }
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The policy requires a 3-day hospital stay as a technical eligibility condition. The submitted hospital records cover a stay of about 12 days (Dec 15-27, 2009), so this condition appears satisfied.",
+    "passage_id": 598,
+    "quote": "The beneficiary must meet technical eligibility requirements (e.g., a 3-day hospital stay, etc.)",
+    "case_fact": "hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay at *** *** Hospital."
+   },
+   {
+    "claim": "Skilled observation and assessment is a covered type of service. Fluctuating vital signs justify it, and the case describes repeated medication adjustments for fluctuating blood pressure and heart rate.",
+    "passage_id": 628,
+    "quote": "Such signs and symptoms as abnormal/fluctuating vital signs, weight changes, edema, symptoms of drug toxicity",
+    "case_fact": "On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate."
+   },
+   {
+    "claim": "UNKNOWN: the facts do not show whether the SNF admission followed the hospital discharge directly or within 30 days. They also do not show physician certification. The February 2010 IV-fluid dates are outside the hospital stay dates, so the presumption of coverage cannot be confirmed and coverage would rest on the medical evidence.",
+    "passage_id": 608,
+    "quote": "If the beneficiary is discharged from the hospital to a setting other than the SNF, the presumption of coverage does not apply",
+    "case_fact": "The beneficiary became sufficiently dehydrated to require intravenous (IV) fluids from February 15, 2010, through February 25, 2010."
+   }
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The policy covers inpatient hospital care only where hospitalization is needed. Here the QIC found the documentation does not support the medical necessity of the acute inpatient stays, so the basic inpatient-eligibility condition is not shown to be met.",
+    "passage_id": 10,
+    "quote": "If care is noncovered because a patient does not need to be hospitalized, the A/B MAC Part A denies the admission",
+    "case_fact": "the medical documentation in each case does not support the medical necessity for the acute hospitalizations."
+   },
+   {
+    "claim": "Patient status (inpatient vs. outpatient) is the threshold question. The RAC found the services belonged in an outpatient setting. The policy treats short-stay patients as outpatients, but the case facts do not state the expected length of stay, so this finding rests on the RAC determination alone.",
+    "passage_id": 14,
+    "quote": "expected to keep them in the hospital for only a few hours (less than 24), they are considered outpatients for coverage purposes",
+    "case_fact": "determined that the services should have been provided to the beneficiaries in an outpatient setting"
+   }
+  ],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The case facts describe only a procedural matter (a late request for an extension of time to file an appellant's brief). They say nothing about a SNF service, hospital stay, transfer timing, or skilled care, so the passage's technical eligibility requirements cannot be assessed.",
+    "passage_id": 598,
+    "quote": "The beneficiary must meet technical eligibility requirements (e.g., a 3-day hospital stay, etc.), services must be reasonable and necessary",
+    "case_fact": "the appellant filed, by telefacsimile, a request for an additional extension of time, to January 10, 2010, to brief the case."
+   },
+   {
+    "claim": "The policy covers post-hospital extended care that follows a qualifying inpatient stay. The case facts give no hospital stay, discharge date, or SNF admission, so the 3-day stay and 30-day transfer conditions cannot be confirmed or refuted.",
+    "passage_id": 571,
+    "quote": "the individual must have been an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days.",
+    "case_fact": "The appellant\u2019s brief was received after January 10, 2010, by telefacsimile."
+   }
+  ],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary was admitted to the SNF after a hospital stay described as qualifying, which meets the prior-hospitalization eligibility condition. The 3-day length is not stated in the facts and relies on the 'qualifying' label.",
+    "passage_id": 563,
+    "quote": "The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days.",
+    "case_fact": "admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium"
+   },
+   {
+    "claim": "The SNF care appears tied to conditions treated in the hospital (delirium, UTI, dehydration, dementia). Skilled therapies were furnished after admission, which satisfies the condition-relatedness requirement.",
+    "passage_id": 563,
+    "quote": "the beneficiary must require SNF care for a condition that was treated during the qualifying hospital stay",
+    "case_fact": "The beneficiary received skilled physical and occupational therapies after admission."
+   },
+   {
+    "claim": "The 30-day transfer timing cannot be confirmed because the hospital discharge date is not given. The SNF admission is described as following the qualifying stay, so the timing is presumed met but UNKNOWN. Whether skilled care was needed for the Feb 25\u2013Mar 26 billed period is a level-of-care question, not settled here.",
+    "passage_id": 563,
+    "quote": "The beneficiary must also have been transferred to a participating SNF within 30 days after discharge from the hospital",
+    "case_fact": "admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium"
+   }
+  ],
+  "case_id": "connecticut11"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Criterion one of the homebound test (needing a supportive device to leave the residence) appears met, because the beneficiary relies on a power wheelchair.",
+    "passage_id": 178,
+    "quote": "Because of illness or injury, need the aid of supportive devices such as crutches, canes, wheelchairs, and walkers",
+    "case_fact": "relied on a power wheelchair for mobility"
+   },
+   {
+    "claim": "The stroke-related diagnosis and wheelchair use resemble the policy's example of a homebound patient.",
+    "passage_id": 181,
+    "quote": "A patient paralyzed from a stroke who is confined to a wheelchair or requires the aid of crutches in order to walk.",
+    "case_fact": "had a primary diagnosis of cerebrovascular accident complications"
+   },
+   {
+    "claim": "Living in an assisted living facility does not bar home health coverage, but coverage depends on the facility not being primarily engaged in providing medical or skilled care. The record does not say what kind of facility this is.",
+    "passage_id": 186,
+    "quote": "Medicare will cover reasonable and necessary home health care furnished to these individuals",
+    "case_fact": "resided in an assisted living facility"
+   },
+   {
+    "claim": "Criterion two (normal inability to leave home, with considerable and taxing effort) is only partly settled. Absences may be compatible with homebound status if infrequent, short, or for health care, but the extent and nature of this beneficiary's absences are unclear.",
+    "passage_id": 179,
+    "quote": "If the patient does in fact leave the home, the patient may nevertheless be considered homebound if the absences from the home are infrequent",
+    "case_fact": "It is unclear whether the beneficiary merely left his personal room or the entire facility."
+   },
+   {
+    "claim": "The case facts do not show that a physician or allowed practitioner certified that the beneficiary is confined to the home. The only related fact is the appellant's argument about the Plans of Care, so certification is UNKNOWN.",
+    "passage_id": 178,
+    "quote": "the law requires that a physician or allowed practitioner certify in all cases that the patient is confined to his/her home",
+    "case_fact": "Appellant argues that the Plans of Care and the record as a whole support a finding that beneficiary was \u201cconfined to the home.\u201d"
+   }
+  ],
+  "case_id": "gr"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The policy first requires a need for skilled care before SNF level-of-care payment can be considered. The case facts say the resident would no longer require skilled care, so this basic eligibility condition does not appear met.",
+    "passage_id": 603,
+    "quote": "first considers whether a patient needs skilled care",
+    "case_fact": "Resident will no longer require skilled care"
+   },
+   {
+    "claim": "The beneficiary was in hospice during the billed dates. Hospice-SNF services for the terminal condition are handled by the hospice contract, not billed to the A/B MAC. This is consistent with the denial of the SNF claims.",
+    "passage_id": 595,
+    "quote": "Hospices contract with SNFs for services related to the beneficiary\u2019s terminal condition.",
+    "case_fact": "the beneficiary was receiving Medicare-covered hospice services on the dates of service in question"
+   },
+   {
+    "claim": "SNF PPS payment for a hospice patient is possible only for daily skilled care unrelated to the terminal condition. The case facts do not show any such unrelated skilled need, so this exception is not established (UNKNOWN).",
+    "passage_id": 595,
+    "quote": "later requires daily skilled care unrelated to the terminal condition",
+    "case_fact": "The appellant later signed a hospice election for the beneficiary on January 28, 2009."
+   }
+  ],
+  "case_id": "m-10-1884"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled nursing visits to manage a diabetic patient's medication regimen are a type of home health service the policy recognizes as covered.",
+    "passage_id": 232,
+    "quote": "skilled nursing visits for teaching of self-administration and self- management of the medication regimen",
+    "case_fact": "New England Home Care provided home health services (nursing visits) to the beneficiary, who has diabetes and is legally blind."
+   },
+   {
+    "claim": "The policy says skilled care can remain necessary when a patient is stable. The nursing visits therefore are not excluded merely because the patient's condition is stable or chronic.",
+    "passage_id": 228,
+    "quote": "Skilled care may, depending on the unique condition of the patient, continue to be necessary for patients whose condition is stable.",
+    "case_fact": "skilled care may, depending on the unique condition of the patient, continue to be necessary for patients whose condition is stable."
+   },
+   {
+    "claim": "The policy expects each visit's record to show the need for skilled care. The case records show medication changes and compliance problems that the nurses monitored and addressed, which supports skilled need.",
+    "passage_id": 229,
+    "quote": "the home health records for every visit will reflect the need for the skilled medical care provided",
+    "case_fact": "Moreover, the records dated within this period include numerous documented instances of changes in the beneficiary\u2019s medication schedule,"
+   },
+   {
+    "claim": "UNKNOWN: the passages and case facts do not settle homebound status, physician certification, or the plan of care. The record only shows that the contractor allowed part of the period, so these basic conditions cannot be confirmed.",
+    "passage_id": 232,
+    "quote": "A physician has ordered skilled nursing visits",
+    "case_fact": "allowed coverage for the home health nursing visits provided from May 28, 2008 to June 20, 2008"
+   }
+  ],
+  "case_id": "m-11-1869"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled observation and assessment is a covered type of SNF service. The documented abnormal urine changes and lab values fit the policy's examples of signs that can justify it.",
+    "passage_id": 628,
+    "quote": "Such signs and symptoms as abnormal/fluctuating vital signs, weight changes, edema, symptoms of drug toxicity, abnormal/fluctuating lab values",
+    "case_fact": "The beneficiary required and received daily skilled nursing services in the form of skilled observation and assessment"
+   },
+   {
+    "claim": "The SNF admission appears to have directly followed a qualifying hospital stay, so the 30-day transfer timing issue does not arise. The passages do not state the case-mix classifier, so whether the administrative presumption applies is UNKNOWN. Coverage would then rest on the medical evidence, which documents a physician-ordered skilled need.",
+    "passage_id": 612,
+    "quote": "applies to the SNF stay that immediately follows the qualifying hospital stay",
+    "case_fact": "At the time of discharge from the hospital on February 17 (for admission to the SNF)"
+   },
+   {
+    "claim": "A physician documented a need for skilled nursing monitoring, and there was a reasonable probability of further complications such as recurrent hematuria. This supports the basic eligibility conditions for the skilled need.",
+    "passage_id": 628,
+    "quote": "Information from the patient's medical record must document that there is a reasonable potential for a future complication or acute episode",
+    "case_fact": "a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots"
+   }
+  ],
+  "case_id": "m-11-1967"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy covers SNF-level skilled care, including maintenance therapy, without requiring improvement potential. The appellant's improvement-standard argument therefore does not itself make the service ineligible. The case facts do not identify the service, so this does not settle eligibility.",
+    "passage_id": 603,
+    "quote": "Coverage of nursing care and/or therapy to perform a maintenance program does not turn on the presence or absence of an individual\u2019s potential for improvement",
+    "case_fact": "in which the plaintiffs alleged that the Centers for Medicare & Medicaid Services (CMS) wrongly applied an \u201cimprovement standard\u201d"
+   },
+   {
+    "claim": "Eligibility turns first on whether the patient needs skilled care. The case facts say nothing about the patient's condition, the services received, daily need, or SNF stay status, so these basic conditions cannot be confirmed.",
+    "passage_id": 603,
+    "quote": "the A/B MAC (A) first considers whether a patient needs skilled care",
+    "case_fact": "The Jimmo v. Sebelius Settlement Agreement Fact Sheet is not itself authority, but it concisely restates the governing coverage standards"
+   }
+  ],
+  "case_id": "m-12-1140"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Skilled therapy, including speech-language pathology, in a SNF is a type of care the policy covers. J.S.'s dispute concerns SNF Part A coverage for therapy during September 1-18, 2008.",
+    "passage_id": 636,
+    "quote": "including skilled physical therapy, occupational therapy, and speech/language pathology therapy",
+    "case_fact": "Beneficiary J.S. Issues: SNF Coverage (Part A) Dates of Service: September 1-18, 2008"
+   },
+   {
+    "claim": "The policy requires daily skilled rehabilitation (at least 5 days a week). The case facts only state the daily-basis criterion generically and give no actual therapy frequency for J.S., so this condition cannot be confirmed.",
+    "passage_id": 650,
+    "quote": "If therapy services are provided less than 5 days a week, the \u201cdaily\u201d requirement would not be met.",
+    "case_fact": "The patient requires such services on a daily basis;"
+   },
+   {
+    "claim": "The threshold eligibility question is whether the patient needs skilled care. The record says the speech therapy documentation shows no evidence that skilled professionals were needed, which weighs against this condition. The QIC also found no documented prior level of function, so the point is not settled in the patient's favor.",
+    "passage_id": 603,
+    "quote": "first considers whether a patient needs skilled care",
+    "case_fact": "That is, there is no evidence that the performance of the services provided necessitated skilled professionals."
+   }
+  ],
+  "case_id": "m_10_1771"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled nursing for Lupron injections every 90 days is a type of care the policy addresses. The policy says infrequent services under 60-day intervals must be evaluated, not automatically excluded, so this is not categorically outside coverage. Whether documentation justifies a recurring need is not settled by the passages.",
+    "passage_id": 274,
+    "quote": "the Medicare contractor should evaluate each claim involving skilled nursing services furnished less frequently than once every 60 days.",
+    "case_fact": "the physician\u2019s orders specifically call for Lupron injections \u201cq 3 months,\u201d i.e., every 90 days."
+   },
+   {
+    "claim": "Physical therapy for gait and stair training in a patient with impaired walking from a skeletal abnormality is a covered type of skilled PT under the gait training provision.",
+    "passage_id": 291,
+    "quote": "Gait evaluation and training furnished to a patient whose ability to walk has been impaired by neurological, muscular or skeletal abnormality require the skills of a qualified physical therapist",
+    "case_fact": "a skeletal abnormality of uneven leg length further interfering with his ability to ambulate"
+   },
+   {
+    "claim": "Teaching safe stair climbing, such as use of a stair lift, is the type of PT service the policy treats as reasonable and necessary, and is eligible until the goal is reached.",
+    "passage_id": 292,
+    "quote": "Physical therapy would be reasonable and necessary to teach the patient to climb and descend stairs safely.",
+    "case_fact": "the skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift."
+   },
+   {
+    "claim": "Range of motion exercises are covered as skilled PT when part of active treatment for a disease state causing lost mobility. The case describes post-polio-related restricted hip motion, so this eligibility condition appears satisfied for the PT visits.",
+    "passage_id": 293,
+    "quote": "if they are part of an active treatment for a specific disease state, illness, or injury that has resulted in a loss or restriction of mobility",
+    "case_fact": "The range of motion therapy provided was related to a specific loss of function, was not merely passive movement of paralyzed limbs"
+   },
+   {
+    "claim": "For the second beneficiary, special medical complications such as fragility and Ehlers-Danlos Syndrome can make therapist skills necessary even for otherwise unskilled services, so the service type falls within coverage. Homebound status, physician certification details and the visit-level documentation are not settled by the passages (UNKNOWN).",
+    "passage_id": 293,
+    "quote": "because of special medical complications (e.g., susceptible to pathological bone fractures), the skills of a therapist are needed to provide services",
+    "case_fact": "Among the symptoms common to EDS patients are fragility (the attending physician noted the beneficiary was very fragile, at Ex. 10, at 513)"
+   }
+  ],
+  "case_id": "nj_dept_humanservices22"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Wound-care teaching by a nurse is a type of skilled nursing service the policy recognizes. The case facts say the nursing visits included wound care training. The passages do not address homebound status or physician certification, so those points are UNKNOWN. This finding covers only the type of service, not medical necessity or frequency.",
+    "passage_id": 247,
+    "quote": "Teaching wound care where the complexity of the wound, the overall condition of the patient or the ability of the caregiver makes teaching necessary",
+    "case_fact": "and as well, to provide appropriate wound care training."
+   }
+  ],
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The type of service is one the policy covers. Part-time or intermittent skilled nursing and home health aide services are listed home health services.",
+    "passage_id": 222,
+    "quote": "Part-time or intermittent skilled nursing care (other than solely venipuncture for the purposes of obtaining a blood sample)",
+    "case_fact": "the physician ordered and the provider furnished to the beneficiary home health services consisting of skilled nursing visits"
+   },
+   {
+    "claim": "A physician's order is present, which is consistent with the physician-care and plan-of-care conditions. The facts do not show a plan of care that was established and periodically reviewed, so this point is not settled.",
+    "passage_id": 177,
+    "quote": "Under the care of a physician or allowed practitioner",
+    "case_fact": "the physician ordered and the provider furnished to the beneficiary home health services consisting of skilled nursing visits"
+   },
+   {
+    "claim": "Homebound status is a required eligibility condition. The case facts say nothing about it, so it is UNKNOWN.",
+    "passage_id": 177,
+    "quote": "Be confined to the home;",
+    "case_fact": "the physician ordered and the provider furnished to the beneficiary home health services consisting of skilled nursing visits"
+   },
+   {
+    "claim": "Aide hours of up to 24 per day exceed the part-time or intermittent limit. Under the policy this limits the amount covered, and it does not by itself defeat eligibility. Whether the skilled nursing need meets the intermittent test is not shown, so the eligibility conclusion remains UNKNOWN.",
+    "passage_id": 341,
+    "quote": "less than 8 hours each day and 28 or fewer hours each week",
+    "case_fact": "home health aide visits ranging between five and seven days per week, and between four and 24 hours per day"
+   }
+  ],
+  "case_id": "ny"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "First stay (9/29/03\u201311/27/03): the record does not show a daily skilled-care need. The physician ordered only oral medication and a patch, so the daily skilled-services factor is not met.",
+    "passage_id": 602,
+    "quote": "The patient requires these skilled services on a daily basis (see \u00a730.6)",
+    "case_fact": "Again, the physician did not order any daily services, other than administration of oral medication and a Duragesic patch."
+   },
+   {
+    "claim": "Payment depends on a physician certification. The QIC found the requisite certifications missing for both stays, so this basic eligibility condition is not shown as met.",
+    "passage_id": 661,
+    "quote": "Payment for covered posthospital extended care services may be made only if a physician",
+    "case_fact": "The QIC found that the requisite physician certifications were missing from the medical records."
+   },
+   {
+    "claim": "A routine admission order is not a certification, and a separate signed statement of daily skilled need is required. The second-stay form that typed in 'Intermediate' does not clearly supply one. I cannot settle this from the facts.",
+    "passage_id": 662,
+    "quote": "There must be a separate signed statement indicating that the patient will require on a daily basis SNF covered care.",
+    "case_fact": "the word \u201cIntermediate\u201d is typed in under \u201cThis Patient Requires ________ Level of Nursing Care.\u201d"
+   },
+   {
+    "claim": "Second stay (12/11/03\u20131/6/04): the orders show a physician-ordered skilled-level need after a hospital stay. That supports the service type, but the certification gap remains, so eligibility is not established.",
+    "passage_id": 602,
+    "quote": "are ordered by a physician and the services are rendered for a condition for which the patient received inpatient hospital services",
+    "case_fact": "The physician\u2019s orders and notes for the second stay include the regular, daily administration of medications intravenously and by intramuscular injections"
+   }
+  ],
+  "case_id": "roman_eagle_memorial_home"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy recognizes IRF services as a type of care with defined coverage requirements, such as preadmission screening, post-admission evaluation and admission orders. The service type therefore appears to be one the policy addresses.",
+    "passage_id": 32,
+    "quote": "The documentation that IRFs are already required to complete to meet the IRF coverage requirements",
+    "case_fact": "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004."
+   },
+   {
+    "claim": "Whether the basic eligibility conditions (IRF coverage requirements, certification and recertification) were met is not settled. The case facts say only that the RAC found the documents did not support the need for IRF services. They do not describe the screening, orders or certification actually in the records.",
+    "passage_id": 32,
+    "quote": "may be used to satisfy the certification and recertification statement requirements",
+    "case_fact": "did not support the beneficiaries\u2019 need for IRF services"
+   }
+  ],
+  "case_id": "stfrances_memorial"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The SNF admission on July 27 followed a week-long inpatient psychiatric hospital stay at Yale that began July 20. This appears to satisfy the post-hospital requirements of a stay of at least three consecutive days and admission within 30 days. The policy passages and case facts do not state whether the stay was medically necessary, so that point is inferred rather than settled.",
+    "passage_id": 579,
+    "quote": "initiated within 30 days after discharge from a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services",
+    "case_fact": "the beneficiary had been discharged directly to the appellant SNF from a week of hospital care in the Yale acute psychiatric unit"
+   },
+   {
+    "claim": "The SNF stay began shortly after the hospital stay, on July 27, 2009. Skilled nursing services were delivered for the psychiatric condition that was treated in the hospital, which meets the basic requirement that the services relate to a condition treated during the inpatient stay.",
+    "passage_id": 602,
+    "quote": "The patient requires skilled nursing services or skilled rehabilitation services",
+    "case_fact": "On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility, the appellant\u2019s SNF."
+   },
+   {
+    "claim": "Skilled observation and assessment for psychiatric needs is a recognized type of covered skilled care. The case facts show nurses monitored mood and behavior multiple times each day. The policy requires such cases to be carefully documented, and the facts cite physician orders and nursing notes, but their content cannot be verified here.",
+    "passage_id": 629,
+    "quote": "Skilled observation and assessment may also be required for patients whose primary condition and needs are psychiatric in nature",
+    "case_fact": "close supervision from skilled nurses who monitored and recorded her moods and behaviors multiple times each day"
+   },
+   {
+    "claim": "The beneficiary also needed skilled nursing for other medical needs, which supports the type-of-service requirement independently of the psychiatric care. These included monitoring after Warfarin was discontinued and treatment for pneumonia that arose during the SNF stay. The daily-need requirement appears met for August 1\u201311 only. The 'practical matter' factor and reasonableness are not addressed in these facts.",
+    "passage_id": 602,
+    "quote": "The patient requires these skilled services on a daily basis",
+    "case_fact": "the beneficiary also required and received skilled nursing services for other medical needs, apparently not related to her psychiatric diagnoses."
+   }
+  ],
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary was an appropriate IRF candidate. She was expected to benefit significantly from intensive therapy, and she received daily intensive therapy after admission.",
+    "passage_id": 84,
+    "quote": "the patient can reasonably be expected to make measurable improvement",
+    "case_fact": "The beneficiary received intensive physical and occupational therapy each day after admission until discharge."
+   },
+   {
+    "claim": "The record shows a measurable, practical functional gain over a one-week stay. This is consistent with the policy's measurable-improvement and time-frame criterion.",
+    "passage_id": 103,
+    "quote": "a measurable, practical improvement in the patient\u2019s functional condition can be accomplished within a predetermined and reasonable period of time",
+    "case_fact": "ambulate 250 feet modified independent with front wheeled walker"
+   },
+   {
+    "claim": "Close physician involvement is plausibly met because multiple physicians saw her and nursing monitored her daily. The facts do not say whether a rehabilitation physician made face-to-face visits at least 3 days per week, so that point is UNKNOWN.",
+    "passage_id": 92,
+    "quote": "Close physician involvement in the patient\u2019s care is demonstrated by documented face-to-face visits from a rehabilitation physician at least 3 days per week",
+    "case_fact": "The beneficiary was seen at the IRF by at least three physicians and was monitored daily by the nursing staff."
+   },
+   {
+    "claim": "The multidisciplinary team and coordinated care element is supported by the expert's conclusion. Weekly team conferences and the required disciplines, with the team led by a rehabilitation physician, are not documented in the facts, so that detail is UNKNOWN.",
+    "passage_id": 95,
+    "quote": "The interdisciplinary team must be led by a rehabilitation physician",
+    "case_fact": "a multidisciplinary team approach, a coordinated program of care, that significant practical improvement was expected"
+   }
+  ],
+  "case_id": "valley_presbyterian"
+ }
+]

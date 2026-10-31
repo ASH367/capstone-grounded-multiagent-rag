@@ -1,0 +1,32 @@
+{
+ "case_id": "pmc_3687721_1",
+ "domain": "snf",
+ "service_at_issue": "Transfer to a skilled nursing facility after a hospital stay (published case report; hypothetical Medicare review)",
+ "facts": [
+  "The patient was a 76-year-old functionally independent male with a preexisting history remarkable only for hypertension and bipolar disorder.",
+  "On review of systems, he was found to have a negative cardiac history and no treatment with anticoagulants.",
+  "He presented to an outside hospital with declining mental status.",
+  "The patient experienced a ground-level fall and worsening somnolence.",
+  "At the outside hospital, computed tomography (CT) scan of his head demonstrated a right holohemispheric subdural hematoma (SDH), measuring 1.7 cm at maximal thickness, and with an associated mild 5 mm midline shift ().",
+  "Due to his worsening mental status, the patient's trachea was intubated, and he was transferred to our hospital (regional Level 1 Trauma Center), where he underwent an emergent right craniotomy and SDH evacuation.",
+  "The patient tolerated the procedure well, and his trachea was extubated at the end of surgery.\\nOn hospital day two, he again became increasingly somnolent and had generalized seizure activity; a stat head CT scan revealed a new acute right-sided subdural hematoma in the same area as the previous traumatic lesion with a new 6 mm midline shift and uncal herniation.",
+  "Laboratory values were significant for a hematocrit of 35% and an international normalized ratio (INR) of 1.2; and his vital signs were significant for a blood pressure of 140/92 mmHg and a heart rate of 112 bpm.",
+  "The patient was emergently brought to the operating room for repeat surgical evacuation and hemicraniectomy.",
+  "General anesthesia was induced with 100 mg propofol, 100 mcg fentanyl, and 100 mg rocuronium administered intravenously.",
+  "The patient underwent a rapid sequence tracheal intubation with cricoid pressure, and general anesthesia was maintained with intravenous boluses of fentanyl, vecuronium, and isoflurane.",
+  "After induction of general anesthesia, the patient's systolic blood pressure decreased to 54 mmHg.",
+  "Multiple intravenous boluses of phenylephrine (totaling 300 mcg) and 750 mL of crystalloid were administered with only minimal improvement and with persistent hypotension (systolic blood pressures less than 90 mmHg).",
+  "Intraoperative POC TTE was performed by an anesthesiologist with certification in echocardiography: Vijay Krishnamoorthy, which demonstrated a global ejection fraction (EF) of 35% and moderate basal hypokinesis ().",
+  "Based on these echocardiographic findings, the need for an intravenous inotropic vasopressor was identified, and due to ease of availability, 20 mg intravenous ephedrine was administered over five minutes with sustained improvement in systolic blood pressure to greater than 120 mmHg during the next 10 minutes without the need for additional vasopressor support or intravenous fluids.",
+  "While improvements in EF were noted on TTE after pharmacologic therapy, the EF had not returned to an expected normal level.\\nFive minutes after surgical decompression of the SDH, a third POC TTE was performed, this time revealing resolution of the previously observed basal hypokinesis and normalization of the EF to 55% ().",
+  "The systolic blood pressure remained above 100 mmHg without the need for any further vasopressor support ().",
+  "The remainder of the case proceeded uneventfully, and the patient remained intubated and was transferred to the ICU in stable condition.",
+  "After a 25-day hospital course, the patient was discharged to a skilled nursing facility for further care."
+ ],
+ "reference_outcome": "unknown",
+ "outcome_note": "",
+ "cited_sections": [],
+ "other_cites": [],
+ "scope": "included",
+ "source": "PMC-Patients (CC BY-NC-SA 4.0), PMID 23862078"
+}

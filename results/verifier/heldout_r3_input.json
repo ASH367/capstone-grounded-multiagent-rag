@@ -1,0 +1,526 @@
+[
+ {
+  "id": "r3|multi|elig|11-1343|0",
+  "body": "CLAIM: SNF therapy services (PT/OT/ST) are a covered type of service furnished by the SNF\n\nCASE FACT QUOTED: \"D.E. was referred to PT due to decreased strength and decreased ADLs due to illness.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a750.3): \"Physical therapy (PT), speech-language pathology (SLP), and occupational therapy (OT) services must be provided by the SNF\""
+ },
+ {
+  "id": "r3|multi|elig|11-1343|1",
+  "body": "CLAIM: Skilled therapy must be specific and effective treatment for the condition; referral reasons fit treatment of functional decline\n\nCASE FACT QUOTED: \"At the beginning of PT, D.E. required moderate assistance for all functional transfers.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4.1.1): \"The services must be considered under accepted standards of medical practice to be specific and effective treatment\""
+ },
+ {
+  "id": "r3|multi|elig|11-1546|0",
+  "body": "CLAIM: A qualifying hospital stay appears documented, but SNF admission timing and level of care are not settled\n\nCASE FACT QUOTED: \"each contending that the beneficiary had a qualifying three-day stay\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a7100): \"some portion of the stay included at least 3 consecutive days of medically necessary inpatient hospital services\""
+ },
+ {
+  "id": "r3|multi|elig|baptist_health_care|0",
+  "body": "CLAIM: Inpatient coverage depends on documented need for inpatient admission, not on length of stay alone; record facts do not settle this\n\nCASE FACT QUOTED: \"expected discharge within 24 hours\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a710): \"Admissions of particular patients are not covered or noncovered solely on the basis of the length of time the patient actually spends in the hospital.\""
+ },
+ {
+  "id": "r3|multi|elig|connecticut11|0",
+  "body": "CLAIM: Admission to SNF after a qualifying hospital stay supports the basic post-hospital eligibility and coverage presumption\n\nCASE FACT QUOTED: \"was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.1): \"there is a presumption that he or she meets the Medicare\""
+ },
+ {
+  "id": "r3|multi|elig|gr|0",
+  "body": "CLAIM: Home health at an assisted living facility can be covered if the facility is not primarily engaged in providing institutional care; facility type and homebound status are not stated\n\nCASE FACT QUOTED: \"nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a730.1.2): \"then Medicare will cover reasonable and necessary home health care furnished to these individuals\""
+ },
+ {
+  "id": "r3|multi|elig|m-10-1884|0",
+  "body": "CLAIM: Hospice/terminal-condition SNF care is not billed through Medicare Part A; only care unrelated to the terminal condition may be covered\n\nCASE FACT QUOTED: \"The appellant does not contend that the SNF care at issue was unrelated to the beneficiary\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720.3.1): \"These bills are not processed by the A/B MAC (A) or (HHH).\""
+ },
+ {
+  "id": "r3|multi|elig|m-10-1884|1",
+  "body": "CLAIM: Therapy ended before the disputed dates of service\n\nCASE FACT QUOTED: \"She was discharged from OT on January 19, 2009, and from PT on January 22, 2009.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a750.3): \"Physical therapy (PT), speech-language pathology (SLP), and occupational therapy (OT) services must be provided by the SNF\""
+ },
+ {
+  "id": "r3|multi|elig|m-11-1869|0",
+  "body": "CLAIM: Frequent venipuncture/monitoring for diabetics is covered only within home health eligibility; homebound status and plan of care are not shown\n\nCASE FACT QUOTED: \"evidencing fluctuating blood sugar levels\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.1.2.13): \"A stable insulin or noninsulin dependent diabetic would require monitoring every 2-3 months.\""
+ },
+ {
+  "id": "r3|multi|elig|m-11-1967|0",
+  "body": "CLAIM: Hospital stay of more than 3 inpatient days counted by admission day, not discharge day\n\nCASE FACT QUOTED: \"hospitalization from February 12 to February 17, 2010\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720.1): \"the day of admission, but not the day of discharge, is counted as a hospital inpatient day\""
+ },
+ {
+  "id": "r3|multi|elig|m-11-1967|1",
+  "body": "CLAIM: SNF admission on the day of hospital discharge meets the 30-day transfer requirement\n\nCASE FACT QUOTED: \"At the time of discharge from the hospital on February 17 (for admission to the SNF)\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720.2.1): \"if initiated within 30 days after discharge from a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services\""
+ },
+ {
+  "id": "r3|multi|elig|m-12-1140|0",
+  "body": "CLAIM: Admitted to SNF the day of discharge from a multi-day inpatient stay, meeting post-hospital requirements\n\nCASE FACT QUOTED: \"was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720.2.1): \"if initiated within 30 days after discharge from a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services\""
+ },
+ {
+  "id": "r3|multi|elig|m-12-1140|1",
+  "body": "CLAIM: Therapy furnished by the SNF is a covered service type\n\nCASE FACT QUOTED: \"Following readmission, the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a750.3): \"Physical therapy (PT), speech-language pathology (SLP), and occupational therapy (OT) services must be provided by the SNF\""
+ },
+ {
+  "id": "r3|multi|elig|m_10_1771|0",
+  "body": "CLAIM: Skilled therapy coverage turns on need for skilled care, not improvement potential; qualifying hospital stay and SNF admission facts are not clearly stated\n\nCASE FACT QUOTED: \"The appellant asserts that the beneficiary made steady progress throughout physical therapy\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4): \"Coverage for such skilled therapy services does not turn on the presence or absence of a beneficiary\""
+ },
+ {
+  "id": "r3|multi|elig|nj_dept_humanservices22|0",
+  "body": "CLAIM: Therapist teaching of a maintenance program is covered if therapist skills are required; homebound status is not shown\n\nCASE FACT QUOTED: \"the skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.2.1): \"instruction of the beneficiary or appropriate caregiver by a qualified therapist regarding a maintenance program is covered if the specialized skills, knowledge, and judgment\""
+ },
+ {
+  "id": "r3|multi|elig|nj_dhs_commiss_case|0",
+  "body": "CLAIM: Routine colostomy care is not skilled nursing\n\nCASE FACT QUOTED: \"His bowel and bladder functions are maintained by colostomy and urostomy.\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a730): \"changing the colostomy bag does not become a skilled nursing service when the nurse provides it\""
+ },
+ {
+  "id": "r3|multi|elig|nj_dhs_commiss_case|1",
+  "body": "CLAIM: Skilled nursing visits to evaluate infection symptoms can be reasonable and necessary; homebound and plan-of-care status are not documented\n\nCASE FACT QUOTED: \"He had a recurrence of urinary tract infection around mid-point during the six-month period at issue.\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.1.2.7): \"The skilled nursing visit to change the catheter and to evaluate the patient would be reasonable and necessary\""
+ },
+ {
+  "id": "r3|multi|elig|ny|0",
+  "body": "CLAIM: Part-time or intermittent aide/nursing care is covered up to stated hour limits; patient eligibility is not established in the facts\n\nCASE FACT QUOTED: \"coverage is available for home health aide or skilled nursing services on a part-time basis\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a750.7): \"less than 8 hours each day and 28 or fewer hours each week\""
+ },
+ {
+  "id": "r3|multi|elig|roman_eagle_memorial_home|0",
+  "body": "CLAIM: Services in a noncertified bed may be paid only under certain conditions\n\nCASE FACT QUOTED: \"did not have a certified bed available\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a750): \"the services may be paid under certain conditions, based on the limitation of liability provisions\""
+ },
+ {
+  "id": "r3|multi|elig|roman_eagle_memorial_home|1",
+  "body": "CLAIM: Admission followed a qualifying hospital stay\n\nCASE FACT QUOTED: \"both following a qualifying hospital stay\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a710): \"The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days.\""
+ },
+ {
+  "id": "r3|multi|elig|stfrances_memorial|0",
+  "body": "CLAIM: IRF care is covered only if all 42 CFR 412.622 requirements are met; the case facts do not show them\n\nCASE FACT QUOTED: \"This appeal involves IRF services provided by the appellant to five beneficiaries\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110): \"IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act\""
+ },
+ {
+  "id": "r3|multi|elig|twin_maples_health_care_case|0",
+  "body": "CLAIM: Skilled nursing observation and assessment is a covered SNF service type\n\nCASE FACT QUOTED: \"the beneficiary was closely monitored by the skilled nurses (multiple times each day)\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.3): \"Nursing services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by\""
+ },
+ {
+  "id": "r3|multi|elig|twin_maples_health_care_case|1",
+  "body": "CLAIM: Psychiatric-related skilled observation can be covered if carefully documented\n\nCASE FACT QUOTED: \"There she was diagnosed with dementia, a behavioral disturbance, and psychosis not otherwise specified.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.2.3.2): \"Skilled observation and assessment may also be required for patients whose primary condition and needs are psychiatric in nature\""
+ },
+ {
+  "id": "r3|multi|elig|valley_presbyterian|0",
+  "body": "CLAIM: IRF care is covered only if the 412.622 requirements are met; the facts do not settle all of them\n\nCASE FACT QUOTED: \"Two days later, on July 17, 2003, the beneficiary was transferred and admitted to the appellant\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110): \"IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act\""
+ },
+ {
+  "id": "r3|multi|nec|11-1343|0",
+  "body": "CLAIM: Documented functional decline with PT referral fits restoring lost function through skilled therapy.\n\nCASE FACT QUOTED: \"D.E.\u2019s functional status had declined as follows: her sitting balance was poor\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4.1.1): \"requires a brief period of daily skilled physical therapy to restore lost functions, those services are reasonable and necessary\""
+ },
+ {
+  "id": "r3|multi|nec|11-1343|1",
+  "body": "CLAIM: PT assessment of strength and ADLs is a skilled need.\n\nCASE FACT QUOTED: \"D.E. was referred to PT due to decreased strength and decreased ADLs due to illness.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4.1.2): \"The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.\""
+ },
+ {
+  "id": "r3|multi|nec|11-1343|2",
+  "body": "CLAIM: Referral after hospitalization shows a decline needing evaluation.\n\nCASE FACT QUOTED: \"E.M. was referred to OT due to an overall decline in transfers, range of motion, strength, and independence with ADLs.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4.1.1): \"the amount, frequency, and duration of the services must be reasonable\""
+ },
+ {
+  "id": "r3|multi|nec|11-1546|0",
+  "body": "CLAIM: Passages address presumption of coverage, not clinical criteria; coverage rests on medical evidence in the file, which is not settled.\n\nCASE FACT QUOTED: \"On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.1): \"coverage would be determined based on a review of the medical evidence in the file\""
+ },
+ {
+  "id": "r3|multi|nec|baptist_health_care|0",
+  "body": "CLAIM: Admission coverage is not decided by length of stay alone; the case facts give no patient clinical details.\n\nCASE FACT QUOTED: \"Those cases that appear to be routine, expected discharge within 24 hours and which do not substantiate SI & IS criteria\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a710): \"Admissions of particular patients are not covered or noncovered solely on the basis of the length of time the patient actually spends in the hospital.\""
+ },
+ {
+  "id": "r3|multi|nec|connecticut11|0",
+  "body": "CLAIM: Level of care needs individual determination; facts do not settle skilled need after the plateau.\n\nCASE FACT QUOTED: \"[p]lateau of benefits from skilled PT interventions reached at current mental level\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.1): \"the beneficiary must receive an individual level of care determination using existing administrative criteria and procedures\""
+ },
+ {
+  "id": "r3|multi|nec|gr|0",
+  "body": "CLAIM: Services duplicative of facility-required care are not reasonable and necessary, but facts do not show the nursing content.\n\nCASE FACT QUOTED: \"nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a730.1.2): \"Services to people who already have access to appropriate care from a willing caregiver would not be considered reasonable and necessary\""
+ },
+ {
+  "id": "r3|multi|nec|m-10-1884|0",
+  "body": "CLAIM: Therapy was received but facts show discharge from PT/OT before the dates at issue and no skilled need for those dates.\n\nCASE FACT QUOTED: \"She was discharged from OT on January 19, 2009, and from PT on January 22, 2009.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a7100): \"For a discussion of skilled therapy (that is, PT, SLP, and OT) services in the context of the SNF level of care criteria\""
+ },
+ {
+  "id": "r3|multi|nec|m-11-1869|0",
+  "body": "CLAIM: Insulin dosage changes after nurse-forwarded logs show an unstabilized regimen needing skilled observation.\n\nCASE FACT QUOTED: \"the beneficiary\u2019s insulin dosage was adjusted numerous times during this period\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.1.2.1): \"skilled observation and treatment must be documented at each home health visit, until the patient's clinical condition and/or treatment regimen has stabilized\""
+ },
+ {
+  "id": "r3|multi|nec|m-11-1967|0",
+  "body": "CLAIM: SNF care was for hematuria treated in the qualifying hospital stay.\n\nCASE FACT QUOTED: \"the beneficiary was diagnosed with hematuria secondary to prostate enlargement\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a710): \"the beneficiary must require SNF care for a condition that was treated during the qualifying hospital stay\""
+ },
+ {
+  "id": "r3|multi|nec|m-12-1140|0",
+  "body": "CLAIM: Timing of SNF admission after hospital stay is satisfied, but passages do not settle the need for continued therapy.\n\nCASE FACT QUOTED: \"first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720.2.1): \"Extended care services are \u201cpost-hospital\u201d if initiated within 30 days after discharge from a hospital stay\""
+ },
+ {
+  "id": "r3|multi|nec|m_10_1771|0",
+  "body": "CLAIM: Coverage needs an individualized assessment of skilled need; the facts are largely appellant assertions.\n\nCASE FACT QUOTED: \"the beneficiary demonstrated \u201cslow but steady progress\u201d reflecting gains in \u201csafety, balance and overall functional mobility.\u201d\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4): \"skilled therapy services are covered when an individualized assessment of the patient\u2019s clinical condition demonstrates\""
+ },
+ {
+  "id": "r3|multi|nec|nj_dept_humanservices22|0",
+  "body": "CLAIM: Teaching safe stair/transfer technique can be reasonable, but facts are only appellant assertions.\n\nCASE FACT QUOTED: \"the skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.2.2): \"Physical therapy would be reasonable and necessary to teach the patient to climb and descend stairs safely.\""
+ },
+ {
+  "id": "r3|multi|nec|nj_dhs_commiss_case|0",
+  "body": "CLAIM: Complications require more frequent skilled care and are covered with documentation.\n\nCASE FACT QUOTED: \"He was hospitalized for several days in July 2007 for urosepsis and e.coli infection.\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.1.2.7): \"where there are complications that require more frequent skilled care related to the catheter, such care would, with adequate documentation, be covered\""
+ },
+ {
+  "id": "r3|multi|nec|nj_dhs_commiss_case|1",
+  "body": "CLAIM: Routine colostomy care alone is not skilled, but this beneficiary had complications.\n\nCASE FACT QUOTED: \"The beneficiary developed a fistula near the colostomy site.\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a730): \"A patient with a well-established colostomy absent complications may require assistance changing the colostomy bag\""
+ },
+ {
+  "id": "r3|multi|nec|ny|0",
+  "body": "CLAIM: Hour limits are stated, but no facts about skilled need are given.\n\nCASE FACT QUOTED: \"coverage is available for home health aide or skilled nursing services on a part-time basis\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a750.7): \"less than 8 hours each day and 28 or fewer hours each week\""
+ },
+ {
+  "id": "r3|multi|nec|roman_eagle_memorial_home|0",
+  "body": "CLAIM: Level of care needs an individual determination; facts do not show a skilled-need finding.\n\nCASE FACT QUOTED: \"Physician\u2019s Telephone Orders requiring intravenous and intramuscular medication for pain and morphine via a portacath\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.1): \"the beneficiary must receive an individual level of care determination using existing administrative criteria and procedures\""
+ },
+ {
+  "id": "r3|multi|nec|stfrances_memorial|0",
+  "body": "CLAIM: IRF necessity depends on individual care needs, which the facts do not describe.\n\nCASE FACT QUOTED: \"were Medicare coverage criteria met for the IRF services at issue\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110): \"Medicare requires determinations of whether IRF stays are reasonable and necessary to be based on an assessment of each beneficiary's individual care needs\""
+ },
+ {
+  "id": "r3|multi|nec|twin_maples_health_care_case|0",
+  "body": "CLAIM: Close nurse monitoring with medication changes shows potential to change treatment.\n\nCASE FACT QUOTED: \"On August 5, 2009, the psychiatrist reduced her Haldol from three to two times a day\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.2.3.2): \"there is a reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment of the patient\""
+ },
+ {
+  "id": "r3|multi|nec|twin_maples_health_care_case|1",
+  "body": "CLAIM: Pneumonia treatment with ongoing nursing monitoring is skilled observation.\n\nCASE FACT QUOTED: \"and the beneficiary was diagnosed with pneumonia\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.3): \"skilled nursing services are covered when an individualized assessment of the patient\u2019s clinical condition demonstrates\""
+ },
+ {
+  "id": "r3|multi|nec|valley_presbyterian|0",
+  "body": "CLAIM: IRF care requires meeting all 42 CFR 412.622 requirements; facts do not show therapy intensity or preadmission screening.\n\nCASE FACT QUOTED: \"Upon admission, the beneficiary\u2019s functional status was as follows: moderate assistance supine to sit\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110): \"IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act if the patient meets all\""
+ },
+ {
+  "id": "r3|multi|doc|11-1343|0",
+  "body": "CLAIM: Record documents patient condition and functional deficits at PT start, as policy requires for skilled PT\n\nCASE FACT QUOTED: \"At the beginning of PT, J.M. required moderate to maximal assist with functional mobility.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4.1.2): \"Documentation of the patient\u2019s condition in the medical record must describe the circumstances which delineate the need for skilled rather than\""
+ },
+ {
+  "id": "r3|multi|doc|11-1343|1",
+  "body": "CLAIM: Strength measurements (tests and measurements) are documented\n\nCASE FACT QUOTED: \"J.M.\u2019s right lower extremity strength measured 3/5 and left lower extremity measured 2+/5.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4.1.2): \"tests and measurements of range of motion, strength, balance, coordination, endurance, and functional ability\""
+ },
+ {
+  "id": "r3|multi|doc|11-1343|2",
+  "body": "CLAIM: Nursing documentation describes skilled observation after fall\n\nCASE FACT QUOTED: \"The nurses monitored J.M.\u2019s condition including pupil size, alertness, signs and symptoms of pain and ability to follow commands.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.2.3.2): \"The medical documentation must describe the skilled services that require the involvement of nursing personnel\""
+ },
+ {
+  "id": "r3|multi|doc|11-1546|0",
+  "body": "CLAIM: Hospital records for a stay well over three days were submitted\n\nCASE FACT QUOTED: \"The provider submits, as evidence of the three-day stay, hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a7100): \"at least 3 consecutive days of medically necessary inpatient hospital services\""
+ },
+ {
+  "id": "r3|multi|doc|11-1546|1",
+  "body": "CLAIM: Medical evidence in file shows ongoing medication adjustments\n\nCASE FACT QUOTED: \"On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.1): \"coverage would be determined based on a review of the medical evidence in the file\""
+ },
+ {
+  "id": "r3|multi|doc|baptist_health_care|0",
+  "body": "CLAIM: Policy requires admission order/certification; case facts contain no admission order or certification evidence\n\nCASE FACT QUOTED: \"The medical record must contain information that documents the need for an inpatient level of care.\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a710.2): \"is therefore required for all hospital inpatient cases for hospital inpatient coverage and payment under Part A\""
+ },
+ {
+  "id": "r3|multi|doc|baptist_health_care|1",
+  "body": "CLAIM: Case facts discuss only liability and reopening, not the medical record content\n\nCASE FACT QUOTED: \"the appellant solely contests the ALJ\u2019s findings concerning liability pursuant to Section 1879 of the Social Security Act (Act) and/or Section 1870 of the Act.\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a710): \"Admissions of particular patients are not covered or noncovered solely on the basis of the length of time the patient actually spends in the hospital.\""
+ },
+ {
+  "id": "r3|multi|doc|conn_dept_social_services|0",
+  "body": "CLAIM: Policy requires qualifying hospital stay record; case facts are procedural and show none\n\nCASE FACT QUOTED: \"The appellant filed a timely request for Council review (Form DAB-101), dated August 24, 2009, and received on August 26, 2009.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720): \"must have been an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days\""
+ },
+ {
+  "id": "r3|multi|doc|connecticut11|0",
+  "body": "CLAIM: Notice of non-coverage is referenced as signed, but its content (written, reason, liability) is not in the case facts\n\nCASE FACT QUOTED: \"during the time the beneficiary signed the notice of non-coverage\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720.3.1.1): \"The beneficiary notice must meet the following criteria: a. It must be in writing.\""
+ },
+ {
+  "id": "r3|multi|doc|connecticut11|1",
+  "body": "CLAIM: A qualifying hospital stay is asserted but its length is not stated\n\nCASE FACT QUOTED: \"after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a7100): \"at least 3 consecutive days of medically necessary inpatient hospital services\""
+ },
+ {
+  "id": "r3|multi|doc|gr|0",
+  "body": "CLAIM: Policy requires supporting documentation for home health eligibility; case facts show no such records\n\nCASE FACT QUOTED: \"The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a730.5.1.2): \"must be able to provide, upon request, the supporting documentation that substantiates the eligibility for the Medicare home health benefit\""
+ },
+ {
+  "id": "r3|multi|doc|gr|1",
+  "body": "CLAIM: Residence is an assisted living facility; nothing shows whether it is primarily engaged in providing skilled services\n\nCASE FACT QUOTED: \"an assisted living facility\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a730.1.2): \"An individual may be \"confined to the home\" for purposes of Medicare coverage of home health services if he or she resides in an institution\""
+ },
+ {
+  "id": "r3|multi|doc|m-10-1884|0",
+  "body": "CLAIM: Qualifying 3-day inpatient stay is required; the length of the GI bleeding stay is not documented\n\nCASE FACT QUOTED: \"following a hospital stay for gastrointestinal bleeding\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a710): \"The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days.\""
+ },
+ {
+  "id": "r3|multi|doc|m-10-1884|1",
+  "body": "CLAIM: Skilled therapy records end before the billed dates; no skilled-care record is shown for January 28 onward\n\nCASE FACT QUOTED: \"She was discharged from OT on January 19, 2009, and from PT on January 22, 2009.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a750.3): \"Physical therapy (PT), speech-language pathology (SLP), and occupational therapy (OT) services must be provided by the SNF\""
+ },
+ {
+  "id": "r3|multi|doc|m-11-1869|0",
+  "body": "CLAIM: Skilled nursing need is documented in visit notes and records\n\nCASE FACT QUOTED: \"the records dated within this period include numerous documented instances of changes in the beneficiary\u2019s medication schedule\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.1.2.7): \"The need for the skilled services must be documented.\""
+ },
+ {
+  "id": "r3|multi|doc|m-11-1869|1",
+  "body": "CLAIM: Nurses documented assessment and physician contact on a possible urinary tract infection\n\nCASE FACT QUOTED: \"The nurses contacted the beneficiary\u2019s doctor to obtain permission to take a urine sample for analysis.\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.1.2.7): \"The nurse visits the patient and determines that the catheter is plugged and there are symptoms of a urinary tract infection.\""
+ },
+ {
+  "id": "r3|multi|doc|m-11-1869|2",
+  "body": "CLAIM: Insulin dosage changes after nurse-reported blood sugar logs are recorded\n\nCASE FACT QUOTED: \"the beneficiary\u2019s insulin dosage was adjusted numerous times during this period.\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.1.2.13): \"Where the documentation shows that the dosage is being adjusted, monitoring would be reasonable and necessary as ordered by the physician or allowed practitioner.\""
+ },
+ {
+  "id": "r3|multi|doc|m-11-1967|0",
+  "body": "CLAIM: Hospital stay of more than 3 inpatient days (admission day counted, discharge day not) is documented\n\nCASE FACT QUOTED: \"the beneficiary\u2019s hospitalization from February 12 to February 17, 2010, for \u201cworsening gross hematuria.\u201d\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720.1): \"the day of admission, but not the day of discharge, is counted as a hospital inpatient day.\""
+ },
+ {
+  "id": "r3|multi|doc|m-11-1967|1",
+  "body": "CLAIM: Transfer to SNF occurred on the discharge date, within 30 days\n\nCASE FACT QUOTED: \"At the time of discharge from the hospital on February 17 (for admission to the SNF)\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a710): \"The beneficiary must also have been transferred to a participating SNF within 30 days after discharge from the hospital\""
+ },
+ {
+  "id": "r3|multi|doc|m-11-1967|2",
+  "body": "CLAIM: SNF care relates to the hematuria condition treated in the hospital, with physician-ordered skilled nursing documented\n\nCASE FACT QUOTED: \"a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a710): \"the beneficiary must require SNF care for a condition that was treated during the qualifying hospital stay\""
+ },
+ {
+  "id": "r3|multi|doc|m-12-1140|0",
+  "body": "CLAIM: Qualifying inpatient stay of at least three days is documented (August 16-25, 2011)\n\nCASE FACT QUOTED: \"following inpatient hospitalization from August 16, 2011, through August 25, 2011, for a \u201cseizure-type episode.\u201d\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720.2.1): \"a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services\""
+ },
+ {
+  "id": "r3|multi|doc|m-12-1140|1",
+  "body": "CLAIM: SNF admission on the discharge date meets the 30-day transfer window\n\nCASE FACT QUOTED: \"was first admitted to the SNF on August 25, 2011\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720.2.1): \"Extended care services are \u201cpost-hospital\u201d if initiated within 30 days after discharge\""
+ },
+ {
+  "id": "r3|multi|doc|m-12-1140|2",
+  "body": "CLAIM: PT and OT services after readmission are recorded\n\nCASE FACT QUOTED: \"Following readmission, the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a750.3): \"Physical therapy (PT), speech-language pathology (SLP), and occupational therapy (OT) services must be provided by the SNF\""
+ },
+ {
+  "id": "r3|multi|doc|m_10_1771|0",
+  "body": "CLAIM: Policy requires an initial PT evaluation and active written treatment plan; case facts do not show either, only the appellant's assertions\n\nCASE FACT QUOTED: \"\u201cnew physical decline which warranted Physical Therapy . . . intervention in order to ensure continued safety and independence.\u201d\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4.1.1): \"an active written treatment plan that is based upon an initial evaluation performed by a qualified physical therapist\""
+ },
+ {
+  "id": "r3|multi|doc|m_10_1771|1",
+  "body": "CLAIM: Documentation of the need for skilled rather than unskilled services is required; facts only relay the appellant's claim about the documentation\n\nCASE FACT QUOTED: \"The appellant asserts that the documentation of record, present throughout all levels of review, demonstrates the clear need for the skills of a physical therapist\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4.1.2): \"Documentation of the patient\u2019s condition in the medical record must describe the circumstances which delineate the need for skilled rather than\""
+ },
+ {
+  "id": "r3|multi|doc|nj_dept_humanservices22|0",
+  "body": "CLAIM: Each component of maintenance program design must be documented in the home health record; facts give only appellant's assertions for W.B.\n\nCASE FACT QUOTED: \"the therapist was \u201cin the process of designing an appropriate home exercise program\u201d for the beneficiary\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.2.2): \"Each component of this process must be documented in the home health record.\""
+ },
+ {
+  "id": "r3|multi|doc|nj_dept_humanservices22|1",
+  "body": "CLAIM: Therapist must document why a maintenance program could not be developed; PT notes are cited for D.W. but their content is not given\n\nCASE FACT QUOTED: \"at 133 (PT notes of February 7, 2006), at 144 (PT notes of March 9, 2006), at 148 (PT notes of March 20, 2006).\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.2.1): \"the therapist must document why the maintenance program could not be developed during those last rehabilitative/restorative treatment visit(s).\""
+ },
+ {
+  "id": "r3|multi|doc|nj_dhs_commiss_case|0",
+  "body": "CLAIM: Skilled need is documented through nurse-noted complications of the ostomies\n\nCASE FACT QUOTED: \"The nurses noted abscesses in the rectum.\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.1.2.7): \"The need for the skilled services must be documented.\""
+ },
+ {
+  "id": "r3|multi|doc|nj_dhs_commiss_case|1",
+  "body": "CLAIM: Complications requiring more frequent skilled care (fistula, tissue in urostomy) appear in the record\n\nCASE FACT QUOTED: \"The beneficiary developed a fistula near the colostomy site.\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.1.2.7): \"where there are complications that require more frequent skilled care related to the catheter, such care would, with adequate documentation, be covered\""
+ },
+ {
+  "id": "r3|multi|doc|nj_dhs_commiss_case|2",
+  "body": "CLAIM: Hospitalization and recurrent infections during the dates of service are recorded\n\nCASE FACT QUOTED: \"He was hospitalized for several days in July 2007 for urosepsis and e.coli infection.\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a730): \"The medical condition of the patient must be described and documented to support the need for nursing skilled services\""
+ },
+ {
+  "id": "r3|multi|doc|ny|0",
+  "body": "CLAIM: Policy sets hour limits for part-time or intermittent care; case facts contain no records of hours or services furnished, only the appellant's argument\n\nCASE FACT QUOTED: \"whether Medicare covered at least 28 hours and up to 35 hours of the home health services furnished to the beneficiary\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a750.7): \"less than 8 hours each day and 28 or fewer hours each week\""
+ },
+ {
+  "id": "r3|multi|doc|ny|1",
+  "body": "CLAIM: Qualifying criteria such as need for skilled care are not shown in the case facts\n\nCASE FACT QUOTED: \"the appellant argues that the ALJ failed to analyze whether the services furnished to each beneficiary were reasonable and necessary\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740): \"the patient must meet the qualifying criteria as specified in \u00a730\""
+ },
+ {
+  "id": "r3|multi|doc|roman_eagle_memorial_home|0",
+  "body": "CLAIM: Direct admission to SNF following hospital discharge is documented\n\nCASE FACT QUOTED: \"the beneficiary was admitted to the appellant\u2019s nursing facility, REMH, immediately following her discharge from the hospital\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.1): \"If the beneficiary is admitted to the SNF immediately following a 3-day qualifying hospital stay\""
+ },
+ {
+  "id": "r3|multi|doc|roman_eagle_memorial_home|1",
+  "body": "CLAIM: Placement in a noncertified bed due to no certified bed available is recorded in the medical records\n\nCASE FACT QUOTED: \"The beneficiary\u2019s medical records indicate that she was placed in a noncertified bed at the appellant\u2019s facility.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a750): \"When patients who require SNF services are placed in a noncertified part of an institution which contains a participating \u201cdistinct part\u201d SNF\""
+ },
+ {
+  "id": "r3|multi|doc|roman_eagle_memorial_home|2",
+  "body": "CLAIM: Physician-signed orders for skilled IV/IM medication document the SNF care need\n\nCASE FACT QUOTED: \"Physician\u2019s Telephone Orders requiring intravenous and intramuscular medication for pain and morphine via a portacath are also included for the second admission.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a710): \"the beneficiary must require SNF care for a condition that was treated during the qualifying hospital stay\""
+ },
+ {
+  "id": "r3|multi|doc|stfrances_memorial|0",
+  "body": "CLAIM: IRF coverage depends on an individual assessment of care needs; case facts are procedural and contain no clinical records\n\nCASE FACT QUOTED: \"were Medicare coverage criteria met for the IRF services at issue[?]\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110): \"Medicare requires determinations of whether IRF stays are reasonable and necessary to be based on an assessment of each beneficiary's individual care needs.\""
+ },
+ {
+  "id": "r3|multi|doc|stfrances_memorial|1",
+  "body": "CLAIM: Only a physician testimony and claim dates are mentioned, not the IRF documentation\n\nCASE FACT QUOTED: \"Dr. K.F., appellant\u2019s Medical Director, testified.\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110): \"IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act\""
+ },
+ {
+  "id": "r3|multi|doc|twin_maples_health_care_case|0",
+  "body": "CLAIM: Psychiatric observation needs are carefully documented through nurse, physician and APRN monitoring\n\nCASE FACT QUOTED: \"the beneficiary was closely monitored by the skilled nurses (multiple times each day), one or more physicians, and the psychiatric APRN\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.2.3.2): \"Therefore, these cases must be carefully documented.\""
+ },
+ {
+  "id": "r3|multi|doc|twin_maples_health_care_case|1",
+  "body": "CLAIM: Nurses' findings led to treatment changes (pneumonia diagnosis, antibiotic), documented in the record\n\nCASE FACT QUOTED: \"They notified the medical director, a chest x-ray was taken, and the beneficiary was diagnosed with pneumonia.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.2.3.2): \"there is a reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment of the patient\""
+ },
+ {
+  "id": "r3|multi|doc|twin_maples_health_care_case|2",
+  "body": "CLAIM: Hospital admission preceded SNF admission within the 30-day window\n\nCASE FACT QUOTED: \"On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility, the appellant\u2019s SNF.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a710): \"The beneficiary must also have been transferred to a participating SNF within 30 days after discharge from the hospital\""
+ },
+ {
+  "id": "r3|multi|doc|twin_maples_health_care_case|3",
+  "body": "CLAIM: Daily skilled PT is documented from admission\n\nCASE FACT QUOTED: \"physical therapy (PT) was started five times a week\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.2.4): \"There must be specific evidence that daily skilled nursing or skilled rehabilitation services are required and received\""
+ },
+ {
+  "id": "r3|multi|doc|valley_presbyterian|0",
+  "body": "CLAIM: Policy requires a preadmission screening within 48 hours of IRF admission; the case facts do not mention one\n\nCASE FACT QUOTED: \"Two days later, on July 17, 2003, the beneficiary was transferred and admitted to the appellant\u2019s IRF\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110.1.1): \"a preadmission screening is an evaluation of the patient\u2019s condition and need for rehabilitation therapy and medical treatment\""
+ },
+ {
+  "id": "r3|multi|doc|valley_presbyterian|1",
+  "body": "CLAIM: Policy lists required IRF documentation (post-admission evaluation, plan of care, orders, IRF-PAI); none is shown in the case facts\n\nCASE FACT QUOTED: \"Upon admission, the beneficiary\u2019s functional status was as follows\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110): \"110.1.2 - Required Post-Admission Physician Evaluation 110.1.3 - Required Individualized Overall Plan of Care 110.1.4 - Required Admission Orders\""
+ },
+ {
+  "id": "r3|single|base|11-1343|0",
+  "body": "CLAIM: PT to restore function lost through illness is reasonable and necessary\n\nCASE FACT QUOTED: \"D.E. was referred to PT due to decreased strength and decreased ADLs due to illness.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4.1.1): \"To the extent that the patient requires a brief period of daily skilled physical therapy to restore lost functions\""
+ },
+ {
+  "id": "r3|single|base|11-1343|1",
+  "body": "CLAIM: Basic ADL help alone is nonskilled; UNKNOWN how much of the care was only this\n\nCASE FACT QUOTED: \"maximal assistance with toilet transfers\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.5): \"Assistance in dressing, eating, and going to the toilet\""
+ },
+ {
+  "id": "r3|single|base|11-1546|0",
+  "body": "CLAIM: Stay of 12 days meets the 3 consecutive day hospital requirement\n\nCASE FACT QUOTED: \"December 15, 2009, through December 27, 2009, stay at\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720.1): \"The 3 consecutive calendar day stay requirement can be met by stays totaling 3 consecutive days in one or more hospitals.\""
+ },
+ {
+  "id": "r3|single|base|11-1546|1",
+  "body": "CLAIM: Without presumption, coverage rests on the medical evidence, which shows ongoing medication adjustments; UNKNOWN whether admission followed discharge directly\n\nCASE FACT QUOTED: \"medications had to be adjusted due to fluctuations in his blood pressure and heart rate\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.1): \"coverage would be determined based on a review of the medical evidence in the file\""
+ },
+ {
+  "id": "r3|single|base|baptist_health_care|0",
+  "body": "CLAIM: Admission denied if inpatient care was not needed; the QIO said routine short-stay cases risk denial\n\nCASE FACT QUOTED: \"Those cases that appear to be routine, expected discharge within 24 hours\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a710): \"If care is noncovered because a patient does not need to be hospitalized, the A/B MAC Part A denies the admission\""
+ },
+ {
+  "id": "r3|single|base|baptist_health_care|1",
+  "body": "CLAIM: Payment may still be made if provider could not reasonably know services were unnecessary; appellant claims this but outcome UNKNOWN\n\nCASE FACT QUOTED: \"had neither actual nor constructive knowledge\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a710): \"aware the services were not necessary and could not reasonably be expected to know that the services were not necessary\""
+ },
+ {
+  "id": "r3|single|base|conn_dept_social_services|0",
+  "body": "CLAIM: A qualifying 3-day hospital stay is required; UNKNOWN from the facts\n\nCASE FACT QUOTED: \"The appellant did not file a brief within 30 days thereafter.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720): \"the individual must have been an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days\""
+ },
+ {
+  "id": "r3|single|base|connecticut11|0",
+  "body": "CLAIM: Admission after qualifying hospital stay satisfies entry requirements; coverage of the disputed period is UNKNOWN\n\nCASE FACT QUOTED: \"after a qualifying hospital stay for treatment of delirium\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a710): \"The beneficiary must also have been transferred to a participating SNF within 30 days after discharge from the hospital\""
+ },
+ {
+  "id": "r3|single|base|connecticut11|1",
+  "body": "CLAIM: A SNF stay can be non-covered; PT was discharged for a plateau\n\nCASE FACT QUOTED: \"physical therapist discharged him from therapy because\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a750.3): \"for beneficiaries in either a covered Part A stay or a non-covered stay in the SNF\""
+ },
+ {
+  "id": "r3|single|base|gr|0",
+  "body": "CLAIM: Services duplicative of what a facility must provide are not an optional Medicare substitute\n\nCASE FACT QUOTED: \"nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a730.1.2): \"Medicare coverage would not be an optional substitute for the services that a facility is required to provide by law to its patients\""
+ },
+ {
+  "id": "r3|single|base|gr|1",
+  "body": "CLAIM: Coverage possible if ALF is not primarily engaged in such care; UNKNOWN\n\nCASE FACT QUOTED: \"nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a730.1.2): \"then Medicare will cover reasonable and necessary home health care furnished to these individuals\""
+ },
+ {
+  "id": "r3|single|base|m-10-1884|0",
+  "body": "CLAIM: Therapy is covered only when skilled; the therapies had ended\n\nCASE FACT QUOTED: \"She was discharged from OT on January 19, 2009, and from PT on January 22, 2009.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4): \"Therapy services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by\""
+ },
+ {
+  "id": "r3|single|base|m-10-1884|1",
+  "body": "CLAIM: SNF care must relate to a condition treated in the qualifying hospital stay; billed dates follow therapy discharge\n\nCASE FACT QUOTED: \"for dates of service January 28 through January 31, 2009\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a710): \"the beneficiary must require SNF care for a condition that was treated during the qualifying hospital stay\""
+ },
+ {
+  "id": "r3|single|base|m-11-1869|0",
+  "body": "CLAIM: Skilled observation is covered while the regimen is not stabilized\n\nCASE FACT QUOTED: \"insulin dosage was adjusted numerous times during this period\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.1.2.1): \"necessity for skilled observation must be documented at each home health visit\""
+ },
+ {
+  "id": "r3|single|base|m-11-1869|1",
+  "body": "CLAIM: Skilled nurse teaching of medication management is covered\n\nCASE FACT QUOTED: \"problems related to compliance with taking diabetic medications (to include Starlix) as directed\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a730): \"teaching of self-administration and self- management of the medication regimen\""
+ },
+ {
+  "id": "r3|single|base|m-11-1967|0",
+  "body": "CLAIM: Qualifying hospital stay and transfer requirement appear met\n\nCASE FACT QUOTED: \"hospitalization from February 12 to February 17, 2010\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a710): \"The beneficiary must also have been transferred to a participating SNF within 30 days after discharge from the hospital\""
+ },
+ {
+  "id": "r3|single|base|m-11-1967|1",
+  "body": "CLAIM: Daily skilled nursing is needed; the physician ordered skilled nursing\n\nCASE FACT QUOTED: \"a physician indicated that the beneficiary required skilled nursing for one week\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.6): \"must be needed and provided on a\""
+ },
+ {
+  "id": "r3|single|base|m-12-1140|0",
+  "body": "CLAIM: Admission within 30 days of a multi-day hospital stay\n\nCASE FACT QUOTED: \"following inpatient hospitalization from August 16, 2011, through August 25, 2011\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a720.2.1): \"if initiated within 30 days after discharge from a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services\""
+ },
+ {
+  "id": "r3|single|base|m-12-1140|1",
+  "body": "CLAIM: Readmission requires a new initial PT evaluation; whether done is UNKNOWN\n\nCASE FACT QUOTED: \"was re-admitted to the SNF on August 30, 2011.\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4.1.1): \"In those cases where a beneficiary is discharged during the SNF stay and later readmitted, an initial evaluation must be performed upon readmission\""
+ },
+ {
+  "id": "r3|single|base|m-12-1140|2",
+  "body": "CLAIM: Skilled therapy requires complexity needing a therapist; therapy ended because of unstable vitals\n\nCASE FACT QUOTED: \"because the beneficiary had inconsistent vital signs, low blood pressure, and dizziness while standing\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4.1.1): \"The services must be of a level of complexity and sophistication\""
+ },
+ {
+  "id": "r3|single|base|m_10_1771|0",
+  "body": "CLAIM: Coverage turns on need for skilled care, not improvement potential\n\nCASE FACT QUOTED: \"the beneficiary made steady progress throughout physical therapy\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4): \"Coverage for such skilled therapy services does not turn on the presence or absence of a beneficiary\""
+ },
+ {
+  "id": "r3|single|base|m_10_1771|1",
+  "body": "CLAIM: Therapeutic exercises under a therapist are skilled\n\nCASE FACT QUOTED: \"progressive resistance strengthening exercises to improve lower body, strength and balance\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4.1.2): \"Therapeutic exercises, which must be performed by or under the supervision of the qualified physical therapist\""
+ },
+ {
+  "id": "r3|single|base|m_10_1771|2",
+  "body": "CLAIM: Services only skilled when inherently complex; goals conceded met\n\nCASE FACT QUOTED: \"The appellant also concedes that the beneficiary met her goals by September 11, 2008\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.4): \"Therapy services are considered skilled when they are so inherently complex\""
+ },
+ {
+  "id": "r3|single|base|nj_dept_humanservices22|0",
+  "body": "CLAIM: PT to teach safe stair climbing is reasonable and necessary\n\nCASE FACT QUOTED: \"the installation of a new stair lift mechanism to assist the beneficiary with difficulty navigating stairs in his home\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.2.2): \"Physical therapy would be reasonable and necessary to teach the patient to climb and descend stairs safely.\""
+ },
+ {
+  "id": "r3|single|base|nj_dept_humanservices22|1",
+  "body": "CLAIM: Therapist visits solely to train HHA staff are not billable\n\nCASE FACT QUOTED: \"The appellant agreed that setting up a maintenance program for the home health aides to take over was a goal\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.2.1): \"visits made by skilled therapists to a patient's home solely to train other HHA staff (e.g., home health aides) are not billable as visits\""
+ },
+ {
+  "id": "r3|single|base|nj_dept_humanservices22|2",
+  "body": "CLAIM: Maintenance therapy covered only if skilled care is required\n\nCASE FACT QUOTED: \"maintained its claim as to 48 physical therapy sessions and 97 home health aide visits\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.2.1): \"is covered so long as the beneficiary requires skilled care for the safe and effective performance of the program\""
+ },
+ {
+  "id": "r3|single|base|nj_dhs_commiss_case|0",
+  "body": "CLAIM: Routine colostomy bag care is not skilled\n\nCASE FACT QUOTED: \"His bowel and bladder functions are maintained by colostomy and urostomy.\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a730): \"changing the colostomy bag does not become a skilled nursing service when the nurse provides it\""
+ },
+ {
+  "id": "r3|single|base|nj_dhs_commiss_case|1",
+  "body": "CLAIM: Complications needing more frequent skilled care are covered with documentation\n\nCASE FACT QUOTED: \"He was hospitalized for several days in July 2007 for urosepsis and e.coli infection.\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a740.1.2.7): \"where there are complications that require more frequent skilled care related to the catheter, such care would, with adequate documentation, be covered\""
+ },
+ {
+  "id": "r3|single|base|ny|0",
+  "body": "CLAIM: Weekly limit is 28 hours, or 35 on case-by-case review\n\nCASE FACT QUOTED: \"at least 28 hours and up to 35 hours of the home health services\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a750.7): \"less than 8 hours each day and 28 or fewer hours each week\""
+ },
+ {
+  "id": "r3|single|base|ny|1",
+  "body": "CLAIM: Medicare covers up to 35 hours if found reasonable and necessary\n\nCASE FACT QUOTED: \"coverage is available for home health aide or skilled nursing services on a part-time basis\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a750.7.1): \"If the Medicare contractor determines that the 35 hours of care are reasonable and necessary, Medicare would cover the 35 hours\""
+ },
+ {
+  "id": "r3|single|base|ny|2",
+  "body": "CLAIM: Patient eligibility must be shown; UNKNOWN from the facts\n\nCASE FACT QUOTED: \"the ALJ failed to analyze whether the services furnished to each beneficiary were reasonable and necessary\"\n\nPOLICY QUOTED (MBPM ch.7 \u00a730): \"Be confined to the home\""
+ },
+ {
+  "id": "r3|single|base|roman_eagle_memorial_home|0",
+  "body": "CLAIM: Noncertified bed placement may be paid only under limitation of liability\n\nCASE FACT QUOTED: \"she was placed in a noncertified bed at the appellant\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a750): \"the services may be paid under certain conditions, based on the limitation of liability provisions\""
+ },
+ {
+  "id": "r3|single|base|roman_eagle_memorial_home|1",
+  "body": "CLAIM: Lack of an available bed does not cure failing to place patient in the proper bed\n\nCASE FACT QUOTED: \"facility did not have a certified bed available\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a750): \"or for any other reason the institution fails to place the patient in the appropriate bed\""
+ },
+ {
+  "id": "r3|single|base|roman_eagle_memorial_home|2",
+  "body": "CLAIM: Qualifying hospital stay requirement met\n\nCASE FACT QUOTED: \"both following a qualifying hospital stay\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a710): \"The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days\""
+ },
+ {
+  "id": "r3|single|base|stfrances_memorial|0",
+  "body": "CLAIM: IRF care is covered only if all listed requirements are met\n\nCASE FACT QUOTED: \"were Medicare coverage criteria met for the IRF services at issue\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110): \"IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act if\""
+ },
+ {
+  "id": "r3|single|base|stfrances_memorial|1",
+  "body": "CLAIM: IRF is not appropriate for patients who completed treatment in the referring hospital; UNKNOWN\n\nCASE FACT QUOTED: \"This appeal involves IRF services provided by the appellant to five beneficiaries\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110): \"the IRF benefit is not appropriate for patients who have completed their full course of treatment in the referring hospital\""
+ },
+ {
+  "id": "r3|single|base|twin_maples_health_care_case|0",
+  "body": "CLAIM: Observation is skilled when change in condition is likely\n\nCASE FACT QUOTED: \"the beneficiary was closely monitored by the skilled nurses (multiple times each day)\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.2.3.2): \"Observation and assessment are skilled services when the likelihood of change in a patient\""
+ },
+ {
+  "id": "r3|single|base|twin_maples_health_care_case|1",
+  "body": "CLAIM: Observation supports a reasonable potential for treatment changes\n\nCASE FACT QUOTED: \"On August 5, 2009, the psychiatrist reduced her Haldol from three to two times a day\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.2.3.2): \"there is a reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment\""
+ },
+ {
+  "id": "r3|single|base|twin_maples_health_care_case|2",
+  "body": "CLAIM: Skilled nursing coverage does not depend on improvement; PT daily\n\nCASE FACT QUOTED: \"physical therapy (PT) was started five times a week\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a730.3): \"Coverage does not turn on the presence or absence of an individual\""
+ },
+ {
+  "id": "r3|single|base|twin_maples_health_care_case|3",
+  "body": "CLAIM: Admission within the 30-day transfer window after hospital stay\n\nCASE FACT QUOTED: \"On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility\"\n\nPOLICY QUOTED (MBPM ch.8 \u00a710): \"The beneficiary must also have been transferred to a participating SNF within 30 days after discharge from the hospital\""
+ },
+ {
+  "id": "r3|single|base|valley_presbyterian|0",
+  "body": "CLAIM: IRF suits patients with complex medical and rehabilitation needs\n\nCASE FACT QUOTED: \"moderate assistance supine to sit, sit to stand\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110): \"require and can reasonably be expected to benefit from an inpatient stay and an interdisciplinary team approach to the delivery of rehabilitation care\""
+ },
+ {
+  "id": "r3|single|base|valley_presbyterian|1",
+  "body": "CLAIM: IRF necessity is judged on individual care needs\n\nCASE FACT QUOTED: \"The issue of medical reasonableness and necessity was briefly discussed\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110): \"Medicare requires determinations of whether IRF stays are reasonable and necessary to be based on an assessment of each beneficiary\""
+ },
+ {
+  "id": "r3|single|base|valley_presbyterian|2",
+  "body": "CLAIM: Preadmission screening within 48 hours is required; UNKNOWN\n\nCASE FACT QUOTED: \"the beneficiary was transferred and admitted to the appellant\"\n\nPOLICY QUOTED (MBPM ch.1 \u00a7110.1.1): \"a preadmission screening is an evaluation of the patient\u2019s condition and need for rehabilitation therapy and medical treatment\""
+ }
+]

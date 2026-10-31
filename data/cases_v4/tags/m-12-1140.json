@@ -1,0 +1,405 @@
+{
+"case_id": "m-12-1140",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued an unfavorable decision, dated January 18, 2012, concerning the decision of the provider skilled nursing facility (SNF) to terminate skilled services for the beneficiary on October 5, 2011.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined that the SNF\u2019s decision was appropriate, as the beneficiary no longer required skilled care.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The beneficiary, through her representative (daughter), has asked the Medicare Appeals Council (Council) to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The appellant did not send a copy of the request for review to the provider, although the provider is a party to the appeal.",
+"tag": "PROC",
+"reason": "request for review"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "Failure to copy all parties on a request for review tolls the Council\u2019s adjudication deadline until all parties \u201creceive notice of the request for [Council] review.\u201d 42 C.F.R.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "INTRO",
+"text": "\u00a7 405.1106(a).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 3,
+"si": 1,
+"section": "INTRO",
+"text": "On June 25, 2012, the Council sent the provider (via facsimile) a copy of the request for review.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 2,
+"section": "INTRO",
+"text": "The Council has received no response from the provider.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "INTRO",
+"text": "The Council admits the appellant\u2019s request for review and subsequent interim correspondence into the record as Exhibits (Exhs.) MAC-1 through MAC-4, respectively.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "INTRO",
+"text": "As set forth below, the Council adopts the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "The ALJ found that the 87 year old beneficiary was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011, for a \u201cseizure-type episode.\u201d Dec. at 2.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "The beneficiary was then sent to the hospital emergency room on August 28, 2011, for chest pain, was released, and was re-admitted to the SNF on August 30, 2011. Id.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "FACTS",
+"text": "Following readmission, the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services. Id.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 6,
+"si": 3,
+"section": "FACTS",
+"text": "The SNF discharged the beneficiary from both PT and OT on September 30, 2011, and issued a \u201cNotice of Medicare Non-Coverage\u201d (NNC), which stated that Medicare coverage of SNF services would end on October 5, 2011, as \u201cthere [was] no continuing evidence of medical necessity for the skills of a professional nurse or a therapist to safely and effectively carry out the plan of care.\u201d Id. at 1-2, citing Exh. 1.",
+"tag": "PROC",
+"reason": "Notice of"
+},
+{
+"pi": 6,
+"si": 4,
+"section": "FACTS",
+"text": "A SNF representative documented in the NNC that she notified the beneficiary\u2019s daughter by telephone on October 3, 2011, of the termination of skilled services and of the beneficiary\u2019s appeal rights. Exh. 1, at 1, 3.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 6,
+"si": 5,
+"section": "FACTS",
+"text": "The Quality Improvement Organization (QIO) and the Qualified Independent Contractor (QIC) affirmed the provider\u2019s decision on appeal. Dec. at 1-2.",
+"tag": "COUNCIL",
+"reason": "affirmed"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "The ALJ stated that the provider terminated skilled care based on a lack of evidence that the skills of a professional nurse or therapist were required. Dec. at 5.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ also reviewed the beneficiary\u2019s medical condition, on initial admission to the SNF, subsequent hospitalization, and readmission, and determined that \u201c[i]t is clear that no skilled services were ordered or received after October 5, 2011, and thus there are no services\u201d for which the ALJ could order reimbursement. Id. at 5-6. 1 The ALJ then found the beneficiary liable for any non-covered charges, based on \u201cactual knowledge\u201d of non-coverage. Id. at 6.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "MIXED",
+"text": "In her request for review, the appellant refers the Council to the \u201c2nd full paragraph\u201d on page six of the ALJ\u2019s decision, then asserts that \u201crehabilitative services were \u2018medically reasonable and necessary\u2019 . . . .\u201d Exh. MAC-1, at 1.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant also argues that she \u201cdid not have prior knowledge that Medicare payment for services would be denied before 90 or 100 days.\u201d Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "MIXED",
+"text": "The appellant states that \u201crehabilitative services should have been continued\u201d and that, although some of the beneficiary\u2019s chronic conditions did not improve, others did. Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 9,
+"si": 3,
+"section": "MIXED",
+"text": "The appellant concludes by asking that the Council review the ALJ\u2019s decision in light of the decision in Jimmo v. Sebelius, Civil No. 5:11-CV-17 (D. Vt.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 9,
+"si": 4,
+"section": "MIXED",
+"text": "October 25, 2011). Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "MIXED",
+"text": "The Council is unclear on the appellant\u2019s reference to the second full paragraph on page six of the ALJ\u2019s decision, as that paragraph concerns limitation on liability under section 1879 of the Social Security Act (Act), not medical necessity under section 1862 of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "MIXED",
+"text": "The Council construes the appellant\u2019s contention, however, as being that the services provided were \u201creasonable and necessary\u201d under section 1862 and that the beneficiary continued to require skilled care as of and beyond the cut-off date of October 5, 2011.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "MIXED",
+"text": "As the ALJ pointed out, the record indicates that the provider discharged the beneficiary from skilled PT and OT on September 30, 2011, a month after readmission to the SNF, because the beneficiary had inconsistent vital signs, low blood pressure, and dizziness while standing. Dec. at 6.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "MIXED",
+"text": "The beneficiary could at that time transfer with moderate assistance, ambulate with a rolling walker for fifteen feet with minimum to moderate assistance, could \u201ccomplete four minutes of activity tolerance exercises,\u201d and had shown \u201csome improvements in activities of daily living.\u201d Id.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 11,
+"si": 2,
+"section": "MIXED",
+"text": "The Council agrees with the ALJ that the record does not establish that the beneficiary qualified for care after October 5, 2011, that was both medically reasonable as well as necessary, within Medicare\u2019s coverage criteria. 2",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant\u2019s reliance on the Jimmo v. Sebelius litigation is also unavailing.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "MIXED",
+"text": "On January 24, 2013, the United States District Court for the District of Vermont approved a settlement agreement in that case, in which the plaintiffs alleged that the Centers for Medicare & Medicaid Services (CMS) wrongly applied an \u201cimprovement standard\u201d in making skilled care determinations for home health, SNF, and outpatient rehabilitation services.",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 12,
+"si": 2,
+"section": "MIXED",
+"text": "In a Fact Sheet on the litigation, 3 CMS stated that it had denied establishing an improper \u201crule of thumb\u201d improvement standard and that the Court had not ruled on the plaintiffs\u2019 arguments.",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 12,
+"si": 3,
+"section": "MIXED",
+"text": "CMS also stated that, while expectation of improvement was one factor for consideration in determining skilled care, \u201cMedicare policy has long recognized that there may also be specific instances where no improvement is expected but skilled care is, nevertheless, required in order to prevent or slow deterioration and maintain a beneficiary at the maximum practicable level of function.\u201d",
+"tag": "LAW",
+"reason": "law statement: in order to"
+},
+{
+"pi": 12,
+"si": 4,
+"section": "MIXED",
+"text": "Emphasis supplied; see 42 C.F.R. \u00a7 409.32(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 12,
+"si": 5,
+"section": "MIXED",
+"text": "CMS summarized that \u201ccoverage depends not on the beneficiary\u2019s restoration potential, but on whether skilled care is required, along with the underlying reasonableness and necessity of the services themselves.\u201d",
+"tag": "LAW",
+"reason": "law statement: is required"
+},
+{
+"pi": 12,
+"si": 6,
+"section": "MIXED",
+"text": "Emphasis supplied.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 12,
+"si": 7,
+"section": "MIXED",
+"text": "CMS pointed out a party\u2019s responsibility to provide \u201csufficient documentation to substantiate clearly that skilled care is required, that it is in fact provided, and that the services themselves are reasonable and necessary . . . .\u201d",
+"tag": "LAW",
+"reason": "law statement: is required"
+},
+{
+"pi": 12,
+"si": 8,
+"section": "MIXED",
+"text": "CMS noted that the Settlement Agreement also specified: \u201cNothing in this Settlement Agreement modifies, contracts, or expands the existing eligibility requirements for receiving Medicare coverage.\u201d",
+"tag": "LAW",
+"reason": "law statement: requirements for"
+},
+{
+"pi": 12,
+"si": 9,
+"section": "MIXED",
+"text": "Bold in original.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 12,
+"si": 10,
+"section": "MIXED",
+"text": "Instead, CMS stated that the Settlement Agreement required that CMS clarify existing policies for consistent and appropriate coverage determinations. See, generally, \u201cJimmo v. Sebelius Settlement Agreement Fact Sheet,\u201d Attachment.",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "MIXED",
+"text": "The Jimmo v. Sebelius Settlement Agreement Fact Sheet is not itself authority, but it concisely restates the governing coverage standards as relevant to this case in light of the appellant\u2019s contention referring to the settlement.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 13,
+"si": 1,
+"section": "MIXED",
+"text": "A Medicare beneficiary must, in part, require the skills of professional or technical personnel for rehabilitation therapy services to meet coverage requirements. See, e.g., 42 C.F.R. \u00a7\u00a7 409.31(a)(2), 409.32, 409.33.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 13,
+"si": 2,
+"section": "MIXED",
+"text": "In this case, the Council agrees with the ALJ that the beneficiary did not require skilled services after October 5, 2011.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "MIXED",
+"text": "As the beneficiary does not dispute the documented telephone contact by the provider on the NNC, the Council upholds the ALJ\u2019s finding that the beneficiary is liable for any non-covered charges after October 5, 2011.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "TERMINAL",
+"text": "The Council has considered the record and exceptions.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 16,
+"si": 1,
+"section": "TERMINAL",
+"text": "The Council concludes that the appellant\u2019s exceptions present no basis for changing the ALJ\u2019s action.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 16,
+"si": 2,
+"section": "TERMINAL",
+"text": "The Council therefore adopts the ALJ decision.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

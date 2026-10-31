@@ -1,0 +1,28 @@
+{
+ "case_id": "nj_dept_humanservices5",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "19 home health speech-language pathology (dysphagia) therapy sessions, May 22 to Sept 26, 2006",
+ "facts": [
+  "the beneficiary was 38 years of age and suffering from brain injury, intracranial hemorrhage, and hypothyroidism during the relevant time period.",
+  "Speech therapy orders were added to his care plan beginning with the certification period starting April 25, 2006.",
+  "May 4, 2006 speech therapy notes in the record indicated that a speech therapist who had been working with the beneficiary on oral-motor abilities and articulation skills referred him to another practitioner with suitable equipment available to evaluate his suitability for stimulation therapy to address his swallowing problems.",
+  "The second speech-language pathologist assessed him on May 22, 2006, found reduced labial tone, strength and function, reduced lingual strength, reduced laryngeal elevation, and pooling of saliva in mouth.",
+  "Based on the results, dysphagia therapy was ordered twice a week for 8 weeks in the care plan signed by the physician.",
+  "The therapist noted \u201cincreased ability to control secretions during eating,\u201d and an ability to \u201csip from a smaller diameter straw,\u201d and recommended a repeat barium swallow study to evaluate the beneficiary\u2019s response to treatment after four weeks of treatment.",
+  "The therapy notes of the second four week period record \u201csteady improvements,\u201d and identify specific skills and abilities acquired and increased, such as the ability to purse lips, to blow bubbles, to drink thin liquids without coughing, to eat foods that he could not previously tolerate, to swallow capsules with a teaspoon of milk, and to complete phoneme repetition with less cuing.",
+  "The testimony of the home health provider representative at the hearing acknowledged that the beneficiary had made some progress in the dysphagia therapy using the new neuromuscular electrical stimulation approaches, but asserted that overall they did not expect his prognosis from the traumatic brain injury \u201coverall\u201d to improve significantly."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council modified the ALJ decision only as to the 19 appealed speech therapy sessions, finding the denial for no expected improvement unsupported given documented measurable gains, so those services were covered.",
+ "cited_sections": [],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 409.42",
+  "42 CFR 409.44(c)",
+  "42 CFR 409.44(c)(1)",
+  "42 CFR 409.44(c)(2)(i)-(iv)"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

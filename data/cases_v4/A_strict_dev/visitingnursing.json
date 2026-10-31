@@ -1,0 +1,53 @@
+{
+ "case_id": "visitingnursing",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "home health physical therapy (11 visits), Nov 21, 2007 to Jan 2, 2008",
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council reversed the ALJ, holding the OASIS should not be the sole basis for denial and the record showed a functional decline for which skilled gait-training therapy was reasonable and necessary.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30.1.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.2.2.C"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 405.1122(c)",
+  "42 CFR 409.42",
+  "42 CFR 409.42(c)",
+  "42 CFR 409.44(a)",
+  "42 CFR 409.44(c)",
+  "SSA 1862(a)",
+  "64 Fed. Reg. 3764, 3772"
+ ],
+ "facts": [
+  "As a preliminary matter, the appellant submitted additional documentation with its July 13, 2009, request for review.",
+  "The beneficiary, an 85 year old female, was admitted to home health care on November 21, 2007, with diagnoses of degenerative joint disease of the right shoulder and arthritis of the lower extremities. Exh. 2 at 6. The beneficiary\u2019s physician ordered physical therapy once a week for one week, and twice a week for five weeks, to increase the beneficiary\u2019s range of motion, manage pain, provide gait training, and evaluate and treat the beneficiary\u2019s condition. Exhs. 2 at 6, 3 at 57.",
+  "The appellant home health agency furnished the beneficiary with 11 physical therapy visits from November 21, 2007, through January 2, 2008, and seeks Medicare coverage for these services. Exh. 1.",
+  "The appellant asserts that Medicare should cover the services at issue because the therapy documentation is a better source to judge the presence of a significant functional decline. Id.",
+  "In this case, the record reflects that the beneficiary resided in an independent living facility which provided assistance with grocery shopping, meal preparation, yard and house work. Exh. 2 at 4.",
+  "The OASIS is an \u201cinstrument/data collection tool used to collect and report performance data by home health agencies. . . .",
+  "Specifically, the \u201cHome Health Certification and Plan of Care\u201d reflects that the beneficiary experienced an exacerbation of arthritis that left her ambulating with a rolling walker as opposed to her prior status of ambulating with a cane. Exh. 2.",
+  "Upon initial evaluation, the beneficiary\u2019s score was 7/28, which indicates that she had a risk of severe falls. Id.",
+  "The physical therapy visit notes reflect that skilled gait training occurred during each visit. Exh. 3 at 10-52."
+ ],
+ "arm": "A_strict",
+ "set": "dev",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 286,
+ "evidence_words_D": 799,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

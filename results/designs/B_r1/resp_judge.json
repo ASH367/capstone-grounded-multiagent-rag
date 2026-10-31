@@ -1,0 +1,189 @@
+[
+ {
+  "case_id": "11-1343",
+  "decision": "PARTLY_COVERED",
+  "reason": "Qualifying hospital stay and prompt therapy starts with documented functional decline support coverage, but skilled need versus aide-level care and amount/duration are not shown, so only part is supported.",
+  "sides_disagree": false,
+  "passage_ids": [
+   579,
+   638,
+   649,
+   640
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "decision": "PARTLY_COVERED",
+  "reason": "The cited hospital stay and frequent skilled medication adjustments support some coverage, but SNF admission timing and inpatient status are unestablished, so coverage is only partly supported.",
+  "sides_disagree": true,
+  "passage_ids": [
+   572,
+   608
+  ]
+ },
+ {
+  "case_id": "baptist_health_care",
+  "decision": "NOT_COVERED",
+  "reason": "The facts give no clinical basis for inpatient admission for the AICD replacements, and the QIO notice warned routine short stays would be denied; limitation on liability is asserted but not established.",
+  "sides_disagree": true,
+  "passage_ids": [
+   10,
+   13,
+   14
+  ]
+ },
+ {
+  "case_id": "conn_dept_social_services",
+  "decision": "NOT_COVERED",
+  "reason": "The facts are purely procedural and show no service, stay, or skilled need, so nothing supports coverage.",
+  "sides_disagree": false,
+  "passage_ids": []
+ },
+ {
+  "case_id": "connecticut11",
+  "decision": "PARTLY_COVERED",
+  "reason": "A qualifying stay supports early days via the presumption, but PT plateau tied to dementia and no individual evidence of skilled need weaken later days.",
+  "sides_disagree": false,
+  "passage_ids": [
+   563,
+   607
+  ]
+ },
+ {
+  "case_id": "gr",
+  "decision": "NOT_COVERED",
+  "reason": "The facts show only nursing visits at an assisted living facility, with nothing on homebound status, skilled need, or non-duplication, so coverage is not supported.",
+  "sides_disagree": true,
+  "passage_ids": [
+   186,
+   184
+  ]
+ },
+ {
+  "case_id": "m-10-1884",
+  "decision": "NOT_COVERED",
+  "reason": "The disputed dates begin after PT and OT were discharged, and nothing shows a continuing skilled need for those dates.",
+  "sides_disagree": true,
+  "passage_ids": [
+   636,
+   595
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "decision": "COVERED",
+  "reason": "Nurse-driven repeated insulin adjustments and monitoring of an unstable regimen show skilled observation and assessment; the skeptic's concerns are speculative on this record.",
+  "sides_disagree": false,
+  "passage_ids": [
+   239,
+   232
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "decision": "PARTLY_COVERED",
+  "reason": "The early post-hospital period and the physician-certified skilled week are supported, but the presumption ends early and daily skilled need for the intervening days is not shown.",
+  "sides_disagree": false,
+  "passage_ids": [
+   579,
+   563,
+   650,
+   608
+  ]
+ },
+ {
+  "case_id": "m-12-1140",
+  "decision": "PARTLY_COVERED",
+  "reason": "Readmission therapy and nursing for about a month look covered, but coverage after the September 30 discharge is not shown.",
+  "sides_disagree": false,
+  "passage_ids": [
+   579,
+   637,
+   610
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "decision": "PARTLY_COVERED",
+  "reason": "Skilled PT after the fall is plausibly covered regardless of improvement, but therapy after goals were met on September 11 and general exercise are questionable.",
+  "sides_disagree": false,
+  "passage_ids": [
+   636,
+   640,
+   639
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "decision": "PARTLY_COVERED",
+  "reason": "PT for stair lift transfer teaching and establishing a maintenance program is covered, but only until goals are reached, and aide-training-only visits are not billable.",
+  "sides_disagree": false,
+  "passage_ids": [
+   292,
+   286,
+   285
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "decision": "PARTLY_COVERED",
+  "reason": "Documented complications support skilled nursing, but routine ostomy care is not skilled and visit-level documentation is not shown.",
+  "sides_disagree": false,
+  "passage_ids": [
+   257,
+   231,
+   232
+  ]
+ },
+ {
+  "case_id": "ny",
+  "decision": "PARTLY_COVERED",
+  "reason": "Part-time or intermittent care is coverable up to the hour limits if qualifying criteria are met, but eligibility and actual hours are not shown.",
+  "sides_disagree": false,
+  "passage_ids": [
+   341,
+   342,
+   223
+  ]
+ },
+ {
+  "case_id": "roman_eagle_memorial_home",
+  "decision": "NOT_COVERED",
+  "reason": "The beneficiary was placed in a noncertified bed, which bars Part A payment, and the facts do not establish that the limitation-on-liability conditions are met.",
+  "sides_disagree": true,
+  "passage_ids": [
+   666
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "decision": "NOT_COVERED",
+  "reason": "The facts say nothing about the beneficiaries' clinical needs or the IRF requirements, so coverage is not supported.",
+  "sides_disagree": true,
+  "passage_ids": [
+   72
+  ]
+ },
+ {
+  "case_id": "twin_maples_health_care_case",
+  "decision": "PARTLY_COVERED",
+  "reason": "Skilled monitoring and pneumonia care in early August are supported, but behavior stabilized by August 12 and daily skilled need through August 31 is not shown.",
+  "sides_disagree": false,
+  "passage_ids": [
+   629,
+   626,
+   633,
+   632
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "decision": "COVERED",
+  "reason": "Direct transfer after knee replacement, prior independence, and substantial assistance needs with medical management support IRF necessity; the skeptic's participation and screening points are unproven.",
+  "sides_disagree": true,
+  "passage_ids": [
+   71,
+   74
+  ]
+ }
+]

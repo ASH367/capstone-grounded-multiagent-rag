@@ -1,0 +1,2085 @@
+{
+"case_id": "11-1343",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "On March 4, 2011, the Administrative Law Judge (ALJ) issued three separate decisions,1 which concerned skilled nursing facility (SNF) care furnished to beneficiaries D.E. and E.M. from October 1, 2009, to October 31, 2009, and beneficiary J.M. from August 1, 2009 to August 31, 2009.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ held that the majority of the therapy services provided to the beneficiaries during the dates of service at issue did not meet the Medicare statutory requirements of section 1814(a)(2)(B) of the Social Security Act (Act) for coverage, on the grounds that the beneficiaries\u2019 physicians did not sign the plans of care for the therapy services.",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ found that OT services provided to beneficiary J.M. and the PT services furnished to beneficiary E.M. were not medically reasonable and necessary or insufficiently documented pursuant to section 1862(a)(1)(A) of the Act.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The ALJ found that the occupational therapy (OT) services furnished to beneficiary D.E., the speech therapy (ST)",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "services furnished to beneficiary E.M., and the skilled nursing (SN) services furnished to J.M. were medically reasonable and necessary and furnished on a daily basis; thus, the SNF stays would be covered at a downcoded RUG level.",
+"tag": "FRAGMENT",
+"reason": "starts lowercase (page-break artifact)"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "Finally, the ALJ held the appellant liable for the non-covered charges with respect to all the beneficiaries, thus finding that the services found not medically reasonable and necessary could not be billed to the beneficiaries.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council (Council) to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "INTRO",
+"text": "The Council admits the following documents into the record:",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "INTRO",
+"text": "Exhibit (Exh.) MAC-1: Request for Review for D.E.",
+"tag": "PROC",
+"reason": "MAC-1"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "INTRO",
+"text": "Exh. MAC-2: Request for Review for E.M.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "INTRO",
+"text": "Exh. MAC-3: Request for Review for J.M.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "INTRO",
+"text": "As set forth below, the Council modifies the ALJ\u2019s decisions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "LAW",
+"text": "Medicare Part A covers post-hospital SNF care.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "LAW",
+"text": "Social Security Act (Act), \u00a7 1861(h); 42 C.F.R. \u00a7\u00a7 409.5, 409.20.",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 10,
+"si": 2,
+"section": "LAW",
+"text": "The regulations at 42 C.F.R. \u00a7\u00a7 409.30 through 409.36 are applicable in determining Medicare coverage of SNF services, including physical therapy (PT), speech therapy (ST), occupational therapy (OT), and skilled nursing (SN) services .",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 10,
+"si": 3,
+"section": "LAW",
+"text": "Skilled nursing and rehabilitation services are defined as those that are: (1) ordered by a physician, (2) require the skills of professional personnel; and (3) are furnished directly by (or under the supervision of) such personnel.",
+"tag": "LAW",
+"reason": "law statement: are defined"
+},
+{
+"pi": 10,
+"si": 4,
+"section": "LAW",
+"text": "C.F.R. \u00a7 409.31(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "LAW",
+"text": "CMS has summarized the conditions for Medicare coverage of SNF services in the Medicare Benefit Policy Manual (MBPM) (IOM Pub. 100-2).",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "LAW",
+"text": "The MBPM provides that SNF services are covered under the following circumstances:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 The patient requires skilled nursing services or skilled rehabilitation services; i.e. services that must be performed by or under the supervision of professional or technical personnel; are ordered by a physician and the services are rendered for a condition for which the patient received inpatient hospital services or for a condition that arose while receiving care in a SNF for a condition for which he received inpatient hospital services;",
+"tag": "COUNCIL",
+"reason": "are ordered"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 The patient requires such services on a daily basis;",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 14,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 As a practical matter, the daily skilled services can be provided only on an inpatient basis in a SNF; and",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 The services must be reasonable and necessary for the treatment of a patient\u2019s illness or injury, i.e., be consistent with the nature and severity of the individual\u2019s illness or injury, the individual\u2019s particular medical needs . . .",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 15,
+"si": 1,
+"section": "LAW",
+"text": "The services must also be reasonable in terms of duration and quantity.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "LAW",
+"text": "If any one of these four factors is not met, a stay in a SNF, even though it might include the delivery of some skilled services, is not covered.",
+"tag": "EVAL",
+"reason": "not covered"
+},
+{
+"pi": 16,
+"si": 1,
+"section": "LAW",
+"text": "For example, payment for a SNF level of care could not be made if a patient needs an intermittent rather than daily skilled service.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 17,
+"si": 0,
+"section": "LAW",
+"text": "MBPM, ch. 8, \u00a7 30.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "LAW",
+"text": "Medicare does not cover SNF services \u201cwhere such expenses are for custodial care.\u201d",
+"tag": "LAW",
+"reason": "law statement: Medicare does not"
+},
+{
+"pi": 18,
+"si": 1,
+"section": "LAW",
+"text": "Act, \u00a7 1862(a)(9).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 18,
+"si": 2,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 411.15(g) defines \u201ccustodial care\u201d as any care that does not meet the SNF care coverage requirements set out at 42 C.F.R. \u00a7\u00a7 409.31\u2013409.35.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "LAW",
+"text": "Medicare also excludes from coverage items and services that are not \u201creasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.\u201d",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "LAW",
+"text": "Act, \u00a7 1862(a)(1)(A).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "LAW",
+"text": "In 1998, Medicare began paying for SNF services under a \"Prospective Payment System\" (PPS).",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 21,
+"si": 1,
+"section": "LAW",
+"text": "Medicare Program Integrity Manual (MPIM) (IOM Pub. 100-08), ch. 6, \u00a7 6.1.",
+"tag": "LAW",
+"reason": "MPIM"
+},
+{
+"pi": 21,
+"si": 2,
+"section": "LAW",
+"text": "The SNF PPS is based on academic studies on case-adjusted payment mixes that linked the amount of payment to the intensity of resources used.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 21,
+"si": 3,
+"section": "LAW",
+"text": "Fed. Reg. 26252, 26253-55 (May 12, 1998).",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 21,
+"si": 4,
+"section": "LAW",
+"text": "PPS covered SNF services include post-hospital SNF services for which benefits are provided under Medicare Part A and all items and services for a SNF inpatient (other than certain services excluded by statute) for which, prior to July 1, 1998, payment had been made under Medicare Part B. The SNF PPS per diem rates use a resident classification system to account for relative resource utilization of different patient types.",
+"tag": "LAW",
+"reason": "statute"
+},
+{
+"pi": 21,
+"si": 5,
+"section": "LAW",
+"text": "For this purpose, SNF PPS uses Version III of the Resource Utilization Group (RUG-III) classification system to determine a SNF\u2019s per diem rate for all or part of a SNF stay.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "LAW",
+"text": "The SNF PPS payments are determined based upon a patient's condition and classification in a RUG-III code. Id.; see also CMS Resident Assessment Instrument Manual Version 2.",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 22,
+"si": 1,
+"section": "LAW",
+"text": "(RAIM) ch. 6, \u00a7 6.2.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 22,
+"si": 2,
+"section": "LAW",
+"text": "The RUG-III category classification is based upon a resident assessment conducted using the Minimum Data Set (MDS) 2.0. Id.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 22,
+"si": 3,
+"section": "LAW",
+"text": "MDS 2.0 is a clinical assessment tool reflecting beneficiary diagnoses, ability to perform activities of daily living (ADLs), and treatments received. Id.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 22,
+"si": 4,
+"section": "LAW",
+"text": "The RUG-III classification system is based on a hierarchy of major patient types, organized into major categories, including extensive services, special care, and clinically complex.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 22,
+"si": 5,
+"section": "LAW",
+"text": "Each category is further differentiated, resulting in specific patient groups used for payment.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 22,
+"si": 6,
+"section": "LAW",
+"text": "These groups are assigned using MDS 2.0 resident assessment data.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 22,
+"si": 7,
+"section": "LAW",
+"text": "The 3-digit RUG-III code and the 2-digit assessment indicator make up the Health Insurance Prospective Payment System (HIPPS) code that appears on the bill, and is used to determine the SNF PPS payment rate. See MPIM, ch. 6, \u00a7 6.2.",
+"tag": "LAW",
+"reason": "MPIM"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "LAW",
+"text": "Following section 1888(e)(6) of the Act, regarding the PPS, SNFs must provide resident assessment data necessary to develop and implement the payment rates.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 24,
+"si": 1,
+"section": "LAW",
+"text": "Resident assessments must be completed according to a prescribed schedule \u2014 i.e., on or by the fifth (5-day assessment using the indicator \u201c01\u201d), fourteenth (assessment indicators \u201c07,\u201d \u201c17\u201d or \u201c79\u201d), thirtieth (assessment indicators \u201c02\u201d or \u201c29\u201d), sixtieth (assessment indicators \u201c03\u201d or \u201c39\u201d), and ninetieth (assessment indicators \u201c04,\u201d \u201c49\u201d or \u201c54\u201d) days after admission.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "LAW",
+"text": "Under the SNF PPS, the amount of payment due for a continued SNF stay in a given period is prospectively determined by the resources required to care for a patient in a previous \u201clook back\u201d or \u201cassessment period,\u201d so long as the SNF stay remains medically necessary, even if less resources are required to care for the patient during that given period. See generally 63 Fed. Reg. 26252 (May 12, 1998).",
+"tag": "LAW",
+"reason": "law statement: are required"
+},
+{
+"pi": 25,
+"si": 1,
+"section": "LAW",
+"text": "Any assessment performed after the initial five-day assessment may result in a RUG-III classification change.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 25,
+"si": 2,
+"section": "LAW",
+"text": "The level of services delivered during those \u201clook back\u201d periods will determine the amount of payment due for the next sixty days, unless a new assessment is performed.",
+"tag": "LAW",
+"reason": "law statement: unless"
+},
+{
+"pi": 25,
+"si": 3,
+"section": "LAW",
+"text": "The assessment reference date (ARD) is the common date on which all MDS observation periods end.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 25,
+"si": 4,
+"section": "LAW",
+"text": "The observation period is also referred to as the look back period.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 25,
+"si": 5,
+"section": "LAW",
+"text": "It is the time period during which data is captured for inclusion on the MDS assessment.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 25,
+"si": 6,
+"section": "LAW",
+"text": "The ARD is the last day of the observation period and controls what care and services are captured on the MDS assessment.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 25,
+"si": 7,
+"section": "LAW",
+"text": "Anything that happens after the ARD will not be captured on that MDS.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 25,
+"si": 8,
+"section": "LAW",
+"text": "For example, for a MDS item with a 7-day period of observation (look back period), assessment information is collected for a 7-day period ending on and including the ARD.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 25,
+"si": 9,
+"section": "LAW",
+"text": "CMS Resident Assessment Instrument (RAI) Version 2.",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 25,
+"si": 10,
+"section": "LAW",
+"text": "Manual, ch. 3, \u00a7 A3.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "LAW",
+"text": "The initial presumption of coverage that arises from the beneficiary\u2019s first assessment, the 5-day assessment, encompasses only the period from admission through the assessment reference date for the initial 5-day assessment. See 64 Fed. Reg. 41666 (July 30, 1999); see also 42 C.F.R. \u00a7 409.30.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 26,
+"si": 1,
+"section": "LAW",
+"text": "The rebuttable presumption of coverage based on the 5-day assessment is not intended to create an opportunity for continued payment beyond the point where the services are no longer medically necessary and reasonable. See 64 Fed. Reg. 41666-41668 (emphasis supplied).",
+"tag": "EVAL",
+"reason": "medically necessary"
+},
+{
+"pi": 26,
+"si": 2,
+"section": "LAW",
+"text": "Thus, whenever a beneficiary is provided with care that does not meet the requirements for Medicare coverage set forth in 42 C.F.R. \u00a7\u00a7 409.31 through 409.35, the custodial care exclusion in \u00a7 1862(a)(9) of the Act, \u201ctakes precedence over other provisions of the program\u2014including any initial presumption made with regard to coverage.\u201d 64 Fed. Reg. 41668 (emphasis supplied).",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "LAW",
+"text": "If the contractor determines that all rehabilitation services are no longer reasonable and necessary, or the documentation does not support that any further rehabilitation services were being provided, at some point during the covered days associated with that MDS, but that other medically necessary skilled services were being provided, the contractor shall determine whether there is a clinical group for which the beneficiary qualifies, and pay the claim according to the correct RUG value, for all covered days from the date that the rehabilitation services are determined to be not reasonable and necessary or not provided. See MPIM, ch. 6, \u00a7 6.1.3.",
+"tag": "LAW",
+"reason": "MPIM"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "LAW",
+"text": "Pursuant to section 1833(e) of the Act, an appellant bears the responsibility for documenting the medical necessity of its claim for coverage. See also 42 C.F.R. \u00a7 424.5(a)(6).",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 30,
+"si": 0,
+"section": "MIXED",
+"text": "1.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 30,
+"si": 1,
+"section": "MIXED",
+"text": "Beneficiary D.E. Dates of Service: October 1, 2009, to October 31, 2009",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 32,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant billed Medicare for SNF services provided to D.E., using HCPCS codes RUB02 and RUB03. Exh. 1 at 33.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 32,
+"si": 1,
+"section": "FACTS",
+"text": "The Medicare contractor determined that the PT, OT, and ST services provided to D.E. were not medically reasonable and necessary, and therefore downcoded the RUG-III codes to reflect the proper RUG\u00ad III codes if the PT, OT, and/or ST services were not medically reasonable and necessary, but the beneficiary received SN services. See D.E. Exh. 1 at 35.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 32,
+"si": 2,
+"section": "FACTS",
+"text": "The contractor then denied the downcoded claims as not reasonable and necessary, after finding that the record did not contain documentation to support a finding for medically reasonable and necessary daily SN services. See id.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 32,
+"si": 3,
+"section": "FACTS",
+"text": "At redetermination, the contractor affirmed the initial denial. Id. at 16-17.",
+"tag": "COUNCIL",
+"reason": "affirmed"
+},
+{
+"pi": 33,
+"si": 0,
+"section": "FACTS",
+"text": "On reconsideration, the Qualified Independent Contractor (QIC) affirmed the contractor\u2019s decision, also finding that the services were not medically reasonable and necessary. See D.E. Exh. 1 at 2-4.",
+"tag": "COUNCIL",
+"reason": "affirmed"
+},
+{
+"pi": 34,
+"si": 0,
+"section": "FACTS",
+"text": "On further appeal, with respect to the OT services, the ALJ reversed the prior adjudicators\u2019 findings and determined that the OT services provided were medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "reversed"
+},
+{
+"pi": 34,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ also determined that the PT and ST services did not meet the Medicare coverage statutory requirements of section 1814(a)(2)(B) of the Social Security Act (Act) on the grounds that D.E.\u2019s physician did not sign the initial plans of care for the therapy services.",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 34,
+"si": 2,
+"section": "FACTS",
+"text": "ALJ Decision (Dec.) at 13-14.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 34,
+"si": 3,
+"section": "FACTS",
+"text": "Regarding the PT and ST services, the ALJ, after stating that section 1879 of the Act\u2019s limitation of liability did not apply, held the appellant liable under section 1866(a)(1)(A) of the Act, which prohibits a provider from charging an individual for services for which the individual would receive coverage had the provider complied with procedural and other requirements. Id.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 34,
+"si": 4,
+"section": "FACTS",
+"text": "Because the ALJ determined that the PT and ST services did not meet Medicare coverage criteria, she determined that the appellant was not entitled to payment under Medicare Part A for RUG levels RUB02 and RUB03 billed by the appellant, and therefore directed the contractor to reassign D.E. to the appropriate RUG-III category based on the ALJ\u2019s finding that the OT services were medically reasonable and necessary. Id. at 12.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 35,
+"si": 0,
+"section": "FACTS",
+"text": "Before the Council, the appellant contests the ALJ\u2019s findings that the appellant\u2019s PT and ST documentation did not meet the statutory requirements of section 1814(a)(2)(B). See Exh. MAC\u00ad 1.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 35,
+"si": 1,
+"section": "FACTS",
+"text": "The appellant contends that the record shows sufficient evidence that D.E.\u2019s physician was aware, ordered, and was in agreement with the therapy plans.",
+"tag": "PARTY",
+"reason": "appellant contends"
+},
+{
+"pi": 37,
+"si": 0,
+"section": "FACTS",
+"text": "The record indicates that D.E. had a prior hospital stay for a diagnosis of congestive heart failure from August 23, 2009, to August 26, 2009. Exh. 2 at 216.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 37,
+"si": 1,
+"section": "FACTS",
+"text": "The beneficiary\u2019s medical history included stroke, left-sided weakness due to stroke, hearing loss, hypertension, GERD, depression (present situational depression), chronic Coumadin treatment, diabetes type II, hyperlipidemia, left hip arthroplasty, CHF and anemia. Exh. 2 at 166.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 37,
+"si": 2,
+"section": "FACTS",
+"text": "The beneficiary was noted to have \u201csome obvious \u2018cognitive deficits,\u2019 but no official diagnosis of dementia.\u201d Id. at 168.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 38,
+"si": 0,
+"section": "FACTS",
+"text": "After review of the administrative record, the Council concurs with the ALJ\u2019s finding that the OT services were medically reasonable and necessary under section 1862(a)(1)(A) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 38,
+"si": 1,
+"section": "FACTS",
+"text": "The Council, however, determines the ALJ erred in determining the PT and ST failed to meet Medicare statutory criteria pursuant to section 1814(a)(2)(B) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 38,
+"si": 2,
+"section": "FACTS",
+"text": "However, upon reviewing the substantive documentation, the Council determines that the PT and ST services were not medically reasonable and necessary under section 1862(a)(1)(A) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 38,
+"si": 3,
+"section": "FACTS",
+"text": "We therefore modify the ALJ\u2019s decision to provide a substantive analysis as to why the services were not medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 40,
+"si": 0,
+"section": "FACTS",
+"text": "D.E. was referred to OT due to a decline in her functional ADLs. Exh. 2 at 179.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 40,
+"si": 1,
+"section": "FACTS",
+"text": "As noted by the ALJ, D.E.\u2019s prior level of function was that she required minimal to moderate assistance with all functional transfers. Dec. at 9; Exh. 2 at 179.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 40,
+"si": 2,
+"section": "FACTS",
+"text": "At OT initiation, D.E.\u2019s functional status had declined as follows: her sitting balance was poor; she required moderate assistance with lower body bathing; maximal assistance with upper body bathing; maximal assistance with lower body dressing; and maximal assistance with toilet transfers. Id.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 40,
+"si": 3,
+"section": "FACTS",
+"text": "The ALJ found that the record indicated D.E. showed improvement and restoration of her functioning, as the record indicated she participated in the therapy program and her condition improved. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 40,
+"si": 4,
+"section": "FACTS",
+"text": "Specifically, the ALJ found that the OT progress notes indicated that D.E.\u2019s functional status had improved to: only requiring moderate assistance with upper body bathing, upper and lower body dressing, and toilet transfers; and D.E. required minimal to standby assistance with self-feeding. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 40,
+"si": 5,
+"section": "FACTS",
+"text": "Additionally D.E. performed 40 minutes of reaching activities with minimal assistance while sitting at the edge of the bed. Id.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 40,
+"si": 6,
+"section": "FACTS",
+"text": "Accordingly, the Council concurs with the ALJ\u2019s determination that the OT services were medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 42,
+"si": 0,
+"section": "FACTS",
+"text": "With respect to the PT and ST services provided to D.E., the Council finds the ALJ erred in determining that the appellant did not meet the statutory requirement for coverage and therefore did not establish medical necessity.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 42,
+"si": 1,
+"section": "FACTS",
+"text": "As discussed above, skilled nursing and rehabilitation services are defined as those that are: (1) ordered by a physician, (2) require the skills of professional personnel; and (3) are furnished directly by (or under the supervision of) such personnel. See 42 C.F.R. \u00a7 409.31(a)(Emphasis added).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 42,
+"si": 2,
+"section": "FACTS",
+"text": "In her decision, the ALJ erroneously focuses on that fact that the initial therapy plans of care (CMS 700 form) for the PT and ST services were not signed by D.E.\u2019s treating physician, as a basis for finding that the physician did not order, and therefore there were no valid physician certification for these services.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 42,
+"si": 3,
+"section": "FACTS",
+"text": "A physician\u2019s signature on a plan of treatment is not a requirement per se for inpatient SNF rehabilitation care, but is simply one indication that a particular therapy service has been ordered by a physician and/or furnished pursuant to an active plan of treatment.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 42,
+"si": 4,
+"section": "FACTS",
+"text": "If the physician\u2019s signature is not located within the plan of care, the reviewer may look to other documentation within the record.",
+"tag": "PRIOR_DENIAL",
+"reason": "reviewer"
+},
+{
+"pi": 42,
+"si": 5,
+"section": "FACTS",
+"text": "C.F.R. section 424.11 provides:",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 43,
+"si": 0,
+"section": "FACTS",
+"text": "No specific procedures or forms are required for certification and recertification statements.",
+"tag": "LAW",
+"reason": "law statement: are required"
+},
+{
+"pi": 43,
+"si": 1,
+"section": "FACTS",
+"text": "The provider may adopt any method that permits verification.",
+"tag": "COUNCIL",
+"reason": "adopt"
+},
+{
+"pi": 43,
+"si": 2,
+"section": "FACTS",
+"text": "The certification and recertification statements may be entered on forms, notes, or records that the appropriate individual signs, or on a special separate form.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 44,
+"si": 0,
+"section": "FACTS",
+"text": "In this case, the record contains sufficient documentation that D.E.\u2019s physician ordered the PT and ST services prior to the initiation of therapy services.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 44,
+"si": 1,
+"section": "FACTS",
+"text": "Specifically, the record contains written orders signed by D.E.\u2019s physician with specific and detailed instructions, for both PT and ST, dated August 28, 2009. See Exh. 2 at 136.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 44,
+"si": 2,
+"section": "FACTS",
+"text": "Therefore, although the physician did not sign the PT and ST initial therapy plans of care (CMS 700 form), the Council finds the signed physician orders to be sufficient documentation for a finding that the rehabilitation services were ordered by D.E.\u2019s treating physician, and that a plan of care was established and in effect for each of the therapies for the dates of service at issue.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 45,
+"si": 0,
+"section": "FACTS",
+"text": "Regarding PT, the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination. Exh. 2 at 212.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 45,
+"si": 1,
+"section": "FACTS",
+"text": "D.E.\u2019s prior level of function was noted to be \u201crequired assistance to transfer from sitting to standing.\u201d Id. at 216.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 45,
+"si": 2,
+"section": "FACTS",
+"text": "D.E. was referred to PT due to decreased strength and decreased ADLs due to illness. Id.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 45,
+"si": 3,
+"section": "FACTS",
+"text": "At the beginning of PT, D.E. required moderate assistance for all functional transfers. Id. at 217.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 45,
+"si": 4,
+"section": "FACTS",
+"text": "D.E.\u2019s extremity strength for both legs was noted to fluctuate from session to session with no consistent measurements to evaluate improvements. Id. at 217-233.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 45,
+"si": 5,
+"section": "FACTS",
+"text": "Additionally, by the dates of service at issue, the beneficiary was noted to still require moderate to maximal assistance to transfer from sitting to standing. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 45,
+"si": 6,
+"section": "FACTS",
+"text": "Lastly, the therapist notes do not indicate that D.E. made any significant functional gains, even with the ongoing PT services. Id.",
+"tag": "GAP",
+"reason": "notes do not indicate"
+},
+{
+"pi": 45,
+"si": 7,
+"section": "FACTS",
+"text": "Accordingly, the record does not support a finding that the PT services were medically reasonable and necessary.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 46,
+"si": 0,
+"section": "FACTS",
+"text": "Regarding ST, the services were initiated on August 27, 2009, with a treatment diagnosis of cognitive deficits. Exh. 2 at 246.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 46,
+"si": 1,
+"section": "FACTS",
+"text": "At the onset of ST, D.E. exhibited moderate to severe receptive and expressive language and cognitive deficits. Exh. 2 at 214.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 46,
+"si": 2,
+"section": "FACTS",
+"text": "D.E. was referred to ST to evaluate for speech/language cognitive deficits affecting her communication and safety. Exh. 2 at 250.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 46,
+"si": 3,
+"section": "FACTS",
+"text": "D.E.\u2019s goals included \u201c[increased] quality of life to enjoy a maximum possible level of cognitive functioning and communication skills as measured by skilled observation and modified formal testing [with] 80% proficiency.\u201d Exh. 2 at 250.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 46,
+"si": 4,
+"section": "FACTS",
+"text": "The record indicates that due to mixed hearing loss and flat tympanograms, D.E. needed to be medically evaluated for possible external and/or middle ear pathology. Id. at 241.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 46,
+"si": 5,
+"section": "FACTS",
+"text": "In September 2009, D.E. began utilizing an assistive listening device (ALD). See e.g., Exh. 2 at 257.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 46,
+"si": 6,
+"section": "FACTS",
+"text": "Although the ST notes indicated that D.E. showed improvement, the Council notes that by the dates of service at issue, she still required moderate cognitive and verbal cueing when performing tasks. Exh. 2 at 252-265.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 46,
+"si": 7,
+"section": "FACTS",
+"text": "Accordingly, the record does not support a finding that D.E. experienced significant progress to justify continued skilled speech therapy.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 47,
+"si": 0,
+"section": "FACTS",
+"text": "In sum, the Council concurs with the ALJ that the OT services were medically reasonable and necessary, but finds that the PT, and ST services at issue were not medically reasonable and necessary pursuant to section 1862(a)(1)(A) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 47,
+"si": 1,
+"section": "FACTS",
+"text": "The Council further concurs with the ALJ that the appellant is not entitled to payment under the RUG categories RUB02 and RUB03.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 47,
+"si": 2,
+"section": "FACTS",
+"text": "The contractor is therefore directed to reassign the beneficiary to the appropriate RUG codes based on the 255 minutes of OT provided by the appellant, which were determined to be medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "directed to"
+},
+{
+"pi": 48,
+"si": 0,
+"section": "FACTS",
+"text": "2.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 48,
+"si": 1,
+"section": "FACTS",
+"text": "Beneficiary E.M. Dates of Service: October 1, 2009, to October 31, 2009",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 50,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant billed Medicare for SNF services provided to E.M., using HCPCS codes RUB02 and RUB03. Exh. 1 at 26.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 50,
+"si": 1,
+"section": "FACTS",
+"text": "The Medicare contractor determined that the PT, OT, and ST services provided to E.M. were not medically reasonable and necessary, and therefore downcoded the RUG-III codes to reflect the proper RUG\u00ad III codes if the PT, OT, and/or ST services were not medically reasonable and necessary, but the beneficiary received SN services. See E.M. Exh. 1 at 24.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 50,
+"si": 2,
+"section": "FACTS",
+"text": "The contractor then denied the downcoded claims as not reasonable and necessary, after finding that the record did not contain documentation to support a finding for medically reasonable and necessary daily SN services. See id.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 50,
+"si": 3,
+"section": "FACTS",
+"text": "On redetermination, the contractor upheld the initial denial. See E.M. Exh. 1 at 41-43.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 51,
+"si": 0,
+"section": "FACTS",
+"text": "On reconsideration, the Qualified Independent Contractor (QIC) affirmed the contractor\u2019s decision, finding that the services were not medically reasonable and necessary. See E.M. Exh. 1 at 1 at 63-67.",
+"tag": "COUNCIL",
+"reason": "affirmed"
+},
+{
+"pi": 52,
+"si": 0,
+"section": "FACTS",
+"text": "On further appeal, with respect to the ST services, the ALJ reversed the prior adjudicators\u2019 findings, and found that the ST services were medically reasonable and necessary pursuant to section 1862(a)(1)(A).",
+"tag": "COUNCIL",
+"reason": "reversed"
+},
+{
+"pi": 52,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ also determined that the PT services were not medically reasonable and necessary, and that the OT services did not meet the statutory requirements of section 1814(a)(2)(B) of the Social Security Act (Act) on the grounds that E.M.\u2019s physician did not sign the initial plans of care for the therapy services.",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 52,
+"si": 2,
+"section": "FACTS",
+"text": "ALJ Decision (Dec.) at 15-16.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 52,
+"si": 3,
+"section": "FACTS",
+"text": "Regarding the PT and OT services, the ALJ, after stating that section 1879 of the Act\u2019s limitation of liability did not apply, held the appellant liable for the non-covered services under section 1866(a)(1)(A) of the Act, which prohibits a provider from charging an individual for services for which the individual would receive coverage had the provider complied with procedural and other requirements.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 53,
+"si": 0,
+"section": "FACTS",
+"text": "Additionally, because the ALJ determined that the PT and OT services did not meet Medicare coverage criteria, she determined that the appellant was not entitled to payment under Medicare Part A for RUG levels RUB02 and RUB03 billed by the appellant, and therefore directed the contractor to reassign E.M. to the appropriate RUG-III category based on the ALJ\u2019s finding that the 255 minutes of ST were medically reasonable and necessary. Id. at 15.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 54,
+"si": 0,
+"section": "FACTS",
+"text": "Before the Council, the appellant contests the ALJ\u2019s findings that the appellant\u2019s documentation did not meet the statutory requirements of section 1814(a)(2)(B). See Exh. MAC-2.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 54,
+"si": 1,
+"section": "FACTS",
+"text": "The appellant contends that the record shows sufficient evidence that E.M.\u2019s physician was aware, ordered, and was in agreement with the therapy plans. See id.",
+"tag": "PARTY",
+"reason": "appellant contends"
+},
+{
+"pi": 56,
+"si": 0,
+"section": "FACTS",
+"text": "After review of the administrative record, the Council concurs with the ALJ\u2019s finding that the ST services were medically reasonable and necessary under section 1862(a)(1)(A) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 56,
+"si": 1,
+"section": "FACTS",
+"text": "The Council also concurs with the ALJ\u2019s finding that the PT services were not medically reasonable and necessary under section 1862(a)(1)(A) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 56,
+"si": 2,
+"section": "FACTS",
+"text": "The Council, however, determines the ALJ erred in determining the OT services failed to meet Medicare statutory criteria pursuant to section 1814(a)(2)(B) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 56,
+"si": 3,
+"section": "FACTS",
+"text": "However, upon reviewing the substantive documentation, the Council determines that the OT services were not medically reasonable and necessary under section 1862(a)(1)(A) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 56,
+"si": 4,
+"section": "FACTS",
+"text": "We therefore modify the ALJ\u2019s decision to prove a substantive analysis as to why the OT services were not medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 57,
+"si": 0,
+"section": "FACTS",
+"text": "With respect to the OT services provided to E.M., the Council finds the ALJ erred in determining that the appellant did not meet the statutory requirement for coverage and therefore did not establish medical necessity.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 57,
+"si": 1,
+"section": "FACTS",
+"text": "As discussed above, skilled nursing and rehabilitation services are defined as those that are: (1) ordered by a physician, (2) require the skills of professional personnel; and (3) are furnished directly by (or under the supervision of) such personnel. See 42 C.F.R. \u00a7 409.31(a)(Emphasis added).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 57,
+"si": 2,
+"section": "FACTS",
+"text": "In her decision, the ALJ erroneously focuses on that fact that the initial therapy plan of care (CMS 700 form) for the OT services were not signed by E.M.\u2019s treating physician, as a basis for finding that the physician did not order, and therefore there were no valid physician certification for these services.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 57,
+"si": 3,
+"section": "FACTS",
+"text": "A physician\u2019s signature on a plan of treatment is not a requirement per se for inpatient SNF rehabilitation care, but is simply one indication that a particular therapy service has been ordered by a physician and/or furnished pursuant to an active plan of treatment.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 57,
+"si": 4,
+"section": "FACTS",
+"text": "If the physician\u2019s signature is not located within the plan of care, the reviewer may look to other documentation within the record.",
+"tag": "PRIOR_DENIAL",
+"reason": "reviewer"
+},
+{
+"pi": 57,
+"si": 5,
+"section": "FACTS",
+"text": "C.F.R. section 424.11 provides:",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 58,
+"si": 0,
+"section": "FACTS",
+"text": "No specific procedures or forms are required for certification and recertification statements.",
+"tag": "LAW",
+"reason": "law statement: are required"
+},
+{
+"pi": 58,
+"si": 1,
+"section": "FACTS",
+"text": "The provider may adopt any method that permits verification.",
+"tag": "COUNCIL",
+"reason": "adopt"
+},
+{
+"pi": 58,
+"si": 2,
+"section": "FACTS",
+"text": "The certification and recertification statements may be entered on forms, notes, or records that the appropriate individual signs, or on a special separate form.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 59,
+"si": 0,
+"section": "FACTS",
+"text": "In this case, the record contains sufficient documentation that E.M.\u2019s physician ordered the OT services prior to the initiation of therapy services.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 59,
+"si": 1,
+"section": "FACTS",
+"text": "Specifically, the record contains written orders signed by E.M.\u2019s physician with specific and detailed instructions for OT dated August 21, 2009. See Exh. 2 at 252.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 59,
+"si": 2,
+"section": "FACTS",
+"text": "Therefore, although the physician did not sign the OT initial therapy plan of care (CMS 700 form), the Council finds the signed physician order to be sufficient documentation for a finding that the rehabilitation services were ordered by E.M.\u2019s treating physician, and that a plan of care was established and in effect for the therapy for the dates of service at issue.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 60,
+"si": 0,
+"section": "FACTS",
+"text": "Regarding the OT services, although the Council finds they met the statutory requirement for coverage, we nevertheless determine that the services were not medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 60,
+"si": 1,
+"section": "FACTS",
+"text": "As indicated by the record, OT services were initiated on August 24, 2009 with a treatment diagnosis of lack of coordination and muscle weakness. Exh. 2 at 194.",
+"tag": "GAP",
+"reason": "record, OT services were initiated on Au"
+},
+{
+"pi": 60,
+"si": 2,
+"section": "FACTS",
+"text": "E.M.\u2019s prior level of functional was minimal to moderate assistance with ADLs. Id. at 187.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 60,
+"si": 3,
+"section": "FACTS",
+"text": "E.M. was referred to OT due to an overall decline in transfers, range of motion, strength, and independence with ADLs. Id. at 187.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 60,
+"si": 4,
+"section": "FACTS",
+"text": "In September 2009, E.M. required maximal assist and 100% tactical, visual or verbal cue to attend to task. Id. at 186.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 60,
+"si": 5,
+"section": "FACTS",
+"text": "The record indicates that during the dates of service, the therapists continued to teach repetitive exercises to improve upper extremity strength to perform ADLs. Id. at 170-176.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 60,
+"si": 6,
+"section": "FACTS",
+"text": "The Council notes that continued teaching of repetitive exercises does not require the skills of therapist.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 60,
+"si": 7,
+"section": "FACTS",
+"text": "Further, the record does not indicate that significant functional gains were not made and E.M. remained at a level of extensive to total assist for personal care tasks.",
+"tag": "GAP",
+"reason": "record does not indicate"
+},
+{
+"pi": 61,
+"si": 0,
+"section": "FACTS",
+"text": "PT services were initiated on August 21, 2009, with a treatment diagnosis of muscle weakness and difficulty walking. Exh. 2 at 155.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 61,
+"si": 1,
+"section": "FACTS",
+"text": "E.M. was referred to PT due to decline in functional ability to transfer, walk, and weakness. Id. at 147.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 61,
+"si": 2,
+"section": "FACTS",
+"text": "Goals were set to improve functionality. Id.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 61,
+"si": 3,
+"section": "FACTS",
+"text": "In September 2009, E.M. was noted to require moderate assist with all functional transfers. Id. at 145.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 61,
+"si": 4,
+"section": "FACTS",
+"text": "By the dates of service at issue, even with ongoing therapy, E.M. was unable to accomplish the goal of ambulation with a walker and the goal was eventually deferred. Id. at 123.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 61,
+"si": 5,
+"section": "FACTS",
+"text": "Moreover, the notes do no indicate the specific progress E.M. achieved in gait training and functional transfers. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 61,
+"si": 6,
+"section": "FACTS",
+"text": "Accordingly, the record does not support a finding that significant functional gains were accomplished as E.M. remained dependent and required extensive assistance to ambulate in the room and for transfers. See id. at 122-145.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 61,
+"si": 7,
+"section": "FACTS",
+"text": "Accordingly, the record does not support a finding that the PT services were medically reasonable and necessary.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 62,
+"si": 0,
+"section": "FACTS",
+"text": "Regarding ST, services were initiated on August 21, 2009, with a treatment diagnosis of aphasia; goals were set to improve functionality.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 62,
+"si": 1,
+"section": "FACTS",
+"text": "Upon review of the record, the Council concurs with the ALJ\u2019s determination that the ST services were medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 62,
+"si": 2,
+"section": "FACTS",
+"text": "E.M. was referred to ST following a recent hospitalization for severe shortness of breath, worsening cough, and difficulty lying down. See Exh. 2 at 105.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 62,
+"si": 3,
+"section": "FACTS",
+"text": "E.M.\u2019s primary functional goal was to increase her quality of life to enjoy maximal possible level of cognitive functioning and communication skills. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 62,
+"si": 4,
+"section": "FACTS",
+"text": "The record indicates that her prior level of function was that she resided in a SNF and was adequately able to express her wants and needs. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 62,
+"si": 5,
+"section": "FACTS",
+"text": "As noted by the ALJ, her functional status had declined as follows: she answered abstract yes/no questions with 35% accuracy; she was able to verbally label objects and pictures with 20% accuracy; she followed one step directions with 40% accuracy; she generally demonstrated appropriate object use with 17% accuracy; and she consumed less than 50% of her meals.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 62,
+"si": 6,
+"section": "FACTS",
+"text": "For the look back periods at issue, the progress notes indicated that E.M.\u2019s functional status had improved to: she preformed phrase completion with 75% accuracy needing minimal verbal cues; she completed one word reading tasks with 80% accuracy benefiting from minimal verbal cues; she exhibited minimal to moderate throat clearing with pudding and water, she completed naming tasks with 100% accuracy; she completed answering \u201cwh\u201d questions with 68% accuracy; she named products associated to brand names with 45% accuracy; and she completed a task where she matched items with their pictures with 70% accuracy. See Exh. 2 at 94, 101-13.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 63,
+"si": 0,
+"section": "FACTS",
+"text": "In sum, the Council concurs with the ALJ that the ST services were medically reasonable and necessary, but finds that the PT, and OT services at issue were not medically reasonable and necessary pursuant to section 1862(a)(1)(A) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 63,
+"si": 1,
+"section": "FACTS",
+"text": "The Council further concurs with the ALJ that the appellant is not entitled to payment under the RUG categories RUB02 and RUB03.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 63,
+"si": 2,
+"section": "FACTS",
+"text": "The contractor is therefore directed to reassign the beneficiary to the appropriate RUG codes based on the 255 minutes of ST, which were determined to be medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "directed to"
+},
+{
+"pi": 64,
+"si": 0,
+"section": "FACTS",
+"text": "3.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 64,
+"si": 1,
+"section": "FACTS",
+"text": "Beneficiary J.M. Dates of Service: August 1, 2009 to August 31, 2009",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 66,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant billed Medicare for SNF services provided to J.M., using HCPCS codes RUA03 and RUB02. Exh. 1 at 54.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 66,
+"si": 1,
+"section": "FACTS",
+"text": "Initially and at redetermination, the Medicare contractor determined that the SNF services provided were not medically reasonable and necessary.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 66,
+"si": 2,
+"section": "FACTS",
+"text": "J.M. Exh. 1 at 25-27, 47.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 66,
+"si": 3,
+"section": "FACTS",
+"text": "On reconsideration, the Qualified Independent Contractor (QIC) also determined the services were not medically reasonable and necessary. See J.M. Exh. 1 at 2-7.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 67,
+"si": 0,
+"section": "FACTS",
+"text": "On further appeal, the ALJ also determined that the OT services provided to beneficiary J.M., were not medically reasonable and necessary pursuant to section 1862(a)(1)(A) and held the appellant liable for the noncovered services pursuant to section 1879 of the Act.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 67,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ also determined that the SN services furnished on the dates of service at issue were skilled, and therefore reasonable and necessary, pursuant to section 1862(a)(1)(A).",
+"tag": "LAW",
+"reason": "section 1"
+},
+{
+"pi": 67,
+"si": 2,
+"section": "FACTS",
+"text": "With respect to the PT and ST services provided to J.M., the ALJ determined that the appellant\u2019s documentation did not meet the statutory requirements of section 1814(a)(2)(B) of the Social Security Act (Act) on the grounds that J.M.\u2019s physician did not sign the initial therapy plans of care (CMS 700 form) for the services.",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 67,
+"si": 3,
+"section": "FACTS",
+"text": "See ALJ Decision (Dec.) Regarding the PT and ST services, the ALJ after stating that section 1879 of the Act\u2019s limitation of liability did not apply, held the appellant liable under section 1866(a)(1)(A) of the Act, which prohibits a provider from charging an individual for services for which the individual would receive coverage had the provider complied with procedural and other requirements.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 68,
+"si": 0,
+"section": "FACTS",
+"text": "Before the Council, the appellant contests the ALJ\u2019s findings that the appellant\u2019s documentation did not meet the statutory requirements of section 1814(a)(2)(B). See Exh. MAC-3.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 68,
+"si": 1,
+"section": "FACTS",
+"text": "The appellant contends that the record shows sufficient evidence that J.M.\u2019s physician was aware, ordered, and was in agreement with the therapy plans. See id.",
+"tag": "PARTY",
+"reason": "appellant contends"
+},
+{
+"pi": 70,
+"si": 0,
+"section": "FACTS",
+"text": "After review of the administrative record, the Council concurs with the ALJ\u2019s finding that the OT services were not medically reasonable and necessary under section 1862(a)(1)(A) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 70,
+"si": 1,
+"section": "FACTS",
+"text": "The Council also concurs with the ALJ\u2019s finding that the SN services for the dates of service at issue were medically reasonable and necessary under section 1862(a)(1)(A) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 70,
+"si": 2,
+"section": "FACTS",
+"text": "The Council, however, determines the ALJ erred in determining the PT and ST failed to meet Medicare statutory criteria pursuant to section 1814(a)(2)(B) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 70,
+"si": 3,
+"section": "FACTS",
+"text": "However, upon reviewing the substantive documentation, the Council determines that the PT and ST services were not medically reasonable and necessary under section 1862(a)(1)(A) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 70,
+"si": 4,
+"section": "FACTS",
+"text": "We therefore modify the ALJ\u2019s decision to provide a substantive analysis as to why the PT and ST services were not medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 71,
+"si": 0,
+"section": "FACTS",
+"text": "With respect to the PT and ST services provided to J.M., the Council finds the ALJ erred in determining that the appellant did not meet the statutory requirement for coverage and therefore did not establish medical necessity.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 71,
+"si": 1,
+"section": "FACTS",
+"text": "As discussed above, skilled nursing and rehabilitation services are defined as those that are: (1) ordered by a physician, (2) require the skills of professional personnel; and (3) are furnished directly by (or under the supervision of) such personnel. See 42 C.F.R. \u00a7 409.31(a)(Emphasis added).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 71,
+"si": 2,
+"section": "FACTS",
+"text": "In her decision, the ALJ erroneously focuses on that fact that the initial therapy plans of care (CMS 700 form) for the PT and ST services were not signed by J.M.\u2019s treating physician, as a basis for finding that the physician did not order, and therefore there were no valid physician certification for these services.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 71,
+"si": 3,
+"section": "FACTS",
+"text": "A physician\u2019s signature on a plan of treatment is not a requirement per se for inpatient SNF rehabilitation care, but is simply one indication that a particular therapy service has been ordered by a physician and/or furnished pursuant to an active plan of treatment.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 71,
+"si": 4,
+"section": "FACTS",
+"text": "If the physician\u2019s signature is not located within the plan of care, the reviewer may look to other documentation within the record.",
+"tag": "PRIOR_DENIAL",
+"reason": "reviewer"
+},
+{
+"pi": 71,
+"si": 5,
+"section": "FACTS",
+"text": "C.F.R. section 424.11 provides:",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 72,
+"si": 0,
+"section": "FACTS",
+"text": "No specific procedures or forms are required for certification and recertification statements.",
+"tag": "LAW",
+"reason": "law statement: are required"
+},
+{
+"pi": 72,
+"si": 1,
+"section": "FACTS",
+"text": "The provider may adopt any method that permits verification.",
+"tag": "COUNCIL",
+"reason": "adopt"
+},
+{
+"pi": 72,
+"si": 2,
+"section": "FACTS",
+"text": "The certification and recertification statements may be entered on forms, notes, or records that the appropriate individual signs, or on a special separate form.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 73,
+"si": 0,
+"section": "FACTS",
+"text": "In this case, the record contains sufficient documentation that J.M.\u2019s physician ordered the PT and ST services prior to the initiation of therapy services.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 73,
+"si": 1,
+"section": "FACTS",
+"text": "Specifically, the record contains written orders signed by J.M.\u2019s physician with specific and detailed instructions for the PT and ST services dated June 16, 2009. See Exh. 2 at 224-225.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 73,
+"si": 2,
+"section": "FACTS",
+"text": "Therefore, although the physician did not sign the PT and ST initial plans of care, the Council finds the signed physician orders to be sufficient documentation for a finding that the rehabilitation services were ordered by J.M.\u2019s treating physician, and that a plan of care was established and in effect for the therapies for the dates of service at issue.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 74,
+"si": 0,
+"section": "FACTS",
+"text": "Regarding PT, services were initiated on June 15, 2009, with a treatment diagnosis of muscle weakness and difficulty ambulating.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 74,
+"si": 1,
+"section": "FACTS",
+"text": "Prior level of function was documented as independent with transfers and ambulation. Exh. 2 at 316.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 74,
+"si": 2,
+"section": "FACTS",
+"text": "J.M. was referred to PT secondary to a fall with fracture of the left hip with weakness. Exh. 2 at 316.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 74,
+"si": 3,
+"section": "FACTS",
+"text": "At the beginning of PT, J.M. required moderate to maximal assist with functional mobility. Exh. 2 at 316.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 74,
+"si": 4,
+"section": "FACTS",
+"text": "J.M.\u2019s right lower extremity strength measured 3/5 and left lower extremity measured 2+/5. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 74,
+"si": 5,
+"section": "FACTS",
+"text": "Goals were developed to improve functionality, including increasing bilateral lower extremity strength to 4+/5; ability to transfer from sitting to standing/standing to sitting with moderate assist; gait training of 30 feet with rolling walker and moderate assist. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 74,
+"si": 6,
+"section": "FACTS",
+"text": "By July 26, 2009, therapy documentation indicated that J.M.\u2019s strength and ambulation ability improved to minimal assistance up to 300 feet with a rolling walker. Id. at 325.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 74,
+"si": 7,
+"section": "FACTS",
+"text": "Additionally, her lower extremity strength increased to \u201cgrossly 4/5.\u201d",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 74,
+"si": 8,
+"section": "FACTS",
+"text": "Further, J.M. transferred from sitting to standing with minimal to stand-by assist. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 74,
+"si": 9,
+"section": "FACTS",
+"text": "Accordingly, by the dates of service at issue, the record indicates that J.M. had substantially met or exceeded the stated PT goals.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 74,
+"si": 10,
+"section": "FACTS",
+"text": "By the dates of service at issue, a restorative nursing program would have been more appropriate than continued services by a skilled therapist.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 75,
+"si": 0,
+"section": "FACTS",
+"text": "Regarding OT, services were initiated on June 14, 2009, with a treatment diagnosis of muscle weakness.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 75,
+"si": 1,
+"section": "FACTS",
+"text": "J.M.\u2019s prior level of function was documented as independent with bed mobility, transfers, ambulation and eating and required minimal assist with all other care. Exh. 2 at 294.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 75,
+"si": 2,
+"section": "FACTS",
+"text": "At the onset of OT services, J.M. required minimal assistance with feeding, maximal assistance with all other care. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 75,
+"si": 3,
+"section": "FACTS",
+"text": "Bilateral upper extremity strength was rated 3/5.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 75,
+"si": 4,
+"section": "FACTS",
+"text": "Goals were developed to improve functionality. Id.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 75,
+"si": 5,
+"section": "FACTS",
+"text": "Repetitive strengthening exercises were provided, yet the record does not indicate that significant functional gains occurred.",
+"tag": "GAP",
+"reason": "record does not indicate"
+},
+{
+"pi": 75,
+"si": 6,
+"section": "FACTS",
+"text": "J.M. remained at a level of minimal to moderate assistance with all personal care throughout the dates in review. Id. at 294-308.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 75,
+"si": 7,
+"section": "FACTS",
+"text": "As noted by the QIC, sufficient time had passed to establish a restorative program with nursing staff for ongoing strengthening exercises and verbal cueing.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 76,
+"si": 0,
+"section": "FACTS",
+"text": "ST services were initiated on June 12, 2009, with a treatment diagnosis of symbolic language dysfunction.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 76,
+"si": 1,
+"section": "FACTS",
+"text": "Prior level of function was documented as \u201clong-term resident of SNF on Alzheimer\u2019s unit\u201d. Exh. 2 at 337.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 76,
+"si": 2,
+"section": "FACTS",
+"text": "At the onset of services, J.M. exhibited moderate to severe receptive and expressive language and cognitive deficits. Id. at 331.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 76,
+"si": 3,
+"section": "FACTS",
+"text": "Her baseline was noted to be 38% for language and 33% for cognitive abilities. Id. at 337.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 76,
+"si": 4,
+"section": "FACTS",
+"text": "Goals were developed to improve functionality, including increasing expressive and receptive language and cognitive abilities to 80%.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 76,
+"si": 5,
+"section": "FACTS",
+"text": "For the time period prior to and during the dates of service at issue, the record showed minimal progress. See id. at 337-350.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 76,
+"si": 6,
+"section": "FACTS",
+"text": "The therapist noted that J.M. required maximal repetitions to complete tasks and accurately respond to questions and statements. See id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 77,
+"si": 0,
+"section": "FACTS",
+"text": "With regard to skilled nursing services, the nursing notes indicate that on July 28, 2009, the beneficiary sustained a fall and hit her head.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 77,
+"si": 1,
+"section": "FACTS",
+"text": "She was transported to the hospital for a head scan. Id. at 172.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 77,
+"si": 2,
+"section": "FACTS",
+"text": "Upon return to the SNF, she was placed on a neurological watch and fall precautions. Id. at 172-173.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 77,
+"si": 3,
+"section": "FACTS",
+"text": "The nurses monitored J.M.\u2019s condition including pupil size, alertness, signs and symptoms of pain and ability to follow commands. Id. at 173.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 77,
+"si": 4,
+"section": "FACTS",
+"text": "The Council therefore concurs with the ALJ\u2019s determination that the beneficiary\u2019s fall and subsequent placement on a neurological watch required the services of skilled personnel.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 78,
+"si": 0,
+"section": "FACTS",
+"text": "In sum, the Council finds the PT, OT, and ST services at issue were not medically reasonable and necessary pursuant to section 1862(a)(1)(A) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 78,
+"si": 1,
+"section": "FACTS",
+"text": "The Council further finds that the SN services for dates of service at issue were skilled, and thus medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 78,
+"si": 2,
+"section": "FACTS",
+"text": "Because the therapy services are not medically reasonable and necessary, the appellant is not entitled to payment under the RUGS categories billed: RUA03 and RUB02.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 78,
+"si": 3,
+"section": "FACTS",
+"text": "The contractor is therefore directed to reassign the beneficiary to the appropriate RUG codes based on the finding that the SN services which were determined to be medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "directed to"
+},
+{
+"pi": 80,
+"si": 0,
+"section": "FACTS",
+"text": "Section 1879(a) of the Act provides for the limitation on liability for items or services denied Medicare coverage as not \u201creasonable and necessary\u201d absent \u201cknowledge\u201d by a beneficiary or provider that the items or services would not be covered.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 80,
+"si": 1,
+"section": "FACTS",
+"text": "Section 1879(a); 42 C.F.R. \u00a7 411.400(a).",
+"tag": "LAW",
+"reason": "Section 1"
+},
+{
+"pi": 80,
+"si": 2,
+"section": "FACTS",
+"text": "Section 1879(g) of the Act specifies that the limitation on liability provisions apply to a determination that an individual is not terminally ill.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 81,
+"si": 0,
+"section": "FACTS",
+"text": "A beneficiary has \u201cknowledge\u201d of non-coverage when he or she has been given written notice of non-coverage by the provider, practitioner, or supplier.",
+"tag": "PROC",
+"reason": "notice of"
+},
+{
+"pi": 81,
+"si": 1,
+"section": "FACTS",
+"text": "C.F.R. \u00a7 411.404(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 81,
+"si": 2,
+"section": "FACTS",
+"text": "A provider may have knowledge based on its written notice of non-coverage to the beneficiary or its own experience, actual notice, or constructive notice.",
+"tag": "PROC",
+"reason": "notice of"
+},
+{
+"pi": 81,
+"si": 3,
+"section": "FACTS",
+"text": "C.F.R. \u00a7 411.406.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 81,
+"si": 4,
+"section": "FACTS",
+"text": "CMS has provided further guidance on financial liability protections in its Medicare Claims Processing Manual (Pub. 100-04), Ch. 30 and CMS Ruling 95-1.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 82,
+"si": 0,
+"section": "FACTS",
+"text": "In these cases, there is no evidence that the beneficiary had knowledge that certain services furnished in the SNF would be found not medically reasonable and necessary; therefore, the Council finds the appellant may not bill the beneficiary for the non-covered portion of the charges under section 1879 of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 84,
+"si": 0,
+"section": "TERMINAL",
+"text": "The Council modifies the ALJ\u2019s decisions in accordance with the above.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 84,
+"si": 1,
+"section": "TERMINAL",
+"text": "The Council finds that with regard to each beneficiary, the services should be downcoded to the proper RUG level for each SNF stay during the dates of service at issue based on the limited types of services found medically reasonable and necessary.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 84,
+"si": 2,
+"section": "TERMINAL",
+"text": "The beneficiary may not be charged for any portion of the services found not medically reasonable and necessary under section 1879 of the Act.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

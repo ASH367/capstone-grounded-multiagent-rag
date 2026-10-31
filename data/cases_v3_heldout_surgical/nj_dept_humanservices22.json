@@ -1,0 +1,50 @@
+{
+ "case_id": "nj_dept_humanservices22",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "Skilled nursing (Lupron injections), physical therapy and home health aide visits for two beneficiaries, 2005-2006",
+ "facts": [
+  "The Administrative Law Judge (ALJ) issued two decisions dated October 8, 2008, which concerned Medicare coverage for home health services provided to beneficiary W.B. from October 22, 2005, through October 16, 2006, and to beneficiary D.W. from October 10, 2005, through December 3, 2006.",
+  "The visits remaining at issue took place between October 25, 2005, and November 29, 2005. The appellant asserts that these physical therapy services were provided in relation to the installation of a new stair lift mechanism to assist the beneficiary with difficulty navigating stairs in his home due to fatigue, pain and abnormality of gait attributed to post-polio syndrome and unequal leg length. Request for Review (W.B. RR) Br. at 6.",
+  "The appellant further asserts that the skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift. Id. In addition, the appellant states that the therapist was \u201cin the process of designing an appropriate home exercise program\u201d for the beneficiary, and cites section 409.44(c)(2)(iii) of the Medicare regulations as providing coverage for physical therapy services which are \u201cnecessary to perform a safe and effective maintenance program required in connection with a specific disease . . . .\u201d W.B. RR Br. at 7, quoting 42 C.F.R. \u00a7 409.44(c)(2)(iii) and citing MBPM, Ch. 7, \u00a7\u00a7 40.2.1 and 40.2.2.",
+  "The appellant originally sought coverage for all home health services provided to D.W. from October 10, 2005 through December 3, 2006. At the ALJ hearing, however, the appellant withdrew its claim for 17 skilled nursing visits but maintained its claim as to 48 physical therapy sessions and 97 home health aide visits. ALJ Decision-D.W. at 1 n.1; Hearing CD.",
+  "Among the symptoms common to EDS patients are fragility (the attending physician noted the beneficiary was very fragile, at Ex. 10, at 513), joint hypermobility with potential for joint dislocations, easily torn or bruised skin, and abnormal curvature of feet and spine (in addition to severe lordosis, the beneficiary had an acquired ankle-foot defect recorded at Ex. 1, at 325). See Hearing CD. The beneficiary reported intermittent pain at levels ranging from 5 to 10 on a 10-point scale. See, e.g., Ex. 1, at 297 (August 2006 OASIS report).",
+  "The appellant agreed that setting up a maintenance program for the home health aides to take over was a goal, but reported that this goals was frustrated because the home health aides were afraid or unwilling to touch her, failed to handle her correctly, and either left or were fired for those reasons. Hearing CD; D.W. RR Br. at 6; Ex. 1, at 333 (physician certification of April 8, 2006), at 133 (PT notes of February 7, 2006), at 144 (PT notes of March 9, 2006), at 148 (PT notes of March 20, 2006)."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council reversed the ALJ and held all disputed services (four skilled nursing visits and eleven PT visits for W.B.; 48 PT sessions and 97 home health aide visits for D.W.) covered, finding chronic condition no bar and the services reasonable and necessary.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.2.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.2.2"
+  }
+ ],
+ "other_cites": [
+  "SSA 1835(a)(2)(A)",
+  "42 CFR 409.42",
+  "42 CFR 409.44(b)(3)",
+  "42 CFR 409.44(c)(2)(ii)",
+  "42 CFR 409.44(c)(2)(iii)",
+  "42 CFR 409.33(b)(1)",
+  "42 CFR 409.33(c)(2)",
+  "42 CFR 409.33(c)(3)",
+  "42 CFR 409.33(c)(4)",
+  "42 CFR 409.33(d)(13)",
+  "42 CFR 409.32(b)",
+  "42 CFR 409.32(c)",
+  "42 CFR 409.43(b)",
+  "42 CFR 409.45(a)",
+  "42 CFR 409.45(b)"
+ ],
+ "scope": "included",
+ "key_quality": "has_mbpm_key",
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

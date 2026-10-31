@@ -1,0 +1,187 @@
+[
+ {
+  "decision": "COVERED",
+  "reason": "The services are considered specific and effective treatment for the patient's condition and are reasonable and necessary for the treatment of the patient's condition.",
+  "passage_ids": [
+   638,
+   626
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary had a qualifying three-day stay and the SNF stay met the criteria for Medicare coverage, as evidenced by hospital records and the State Medicaid Agency's contention.",
+  "passage_ids": [
+   1
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The appellant had notice that the services at issue would not be covered by Medicare as of July 1, 2006, according to the FMQAI policy, and the medical record must contain information that documents the need for an inpatient level of care.",
+  "passage_ids": [
+   2
+  ],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The appellant did not file a brief within the initial 30-day opportunity and the subsequent brief was received after the requested extension date, indicating a lack of timely submission.",
+  "passage_ids": [
+   1,
+   2
+  ],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The beneficiary's condition, including dementia and confusion, rendered them unable to understand and act on their rights, but the agents' findings are unknown and do not provide sufficient information to support coverage.",
+  "passage_ids": [
+   3
+  ],
+  "case_id": "connecticut11"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The agents' findings are all unknown, providing no basis for coverage.",
+  "passage_ids": [],
+  "case_id": "gr"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "reason": "The beneficiary received skilled physical therapy and occupational therapy services during December 2008 and January 2009, but the SNF care at issue for January 28 through January 31, 2009, and February 1, 2009 through March 1, 2009, may not be entirely covered as the beneficiary was discharged from PT and OT services on January 19 and 22, 2009, respectively",
+  "passage_ids": [
+   1,
+   2,
+   3
+  ],
+  "case_id": "m-10-1884"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary's condition required skilled nursing services for diabetes management and related conditions, and the nurses provided ongoing monitoring, assessment, and instructions.",
+  "passage_ids": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   268,
+   238,
+   267,
+   257
+  ],
+  "case_id": "m-11-1869"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary had a qualifying hospital stay and was transferred to a SNF within 30 days, and requires SNF care for a condition that was treated during the qualifying hospital stay.",
+  "passage_ids": [
+   572,
+   579,
+   563
+  ],
+  "case_id": "m-11-1967"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "reason": "The beneficiary received medically necessary services after readmission to the SNF, but the provider discharged the beneficiary from skilled PT and OT on September 30, 2011, due to inconsistent vital signs and other health issues.",
+  "passage_ids": [
+   1,
+   2,
+   3,
+   579,
+   669
+  ],
+  "case_id": "m-12-1140"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary required skilled physical therapy services and the services were directly and specifically related to an active written treatment plan, as supported by all three agents.",
+  "passage_ids": [
+   1,
+   2,
+   636,
+   637,
+   639,
+   640
+  ],
+  "case_id": "m_10_1771"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The agents agree that physical therapy services are covered for the beneficiary's condition, including teaching the beneficiary to safely transfer to and from the lift and designing a home exercise program.",
+  "passage_ids": [
+   2,
+   3,
+   5
+  ],
+  "case_id": "nj_dept_humanservices22"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary's multiple medical conditions, including urinary tract infections and catheter complications, require skilled nursing services, which are considered reasonable and necessary for his care.",
+  "passage_ids": [
+   256,
+   257,
+   315,
+   232,
+   231
+  ],
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The Eligibility Agent supports coverage for home health services, citing that Medicare covers either part-time or intermittent home health aide services",
+  "passage_ids": [
+   341
+  ],
+  "case_id": "ny"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "reason": "The beneficiary's admissions to the nursing facility were medically necessary, but the lack of a certified bed available at the time of admission may affect coverage for part of the period",
+  "passage_ids": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "case_id": "roman_eagle_memorial_home"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The Eligibility Agent supports coverage for IRF services, and there is no evidence to contradict this finding from the other agents.",
+  "passage_ids": [
+   72
+  ],
+  "case_id": "stfrances_memorial"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary required skilled nursing care, physical therapy, and skilled observation and assessment, which are all covered services.",
+  "passage_ids": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   633,
+   686,
+   629
+  ],
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary's admission to the IRF was medically reasonable and necessary, as evidenced by the need for IV or IM medications and severe pain management, and the beneficiary's functional status required moderate to maximum assistance with daily activities.",
+  "passage_ids": [
+   2,
+   3,
+   4
+  ],
+  "case_id": "valley_presbyterian"
+ }
+]

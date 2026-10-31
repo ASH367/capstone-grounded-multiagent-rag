@@ -1,0 +1,690 @@
+{
+ "rules_sha": "9149675f9bd0817a",
+ "THIN_WORDS": 100,
+ "MIN_VALID": 2,
+ "cases": {
+  "11-1343__DE_OT": {
+   "facts_words": 41,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 7,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN",
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN"
+    ],
+    "self_unknown": false,
+    "flag_self": true
+   }
+  },
+  "11-1343__DE_PT": {
+   "facts_words": 165,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 9,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "COVERED",
+    "flag": true,
+    "triggers": [
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "11-1343__DE_ST": {
+   "facts_words": 179,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 7,
+   "valid_findings_single": 4,
+   "multi": {
+    "answer": "COVERED",
+    "flag": true,
+    "triggers": [
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "11-1343__EM_OT": {
+   "facts_words": 157,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 9,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "COVERED",
+    "flag": true,
+    "triggers": [
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "11-1343__EM_PT": {
+   "facts_words": 118,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 8,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "11-1343__EM_ST": {
+   "facts_words": 109,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 9,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "11-1343__JM_OT": {
+   "facts_words": 77,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 10,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN",
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": false,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "11-1343__JM_PT": {
+   "facts_words": 200,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 10,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "11-1343__JM_SN": {
+   "facts_words": 85,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 10,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN",
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "11-1343__JM_ST": {
+   "facts_words": 174,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 9,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": false,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "11-1546": {
+   "facts_words": 133,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 9,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "gr": {
+   "facts_words": 125,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 12,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "m-10-1884": {
+   "facts_words": 50,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 7,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN",
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": false,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "m-11-1869": {
+   "facts_words": 214,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 9,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "m-11-1967": {
+   "facts_words": 424,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ],
+   "valid_findings_multi": 10,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "m-12-1140": {
+   "facts_words": 0,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 4,
+   "valid_findings_single": 0,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN",
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "UNKNOWN",
+    "flag": true,
+    "triggers": [
+     "THIN",
+     "UNGROUNDED",
+     "ERROR"
+    ],
+    "self_unknown": false,
+    "flag_self": true
+   }
+  },
+  "m_10_1771__EK": {
+   "facts_words": 15,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 6,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN",
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "m_10_1771__JS": {
+   "facts_words": 162,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ],
+   "valid_findings_multi": 9,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "nj_dept_humanservices22__DW": {
+   "facts_words": 251,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 10,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "PARTLY_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "nj_dept_humanservices22__WB_PT": {
+   "facts_words": 700,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ],
+   "valid_findings_multi": 12,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "nj_dept_humanservices22__WB_SN": {
+   "facts_words": 97,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 9,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN",
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": false,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "nj_dhs_commiss_case": {
+   "facts_words": 98,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 9,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN"
+    ],
+    "self_unknown": false,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "PARTLY_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN"
+    ],
+    "self_unknown": false,
+    "flag_self": true
+   }
+  },
+  "roman_eagle__stay1": {
+   "facts_words": 495,
+   "specialist_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ],
+   "valid_findings_multi": 8,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "roman_eagle__stay2": {
+   "facts_words": 289,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 11,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": false,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "twin_maples_health_care_case": {
+   "facts_words": 789,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ],
+   "valid_findings_multi": 12,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "PARTLY_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "PARTLY_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "valley_presbyterian": {
+   "facts_words": 546,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 11,
+   "valid_findings_single": 4,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  }
+ }
+}

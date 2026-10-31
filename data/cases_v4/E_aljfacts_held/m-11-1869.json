@@ -1,0 +1,64 @@
+{
+ "case_id": "m-11-1869",
+ "domain": "home_health",
+ "docket": "M-11-1869",
+ "service_at_issue": "Home health skilled nursing visits for diabetes management (Oct 2007-Sept 2008) [note: home health, not SNF]",
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council reversed the ALJ and found the home health skilled nursing visits reasonable and necessary because the beneficiary needed skilled observation, assessment and management of a changing diabetic condition.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.3"
+  }
+ ],
+ "other_cites": [
+  "SSA 1862(a)(1)",
+  "42 CFR 409.42",
+  "42 CFR 409.44(b)",
+  "42 CFR 409.44(b)(3)",
+  "42 CFR 409.32(c)",
+  "42 CFR 409.33(a)(1)",
+  "42 CFR 409.33(a)(2)"
+ ],
+ "facts": [
+  "New England Home Care provided home health services (nursing visits) to the beneficiary, who has diabetes and is legally blind. This case began with a claim for services furnished from August 6, 2007 to March 28, 2008 and May 28, 2008 to September 24, 2008. On redetermination, the contractor informed the appellant, Commissioner, Connecticut Department of Social Services, that the services provided before October 1, 2007 were not included in its review. Exh. 3 at 1.",
+  "The contractor issued a partially favorable decision on the remaining dates of service, and allowed coverage for the home health nursing visits provided from May 28, 2008 to June 20, 2008 as medically reasonable and necessary \u201cfor multiple adjustments of the new Humalog insulin and for discontinuing all of the oral hypoglycemic medications.\u201d Exh. 3 at 2.",
+  "A patient\u2019s overall medical condition is a valid factor in deciding whether skilled services are needed.",
+  "In addition, skilled care may, depending on the unique condition of the patient, continue to be necessary for patients whose condition is stable.",
+  "The restoration potential of a patient is not the deciding factor in determining whether skilled services are needed. Even if full recovery or medical improvement is not possible, a patient may need skilled services to prevent further deterioration or preserve current capabilities.",
+  "First, the reviewers found that the services were not skilled in nature because the nurses performed general assessments, and provided repetitive teaching of diabetes management, pre-filled insulin syringes, and pre-poured medication. Second, they agreed that the records did not demonstrate significant changes in clinical status, condition, medication, or treatment plan to support ongoing home health skilled nursing services. See Exh. 3 at 2 (redetermination); Exh. 4 at 3 (reconsideration). Nor did the record indicate that the beneficiary \u201csuffered from significant complications or acute episodes necessitating continued, skilled observation during the period at issue.\u201d Id. at 6.",
+  "Moreover, the records dated within this period include numerous documented instances of changes in the beneficiary\u2019s medication schedule, as well as problems related to compliance with taking diabetic medications (to include Starlix) as directed, and reports of difficulty using a talking glucometer, all for which the nurses provided ongoing monitoring, assessment, and instructions to take the medications as directed. See, e.g., id. at 9, 10, 21, 25, 59, 67, 75, 232.",
+  "As for the second period remaining in dispute (dates after June 20, 2008, through September 24, 2008), the nurses continued to observe, assess, and manage the beneficiary\u2019s medical condition, particularly for compliance with new diabetic medication (Humalog insulin) in light of her history of medication compliance issues and fluctuating blood sugar levels. See Exh. 1 at 36, 37; and 412 (noting that the beneficiary \u201cfinds odd reasons to block what the doctors would like to do\u201d) and 446 (noting that the beneficiary is \u201cforgetful\u201d and defensive about compliance with regimen). See also generally id. at 108-110, 387-447.",
+  "The nurses\u2019 visit notes for this period also indicate that the nurses assessed the beneficiary\u2019s reports of changes in her urine. The nurses contacted the beneficiary\u2019s doctor to obtain permission to take a urine sample for analysis. The beneficiary was given Cipro for a urinary tract infection, and the nurses thereafter continued to monitor her for compliance with medication for this infection. See id. at 417, 421, 425."
+ ],
+ "arm": "E_aljfacts",
+ "set": "held",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 241,
+ "evidence_words_D": 546,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_arm_E.py (post-hoc, exploratory)",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "alj_fact_sentences": 1
+}

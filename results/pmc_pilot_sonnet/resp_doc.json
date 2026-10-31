@@ -1,0 +1,242 @@
+[
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The IRF policy requires documented rehabilitation-physician visits at least 3 days per week. The case facts record the transfer to inpatient rehabilitation but contain no visit documentation, so this requirement cannot be confirmed.",
+    "passage_id": 92,
+    "quote": "documented face-to-face visits from a rehabilitation physician at least 3 days per week throughout the patient\u2019s IRF stay",
+    "case_fact": "He was discharged to the inpatient rehabilitation unit on hospital day 7 with a plan to remain off all anticoagulation therapies."
+   },
+   {
+    "claim": "The certification passage calls for physician-certified plans for posthospital care. The case facts show an admission but no admission order or certification, so these records are not shown as present.",
+    "passage_id": 31,
+    "quote": "The plans for posthospital care, if appropriate, and as provided in 42 CFR 424.13.",
+    "case_fact": "The patient was admitted to the neurocritical care unit for frequent neurological examinations."
+   }
+  ],
+  "case_id": "pmc_3556834_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires physician face-to-face visits at least 3 days per week during an IRF stay. The case facts mention transfer to a Stroke Rehabilitation Unit in a district hospital, but contain no visit documentation, so this cannot be confirmed.",
+    "passage_id": 92,
+    "quote": "Close physician involvement in the patient\u2019s care is demonstrated by documented face-to-face visits from a rehabilitation physician at least 3 days per week",
+    "case_fact": "She was transferred to Stroke Rehabilitation Unit in the district hospital on the 8th postoperative day where she required percutaneous esophagogastrostomy (PEG)."
+   },
+   {
+    "claim": "The policy requires the IRF medical record to show the nature, degree and expected timeframe of improvement. The case facts describe only the clinical outcome and give no IRF record or goals, so this is UNKNOWN.",
+    "passage_id": 103,
+    "quote": "The patient\u2019s IRF medical record is expected to indicate both the nature and degree of expected improvement and the expected length of time to achieve the improvement.",
+    "case_fact": "Patient was transferred to a rehabilitative facility, from where she was transferred home."
+   },
+   {
+    "claim": "The policy requires inpatient certification and admission documentation to be in the medical record, and IRF pre-admission screening and post-admission evaluation documents may satisfy it. The case facts do not show whether any of these documents exist.",
+    "passage_id": 32,
+    "quote": "All certification requirements must be completed, signed, and documented in the medical record",
+    "case_fact": "She was discharged home 15 weeks following initial surgery."
+   },
+   {
+    "claim": "The policy lists the IRF pre-admission screening, post-admission physician evaluation and admission orders as required documents. The case facts do not mention any of them, so their presence is UNKNOWN.",
+    "passage_id": 32,
+    "quote": "the preadmission screening (including the physician review and concurrence), the post-admission physician evaluation, and the required admission orders",
+    "case_fact": "She was transferred to Stroke Rehabilitation Unit in the district hospital on the 8th postoperative day where she required percutaneous esophagogastrostomy (PEG)."
+   }
+  ],
+  "case_id": "pmc_3652732_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires the medical record to document the history and physical exam, the skilled services provided, the patient's response, and the plan for future care. The case facts describe the hospital course but contain no SNF records, skilled-service documentation, or plan of care, so it cannot be determined whether the required documentation is present.",
+    "passage_id": 620,
+    "quote": "The history and physical exam pertinent to the patient\u2019s care",
+    "case_fact": "After a 25-day hospital course, the patient was discharged to a skilled nursing facility for further care."
+   },
+   {
+    "claim": "The policy says vague phrases such as 'tolerated treatment well' do not sufficiently document the patient's response to skilled care. The case record uses this phrase for the first surgery, which is a hospital procedure. No objective outcome measures for any skilled SNF service are given, so adequacy is not settled.",
+    "passage_id": 620,
+    "quote": "Patient tolerated treatment well",
+    "case_fact": "The patient tolerated the procedure well, and his trachea was extubated at the end of surgery."
+   },
+   {
+    "claim": "The policy requires documentation describing the skilled services that need nursing personnel after surgery and transfer to a SNF. The case facts show transfer after surgery but do not describe any skilled nursing observation or monitoring services, so this documentation is UNKNOWN.",
+    "passage_id": 627,
+    "quote": "The medical documentation must describe the skilled services that require the involvement of nursing personnel",
+    "case_fact": "After a 25-day hospital course, the patient was discharged to a skilled nursing facility for further care."
+   }
+  ],
+  "case_id": "pmc_3687721_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy refers to a physician inpatient admission order and certification. The case facts describe the emergency admission and treatment but never mention an order or certification, so their presence cannot be determined.",
+    "passage_id": 31,
+    "quote": "The physician may certify the need for continued inpatient admission on this basis.",
+    "case_fact": "She was transported to our tertiary emergency medical center."
+   },
+   {
+    "claim": "Medical necessity of the inpatient admission is decided case by case on review. The clinical facts describe an emergency operation, but no review documentation is in the record, so this point is not settled.",
+    "passage_id": 14,
+    "quote": "whether the admission was medically necessary",
+    "case_fact": "We thus performed emergency laparotomy under a diagnosis of fulminant obstructive colitis due to sigmoid colon cancer."
+   },
+   {
+    "claim": "A preadmission screening is required only for an inpatient rehabilitation facility (IRF) admission. The case says only that she went to a rehabilitation hospital and does not say whether it was an IRF or whether a screening was done, so this is UNKNOWN.",
+    "passage_id": 74,
+    "quote": "a preadmission screening is an evaluation of the patient\u2019s condition and need for rehabilitation therapy and medical treatment",
+    "case_fact": "she was then transferred to a rehabilitation hospital on postoperative day 71"
+   }
+  ],
+  "case_id": "pmc_3906958_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires a preadmission screening within 48 hours before IRF admission. The case facts only say the patient was discharged to a rehabilitation hospital and include no screening or IRF records, so this point cannot be settled.",
+    "passage_id": 74,
+    "quote": "a preadmission screening is an evaluation of the patient\u2019s condition and need for rehabilitation therapy and medical treatment",
+    "case_fact": "Five months after admission, the patient was discharged to a rehabilitation hospital."
+   },
+   {
+    "claim": "The policy requires documented rehabilitation-physician face-to-face visits at least 3 days per week during the IRF stay. The case facts contain no IRF stay records, so whether these visits are documented is UNKNOWN.",
+    "passage_id": 92,
+    "quote": "documented face-to-face visits from a rehabilitation physician at least 3 days per week throughout the patient\u2019s IRF stay",
+    "case_fact": "Five months after admission, the patient was discharged to a rehabilitation hospital."
+   }
+  ],
+  "case_id": "pmc_4480245_1"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "A history and physical exam is documented for the hospital stay. The record does not show the SNF skilled services, the patient's response to them, or the complexity of the service, all of which the policy also requires.",
+    "passage_id": 620,
+    "quote": "The history and physical exam pertinent to the patient\u2019s care",
+    "case_fact": "presented to the hospital with generalized weakness"
+   },
+   {
+    "claim": "No plan for future skilled care is documented. The record says only that the patient went to a subacute facility for physical therapy, with no skilled services, frequency or goals stated.",
+    "passage_id": 620,
+    "quote": "The plan for future care based on the rationale of prior results.",
+    "case_fact": "discharged to a subacute nursing facility for further physical therapy."
+   },
+   {
+    "claim": "No detailed rationale explains why skilled care is needed. The record states that the patient's confusion resolved and does not link any ongoing skilled need to her overall condition.",
+    "passage_id": 620,
+    "quote": "A detailed rationale that explains the need for the skilled service in light of the patient\u2019s overall medical condition and experiences",
+    "case_fact": "The patient had no further episodes of confusion and lethargy since being discharged."
+   },
+   {
+    "claim": "The qualifying hospital stay is only partly documented. Hospital Day 5 suggests a stay of at least 3 days. The record does not state inpatient admission dates or document the medical necessity of the stay.",
+    "passage_id": 573,
+    "quote": "the qualifying hospital stay must have been medically necessary.",
+    "case_fact": "Clinically, the patient was improving until Hospital Day 5, where she was found lethargic and not conversational."
+   }
+  ],
+  "case_id": "pmc_4887827_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires medical documentation describing the skilled services needed. The case record does not describe any skilled nursing or rehabilitation services after discharge to the nursing home, so this required documentation is not shown.",
+    "passage_id": 627,
+    "quote": "The medical documentation must describe the skilled services that require the involvement of nursing personnel",
+    "case_fact": "She was later discharged to a nursing home on oral levofloxacin, clindamycin, and fluconazole pending identification of the yeast."
+   },
+   {
+    "claim": "The presumption of coverage applies only to a discharge directly to a SNF. The record says 'nursing home' and does not say whether it is a SNF, so whether the presumption applies, or whether a full medical-evidence review is needed, cannot be settled.",
+    "passage_id": 608,
+    "quote": "If the beneficiary is discharged from the hospital to a setting other than the SNF, the presumption of coverage does not apply",
+    "case_fact": "She recovered slowly and was discharged to a nursing home after two weeks of hospitalization."
+   }
+  ],
+  "case_id": "pmc_5039271_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The hospital stay appears to meet the 3-day prior-hospitalization requirement, since the record shows an inpatient course past hospital day 10. Admission status and the discharge date are not stated, so this is only partly settled.",
+    "passage_id": 572,
+    "quote": "The 3 consecutive calendar day stay requirement can be met by stays totaling 3 consecutive days in one or more hospitals.",
+    "case_fact": "CSF from a repeat lumbar puncture on hospital day 10 was negative for VZV and herpes simplex virus PCR."
+   },
+   {
+    "claim": "The policy requires the record to document the skilled services provided. The case facts show only discharge to a SNF and give no SNF skilled-service records, so whether this documentation exists is UNKNOWN.",
+    "passage_id": 620,
+    "quote": "The skilled services provided;",
+    "case_fact": "He was ultimately discharged to a skilled nursing facility."
+   },
+   {
+    "claim": "The policy requires a documented plan for future care and a rationale for skilled need. The case facts show no post-discharge plan or follow-up, so this is UNKNOWN.",
+    "passage_id": 620,
+    "quote": "The plan for future care based on the rationale of prior results.",
+    "case_fact": "It is unknown if symptoms of SUNCT have returned as he has not returned to our facility since his discharge."
+   }
+  ],
+  "case_id": "pmc_5698783_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy calls for a physician certification of the need for inpatient admission or continued stay. The case record contains no admission order or certification, so this requirement cannot be confirmed.",
+    "passage_id": 31,
+    "quote": "The physician may certify the need for continued inpatient admission on this basis.",
+    "case_fact": "The patient was treated in the intensive care unit after surgery; however, he needed continuous mechanical ventilation owing to respiratory failure."
+   },
+   {
+    "claim": "The policy lists plans for posthospital care as a required element. The record shows only a transfer to a rehabilitation hospital. It does not show a documented posthospital care plan or certification, so this is not settled.",
+    "passage_id": 31,
+    "quote": "The plans for posthospital care, if appropriate, and as provided in 42 CFR 424.13.",
+    "case_fact": "The patient recovered and was moved to a rehabilitation hospital on POD 66 following his first surgery."
+   },
+   {
+    "claim": "Part A payment depends on the patient being covered under hospital insurance. The case facts describe inpatient care but say nothing about Medicare enrollment or Part A entitlement, so this is UNKNOWN.",
+    "passage_id": 9,
+    "quote": "Patients covered under hospital insurance are entitled to have payment made on their behalf for inpatient hospital services.",
+    "case_fact": "An 84-year-old man visited our hospital owing to a neck (left) and abdominal penetrating injury by a short sword in a suicide attempt."
+   }
+  ],
+  "case_id": "pmc_5891105_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Passage 31 requires a physician certification of the need for inpatient admission and the plans for posthospital care. The case record has no admission order, certification, or posthospital care plan, so this requirement cannot be confirmed as present or absent.",
+    "passage_id": 31,
+    "quote": "The plans for posthospital care, if appropriate, and as provided in 42 CFR 424.13.",
+    "case_fact": "he was transferred to a rehabilitation hospital on day 201 of hospitalization."
+   },
+   {
+    "claim": "Passage 83 requires IRF medical record documentation (preadmission screening, overall plan of care, admission orders). The case only says he moved to a rehabilitation hospital and gives no IRF records, so the required IRF documentation is UNKNOWN.",
+    "passage_id": 83,
+    "quote": "must include the preadmission screening described in section 110.1.1, the overall plan of care described in section 110.1.3, and the admission orders",
+    "case_fact": "he was transferred to a rehabilitation hospital on day 201 of hospitalization."
+   },
+   {
+    "claim": "Passage 87 requires documentation of intensive therapy, generally at least 3 hours per day at least 5 days per week. The case describes physiotherapy but gives no therapy hours or intensity, and does not say the rehabilitation hospital is an IRF, so this is UNKNOWN.",
+    "passage_id": 87,
+    "quote": "intensive therapies at least 3 hours per day at least 5 days per week",
+    "case_fact": "His physiotherapy rehabilitation continued for 2 months"
+   },
+   {
+    "claim": "Passage 83 requires multiple therapy disciplines, one of which is physical or occupational therapy. The case documents only physiotherapy, with no other disciplines, so this point is not settled.",
+    "passage_id": 83,
+    "quote": "The patient must require the active and ongoing therapeutic intervention of multiple therapy disciplines",
+    "case_fact": "his physiotherapy rehabilitation continued uneventfully."
+   }
+  ],
+  "case_id": "pmc_6182792_1"
+ }
+]

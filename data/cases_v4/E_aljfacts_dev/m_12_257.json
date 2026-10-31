@@ -1,0 +1,61 @@
+{
+ "case_id": "m_12_257",
+ "domain": "home_health",
+ "docket": "M-12-257",
+ "service_at_issue": "home health services, recertification period May 20, 2010 through July 18, 2010",
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council found the record showed the beneficiary was homebound and that the nursing observation, assessment and teaching were skilled and reasonable and necessary.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30.1.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.3"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 409.42(a)",
+  "42 CFR 409.42(c)",
+  "42 CFR 409.32",
+  "42 CFR 409.33(a)(2)",
+  "42 CFR 409.33(a)(3)",
+  "42 CFR 409.44(b)(3)",
+  "SSA 1814(a)",
+  "SSA 1835(a)"
+ ],
+ "facts": [
+  "Initially and upon redetermination, the Medicare contractor denied coverage for home health services provided to the beneficiary from May 20, 2010, through July 18, 2010. Exh. 1 at 16-18. The appellant requested reconsideration by a Qualified Independent Contractor (QIC). Id. at 13-15.",
+  "The beneficiary began receiving home health services on September 22, 2009. Exh. 2 at 6. The dates of service at issue are for the re-certification period of May 20, 2010, through July 18, 2010. Id. The beneficiary had a primary diagnosis of diabetes mellitus. Id. Secondary diagnoses included history of stroke, high blood cholesterol and hypertension. Id.",
+  "While an individual does not have to be bedridden to be considered \u201cconfined to his home,\u201d the condition of the individual should be such that there exists a normal inability to leave home and that leaving home requires a considerable and taxing effort by the individual.",
+  "In this case, the treating physician noted the beneficiary\u2019s homebound status in the home health plan of care re- certification for the dates of service at issue. Exh. 2 at 6-7. The re-certification further noted that the beneficiary was unable to leave the home without taxing efforts. Id. Additionally, the re-certification documented the beneficiary had functional limitations which included poor vision, poor manual dexterity, unstable and weak gait, poor hearing, impaired tactile sensation, dyspnea with moderate exertion, left side paralysis and limited range of motion, and incontinence. Id. The re-certification also noted the beneficiary received assistance daily from an attendant. Id.",
+  "In the case at hand, absences from the home, though infrequent, included adult day care and doctor visits. Id. at 7.",
+  "On the assessments, the nurse indicated the beneficiary experienced moderate shortness of breath on exertion, had poor manual dexterity, and was ambulatory only with assistive devices. Id.",
+  "All of the above considerations, taken together, sufficiently support a conclusion that the beneficiary was homebound during the period at issue.",
+  "Where a patient was admitted to home health care for skilled observation because there was a reasonable potential of a complication or further acute episode, but did not develop a further acute episode or complication, the skilled observation services are still covered for three weeks or so long as there remains a reasonable potential for such a complication or further acute episode.",
+  "Moreover, such indications as abnormal/fluctuating vital signs, weight changes, edema, symptoms of drug toxicity, abnormal/fluctuating lab values, and respiratory changes on auscultation may justify skilled observation and assessment. Where these indications are such that it is likely that skilled observation and assessment by a licensed nurse will result in changes to the treatment of the patient, then the services would be covered. There are cases where patients who are stable continue to require skilled observation and assessment...",
+  "In the instant case, the beneficiary\u2019s physician ordered home health services for skilled assessment and observation, as well as teaching and instruction. Exh. 2 at 6-7. The record indicates that immediately prior to the dates of service the beneficiary\u2019s condition necessitated medication changes: Trilipix (for cholesterol) and Actos (to stabilize blood sugar) due to unstable blood sugars, ranging from 88-303. Id. at 41- 42.",
+  "Additionally, the doctor ordered teaching and instruction by the skilled nurse so the beneficiary could learn to manage the new medication regime, form an understanding of long term diabetic complications, and for the implementation of an 1800 calorie diet. Exh. 2 at 6-7; reference hearing CD at 11:21:21-11:21:36."
+ ],
+ "arm": "E_aljfacts",
+ "set": "dev",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 289,
+ "evidence_words_D": 566,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_arm_E.py (post-hoc, exploratory)",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "alj_fact_sentences": 1
+}

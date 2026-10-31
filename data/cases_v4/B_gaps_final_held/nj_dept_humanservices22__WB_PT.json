@@ -1,0 +1,72 @@
+{
+ "domain": "home_health",
+ "docket": null,
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.2.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.2.2"
+  }
+ ],
+ "other_cites": [
+  "SSA 1835(a)(2)(A)",
+  "42 CFR 409.42",
+  "42 CFR 409.44(b)(3)",
+  "42 CFR 409.44(c)(2)(ii)",
+  "42 CFR 409.44(c)(2)(iii)",
+  "42 CFR 409.33(b)(1)",
+  "42 CFR 409.33(c)(2)",
+  "42 CFR 409.33(c)(3)",
+  "42 CFR 409.33(c)(4)",
+  "42 CFR 409.33(d)(13)",
+  "42 CFR 409.32(b)",
+  "42 CFR 409.32(c)",
+  "42 CFR 409.43(b)",
+  "42 CFR 409.45(a)",
+  "42 CFR 409.45(b)"
+ ],
+ "case_id": "nj_dept_humanservices22__WB_PT",
+ "parent": "nj_dept_humanservices22",
+ "unit_note": "",
+ "service_at_issue": "Eleven home health physical therapy visits for one beneficiary (W.B.), Oct 25 - Nov 29, 2005",
+ "reference_outcome": "COVERED",
+ "outcome_note": "(unit)",
+ "facts": [
+  "The original claim for home health services to W.B. included numerous services provided between October 22, 2005, through October 16, 2006. At the hearing, the appellant withdrew its claim as to all but two sets of services: (1) four skilled nursing visits and (2) eleven physical therapy visits.",
+  "The visits remaining at issue took place between October 25, 2005, and November 29, 2005. The appellant asserts that these physical therapy services were provided in relation to the installation of a new stair lift mechanism to assist the beneficiary with difficulty navigating stairs in his home due to fatigue, pain and abnormality of gait attributed to post-polio syndrome and unequal leg length. The appellant further asserts that the skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift. Id. The appellant alleges the beneficiary improved measurably over the month as the therapist revised the exercise program.",
+  "The record contains the physician\u2019s order and plan of care for physical therapy during the relevant period calling for visits 1-2 times per week. Ex. 1, at 300-1. The assessment also records the patient having no pain that interferes \u201cwith activity or movement.\u201d Id. However, the physical therapist\u2019s (PT) note for an October 17, 2005 visit describes chronic intermittent pain in the right hip addressed with rest and medication. Id. at 125. The note further noted pain reduction during use of right leg based on retraining for position change and weight-bearing activities and notes plan of care to \u201c[e]stablish/upgrade home exercise program.\u201d Id.",
+  "\uf0b7 Ex. 1, at 119 October 25, 2005 \u2013 Reports that \u201cstair use training continues . . . in attempt to negotiate full flight of steps to main level of home\u201d and that exercise and \u201cgait training activities continue\u201d with patient able to negotiate four steps using bilateral railing but displaying \u201cguarding,\u201d with \u201cfatigue and pain noted in ascending 4th step.\u201d",
+  "\uf0b7 Ex. 1, at 117 - October 27, 2005 \u2013 Reports review of the home exercise program and observation of balance activities to assess compliance, continuation of stair use training, and documents \u201cslow progress\u201d in using stairs with railings while stating that \u201cuse of stair glide type of lift is recommended as yet.\u201d",
+  "\uf0b7 Ex. 1, at 115 - November 1, 2005 \u2013 Reports teaching patient and caregivers the \u201ccorrect use of stairlift recently installed in home for safe transfer\u201d and negotiation of last two steps to first floor.",
+  "\uf0b7 Ex. 1, at 113 - November 3, 2005 \u2013 Records that stair lift transfers are now safe at both ends, while still recommending grab bars on lower level.",
+  "\uf0b7 Ex. 1, at 111 - November 8, 2005 \u2013 Reports review of stair lift safety and discussion of fall prevention.",
+  "\uf0b7 Ex. 1, at 109 \u2013 November 10, 2005 \u2013 Reports review of correct stair lift use and fall prevention and notes progress in \u201cincreasing activity levels,\u201d with the lift facilitating access to the first floor.",
+  "\uf0b7 Ex. 1, at 107 - November 15, 2005 \u2013 Gait safety without orthotic for leg length discrepancy reviewed to prevent falls.",
+  "\uf0b7 Ex. 1, at 105 \u2013 November 17, 2005 \u2013 Home exercise plan \u201crevised for active hip flexion and ext[ension] as tolerated.\u201d",
+  "\uf0b7 Ex. 1, at 103 \u2013 November 23, 2005 \u2013 Notes patient improvement in negotiation of two stairs to first floor and an ability for partial weight bearing on right leg without pain.",
+  "\uf0b7 Ex. 1, at 101 \u2013 November 25, 2005 \u2013 Review of activities to weight-shift to right leg and of safety plan for standing and transfer.",
+  "\uf0b7 Ex. 1, at 99 \u2013 November 29, 2005 \u2013 Notes that exercise and gait activities continue \u201cas ordered,\u201d and that safe gait activities and stair use were reviewed.",
+  "The medical records discussed above and other documents and testimony in the record support a conclusion that the PT was providing therapeutic exercises and activities that required skilled-level performance and/or supervision given the condition of this 75-year old with partial paralysis from post-polio syndrome, a skeletal abnormality of uneven leg length further interfering with his ability to ambulate, intermittent pain in his right hip, and other medical diagnoses which could affect strength and balance in performing exercises."
+ ],
+ "arm": "B_gaps",
+ "set": "held",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 700,
+ "evidence_words_D": 946,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_units.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "status": "MAIN"
+}

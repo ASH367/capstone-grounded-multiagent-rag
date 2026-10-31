@@ -1,0 +1,685 @@
+{
+"case_id": "rx_homecare",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "On May 1, 2009, the Administrative Law Judge (ALJ) issued a fully favorable decision in an appeal filed by the Pennsylvania Department of Public Welfare, a Medicaid state agency as statutory subrogee.",
+"tag": "PROC",
+"reason": "subrogee"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ\u2019s decision granted Medicare coverage for home health care services furnished by Rx Home Care (provider) to the beneficiary from October 3, 2005, through September 27, 2006.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "Dissatisfied with this outcome, the provider has asked the Medicare Appeals Council (Council) to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 4,
+"section": "INTRO",
+"text": "As set forth below, the Council reverses the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary, an individual who was dually eligible for both Medicare and Medicaid benefits, received home health care services from the provider from October 3, 2005, through September 27, 2006. Exhs. 1-6.",
+"tag": "EVAL",
+"reason": "eligible for"
+},
+{
+"pi": 3,
+"si": 1,
+"section": "FACTS",
+"text": "The Pennsylvania Department of Public Welfare, a Medicaid state agency acting as statutory subrogee, requested that the provider submit a demand bill to claim Medicare coverage. Exh. 7.",
+"tag": "PROC",
+"reason": "subrogee"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "FACTS",
+"text": "Initially, and upon redetermination, the Medicare contractor denied coverage for the services at issue on the basis that the records submitted did not include a valid physician\u2019s order for the frequency of the services provided or for skilled nursing services. Exhs. 1-6.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "The Medicaid state agency requested reconsideration of these claims by a Qualified Independent Contractor (QIC). Id.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "The QIC also denied coverage for the periods of service at issue, finding that \u201cinsufficient documentation was submitted to substantiate Medicare\u2019s coverage criteria.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "FACTS",
+"text": "The home health care plans of care/certifications for the dates of service under review did not specify the frequency of the home health care visits to be provided.\u201d Exh. 8 at 567.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 5,
+"si": 3,
+"section": "FACTS",
+"text": "The QIC also determined that the Notice of Non-Coverage (NNC) on file was signed by the beneficiary on March 11, 2003, and did not pertain to the dates of service at issue. Id. at 571.",
+"tag": "PROC",
+"reason": "Notice of"
+},
+{
+"pi": 5,
+"si": 4,
+"section": "FACTS",
+"text": "Ultimately, the QIC held the provider liable for the non-covered services. Id.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "The Medicaid state agency then requested a hearing before an ALJ. Exh. 9.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "By order dated April 1, 2009, the ALJ consolidated several appeals involving the Medicaid state agency into one hearing. Exh. 12.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "FACTS",
+"text": "These appeals involved claims arising from several beneficiaries and providers.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 6,
+"si": 3,
+"section": "FACTS",
+"text": "Hearing CD.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 6,
+"si": 4,
+"section": "FACTS",
+"text": "The ALJ conducted the consolidated hearing with counsel for the Medicaid state agency participating via teleconference on April 23, 2009. Dec. at 2, Hearing CD.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 6,
+"si": 5,
+"section": "FACTS",
+"text": "Representatives from another provider, not involved with the present appeal, also participated in the hearing via telephone.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 6,
+"si": 6,
+"section": "FACTS",
+"text": "Hearing CD.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 6,
+"si": 7,
+"section": "FACTS",
+"text": "The provider in this case did not participate in the hearing. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 6,
+"si": 8,
+"section": "FACTS",
+"text": "On May 1, 2009, the ALJ issued a fully favorable decision, granting Medicare coverage for all of the home health care services rendered during the periods of service at issue. Dec. at 10-13.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "On appeal before the Council, the provider asserts that Medicare coverage is not appropriate for the services at issue because they were not skilled, and thus, do not qualify as reasonable and necessary as contemplated by Medicare\u2019s coverage criteria. See Request for Review.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "LAW",
+"text": "For a beneficiary to qualify for Medicare coverage of home health services, he or she must be confined to the home, under the care of a physician, in need of skilled services, under a plan of care, and the services must be provided by a participating home health agency.",
+"tag": "LAW",
+"reason": "law statement: to qualify"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "LAW",
+"text": "C.F.R. \u00a7 409.42.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "LAW",
+"text": "The beneficiary must need \u201cskilled services\u201d in the form of intermittent skilled nursing services, physical therapy services, speech-language pathology services, or occupational therapy services.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 9,
+"si": 3,
+"section": "LAW",
+"text": "C.F.R. \u00a7 409.42(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 9,
+"si": 4,
+"section": "LAW",
+"text": "To qualify for Medicare coverage, the intermittent skilled nursing services provided must meet the criteria for skilled services and the need for those services, as described in 42 C.F.R. \u00a7 409.32.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "LAW",
+"text": "42 C.F.R. \u00a7 409.33(a)(2)(i) explains when observation and assessment of the patient\u2019s changing condition constitute skilled services: \u201cObservation and assessment constitute skilled services when the skills of a technical or professional person are required to identify and evaluate the patient\u2019s need for modification of treatment or for additional medical procedures until his or her condition is stabilized.\u201d",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "LAW",
+"text": "The Medicare Benefits Policy Manual (MBPM) section entitled \u201cObservation and Assessment of the Patient\u2019s Condition When Only the Specialized Skills of a Medical Professional Can Determine Patient\u2019s Status\u201d provides:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "LAW",
+"text": "Observation and assessment of the patient\u2019s condition by a nurse are reasonable and necessary skilled services when the likelihood of change in a patient\u2019s condition requires skilled nursing personnel to identify and evaluate the patient\u2019s need for possible modification of treatment or initiation of additional medical procedures until the patient\u2019s treatment regimen is essentially stabilized.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "LAW",
+"text": "When a patient was admitted to home health care for skilled observation because there was a reasonable potential of a complication or further acute episode, but did not develop a further acute episode or complication, the skilled observation services are still covered for three weeks or so long as there remains a reasonable potential for such a complication or further acute episode. * * *",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 0,
+"section": "LAW",
+"text": "However, observation and assessment by a nurse is not reasonable and necessary to the treatment of the illness or injury where these indications are part of a longstanding pattern of the patient\u2019s condition, and there is no attempt to change the treatment to resolve them.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "LAW",
+"text": "CMS Manual System, Pub. 100-02, MBPM, Ch. 7 at \u00a7 40.1.2.1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "MIXED",
+"text": "The beneficiary began receiving home health care from the provider in June 2001, more than four years before the initial date of service at issue. Exh. 6 at 1; Request for Review.",
+"tag": "PROC",
+"reason": "Request for Review"
+},
+{
+"pi": 17,
+"si": 1,
+"section": "MIXED",
+"text": "The beneficiary\u2019s primary diagnosis was type I diabetes mellitus (without mention of complication and not stated as uncontrolled), and his other diagnoses included hypertension, venous thrombosis, coronary atherosclerosis of unspecified type, glaucoma, and chronic renal failure. Exhs. 1-6.",
+"tag": "GAP",
+"reason": "without mention"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "MIXED",
+"text": "During the periods of service at issue, a skilled nurse visited the beneficiary approximately once every two weeks to fill a mediplanner with pills and oversee home health aides. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 18,
+"si": 1,
+"section": "MIXED",
+"text": "Concurrently, a home health aide visited the beneficiary five days each week, averaging 30-35 hours a week, to assist with personal care, light housekeeping, and meal preparation. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 19,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ granted Medicare coverage for these home health care services, finding them reasonable and necessary for the beneficiary\u2019s care because a skilled nurse provided observation and assessment of the beneficiary\u2019s overall health, filled his mediplanner with medications, and oversaw home health aides. Dec. at 11-12.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "However, before the Council, the appellant-provider contends that Medicare coverage is not appropriate for the services at issue because they were not reasonable and necessary as contemplated by the regulations.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 20,
+"si": 1,
+"section": "MIXED",
+"text": "Request for Review.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 20,
+"si": 2,
+"section": "MIXED",
+"text": "Specifically, the appellant-provider asserts that there were no physician orders for skilled services during the periods in question and that skilled \u201cobservation and assessment\u201d services cannot occur for over a 50-week period. Id.",
+"tag": "COUNCIL_REC",
+"reason": "record-report sentence inside Council paragraph"
+},
+{
+"pi": 20,
+"si": 3,
+"section": "MIXED",
+"text": "We agree.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "MIXED",
+"text": "After reviewing the medical evidence contained in the administrative record, the Council finds that the beneficiary did not receive or require skilled care during the periods of service at issue.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 21,
+"si": 1,
+"section": "MIXED",
+"text": "The beneficiary did not receive any skilled rehabilitation therapy during the period of service at issue.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 21,
+"si": 2,
+"section": "MIXED",
+"text": "Thus, for the home health care services to qualify for Medicare coverage, the beneficiary must have received and required intermittent skilled nursing care.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 21,
+"si": 3,
+"section": "MIXED",
+"text": "However, the plans of care on file reveal physician\u2019s orders for the skilled nurse to \u201cvisit Q 2 weeks to pour mediplanner.\u201d Id.",
+"tag": "COUNCIL_REC",
+"reason": "record-report sentence inside Council paragraph"
+},
+{
+"pi": 21,
+"si": 4,
+"section": "MIXED",
+"text": "Pouring medications into a pill planner is not a skilled service as it not \u201cso inherently complex that it can be safely and effectively performed only by, or under the supervision of, professional or technical personnel.\u201d 42 C.F.R. \u00a7 409.32(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 21,
+"si": 5,
+"section": "MIXED",
+"text": "The record does not contain physician\u2019s orders for skilled care at the level contemplated by the regulations. Exhs. 1-6.",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "MIXED",
+"text": "Further, the evidence of record does not support the ALJ\u2019s conclusion that the visiting nurse provided observation and assessment services. Dec. at 11-12.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 22,
+"si": 1,
+"section": "MIXED",
+"text": "The plans of care do not contain physician\u2019s orders for observation and assessment and the nursing notes do not reveal any significant changes in the beneficiary\u2019s status or condition.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 22,
+"si": 2,
+"section": "MIXED",
+"text": "Given the above, there was no anticipated likelihood of complications or an acute episode that would have required observation and assessment by a skilled nurse.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 22,
+"si": 3,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.33(a)(2)(i); MBPM, Ch. 7 at \u00a7 4.1.2.1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "MIXED",
+"text": "For the foregoing reasons, the Council concludes that the skilled nursing services provided to the beneficiary during the periods of service at issue were not medically reasonable and necessary pursuant to section 1862(a)(1) of the Social Security Act (Act), and therefore, are not covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 23,
+"si": 1,
+"section": "MIXED",
+"text": "The home health aide services are not covered when a beneficiary does not also require skilled care.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 23,
+"si": 2,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.45(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 23,
+"si": 3,
+"section": "MIXED",
+"text": "Therefore, Medicare does not cover the dependent home health aide services at issue.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 23,
+"si": 4,
+"section": "MIXED",
+"text": "The ALJ\u2019s decision is reversed.",
+"tag": "COUNCIL",
+"reason": "reversed"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "MIXED",
+"text": "As the Council determined that Medicare does not cover the services at issue because they were not medically reasonable and necessary under section 1862(a)(1) of the Act, we must next apply the limitation on liability provisions of section 1879.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "MIXED",
+"text": "Section 1879 of the Act provides that a beneficiary or provider may be liable for the cost of an item or service that is not",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "MIXED",
+"text": "\u201creasonable and necessary\u201d based upon prior knowledge of non-coverage.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 27,
+"si": 1,
+"section": "MIXED",
+"text": "Act at \u00a7 1879(a); 42 C.F.R. \u00a7\u00a7 411.400, 411.404, 411.406; Medicare Claims Processing Manual (MCPM), Ch. 30, \u00a740.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 27,
+"si": 2,
+"section": "MIXED",
+"text": "A beneficiary is deemed to have knowledge of non-coverage if the provider furnishes written notice to the beneficiary explaining why it believes that Medicare will not cover the item or service.",
+"tag": "LAW",
+"reason": "law statement: Medicare will not"
+},
+{
+"pi": 27,
+"si": 3,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 411.404(b).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 27,
+"si": 4,
+"section": "MIXED",
+"text": "A provider is deemed to have knowledge of non-coverage, in part, when it informs the beneficiary before furnishing the item or service that it is not covered.",
+"tag": "EVAL",
+"reason": "not covered"
+},
+{
+"pi": 27,
+"si": 5,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 411.406(d)(1).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 27,
+"si": 6,
+"section": "MIXED",
+"text": "A provider also has actual or constructive knowledge of non-coverage based upon \u201c[i]ts receipt of CMS notices, including manual issuances, bulletins, or other written guides or directives from [Medicare contractors]\u201d and \u201c[i]ts knowledge of what are considered acceptable standards of practice by the local medical community.\u201d 42 C.F.R. \u00a7 411.406(e)(1),(3).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "MIXED",
+"text": "The Council finds that the appellant-provider in this case knew or had reason to know that Medicare would not cover the home health services during the period at issue, pursuant to 42 C.F.R. \u00a7 411.406(e)(1),(3).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 28,
+"si": 1,
+"section": "MIXED",
+"text": "Therefore, the appellant-provider will be liable for the non-covered items unless it provided valid notice to the beneficiary in writing that the services likely would not be covered by Medicare.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "MIXED",
+"text": "The record contains a signed Notice of Non-Coverage Home Health Advance Beneficiary Notice (HHABN) dated March 11, 2003. Exh. 7 at 550.",
+"tag": "PROC",
+"reason": "Notice of"
+},
+{
+"pi": 29,
+"si": 1,
+"section": "MIXED",
+"text": "The HHABN indicated that the service at issue, skilled nursing visits to prepare and pour the medication organizer, does \u201cnot meet the requirements for coverage under Medicare\u201d because \u201cskilled services are not part-time or intermittent,\u201d \u201cservices are not skilled,\u201d and the visits were \u201cauthorized by & billed through county services [Medicaid].\u201d Id.",
+"tag": "LAW",
+"reason": "law statement: requirements for"
+},
+{
+"pi": 29,
+"si": 2,
+"section": "MIXED",
+"text": "Thus, the notice informed the beneficiary in writing that the services at issue likely would not be covered by Medicare \u2013 more than two years prior to the start of the period of service at issue.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 30,
+"si": 0,
+"section": "MIXED",
+"text": "The Medicare Claims Processing Manual explains when a provider must reissue a HHABN as follows:",
+"tag": "LAW",
+"reason": "Claims Processing Manual"
+},
+{
+"pi": 31,
+"si": 0,
+"section": "MIXED",
+"text": "A single HHABN covering an extended course of treatment is acceptable [to limit liability] provided the HHABN identifies all items and services for which the HHA believes Medicare will not pay.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 31,
+"si": 1,
+"section": "MIXED",
+"text": "If, as the extended course of treatment progresses, additional items or services are to be furnished for which the",
+"tag": "EVAL",
+"reason": "If"
+},
+{
+"pi": 32,
+"si": 0,
+"section": "MIXED",
+"text": "HHA believes Medicare will not pay, the HHA must separately notify the patient in writing (i.e., give the beneficiary another HHABN) that Medicare is not likely to pay for the additional items or services and obtain the beneficiary\u2019s signature on the HHABN.",
+"tag": "LAW",
+"reason": "law statement: Medicare will not"
+},
+{
+"pi": 32,
+"si": 1,
+"section": "MIXED",
+"text": "One year is the limit for use of a single HHABN for an extended course of treatment; if the course of treatment extends beyond one year, a new HHABN is required for the remainder of the course of treatment.",
+"tag": "LAW",
+"reason": "law statement: is required"
+},
+{
+"pi": 33,
+"si": 0,
+"section": "MIXED",
+"text": "MCPM, Ch. 30 at \u00a7 60.6. (version effective Oct. 01, 2003).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 33,
+"si": 1,
+"section": "MIXED",
+"text": "As the date of the HHABN on file is more than two years prior to initial date of service at issue, the Council finds that the March 2003, HHABN provided insufficient notice to the beneficiary that Medicare would likely not cover the periods of service at issue.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 33,
+"si": 2,
+"section": "MIXED",
+"text": "As explained above, \u201cif the course of treatment extends beyond one year, a new HHABN is required for the remainder of the course of treatment.\u201d Id.",
+"tag": "LAW",
+"reason": "law statement: is required"
+},
+{
+"pi": 33,
+"si": 3,
+"section": "MIXED",
+"text": "As such, the provider is liable for the non-covered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 35,
+"si": 0,
+"section": "TERMINAL",
+"text": "It is the decision of the Medicare Appeals Council that Medicare does not cover the home health care services furnished to the beneficiary from October 3, 2005, through September 27, 2006, and that the provider is liable for the non-covered costs.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

@@ -1,0 +1,53 @@
+{
+ "case_id": "m-11-1559",
+ "domain": "inpatient_rehab",
+ "docket": "M-11-1559",
+ "service_at_issue": "inpatient hospital stay July 3-8, 2009 (billed as outpatient observation) and following SNF services July 11 to Sept 29, 2009",
+ "facts": [
+  "The beneficiary\u2019s chief complaint upon presentation to the emergency department was increasing difficulty ambulating over the past two weeks, \u201cstating that while he used to be able to ambulate without difficulty using a walker from one side of his house to the other, he states that he is now unsteady and falls with minimal ambulation from one room to another.\u201d",
+  "The medical record shows that the beneficiary had a history of degenerative cerebellar ataxia.",
+  "Per [discussion with] neurology, they feel that the addition of trazodone is known to cause deterioration in function in patients with degenerative cerebellar disorders and that this should be withdrawn. Given the fact that the patient lives with his elderly wife and is unable to ambulate safely due to this, I feel that he will need to be admitted for further management of this issue. This was discussed with the hospitalist and neurology, and neurology will admit to their service.",
+  "Decision to change from observation to inpt status was made in ERROR. Would like to revert to observation status for addition. 23 [hours]. Agree [with] Dr. Aquino\u2019s note earlier . . . today re status (minimal improvement mobility + change in BP meds (add ACE inhibitor)) appears not to have herpes zoster.",
+  "The discharge summary dated July 10, 2009, dictated by Dr. *** , states that the beneficiary \u201cwas admitted for overnight observation.\u201d",
+  "The SNF admission orders dated July 10, 2009, showed that the beneficiary had diagnoses of spino-cerebellar ataxia type 8, hypertension, diabetes mellitus, depression, apnea, and urinary incontinence.",
+  "The physician ordered blood sugar checks twice a day, daily dressing changes to the flank area for 14 days, monitoring of bruising for 7 days, as well as physical and occupational therapy five times/week for 8 weeks.",
+  "The notes indicate that the beneficiary fell on September 6, 2009, and although he had no injury, he complained of pain and had decreased appetite for the next several days.",
+  "The notes show that he had a staph infection in his blood and urine on September 17, 2009, and his condition worsened over the next several days to the point where he was unable to sit straight in his wheelchair."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council reversed the ALJ in part, finding the beneficiary required and received inpatient care from July 3-8, 2009 (a qualifying stay) and that the SNF services were skilled, reasonable and necessary with adequate physician certification.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "10"
+  },
+  {
+   "doc": "MBPM ch.6",
+   "section": "10"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 409.30",
+  "42 CFR 409.30(a)(1)",
+  "42 CFR 409.31",
+  "42 CFR 409.33(a)(2)(i)",
+  "42 CFR 424.20",
+  "42 CFR 421.100",
+  "42 CFR 401.108",
+  "42 CFR 405.1063",
+  "42 CFR 489.21(b)(1)",
+  "SSA 1812",
+  "SSA 1861(i)",
+  "SSA 1814(a)(2)(B)",
+  "SSA 1816",
+  "SSA 1862(a)(1)(A)",
+  "SSA 1879",
+  "HCFA Ruling 93-1",
+  "MCPM ch.29 sec.280.3",
+  "MCPM ch.3 sec.50",
+  "MCPM ch.1 sec.50.1.7"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

@@ -1,0 +1,421 @@
+{
+"case_id": "12-1251",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated March 16, 2012, which concerned Medicare coverage for emergency transport ambulance services, advanced life support (ALS) level 1 (HCPCS 1 code A0427) and ground mileage (HCPCS A0425) the appellant furnished to the beneficiary on April 17, 2011.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ denied Medicare coverage of the ambulance transport pursuant to section 1862(a)(1) of the Social Security Act (Act).",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ found that the beneficiary was not financially responsible for the non-covered services pursuant to section 1879 of the Act.",
+"tag": "PROC",
+"reason": "financially responsible"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council (Council) to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 4,
+"section": "INTRO",
+"text": "The appellant\u2019s request for review has been entered into the record as Exhibit (Exh.) MAC-1.",
+"tag": "PROC",
+"reason": "MAC-1"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council has considered the record and the appellant\u2019s exceptions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "As set forth below, the Council reverses the ALJ\u2019s decision and allows Medicare coverage for the ambulance services at issue.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "MIXED",
+"text": "As a preliminary issue, the appellant appended documents to its request for review, without an explanation as to whether any of the documents were being submitted as new evidence.",
+"tag": "PROC",
+"reason": "request for review"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "MIXED",
+"text": "The Council\u2019s comparison of those documents with the evidence admitted by the ALJ indicates that the appellant\u2019s submittals are duplicative.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "MIXED",
+"text": "As such, the Council excludes the documents from the record.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 3,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.1122(c)(2).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "MIXED",
+"text": "The beneficiary was discharged from a hospital on April 17, 2011. Exh. 4, at 9.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 5,
+"si": 1,
+"section": "MIXED",
+"text": "Later that same day the beneficiary called for an ambulance. Exh. 1, at 2.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "MIXED",
+"text": "On April 17, 2011, the beneficiary was transported from her residence to a hospital. Exh. 4, at 6, 10.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 5,
+"si": 3,
+"section": "MIXED",
+"text": "Initially, this claim was paid, but then an overpayment was assessed because the record showed that the beneficiary was a hospital inpatient on the date of service at issue. Exh. 3, at 2.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 5,
+"si": 4,
+"section": "MIXED",
+"text": "On redetermination, the contractor denied Medicare coverage. Id. at 2-3.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 5,
+"si": 5,
+"section": "MIXED",
+"text": "On reconsideration, the Qualified Independent Contractor (QIC) denied coverage finding that other means of transportation were not contraindicated. Exh. 5, at 4.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 5,
+"si": 6,
+"section": "MIXED",
+"text": "On further appeal, the ALJ also denied Medicare coverage. Dec. at 5-6.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 5,
+"si": 7,
+"section": "MIXED",
+"text": "The ALJ stated, in pertinent part, that:",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "MIXED",
+"text": "The documentation does not support that the ambulance transport was reasonable and necessary.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "MIXED",
+"text": "The beneficiary could have been safely transported by other means.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "MIXED",
+"text": "The ambulance run sheet indicates that the beneficiary was alert and stable at the time of transport.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 6,
+"si": 3,
+"section": "MIXED",
+"text": "In order for ambulance transportation to be deemed reasonable and necessary, other means of transport must be contraindicated.",
+"tag": "LAW",
+"reason": "law statement: In order for"
+},
+{
+"pi": 6,
+"si": 4,
+"section": "MIXED",
+"text": "The beneficiary could have been safely transported by other means.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "MIXED",
+"text": "Id.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "MIXED",
+"text": "The ALJ concluded \u201cthat the ambulance transport was not medically reasonable and necessary pursuant to Section 1862(a)(1) of the Social Security Act and 42 C.F.R. \u00a7 411.15(k).\u201d Id. at 6.",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "MIXED",
+"text": "In its request for review, the appellant asserts that at the scene the beneficiary complained of active chest pain, and that the beneficiary was treated with medications to attempt to alleviate the chest pain. Exh. MAC-1.",
+"tag": "PARTY",
+"reason": "appellant asserts"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant emphasized that: \u201cAt no time did [the beneficiary] deny having chest pain even after EMS intervention.\u201d Id. (emphasis in original).",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "MIXED",
+"text": "The appellant argues that it was proper for EMS to treat and transport the beneficiary, and that the transport was necessary. Id.",
+"tag": "PARTY",
+"reason": "appellant argues"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "MIXED",
+"text": "Medicare Part B covers ambulance transportation when \u201cthe use of other methods of transportation is contraindicated\u201d by the beneficiary\u2019s condition. See Social Security Act, \u00a7 1861(s)(7); 42 C.F.R. \u00a7 410.40(d).",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "MIXED",
+"text": "Thus, in \u201cany case in which some means of transportation other than an ambulance could be used without endangering the individual\u2019s health,\u201d whether available or not, Medicare will not cover the ambulance service. See Medicare Benefit Policy Manual (CMS Pub. 100-02), ch. 10, \u00a7 10.2.1.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "MIXED",
+"text": "The Council concludes that Medicare covers the ambulance transport furnished to the beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "MIXED",
+"text": "The documentation supports that the medical condition of the beneficiary required ambulance transport.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 10,
+"si": 2,
+"section": "MIXED",
+"text": "The ambulance report states that the beneficiary was being transported due to chest pain. Exh. 4, at 6.",
+"tag": "COUNCIL_REC",
+"reason": "record-report sentence inside Council paragraph"
+},
+{
+"pi": 10,
+"si": 3,
+"section": "MIXED",
+"text": "The Council notes that the ALJ was incorrect in stating that the beneficiary did not have chest pain when the ambulance arrived at the beneficiary\u2019s residence. Dec. at 2, 5.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 4,
+"section": "MIXED",
+"text": "The record before the Council does not indicate that the beneficiary\u2019s chest pain stopped.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 5,
+"section": "MIXED",
+"text": "The beneficiary complained of \u201csubsternal non-radiating\u201d chest pain. Exh. 4, at 6.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 10,
+"si": 6,
+"section": "MIXED",
+"text": "While the report of the 911 telephone call states that the beneficiary had trouble speaking between breaths, the ambulance report states that the beneficiary was \u201cspeaking full word sentences w/o difficulty.\u201d Exh. 1, at 2; Exh. 4, at 6.",
+"tag": "COUNCIL_REC",
+"reason": "record-report sentence inside Council paragraph"
+},
+{
+"pi": 10,
+"si": 7,
+"section": "MIXED",
+"text": "The beneficiary was found in bed in the fowler position. Exh. 4, at 6.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 10,
+"si": 8,
+"section": "MIXED",
+"text": "The beneficiary denied that: she lost consciousness, had shortness of breath, weakness, abdominal pain, a productive cough, a fever, etc. Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 10,
+"si": 9,
+"section": "MIXED",
+"text": "The beneficiary did have rales in her lungs. Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 10,
+"si": 10,
+"section": "MIXED",
+"text": "The beneficiary was provided with several medications, apparently to assist with the pain. Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 10,
+"si": 11,
+"section": "MIXED",
+"text": "These medications included nitroglycerin and aspirin. Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 10,
+"si": 12,
+"section": "MIXED",
+"text": "The beneficiary\u2019s heart rate, blood pressure, blood glucose and oxygen saturation level was monitored. Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 10,
+"si": 13,
+"section": "MIXED",
+"text": "The ambulance report indicates that the beneficiary received emergency services during the ambulance transport.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 10,
+"si": 14,
+"section": "MIXED",
+"text": "Thus, the Council concludes that the record establishes that other means of transportation were contraindicated.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "TERMINAL",
+"text": "It is the decision of the Medicare Appeals Council that the ambulance services provided to the beneficiary on April 17, 2011, are covered by Medicare.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "TERMINAL",
+"text": "Accordingly, the ALJ\u2019s decision is reversed.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

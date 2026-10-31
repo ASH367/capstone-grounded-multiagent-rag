@@ -1,0 +1,59 @@
+{
+ "results/fair/D_wide_final_dev/run1": {
+  "n": 23,
+  "multi": {
+   "forced_correct": 20,
+   "forced_ci": [
+    0.7368421052631579,
+    1.0
+   ],
+   "partly_predictions": 0,
+   "flag": {
+    "coverage": 16,
+    "committed_correct": 14,
+    "flagged": 7,
+    "flagged_wrong": 1,
+    "errors": 3,
+    "confident_wrong": 2
+   },
+   "flag_self": {
+    "coverage": 13,
+    "committed_correct": 11,
+    "flagged": 10,
+    "flagged_wrong": 1,
+    "errors": 3,
+    "confident_wrong": 2
+   }
+  },
+  "single": {
+   "forced_correct": 19,
+   "forced_ci": [
+    0.631578947368421,
+    0.9629629629629629
+   ],
+   "partly_predictions": 0,
+   "flag": {
+    "coverage": 22,
+    "committed_correct": 18,
+    "flagged": 1,
+    "flagged_wrong": 0,
+    "errors": 4,
+    "confident_wrong": 4
+   },
+   "flag_self": {
+    "coverage": 8,
+    "committed_correct": 7,
+    "flagged": 15,
+    "flagged_wrong": 3,
+    "errors": 4,
+    "confident_wrong": 1
+   }
+  },
+  "probe_correct": 22,
+  "gap_multi_minus_single": 0.043478260869565216,
+  "gap_ci": [
+   -0.08695652173913043,
+   0.21739130434782608
+  ]
+ }
+}

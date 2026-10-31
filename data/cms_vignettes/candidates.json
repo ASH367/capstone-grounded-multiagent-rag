@@ -1,0 +1,386 @@
+{
+ "_note": "CMS-authored EXAMPLE vignettes from MBPM ch.7/8/10 in index_v3. Candidates only: conclusion sentences split off by regex; outcome_guess is a regex guess and MUST be reviewed by hand. To use as a test, rebuild the retrieval index WITHOUT these example passages, else the system can copy the conclusion.",
+ "n": 38,
+ "items": [
+  {
+   "id": "cms_ex_000",
+   "doc": "MBPM ch.7",
+   "section": "20.2",
+   "label": "MBPM ch.7 \u00a720.2",
+   "scenario_facts": "The daughter is unwilling to bathe her elderly father and assist him with the exercise program.",
+   "cms_conclusion": "A patient who lives with an adult daughter and otherwise qualifies for Medicare coverage of home health services, requires the assistance of a home health aide for bathing and assistance with an exercise program to improve endurance. Home health aide services would be reasonable and necessary.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_001",
+   "doc": "MBPM ch.7",
+   "section": "20.2",
+   "label": "MBPM ch.7 \u00a720.2",
+   "scenario_facts": "A patient who is being discharged from a hospital with a diagnosis of osteomyelitis and requires continuation of the I.V. antibiotic therapy that was begun in the hospital was found to meet the criteria for Medicare coverage of skilled nursing facility services.",
+   "cms_conclusion": "If the patient also meets the qualifying criteria for coverage of home health services, payment may be made for the reasonable and necessary home health services the patient needs, notwithstanding the availability of coverage in a skilled nursing facility.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_003",
+   "doc": "MBPM ch.7",
+   "section": "30.2.3",
+   "label": "MBPM ch.7 \u00a730.2.3",
+   "scenario_facts": "SN x 7/wk x 1 wk; 3/wk x 4 wk; 2/wk x 3 wk, (skilled nursing visits 7 times per week for 1 week; 3 times per week for 4 weeks; and 2 times per week for 3 weeks) for skilled observation and evaluation of the surgical site, for teaching sterile dressing changes and to perform sterile dressing changes. The sterile change consists of (detail of procedure). Orders for care may indicate a specific range in the frequency of visits to ensure that the most appropriate level of services is provided to home health patients under a home health plan of care.",
+   "cms_conclusion": "When a range of visits is ordered, the upper limit of the range is considered the specific frequency.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_005",
+   "doc": "MBPM ch.7",
+   "section": "30.2.6",
+   "label": "MBPM ch.7 \u00a730.2.6",
+   "scenario_facts": "The HHA acquires an oral order for I.V. medication administration for a patient to be performed on August 1. The HHA provides the I.V. medication administration August 1 and evaluates the patient's need for continued care. The physician or allowed practitioner signs the plan of care for the I.V. medication administration on August 15.",
+   "cms_conclusion": "The visit is covered since it is considered provided under a plan of care established and approved by the physician or allowed practitioner, and the HHA had acquired an oral order prior to",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_007",
+   "doc": "MBPM ch.7",
+   "section": "30.2.6",
+   "label": "MBPM ch.7 \u00a730.2.6",
+   "scenario_facts": "The patient is under a plan of care in which the physician or allowed practitioner orders I.V. medication administration every 2 weeks. The last day covered by the plan of care is July 31. The patient's next I.V. medication administration is scheduled for August 5 and the physician or allowed practitioner does not sign the plan of care until August 6. The HHA acquires an oral order for the I.V. Any increase in the frequency of services or addition of new services during a 60-day certification must be authorized by a physician or allowed practitioner",
+   "cms_conclusion": "medication administration before the August 5 visit, and therefore the visit is considered to be provided under a plan of care established and approved by the physician or allowed practitioner.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_010",
+   "doc": "MBPM ch.7",
+   "section": "30",
+   "label": "MBPM ch.7 \u00a730",
+   "scenario_facts": "The condition of a patient, who has irritable bowel syndrome or is recovering from rectal surgery, may be such that he or she can be given an enema safely and effectively only by a nurse. The documentation must support the skilled need for the enema, and the plan for future visits based on this information.",
+   "cms_conclusion": "If the enema were necessary to treat the illness or injury, then the visit would be covered as a skilled nursing visit.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_014",
+   "doc": "MBPM ch.7",
+   "section": "30",
+   "label": "MBPM ch.7 \u00a730",
+   "scenario_facts": "A physician has ordered skilled nursing visits for a patient with a hairline fracture of the hip.",
+   "cms_conclusion": "The home health record must document the reason skilled services are required and why the nursing visits are reasonable and necessary for treatment of the patient's hip injury.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_017",
+   "doc": "MBPM ch.7",
+   "section": "30",
+   "label": "MBPM ch.7 \u00a730",
+   "scenario_facts": "A patient with advanced multiple sclerosis undergoing an exacerbation of the illness needs skilled teaching of medications, measures to overcome urinary retention, and the establishment of a program designed to minimize the adverse impact of the exacerbation. The clinical notes for each home health visit must describe why skilled nursing services were required.",
+   "cms_conclusion": "The skilled nursing care received by the patient would be covered despite the chronic nature of the illness.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_018",
+   "doc": "MBPM ch.7",
+   "section": "30",
+   "label": "MBPM ch.7 \u00a730",
+   "scenario_facts": "A patient with malignant melanoma is terminally ill, and requires skilled observation, assessment, teaching, and treatment. The patient has not elected coverage under Medicare's hospice benefit. The documentation should describe the goal of the skilled nursing intervention, and at each visit the services provided should support that goal.",
+   "cms_conclusion": "The skilled nursing care that the patient requires would be covered, notwithstanding that the condition is terminal, because the documentation and description must",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_023",
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.1",
+   "label": "MBPM ch.7 \u00a740.1.2.1",
+   "scenario_facts": "A patient with glaucoma and a cardiac condition has a cataract extraction. Because of the interaction between the eye drops for the glaucoma and cataracts and the beta-blocker for the cardiac condition, the patient is at risk for serious cardiac arrhythmia.",
+   "cms_conclusion": "Skilled observation and monitoring of the drug actions is reasonable and necessary until the patient's condition",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_025",
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.1",
+   "label": "MBPM ch.7 \u00a740.1.2.1",
+   "scenario_facts": "A patient has chronic non-healing skin ulcers, Diabetes Mellitus Type I, and spinal muscular atrophy. In the past, the patient\u2019s wounds have deteriorated, requiring the patient to be hospitalized. Previously, a skilled nurse has trained the patient\u2019s wife to perform wound care. The treating physician orders a continuation of skilled care for a subsequent 60-day certification period, at a frequency of one visit every 2 weeks to perform observation and assessment of the patient\u2019s skin ulcers to make certain that they are not worsening.",
+   "cms_conclusion": "This order is reasonable and necessary because, although the unskilled family caregiver has learned to care for the wounds, the skilled nurse can use observation and assessment to determine if the condition is worsening.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_026",
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.2",
+   "label": "MBPM ch.7 \u00a740.1.2.2",
+   "scenario_facts": "An aged patient with a history of diabetes mellitus and angina pectoris is recovering from an open reduction of the neck of the femur. He requires, among other services, careful skin care, appropriate oral medications, a diabetic diet, a therapeutic exercise program to preserve muscle tone and body condition, and observation to notice signs of deterioration in his condition or complications resulting from his restricted, but increasing mobility. Since the combination of the patient's condition, age, and immobility create a high potential",
+   "cms_conclusion": "Although a properly instructed person could perform any of the required services, that person would not have the capability to understand the relationship among the services and their effect on each other.",
+   "outcome_guess": "NOT_COVERED_or_not_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_027",
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.2",
+   "label": "MBPM ch.7 \u00a740.1.2.2",
+   "scenario_facts": "An aged patient with a history of mild dementia is recovering from pneumonia which has been treated at home. The patient has had an increase in disorientation, has residual chest congestion, decreased appetite, and has remained in bed, immobile, throughout the period with pneumonia. For this determination to be",
+   "cms_conclusion": "While the residual chest congestion and recovery from pneumonia alone would not represent a high risk factor, the patient's immobility and increase in confusion could create a high probability of a relapse. In this situation, skilled oversight of the unskilled services would be reasonable and necessary pending the elimination of the chest congestion and resolution of the persistent disorientation to ensure the patient's medical safety.",
+   "outcome_guess": "NOT_COVERED_or_not_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_028",
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.2",
+   "label": "MBPM ch.7 \u00a740.1.2.2",
+   "scenario_facts": "A physician orders one skilled nursing visit every 2 weeks and three home health aide visits each week for bathing and washing hair for a patient whose recovery from a CVA has left him with residual weakness on the left side. The cardiovascular condition is stable and the patient has reached the maximum restoration potential. There are no underlying conditions that would necessitate the skilled supervision of a licensed nurse in assisting with bathing or hair washing.",
+   "cms_conclusion": "The skilled nursing visits are not necessary to manage and supervise the home health aide services and would not be covered.",
+   "outcome_guess": "NOT_COVERED_or_not_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_031",
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.3",
+   "label": "MBPM ch.7 \u00a740.1.2.3",
+   "scenario_facts": "A physician has ordered skilled nursing visits to teach self-administration of insulin to a patient who has been self-injecting insulin for 10 years because the patient has recently lost the use of the dominant hand and must be retrained to use the other hand. The patient\u2019s response to teaching must be documented at each home health visit, until the patient has learned how to self-administer.",
+   "cms_conclusion": "Skilled nursing visits to re-teach self-administration of the insulin would be reasonable and necessary.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_040",
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.13",
+   "label": "MBPM ch.7 \u00a740.1.2.13",
+   "scenario_facts": "A patient with coronary artery disease was hospitalized with atrial fibrillation and subsequently discharged to the HHA with orders for anticoagulation therapy as well as other skilled nursing care. The home health record must document the rationale for the blood draw as well as the results.",
+   "cms_conclusion": "If indicated, monthly venipuncture to report prothrombin (protime) levels to the physician or allowed practitioner would be reasonable and necessary even though the patient's prothrombin time tests indicate essential stability.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_042",
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.15",
+   "label": "MBPM ch.7 \u00a740.1.2.15",
+   "scenario_facts": "A patient was discharged after 2 weeks in a psychiatric hospital with a new diagnosis of major depression. The patient remains withdrawn; in bed most of the day, and refusing to leave home. Psychiatric skilled nursing services are necessary for supportive interventions until antidepressant blood levels are reached and the suicidal thoughts are diminished further, to monitor suicide ideation, ensure medication compliance and patient safety, perform suicidal assessment, and teach crisis management and symptom management to family members. The home health record at each visit",
+   "cms_conclusion": "The patient has a depressed affect and continues to have thoughts of suicide, but is not considered to be suicidal.",
+   "outcome_guess": "NOT_COVERED_or_not_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_043",
+   "doc": "MBPM ch.7",
+   "section": "40.2.2",
+   "label": "MBPM ch.7 \u00a740.2.2",
+   "scenario_facts": "A physician has ordered gait evaluation and training for a patient whose gait has been materially impaired by scar tissue resulting from burns. The patient\u2019s response to therapy must be documented.",
+   "cms_conclusion": "Physical therapy services to evaluate the beneficiary's gait, establish a gait training program, and provide the skilled services necessary to implement the program would be covered. At appropriate intervals (see above), the qualified therapist must assess",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_044",
+   "doc": "MBPM ch.7",
+   "section": "40.2.2",
+   "label": "MBPM ch.7 \u00a740.2.2",
+   "scenario_facts": "A patient who has had a total hip replacement is ambulatory but demonstrates weakness and is unable to climb stairs safely.",
+   "cms_conclusion": "Physical therapy would be reasonable and necessary to teach the patient to climb and descend stairs safely. Once the patient has reached the goal of climbing and descending stairs safely, additional therapy services are no longer required, and thus would not be covered.",
+   "outcome_guess": "NOT_COVERED_or_not_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_052",
+   "doc": "MBPM ch.7",
+   "section": "40.2.4.2",
+   "label": "MBPM ch.7 \u00a740.2.4.2",
+   "scenario_facts": "Construction of a hand splint for a patient with rheumatoid arthritis to maintain the hand in a functional position. F.",
+   "cms_conclusion": "Vocational and Prevocational Assessment and Training Vocational and prevocational assessment and training that is directed toward the restoration of function in the activities of daily living lost due to illness or injury would be covered. Where vocational or prevocational assessment and training is related solely to specific employment opportunities, work skills, or work settings, such services would not be covered because they would not be directed toward the treatment of an illness or injury.",
+   "outcome_guess": "NOT_COVERED_or_not_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_053",
+   "doc": "MBPM ch.7",
+   "section": "40.2.4.3",
+   "label": "MBPM ch.7 \u00a740.2.4.3",
+   "scenario_facts": "A physician orders occupational therapy for a patient who is recovering from a fractured hip and who needs to be taught compensatory and safety techniques with regard to lower extremity dressing, hygiene, toileting, and bathing. The occupational therapist will establish goals for the patient's rehabilitation (to be approved by the physician), and will undertake teaching techniques necessary for the patient to reach the goals. The patient\u2019s needs in response to therapy must be documented.",
+   "cms_conclusion": "Occupational therapy services would be covered at a duration and intensity appropriate to the severity of the impairment and the patient's response to treatment. Such visits would be considered covered when the skills of a therapist are required to perform the services.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_055",
+   "doc": "MBPM ch.7",
+   "section": "50.2",
+   "label": "MBPM ch.7 \u00a750.2",
+   "scenario_facts": "A physician has ordered home health aide visits to assist the patient in personal care because the patient is recovering from a stroke and continues to have significant right side weakness that causes the patient to be unable to bathe, dress or perform hair and oral care. The plan of care established by the HHA nurse sets forth the specific tasks with which the patient needs assistance.",
+   "cms_conclusion": "Home health aide visits at an appropriate frequency would be reasonable and necessary to assist in these tasks.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_056",
+   "doc": "MBPM ch.7",
+   "section": "50.2",
+   "label": "MBPM ch.7 \u00a750.2",
+   "scenario_facts": "A physician ordered four home health aide visits per week for personal care for a multiple sclerosis patient who is unable to perform these functions because of increasing debilitation. The home health aide gave the patient a bath twice per week and washed hair on the other two visits each week.",
+   "cms_conclusion": "Only two visits are reasonable and necessary since the services could have been provided in the course of two visits.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_057",
+   "doc": "MBPM ch.7",
+   "section": "50.2",
+   "label": "MBPM ch.7 \u00a750.2",
+   "scenario_facts": "A physician ordered seven home health aide visits per week for personal care for a bed- bound, incontinent patient.",
+   "cms_conclusion": "All visits are reasonable and necessary because",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_058",
+   "doc": "MBPM ch.7",
+   "section": "50.2",
+   "label": "MBPM ch.7 \u00a750.2",
+   "scenario_facts": "A patient with a well-established colostomy forgets to change the bag regularly and has difficulty changing the bag. B. Simple Dressing Changes That Do Not Require the Skills of a Licensed Nurse",
+   "cms_conclusion": "Home health aide services at an appropriate frequency to change the bag would be considered reasonable and necessary to the treatment of the illness or injury.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_060",
+   "doc": "MBPM ch.7",
+   "section": "50.2",
+   "label": "MBPM ch.7 \u00a750.2",
+   "scenario_facts": "A physician orders home health aide visits three times per week. The only services provided are light housecleaning, meal preparation and trash removal.",
+   "cms_conclusion": "The home health aide visits cannot be covered, notwithstanding their importance to the patient, because the services provided do not meet Medicare's definition of \"home health aide services.\"",
+   "outcome_guess": "NOT_COVERED_or_not_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_062",
+   "doc": "MBPM ch.7",
+   "section": "50.3",
+   "label": "MBPM ch.7 \u00a750.3",
+   "scenario_facts": "A physician is aware that a patient with atherosclerosis and hypertension is not taking medications as ordered and adhering to dietary restrictions because he is unable to afford the medication and is unable to cook. The physician orders several visits by a medical social worker to assist in resolving these problems.",
+   "cms_conclusion": "The visits by the medical social worker to review the patient's financial status, discuss options, and make appropriate contacts with social services agencies or other community resources to arrange for medications and meals would be a reasonable and necessary medical social service.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_063",
+   "doc": "MBPM ch.7",
+   "section": "50.3",
+   "label": "MBPM ch.7 \u00a750.3",
+   "scenario_facts": "A physician has ordered counseling by a medical social worker for a patient with cirrhosis of the liver who has recently been discharged from a 28-day inpatient alcohol treatment program to her home which she shares with an alcoholic and neglectful adult child. The physician has ordered counseling several times per week to assist the patient in remaining free of alcohol and in dealing with the adult child.",
+   "cms_conclusion": "The services of the medical social worker would be covered until the patient's social situation ceased to impact on her recovery and/or treatment.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_066",
+   "doc": "MBPM ch.7",
+   "section": "50.3",
+   "label": "MBPM ch.7 \u00a750.3",
+   "scenario_facts": "The parent of a dependent disabled child has been discharged from the hospital following a hip replacement. Although arrangements for care of the disabled child during the hospitalization were made, the child has returned to the home. During a visit to the patient, the nurse observes that the patient is transferring the child from bed to a wheelchair. In an effort to avoid impeding the patient's recovery, the nurse contacts the patient's physician to order a visit by a social worker to mobilize family members or otherwise arrange for temporary care of the disabled child.",
+   "cms_conclusion": "The services would be covered.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_068",
+   "doc": "MBPM ch.7",
+   "section": "50.7.1",
+   "label": "MBPM ch.7 \u00a750.7.1",
+   "scenario_facts": "A patient needs skilled nursing care monthly for a catheter change and the home health agency also renders needed daily home health aide services 24 hours per day that will be needed for a long and indefinite period of time. The HHA bills Medicare for the skilled nursing and home health aide services, which were provided before the 35th hour of service each week, and bills the beneficiary (or another payer) for the remainder of the care.",
+   "cms_conclusion": "If the Medicare contractor determines that the 35 hours of care are reasonable and necessary, Medicare would cover the 35 hours of skilled nursing and home health aide visits.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_069",
+   "doc": "MBPM ch.7",
+   "section": "60.1",
+   "label": "MBPM ch.7 \u00a760.1",
+   "scenario_facts": "On May 5, the individual receives the first skilled nursing visit under the plan of care. Therefore, post-institutional home health services have been initiated within 14 days of discharge. The individual is later hospitalized on June 2. Prior to the June 2",
+   "cms_conclusion": "An individual is enrolled in Part A and Part B, qualifies for the Medicare home health benefit, has a three consecutive day stay in a hospital, and is discharged on May 1.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_070",
+   "doc": "MBPM ch.7",
+   "section": "60.1",
+   "label": "MBPM ch.7 \u00a760.1",
+   "scenario_facts": "The individual exhausts the 100 visits under Part A post- institutional home health services, continues to need home health services, and receives home health services under Part B. The individual is then hospitalized for 4 consecutive days. The individual is again discharged and receives home health services. The individual cannot begin a new home health spell of illness because 60 days did not pass in which the individual was not",
+   "cms_conclusion": "An individual is enrolled in Part A and Part B, qualifies for the Medicare home health benefit, has a three consecutive day stay in a hospital, and home health is initiated within 14 days of discharge.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_071",
+   "doc": "MBPM ch.10",
+   "section": "10.3.5",
+   "label": "MBPM ch.10 \u00a710.3.5",
+   "scenario_facts": "Mr. A becomes ill at home and requires ambulance service to the hospital. The small community in which he lives has a 35-bed hospital. Two large metropolitan hospitals are located some distance from Mr. A's community and both regularly provide hospital services to the community's residents.",
+   "cms_conclusion": "The community is within the \"locality\" of both metropolitan hospitals and direct ambulance service to either of these (as well as to the local community hospital) is covered.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_072",
+   "doc": "MBPM ch.10",
+   "section": "10.3.6",
+   "label": "MBPM ch.10 \u00a710.3.6",
+   "scenario_facts": "Mr. A becomes ill at home and requires ambulance service to the hospital. The hospitals servicing the community in which he lives are capable of providing general hospital care. However, Mr. A requires immediate kidney dialysis, and the needed equipment is not available in any of these hospitals. The service area of the nearest hospital having dialysis equipment does not encompass the patient\u2019s home.",
+   "cms_conclusion": "Nevertheless, in this case, ambulance service beyond the locality to the hospital with the equipment is covered since it is the nearest one with appropriate facilities.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_077",
+   "doc": "MBPM ch.8",
+   "section": "30.2.2",
+   "label": "MBPM ch.8 \u00a730.2.2",
+   "scenario_facts": "The documentation needs to support the severity of the circulatory condition that requires skilled care (see section 30.2.2.1). \u2022 In determining whether services rendered in a SNF constitute covered care, it is necessary to determine whether individual services are skilled, and whether, in light of the patient\u2019s total condition, skilled management of the services provided is needed even though many or all of the specific services were unskilled.",
+   "cms_conclusion": "Whirlpool baths do not ordinarily require the skills of a qualified physical therapist. However, the skills, knowledge, and judgment of a qualified physical therapist might be required where the patient\u2019s condition is complicated by circulatory deficiency, areas of desensitization, or open wounds.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_081",
+   "doc": "MBPM ch.8",
+   "section": "30.2.3.2",
+   "label": "MBPM ch.8 \u00a730.2.3.2",
+   "scenario_facts": "A patient has been hospitalized following a heart attack, and following treatment but before mobilization, is transferred to the SNF. The medical documentation must describe the skilled services that require the involvement of nursing personnel to promote the stabilization of the patient's medical condition and safety.",
+   "cms_conclusion": "Because it is unknown whether exertion will exacerbate the heart disease, skilled observation is reasonable and necessary as mobilization is initiated, until the patient\u2019s treatment regimen is essentially stabilized.",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_083",
+   "doc": "MBPM ch.8",
+   "section": "30.4.1.1",
+   "label": "MBPM ch.8 \u00a730.4.1.1",
+   "scenario_facts": "An 80-year old, previously ambulatory, post-surgical patient has been bed-bound for 1 week, and, as a result, had developed muscle atrophy, orthostatic hypotension, joint stiffness and lower extremity edema.",
+   "cms_conclusion": "To the extent that the patient requires a brief period of daily skilled physical therapy to restore lost functions, those services are reasonable and necessary and must be documented in the medical record (see \u00a730.2.2.1).",
+   "outcome_guess": "COVERED_or_skilled",
+   "needs_human_review": true
+  },
+  {
+   "id": "cms_ex_085",
+   "doc": "MBPM ch.8",
+   "section": "30.6",
+   "label": "MBPM ch.8 \u00a730.6",
+   "scenario_facts": "A patient who normally requires skilled rehabilitation services on a daily basis may exhibit extreme fatigue, which results in suspending therapy sessions for a day or two. In instances when a patient requires a skilled restorative nursing program to positively affect his functional well-being, the expectation is that the program be rendered at least 6 days a week. (Note that when a patient\u2019s skilled status is based on a restorative",
+   "cms_conclusion": "Coverage may continue for these days since discharge in such a case would not be practical.",
+   "outcome_guess": "NOT_COVERED_or_not_skilled",
+   "needs_human_review": true
+  }
+ ]
+}

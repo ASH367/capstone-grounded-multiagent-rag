@@ -1,0 +1,59 @@
+{
+ "case_id": "stfrances_memorial",
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "service_at_issue": "Inpatient rehabilitation facility (IRF) services for five beneficiaries, March 2003 to May 2004",
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council modified the ALJ decisions (the ALJ lacked authority to review the RAC's reopening and should have applied the three-year no-fault presumption, which was rebutted) but upheld the overpayments, provider liability and denial of waiver because the IRF services were not reasonable and necessary.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "110"
+  }
+ ],
+ "other_cites": [
+  "CMS Ruling 85-2",
+  "SSA 1862(a)(1)(A)",
+  "SSA 1862(a)(9)",
+  "SSA 1879",
+  "SSA 1870(b)",
+  "42 CFR 405.980",
+  "42 CFR 405.926(l)",
+  "42 CFR 405.986",
+  "42 CFR 405.902",
+  "42 CFR 411.400(a)",
+  "42 CFR 411.404",
+  "42 CFR 411.406",
+  "MPIM (CMS Pub. 100-08) ch.3 sec.3.6.B",
+  "MCPM (CMS Pub. 100-04) ch.30 sec.20, 30.1, 40.1, 40.1.1",
+  "MFMM (CMS Pub. 100-06) ch.3 sec.70.1.B, 70.3, 70.3.A, 80, 80.1, 90, 90.1",
+  "70 Fed. Reg. 11,420 (Mar. 8, 2005)"
+ ],
+ "facts": [
+  "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004. See Appendix A. The claims were initially paid between April 2003 and June 2004. Between October 2006 and April 2007, PRG Schultz, the Recovery Audit Contractor (RAC), informed the appellant that the claims had been selected for complex post- payment review.",
+  "By five notices issued in February 2007 (H.F.; E.M.; N.R.), in May 2007 (L.S.), and in June 2007 (S.L.), the appellant was informed that overpayments were found based on a determination that the documents submitted to support the claims and in response to the RAC\u2019s request for such documents did not support the beneficiaries\u2019 need for IRF services, and that the appellant was responsible for reimbursement of the overpayments.",
+  "Dr. K.F., appellant\u2019s Medical Director, testified.",
+  "(5) the appellant\u2019s due process rights were violated by the RAC\u2019s pecuniary interest in the outcome of the appeal.",
+  "A CMS contractor may reopen an initial determination or redetermination.",
+  "A contractor may reopen and revise its initial determination or redetermination on its own motion - -",
+  "(1) Within 1 year from the date of the initial determination or redetermination for any reason.",
+  "A contractor\u2019s decision on whether to reopen is final and not subject to administrative review.",
+  "CMS has expressly, and recently, stated that the enforcement mechanism for good cause standards lies within CMS\u2019s evaluation and monitoring of contractor performance, not the administrative appeals process.",
+  "It also is true that a contractor may reopen and revise an initial determination at any time with evidence that payment was procured by fraud or similar fault. But, as stated above, contractors have discretion to decide whether to reopen a claim.",
+  "The day and month are irrelevant. [For example,] [w]ith respect to payments made in 2000, the third calendar year thereafter is 2003.",
+  "It was on this condition that the RAC determined that overpayments were made in the five cases at issue. See, e.g., Exh. L at 252 (H.F. claim file)."
+ ],
+ "arm": "D_wide",
+ "set": "held",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "ADOPTED_NO_RECORD_DISCUSSED",
+ "include_primary": 0,
+ "evidence_words_A": 57,
+ "evidence_words_D": 334,
+ "evidence_ok": 0,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

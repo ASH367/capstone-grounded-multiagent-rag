@@ -1,0 +1,53 @@
+{
+ "case_id": "eagle_air_med",
+ "domain": "ambulance",
+ "docket": "M-10-1934",
+ "service_at_issue": "Fixed-wing air ambulance (A0430) and 243 air miles (A0435) from an Indian Health Service clinic to a hospital in Arizona for GI bleeding",
+ "reference_outcome": "partial",
+ "outcome_note": "Ambulance transport was covered but limited to ground rates for 136 miles to the nearest capable facility; the extra 107 miles were not covered.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.4.6"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 410.40",
+  "42 CFR 410.41",
+  "42 CFR 411.400(a)",
+  "42 CFR 411.404(a)",
+  "42 CFR 411.406",
+  "42 CFR 414.40(a)",
+  "MCPM ch.30",
+  "SSA 1861(s)(7)",
+  "SSA 1862(a)(1)(A)",
+  "SSA 1879(a)"
+ ],
+ "facts": [
+  "On October 17, 2008, the appellant transported the beneficiary via air ambulance from *** Indian Health Service Clinic, in ***, Arizona, to Good Samaritan Hospital in ***, Arizona, due to gastrointestinal bleeding and acute abdominal pain. Exh. 4. The appellant billed Medicare for fixed wing air ambulance transportation using HCPCS code A0430, and for 243 fixed wing air miles using code A0435. 2 Exh. 2 at 2. The Medicare contractor denied this claim initially. Id.",
+  "Upon redetermination, the contractor determined that the beneficiary\u2019s condition warranted ambulance services but that she could have been transported via ground ambulance to a nearer medically-appropriate facility. Exh. 5. The contractor allowed payment for the claim at a substantially reduced level, based upon the allowable payment amount which would have been available for the use of ground ambulance transportation and fewer miles. Id. It appears that the contractor issued a revised Medicare Remittance Notice following the redetermination to reflect the effectuation of its determination. Exh. 2 at 1.",
+  "This notice, dated June 16, 2009, changed the codes at issue to reflect billing, and payment, for advanced life support ground ambulance service (level 1) using code A0427, and 136 ground miles using code A0425. Id.",
+  "Upon reconsideration, the Qualified Independent Contractor (QIC) issued an unfavorable decision, agreeing with the contractor\u2019s down-coding of the claim to ground ambulance transportation to a closer facility, namely *** Medical Center in ***, Arizona. Exh. 8.",
+  "The claim file in this case contains not only the air ambulance transport records, but also medical records from both the originating and receiving medical facilities. See generally Exh. 6 at 4-22. These records establish that the beneficiary experienced gastrointestinal bleeding and acute abdominal pain. Exh. 6 at 17-21. There is no evidence of record to suggest that the originating facility, an outpatient clinic, was able to treat the beneficiary\u2019s condition.",
+  "In this case, the appellant originally billed 243 air ambulance miles. The contractors determined, and the appellant has conceded, that the nearest appropriate facility to ***, Arizona, which was capable of treating the beneficiary was in ***, Arizona, which is 107 miles closer to *** than the facility to which the beneficiary was actually transferred in ***, Arizona.",
+  "Medical reasonableness and necessity: Air ambulance versus ground ambulance",
+  "Additional miles beyond the nearest appropriate facility"
+ ],
+ "arm": "D_wide",
+ "set": "dev",
+ "coverage_label": "PARTLY_COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 38,
+ "evidence_words_D": 380,
+ "evidence_ok": 0,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "parent": "eagle_air_med",
+ "status": "SEPARATE"
+}

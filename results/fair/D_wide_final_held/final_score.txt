@@ -1,0 +1,11 @@
+==== results/fair/D_wide_final_held/run1   MAIN n=21 from 10 decisions   labels {'NOT_COVERED': 9, 'COVERED': 12}   majority baseline 57%
+  MULTI  forced answer: 14/21 = 67%  (95% cluster CI 52%-100%); predicted PARTLY on 2 single-label units
+     primary rule       coverage 15/21 = 71% | accuracy when committing 13/15 = 87% | sent to human 6 (forced answer wrong on 5 = review precision 83%) | forced errors captured 5/7 | confident-wrong 2
+     self-flag variant  coverage 13/21 = 62% | accuracy when committing 11/13 = 85% | sent to human 8 (forced answer wrong on 5 = review precision 62%) | forced errors captured 5/7 | confident-wrong 2
+  SINGLE forced answer: 16/21 = 76%  (95% cluster CI 63%-100%); predicted PARTLY on 2 single-label units
+     primary rule       coverage 21/21 = 100% | accuracy when committing 16/21 = 76% | sent to human 0 (forced answer wrong on 0) | forced errors captured 0/5 | confident-wrong 5
+     self-flag variant  coverage 9/21 = 43% | accuracy when committing 6/9 = 67% | sent to human 12 (forced answer wrong on 2 = review precision 17%) | forced errors captured 2/5 | confident-wrong 3
+  BLIND PROBE (facts only, no policy): 14/21 = 67%
+  multi - single forced accuracy gap: -10 pts (95% cluster CI -27 to +0)
+  by label: {'COVERED': {'multi': '8/12', 'single': '9/12'}, 'NOT_COVERED': {'multi': '6/9', 'single': '7/9'}}
+  SEPARATE list (unsplit PARTLY, not in main score): [('twin_maples_health_care_case', 'PARTLY_COVERED', 'multi=PARTLY_COVERED', 'single=PARTLY_COVERED')]

@@ -1,0 +1,2125 @@
+{
+"case_id": "altabates",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued three decisions dated April 23, 2009 concerning claims for inpatient rehabilitation hospital services provided to three beneficiaries by Alta Bates Summit Medical Center.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined in each case that the claims did not qualify for Medicare coverage because he found that the record did not sufficiently demonstrate that each beneficiary needed hospital-level care, even though each may have benefited from the intense rehabilitative therapy.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "For the reasons explained below, the Council reverses each of the ALJ decisions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "LAW",
+"text": "The Council reviews the ALJ decisions de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "LAW",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 2,
+"section": "LAW",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 3,
+"section": "LAW",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "LAW",
+"text": "In-patient rehabilitation facility (IRF) services are a form of hospital services covered under Part A of the Medicare program.",
+"tag": "EVAL",
+"reason": "covered under"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "LAW",
+"text": "Social Security Act (Act) \u00a7\u00a7 1811, 1812.",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "LAW",
+"text": "Coverage is limited to services that are \u201creasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member . . .\u201d",
+"tag": "EVAL",
+"reason": "Coverage is"
+},
+{
+"pi": 4,
+"si": 3,
+"section": "LAW",
+"text": "Act \u00a7 1862(a); see also 42 C.F.R. \u00a7 411.15(k)(1).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 4,
+"si": 4,
+"section": "LAW",
+"text": "\u201cHospital\u201d includes an institution where physicians provide or supervise the provision to inpatients of \u201crehabilitation services for the rehabilitation of injured, disabled, or sick persons.\u201d",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 4,
+"si": 5,
+"section": "LAW",
+"text": "Act \u00a7 1861(e)(1); see also 42 C.F.R. \u00a7 409.3.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 4,
+"si": 6,
+"section": "LAW",
+"text": "The Centers for Medicare & Medicaid Services (CMS) has issued guidance on coverage of IRF services in the Medicare Benefit Policy Manual (MBPM).",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 4,
+"si": 7,
+"section": "LAW",
+"text": "Section 110.1 provides that an IRF stay may be based on circumstances that are generally agreed to justify a medical or surgical patient's hospitalization, but may also be justified in some cases when --",
+"tag": "LAW",
+"reason": "Section 1"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "LAW",
+"text": "a patient's medical or surgical needs alone may not warrant inpatient hospital care, but hospitalization may nevertheless be necessary because of the patient's need for rehabilitative services.",
+"tag": "FRAGMENT",
+"reason": "starts lowercase (page-break artifact)"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "LAW",
+"text": "Patients needing rehabilitative services require a hospital level of care, if they need a relatively intense rehabilitation program that requires a multidisciplinary coordinated team approach to upgrade their ability to function.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "LAW",
+"text": "There are two basic requirements that must be met for inpatient hospital stays for rehabilitation care to be covered: 1.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 5,
+"si": 3,
+"section": "LAW",
+"text": "The services must be reasonable and necessary (in terms of efficacy, duration, frequency, and amount) for the treatment of the patient's condition; and 2.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 5,
+"si": 4,
+"section": "LAW",
+"text": "It must be reasonable and necessary to furnish the care on an inpatient hospital basis, rather than in a less intensive facility such as a SNF, or on an outpatient basis.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 5,
+"si": 5,
+"section": "LAW",
+"text": "Medicare recognizes that determinations of whether hospital stays for rehabilitation services are reasonable and necessary must be based upon an assessment of each beneficiary's individual care needs.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 5,
+"si": 6,
+"section": "LAW",
+"text": "Therefore, denials of services based on numerical utilization screens, diagnostic screens, diagnosis or specific treatment norms, \"the three hour rule,\" or any other \"rules of thumb,\" are not appropriate.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "LAW",
+"text": "MBPM, Ch. 1, \u00a7 110. (emphasis added).",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "LAW",
+"text": "In addition to the two basic requirements, the IRF \u201cmust have physician orders for the patient's care\u201d and pre-admission screening must be performed.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "LAW",
+"text": "MPBM, Ch. 1, \u00a7\u00a7 110.2 & 110.2.1.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 6,
+"si": 3,
+"section": "LAW",
+"text": "(It is not disputed that the appellant met both of these provisions in regard to all three cases.)",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 6,
+"si": 4,
+"section": "LAW",
+"text": "Medicare will cover in-patient assessments (which may include provision of therapy), \u201cif preadmission screening information indicated that the patient had the potential for benefiting from an inpatient hospital program,\u201d usually of 3-10 days, if reasonable and necessary, \u201cup to the point where it was determined that inpatient hospital rehabilitation was not appropriate, since preadmission screening cannot be expected to eliminate all unsuitable candidates.\u201d",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 6,
+"si": 5,
+"section": "LAW",
+"text": "MPBM, Ch. 1, \u00a7\u00a7 110.2 & 110.3.1.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "LAW",
+"text": "The Manual also provides two examples of cases to illustrate when IRF services are or are not reasonable and necessary:",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "LAW",
+"text": "Absent other complicating medical problems, the type of rehabilitation program normally required by a patient with a fractured hip during or after the non-weight-bearing period or a patient with a healed ankle fracture does not require an inpatient hospital stay for rehabilitation care.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "LAW",
+"text": "Accordingly, an inpatient assessment is not warranted in such cases.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "LAW",
+"text": "On the other hand, an individual who has had a CVA that left them significantly dependent in the activities of daily living (even after physical therapy in a different setting) might be a good candidate for a more extensive inpatient assessment if the patient has potential for rehabilitation and their needs are not primarily of a custodial nature.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 9,
+"si": 0,
+"section": "LAW",
+"text": "MBPM, Ch. 1, \u00a7 110.3.2.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "LAW",
+"text": "CMS also explains the general screening criteria for IRF services, as follows:",
+"tag": "LAW",
+"reason": "law statement: criteria for"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "LAW",
+"text": "Rehabilitative care in a hospital, rather than in a SNF or on an outpatient basis, is reasonable and necessary for a patient who requires a more coordinated, intensive program of multiple services than is generally found out of a hospital.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "LAW",
+"text": "A patient probably requires a hospital level of care if they have either one or more conditions requiring intensive and multi-disciplinary rehabilitation care, or a medical complication in addition to their primary condition, so that the continuing availability of a physician is required to ensure safe and effective treatment.",
+"tag": "LAW",
+"reason": "law statement: is required"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "LAW",
+"text": "MBPM, Ch. 1, \u00a7 110.4.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "LAW",
+"text": "The Manual then provides a set of detailed criteria for when intensive rehabilitation is needed, but specifies that these criteria are only intended for use by Qualified Independent Contractors in making initial decisions on the level of care. Id.",
+"tag": "LAW",
+"reason": "law statement: criteria for"
+},
+{
+"pi": 11,
+"si": 2,
+"section": "LAW",
+"text": "If a claim does not meet these criteria, the claim should not be denied but referred to a physician reviewer to assess based on \u201ctheir knowledge, expertise and experience, and upon an assessment of each beneficiary's individual care needs rather than on fixed criteria.\u201d Id.",
+"tag": "PRIOR_DENIAL",
+"reason": "reviewer"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "LAW",
+"text": "The criteria include physician involvement about which the Manual states:",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "LAW",
+"text": "A patient's condition must require the 24-hour availability of a physician with special training or experience in the field of rehabilitation.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 13,
+"si": 1,
+"section": "LAW",
+"text": "This need should be verifiable by entries in the patient's medical record that reflect frequent and direct, and medically necessary physician involvement in the patient's care; i.e., at least every two to three days during the patient's stay.",
+"tag": "EVAL",
+"reason": "medically necessary"
+},
+{
+"pi": 13,
+"si": 2,
+"section": "LAW",
+"text": "This degree of physician involvement which is greater than is normally rendered to a patient in a SNF is an indicator of a patient's need for services generally available only in a hospital setting.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "LAW",
+"text": "MBPM, Ch.1, \u00a7 110.4.1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "LAW",
+"text": "They also include 24-hour rehabilitative nursing, a relatively intense level of rehabilitation (usually at least 3 hours per day of physical or occupational therapy), a multi-disciplinary team approach, a coordinated care plan (with biweekly meetings), practical improvement, realistic goals (generally \u201cself-care or independence in the activities of daily living; i.e., self-sufficiency in bathing, ambulation, eating, dressing, homemaking, etc., or sufficient improvement to allow a patient to live at home with family assistance rather than in an institution\u201d), and a reasonable period of time.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 14,
+"si": 2,
+"section": "LAW",
+"text": "MBPM, Ch.1, \u00a7\u00a7 110.4.2 \u2013 110.4.7.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "MIXED",
+"text": "Before the ALJ, the appellant challenged the reopening of these claims as part of a recovery audit contractor review for the overpayments.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 16,
+"si": 1,
+"section": "MIXED",
+"text": "The ALJ rejected the appellant\u2019s claims that the contractors lacked good cause as not cognizable in the administrative appeals process.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 16,
+"si": 2,
+"section": "MIXED",
+"text": "A.D. and J.H.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 16,
+"si": 3,
+"section": "MIXED",
+"text": "ALJ Decisions at 9; I.W.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 16,
+"si": 4,
+"section": "MIXED",
+"text": "ALJ Decision at 8-9.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 16,
+"si": 5,
+"section": "MIXED",
+"text": "The ALJ concluded that the appellant\u2019s contention that the redetermination should be reversed as untimely was inconsistent with the facts.",
+"tag": "COUNCIL",
+"reason": "reversed"
+},
+{
+"pi": 16,
+"si": 6,
+"section": "MIXED",
+"text": "ALJ Decisions at 9.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 16,
+"si": 7,
+"section": "MIXED",
+"text": "The appellant has not challenged either of these conclusions on appeal to the Council.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "MIXED",
+"text": "The issues before us center on whether the services provided in each case were reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "us"
+},
+{
+"pi": 17,
+"si": 1,
+"section": "MIXED",
+"text": "Below, we set out the relevant facts established in the record as to the services provided to each beneficiary and apply the legal standards discussed above to the individual circumstances of each.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 17,
+"si": 2,
+"section": "MIXED",
+"text": "For the reasons explained below, we conclude that the record does not support the ALJ\u2019s denial of coverage for services at issue provided to I.W., J.H., or A.D.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "MIXED",
+"text": "1.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 18,
+"si": 1,
+"section": "MIXED",
+"text": "Services provided to I.W. from April 20 through May 7, 2004, were reasonable and necessary under applicable legal authority.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "MIXED",
+"text": "I.W. was an 88-year old woman who was admitted to the IRF on April 20, 2004 with \u201cexacerbation of bilateral lower extremity weakness, secondary to polymyositis,\u201d especially on the right side, as well as pain when lifting her right arm.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 19,
+"si": 1,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 272.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 19,
+"si": 2,
+"section": "MIXED",
+"text": "She had been admitted to the acute care hospital on April 5, 2004 with abdominal distention, the cause of which was not conclusively identified, but she was treated there for an active urinary tract infection and found to also have a thoracic aortic aneurysm and degenerative disc problems on cervical and thoracic scans.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 19,
+"si": 3,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 278.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 19,
+"si": 4,
+"section": "MIXED",
+"text": "Neurosurgery determined that she was not a good candidate for surgical treatment.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 19,
+"si": 5,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 272.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 19,
+"si": 6,
+"section": "MIXED",
+"text": "She had been on prednisone for 12 years to manage a giant cell arteritis and had had polymyalgia rheumatic since 1997.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 19,
+"si": 7,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 277-78.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 19,
+"si": 8,
+"section": "MIXED",
+"text": "She had also been on Coumadin since 2003 for recurrent deep vein thrombosis with pulmonary emboli, which was held during the acute admission due to renal insufficiency and then reestablished.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 19,
+"si": 9,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 272 and 276.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 19,
+"si": 10,
+"section": "MIXED",
+"text": "She was discharged to a skilled nursing facility where she stayed from April 9, 2004 to April 20, 2004 and then transferred to the IRF for \u201caggressive, intensive inpatient rehabilitation.\u201d",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 19,
+"si": 11,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 273.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ found that a physician consultant recorded no \u201cfocal deficit\u201d in the lower extremities on strength testing.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 20,
+"si": 1,
+"section": "MIXED",
+"text": "I.W.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 20,
+"si": 2,
+"section": "MIXED",
+"text": "ALJ Decision at 2; I.W. Ex. 8, at 278.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 20,
+"si": 3,
+"section": "MIXED",
+"text": "I.W. was noted, however, to have swelling and decreased sensation in her legs, especially the right which had required a skin graft after an earlier fall.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 20,
+"si": 4,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 274.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 20,
+"si": 5,
+"section": "MIXED",
+"text": "She also had decreased endurance and shortness of breath with activity. Id.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 20,
+"si": 6,
+"section": "MIXED",
+"text": "The ALJ characterized the IRF treatment plan as merely to continue the current medications, monitor renal function, and follow up with her rheumatologist and primary care physician.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 20,
+"si": 7,
+"section": "MIXED",
+"text": "I.W.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 20,
+"si": 8,
+"section": "MIXED",
+"text": "ALJ Decision at 2.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 20,
+"si": 9,
+"section": "MIXED",
+"text": "Those steps were indeed reported by the consulting physician on her admission to IRF based on his understanding from the IRF physician.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 20,
+"si": 10,
+"section": "MIXED",
+"text": "However, her physician orders on IRF admission included 13 medications, and also planned for a bowel and bladder management program, training for self-administration of medication, and evaluation and appropriate treatment by physical and occupational therapists as well as a neuropsychologist.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 20,
+"si": 11,
+"section": "MIXED",
+"text": "I.W. Ex. 3, at 49.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 20,
+"si": 12,
+"section": "MIXED",
+"text": "The ALJ did not explain why the consulting physician should have recorded, or even been aware of, all of the planning being done on the first day of the beneficiary\u2019s admission to the IRF, since her assessment and care-planning might well not have been completed at that point.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant\u2019s medical director argued that progress notes show \u201cdaily direct contact by a physiatrist throughout the patient\u2019s stay,\u201d writing at least one order each day and close monitoring and adjustment in light of complex interactions among her medications and potential complications.",
+"tag": "PARTY",
+"reason": "appellant\u2019s medical director argued"
+},
+{
+"pi": 21,
+"si": 1,
+"section": "MIXED",
+"text": "I.W. Request for Review (RR) at 2-3.",
+"tag": "PROC",
+"reason": "Request for Review"
+},
+{
+"pi": 21,
+"si": 2,
+"section": "MIXED",
+"text": "He also asserted that the patient received three hours daily of therapy services, as well as specialized attention 24 hours a day from rehabilitation nurses who could reinforce therapeutic techniques and provide continuous monitoring of progress as well as safety and education for the patient. Id. at 6-7.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 22,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ acknowledged that the beneficiary had \u201ca complicated medical history,\u201d but then opined that \u201cher active co- morbidities had been treated so effectively on an outpatient basis that she was modified independent in many ADLs and independent in some ADLs prior to her hospital admission.\u201d",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 22,
+"si": 1,
+"section": "MIXED",
+"text": "I.W.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 22,
+"si": 2,
+"section": "MIXED",
+"text": "ALJ Decision at 10 (emphasis added).",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 22,
+"si": 3,
+"section": "MIXED",
+"text": "Her relatively high ADL functionality before the exacerbation of her illness that put her in the hospital does not undercut the physician\u2019s assessment that after her acute treatment she needed intensive rehabilitation to regain her previous independence.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 22,
+"si": 4,
+"section": "MIXED",
+"text": "Nor does it suggest that her numerous co-morbidities were irrelevant to the level of services needed to manage her safely during such rehabilitation efforts.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 22,
+"si": 5,
+"section": "MIXED",
+"text": "Furthermore, the fact that an initial stay in a SNF on release from the acute care hospitalization ended in a return to hospital-level care suggests that the beneficiary\u2019s medical and rehabilitative needs could not in fact be fully met in a lower-intensity setting.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 22,
+"si": 6,
+"section": "MIXED",
+"text": "This contradicts the ALJ\u2019s conclusion that there was no showing that I.W. could not have been provided with the services she needed in a SNF or through home health. Cf. I.W.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 22,
+"si": 7,
+"section": "MIXED",
+"text": "ALJ Decision at 10.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ\u2019s suggestion that SNF personnel routinely monitor anti- coagulant and Lasix therapy does not demonstrate that the physicians treating I.W. were unreasonable in concluding that this patient\u2019s medication needs were too complicated to be managed in a SNF.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 23,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant reported that I.W. took not only Lasix but two other blood pressure medications, her anti- coagulant levels were titrated daily, and the prednisone she took for her secondary illnesses affected fatigue and endurance levels for therapy.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 23,
+"si": 2,
+"section": "MIXED",
+"text": "I.W.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 23,
+"si": 3,
+"section": "MIXED",
+"text": "RR at 2-3.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 23,
+"si": 4,
+"section": "MIXED",
+"text": "These assertions are supported by the clinical records. See, e.g., I.W. Ex. 8, at 281-91 (physician orders), 333-99 (medication records).",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "MIXED",
+"text": "Further, the ALJ\u2019s approach to determining whether I.W. \u201crequired,\u201d as opposed to merely \u201cdesired or benefited from,\u201d relatively intensive rehabilitation is not consistent with the guidance provided in the manual provisions set out above. Cf. I.W.",
+"tag": "LAW",
+"reason": "law statement: guidance"
+},
+{
+"pi": 24,
+"si": 1,
+"section": "MIXED",
+"text": "ALJ Decision at 10.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 24,
+"si": 2,
+"section": "MIXED",
+"text": "The fundamental question is whether I.W. needed \u201ca relatively intense rehabilitation program that requires a multidisciplinary coordinated team approach to upgrade\u201d her functional ability.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 24,
+"si": 3,
+"section": "MIXED",
+"text": "MBPM, Ch. 1, \u00a7 110.1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 24,
+"si": 4,
+"section": "MIXED",
+"text": "Such services are generally needed where a patient has \u201ceither one or more conditions requiring intensive and multi-disciplinary rehabilitation care, or a medical complication in addition to their primary condition, so that the continuing availability of a physician is required to ensure safe and effective treatment.\u201d",
+"tag": "LAW",
+"reason": "law statement: is required"
+},
+{
+"pi": 24,
+"si": 5,
+"section": "MIXED",
+"text": "MBPM, Ch. 1, \u00a7 110.4.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 24,
+"si": 6,
+"section": "MIXED",
+"text": "This patient had, in addition to the exacerbation of her polymyositis, numerous other serious conditions requiring calibration of medication and monitoring of renal function, hypertension and other co-morbid conditions.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 24,
+"si": 7,
+"section": "MIXED",
+"text": "I.W.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 24,
+"si": 8,
+"section": "MIXED",
+"text": "RR at 7; I.W. Ex. 8 passim.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 24,
+"si": 9,
+"section": "MIXED",
+"text": "The ALJ does not adequately explain why these conditions and complications do not evidence need for in-hospital rehabilitation nor why he discounts the opinions of appellant\u2019s physicians \u2013 both the certifying physician and the medical director \u2013 that continuing availability of physician care was required to ensure safe and effective treatment of her condition. Cf. I.W.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 24,
+"si": 10,
+"section": "MIXED",
+"text": "ALJ Decision passim; but see Hearing CD; I.W.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 24,
+"si": 11,
+"section": "MIXED",
+"text": "RR at 1-3; I.W. Ex. 8 at 272- 75.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "MIXED",
+"text": "In addition to the uncontradicted medical opinions, the ALJ should have considered the actual level of services that I.W. received while in the IRF as evidencing her level of need.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 25,
+"si": 1,
+"section": "MIXED",
+"text": "The manual suggests that a medical record showing \u201cfrequent and direct, and medically necessary physician involvement in the patient's care; i.e., at least every two to three days during the patient's stay\u201d would be \u201can indicator of a patient's need for services generally available only in a hospital setting.\u201d2 MBPM, Ch. 1, \u00a7 110.4. (emphasis added).",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 25,
+"si": 2,
+"section": "MIXED",
+"text": "I.W.\u2019s medical records demonstrate almost daily progress notes and medication reviews and changes by physicians during her stay.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 25,
+"si": 3,
+"section": "MIXED",
+"text": "I.W. Ex. 8, passim.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 25,
+"si": 4,
+"section": "MIXED",
+"text": "In the absence of persuasive contrary evidence, the clinical record thus indicates that I.W. did need in-hospital level rehabilitation.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 25,
+"si": 5,
+"section": "MIXED",
+"text": "The record also evidences regular coordination through documented assessments, care plans with specific targets, weekly summaries, progress notes, and care conferences (April 22, April 30, and May 6) among multiple disciplines including occupational therapy, physical therapy, nursing, social work, and neuropsychology. See, e.g., I.W. Ex. 8, at 461-475.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 25,
+"si": 6,
+"section": "MIXED",
+"text": "This evidence further substantiates I.W.\u2019s need for hospital-level services.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "MIXED",
+"text": "This clinical record also belies the ALJ\u2019s characterization of the appellant\u2019s treatment plan as consisting merely of continuing existing medication, monitoring renal function because of diuretics, and consulting her primary care physician and rheumatologist.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 26,
+"si": 1,
+"section": "MIXED",
+"text": "I.W.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 26,
+"si": 2,
+"section": "MIXED",
+"text": "ALJ Decision at 2.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 26,
+"si": 3,
+"section": "MIXED",
+"text": "Her admission and therapeutic assessments also demonstrate impairments from her pre-hospitalization baseline considerably greater than the ALJ acknowledges with his references to \u201cmild weakness\u201d in one arm and no \u201cfocal deficits\u201d in her legs. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 26,
+"si": 4,
+"section": "MIXED",
+"text": "As the ALJ notes, prior to the exacerbation of her illness, I.W. had been able to live with her daughter using a wheelchair and a 4-point wheeled walker to ambulate short distances.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 26,
+"si": 5,
+"section": "MIXED",
+"text": "I.W.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 26,
+"si": 6,
+"section": "MIXED",
+"text": "ALJ Decision at 2, citing I.W. Ex. 8, at 462.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 26,
+"si": 7,
+"section": "MIXED",
+"text": "The ALJ does not note that the assessment, signed by two physical therapists (PTs), also describes I.W.\u2019s current status on arriving at the IRF as presenting with \u201csignificant weakness [and decreased] endurance which limits her functional mobility & balance\u201d and concludes that she \u201cwould benefit from inpt [inpatient] rehab to address these issues as well as [patient]/family education.\u201d",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 26,
+"si": 8,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 462.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "MIXED",
+"text": "Her gait on the PT evaluation was rated at level 23 and her dynamic postural alignment at 4 with discharge goals of 6. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 27,
+"si": 1,
+"section": "MIXED",
+"text": "Her gait on stairs was rated untestable due to her weakness and endurance, with a goal of raising it to 2.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 27,
+"si": 2,
+"section": "MIXED",
+"text": "Her home entrance required a step up and she lived in a two-story residence, although the ALJ opined that she might not need to go upstairs.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 27,
+"si": 3,
+"section": "MIXED",
+"text": "I.W.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 27,
+"si": 4,
+"section": "MIXED",
+"text": "ALJ Decision at 2.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 27,
+"si": 5,
+"section": "MIXED",
+"text": "A neurological evaluation showed deficits in motor control and noted altered sensation (tingling) in her legs, although she was able to sense touch.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 27,
+"si": 6,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 461.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 27,
+"si": 7,
+"section": "MIXED",
+"text": "She described pain in her left knee and had shortness of breath on moderate exertion.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 27,
+"si": 8,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 460-61.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 27,
+"si": 9,
+"section": "MIXED",
+"text": "Physical therapy totaling 60-90 minutes per day was provided every weekday.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 27,
+"si": 10,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 463.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "MIXED",
+"text": "The occupational therapy (OT) evaluation notes that I.W. had previously been capable of modified independence in her activities of daily living (ADLs) and reflects reductions in her need for supervision or stand-by assists for standing up, static and dynamic balance, and transfers.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 28,
+"si": 1,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 464.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 28,
+"si": 2,
+"section": "MIXED",
+"text": "She has pain in her knee and shoulder aggravated by standing. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 28,
+"si": 3,
+"section": "MIXED",
+"text": "Her endurance deficit impacts her ability to perform ADLs standing, and her seated abilities to perform hygiene, dressing, and toileting are at levels 4-5, with a goal of raising them all to 6.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 28,
+"si": 4,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 465.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 28,
+"si": 5,
+"section": "MIXED",
+"text": "Occupational therapy was provided almost every day for periods of time totaling between 15 and 120 minutes per day.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 29,
+"si": 0,
+"section": "MIXED",
+"text": "By her discharge after two weeks in the IRF, I.W. had succeeded in raising all her ADL levels, most of them to her goal level, and had regained the ability to live at her daughter\u2019s home with modified independence.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 29,
+"si": 1,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 475.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 29,
+"si": 2,
+"section": "MIXED",
+"text": "She was able to ambulate with her walker up to 150 feet and had exceeded her goal in stair climbing.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 29,
+"si": 3,
+"section": "MIXED",
+"text": "I.W. Ex. 8, at 475-76.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 29,
+"si": 4,
+"section": "MIXED",
+"text": "Her motor control was improved. Id.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 29,
+"si": 5,
+"section": "MIXED",
+"text": "While she continued to have limitations in range of motion and endurance, she clearly benefited sufficiently from appellant\u2019s services to enable her to live at home with family assistance rather than in an institution.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 30,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ also makes the conclusory statement that, even if \u201cthe threshold requirements were established,\u201d the services would not be covered because the record does not show that I.W. \u201cneeded close medical supervision by a physician with specialized training or experience in rehabilitation, 24-hour rehabilitation nursing, or a relatively intense level of rehabilitation services.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 30,
+"si": 1,
+"section": "MIXED",
+"text": "I.W.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 30,
+"si": 2,
+"section": "MIXED",
+"text": "ALJ Decision at 10 (citations omitted).",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 30,
+"si": 3,
+"section": "MIXED",
+"text": "The three manual provisions which the ALJ cites - MBPM, chapter 1, \u00a7\u00a7 110.4.1, 110.4.2, and 110.4.3 \u2013 are, as mentioned above, not in fact \u201ccoverage criteria,\u201d as the ALJ called them, but merely markers for the contractor of situations that are clearly covered rather than calling for individualized medical review. Id.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 30,
+"si": 4,
+"section": "MIXED",
+"text": "Further, the daily physician visits included many by Dr. ***, whom the appellant identifies as a board-certified physiatrist, which would seem to meet the first marker. See I.W.",
+"tag": "COUNCIL",
+"reason": "board"
+},
+{
+"pi": 30,
+"si": 5,
+"section": "MIXED",
+"text": "RR at 2; I.W. Ex. 8 passim.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 30,
+"si": 6,
+"section": "MIXED",
+"text": "The clinical records reflect 24-hour nursing care and interventions with special precautions for high risks in the area of falls and skin integrity, close monitoring of bilateral pedal edema, and observations of weakness, exhaustion, rash, and movement limitations.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 30,
+"si": 7,
+"section": "MIXED",
+"text": "I.W. Ex. 8 at 432-458.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 30,
+"si": 8,
+"section": "MIXED",
+"text": "We have already discussed the evidence of I.W.\u2019s need for relatively intense rehabilitation.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 30,
+"si": 9,
+"section": "MIXED",
+"text": "We therefore conclude that the ALJ\u2019s reference to other coverage criteria does not provide any independent basis to uphold the denial.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 31,
+"si": 0,
+"section": "MIXED",
+"text": "Based on our de novo review of the clinical record, we reverse the ALJ\u2019s conclusion that the services provided to I.W. by the appellant were not covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "our"
+},
+{
+"pi": 32,
+"si": 0,
+"section": "MIXED",
+"text": "2.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 32,
+"si": 1,
+"section": "MIXED",
+"text": "Services provided to J.H. from July 10 through July 23, 2004 were reasonable and necessary under applicable legal authority.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 33,
+"si": 0,
+"section": "MIXED",
+"text": "J.H. was 83 years old and had recently moved in with his daughter when he suffered two falls from which he could not get up and was taken to the emergency room.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 33,
+"si": 1,
+"section": "MIXED",
+"text": "J.H.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 33,
+"si": 2,
+"section": "MIXED",
+"text": "ALJ Decision at 2, citing J.H. Ex. 10, at 830.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 33,
+"si": 3,
+"section": "MIXED",
+"text": "He was diagnosed with Parkinson\u2019s disease and scans of his brain revealed extensive cerebral atrophy, chronic extensive deep white matter ischemic changes, lacunar infarcts, without evidence of hemorrhage or other abnormalities.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 33,
+"si": 4,
+"section": "MIXED",
+"text": "J.H. Ex. 10, at 729, 733, and 789.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 33,
+"si": 5,
+"section": "MIXED",
+"text": "J.H. was transferred to the IRF on July 10, 2004 and was released July 23, 2004.4",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 34,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ states that no rationale was given for why J.H. \u201cneeded to be admitted to the IRF.\u201d",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 34,
+"si": 1,
+"section": "MIXED",
+"text": "J.H.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 34,
+"si": 2,
+"section": "MIXED",
+"text": "ALJ Decision at 2, citing J.H. Ex. 10, at 784.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 34,
+"si": 3,
+"section": "MIXED",
+"text": "The cited page is in a physician report on J.H.\u2019s rehabilitation admission.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 34,
+"si": 4,
+"section": "MIXED",
+"text": "The physician, appellant\u2019s Medical Director, sets out the patient\u2019s chief complaint as \u201c[m]ultiple falls with weakness of the lower extremities\u201d and states that he is \u201cfelt to be unstable given his weakness of the extremities and the multiple falls\u201d and that he is therefore \u201cbeing transferred to rehabilitation for intensive therapy and in preparation for him to be discharged home.\u201d",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 34,
+"si": 5,
+"section": "MIXED",
+"text": "J.H. Ex. 10, at 784.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 34,
+"si": 6,
+"section": "MIXED",
+"text": "The ALJ does not acknowledge this aspect of the assessment or explain why it does not constitute a \u201crationale\u201d for needing IRF admission.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 34,
+"si": 7,
+"section": "MIXED",
+"text": "The ALJ does quote a PT evaluation stating that J.H. would \u201cbenefit from intensive PT rehab program for education on Parkinson\u2019s, gait, balance training and safety education to prevent falls and return home with daughter safely,\u201d and notes an intake assessment which indicates by checking off items that J.H. met the \u201ccriteria\u201d for IRF services and cannot have needs met at a lower level of care.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 34,
+"si": 8,
+"section": "MIXED",
+"text": "J.H.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 34,
+"si": 9,
+"section": "MIXED",
+"text": "ALJ Decision at 2, quoting J.H. Ex. 10, at 830, and citing J.H. Ex. 10, at 783.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 34,
+"si": 10,
+"section": "MIXED",
+"text": "The ALJ nevertheless concludes that the services could have been provided in a SNF because J.H.\u2019s condition was \u201cstable\u201d on admission to the IRF and he had no active co- morbidities or complications that justified IRF-level care.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 34,
+"si": 11,
+"section": "MIXED",
+"text": "J.H.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 34,
+"si": 12,
+"section": "MIXED",
+"text": "ALJ Decision at 10.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 35,
+"si": 0,
+"section": "MIXED",
+"text": "Certainly, physical therapy on the topics mentioned may be provided in a SNF.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 35,
+"si": 1,
+"section": "MIXED",
+"text": "The salient issues are whether the patient required a relatively intense level of PT and other rehabilitative services beyond what would be normally available in a SNF or home health setting and/or needed a level of active medical management of his total condition that required in- patient status.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 35,
+"si": 2,
+"section": "MIXED",
+"text": "The appellant points out that the patient had urinary problems secondary to a history of bladder cancer and prostate hypertrophy which required active physician management, including two emergency room visits to reinsert a Foley catheter, repeated episodes of blood in the urine, and a urinary tract infection.",
+"tag": "PARTY",
+"reason": "appellant points out"
+},
+{
+"pi": 35,
+"si": 3,
+"section": "MIXED",
+"text": "J.H.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 35,
+"si": 4,
+"section": "MIXED",
+"text": "RR at 2; J.H. Ex. 10, at 788, 818.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 35,
+"si": 5,
+"section": "MIXED",
+"text": "His hypertension medication was changed twice during his stay due to interaction with the urinary problems. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 35,
+"si": 6,
+"section": "MIXED",
+"text": "The appellant also notes (and the record reflects) that J.H. suffered from severe to profound hearing loss, involuntary movements, and cognitive problems including mental confusion, inability to follow directions, and impulsivity sufficient to call for a one-on-one attendant for nights and evenings.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 35,
+"si": 7,
+"section": "MIXED",
+"text": "J.H.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 35,
+"si": 8,
+"section": "MIXED",
+"text": "RR at 2, 4; J.H. Ex. 10, at 790-91.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 35,
+"si": 9,
+"section": "MIXED",
+"text": "His vision in both eyes was impaired.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 35,
+"si": 10,
+"section": "MIXED",
+"text": "J.H. Ex. 10, at 832.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 36,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant\u2019s medical director asserts that J.H. required and received daily, medically necessary involvement from him, as a board-certified physiatrist, and that the physician wrote \u201cat least one order for 13 of the 13 days\u201d that J.H. was in the IRF.",
+"tag": "COUNCIL",
+"reason": "board"
+},
+{
+"pi": 36,
+"si": 1,
+"section": "MIXED",
+"text": "J.H.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 36,
+"si": 2,
+"section": "MIXED",
+"text": "RR at 2-3.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 36,
+"si": 3,
+"section": "MIXED",
+"text": "This assertion is supported by the clinical record.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 36,
+"si": 4,
+"section": "MIXED",
+"text": "J.H. Ex. 10, at 713-29, 790-96.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 36,
+"si": 5,
+"section": "MIXED",
+"text": "The record also reflects almost daily follow-up visits from his hospital physician.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 36,
+"si": 6,
+"section": "MIXED",
+"text": "J.H. Ex. 10, at 713-29.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 36,
+"si": 7,
+"section": "MIXED",
+"text": "The appellant further asserts that J.H.\u2019s neurologist requested intensive rehabilitation to address \u201clower extremity weakness, loss of balance, cogwheel rigidity, and impaired postural reflexes with retropulsion and lateral pulsion.\u201d",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 36,
+"si": 8,
+"section": "MIXED",
+"text": "J.H.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 36,
+"si": 9,
+"section": "MIXED",
+"text": "RR at 2.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 36,
+"si": 10,
+"section": "MIXED",
+"text": "A neuropsychological evaluation noted problems with attention, slowed processing, forgetfulness and anxiety, with a need for \u201ca lot of education & support.\u201d",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 36,
+"si": 11,
+"section": "MIXED",
+"text": "J.H. Ex. 10, at 839-40.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 37,
+"si": 0,
+"section": "MIXED",
+"text": "The clinical record demonstrates that J.H. received daily PT services lasting 60-90 minutes involving therapeutic exercise, neurological retraining, gait activities and treatment to improve functional activities.",
+"tag": "EVAL",
+"reason": "demonstrates"
+},
+{
+"pi": 37,
+"si": 1,
+"section": "MIXED",
+"text": "J.H. Ex. 10, at 831.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 37,
+"si": 2,
+"section": "MIXED",
+"text": "On admission, his functional levels were at 2 for gait on stairs and in community and at 4 for gait with standby assistance and an assistive device, with tendency to shuffle, unsteadiness, and distraction.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 37,
+"si": 3,
+"section": "MIXED",
+"text": "J.H. Ex. 10, at 830.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 37,
+"si": 4,
+"section": "MIXED",
+"text": "He was noted to have kyphotic posture and a pelvic tilt affecting his ability to sit, stand, and transfer where he was previously independent, as well as limited trunk flexibility and stiffness. Id. at 829-833.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 37,
+"si": 5,
+"section": "MIXED",
+"text": "He also received occupational therapy, focusing on regaining ADLs and developing a home program, each day after July 14, 2004, with evaluation visits and care-planning involvement on the earlier days. Id. at 834.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 37,
+"si": 6,
+"section": "MIXED",
+"text": "He was also evaluated by a speech- language pathologist and was seen daily for therapy to improve comprehension and expression. Id. at 835-38.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 38,
+"si": 0,
+"section": "MIXED",
+"text": "Given that the symptoms and diagnosis of Parkinson\u2019s disease were fairly new developments for a patient who had previously been capable of living independently but now had repeated falls, the decision of J.H.\u2019s physicians to attempt intensive rehabilitation and training in order to maximize his chances of returning to reside safely with his daughter does not appear unreasonable.",
+"tag": "LAW",
+"reason": "law statement: in order to"
+},
+{
+"pi": 38,
+"si": 1,
+"section": "MIXED",
+"text": "While the degree of his functional impairment was not severe in most areas, the appellant has correctly pointed out that addressing them was complicated by his serious sensory and cognitive impairments.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 38,
+"si": 2,
+"section": "MIXED",
+"text": "The IRF developed an individualized care plan with weekly updates and documented multidisciplinary conferences and progress updates.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 38,
+"si": 3,
+"section": "MIXED",
+"text": "J.H. Ex. 10, at 843-46.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 38,
+"si": 4,
+"section": "MIXED",
+"text": "The discharge summary and functional independence measures reflect achievement of his goals in most areas, except bladder management, documenting the benefits he received and his ability to return to his daughter\u2019s home. Id. at 847-48.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 38,
+"si": 5,
+"section": "MIXED",
+"text": "While the ALJ acknowledged that J.H. \u201cmay have benefited from his IRF admission,\u201d the ALJ concluded that his needs could have been managed in a SNF.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 38,
+"si": 6,
+"section": "MIXED",
+"text": "ALJ Decision at 10.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 39,
+"si": 0,
+"section": "MIXED",
+"text": "We disagree.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 39,
+"si": 1,
+"section": "MIXED",
+"text": "The medical record supports the appellant\u2019s position that J.H.\u2019s individual care needs required a more intense level of rehabilitation to forestall institutionalization.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 39,
+"si": 2,
+"section": "MIXED",
+"text": "In looking at the bookend examples given in the manual to evaluate such needs, we conclude that J.H. more closely resembles a person with a recent stroke who becomes significantly dependent in ADLs but has potential for rehabilitation and needs beyond the custodial than an individual with an uncomplicated hip or ankle fracture.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 39,
+"si": 3,
+"section": "MIXED",
+"text": "MBPM, Ch. 1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 39,
+"si": 4,
+"section": "MIXED",
+"text": "\u00a7 110.3.2.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 39,
+"si": 5,
+"section": "MIXED",
+"text": "We therefore reverse the ALJ\u2019s denial of coverage.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 40,
+"si": 0,
+"section": "MIXED",
+"text": "3.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 40,
+"si": 1,
+"section": "MIXED",
+"text": "Services provided to A.D. from March 8 through March 18, 2005 were reasonable and necessary under applicable legal authority.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 41,
+"si": 0,
+"section": "MIXED",
+"text": "A.D. was 84 years old and was independent in mobility and ADLs and living in a home with 40 steps to the entrance (and 3 more to his bedroom) when he suffered a CVA in early March 2005.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 41,
+"si": 1,
+"section": "MIXED",
+"text": "A.D. Ex. 12, at 621-27, 752, 764.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 41,
+"si": 2,
+"section": "MIXED",
+"text": "He was admitted to the hospital where he was determined to have atrial fibrillation and a hemorrhagic infarct with ischemic changes and left hemianopsia. Id. at 622.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 41,
+"si": 3,
+"section": "MIXED",
+"text": "He had a prior history of heart attack and an enlarged heart. Id. at 621-22.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 41,
+"si": 4,
+"section": "MIXED",
+"text": "After conservative treatment in the hospital, A.D. showed improvement and was referred by his physician for intensive therapy for which he was \u201cfelt to be an excellent rehabilitation candidate.\u201d Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 41,
+"si": 5,
+"section": "MIXED",
+"text": "In addition to the CVA and cardiac issues, A.D. had poorly- controlled diabetes, was hypertensive with anticoagulant therapy contraindicated due to the hemorrhagic stroke, was on medication for hyperlipidemia, was anemic, and had a history of hyperthyroidism but was taking medications that could alter thyroid functions. Id. at 621, 625-27.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 42,
+"si": 0,
+"section": "MIXED",
+"text": "On admission to the IRF, he had motor control deficits in his lower extremities, required minimal assistance to stand (slight loss of balance), walk, dress and transfer and supervision for eating, grooming and bathing.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 42,
+"si": 1,
+"section": "MIXED",
+"text": "A.D. Ex. 12, at 622-24.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 42,
+"si": 2,
+"section": "MIXED",
+"text": "His ability to manage stairs was rated at 2 and he was rated 4-5 on most other functional activities with a goal of returning to levels 6-7 on all functions. Id. at 752.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 42,
+"si": 3,
+"section": "MIXED",
+"text": "His cognitive abilities were also somewhat compromised due to intermittent confusion and short-term memory deficits. Id. at 621.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 42,
+"si": 4,
+"section": "MIXED",
+"text": "The hemianopsia caused additional safety and balance issues. Id.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 42,
+"si": 5,
+"section": "MIXED",
+"text": "His overall rehabilitative goals were to learn to compensate for the blindness on one side and to be able to return home with improved mobility and safety. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 42,
+"si": 6,
+"section": "MIXED",
+"text": "In addition, he was determined during the rehabilitation assessment to have dysphagia and in need of nutritional services to minimize risk. Id. at 655.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 42,
+"si": 7,
+"section": "MIXED",
+"text": "Given this documentation in the clinical record, we cannot understand the ALJ\u2019s comment that the \u201crecord does not indicate if or why\u201d A.D. needed intensive therapy.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 42,
+"si": 8,
+"section": "MIXED",
+"text": "A.D.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 42,
+"si": 9,
+"section": "MIXED",
+"text": "ALJ Decision at 2.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 43,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant argues that the physician had to titrate the medications on a daily basis due to large fluctuations in blood pressure, uncontrolled diabetes, the need to stop Coumadin (which he had been taking due to multiple pulmonary emboli after an abdominal aortic aneurysm repair the prior year) because of the nature of his stroke and still manage the atrial fibrillation, and the potential for interactions affecting his thyroid.",
+"tag": "PARTY",
+"reason": "appellant argues"
+},
+{
+"pi": 43,
+"si": 1,
+"section": "MIXED",
+"text": "A.D.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 43,
+"si": 2,
+"section": "MIXED",
+"text": "RR at 2.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 43,
+"si": 3,
+"section": "MIXED",
+"text": "During A.D.\u2019s stay, according to appellant, the physician arranged a consult with an ear, nose and throat specialist who found signs of Gastric Esophageal Reflux Disease which required additional medication and precautions. Id.; A.D. Ex. 12, at 647.",
+"tag": "PARTY",
+"reason": "according to appellant"
+},
+{
+"pi": 44,
+"si": 0,
+"section": "MIXED",
+"text": "The clinical records support these assertions, documenting very frequent physician\u2019s orders for tests and medication reviews, and almost daily visits by either a physiatrist or consulting physician.",
+"tag": "EVAL",
+"reason": "support these"
+},
+{
+"pi": 44,
+"si": 1,
+"section": "MIXED",
+"text": "A.D. Ex. 12, at 631-57.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 44,
+"si": 2,
+"section": "MIXED",
+"text": "During his stay, he received physical therapy daily for 60-90 minutes. Id. at 753.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 44,
+"si": 3,
+"section": "MIXED",
+"text": "Occupational therapy provided treatment on seven days for 60-105 minutes and participated in evaluation and case conferences. Id. at 758.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 44,
+"si": 4,
+"section": "MIXED",
+"text": "In addition, he received speech therapy on seven occasions (from 30-90 minutes each) to improve his dysphagia, comprehension and expression and cognitive declines. Id. at 751.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 44,
+"si": 5,
+"section": "MIXED",
+"text": "His clinical treatment records document progress notes from neuropsychology reflecting 6 visits. Id. at 640-55, 762- 63.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 44,
+"si": 6,
+"section": "MIXED",
+"text": "He also received consults for social work and recreational therapy. Id. at 764-65.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 44,
+"si": 7,
+"section": "MIXED",
+"text": "The record includes weekly summaries and notes reflecting multidisciplinary care-planning and conferences. Id. at 766-71.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 44,
+"si": 8,
+"section": "MIXED",
+"text": "By the time of his discharge, A.D. had regained modified independence in his ADLs, was independent in transfers, and could ambulate and climb 12 steps with stand- by assistance. Id. at 771.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 44,
+"si": 9,
+"section": "MIXED",
+"text": "He was able to meet the goal of being discharged to his home. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 45,
+"si": 0,
+"section": "MIXED",
+"text": "A.D. appears to be virtually the canonical exemplar of an appropriate candidate for in-patient level rehabilitative services set out in the Manual discussed above.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 45,
+"si": 1,
+"section": "MIXED",
+"text": "MBPM, Ch. 1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 45,
+"si": 2,
+"section": "MIXED",
+"text": "\u00a7 110.3.2.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 45,
+"si": 3,
+"section": "MIXED",
+"text": "Clearly, his needs were more than custodial given his numerous medications and co-morbidities.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 45,
+"si": 4,
+"section": "MIXED",
+"text": "We therefore conclude that the IRF services were reasonable and necessary and reverse the ALJ\u2019s non-coverage decision.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 47,
+"si": 0,
+"section": "TERMINAL",
+"text": "It is the decision of the Medicare Appeals Council that the ALJ decisions in each of the cases set out above are reversed and the claims at issue are covered by Medicare.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

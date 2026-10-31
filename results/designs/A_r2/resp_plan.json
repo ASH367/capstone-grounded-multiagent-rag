@@ -1,0 +1,56 @@
+[
+{"case_id":"11-1343","components":[
+{"name":"Physical therapy","description":"PT services for D.E. initiated August 28, 2009, and PT for J.M. (hip fracture), as reviewed in the SNF stay."},
+{"name":"Occupational therapy","description":"OT services for D.E., E.M. (initiated August 24, 2009) and J.M. (initiated June 14, 2009)."},
+{"name":"Speech therapy","description":"ST services for D.E. (initiated August 27, 2009) and E.M. for cognitive/language deficits."},
+{"name":"Skilled nursing observation","description":"Nursing monitoring of J.M. after the July 28, 2009 fall with head strike (neurological watch, fall precautions)."}]},
+{"case_id":"11-1546","components":[
+{"name":"SNF stay","description":"The beneficiary's skilled nursing facility stay, whose coverage depends on skilled-level needs such as medication adjustment for blood pressure and heart rate fluctuations."},
+{"name":"Qualifying 3-day hospital stay","description":"The December 15-27, 2009 hospital stay, which is a prerequisite for SNF coverage and is in dispute."}]},
+{"case_id":"baptist_health_care","components":[
+{"name":"Inpatient AICD replacement admissions","description":"Nine separate inpatient admissions for replacement of automatic implantable cardioverter defibrillators, each appealed separately (A.J. and J.M. among them) and each could be covered or denied on its own."}]},
+{"case_id":"conn_dept_social_services","components":[
+{"name":"Procedural timeliness of brief","description":"The dispute concerns the appellant's late filing of a brief and extension request in a Council review; no distinct services or periods of care are identified, so the claim is a single component."}]},
+{"case_id":"connecticut11","components":[
+{"name":"SNF stay","description":"The beneficiary's SNF stay beginning January 17, 2006, including skilled therapy discharged February 2006 and the period after the notice of non-coverage, for which liability is disputed."}]},
+{"case_id":"gr","components":[
+{"name":"Nursing services Feb 29 - Apr 28, 2004","description":"Visiting nurse services at the assisted living facility during this period."},
+{"name":"Nursing services Aug 27 - Dec 24, 2004","description":"Visiting nurse services at the assisted living facility during this period."}]},
+{"case_id":"m-10-1884","components":[
+{"name":"SNF care Jan 28-31, 2009","description":"SNF days billed from January 28 through January 31, 2009."},
+{"name":"SNF care Feb 1 - Mar 1, 2009","description":"SNF days billed from February 1, 2009 through March 1, 2009."}]},
+{"case_id":"m-11-1869","components":[
+{"name":"Home health nursing Aug 6, 2007 - Mar 28, 2008","description":"Skilled nursing visits during this first period, including diabetes monitoring, insulin adjustment and UTI follow-up."},
+{"name":"Home health nursing May 28 - Sep 24, 2008","description":"Skilled nursing visits during this second period."}]},
+{"case_id":"m-11-1967","components":[
+{"name":"SNF skilled nursing March 2010","description":"Skilled nursing monitoring in the SNF for hematuria and Foley catheter care from admission through the March 6, 2010 hospitalization order; the claim cannot be meaningfully split further."}]},
+{"case_id":"m-12-1140","components":[
+{"name":"Skilled PT and OT","description":"Rehabilitative physical and occupational therapy after the August 30, 2011 readmission, ended September 30, 2011."},
+{"name":"Skilled nursing","description":"Nursing services furnished following readmission to the SNF."},
+{"name":"SNF days after therapy discharge","description":"SNF stay days following the September 30, 2011 therapy discharge, for which continued coverage is contested."}]},
+{"case_id":"m_10_1771","components":[
+{"name":"Physical therapy","description":"PT after the September 2, 2008 fall and total knee replacement rehab, to promote safety, balance and mobility."},
+{"name":"Speech therapy","description":"ST evaluation related to the request for diet upgrade from mechanical soft to regular."},
+{"name":"Cognitive/memory therapy","description":"Services addressing memory loss and dementia-related cognition, with goals met by September 11, 2008."}]},
+{"case_id":"nj_dept_humanservices22","components":[
+{"name":"W.B. physical therapy visits","description":"Remaining PT visits for W.B. between October 25 and November 29, 2005, tied to stair lift installation and transfer training."},
+{"name":"D.W. physical therapy","description":"48 physical therapy sessions for D.W. between October 10, 2005 and December 3, 2006."},
+{"name":"D.W. home health aide visits","description":"97 home health aide visits for D.W. in the same period."}]},
+{"case_id":"nj_dhs_commiss_case","components":[
+{"name":"Skilled nursing visits","description":"Skilled nursing visits by Ocean County Board of Health from April 17 through October 13, 2007; a single claim."}]},
+{"case_id":"ny","components":[
+{"name":"Home health services hours","description":"Home health aide or skilled nursing hours furnished to each beneficiary, with the claim that at least 28 and up to 35 hours per week are covered; treated as a single claim."}]},
+{"case_id":"roman_eagle_memorial_home","components":[
+{"name":"First admission Sep 29 - Nov 27, 2003","description":"SNF stay in a noncertified bed following the hospital stay."},
+{"name":"Second admission Dec 11, 2003 - Jan 6, 2004","description":"SNF stay in a noncertified bed, including IV/IM pain medication and morphine orders, ending with death."}]},
+{"case_id":"stfrances_memorial","components":[
+{"name":"IRF claim for beneficiary 1","description":"IRF services to the first of five beneficiaries between March 2003 and May 2004."},
+{"name":"IRF claim for beneficiary 2","description":"IRF services to the second beneficiary."},
+{"name":"IRF claim for beneficiary 3","description":"IRF services to the third beneficiary."},
+{"name":"IRF claims for beneficiaries 4 and 5","description":"IRF services to the fourth and fifth beneficiaries, each decided in separate ALJ decisions."}]},
+{"case_id":"twin_maples_health_care_case","components":[
+{"name":"Skilled nursing care","description":"Skilled nursing for psychological, behavioral and medical reasons, including monitoring of mood and behavior and pneumonia care, during August 2009."},
+{"name":"Skilled physical therapy","description":"PT for gait, ambulation, transfers and fall risk during August 2009."}]},
+{"case_id":"valley_presbyterian","components":[
+{"name":"IRF admission July 17-24, 2003","description":"Single IRF stay following right total knee replacement, reopened by the RAC; a single claim."}]}
+]

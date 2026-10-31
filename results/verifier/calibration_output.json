@@ -1,0 +1,302 @@
+[
+ {
+  "id": "CP3|uphams_homehealthcare|elig|0",
+  "label": "SUPPORTED",
+  "reason": "Family gave meds; policy excludes unskilled-performable services."
+ },
+ {
+  "id": "CP3|12-1251|doc|0",
+  "label": "SUPPORTED",
+  "reason": "Chest pain is a listed cardiac-distress sign; fact states it."
+ },
+ {
+  "id": "CP3|case_excellenthomecare|base|1",
+  "label": "PARTLY",
+  "reason": "Policy requires documentation each visit; no \"until stabilizes\"; stability only partly relevant."
+ },
+ {
+  "id": "CP3|gold_cross_ambulance|base|0",
+  "label": "SUPPORTED",
+  "reason": "Record lacks reason for oxygen; policy lists oxygen."
+ },
+ {
+  "id": "CP3|sacredheart_hospital|doc|0",
+  "label": "SUPPORTED",
+  "reason": "Quoted fact and policy are consistent with the limited-passage claim."
+ },
+ {
+  "id": "CP3|m-11-2450|elig|0",
+  "label": "PARTLY",
+  "reason": "Staffed by physician only implies physician-directed; inference needed."
+ },
+ {
+  "id": "CP3|rx_homecare|base|2",
+  "label": "PARTLY",
+  "reason": "Fact shows nurse overseeing aides; policy fragment lacks subject, needs inference."
+ },
+ {
+  "id": "CP3|visitingnursing|base|0",
+  "label": "PARTLY",
+  "reason": "Fact is fall-risk score; no gait training shown."
+ },
+ {
+  "id": "CP3|altabates|doc|1",
+  "label": "PARTLY",
+  "reason": "Fact shows assertion of 3 hours; \"ranges\" point not in fact."
+ },
+ {
+  "id": "CP3|midwest_lifeteam|base|1",
+  "label": "PARTLY",
+  "reason": "Fact says specialists available; transferring hospital lacking is inferred."
+ },
+ {
+  "id": "CP3|rx_homecare|nec|0",
+  "label": "PARTLY",
+  "reason": "Fact shows no changes; \"only supervises unskilled care\" not stated."
+ },
+ {
+  "id": "CP3|12-1251|base|1",
+  "label": "SUPPORTED",
+  "reason": "Emergency services during transport match policy's emergency treatment criterion."
+ },
+ {
+  "id": "CP3|kaweah_rehabilitationhospital|base|1",
+  "label": "SUPPORTED",
+  "reason": "Daily OT and PT match multiple therapy disciplines."
+ },
+ {
+  "id": "CP3|nj_dept_humanservices5|nec|2",
+  "label": "SUPPORTED",
+  "reason": "Fact says physician-signed care plan ordered therapy."
+ },
+ {
+  "id": "CP3|rx_homecare|elig|2",
+  "label": "PARTLY",
+  "reason": "No significant changes relates to potential for change only by inference."
+ },
+ {
+  "id": "CP3|altabates|doc|0",
+  "label": "NOT_SUPPORTED",
+  "reason": "Fact mentions only physical therapy; OT not shown."
+ },
+ {
+  "id": "CP3|state_of_vt|base|2",
+  "label": "PARTLY",
+  "reason": "PCA is not family; skilled teaching not established."
+ },
+ {
+  "id": "CP3|state_of_vt|elig|0",
+  "label": "SUPPORTED",
+  "reason": "Stage II sacral ulcer needing skilled nursing fits wound-care policy."
+ },
+ {
+  "id": "CP3|eagle_air_med|base|1",
+  "label": "SUPPORTED",
+  "reason": "Stable vitals do not establish ground transport was appropriate; consistent."
+ },
+ {
+  "id": "CP3|eagle_air_med|elig|2",
+  "label": "SUPPORTED",
+  "reason": "Closer equipped facility matches nearest-appropriate-hospital requirement."
+ },
+ {
+  "id": "CP3|altabates|doc|2",
+  "label": "PARTLY",
+  "reason": "Orders mentioned; absence of screening not shown by quotes."
+ },
+ {
+  "id": "CP3|estate_gbr|nec|0",
+  "label": "SUPPORTED",
+  "reason": "Fact says missing service undocumented; policy requires inadequate facilities."
+ },
+ {
+  "id": "CP3|midwest_lifeteam|base|0",
+  "label": "SUPPORTED",
+  "reason": "Not nearest facility at 133 miles; policy limits payment to nearer hospital."
+ },
+ {
+  "id": "CP3|gold_cross_ambulance|nec|1",
+  "label": "PARTLY",
+  "reason": "Fact lacks cardiologist statement; policy quote about distress is tangential."
+ },
+ {
+  "id": "CP3|midwest_lifeteam|nec|1",
+  "label": "SUPPORTED",
+  "reason": "Nearer hospital distance of 133 miles supports payment limitation."
+ },
+ {
+  "id": "CP3|estate_gbr|base|0",
+  "label": "PARTLY",
+  "reason": "Sending hospital trauma center implies, not states, nearest-appropriate issue."
+ },
+ {
+  "id": "CP3|eagle_air_med|base|0",
+  "label": "SUPPORTED",
+  "reason": "Appellant concedes ground reasonable; policy bases payment on ground rate."
+ },
+ {
+  "id": "CP3|altabates|base|1",
+  "label": "PARTLY",
+  "reason": "PT 60-90 min alone falls short of 3 hours; \"approaches\" inferred."
+ },
+ {
+  "id": "CP3|prestige_homecare|doc|0",
+  "label": "PARTLY",
+  "reason": "No changes fits; \"longstanding pattern\" and fluctuating signs not in fact."
+ },
+ {
+  "id": "CP3|gold_cross_ambulance|elig|0",
+  "label": "SUPPORTED",
+  "reason": "Fact says oxygen required; policy lists oxygen."
+ },
+ {
+  "id": "CP3|midwest_lifeteam|elig|1",
+  "label": "SUPPORTED",
+  "reason": "Diagnosis includes chest pain and shortness of breath, matching policy."
+ },
+ {
+  "id": "CP3|state_of_vt|doc|0",
+  "label": "PARTLY",
+  "reason": "Fact shows observation and dressing; caregiver instruction not quoted."
+ },
+ {
+  "id": "CP3|sacredheart_hospital|base|0",
+  "label": "SUPPORTED",
+  "reason": "Hospitalized for dissection extent versus short-stay outpatient expectation."
+ },
+ {
+  "id": "CP3|m_12_809|elig|0",
+  "label": "SUPPORTED",
+  "reason": "Observation then admitted to inpatient matches inpatient definition."
+ },
+ {
+  "id": "CP3|m-11-1559|base|0",
+  "label": "SUPPORTED",
+  "reason": "Fact says change made in error; policy ties admission order to decision."
+ },
+ {
+  "id": "CP3|kaweah_rehabilitationhospital|base|0",
+  "label": "SUPPORTED",
+  "reason": "Pressure sore and metabolic issues support complexity of needs."
+ },
+ {
+  "id": "CP3|m_12_809|base|2",
+  "label": "PARTLY",
+  "reason": "BP drop occurred; predictability of adverse event requires inference."
+ },
+ {
+  "id": "CP3|m_12_809|nec|0",
+  "label": "SUPPORTED",
+  "reason": "Quotes show observation-to-inpatient transition; admission order evidence only."
+ },
+ {
+  "id": "CP3|rx_homecare|doc|2",
+  "label": "SUPPORTED",
+  "reason": "30-35 weekly hours exceed 28-hour limit."
+ },
+ {
+  "id": "CP3|uphams_homehealthcare|base|0",
+  "label": "SUPPORTED",
+  "reason": "Family administered meds; policy excludes unskilled-performable services."
+ },
+ {
+  "id": "CP3|m_12_257|base|0",
+  "label": "SUPPORTED",
+  "reason": "Infrequent absences for day care fit policy that absences do not disqualify."
+ },
+ {
+  "id": "CP3|state_of_vt|base|1",
+  "label": "PARTLY",
+  "reason": "Diabetes is diagnosed but \"uncomplicated\"; link to healing is inferred."
+ },
+ {
+  "id": "CP3|rx_homecare|elig|1",
+  "label": "PARTLY",
+  "reason": "35-hour case-by-case and no condition change not in quotes."
+ },
+ {
+  "id": "CP3|case_excellenthomecare|elig|0",
+  "label": "SUPPORTED",
+  "reason": "Caregiver gave oral meds and insulin; policy says nurse oral meds not skilled."
+ },
+ {
+  "id": "CP3|dc_case|base|2",
+  "label": "SUPPORTED",
+  "reason": "Treated and released for medication nausea; policy requires ambulance necessity."
+ },
+ {
+  "id": "CP3|altabates|nec|1",
+  "label": "PARTLY",
+  "reason": "Near-daily OT not in quoted fact; PT alone below 3 hours."
+ },
+ {
+  "id": "CP3|12-1251|base|2",
+  "label": "SUPPORTED",
+  "reason": "Residence to hospital transport is covered under Part B."
+ },
+ {
+  "id": "CP3|estate_gbr|base|1",
+  "label": "SUPPORTED",
+  "reason": "No documented missing service; policy says better equipment is insufficient."
+ },
+ {
+  "id": "CP3|m_12_257|base|2",
+  "label": "PARTLY",
+  "reason": "Six notes show documentation; unstable regimen not shown."
+ },
+ {
+  "id": "CP3|eagle_air_med|base|2",
+  "label": "SUPPORTED",
+  "reason": "Closer equipped facility limits payment to nearer hospital distance."
+ },
+ {
+  "id": "CP3|12-1251|elig|0",
+  "label": "PARTLY",
+  "reason": "\"Presumptively\" not in policy; chest pain fact only."
+ },
+ {
+  "id": "CP3|nj_dept_humanservices5|elig|0",
+  "label": "PARTLY",
+  "reason": "Progress shown; policy quote truncated, claim goes beyond it."
+ },
+ {
+  "id": "CP3|case_landmark|base|1",
+  "label": "SUPPORTED",
+  "reason": "Coumadin dose changes show observation resulting in treatment changes."
+ },
+ {
+  "id": "CP3|sacredheart_hospital|elig|1",
+  "label": "PARTLY",
+  "reason": "Fact only says hospitalized; reasons not in quoted text."
+ },
+ {
+  "id": "CP3|m-11-2450|doc|0",
+  "label": "SUPPORTED",
+  "reason": "Physician-staffed urgent care matches physician-directed clinic exclusion."
+ },
+ {
+  "id": "CP3|gold_cross_ambulance|base|2",
+  "label": "PARTLY",
+  "reason": "Pacemaker history quoted; absence of emergency situation not shown."
+ },
+ {
+  "id": "CP3|sacredheart_hospital|nec|0",
+  "label": "SUPPORTED",
+  "reason": "Fact cites surgical extent; passages concern non-covered services."
+ },
+ {
+  "id": "CP3|m_12_809|base|0",
+  "label": "PARTLY",
+  "reason": "Admission shown; two-midnight span not in fact."
+ },
+ {
+  "id": "CP3|rx_homecare|base|1",
+  "label": "PARTLY",
+  "reason": "Fact shows oversight of aides; \"not needed to assess\" inferred."
+ },
+ {
+  "id": "CP3|m-11-1559|base|1",
+  "label": "SUPPORTED",
+  "reason": "Overnight observation matches outpatient or limited service orders."
+ }
+]

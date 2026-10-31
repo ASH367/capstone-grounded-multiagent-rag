@@ -1,0 +1,30 @@
+{
+ "case_id": "pmc_6257738_1",
+ "domain": "inpatient_rehab",
+ "service_at_issue": "Transfer to an inpatient rehabilitation facility after a hospital stay (published case report; hypothetical Medicare review)",
+ "facts": [
+  "A 73-year-old Caucasian male with a biopsy-proven diagnosis of stage IV poorly differentiated adenocarcinoma of the lung, epidermal growth factor receptor mutation negative, anaplastic lymphoma kinase translocation negative, and PD-L1 tumor proportion score of 20% was started on carboplatin, pemetrexed, and pembrolizumab.",
+  "The patient was receiving the chemotherapy regimen every three weeks and prior to initiating cycle two, he developed generalized weakness.",
+  "On presentation, he expressed subjective progressive weakness of the lower extremities (LEs) greater than the upper extremities (UEs).",
+  "The physical exam was significant for 3/5 motor strength and absent deep tendon reflexes in the bilateral upper extremities (UEs) and LEs.",
+  "Given the clinical presentation, an irAE secondary to an IO agent was suspected, with a differential diagnosis that included Guillain-Barr\u00e9 syndrome (GBS) versus myasthenia gravis-like syndrome.",
+  "Lumbar puncture revealed albuminocytological dissociation in the cerebrospinal fluid (CSF) of 68 g/L, which further supported AIDP.",
+  "The paraneoplastic panel was negative.",
+  "Infectious workup, including CSF cultures, cytogenetic studies, polymerase chain reaction (PCR) for herpes simplex virus, cytomegalovirus, and serum venereal disease research laboratory (VDRL) was also negative.",
+  "Methylprednisolone, along with intravenous immunoglobulin (IVIG), were initiated.",
+  "Despite five infusions of IVIG, the patient\u2019s strength diminished to 2/5 in the bilateral UEs and LEs.",
+  "IVIG treatments were stopped and plasmapheresis was initiated.",
+  "On Day 8 of hospitalization, the patient was transferred to the intensive care unit (ICU) for worsening respiratory status, as indicated by the measured lowest negative inspiratory force (NIF) of -20 cm H2O and forced vital capacity (FVC) of 1.1 L.",
+  "Fortunately, the patient\u2019s respiratory status improved with plasmapheresis and high-dose corticosteroid treatments and he never required mechanical ventilation.",
+  "The patient received a total of eight sessions of plasmapheresis with a gradual recovery of his motor function.",
+  "At Day 25 of hospitalization, the patient\u2019s strength in his right UE was 5/5, left UE 3/5, and bilateral LEs 3/5.",
+  "He was discharged to an acute rehabilitation facility on low-dose prednisone with instructions to follow up in the outpatient department.",
+  "Unfortunately, the patient was re-admitted one month after discharge with another irAE and was subsequently placed in hospice care."
+ ],
+ "reference_outcome": "unknown",
+ "outcome_note": "",
+ "cited_sections": [],
+ "other_cites": [],
+ "scope": "included",
+ "source": "PMC-Patients (CC BY-NC-SA 4.0), PMID 30510881"
+}

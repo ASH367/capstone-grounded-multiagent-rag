@@ -1,0 +1,26 @@
+{
+ "case_id": "gr",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "Skilled nursing home health services (daily injections) for a beneficiary in an assisted living facility, Feb-Dec 2004",
+ "facts": [
+  "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility, by the Visiting Nurses Association of Chittenden and Grand Isle Counties, Inc., from February 29, 2004, through April 28, 2004, and August 27, 2004, through December 24, 2004.",
+  "During the periods of service at issue, the beneficiary was a 51 year-old male, who resided in an assisted living facility, had a primary diagnosis of cerebrovascular accident complications, and relied on a power wheelchair for mobility. Due to his functional limitations, the beneficiary was unable to reposition himself independently and was fully dependent on assistance for all activities of daily living, including bathing and dressing.",
+  "On February 6, 2007, with the consent and participation of counsel for the appellant, the ALJ held one hearing on five appeals involving the same beneficiary and provider, but each with different dates of service. The provider was given notice of the hearing but did not respond or participate."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council reversed the ALJ and held the services covered because, giving great weight to prior favorable homebound decisions and with no change in his condition, the beneficiary remained confined to the home.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30.1"
+  }
+ ],
+ "other_cites": [
+  "MPIM (CMS Pub. 100-08) ch.6 sec.6.2.1",
+  "42 CFR 405.1062(a)"
+ ],
+ "scope": "included",
+ "key_quality": "has_mbpm_key",
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

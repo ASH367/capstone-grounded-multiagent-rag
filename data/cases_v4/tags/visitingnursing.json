@@ -1,0 +1,661 @@
+{
+"case_id": "visitingnursing",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated June 1, 2009, concerning Medicare coverage for physical therapy services provided by the appellant home health agency to the beneficiary on November 21, 2007, through January 2, 2008.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined Medicare did not cover the services at issue and held the appellant liable for the non-covered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council (Council) to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "As a preliminary matter, the appellant submitted additional documentation with its July 13, 2009, request for review.",
+"tag": "PARTY",
+"reason": "appellant submitted"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "By letter dated October 6, 2009, the appellant clarified that it had not submitted new evidence with its appeal and that the documents submitted to the Council had already been submitted earlier in the appeals process.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 2,
+"section": "INTRO",
+"text": "Thus, the Council finds that there is no good cause to admit this documentation and excludes the documents submitted with the appellant\u2019s request for review as duplicative of evidence already contained in the record, pursuant to 42 C.F.R. \u00a7 405.1122(c).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 3,
+"section": "INTRO",
+"text": "We enter the remaining portions of the appellant\u2019s request for review into the record as exhibit (exh.)",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 2,
+"si": 4,
+"section": "INTRO",
+"text": "MAC-1, the Council\u2019s October 1, 2009, letter as exhibit MAC-2, and the appellant\u2019s October 6, 2009, letter as exhibit MAC-3.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "INTRO",
+"text": "As explained more fully below, the Council reverses the ALJ\u2019s decision and grants coverage for the physical therapy services at issue because they were medically reasonable and necessary for the beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary, an 85 year old female, was admitted to home health care on November 21, 2007, with diagnoses of degenerative joint disease of the right shoulder and arthritis of the lower extremities. Exh. 2 at 6.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "Her medical history also includes hypothyroidism, hypertension, high cholesterol, and a mastectomy due to breast cancer. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "FACTS",
+"text": "The beneficiary\u2019s physician ordered physical therapy once a week for one week, and twice a week for five weeks, to increase the beneficiary\u2019s range of motion, manage pain, provide gait training, and evaluate and treat the beneficiary\u2019s condition. Exhs. 2 at 6, 3 at 57.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 5,
+"si": 3,
+"section": "FACTS",
+"text": "The appellant home health agency furnished the beneficiary with 11 physical therapy visits from November 21, 2007, through January 2, 2008, and seeks Medicare coverage for these services. Exh. 1.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "Initially, and on redetermination, the Medicare contractor denied coverage for this claim on the basis that the documentation did not support that the services were medically necessary. Exh. 4.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "On appeal, the Qualified Independent Contractor (QIC) also denied coverage for the services at issue. Exh. 5.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "FACTS",
+"text": "The QIC reasoned, \u201c[w]hile the physical therapy evaluation supports a decline in function to warrant skilled intervention, the Outcome and Assessment Information Set (OASIS) does not.\u201d Id. at 84.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "After conducting a hearing with the appellant\u2019s representative on May 13, 2009, the ALJ issued a decision denying coverage for the services at issue. Dec. at 1, 8.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ determined that the \u201cOASIS did not support a significant functional impairment to warrant therapy, as her prior and current levels of function were the same.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 2,
+"section": "FACTS",
+"text": "The Beneficiary did not demonstrate any significant improvement and for that reason, the services are not covered by Medicare.\u201d Id. at 8",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "FACTS",
+"text": "Before the Council, the appellant asserts that the ALJ repeated the QIC\u2019s error by relying on the OASIS form to deny coverage, because the form\u2019s \u201cprior functional level\u201d was designed to compare national outcomes, not to measure decline in function.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "FACTS",
+"text": "Request for Review.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "FACTS",
+"text": "The appellant asserts that Medicare should cover the services at issue because the therapy documentation is a better source to judge the presence of a significant functional decline. Id.",
+"tag": "PARTY",
+"reason": "appellant asserts"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "MIXED",
+"text": "In order for a beneficiary to qualify for Medicare coverage of home health services, he or she must be confined to the home, under the care of a physician, in need of skilled services, under a plan of care, and the services must be provided by a participating home health agency.",
+"tag": "LAW",
+"reason": "law statement: In order for"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.42.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "MIXED",
+"text": "The Centers for Medicare and Medicaid Services (CMS) provides the following guidance on interpreting the requirement that a beneficiary be \u201cconfined to the home\u201d in its Medicare Benefit Policy Manual (MBPM):",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "MIXED",
+"text": "An individual does not have to be bedridden to be considered confined to the home.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 13,
+"si": 1,
+"section": "MIXED",
+"text": "However, the condition of these patients should be such that there exists a normal inability to leave home and, consequently, leaving home would require a considerable and taxing effort.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "MIXED",
+"text": "Generally speaking, a patient will be considered to be homebound if they have a condition due to an illness or injury that restricts their ability to leave their place of residence except with the aid of: supportive devices such as crutches, canes, wheelchairs, and walkers; the use of special transportation; or the assistance of another person; or if leaving home is medically contraindicated.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "MIXED",
+"text": "MBPM, CMS Pub. 100-02, Ch. 7 at \u00a7 30.1.1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "MIXED",
+"text": "In this case, the record reflects that the beneficiary resided in an independent living facility which provided assistance with grocery shopping, meal preparation, yard and house work. Exh. 2 at 4.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 17,
+"si": 1,
+"section": "MIXED",
+"text": "Previously, the beneficiary \u201cwas independent throughout the facility with just a cane.\u201d Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 17,
+"si": 2,
+"section": "MIXED",
+"text": "However, at the time the physical therapy began, the beneficiary ambulated with a rolling walker for longer, out-of-room distances such as to and from meals. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 17,
+"si": 3,
+"section": "MIXED",
+"text": "There is nothing in the record to suggest that the beneficiary was other than confined to her home.",
+"tag": "GAP",
+"reason": "nothing in the record"
+},
+{
+"pi": 17,
+"si": 4,
+"section": "MIXED",
+"text": "Thus, the Council finds, based on the beneficiary\u2019s reliance on supportive devices, that she was homebound because leaving home would require a considerable and taxing effort.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "MIXED",
+"text": "Further, the \u201cHome Health Certification and Plan of Care,\u201d signed and dated by the beneficiary\u2019s physician, indicates that the beneficiary was indeed \u201cunder the care of a physician,\u201d and \u201cunder a plan of care\u201d as required by 42 C.F.R. \u00a7 409.42. Id. at 6.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 18,
+"si": 1,
+"section": "MIXED",
+"text": "The document also reflects that the services were provided by the appellant, a participating home health agency. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 18,
+"si": 2,
+"section": "MIXED",
+"text": "Satisfaction of the above coverage criteria have not been raised as an issue at any point in the administrative appeals process.",
+"tag": "EVAL",
+"reason": "coverage criteria"
+},
+{
+"pi": 18,
+"si": 3,
+"section": "MIXED",
+"text": "Therefore, we conclude that they have been satisfied.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 18,
+"si": 4,
+"section": "MIXED",
+"text": "The sole issue remaining is whether the beneficiary needed skilled services.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "In addition to the criteria discussed above, a beneficiary must need \u201cskilled services\u201d in the form of intermittent skilled nursing services, physical therapy services, speech-language pathology services, or occupational therapy services to qualify for Medicare coverage.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 20,
+"si": 1,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.42(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "MIXED",
+"text": "At the outset, we wish to clarify that the skilled services at issue are skilled therapy services.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 21,
+"si": 1,
+"section": "MIXED",
+"text": "The ALJ\u2019s decision mistakenly referred to the beneficiary\u2019s need for skilled nursing services. Dec. at 8 (\u201cThe medical records in this case do not support that the Beneficiary required skilled nursing services.\u201d).",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "MIXED",
+"text": "As relevant here, the physical therapy services provided must meet the criteria set forth in 42 C.F.R. \u00a7 409.44(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 22,
+"si": 1,
+"section": "MIXED",
+"text": "To be considered reasonable and necessary, the physical therapy services must be:",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "MIXED",
+"text": "1) considered under accepted standards of medical practice to be a specific, safe, and effective treatment for the beneficiary\u2019s condition;",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "MIXED",
+"text": "2) of such a level of complexity and sophistication or the condition of the beneficiary must be such that the services required can safely and effectively be performed by a qualified physical therapist;",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "MIXED",
+"text": "3) done with an expectation that the beneficiary\u2019s condition will improve materially in a reasonable (and generally predictable) period of time; and",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "MIXED",
+"text": "4) of a reasonable amount, frequency, and duration.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "MIXED",
+"text": "42 C.F.R. \u00a7 409.44(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "MIXED",
+"text": "Before the Council, the appellant asserts that the OASIS B functional items, relied upon by the QIC and the ALJ, \u201care not sensitive enough to differentiate between using a rolling walker and a standard cane, although this represents a significant functional decline (in fact in the revised OASIS C assessment due out in January of 2010, the functional items have been changed to reflect a difference between rolling walker and a standard cane).\u201d Exh. MAC-1.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 28,
+"si": 1,
+"section": "MIXED",
+"text": "We agree.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "MIXED",
+"text": "The OASIS is an \u201cinstrument/data collection tool used to collect and report performance data by home health agencies. . . .",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 29,
+"si": 1,
+"section": "MIXED",
+"text": "Since fall 2003, CMS has posted on www.medicare.gov a subset of OASIS- based quality performance information showing how well home health agencies assist their patients in regaining or maintaining their ability to function.\u201d",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 29,
+"si": 2,
+"section": "MIXED",
+"text": "CMS Medicare Home Health Quality Initiatives, available at http://www.cms.hhs.gov/ HomeHealthQualityInits/ (last visited Nov. 18, 2009).",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 29,
+"si": 3,
+"section": "MIXED",
+"text": "Thus the main purpose of the OASIS is to report and compare national outcomes, not to measure decline in function.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 29,
+"si": 4,
+"section": "MIXED",
+"text": "Although an OASIS may inform a coverage determination, it should not form the exclusive basis for the determination.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 29,
+"si": 5,
+"section": "MIXED",
+"text": "\u201cA coverage denial is not made solely on the basis of the reviewer\u2019s general inferences about patients with similar diagnoses or on data related to utilization generally but is based upon objective clinical evidence regarding the beneficiary\u2019s individual need for care.\u201d 42 C.F.R. \u00a7 409.44(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 29,
+"si": 6,
+"section": "MIXED",
+"text": "Thus, in this instance, we find that the ALJ erred in basing his coverage determination on the beneficiary\u2019s OASIS scores.1",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 30,
+"si": 0,
+"section": "MIXED",
+"text": "After considering the evidence, the Council finds the physical therapy services at issue were reasonable and necessary pursuant to section 1862(a) of the Social Security Act (Act), and therefore are covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 30,
+"si": 1,
+"section": "MIXED",
+"text": "The record, taken as whole, supports the conclusion that the beneficiary experienced a decline in function for which the physical therapy services provided were reasonable and necessary.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 31,
+"si": 0,
+"section": "MIXED",
+"text": "Specifically, the \u201cHome Health Certification and Plan of Care\u201d reflects that the beneficiary experienced an exacerbation of arthritis that left her ambulating with a rolling walker as opposed to her prior status of ambulating with a cane. Exh. 2.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 31,
+"si": 1,
+"section": "MIXED",
+"text": "The beneficiary\u2019s receipt of a cortisone injection in her right shoulder the week prior to starting therapy further supports the premise that the beneficiary had experienced an exacerbation of her chronic condition. Id.",
+"tag": "EVAL",
+"reason": "supports the"
+},
+{
+"pi": 32,
+"si": 0,
+"section": "MIXED",
+"text": "Further, the beneficiary\u2019s Tinetti Gait and Balance Assessment scores revealed significant improvement. Exh. 3 at 53.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 32,
+"si": 1,
+"section": "MIXED",
+"text": "Upon initial evaluation, the beneficiary\u2019s score was 7/28, which indicates that she had a risk of severe falls. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 32,
+"si": 2,
+"section": "MIXED",
+"text": "Upon discharge, this score had improved to 18/28, signifying a moderate fall risk. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 33,
+"si": 0,
+"section": "MIXED",
+"text": "CMS has provided additional coverage guidance in the MBPM:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 34,
+"si": 0,
+"section": "MIXED",
+"text": "Gait evaluation and training furnished a patient whose ability to walk has been impaired by neurological, muscular or skeletal abnormality require the skills of a qualified physical therapist and constitute skilled physical therapy and are considered reasonable and necessary if they can be expected to improve materially the patient\u2019s ability to walk.",
+"tag": "LAW",
+"reason": "law statement: are considered"
+},
+{
+"pi": 35,
+"si": 0,
+"section": "MIXED",
+"text": "CMS Pub. 100-02, MBPM, Ch. 7 at \u00a7 40.2.2.C. In this case, the beneficiary\u2019s ability to walk was impaired by arthritis.",
+"tag": "LAW",
+"reason": "CMS Pub"
+},
+{
+"pi": 35,
+"si": 1,
+"section": "MIXED",
+"text": "The physical therapy visit notes reflect that skilled gait training occurred during each visit. Exh. 3 at 10-52.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 35,
+"si": 2,
+"section": "MIXED",
+"text": "Thus, the Council finds that the therapy could reasonably have been expected to improve materially the beneficiary\u2019s ability to ambulate and satisfies the coverage criteria set forth in 42 C.F.R. \u00a7",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 36,
+"si": 0,
+"section": "MIXED",
+"text": "evaluation in home health agencies.",
+"tag": "FRAGMENT",
+"reason": "starts lowercase (page-break artifact)"
+},
+{
+"pi": 36,
+"si": 1,
+"section": "MIXED",
+"text": "The final rule also stated that the OASIS, while helpful for patient assessment, is not a care planning tool and was not designed to be a comprehensive patient assessment.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 36,
+"si": 2,
+"section": "MIXED",
+"text": "Fed. Reg. 3764, 3772 (January 25, 1999).",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 37,
+"si": 0,
+"section": "MIXED",
+"text": "409.44(c).",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 37,
+"si": 1,
+"section": "MIXED",
+"text": "While the beneficiary\u2019s goals and improvements during this episode of care were somewhat modest, the physical therapy services were of a reasonable amount, frequency, and duration to enable her to regain range of motion and manage pain, and remain in her independent living community.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 39,
+"si": 0,
+"section": "TERMINAL",
+"text": "It is the decision of the Medicare Appeals Council that the physical therapy services furnished to the beneficiary on November 21, 2007, through January 2, 2008, were reasonable and necessary, and thus, covered by Medicare.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 39,
+"si": 1,
+"section": "TERMINAL",
+"text": "Accordingly, the hearing decision is reversed.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

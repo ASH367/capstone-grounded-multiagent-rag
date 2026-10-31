@@ -1,0 +1,48 @@
+{
+ "case_id": "m-11-1967",
+ "domain": "snf",
+ "docket": "M-11-1967",
+ "service_at_issue": "SNF skilled nursing (observation and assessment, care plan management) March 5-8, 2010",
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council reversed the ALJ and found coverage for March 5-8, 2010 because the beneficiary required and received daily skilled observation and assessment and care plan management for ongoing hematuria.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.8",
+   "section": "30.2.3.2"
+  },
+  {
+   "doc": "MBPM ch.8",
+   "section": "30.2.3.1"
+  }
+ ],
+ "other_cites": [
+  "SSA 1862(a)(1)(A)",
+  "SSA 1879",
+  "42 CFR 409.31",
+  "42 CFR 409.32(a)",
+  "42 CFR 409.33(a)(1)",
+  "42 CFR 409.33(a)(2)"
+ ],
+ "facts": [
+  "The records reflect the beneficiary\u2019s hospitalization from February 12 to February 17, 2010, for \u201cworsening gross hematuria.\u201d At the hospital, the beneficiary underwent a cystoscopy and transurethral resection of the prostate (which had a nodular growth that had reoccurred despite two prior transurethral resections), and received three transfusions. Id. at 4. The hospital records further indicate, \u201cBecause of his severe hematuria and resulting anemia with an initial hematocrit of 29.1 which subsequently fell to hematocrit 23.1 immediately postoperatively, urological intervention was required.\u201d Id.",
+  "After the resection, the beneficiary had bloody urine for three days which \u201cgradually quieted,\u201d and, on the date of discharge from the hospital, the urine was described as \u201cdark tea color.\u201d Id. At the time of discharge from the hospital on February 17 (for admission to the SNF) the beneficiary was diagnosed with hematuria secondary to prostate enlargement, recent deep vein thrombosis, chronic renal failure, Parkinson\u2019s disease, obstructive sleep apnea, and a history of squamous cell carcinoma. Id. at 3.",
+  "As of March 2, 2010, a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void, and to check the Foley catheter. Exh. 4 at 10. The nurses\u2019 notes leading up to March 5, 2010 indicate, among other things, drainage of bloody urine from the Foley catheter. The beneficiary was placed on Ensure five times daily because he was noted to have had a poor appetite.",
+  "The beneficiary required and received daily skilled nursing services in the form of skilled observation and assessment and the management of the beneficiary\u2019s care plan. In fact, the hospital records for the period immediately prior to admission to the SNF indicate a doctor\u2019s option that, \u201cIt is anticipated \u2026 that there will be some intermittent hematuria.\u201d Id. at 4. Further, at the SNF, on March 2, 2010, a doctor determined that the beneficiary required skilled nursing for one week to monitor him for various signs and symptoms, including those associated with hematuria. See id. at 10.",
+  "Every day during the three-day period of non-coverage, from March 5 to 8, 2010, the nurses closely monitored the beneficiary daily for possibly abnormal urine changes (e.g., \u201cdark orange\u201d noted one day), and abnormal laboratory results were noted daily. The nurses also closely monitored the beneficiary daily for other indicators of overall decline in condition (e.g., poor appetite) leading up to the re-hospitalization on March 8, 2010, and notified the physician of the \u201cabnormal\u201d laboratory results. See id. at 19, 20, 21."
+ ],
+ "arm": "B_gaps",
+ "set": "held",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 424,
+ "evidence_words_D": 561,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "parent": "m-11-1967",
+ "status": "MAIN"
+}

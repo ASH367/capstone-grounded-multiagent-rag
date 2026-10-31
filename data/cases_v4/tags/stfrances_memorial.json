@@ -1,0 +1,1333 @@
+{
+"case_id": "stfrances_memorial",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "On August 8, 2008, the Administrative Law Judge (ALJ) issued five hearing decisions concerning overpayment determinations on five beneficiary claims based on inpatient rehabilitation facility (IRF) services provided by the appellant between March 2003 and May 2004.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ found that the IRF services were not medically reasonable and necessary for any beneficiary and, therefore, not covered under Medicare Part B; upheld each overpayment determination; and concluded that the recovery of the overpayments may not be waived.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant seeks Medicare Appeals Council review of the ALJ\u2019s decisions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council modifies the ALJ\u2019s decisions as set forth below.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "FACTS",
+"text": "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004. See Appendix A. The claims were initially paid between April 2003 and June 2004.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 4,
+"si": 1,
+"section": "FACTS",
+"text": "Between October 2006 and April 2007, PRG Schultz, the Recovery Audit Contractor (RAC), informed the appellant that the claims had been selected for complex post- payment review.",
+"tag": "PRIOR_DENIAL",
+"reason": "RAC"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "FACTS",
+"text": "By five notices issued in February 2007 (H.F.; E.M.; N.R.), in May 2007 (L.S.), and in June 2007 (S.L.), the appellant was informed that overpayments were found based on a determination that the documents submitted to support the claims and in response to the RAC\u2019s request for such documents did not support the beneficiaries\u2019 need for IRF services, and that the appellant was responsible for reimbursement of the overpayments.",
+"tag": "PRIOR_DENIAL",
+"reason": "RAC"
+},
+{
+"pi": 4,
+"si": 3,
+"section": "FACTS",
+"text": "The fiscal intermediary issued unfavorable redeterminations, and the Qualified Independent Contractor upheld the denials on reconsideration.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 4,
+"si": 4,
+"section": "FACTS",
+"text": "The appellant then sought ALJ review.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "The ALJ held a telephonic hearing in July 2008, for all of the claims.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "Dr. K.F., appellant\u2019s Medical Director, testified.",
+"tag": "PARTY",
+"reason": "appellant\u2019s Medical Director, testified"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "FACTS",
+"text": "On August 8, 2008, the ALJ issued five hearing decisions.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 5,
+"si": 3,
+"section": "FACTS",
+"text": "In each decision, the ALJ identified the issues before her as follows:",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "Are the reopened initial determinations time-barred and, if not, were Medicare coverage criteria met for the IRF services at issue[?]",
+"tag": "EVAL",
+"reason": "coverage criteria"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "If the reopenings are not time-barred and if Medicare coverage criteria are not met, should reimbursement be made under \u00a7 1879 of the [Social Security] Act and, if not, who, if anyone, is responsible for the non-covered charges?",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "FACTS",
+"text": "See, e.g., Dec. (H.F.)2 at 2.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "FACTS",
+"text": "In each decision, the ALJ found that:",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "FACTS",
+"text": "(1) \u201ccircumstances of \u2018similar fault\u2019\u201d have been identified because the appellant \u201cis both deemed and considered to have known that the IRF services at issue were not covered by Medicare and could have been expected to know that the claims would likely be denied by Medicare\u201d; and",
+"tag": "EVAL",
+"reason": "not covered"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "FACTS",
+"text": "(2) there is good cause as defined in 42 C.F.R. \u00a7 405.986 to reopen the claims at issue within four years from the date of initial determination.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "FACTS",
+"text": "Dec. at 17.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ then considered the merits of the claims based on a review of the evidence specific to each beneficiary, and determined, as to each, that the evidence did not support the need for care in an IRF setting, but rather, the beneficiaries could have been administered therapy in a less intensive setting, such as in a SNF.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 12,
+"si": 2,
+"section": "FACTS",
+"text": "She concluded, therefore, that the IRF services provided to the beneficiaries did not meet Medicare coverage criteria for medical reasonableness and necessity. Dec. at 18-19.",
+"tag": "LAW",
+"reason": "law statement: criteria for"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "FACTS",
+"text": "The ALJ then addressed the issue of liability and waiver of recovery of overpayments.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 13,
+"si": 1,
+"section": "FACTS",
+"text": "As to each beneficiary, the ALJ found no evidence of a written advance beneficiary notice of noncoverage.",
+"tag": "PROC",
+"reason": "notice of"
+},
+{
+"pi": 13,
+"si": 2,
+"section": "FACTS",
+"text": "The ALJ stated that the appellant is deemed to have known that the IRF services would not be covered and concluded that reimbursement is impermissible under section 1879 of the Act.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 13,
+"si": 3,
+"section": "FACTS",
+"text": "Finally, she concluded that the appellant is not without fault for creating the overpayments and, therefore, the overpayments cannot be waived under section 1870 of the Act. Dec. at 19.",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant, by counsel, timely sought Council review (the request for review is admitted as Exh. MAC-1) of all five ALJ decisions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "FACTS",
+"text": "Subsequently, the appellant\u2019s counsel filed five briefs, each one specific to a beneficiary, in support of the request for review.",
+"tag": "PROC",
+"reason": "request for review"
+},
+{
+"pi": 14,
+"si": 2,
+"section": "FACTS",
+"text": "The briefs are admitted into the record as Exhs. MAC-2 (H.F.), MAC-3 (S.L.), MAC-4 (E.M.), MAC-5 (N.R.), and MAC-6 (L.S.).",
+"tag": "PROC",
+"reason": "MAC-3"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "FACTS",
+"text": "In Exhs. MAC-1 through MAC-6, the appellant sets forth various grounds for asserting ALJ error, as summarized below.",
+"tag": "PROC",
+"reason": "MAC-6"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "FACTS",
+"text": "(1) The ALJ erred in finding that good cause existed to reopen the claims based on \u201csimilar fault\u201d on the appellant\u2019s part in creating the overpayments;",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "FACTS",
+"text": "(2) medical reasonableness and necessity is shown as to each of the five beneficiaries, but, even if the claims are not deemed covered because medical reasonableness and necessity is not shown, the appellant is still entitled to payment pursuant to the waiver of liability provisions of section 1879 of the Act;",
+"tag": "PROC",
+"reason": "waiver"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "FACTS",
+"text": "(3) the ALJ erred by not applying special rules applicable to overpayments discovered after the third year after the initial determinations (that is, the appellant should be deemed without fault in creating the overpayments without evidence to the contrary, of which there is none);",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "FACTS",
+"text": "(4) inasmuch as the appellant was without fault in creating the overpayments, there is no basis to recover any asserted overpayment; and",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "FACTS",
+"text": "(5) the appellant\u2019s due process rights were violated by the RAC\u2019s pecuniary interest in the outcome of the appeal.",
+"tag": "PRIOR_DENIAL",
+"reason": "RAC"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "FACTS",
+"text": "The Council addresses the appellant\u2019s contentions and grounds for finding ALJ error in detail below, under the section headed \u201cDiscussion.\u201d",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 21,
+"si": 1,
+"section": "FACTS",
+"text": "For the reasons and bases set forth therein, the Council modifies the ALJ\u2019s five decisions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 405.980 provides a stratified structure for reopening.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 24,
+"si": 1,
+"section": "LAW",
+"text": "A CMS contractor may reopen an initial determination or redetermination.",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 24,
+"si": 2,
+"section": "LAW",
+"text": "C.F.R. \u00a7 405.980(a)(1)(i).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 24,
+"si": 3,
+"section": "LAW",
+"text": "An ALJ\u2019s or the Council\u2019s authority to reopen is limited, respectively, to a revision of ALJ hearing decisions and hearing and Council decisions (by the Council).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 24,
+"si": 4,
+"section": "LAW",
+"text": "C.F.R. \u00a7\u00a7 405.980(a)(1)(ii) and (iii).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 24,
+"si": 5,
+"section": "LAW",
+"text": "Notably, neither the ALJ, nor the Council, has any authority to reopen or revise an initial determination or redetermination.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 405.926 sets forth actions that are not initial determinations and not appealable.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 25,
+"si": 1,
+"section": "LAW",
+"text": "Included among them is a \u201ccontractor\u2019s . . . decision to reopen or not reopen an initial determination.\u201d 42 C.F.R. \u00a7 405.926(l).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 25,
+"si": 2,
+"section": "LAW",
+"text": "This lack of jurisdiction extends to whether the contractor met good cause standards for reopening in 42 C.F.R. \u00a7 405.980(b)(2).",
+"tag": "PROC",
+"reason": "jurisdiction"
+},
+{
+"pi": 25,
+"si": 3,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 405.980(a)(5) further states that \u201c[t]he contractor\u2019s, QIC\u2019s, ALJ\u2019s, or MAC\u2019s decision on whether to reopen is final and not subject to appeal.\u201d",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 405.980(b) establishes the time frame for reopening initial determinations and redeterminations initiated by a contractor.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 26,
+"si": 1,
+"section": "LAW",
+"text": "Section 405.980 provides, in part:",
+"tag": "LAW",
+"reason": "Section 4"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "LAW",
+"text": "A contractor may reopen and revise its initial determination or redetermination on its own motion - -",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "LAW",
+"text": "(1) Within 1 year from the date of the initial determination or redetermination for any reason.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "LAW",
+"text": "(2) Within 4 years from the date of the initial determination or redetermination for good cause as defined in \u00a7 405.986.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 30,
+"si": 0,
+"section": "LAW",
+"text": "(3) At any time if there exists reliable evidence as defined in \u00a7 405.902 that the initial determination was procured by fraud or similar fault as defined in \u00a7 405.902.3",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 31,
+"si": 0,
+"section": "LAW",
+"text": "The regulation addressing good cause for reopening, 42 C.F.R. \u00a7 405.986, provides, in part:",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 32,
+"si": 0,
+"section": "LAW",
+"text": "(a) Good cause may be established when \u2013",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 33,
+"si": 0,
+"section": "LAW",
+"text": "(1) There is new and material evidence that \u2013",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 34,
+"si": 0,
+"section": "LAW",
+"text": "(i) Was not available or known at the time of the determination or decision; and",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 35,
+"si": 0,
+"section": "LAW",
+"text": "(ii) May result in a different conclusion; or",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 36,
+"si": 0,
+"section": "LAW",
+"text": "(2) The evidence that was considered in making the determination or decision clearly shows on its face that an obvious error was made at the time of the determination or decision. . . .",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 37,
+"si": 0,
+"section": "LAW",
+"text": "When conducting a post-payment review of claims, contractors must adhere to reopening rules.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 37,
+"si": 1,
+"section": "LAW",
+"text": "Medicare Program Integrity Manual (MPIM), CMS Pub. 100-08, Ch. 3, \u00a7 3.6.B. However, neither the ALJ, nor the Council, has jurisdiction to review that aspect of the contractor\u2019s action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 37,
+"si": 2,
+"section": "LAW",
+"text": "A contractor\u2019s decision on whether to reopen is final and not subject to appeal.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 37,
+"si": 3,
+"section": "LAW",
+"text": "C.F.R. \u00a7\u00a7 405.926(l); 405.980(a)(5).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 37,
+"si": 4,
+"section": "LAW",
+"text": "This restriction extends to whether or not the contractor met the good cause standards for reopening set forth in 42 C.F.R. \u00a7 405.980(b)(2).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 37,
+"si": 5,
+"section": "LAW",
+"text": "CMS has expressly stated that the enforcement mechanism for good cause standards lies within its evaluation and monitoring of contractor performance, not the administrative appeals process.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 37,
+"si": 6,
+"section": "LAW",
+"text": "Interim Final Rule with Comment Period, 70 Fed. Reg. 11,420, 11,453 (Mar. 8, 2005).",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 39,
+"si": 0,
+"section": "LAW",
+"text": "Medicare is a defined-benefit program.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 39,
+"si": 1,
+"section": "LAW",
+"text": "Items and services within a benefit category are covered under statutory and administrative authority.",
+"tag": "LAW",
+"reason": "statutory"
+},
+{
+"pi": 39,
+"si": 2,
+"section": "LAW",
+"text": "Nonetheless, an item or service may meet Medicare coverage criteria, yet still be excluded from coverage as not reasonable and necessary, or as constituting custodial care.",
+"tag": "EVAL",
+"reason": "coverage criteria"
+},
+{
+"pi": 39,
+"si": 3,
+"section": "LAW",
+"text": "Act, sections 1862(a)(1)(A), 1862(a)(9).",
+"tag": "LAW",
+"reason": "sections 1"
+},
+{
+"pi": 39,
+"si": 4,
+"section": "LAW",
+"text": "In that event, section 1879 of the Act may limit the liability of a beneficiary or provider for non-covered items or services based upon whether or not they had prior knowledge of non-coverage.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 39,
+"si": 5,
+"section": "LAW",
+"text": "Act, section 1879(a); 42 C.F.R. \u00a7\u00a7 411.400(a), 411.404, 411.406.",
+"tag": "LAW",
+"reason": "section 1"
+},
+{
+"pi": 39,
+"si": 6,
+"section": "LAW",
+"text": "The limitation on liability provisions of section 1879 apply only to denials where the items or services are determined to be not medically reasonable and necessary.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 40,
+"si": 0,
+"section": "LAW",
+"text": "Section 1870 of the Act governs recovery of overpayments, based upon provider or beneficiary fault.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 40,
+"si": 1,
+"section": "LAW",
+"text": "Section 1870(b) of the Act provides for waiver of recovery of an overpayment to a provider or supplier whenever it is without fault in incurring the overpayment.",
+"tag": "PROC",
+"reason": "waiver"
+},
+{
+"pi": 40,
+"si": 2,
+"section": "LAW",
+"text": "It provides, inter alia, that \u2013",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 41,
+"si": 0,
+"section": "LAW",
+"text": "(b) where \u2013",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 42,
+"si": 0,
+"section": "LAW",
+"text": "(1) more than the correct amount is paid under this title to a provider of services . . . and the Secretary determines (A) that, within such period as he may specify, the excess over the correct amount cannot be recouped from such provider of services . . . , or (B) that such provider of services . . . was without fault with respect to the payment of such excess over the correct amount . . .",
+"tag": "PROC",
+"reason": "recouped"
+},
+{
+"pi": 43,
+"si": 0,
+"section": "LAW",
+"text": "proper adjustments shall be made, under regulations prescribed . . . by the Secretary . . . .",
+"tag": "FRAGMENT",
+"reason": "starts lowercase (page-break artifact)"
+},
+{
+"pi": 44,
+"si": 0,
+"section": "LAW",
+"text": "Act, \u00a7 1870(b).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 45,
+"si": 0,
+"section": "LAW",
+"text": "The Medicare Financial Management Manual (MFMM), CMS Pub. 100- 06, provides that a supplier is without fault under the following circumstances:",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 46,
+"si": 0,
+"section": "LAW",
+"text": "The FI [fiscal intermediary] or carrier considers a provider without fault, if it exercised reasonable care in billing for, and accepting, the payment; i.e., \u2022 It made full disclosure of all material facts; and \u2022 On the basis of the information available to it, including, but not limited to, the Medicare instructions and regulations, it had a reasonable basis for assuming that the payment was correct, or, if it had reason to question the payment; it promptly brought the question to the FI or carrier\u2019s attention.",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 47,
+"si": 0,
+"section": "LAW",
+"text": "MFMM, Ch. 3, \u00a7 90.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 47,
+"si": 1,
+"section": "LAW",
+"text": "Further, absent evidence to the contrary, a provider is deemed without fault for an overpayment discovered after the third calendar year following the year of payment.",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 47,
+"si": 2,
+"section": "LAW",
+"text": "MFMM, CMS Pub. 100-06, Ch. 3, \u00a7 70.3.A.",
+"tag": "LAW",
+"reason": "CMS Pub"
+},
+{
+"pi": 48,
+"si": 0,
+"section": "LAW",
+"text": "CMS has stated that \u201c[a]n overpayment does not exist if a determination is made that the limitation of liability provision [under section 1879] applies.\u201d",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 48,
+"si": 1,
+"section": "LAW",
+"text": "MFMM, Ch. 3, \u00a7 70.1.B.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 48,
+"si": 2,
+"section": "LAW",
+"text": "\u201cOnce a contractor has concluded that an overpayment exists (that is, a finding that payment cannot be made under the waiver of liability provisions), it makes a \u00a7 1870(b) determination\u201d on provider or beneficiary fault in creating the overpayment.\u201d Id. at \u00a7 70.3.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 48,
+"si": 3,
+"section": "LAW",
+"text": "The contractor would then determine whether waiver of recovery was appropriate under section 1870(c). Id.",
+"tag": "PROC",
+"reason": "waiver"
+},
+{
+"pi": 48,
+"si": 4,
+"section": "LAW",
+"text": "\u201cIf \u00a7 1879 of the Act is applicable, then \u00a7 1879 determination is made first since [a section 1870] overpayment does not exist if payment can be made under \u00a7 1879 because there was lack of knowledge by both the beneficiary and the provider.\u201d Id.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 50,
+"si": 0,
+"section": "MIXED",
+"text": "Having fully considered the appellant\u2019s contentions in Exhs. MAC-1 through MAC-6 and reviewed the entire record, the Council addresses the appellant\u2019s contentions below and, for the reasons articulated below, modifies the ALJ\u2019s decisions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 51,
+"si": 0,
+"section": "MIXED",
+"text": "Reopening of the Five Claims",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 52,
+"si": 0,
+"section": "MIXED",
+"text": "There are multiple grounds for ALJ error concerning the RAC\u2019s reopening of the five claims.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 52,
+"si": 1,
+"section": "MIXED",
+"text": "The Council addresses each in turn, below.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 53,
+"si": 0,
+"section": "MIXED",
+"text": "First, the ALJ erred by addressing the issue of the RAC\u2019s decision to reopen the claims.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 53,
+"si": 1,
+"section": "MIXED",
+"text": "A contractor\u2019s decision on whether to reopen is final and not subject to administrative review.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 53,
+"si": 2,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.980(a)(5).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 53,
+"si": 3,
+"section": "MIXED",
+"text": "Moreover, the parallel regulation at 42 C.F.R. \u00a7 405.926(l) states that a contractor\u2019s determination to reopen or not to reopen is not an initial determination, and is, therefore, not appealable.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 53,
+"si": 4,
+"section": "MIXED",
+"text": "Therefore, the ALJ did not have authority to review the RAC\u2019s decision to reopen the five claims.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 54,
+"si": 0,
+"section": "MIXED",
+"text": "Second, the ALJ erred by addressing the issue of whether the contractor had good cause to reopen the claims.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 54,
+"si": 1,
+"section": "MIXED",
+"text": "The restriction against reviewing the contractor\u2019s decision whether to reopen an initial determination extends to whether or not the contractor met the good cause standards for reopening set forth in 42 C.F.R. \u00a7 405.980(b)(2).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 54,
+"si": 2,
+"section": "MIXED",
+"text": "CMS has expressly, and recently, stated that the enforcement mechanism for good cause standards lies within CMS\u2019s evaluation and monitoring of contractor performance, not the administrative appeals process.",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 54,
+"si": 3,
+"section": "MIXED",
+"text": "Interim Final Rule with Comment Period, 70 Fed. Reg. 11,420, 11,453 (Mar. 8, 2005).",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 54,
+"si": 4,
+"section": "MIXED",
+"text": "Thus, the ALJ erred in concluding that she had authority, as part of her review of a revised determination, to examine whether or not there was good cause for reopening.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 55,
+"si": 0,
+"section": "MIXED",
+"text": "The third area of ALJ error concerns the ALJ\u2019s analytical approach on the issue of whether good cause was shown to reopen the five claims.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 55,
+"si": 1,
+"section": "MIXED",
+"text": "Essentially, in each decision, the ALJ found that the appellant is \u201cboth deemed and considered to have known that the IRF services at issue were not covered by Medicare and could have been expected to know that the claim would likely be denied by Medicare.\u201d Dec. at 17.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 55,
+"si": 2,
+"section": "MIXED",
+"text": "And, on this basis, she concluded that \u201ccircumstances of \u2018similar fault\u2019 have been identified\u201d to justify the decision to reopen \u201cat any time\u201d and, further, that good cause, as defined in 42 C.F.R. \u00a7 405.986, to reopen the claims within four years, was shown. Id.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 56,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ did not err to the extent that she stated that good cause is a relevant issue in this case, because all five claims were reopened after one year after the initial determinations, but before four years.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 56,
+"si": 1,
+"section": "MIXED",
+"text": "C.F.R. \u00a7\u00a7 405.980(b)(2), 405.986.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 56,
+"si": 2,
+"section": "MIXED",
+"text": "It also is true that a contractor may reopen and revise an initial determination at any time with evidence that payment was procured by fraud or similar fault.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 56,
+"si": 3,
+"section": "MIXED",
+"text": "C.F.R. \u00a7\u00a7 405.980(b)(3), 405.902. See also n.3 supra.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 56,
+"si": 4,
+"section": "MIXED",
+"text": "But, as stated above, contractors have discretion to decide whether to reopen a claim.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractors"
+},
+{
+"pi": 56,
+"si": 5,
+"section": "MIXED",
+"text": "To the extent that the ALJ\u2019s rationale for finding that \u201csimilar fault\u201d was demonstrated in this case to support the reopening suggests that the ALJ or the Council may second-guess a contractor\u2019s exercise of discretion in reopening, the Council disagrees.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 56,
+"si": 6,
+"section": "MIXED",
+"text": "The regulation at 42 C.F.R. 405.926(l) bars such an action.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 58,
+"si": 0,
+"section": "MIXED",
+"text": "Having considered the record for all five beneficiaries, the Council fully agrees with the ALJ\u2019s findings and conclusions that the IRF services provided to these beneficiaries were not medically reasonable and necessary and consistent with governing criteria. See CMS Ruling 85-2; Medicare Benefit Policy Manual (MBPM), CMS Pub. 100-02, Ch. 1, \u00a7 110.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 58,
+"si": 1,
+"section": "MIXED",
+"text": "The Council adopts the ALJ\u2019s findings and conclusions on this issue without further comment and concludes, based on the ALJ\u2019s findings and conclusions, that the overpayment determinations were valid.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 59,
+"si": 0,
+"section": "MIXED",
+"text": "Liability and Waiver of Recoupment of Overpayments",
+"tag": "PROC",
+"reason": "Liability"
+},
+{
+"pi": 60,
+"si": 0,
+"section": "MIXED",
+"text": "In her decisions, the ALJ treated all five claims similarly in terms of calculating the three-year time period between the year on which the initial determinations were made and the year on which overpayments were found.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 60,
+"si": 1,
+"section": "MIXED",
+"text": "As explained below, the claims are distinguishable.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 61,
+"si": 0,
+"section": "MIXED",
+"text": "In three beneficiary claims (H.F.; S.L.; L.S.), the overpayment determinations were issued in 2007, more than three calendar years following the year on which the claims were initially paid (2003).",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 61,
+"si": 1,
+"section": "MIXED",
+"text": "In two beneficiary claims (E.M.; N.R.), the overpayment determinations were issued in 2007, more than two calendar years after the year on which the claims were initially paid (2004).",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 62,
+"si": 0,
+"section": "MIXED",
+"text": "Section 1870 of the Act governs the recovery of overpayments, based upon provider or beneficiary fault.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 62,
+"si": 1,
+"section": "MIXED",
+"text": "Section 1870(b) of the Act provides for a waiver of recovery of an overpayment to a provider or supplier if it is without fault in incurring the overpayment.",
+"tag": "PROC",
+"reason": "waiver"
+},
+{
+"pi": 62,
+"si": 2,
+"section": "MIXED",
+"text": "Section 1870(b) of the Act effectively presumes no fault on a provider\u2019s part where an overpayment determination is made \u201csubsequent to the third year following the year in which notice was sent to such individual that such amount had been paid\u201d in the absence of evidence to the contrary.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 62,
+"si": 3,
+"section": "MIXED",
+"text": "The Medicare Financial Management Manual (MFMM), CMS Pub. 100-06, provides guidance on this issue.",
+"tag": "LAW",
+"reason": "CMS Pub"
+},
+{
+"pi": 62,
+"si": 4,
+"section": "MIXED",
+"text": "It provides, for overpayments found after the third calendar year after the year of payment:",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 63,
+"si": 0,
+"section": "MIXED",
+"text": "There are special rules that apply when an overpayment is discovered subsequent to the third year following the year in which notice was sent that the amount was paid.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 63,
+"si": 1,
+"section": "MIXED",
+"text": "Ordinarily, the provider or beneficiary will be considered without fault unless there is evidence to the contrary.",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 63,
+"si": 2,
+"section": "MIXED",
+"text": "In the absence of evidence to the contrary, the FI [fiscal intermediary] or carrier will not recover the determined overpayment.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 63,
+"si": 3,
+"section": "MIXED",
+"text": "(One example of evidence to the contrary would be a pattern of billing errors. See PIM, Chapter 3.)",
+"tag": "LAW",
+"reason": "Chapter 3"
+},
+{
+"pi": 64,
+"si": 0,
+"section": "MIXED",
+"text": "MFMM, Ch. 3, \u00a7 80 (emphasis added).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 64,
+"si": 1,
+"section": "MIXED",
+"text": "The MFMM also provides guidance on calculating the \u201cthird year\u201d after the year payment was approved.",
+"tag": "LAW",
+"reason": "law statement: guidance"
+},
+{
+"pi": 64,
+"si": 2,
+"section": "MIXED",
+"text": "It states:",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 65,
+"si": 0,
+"section": "MIXED",
+"text": "Only the year of the payment and the year it was found to be an overpayment enter into the determination of the 3-year calendar period.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 65,
+"si": 1,
+"section": "MIXED",
+"text": "The day and month are irrelevant.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 65,
+"si": 2,
+"section": "MIXED",
+"text": "[For example,] [w]ith respect to payments made in 2000, the third calendar year thereafter is 2003.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 66,
+"si": 0,
+"section": "MIXED",
+"text": "MFMM, Ch. 3, section 80.1.",
+"tag": "LAW",
+"reason": "section 8"
+},
+{
+"pi": 67,
+"si": 0,
+"section": "MIXED",
+"text": "In essence, under Section 1870(b) of the Act and MFMM, there is a rebuttable presumption that providers/suppliers are \u201cwithout fault\u201d with regard to overpayments discovered more than three calendar years after the year on which the initial determination was made, as was the case with beneficiaries H.F., S.L., and L.S. Therefore, the ALJ should have discussed the applicability of the presumption for these three cases, and articulated whether the presumption was rebutted, but did not.",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 67,
+"si": 1,
+"section": "MIXED",
+"text": "The ALJ relied, in particular, on portions of the Interim Final Rule with Comment Period, 70 Fed. Reg. 11,420, 11,450-53 (Mar. 8, 2005), which included a discussion of the instances where similar fault may be found (such as where a contractor identifies an inappropriate billing that does not rise to the level of fraud; see Dec. at 7-9), the ALJ concluded, in all five decisions, that the appellant \u201cbilled and/or received payment for services for which it should have known it was not entitled, it is not without fault, [and] the overpayment recovery cannot be waived under \u00a7 1870 of the Act.\u201d Dec. at 19.",
+"tag": "PROC",
+"reason": "should have known"
+},
+{
+"pi": 68,
+"si": 0,
+"section": "MIXED",
+"text": "Section 1870(b) does not define the meaning of the term \u201cwithout fault\u201d; however, the MFMM, Ch. 3, section 90, provides guidance.",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 68,
+"si": 1,
+"section": "MIXED",
+"text": "A provider is without fault if it exercised reasonable care in billing and accepting Medicare payment.",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 68,
+"si": 2,
+"section": "MIXED",
+"text": "A provider is considered not \u201cwithout fault\u201d if, e.g., it did not submit documentation to substantiate that services billed were covered, or billed, or Medicare paid, for services the provider should have known were not covered. Id. at \u00a7 90.1.",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 68,
+"si": 3,
+"section": "MIXED",
+"text": "The MFMM explains that the provider should have known about a policy or rule if the policy or rule is in the provider manual or in the regulations. Id.",
+"tag": "PROC",
+"reason": "should have known"
+},
+{
+"pi": 69,
+"si": 0,
+"section": "MIXED",
+"text": "The MFMM also provides that, generally, a provider\u2019s allegation that it was not at fault with respect to payment for noncovered services because it was not aware of coverage requirements is not considered a basis for finding it \u201cwithout fault\u201d if one of several conditions is met.",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 69,
+"si": 1,
+"section": "MIXED",
+"text": "One such condition is if the provider billed, or Medicare paid for, services the provider should have known were not covered. Id.",
+"tag": "PROC",
+"reason": "should have known"
+},
+{
+"pi": 69,
+"si": 2,
+"section": "MIXED",
+"text": "It was on this condition that the RAC determined that overpayments were made in the five cases at issue. See, e.g., Exh. L at 252 (H.F. claim file).",
+"tag": "PRIOR_DENIAL",
+"reason": "RAC"
+},
+{
+"pi": 70,
+"si": 0,
+"section": "MIXED",
+"text": "Having considered the bases on which the overpayments were found in this case, as discussed above, and Section 1870(b) and MFMM guidance, the Council agrees with the ALJ\u2019s ultimate conclusion in each case that the appellant was not without fault in creating the overpayments.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 70,
+"si": 1,
+"section": "MIXED",
+"text": "The Council modifies the ALJ\u2019s decisions as to H.F., S.L., and L.S. to the extent that the applicability of the \u201cwithout fault\u201d rebuttable presumption should have been, but was not, applied, and finds that the presumption was rebutted in these three cases.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 70,
+"si": 2,
+"section": "MIXED",
+"text": "The Council adopts the ALJ\u2019s ultimate conclusion that, because the appellant was not \u201cwithout fault\u201d in creating the overpayments, a waiver of recoupment of the overpayment is not warranted for any of the five beneficiaries.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 71,
+"si": 0,
+"section": "MIXED",
+"text": "As for limitation of liability under section 1879 of the Act, the Medicare program makes payment for non-covered services when neither the beneficiary, nor the provider, practitioner, or supplier knew, or could reasonably have been expected to know, that the items or services would be found non-covered on the grounds that they were not medically reasonable and necessary.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 71,
+"si": 1,
+"section": "MIXED",
+"text": "Medicare Claims Processing Manual (MCPM), CMS Pub. 100-04, Ch. 30, \u00a7 20.",
+"tag": "LAW",
+"reason": "CMS Pub"
+},
+{
+"pi": 71,
+"si": 2,
+"section": "MIXED",
+"text": "A beneficiary is presumed not to know that services are not covered unless the evidence indicates that written notice was given to the beneficiary before the services were provided. Id. at \u00a7 30.1.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 71,
+"si": 3,
+"section": "MIXED",
+"text": "The Council sees no error in the ALJ\u2019s conclusion that the five beneficiaries were not liable for the costs of the non-covered services pursuant to section 1879 of the Act because none received an advance beneficiary notice concerning the services at issue and, therefore, did not know, and could not reasonably have been expected to know, that the services would not be covered.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 72,
+"si": 0,
+"section": "MIXED",
+"text": "Providers and suppliers, however, are held to have constructive knowledge of CMS manual instructions, bulletins, contractors\u2019 written guides, and directives. Id. at \u00a7\u00a7 40.1, 40.1.1.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 72,
+"si": 1,
+"section": "MIXED",
+"text": "The Council finds that the appellant had constructive knowledge of the coverage guidance for IRF services found in, inter alia, CMS Ruling 85-2 and MBPM, Ch. 1, section 110.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 72,
+"si": 2,
+"section": "MIXED",
+"text": "Therefore, the Council concurs with the ALJ that the appellant knew, or could reasonably have been expected to know, that the IRF services would not be covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 72,
+"si": 3,
+"section": "MIXED",
+"text": "Accordingly, the appellant is liable for the costs of the non-covered services pursuant to section 1879 of the Act.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 74,
+"si": 0,
+"section": "MIXED",
+"text": "Finally, with respect to the allegation that the appellant\u2019s due process rights were violated because the RAC had an interest in the outcome of the cases, i.e., recovery of alleged overpayments, the Council finds no basis in this allegation to alter the ALJ\u2019s decisions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 74,
+"si": 1,
+"section": "MIXED",
+"text": "In the Interim Final Rule, 70 Fed. Reg. at 11,453, CMS expressly stated that the enforcement mechanism for good cause standards for reopening lie within CMS\u2019s evaluation and monitoring of contractor performance, not the administrative appeals process.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 74,
+"si": 2,
+"section": "MIXED",
+"text": "In the case of unfavorable revised determinations, as in this appeal, the appellant\u2019s due process concerns are addressed by the fact that it is entitled to administrative review of the revised determinations.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 74,
+"si": 3,
+"section": "MIXED",
+"text": "The appellant has exercised its right to such review.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 75,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ\u2019s August 8, 2008 decisions are modified in accordance with this decision.",
+"tag": "COUNCIL",
+"reason": "this decision"
+}
+]
+}

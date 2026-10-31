@@ -1,0 +1,59 @@
+{
+ "case_id": "prestige_homecare",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "home health skilled nursing (observation and assessment) and personal care for chronically ill beneficiaries",
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council reversed the ALJ, finding the beneficiaries' chronic conditions were stable so skilled observation and assessment was not reasonable and necessary, making the dependent aide services non-covered and the agency liable.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 405.910",
+  "42 CFR 409.42",
+  "42 CFR 409.42(c)",
+  "42 CFR 409.32",
+  "42 CFR 409.33(a)(2)(i)",
+  "42 CFR 409.45(a)"
+ ],
+ "facts": [
+  "The intermediary denied coverage of the services. See, e.g., B.K.1 File, Exhs. 1-3.",
+  "The three beneficiaries whose claims are at issue were all affected by chronic disease and were provided services by the home health agency for a number of months.",
+  "(Observation and Assessment of the Patient\u2019s Condition When Only the Specialized Skills of a Medical Professional Can Determine Patient\u2019s Status) provides:",
+  "(Dates of service from October 5, 2004, through June 1, 2005; and from August 1, 2005, though September 29, 2005)",
+  "Beneficiary B.K. started care with the home health agency on June 15, 2003, approximately sixteen months before the dates of service at issue here. B.K.1 File, Exh. MAC-1. Her primary diagnosis was hypertension, and her other diagnoses were coronary atherosclerosis, cardiac dysrhythmia, polyarthritis, constipation, and urinary tract infection. B.K.1 File, Exh. 13 at 57 (Home Health Certification and Plan of Care).",
+  "During the ten months at issue, the beneficiary\u2019s physician signed certifications that she required, and should receive, skilled nursing services one to two times a month (for observation and assessment, and teaching medications) and personal care services five to seven times a week for the first eight months. See, e.g., B.K.1 File, Exh. 13; B.K.5 File, Exh. 13.",
+  "All of the records in Beneficiary B.K.\u2019s files state that she did not have an ostomy. See, e.g., B.K.1 File, Exh. 13 at 59; B.K.2 File \u2013 Exh. 12 at 50.",
+  "(Dates of service from October 27, 2004, through February 23, 2005)",
+  "B.N. started care with the home health agency on June 29, 2004, approximately four months before the dates of service at issue. B.N.1 File, Exh. MAC-1. Her primary diagnosis was hypertension; other diagnoses were coronary atherosclerosis, malignant neoplasm of the skin, hyperlipidemia, joint disease, and polyarthritis. B.N.1 File, Exh. 13 at 58 (Home Health Certification and Plan of Care).",
+  "During the four months at issue the certification and plan of care called for skilled nursing services one to two times a month (for observation and assessment, and teaching medications and signs and symptoms of cardiac complications), and personal care services three to five times a week. B.N.1 File, Exh. 13 at 58; B.N.2 File, Exh. 13 at 67.",
+  "The contractor and the QIC both denied Medicare coverage for the skilled nursing services, finding that there had been no significant changes in the beneficiary\u2019s condition, medications, or treatment plan during the dates of service under review. See B.N.1 File, Exhs. 3, 9; B.N.2 File, Exhs. 3, 9. Although the contractor and QIC acknowledged that the medical documentation did show longstanding problems with chronic signs and symptoms, they determined it was not reasonable or medically necessary to provide ongoing monthly skilled nursing assessment when there were no acute changes in the beneficiary\u2019s condition or treatment. Id.",
+  "Moreover, during this period, there was no evidence that the beneficiary was likely to have complications or an acute episode.",
+  "(Dates of service from September 14, 2004, through November 12, 2004; and from November 13, 2004, through January 11, 2005)",
+  "The beneficiary started care with the home health agency on May 17, 2004, approximately four months before the dates of service at issue. F.P.1 File, Exh. MAC-1. Her primary diagnosis was hypertension, and, additionally, coronary atherosclerosis, cellulitus of her leg, asthma, polyarthritis, a duodenal ulcer, and obesity. F.P.1 File, Exh. 13 at 59-60. During the four months in question the beneficiary\u2019s physician certified that she needed skilled nursing services one to two times a month (for observation and assessment of her cardiovascular status) as well as teaching the patient and her caregiver the signs and symptoms of her cardiac condition.",
+  "She also received personal care services three to five times a week. Id., see also F.P.2 File, Exh. 13 at 56-57.",
+  "The contractor denied Medicare coverage on redetermination on the ground that it was not reasonable or medically necessary to provide monthly skilled nursing visits to assess longstanding medical problems when there had been no acute changes in the beneficiary\u2019s condition or treatment. F.P.1 File, Exh. 3 at 15; F.P.2 File, Exh. 3 at 15.",
+  "On reconsideration, the Qualified Independent Contractor (QIC) found that the documentation provided was inadequate and that the beneficiary\u2019s care had not met Medicare coverage criteria. F.P.1 File, Exh. 9 at 31. Although the beneficiary had reported \u201cheart palpitations,\u201d the record did not indicate that the home health agency had thoroughly assessed the cause of the palpitations. Id.; see also F.P.2 File, Exh. 13 at 51-52. The beneficiary was also noted to have lower extremity edema, but it was not quantified or further assessed. Id. The beneficiary was also noted to have wheezing in her lungs, but there was no record whether she was compliant in her nebulizer/inhaler treatments. Id.",
+  "Lastly, the QIC noted that there had been no changes in the beneficiary\u2019s medications or plan of care; in addition, no skilled teaching was documented. Id. The QIC concluded that the home health agency was responsible for the noncovered costs. F.P.1 File, Exh. 9 at 31-32; see also F.P.2 File, Exh. 9 at 31-32.",
+  "Moreover, there is no evidence that the signs and symptoms that were recorded in the nurses\u2019 notes prompted further investigation, a consultation with the physician, additional teaching about medications, or other steps to treat the beneficiary. See F.P.1 File, Exh. 13 at 54, 55; F.P.2 File, Exh. 13 at 51, 52."
+ ],
+ "arm": "E_aljfacts",
+ "set": "dev",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 345,
+ "evidence_words_D": 886,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_arm_E.py (post-hoc, exploratory)",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "alj_fact_sentences": 0
+}

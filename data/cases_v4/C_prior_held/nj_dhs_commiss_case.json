@@ -1,0 +1,62 @@
+{
+ "case_id": "nj_dhs_commiss_case",
+ "domain": "home_health",
+ "docket": "M-10-2061",
+ "service_at_issue": "Home health skilled nursing visits Apr 17 - Oct 13, 2007 (Part B)",
+ "reference_outcome": "favorable",
+ "outcome_note": "Council reversed the ALJ, holding the intermittent skilled nursing visits (wound care, observation and assessment, care-plan management) were reasonable and necessary regardless of chronicity.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "20.2"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.3"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.8"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.2"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 409.33(a)(1)",
+  "42 CFR 409.33(a)(2)",
+  "42 CFR 409.33(a)(3)",
+  "42 CFR 409.33(b)(5)",
+  "42 CFR 409.32(c)",
+  "42 CFR 409.44(b)(1)(iii)",
+  "42 CFR 409.44(b)(3)",
+  "42 CFR 409.44(b)(3)(iii)"
+ ],
+ "facts": [
+  "The contractor denied coverage for the nursing services at issue because they did not result in \u201csignificant changes in the patient\u2019s condition\u201d; nor were there any changes to the plan of care. Exh. 4, at 284. The Qualified Independent Contractor (QIC) determined that the nursing services were not medically reasonable and necessary. Exh. 5, at 308-09.",
+  "The skilled nursing services were needed, first, to observe and assess the beneficiary\u2019s wounds, from April 17, through at least the first week of June 2007, and as well, to provide appropriate wound care training.",
+  "He had a recurrence of urinary tract infection around mid-point during the six-month period at issue. He was hospitalized for several days in July 2007 for urosepsis and e.coli infection. He experienced another bout of urinary tract infection two months later. He experienced rectal bleeding more than once during the dates of service, and penile discharge (for which he was given prescription antibiotics)."
+ ],
+ "arm": "C_prior",
+ "set": "held",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 98,
+ "evidence_words_D": 280,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

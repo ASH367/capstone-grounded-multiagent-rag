@@ -1,0 +1,98 @@
+{
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.2"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.2.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.3.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.3.2"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.2"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.3"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.4"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.5"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.6"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.7"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 411.15(k)(1)",
+  "42 CFR 409.3",
+  "42 CFR 483.45",
+  "SSA 1811",
+  "SSA 1812",
+  "SSA 1861(e)(1)",
+  "SSA 1862(a)"
+ ],
+ "case_id": "altabates__JH",
+ "parent": "altabates",
+ "unit_note": "",
+ "service_at_issue": "Inpatient rehabilitation facility (IRF) services furnished to one beneficiary (J.H.), Jul 10-23, 2004",
+ "reference_outcome": "COVERED",
+ "outcome_note": "(unit)",
+ "facts": [
+  "J.H. was 83 years old and had recently moved in with his daughter when he suffered two falls from which he could not get up and was taken to the emergency room.",
+  "The appellant points out that the patient had urinary problems secondary to a history of bladder cancer and prostate hypertrophy which required active physician management, including two emergency room visits to reinsert a Foley catheter, repeated episodes of blood in the urine, and a urinary tract infection. His hypertension medication was changed twice during his stay due to interaction with the urinary problems. Id. The appellant also notes (and the record reflects) that J.H. suffered from severe to profound hearing loss, involuntary movements, and cognitive problems including mental confusion, inability to follow directions, and impulsivity sufficient to call for a one-on-one attendant for nights and evenings.",
+  "His vision in both eyes was impaired.",
+  "Almost daily follow-up visits from his hospital physician.",
+  "On admission, his functional levels were at 2 for gait on stairs and in community and at 4 for gait with standby assistance and an assistive device, with tendency to shuffle, unsteadiness, and distraction. He was noted to have kyphotic posture and a pelvic tilt affecting his ability to sit, stand, and transfer where he was previously independent, as well as limited trunk flexibility and stiffness. Id. at 829-833. He also received occupational therapy, focusing on regaining ADLs and developing a home program, each day after July 14, 2004, with evaluation visits and care-planning involvement on the earlier days. Id. at 834.",
+  "He was also evaluated by a speech- language pathologist and was seen daily for therapy to improve comprehension and expression. Id. at 835-38."
+ ],
+ "arm": "A_plusW",
+ "set": "dev",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 194,
+ "evidence_words_D": 331,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_cut_dev.py",
+  "variant": "plusW",
+  "dev_only": true,
+  "tagger_sha": "8573a23bb8b93257"
+ },
+ "status": "MAIN"
+}

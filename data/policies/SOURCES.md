@@ -8,4 +8,4 @@
 - The PDFs were downloaded from cms.gov (printed from the Medicare Coverage Database, 9/4/26, for the LCD).
 - The `.txt` files are machine extraction only: `pdftotext -layout <pdf>`. No text was written or edited by hand.
 - Scope caveat: L38765 is the LCD of the Palmetto GBA jurisdiction (AL, GA, TN, NC, SC, VA, WV). Other MACs publish their own facet-joint LCDs.
-- Test cases in `data/cases/` are SYNTHETIC patient scenarios written from the LCD criteria. Real patient records are not public.
+- Cases in `data/cases/` are summaries of real, public, name-redacted Texas Department of Insurance IRO decisions (and one open-access PMC case report). Nothing in this project is synthetic. See `data/cases/MAPPING_NOTES.md`.

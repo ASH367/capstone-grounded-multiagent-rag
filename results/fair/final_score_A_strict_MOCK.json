@@ -1,0 +1,58 @@
+{
+ "results/_mock_harness_test_NOT_RESULTS/final/run1": {
+  "n": 5,
+  "multi": {
+   "forced_correct": 4,
+   "forced_ci": [
+    0.8,
+    0.8
+   ],
+   "partly_predictions": 0,
+   "flag": {
+    "coverage": 0,
+    "committed_correct": 0,
+    "flagged": 5,
+    "flagged_wrong": 1,
+    "errors": 1,
+    "confident_wrong": 0
+   },
+   "flag_self": {
+    "coverage": 0,
+    "committed_correct": 0,
+    "flagged": 5,
+    "flagged_wrong": 1,
+    "errors": 1,
+    "confident_wrong": 0
+   }
+  },
+  "single": {
+   "forced_correct": 4,
+   "forced_ci": [
+    0.8,
+    0.8
+   ],
+   "partly_predictions": 0,
+   "flag": {
+    "coverage": 0,
+    "committed_correct": 0,
+    "flagged": 5,
+    "flagged_wrong": 1,
+    "errors": 1,
+    "confident_wrong": 0
+   },
+   "flag_self": {
+    "coverage": 0,
+    "committed_correct": 0,
+    "flagged": 5,
+    "flagged_wrong": 1,
+    "errors": 1,
+    "confident_wrong": 0
+   }
+  },
+  "gap_multi_minus_single": 0.0,
+  "gap_ci": [
+   0.0,
+   0.0
+  ]
+ }
+}

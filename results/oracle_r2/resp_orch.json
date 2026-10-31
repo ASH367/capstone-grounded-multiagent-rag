@@ -1,0 +1,99 @@
+[
+ {
+  "case_id": "11-1343",
+  "decision": "NOT_COVERED",
+  "reason": "Daily skilled need is not documented, and all four SNF factors must be met; the supportive findings do not establish daily skilled services.",
+  "passage_ids": [
+   602,
+   603
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "decision": "COVERED",
+  "reason": "Repeated medication adjustments for fluctuating blood pressure and heart rate after acute cardiac diagnoses show skilled observation with reasonable potential for treatment change, and hospital records of the qualifying stay were submitted.",
+  "passage_ids": [
+   626,
+   628,
+   629,
+   627
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "decision": "COVERED",
+  "reason": "Nurses acted on fluctuating blood sugar logs leading to repeated insulin dose changes, with documented monitoring, meeting skilled observation and assessment criteria.",
+  "passage_ids": [
+   236,
+   237
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "decision": "COVERED",
+  "reason": "Post-hospital physician-ordered skilled observation with bloody urine and abnormal labs, with a likely potential for further acute episode, is documented.",
+  "passage_ids": [
+   626,
+   628
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "decision": "NOT_COVERED",
+  "reason": "Case facts show only appellant assertions; no initial PT evaluation, written plan, or order for ST, no skilled-versus-unskilled need shown, and goals were conceded met.",
+  "passage_ids": [
+   637,
+   639,
+   640,
+   602
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "decision": "NOT_COVERED",
+  "reason": "Home confinement, plan of care, and documented skilled need are not shown; the record gives only appellant assertions, and training aides is not billable.",
+  "passage_ids": [
+   177,
+   286,
+   292,
+   285
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "decision": "COVERED",
+  "reason": "Fistula wound care, ostomy care reinforcement, and recurrent infections, bleeding and abscesses support skilled nursing and monitoring for the period.",
+  "passage_ids": [
+   258,
+   247,
+   261
+  ]
+ },
+ {
+  "case_id": "ny",
+  "decision": "PARTLY_COVERED",
+  "reason": "Appellant argues at least 28 hours (up to 35) are coverable; coverage is limited to under 8 hours daily and 28 hours weekly, with up to 35 only if reasonable and necessary, so only part can be covered.",
+  "passage_ids": [
+   341,
+   342
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "decision": "NOT_COVERED",
+  "reason": "No patient-level facts show IRF requirements, individual care needs or ability to participate in intensive therapy were met.",
+  "passage_ids": [
+   72,
+   71
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "decision": "COVERED",
+  "reason": "Transfer from acute hospital after knee replacement with documented functional deficits and medical management needs supports IRF care; IV medications alone do not defeat coverage.",
+  "passage_ids": [
+   71,
+   72
+  ]
+ }
+]

@@ -1,0 +1,35 @@
+{
+ "frozen_at": "2026-10-30 night, BEFORE any run on the final sets",
+ "hitl_rules_sha": "9149675f9bd0817a",
+ "tagger_rules_sha": "8573a23bb8b93257",
+ "unit_builder_sha": "6585102752b6bf43",
+ "prompts_unchanged": {
+  "pipeline_sha": "ad335000caa882b2",
+  "langgraph_app_sha": "d3b01e184620e254"
+ },
+ "primary_rule": {
+  "THIN_WORDS": 100,
+  "MIN_VALID": 2,
+  "both_systems": [
+   "THIN",
+   "UNGROUNDED",
+   "ERROR"
+  ],
+  "multi_only": [
+   "ALL_UNKNOWN",
+   "DISAGREE"
+  ]
+ },
+ "second_variant": "self-flag = primary + final reason contains UNKNOWN (reported separately, shown for both systems)",
+ "metrics": [
+  "forced accuracy",
+  "coverage",
+  "accuracy when committing",
+  "review precision",
+  "forced-error capture",
+  "confident-wrong",
+  "blind-probe floor",
+  "cluster-bootstrap CIs by decision"
+ ],
+ "disclosure": "Flag RATES (not accuracy) were computed on the old pre-split held-out run1 outputs only to confirm the rule was not degenerate; this changed one design choice: 'final reason says UNKNOWN' was moved out of the primary rule into a separate variant because it flagged 13/18 single-agent answers. No accuracy-by-trigger analysis was used."
+}

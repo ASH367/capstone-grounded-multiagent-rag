@@ -1,0 +1,43 @@
+# Review package: eagle_air_med
+arm facts shown to the system; service at issue: Fixed-wing air ambulance (A0430) and 243 air miles (A0435) from an Indian Health Service clinic to a hospital in Arizona for GI bleeding
+
+## Why this case was sent to a human
+- multi-agent: FLAGGED THIN, ALL_UNKNOWN
+- single-agent: FLAGGED THIN, UNGROUNDED
+
+## Full case as the system saw it (facts)
+[1] On October 17, 2008, the appellant transported the beneficiary via air ambulance from *** Indian Health Service Clinic, in ***, Arizona, to Good Samaritan Hospital in ***, Arizona, due to gastrointestinal bleeding and acute abdominal pain. Exh. 4.
+
+## What each system said (the answer is NOT the gold label; the reviewer decides)
+### Eligibility agent: UNKNOWN
+- Air ambulance is a covered service type only when the destination is an acute care hospital. The case shows transport to a named hospital, but the facts do not say it is an acute care hospital, so this condition is not settled.  [passage 423: "Air ambulance services are not covered for transport to a facility that is not an acute care hospital"]
+- The policy lets the contractor ask for documentation that air ambulance was reasonable and necessary for a life-threatening condition. The case facts give GI bleeding and acute abdominal pain but do not show that air transport was needed or that ground transport was contraindicated, so this is not settled.  [passage 426: "reasonable and necessary to treat the beneficiary’s life- threatening condition"]
+### Medical-necessity agent: UNKNOWN
+- The policy requires that ground transport was contraindicated and air transport was needed. The case facts give the diagnoses but say nothing about whether ground transport would have sufficed, so this point is not settled.  [passage 424: "ground transportation was contraindicated, and the beneficiary required air transport to a hospital"]
+- Documentation must show the air transport was reasonable and necessary for a life-threatening condition. The case facts name GI bleeding and acute abdominal pain but do not say whether the condition was life-threatening.  [passage 426: "air ambulance services are reasonable and necessary to treat the beneficiary’s life- threatening condition"]
+- Air ambulance is covered only for transport to an acute care hospital. The destination was a hospital, but the case facts do not say it is an acute care hospital.  [passage 423: "Air ambulance services are not covered for transport to a facility that is not an acute care hospital"]
+### Documentation agent: UNKNOWN
+- The policy lets the contractor ask for documentation showing that air ambulance was reasonable and necessary for a life-threatening condition. The case facts name the symptoms but do not show that this documentation was submitted. Exh. 4 is cited, but its contents are not described, so it is unclear whether the documentation is present.  [passage 426: "may request that documentation be submitted that indicates the air ambulance services are reasonable and necessary"]
+- Air ambulance is covered only for transport to an acute care hospital. The case facts name Good Samaritan Hospital but do not say whether it is an acute care hospital, so this point is not settled.  [passage 423: "Air ambulance services are not covered for transport to a facility that is not an acute care hospital"]
+### Orchestrator: NOT_COVERED
+All three agents found the coverage conditions unsettled. The case facts do not show that Good Samaritan Hospital is an acute care hospital, that ground transport was contraindicated, or that the condition was life-threatening, and they do not describe the contents of Exh. 4. Because coverage is not supported on this record, the decision is not covered.
+### Single agent: NOT_COVERED
+Air ambulance is approved only if ground ambulance was not appropriate. The case facts give only the diagnoses (GI bleeding and abdominal pain). They say nothing about distance, access, or why ground transport was inappropriate, so medical necessity of air transport is UNKNOWN and not shown. Whether the destination hospital is an acute care hospital, and whether a nearer hospital was available, are also UNKNOWN.
+
+## Manual passages retrieved
+### passage 426 (MBPM ch.10 §20)
+20 09). In order to determine the medical appropriateness of air ambulance services the A/B MAC (A) or (B) may request that documentation be submitted that indicates the air ambulance services are reasonable and necessary to treat the beneficiary’s life- threatening condition. The contractor’s medical staff may consider reviewing all claims for air ambulance services.
+### passage 379 (MBPM ch.10 §30)
+30 Implementation of the Ambulance Fee Schedule. 30.1 - Definition of Ambulance Services 30.1.1 - Ground Ambulance Services 30.1.2 - Air Ambulance Services
+### passage 424 (MBPM ch.10 §10.4.6)
+10.4.6 Special Payment Limitations. (Rev. 133, Issued: 10-22-10, Effective: 01-01-11, Implementation: 01-03-11) If a determination is made to order transport by air ambulance, but ground ambulance transport would have sufficed, payment for the air ambulance transport is based on the amount payable for ground ambulance transport. If the air transport was medically appropriate (that is, ground transportation was contraindicated, and the beneficiary required air transport to a hospital), but the beneficiary could have been treated at a hospital nearer than the one to which they were transported, the air transport payment is limited to the rate for the distance from the point of pickup to that nearer hospital.
+### passage 423 (MBPM ch.10 §10.4.5)
+10.4.5 Special Coverage Rule. (Rev. 1, 10-01-03) A3-3114.C.11.F, B3-2120.4.F Air ambulance services are not covered for transport to a facility that is not an acute care hospital, such as a nursing facility, physician’s office, or a beneficiary’s home.
+### passage 411 (MBPM ch.10 §10.3.9)
+10.3.9 Transportation Requested by Home Health Agency. (Rev. 1, 10-01-03) A3-3114.C.8, HO-236.3.H, B3-2130.3.H Where a home health agency has a beneficiary transported by ambulance to a hospital or skilled nursing facility to obtain needed medical services not otherwise available to the individual, the trip is covered as a Part B service only if the requirements are met for ambulance transportation from wherever the patient is located (place of origin). Such transportation is not covered as a home health service.
+### passage 377 (MBPM ch.10 §10)
+10 Ambulance Service. Circumstances Beyond the Pilot’s Control 10.4.9 - Effect of Beneficiary Death on Program Payment for Air Ambulance Transports 10.5 - Joint Responses
+### passage 393 (MBPM ch.10 §10.2.5)
+10.2.5 Transport of Persons Other Than the Beneficiary. (Rev. 1, 10-01-03) No payment may be made for the transport of ambulance staff or other personnel when the beneficiary is not onboard the ambulance (e.g., an ambulance transport to pick up a specialty care unit from one hospital to provide services to a beneficiary at another hospital). This policy applies to both ground and air ambulance transports.
+### passage 415 (MBPM ch.10 §20)
+20 09). Medically appropriate air ambulance transportation is a covered service regardless of the State or region in which it is rendered. However, A/B MACs (A) and (B) approve claims only if the beneficiary’s medical condition is such that transportation by either basic or advanced life support ground ambulance is not appropriate. There are two categories of air ambulance services: fixed wing (airplane) and rotary wing (helicopter) aircraft. The higher operational costs of the two types of aircraft are recognized with two distinct payment amounts for air ambulance mileage. The air ambulance mileage rate is calculated per actual loaded (patient onboard) miles flown and is expressed in statute miles (not nautical miles). 1. Fixed Wing Air Ambulance (FW) Fixed wing air ambulance is furnished when the beneficiary’s medical condition is such that transport by ground ambulance, in whole or in part, is not appropriate. Generally, transport by fixed wing air ambulance may be necessary because the beneficiary’s condition requires rapid transport to a treatment facility, and either great distances or other obstacles, e.g., heavy traffic, preclude such rapid delivery to the nearest appropriate facility. Transport by fixed wing air ambulance may also be necessary because the beneficiary is inaccessible by a ground or water ambulance vehicle. 2. Rotary Wing Air Ambulance (RW) Rotary wing air ambulance is furnished when the beneficiary’s medical

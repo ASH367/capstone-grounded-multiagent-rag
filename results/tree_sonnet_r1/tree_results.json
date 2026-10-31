@@ -1,0 +1,2251 @@
+{
+ "backend": "openai-compat:anthropic/claude-sonnet-5.5",
+ "results": [
+  {
+   "case_id": "11-1343",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 4.953832416795194,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiaries' conditions, referrals and functional status but never say how many days per week skilled nursing or therapy was needed or provided, so the daily requirement cannot be determined.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.daily",
+     "seconds": 1.3544881250709295,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiaries' conditions and when therapy began, but they say nothing about the duration or quantity of services, their effectiveness, or whether they met accepted standards, so reasonable-and-necessary cannot be determined.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 1.4902589172124863,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      619
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe functional deficits and therapy needs but say nothing about outpatient availability, transportation, home assistance, or whether care could be given outside a SNF.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.practical",
+     "seconds": 1.2477057911455631,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      659
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe functional deficits, therapy referrals, and a nursing neurological watch after a fall, but nothing shows the total care needed skilled nursing planning and management, or that serious complications were likely without it.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 3.4925985829904675,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts mostly describe therapy needs, and the only nursing facts (a neurological watch after a fall) do not show that the services were so inherently complex that only a registered nurse could safely perform them.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 3.6239229580387473,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      615
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "After a fall with head strike, J.M. was placed on neurological watch with nurses monitoring pupil size, alertness and pain, which is skilled observation for a likely change in condition.",
+     "passage_id": 626,
+     "quote": "Observation and assessment are skilled services when the likelihood of change in a patient\u2019s condition requires skilled nursing or skilled rehabilitation personnel",
+     "case_fact": "Upon return to the SNF, she was placed on a neurological watch and fall precautions.",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 4.934568208176643,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe functional deficits and therapy referrals but never say that skilled personnel taught the patient to manage a treatment regimen, so the criterion is neither shown met nor shown unmet.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.3889657920226455,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case shows beneficiaries referred to and receiving PT, OT, and ST for functional decline, which are direct skilled therapy services under the policy, based on individualized need for therapist skills.",
+     "passage_id": 636,
+     "quote": "Therapy services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by, or under the supervision of, a qualified therapist.",
+     "case_fact": "D.E. was referred to ST to evaluate for speech/language cognitive deficits affecting her communication and safety.",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 1.7795568341389298,
+     "offered_passage_ids": [
+      638,
+      640,
+      636,
+      641
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts give D.E.'s hospital dates and therapy start dates, but never state a SNF admission date, and the other beneficiaries' hospital discharge dates are not given, so the 30-day transfer cannot be confirmed.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 3.4391814577393234,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      557
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "D.E.'s hospital stay ran from August 23 to August 26, 2009, which counts as 3 days (August 23, 24, 25) because the discharge day is excluded; the case facts do not suggest observation or emergency-room status.",
+     "passage_id": 572,
+     "quote": "the day of admission, but not the day of discharge, is counted as a hospital inpatient day.",
+     "case_fact": "D.E. had a prior hospital stay for a diagnosis of congestive heart failure from August 23, 2009, to August 26, 2009.",
+     "case_id": "11-1343",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 4.28439937485382,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "11-1546",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 7.8480462920852005,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts mention medication adjustments on thirteen occasions but do not show how often skilled nursing or rehabilitation was needed and provided, so they do not settle whether it was daily.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.daily",
+     "seconds": 2.8512569996528327,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's diagnoses and repeated medication adjustments, but they do not show whether the SNF services were reasonable in nature, duration and quantity under accepted standards, and the State's claim of coverage is only a contention.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 3.1694577080197632,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      603
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's conditions and medication adjustments but say nothing about outpatient availability, transportation, home assistance, or economy and efficiency, so the practical-matter criterion cannot be settled.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.practical",
+     "seconds": 1.1903949999250472,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      603
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary has recent MI, atrial flutter and dementia, and his medications were adjusted at least thirteen times for blood pressure and heart rate swings, which indicates a likely potential for serious complications without skilled nursing management of the total care plan.",
+     "passage_id": 623,
+     "quote": "it is appropriate to infer that skilled management is being provided",
+     "case_fact": "On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate.",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 5.3514921250753105,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "Nursing staff gave medications according to fluctuating blood pressure readings and adjusted them at least thirteen times for blood pressure and heart rate changes in a cardiac patient. This indicates a need for a nurse's specialized judgment.",
+     "passage_id": 633,
+     "quote": "the specialized judgment, knowledge, and skills of a registered nurse or, when provided by regulation, a licensed practical (vocational) nurse are necessary",
+     "case_fact": "On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate.",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 7.826899958774447,
+     "offered_passage_ids": [
+      633,
+      634,
+      614,
+      635
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary's medications had to be adjusted at least thirteen times for fluctuating blood pressure and heart rate, which fits the passage's description of fluctuating vital signs that justify skilled observation and assessment leading to treatment changes.",
+     "passage_id": 628,
+     "quote": "Such signs and symptoms as abnormal/fluctuating vital signs, weight changes, edema, symptoms of drug toxicity, abnormal/fluctuating lab values",
+     "case_fact": "On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate.",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 1.6985457907430828,
+     "offered_passage_ids": [
+      626,
+      627,
+      628,
+      629
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe medication adjustments and nursing instructions but say nothing about skilled teaching or training of the patient to manage a treatment regimen.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.1088777910917997,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe diagnoses, communication difficulty and medication management, but never mention PT, OT or speech-language pathology being needed or provided, so the criterion cannot be settled.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 1.1552853332832456,
+     "offered_passage_ids": [
+      636,
+      646,
+      637,
+      643
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The facts give the hospital stay dates but never state the SNF admission date, so timely transfer within 30 days cannot be determined.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 1.7701460411772132,
+     "offered_passage_ids": [
+      571,
+      580,
+      579,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The facts show only that the parties contend there was a qualifying stay and that records show a Dec 15\u201327, 2009 hospital stay; they do not establish inpatient status or medical necessity.",
+     "passage_id": 571,
+     "quote": "the individual must have been an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days",
+     "case_fact": "The provider submits, as evidence of the three-day stay, hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay",
+     "case_id": "11-1546",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 3.7809756668284535,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "baptist_health_care",
+   "domain": "inpatient_rehab",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.26837099995464087,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.benefit",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      84,
+      91,
+      103,
+      104
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.docs",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      80,
+      81,
+      77,
+      72
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.intensive",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      83,
+      87,
+      88,
+      84
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.interdisciplinary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      85,
+      96,
+      95,
+      83
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.multi",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      86,
+      83,
+      84,
+      85
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.physician",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      92,
+      84,
+      93,
+      85
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "conn_dept_social_services",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.35267716692760587,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.daily",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      618
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.practical",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      654,
+      659,
+      653
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      633,
+      634,
+      635,
+      613
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      636,
+      646,
+      644,
+      639
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      571,
+      572,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "connecticut11",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.20534862484782934,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.daily",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      603
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.practical",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      659
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      635
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      636,
+      637,
+      642,
+      644
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "gr",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.217849750071764,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "gr",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      178,
+      181,
+      182,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "gr",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      178,
+      181,
+      179,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "gr",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      178,
+      179,
+      181,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "gr",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      181,
+      178,
+      179,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "gr",
+     "leaf_id": "hh.physician",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      130,
+      189,
+      177,
+      191
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "gr",
+     "leaf_id": "hh.plan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      189,
+      130,
+      196
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "gr",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      240,
+      241,
+      236
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "gr",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      130,
+      279,
+      291
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m-10-1884",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.35078304214403033,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.daily",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.practical",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      659
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      633,
+      634,
+      614,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      636,
+      637,
+      639,
+      642
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m-11-1869",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.3128954996354878,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      178,
+      181,
+      182,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      178,
+      179,
+      181,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      179,
+      178,
+      181,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      181,
+      179,
+      178,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.physician",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      232,
+      130,
+      177,
+      229
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.plan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      189,
+      195,
+      130
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      239,
+      238,
+      232
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      232,
+      130,
+      287
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m-11-1967",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.43824129179120064,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.daily",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      620
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.practical",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      653,
+      659,
+      654
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      635
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      626,
+      628,
+      629,
+      627
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      636,
+      643,
+      639,
+      637
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      571,
+      579,
+      581,
+      580
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m-12-1140",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.23333504237234592,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.daily",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      603
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.practical",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      626,
+      627,
+      628,
+      629
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      636,
+      637,
+      639,
+      646
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      579,
+      571,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m_10_1771",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.24144679214805365,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.daily",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      617,
+      615,
+      619
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.practical",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      633,
+      613,
+      634,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      626,
+      628,
+      627,
+      629
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      640,
+      636,
+      637,
+      639
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      571,
+      580,
+      579,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "nj_dept_humanservices22",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.16521970927715302,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      178,
+      182,
+      181,
+      183
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      178,
+      182,
+      181,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      178,
+      179,
+      182,
+      181
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      182,
+      178,
+      181,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.physician",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      130,
+      191,
+      230
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.plan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      130,
+      189,
+      195
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      242,
+      228,
+      233
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      285,
+      292,
+      279,
+      294
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "nj_dhs_commiss_case",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 1.0332493749447167,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      178,
+      181,
+      182,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      178,
+      181,
+      179,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      179,
+      178,
+      181,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      181,
+      179,
+      178,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.physician",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      231,
+      232,
+      177,
+      130
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.plan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      231,
+      189,
+      232
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      231,
+      240,
+      233
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      231,
+      177,
+      232,
+      279
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "ny",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.27891733264550567,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "ny",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      178,
+      181,
+      182,
+      183
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "ny",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      178,
+      181,
+      183,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "ny",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      179,
+      178,
+      181,
+      183
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "ny",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      181,
+      178,
+      179,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "ny",
+     "leaf_id": "hh.physician",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      130,
+      189,
+      232
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "ny",
+     "leaf_id": "hh.plan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      130,
+      189,
+      192
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "ny",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      242,
+      225,
+      233
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "ny",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      177,
+      130,
+      279,
+      296
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "roman_eagle_memorial_home",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.22950074961408973,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.daily",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      604
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.practical",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      658
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      633,
+      634,
+      615,
+      614
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      636,
+      638,
+      637,
+      646
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "stfrances_memorial",
+   "domain": "inpatient_rehab",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.12255820818245411,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.benefit",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      84,
+      91,
+      103,
+      104
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.docs",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      4,
+      81,
+      80,
+      72
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.intensive",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      83,
+      87,
+      88,
+      84
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.interdisciplinary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      85,
+      95,
+      94,
+      96
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.multi",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      86,
+      83,
+      85,
+      84
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.physician",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      92,
+      93,
+      85,
+      84
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "twin_maples_health_care_case",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.34211312513798475,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.daily",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.practical",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      659
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      623,
+      625,
+      624
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      633,
+      634,
+      615,
+      614
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      626,
+      629,
+      627,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      636,
+      637,
+      639,
+      644
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      579,
+      571,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "valley_presbyterian",
+   "domain": "inpatient_rehab",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 0.2721974579617381,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.benefit",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      84,
+      91,
+      103,
+      104
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.docs",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      74,
+      4,
+      81,
+      80
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.intensive",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      87,
+      83,
+      88,
+      84
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.interdisciplinary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      85,
+      83,
+      84,
+      94
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.multi",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      86,
+      83,
+      84,
+      85
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.physician",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      93,
+      92,
+      84,
+      85
+     ]
+    }
+   ]
+  }
+ ]
+}

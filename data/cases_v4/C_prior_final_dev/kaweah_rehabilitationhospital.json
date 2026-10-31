@@ -1,0 +1,82 @@
+{
+ "case_id": "kaweah_rehabilitationhospital",
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "service_at_issue": "Inpatient rehabilitation hospital stay, November 5 to 19, 2004",
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council found each of the ALJ's reasons (stability on admission, no active co-morbidities, no exacerbation, SNF suitability, family request) legally irrelevant or unsupported, and found the IRF services reasonable and necessary.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.3"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.2"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.3"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.4"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.5"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.6"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.7"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "SSA 1862(a)",
+  "SSA 1861(e)(1)"
+ ],
+ "facts": [
+  "This claim for two weeks of inpatient rehabilitation services provided to the beneficiary was initially paid.",
+  "The initial IRF treatment plan included providing daily occupational and physical therapy, maintaining existing medications (which included oxygen therapy and high doses of steroids), and introducing new medications (including adding Flagyl to existing antibiotics to address possible anaerobic infection, nitroglycerin ointment to address high blood pressure, and other treatments for breathing, possible allergy and bowel issues). Id. at 2-3, and record citations therein.",
+  "By the end of her two-week stay in the IRF, the beneficiary\u2019s \u201cabdominal complaints improved, her energy improved, her eating improved, and she gained five pounds.\u201d Id. at 2, and record citations therein.",
+  "Realistic goals, which for most Medicare patients would mean \u201cself-care or independence in the activities of daily living; i.e., self-sufficiency in bathing, ambulation, eating, dressing, homemaking, etc., or sufficient improvement to allow a patient to live at home with family assistance rather than in an institution,\u201d so that \u201cthe aim of the treatment is achieving the maximum level of function possible.\u201d",
+  "Daily plans of care record identified needs and collected data as to each, the actions taken that shift to address every area, the patient\u2019s responses in each area, daily assessment of the level of assistance or intervention the patient required, multidisciplinary activity flow sheets, and specific focus notes on areas of concern. Ex. 8 at 740-855. A written team conference report for November 12, 2004, documents the presence of the physician, two therapists, two registered nurses, and the social worker reviewing the beneficiary\u2019s medical and psychosocial status, identifying specific treatment",
+  "On admission, the beneficiary required two liters of oxygen airflow to maintain adequate saturation while her treating physician testified at the hearing that she was able to reduce the airflow to 1 liter by discharge despite her higher level of activity. Compare Ex. 8, at 713 with Hearing CD. The treating physician testified that all of the resident\u2019s discharge goals were achieved.",
+  "The statement appears to be based on a statement in the QIC decision that the admission history showed that the beneficiary\u2019s \u201cvital signs were stable\u201d and she did not \u201cpresent in acute distress.\u201d Ex. 13, at 1023. Here, in fact, the treating physician testified that the vital signs recorded on the history are not stable or medically appropriate and that they called for medical intervention, which he proceeded to provide. The physician testified that the temperature was significantly elevated (as it had been frequently in the recent past) when viewed in light of the high level of steroids she was taking which should have caused a lowering of temperature.",
+  "The physician also testified that her respirations should have been closer to 14-15 than 35.",
+  "In this regard, the appellant submitted a data analysis identified as based on \u201cOSHPD LTC Annual Disclosure Reports,\u201d which covered collective financial and staffing information on the 13 SNFs in the same county as its IRF during 2004. Ex. 8, at 661-64. By contrast, the appellant asserts that at the relevant time its registered nurses spent 3.86 productive hours per patient day."
+ ],
+ "arm": "C_prior",
+ "set": "dev",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 474,
+ "evidence_words_D": 857,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "parent": "kaweah_rehabilitationhospital",
+ "status": "MAIN"
+}

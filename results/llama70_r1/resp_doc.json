@@ -1,0 +1,201 @@
+[
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The patient requires skilled therapy services.",
+    "passage_id": 638,
+    "quote": "reasonable and necessary",
+    "case_fact": "D.E. had a prior hospital stay"
+   },
+   {
+    "claim": "The patient's condition requires skilled observation.",
+    "passage_id": 626,
+    "quote": "skilled nursing personnel",
+    "case_fact": "The beneficiary was noted to have cognitive deficits"
+   }
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "11-1546"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "connecticut11"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "gr"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "m-10-1884"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary required skilled nursing services for her diabetes management",
+    "passage_id": 268,
+    "quote": "monitoring once per month",
+    "case_fact": "The beneficiary\u2019s insulin dosage was adjusted numerous times"
+   },
+   {
+    "claim": "The nurses provided ongoing monitoring, assessment, and instructions for the beneficiary\u2019s medication schedule",
+    "passage_id": 268,
+    "quote": "monitoring would be reasonable and necessary",
+    "case_fact": "numerous documented instances of changes in the beneficiary\u2019s medication schedule"
+   },
+   {
+    "claim": "The beneficiary received skilled nursing services for her urinary tract infection",
+    "passage_id": 257,
+    "quote": "skilled nursing visit to change the catheter",
+    "case_fact": "The nurses contacted the beneficiary\u2019s doctor to obtain permission to take a urine sample for analysis"
+   }
+  ],
+  "case_id": "m-11-1869"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary had a qualifying hospital stay",
+    "passage_id": 572,
+    "quote": "3 consecutive calendar day stay",
+    "case_fact": "hospitalization from February 12 to February 17, 2010"
+   },
+   {
+    "claim": "The beneficiary was transferred to a SNF within 30 days",
+    "passage_id": 579,
+    "quote": "within 30 days after discharge",
+    "case_fact": "discharge from the hospital on February 17"
+   }
+  ],
+  "case_id": "m-11-1967"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "m-12-1140"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary required skilled physical therapy services.",
+    "passage_id": 636,
+    "quote": "Therapy services are considered skilled",
+    "case_fact": "The beneficiary demonstrated slow but steady progress"
+   },
+   {
+    "claim": "The services were directly and specifically related to an active written treatment plan.",
+    "passage_id": 637,
+    "quote": "The services must be directly and specifically related",
+    "case_fact": "The appellant asserts that the documentation of record demonstrates the clear need for the skills of a physical therapist"
+   },
+   {
+    "claim": "The beneficiary's condition required the judgment, knowledge, and skills of a qualified physical therapist.",
+    "passage_id": 640,
+    "quote": "The skills of a physical therapist are required",
+    "case_fact": "The beneficiary sustained a fall in the facility on September 2, 2008, resulting in a left upper extremity sprain"
+   }
+  ],
+  "case_id": "m_10_1771"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "physical therapy services were provided in relation to the installation of a new stair lift mechanism",
+    "passage_id": 292,
+    "quote": "teach the patient to climb and descend stairs safely",
+    "case_fact": "The appellant asserts that these physical therapy services were provided in relation to the installation of a new stair lift mechanism"
+   }
+  ],
+  "case_id": "nj_dept_humanservices22"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled nursing visits are required for catheter care and urinary tract infection treatment",
+    "passage_id": 256,
+    "quote": "skilled nursing services",
+    "case_fact": "The beneficiary has recurrent urinary tract infections"
+   },
+   {
+    "claim": "The beneficiary's condition necessitates skilled nursing services",
+    "passage_id": 257,
+    "quote": "reasonable and necessary",
+    "case_fact": "He had a recurrence of urinary tract infection around mid-point during the six-month period at issue"
+   },
+   {
+    "claim": "The beneficiary's medical conditions require skilled nursing care",
+    "passage_id": 231,
+    "quote": "skilled nursing visit",
+    "case_fact": "His bowel and bladder functions are maintained by colostomy and urostomy"
+   }
+  ],
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "ny"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "roman_eagle_memorial_home"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "stfrances_memorial"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled nursing care required",
+    "passage_id": 629,
+    "quote": "skilled observation and assessment",
+    "case_fact": "required skilled nursing care"
+   },
+   {
+    "claim": "Physical therapy required",
+    "passage_id": 686,
+    "quote": "physical therapy services",
+    "case_fact": "received skilled physical therapy"
+   },
+   {
+    "claim": "Condition treated in hospital",
+    "passage_id": 563,
+    "quote": "treated during the qualifying hospital stay",
+    "case_fact": "admitted to hospital for dementia and behavioral disturbance"
+   }
+  ],
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "valley_presbyterian"
+ }
+]

@@ -1,0 +1,32 @@
+{
+ "case_id": "pmc_7417308_1",
+ "domain": "snf",
+ "service_at_issue": "Transfer to a skilled nursing facility after a hospital stay (published case report; hypothetical Medicare review)",
+ "facts": [
+  "A 68-year-old man presented with left hip pain six weeks after a revision of his left total hip arthroplasty (THA).",
+  "His original hip replacement surgery was performed 21 years prior to presentation and had required numerous revisions for wear of the joint and one surgery related to infection with methicillin-sensitive Staphylococcus aureus (MSSA) 13 years prior.",
+  "Other notable medical history included uncomplicated right THA and left total knee arthroplasty (TKA) 12 and nine years prior to presentation, respectively, remote history of polysubstance use with alcohol, cocaine, and heroin (treated with suboxone), hepatitis C with sustained virologic response after sofosbuvir/simeprevir, cirrhosis, chronic kidney disease (stage III), coronary artery disease, and hypertension.\\nThe patient\u2019s chief complaint was acute left hip pain, which started two days prior to presentation and progressed until he was unable to bear weight.",
+  "The patient also noted redness, swelling, small amounts of rust colored drainage from the surgical site, and subjective fever.",
+  "He denied any recent trauma or contact with dirt or animals to the area.",
+  "He had been using an unspecified topical cream on the area.",
+  "He noted occasional oral ulcers but no recent jaw pain, jaw masses, dental procedures, or other complaints.",
+  "He denied any other joint pain.",
+  "At the time of presentation, he was febrile to 100.6\u02daF but hemodynamically stable without tachycardia.",
+  "Physical exam was significant for two areas of surgical site wound dehiscence of 10 mm without visible purulence but with surrounding erythema, warmth, and fluctuance as well as limited passive hip flexion secondary to pain.",
+  "Notably, there was no pain on passive internal or external rotation of the joint.",
+  "His admission labs were notable for a white blood cell count of 9.9 x 1,000/mm3, erythrocyte sedimentation rate (ESR) of 114 mm/hr, C-reactive protein (CRP) of >190 mg/L, and serum creatinine of 4.6 mg/dL, slightly elevated from his baseline of 3.2 mg/dL.\\nPreoperative joint aspiration revealed cloudy fluid with 10,553 nucleated cells (100% neutrophils), and no visible crystals.",
+  "Gram stain of that fluid was negative.",
+  "He was started empirically on vancomycin pending cultures.",
+  "He then underwent incision and drainage with exchange of the head and liner of the joint two days after he first presented.",
+  "Culture of preoperative joint aspiration fluid and culture of intraoperative tissue biopsies grew Actinomyces.",
+  "The subspecies was not determined but was found to be susceptible to ampicillin-sulbactam with a minimum inhibitory concentration (MIC) of <0.25/0.12 \u00b5g/mL by broth microdilution.",
+  "Notably there was also growth of oxacillin-susceptible Staphylococcus epidermidis from broth enrichment of synovial fluid from the preoperative joint aspiration but not from any other specimen.",
+  "A tunneled catheter was placed, and the patient was started on intravenous (IV) ampicillin-sulbactam and discharged to a skilled nursing facility on postoperative day 8 with a plan to continue IV ampicillin-sulbactam for a four-week course followed by eight weeks of oral amoxicillin-clavulanate, and likely lifelong prophylaxis with amoxicillin-clavulanate."
+ ],
+ "reference_outcome": "unknown",
+ "outcome_note": "",
+ "cited_sections": [],
+ "other_cites": [],
+ "scope": "included",
+ "source": "PMC-Patients (CC BY-NC-SA 4.0), PMID 32789085"
+}

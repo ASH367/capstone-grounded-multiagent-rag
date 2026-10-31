@@ -1,0 +1,2665 @@
+{
+ "backend": "openai-compat:meta-llama/llama-3.3-70b-instruct",
+ "results": [
+  {
+   "case_id": "11-1343",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 8.318757875356823,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "There is no information about the frequency of skilled services provided to the patient.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.daily",
+     "seconds": 1.6772854155860841,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the services delivered are reasonable and necessary for the treatment of the illness or injury.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 6.997458375059068,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      619
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the daily skilled services can be provided only on an inpatient basis in a SNF.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.practical",
+     "seconds": 6.113226541783661,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      659
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the patient needs skilled management and evaluation of a care plan.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 1.7845488754101098,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the patient needs direct skilled nursing services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 5.265370208770037,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the patient's condition requires skilled observation and assessment.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 6.267921457998455,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient requiring skilled teaching and training activities to manage their treatment regimen.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.3853944586589932,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient required skilled therapy services due to muscle weakness and lack of coordination.",
+     "passage_id": 636,
+     "quote": "Therapy services are considered skilled",
+     "case_fact": "treatment diagnoses of muscle weakness and lack of coordination",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 6.630174917168915,
+     "offered_passage_ids": [
+      638,
+      640,
+      636,
+      641
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the transfer to a participating SNF within 30 days after hospital discharge.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 2.4395828749984503,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      557
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts show a hospital stay of at least 3 consecutive calendar days.",
+     "passage_id": 571,
+     "quote": "at least three consecutive calendar days",
+     "case_fact": "from August 23, 2009, to August 26, 2009",
+     "case_id": "11-1343",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 8.31083520874381,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "11-1546",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 13.034267374780029,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information on the frequency of skilled services required by the patient.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.daily",
+     "seconds": 1.786673708818853,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the services delivered are reasonable and necessary for the treatment of the illness or injury.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 1.950719834305346,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      603
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the daily skilled services can be provided only on an inpatient basis in a SNF.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.practical",
+     "seconds": 12.995105667039752,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      603
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient's condition required skilled management and evaluation of a care plan due to the complexity of their medical needs.",
+     "passage_id": 623,
+     "quote": "require the involvement of skilled nursing personnel",
+     "case_fact": "The beneficiary is a deaf mute with Alzheimer\u2019s dementia who had difficulty communicating.",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 2.2617478747852147,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient's condition required skilled nursing services due to the complexity of administering medications based on fluctuating blood pressure readings.",
+     "passage_id": 633,
+     "quote": "inherently complex",
+     "case_fact": "nursing staff was instructed to administer these medications based on fluctuating blood pressure readings",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 2.274263124912977,
+     "offered_passage_ids": [
+      633,
+      634,
+      614,
+      635
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient's condition required skilled observation and assessment due to fluctuations in blood pressure and heart rate.",
+     "passage_id": 626,
+     "quote": "requires skilled nursing or skilled rehabilitation personnel",
+     "case_fact": "On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate.",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 2.297569500282407,
+     "offered_passage_ids": [
+      626,
+      627,
+      628,
+      629
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient receiving skilled teaching and training activities.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 2.723361958283931,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient receiving direct skilled therapy services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 1.7682109158486128,
+     "offered_passage_ids": [
+      636,
+      646,
+      637,
+      643
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the beneficiary's transfer to a participating SNF within 30 days after hospital discharge.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 1.875544499605894,
+     "offered_passage_ids": [
+      571,
+      580,
+      579,
+      581
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts show the beneficiary had a hospital stay of at least 3 consecutive calendar days.",
+     "passage_id": 571,
+     "quote": "at least three consecutive calendar days",
+     "case_fact": "December 15, 2009, through December 27, 2009, stay",
+     "case_id": "11-1546",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 3.760450166184455,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "baptist_health_care",
+   "domain": "inpatient_rehab",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 4.234684667084366,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's ability to participate in and benefit from an intensive program.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.benefit",
+     "seconds": 1.6231409590691328,
+     "offered_passage_ids": [
+      84,
+      91,
+      103,
+      104
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the IRF medical record containing the required documentation.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.docs",
+     "seconds": 3.845125500112772,
+     "offered_passage_ids": [
+      80,
+      81,
+      77,
+      72
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's therapy schedule or hours.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.intensive",
+     "seconds": 4.217002458870411,
+     "offered_passage_ids": [
+      83,
+      87,
+      88,
+      84
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "There is no information in the case facts to determine if the patient required an intensive and coordinated interdisciplinary approach to providing rehabilitation.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.interdisciplinary",
+     "seconds": 2.126839708071202,
+     "offered_passage_ids": [
+      85,
+      96,
+      95,
+      83
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient requiring multiple therapy disciplines.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.multi",
+     "seconds": 3.7200889592058957,
+     "offered_passage_ids": [
+      86,
+      83,
+      84,
+      85
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "There is no information in the case facts about the frequency of face-to-face visits by a rehabilitation physician.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.physician",
+     "seconds": 2.2460505827330053,
+     "offered_passage_ids": [
+      92,
+      84,
+      93,
+      85
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "conn_dept_social_services",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 3.2515294579789042,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's skilled service requirements.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.daily",
+     "seconds": 1.5784045420587063,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the services delivered or the treatment of an illness or injury.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 2.000158917158842,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      618
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's condition or the availability of skilled services on an outpatient basis.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.practical",
+     "seconds": 1.7236739587970078,
+     "offered_passage_ids": [
+      602,
+      654,
+      659,
+      653
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's medical condition or care plan.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 3.1392387077212334,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient's need for skilled nursing services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 1.6920526251196861,
+     "offered_passage_ids": [
+      633,
+      634,
+      635,
+      613
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's medical condition or the need for skilled observation and assessment.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 3.1868211668916047,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient's need for skilled teaching and training activities.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.5779982078820467,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient's need for direct skilled therapy services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 0.7020268747583032,
+     "offered_passage_ids": [
+      636,
+      646,
+      644,
+      639
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the beneficiary's transfer to a participating SNF within 30 days after hospital discharge.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 3.2384270410984755,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the beneficiary's hospital stay or its duration.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 1.6899720416404307,
+     "offered_passage_ids": [
+      571,
+      572,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "connecticut11",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 5.6138239172287285,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information on the frequency of skilled services provided to the patient.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.daily",
+     "seconds": 4.256933917291462,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the services delivered are reasonable and necessary for the treatment of the illness or injury.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 4.505055834073573,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      603
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the daily skilled services can be provided only on an inpatient basis in a SNF.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.practical",
+     "seconds": 5.18563791597262,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      659
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the patient's care plan required skilled management and evaluation.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 3.6060453332029283,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the patient requires direct skilled nursing services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 4.667252834420651,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      635
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the patient's condition requires skilled observation and assessment.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 1.7287762500345707,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient receiving skilled teaching and training activities requiring skilled personnel.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.7680232082493603,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "FALSE",
+     "reason": "The patient was discharged from physical therapy due to a plateau of benefits from skilled PT interventions.",
+     "passage_id": 637,
+     "quote": "skilled therapy services",
+     "case_fact": "plateau of benefits from skilled PT interventions reached",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 2.0646071657538414,
+     "offered_passage_ids": [
+      636,
+      637,
+      642,
+      644
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was admitted to a SNF within 30 days after hospital discharge.",
+     "passage_id": 571,
+     "quote": "within 30 days after discharge",
+     "case_fact": "The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 5.60011937469244,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the length of the beneficiary's hospital stay.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 4.276303000282496,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "gr",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 5.224519125185907,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's need for supportive devices or assistance to leave their residence.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 5.216278792358935,
+     "offered_passage_ids": [
+      178,
+      181,
+      182,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's condition or ability to leave home.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 5.012835707981139,
+     "offered_passage_ids": [
+      178,
+      181,
+      179,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's ability to leave their home.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 0.48487758403643966,
+     "offered_passage_ids": [
+      178,
+      179,
+      181,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's ability to leave home.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 2.108404166996479,
+     "offered_passage_ids": [
+      181,
+      178,
+      179,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient being under the care of a physician or allowed practitioner.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.physician",
+     "seconds": 5.008157582953572,
+     "offered_passage_ids": [
+      130,
+      189,
+      177,
+      191
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "There is no information in the case facts about a plan of care established and periodically reviewed by a physician or allowed practitioner.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.plan",
+     "seconds": 1.823375124949962,
+     "offered_passage_ids": [
+      177,
+      189,
+      130,
+      196
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's need for skilled nursing care on an intermittent basis.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 1.5293253329582512,
+     "offered_passage_ids": [
+      177,
+      240,
+      241,
+      236
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient's need for physical therapy, speech-language pathology, or occupational therapy.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 1.8054619170725346,
+     "offered_passage_ids": [
+      177,
+      130,
+      279,
+      291
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m-10-1884",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 4.186792666092515,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information on the frequency of skilled services received by the beneficiary.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.daily",
+     "seconds": 3.151346582919359,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the services delivered are reasonable and necessary for the treatment of the illness or injury.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 1.6625204589217901,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about whether the daily skilled services can be provided only on an inpatient basis in a SNF.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.practical",
+     "seconds": 1.9135792502202094,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      659
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the patient's care plan required skilled management and evaluation.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 1.3422268331050873,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient requiring direct skilled nursing services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 3.672854042146355,
+     "offered_passage_ids": [
+      633,
+      634,
+      614,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the patient's condition required skilled observation and assessment.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 4.076579540967941,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient receiving skilled teaching and training activities.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.6176864583976567,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient required and received skilled physical therapy and occupational therapy services.",
+     "passage_id": 636,
+     "quote": "Therapy services are considered skilled",
+     "case_fact": "The beneficiary required and received skilled physical therapy (PT) and occupational therapy (OT) services",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 4.168304542079568,
+     "offered_passage_ids": [
+      636,
+      637,
+      639,
+      642
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide the date of hospital discharge to determine if the beneficiary was transferred to a participating SNF within 30 days.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 1.6968809580430388,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the length of the beneficiary's hospital stay prior to SNF admission.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 1.5628846669569612,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m-11-1869",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 8.388968457933515,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's need for supportive devices or assistance to leave their residence.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 3.140572542324662,
+     "offered_passage_ids": [
+      178,
+      181,
+      182,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's ability to leave home being medically contraindicated.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 3.3557868748903275,
+     "offered_passage_ids": [
+      178,
+      179,
+      181,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "There is no information in the case facts that directly addresses the effort required for the beneficiary to leave home.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 1.6326286252588034,
+     "offered_passage_ids": [
+      179,
+      178,
+      181,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the beneficiary has a normal inability to leave home.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 5.499321124982089,
+     "offered_passage_ids": [
+      181,
+      179,
+      178,
+      182
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient is under the care of a physician or allowed practitioner as evidenced by the nurses sending logs to the beneficiary's endocrinologist and the beneficiary seeing her doctor.",
+     "passage_id": 177,
+     "quote": "Under the care of a physician or allowed practitioner",
+     "case_fact": "the nurses had the beneficiary see her doctor with her blood sugar logs",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.physician",
+     "seconds": 8.363808915950358,
+     "offered_passage_ids": [
+      232,
+      130,
+      177,
+      229
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "There is no direct information in the case facts or policy passages that explicitly states the services were furnished under a plan of care established and periodically reviewed by a physician or allowed practitioner.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.plan",
+     "seconds": 1.7382275415584445,
+     "offered_passage_ids": [
+      177,
+      189,
+      195,
+      130
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the frequency or duration of the skilled nursing care.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 1.6259987922385335,
+     "offered_passage_ids": [
+      177,
+      239,
+      238,
+      232
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention physical therapy, speech-language pathology, or occupational therapy.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 2.9599014995619655,
+     "offered_passage_ids": [
+      177,
+      232,
+      130,
+      287
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m-11-1967",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 7.088901791721582,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information on the frequency of skilled services provided to the patient.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.daily",
+     "seconds": 3.1725338329561055,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the services delivered are reasonable and necessary for the treatment of the illness or injury.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 2.2314897077158093,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      620
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information on whether daily skilled services can be provided only on an inpatient basis in a SNF considering economy and efficiency.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.practical",
+     "seconds": 2.1474505830556154,
+     "offered_passage_ids": [
+      602,
+      653,
+      659,
+      654
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient's condition required skilled nursing personnel to manage and evaluate the care plan.",
+     "passage_id": 623,
+     "quote": "skilled nursing services when",
+     "case_fact": "the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 7.068577874917537,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient required skilled nursing services to monitor for signs of fever, chills, and other complications.",
+     "passage_id": 633,
+     "quote": "skilled nursing services are necessary",
+     "case_fact": "required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 3.6516159577295184,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      635
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient's condition required skilled observation and assessment due to the likelihood of change in condition.",
+     "passage_id": 626,
+     "quote": "requires skilled nursing or skilled rehabilitation personnel",
+     "case_fact": "the beneficiary had bloody urine for three days which \u201cgradually quieted,\u201d",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 6.268594999797642,
+     "offered_passage_ids": [
+      626,
+      628,
+      629,
+      627
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient receiving skilled teaching and training activities requiring skilled personnel to teach the patient to manage the treatment regimen.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 0.6771027501672506,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "There is no information in the case facts about the patient receiving or needing direct skilled therapy services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 2.811958875041455,
+     "offered_passage_ids": [
+      636,
+      643,
+      639,
+      637
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not specify the date of admission to the SNF.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 4.003699334338307,
+     "offered_passage_ids": [
+      571,
+      579,
+      581,
+      580
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was a hospital inpatient for at least 3 consecutive calendar days.",
+     "passage_id": 571,
+     "quote": "at least three consecutive calendar days",
+     "case_fact": "the beneficiary\u2019s hospitalization from February 12 to February 17, 2010",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 2.413878415711224,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m-12-1140",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 11.877024665940553,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information on the frequency of skilled services received by the patient.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.daily",
+     "seconds": 2.346034625079483,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the services delivered are reasonable and necessary for the treatment of the illness or injury.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 7.652652249671519,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      603
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the daily skilled services can be provided only on an inpatient basis in a SNF.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.practical",
+     "seconds": 2.2272676252759993,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the patient's care plan required skilled management and evaluation.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 1.2790226666256785,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the patient required direct skilled nursing services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 2.237586500123143,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      615
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient's condition required skilled observation and assessment due to inconsistent vital signs and other symptoms.",
+     "passage_id": 628,
+     "quote": "abnormal/fluctuating vital signs",
+     "case_fact": "inconsistent vital signs, low blood pressure, and dizziness while standing",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 2.742395124863833,
+     "offered_passage_ids": [
+      626,
+      627,
+      628,
+      629
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient receiving skilled teaching and training activities.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.2767857499420643,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts show the beneficiary received physical therapy and occupational therapy, which are skilled therapy services.",
+     "passage_id": 636,
+     "quote": "skilled physical therapy, occupational therapy",
+     "case_fact": "received physical therapy (PT), occupational therapy (OT)",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 2.3281968338415027,
+     "offered_passage_ids": [
+      636,
+      637,
+      639,
+      646
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was transferred to a participating SNF within 30 days after hospital discharge.",
+     "passage_id": 571,
+     "quote": "within 30 days after discharge",
+     "case_fact": "admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 11.865344707854092,
+     "offered_passage_ids": [
+      579,
+      571,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was an inpatient for at least 3 consecutive calendar days.",
+     "passage_id": 571,
+     "quote": "at least three consecutive calendar days",
+     "case_fact": "inpatient hospitalization from August 16, 2011, through August 25, 2011",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 2.7549547906965017,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m_10_1771",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 14.336971417069435,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information on the frequency of skilled services provided to the patient.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.daily",
+     "seconds": 1.6602457077242434,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the services delivered are reasonable and necessary for the treatment of the illness or injury.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 1.2906166668981314,
+     "offered_passage_ids": [
+      602,
+      617,
+      615,
+      619
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information on whether the daily skilled services can be provided only on an inpatient basis in a SNF.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.practical",
+     "seconds": 4.196679125074297,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the patient's care plan required skilled management and evaluation.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 14.31531041720882,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the patient needs direct skilled nursing services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 1.7087054997682571,
+     "offered_passage_ids": [
+      633,
+      613,
+      634,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the patient's condition requires skilled observation and assessment.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 6.224160791840404,
+     "offered_passage_ids": [
+      626,
+      628,
+      627,
+      629
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient requiring skilled teaching and training activities to manage their treatment regimen.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.654174208175391,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts show the patient required skilled physical therapy services.",
+     "passage_id": 636,
+     "quote": "skilled care",
+     "case_fact": "new physical decline which warranted Physical Therapy",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 4.083654709160328,
+     "offered_passage_ids": [
+      640,
+      636,
+      637,
+      639
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the beneficiary's transfer to a participating SNF within 30 days after hospital discharge.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 1.7036627088673413,
+     "offered_passage_ids": [
+      571,
+      580,
+      579,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the duration of the beneficiary's hospital stay.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 1.537832375150174,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "nj_dept_humanservices22",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 5.348033333197236,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the patient needs supportive devices or assistance to leave their residence.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 3.911265792325139,
+     "offered_passage_ids": [
+      178,
+      182,
+      181,
+      183
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if leaving home is medically contraindicated.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 2.5400094999931753,
+     "offered_passage_ids": [
+      178,
+      182,
+      181,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if leaving home requires a considerable and taxing effort.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 5.287405875045806,
+     "offered_passage_ids": [
+      178,
+      179,
+      182,
+      181
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if there exists a normal inability to leave home.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 3.730368916876614,
+     "offered_passage_ids": [
+      182,
+      178,
+      181,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "There is no information in the case facts that directly indicates the patient is under the care of a physician or allowed practitioner.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.physician",
+     "seconds": 5.328410791698843,
+     "offered_passage_ids": [
+      177,
+      130,
+      191,
+      230
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "There is no information in the case facts that directly addresses whether the services were furnished under a plan of care established and periodically reviewed by a physician or allowed practitioner.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.plan",
+     "seconds": 0.8171308329328895,
+     "offered_passage_ids": [
+      177,
+      130,
+      189,
+      195
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the frequency or duration of skilled nursing care.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 0.6228110417723656,
+     "offered_passage_ids": [
+      177,
+      242,
+      228,
+      233
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient needs physical therapy to teach the beneficiary how to safely transfer to and from the lift.",
+     "passage_id": 292,
+     "quote": "teach the patient to climb and descend stairs safely",
+     "case_fact": "teach the beneficiary how to safely transfer to and from the lift",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 2.4311514580622315,
+     "offered_passage_ids": [
+      285,
+      292,
+      279,
+      294
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "nj_dhs_commiss_case",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 6.00230870814994,
+   "leaves": [
+    {
+     "verdict": "TRUE",
+     "reason": "The patient requires maximum assistance to leave his home.",
+     "passage_id": 178,
+     "quote": "need the aid of supportive devices",
+     "case_fact": "He cannot bear weight and requires maximum assistance to leave his home.",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 5.994070999789983,
+     "offered_passage_ids": [
+      178,
+      181,
+      182,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not explicitly state that leaving home is medically contraindicated.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 4.333759167231619,
+     "offered_passage_ids": [
+      178,
+      181,
+      179,
+      182
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts state that the beneficiary cannot bear weight and requires maximum assistance to leave his home, indicating that leaving home requires a considerable and taxing effort.",
+     "passage_id": 178,
+     "quote": "Leaving home must require a considerable and taxing effort",
+     "case_fact": "He cannot bear weight and requires maximum assistance to leave his home",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 4.325995916966349,
+     "offered_passage_ids": [
+      179,
+      178,
+      181,
+      182
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts show the beneficiary cannot bear weight and requires maximum assistance to leave his home.",
+     "passage_id": 178,
+     "quote": "need the aid of supportive devices",
+     "case_fact": "cannot bear weight and requires maximum assistance to leave his home",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 2.0664389999583364,
+     "offered_passage_ids": [
+      181,
+      179,
+      178,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "There is no information in the case facts that directly indicates the patient is under the care of a physician or allowed practitioner.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.physician",
+     "seconds": 5.694509125314653,
+     "offered_passage_ids": [
+      231,
+      232,
+      177,
+      130
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "There is no information in the case facts or policy passages that directly addresses whether the services were furnished under a plan of care established and periodically reviewed by a physician or allowed practitioner.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.plan",
+     "seconds": 1.8769405409693718,
+     "offered_passage_ids": [
+      177,
+      231,
+      189,
+      232
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information on the frequency or duration of skilled nursing care.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 4.320377792231739,
+     "offered_passage_ids": [
+      177,
+      231,
+      240,
+      233
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient needing physical therapy, speech-language pathology, or having a continuing need for occupational therapy.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 3.635059416759759,
+     "offered_passage_ids": [
+      231,
+      177,
+      232,
+      279
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "ny",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 8.975875209085643,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's need for supportive devices or assistance to leave their residence.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 1.7347503751516342,
+     "offered_passage_ids": [
+      178,
+      181,
+      182,
+      183
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention a condition that would make leaving home medically contraindicated.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 1.6418087081983685,
+     "offered_passage_ids": [
+      178,
+      181,
+      183,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's ability to leave their home or the effort required to do so.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 8.96170908305794,
+     "offered_passage_ids": [
+      179,
+      178,
+      181,
+      183
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's ability to leave home.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 1.062306625302881,
+     "offered_passage_ids": [
+      181,
+      178,
+      179,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient being under the care of a physician or allowed practitioner.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.physician",
+     "seconds": 8.905225624796003,
+     "offered_passage_ids": [
+      177,
+      130,
+      189,
+      232
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about a plan of care established and periodically reviewed by a physician or allowed practitioner.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.plan",
+     "seconds": 8.948305500205606,
+     "offered_passage_ids": [
+      177,
+      130,
+      189,
+      192
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the patient needs skilled nursing care on an intermittent basis.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 5.5531736658886075,
+     "offered_passage_ids": [
+      177,
+      242,
+      225,
+      233
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's need for physical therapy, speech-language pathology, or occupational therapy.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 1.7032847497612238,
+     "offered_passage_ids": [
+      177,
+      130,
+      279,
+      296
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "roman_eagle_memorial_home",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 25.14789366722107,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information on the frequency of skilled services provided to the patient.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.daily",
+     "seconds": 1.477641750127077,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      604
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the services delivered are reasonable and necessary for the treatment of the illness or injury.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 25.120404000394046,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the daily skilled services can be provided only on an inpatient basis in a SNF.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.practical",
+     "seconds": 2.4821391250006855,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      658
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if skilled management and evaluation of a care plan is required.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 0.5662202090024948,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient required intravenous and intramuscular medication for pain and morphine via a portacath, which is a skilled nursing service.",
+     "passage_id": 634,
+     "quote": "Intravenous or intramuscular injections",
+     "case_fact": "Physician\u2019s Telephone Orders requiring intravenous and intramuscular medication",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 2.741162792313844,
+     "offered_passage_ids": [
+      633,
+      634,
+      615,
+      614
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the patient's condition required skilled observation and assessment.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 1.5938473748974502,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention skilled teaching and training activities.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 4.021595875266939,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient receiving direct skilled therapy services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 16.88685629097745,
+     "offered_passage_ids": [
+      636,
+      638,
+      637,
+      646
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was admitted to the appellant\u2019s nursing facility immediately following her discharge from the hospital.",
+     "passage_id": 571,
+     "quote": "within 30 days after discharge",
+     "case_fact": "The beneficiary was admitted to the appellant\u2019s nursing facility, REMH, immediately following her discharge from the hospital",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 2.7008009999990463,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the beneficiary's hospital stay was at least 3 consecutive calendar days.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 0.8911668751388788,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "stfrances_memorial",
+   "domain": "inpatient_rehab",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 6.458985249977559,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's ability to participate in and benefit from the intensive program.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.benefit",
+     "seconds": 6.440117083024234,
+     "offered_passage_ids": [
+      84,
+      91,
+      103,
+      104
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the required documentation for IRF medical records.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.docs",
+     "seconds": 5.737274374812841,
+     "offered_passage_ids": [
+      4,
+      81,
+      80,
+      72
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the intensity of the rehabilitation therapy program.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.intensive",
+     "seconds": 6.428563375025988,
+     "offered_passage_ids": [
+      83,
+      87,
+      88,
+      84
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's need for an intensive and coordinated interdisciplinary approach to providing rehabilitation.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.interdisciplinary",
+     "seconds": 2.00490766717121,
+     "offered_passage_ids": [
+      85,
+      95,
+      94,
+      96
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient's requirement for multiple therapy disciplines.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.multi",
+     "seconds": 5.826524416916072,
+     "offered_passage_ids": [
+      86,
+      83,
+      85,
+      84
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the frequency of face-to-face visits by a rehabilitation physician.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.physician",
+     "seconds": 3.2985888328403234,
+     "offered_passage_ids": [
+      92,
+      93,
+      85,
+      84
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "twin_maples_health_care_case",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 8.720245957840234,
+   "leaves": [
+    {
+     "verdict": "TRUE",
+     "reason": "The patient received skilled physical therapy five times a week.",
+     "passage_id": 650,
+     "quote": "on at least 5 days a week",
+     "case_fact": "physical therapy (PT) was started five times a week",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.daily",
+     "seconds": 0.8882594173774123,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the services delivered are reasonable and necessary for the treatment of the illness or injury.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 2.352152415551245,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the daily skilled services can be provided only on an inpatient basis in a SNF.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.practical",
+     "seconds": 6.102550708223134,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      659
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts show that the beneficiary required skilled management and evaluation of a care plan.",
+     "passage_id": 623,
+     "quote": "skilled nursing services when",
+     "case_fact": "the beneficiary required and received skilled nursing care",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 1.640481499955058,
+     "offered_passage_ids": [
+      623,
+      625,
+      624
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient required skilled nursing care for psychological, behavioral, and medical reasons.",
+     "passage_id": 633,
+     "quote": "skilled nursing services are necessary",
+     "case_fact": "required and received skilled nursing care",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 2.027737374883145,
+     "offered_passage_ids": [
+      633,
+      634,
+      615,
+      614
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient's condition required skilled observation and assessment due to the likelihood of change in condition.",
+     "passage_id": 626,
+     "quote": "requires skilled nursing or skilled rehabilitation personnel",
+     "case_fact": "the beneficiary was closely monitored by the skilled nurses",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 6.494810041971505,
+     "offered_passage_ids": [
+      626,
+      629,
+      627,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not mention the patient receiving skilled teaching and training activities requiring skilled personnel to teach the patient to manage the treatment regimen.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.6401219158433378,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts show the patient received skilled physical therapy for her gait and ambulation problems.",
+     "passage_id": 636,
+     "quote": "skilled care",
+     "case_fact": "received skilled physical therapy for her gait and ambulation problems",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 6.499404083006084,
+     "offered_passage_ids": [
+      636,
+      637,
+      639,
+      644
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was transferred to a participating SNF within 30 days after hospital discharge.",
+     "passage_id": 571,
+     "quote": "within 30 days after discharge",
+     "case_fact": "On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 2.3861586251296103,
+     "offered_passage_ids": [
+      579,
+      571,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the duration of the beneficiary's hospital stay.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 8.710691082756966,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "valley_presbyterian",
+   "domain": "inpatient_rehab",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "wall_s": 9.943306125234812,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide sufficient information to determine if the patient could reasonably be expected to make measurable improvement within a prescribed period of time.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.benefit",
+     "seconds": 1.500771792139858,
+     "offered_passage_ids": [
+      84,
+      91,
+      103,
+      104
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the presence of a pre-admission screening, an overall plan of care, and admission orders in the IRF medical record.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.docs",
+     "seconds": 9.93043537484482,
+     "offered_passage_ids": [
+      74,
+      4,
+      81,
+      80
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information on the intensity of rehabilitation therapy services provided to the beneficiary.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.intensive",
+     "seconds": 1.2184525830671191,
+     "offered_passage_ids": [
+      87,
+      83,
+      88,
+      84
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide enough information to determine if the patient required an intensive and coordinated interdisciplinary approach to providing rehabilitation.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.interdisciplinary",
+     "seconds": 1.4432374173775315,
+     "offered_passage_ids": [
+      85,
+      83,
+      84,
+      94
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the patient requiring multiple therapy disciplines.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.multi",
+     "seconds": 5.867052000015974,
+     "offered_passage_ids": [
+      86,
+      83,
+      84,
+      85
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts do not provide information about the frequency of face-to-face visits by a rehabilitation physician.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.physician",
+     "seconds": 9.311213542241603,
+     "offered_passage_ids": [
+      93,
+      92,
+      84,
+      85
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "case_id": "m-12-1140",
+ "domain": "snf",
+ "docket": "M-12-1140",
+ "service_at_issue": "SNF skilled therapy and nursing services after October 5, 2011 (termination of Medicare coverage)",
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council adopted the ALJ decision because the beneficiary did not require skilled services after October 5, 2011 (Jimmo settlement did not change coverage criteria) and she remained liable for non-covered charges after notice.",
+ "cited_sections": [],
+ "other_cites": [
+  "SSA 1862",
+  "SSA 1879",
+  "42 CFR 409.31(a)(2)",
+  "42 CFR 409.32",
+  "42 CFR 409.32(c)",
+  "42 CFR 409.33",
+  "Jimmo v. Sebelius settlement fact sheet"
+ ],
+ "facts": [],
+ "arm": "B_gaps",
+ "set": "held",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 0,
+ "evidence_words_D": 162,
+ "evidence_ok": 0,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "parent": "m-12-1140",
+ "status": "MAIN"
+}

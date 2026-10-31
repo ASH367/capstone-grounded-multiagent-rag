@@ -1,0 +1,18 @@
+==== results/fair/probe_D_wide_held
+  ORIGINAL key, all cases: n=18  labels {'PARTLY_COVERED': 6, 'COVERED': 7, 'NOT_COVERED': 5}
+     multi  13/18 = 72%   balanced 0.71   preds {'NOT_COVERED': 8, 'COVERED': 7, 'PARTLY_COVERED': 3}
+     single 13/18 = 72%   balanced 0.71   preds {'NOT_COVERED': 8, 'COVERED': 7, 'PARTLY_COVERED': 3}
+     majority-class baseline 39% (COVERED);  always-COVERED 39%;  multi-only-right 0, single-only-right 0, McNemar exact p=1.00;  gap (multi-single) +0 pts, 95% CI [+0, +0]
+  COVERAGE key, merits cases only: n=13  labels {'PARTLY_COVERED': 2, 'COVERED': 7, 'NOT_COVERED': 4}
+     multi  11/13 = 85%   balanced 0.75   preds {'NOT_COVERED': 4, 'COVERED': 7, 'PARTLY_COVERED': 2}
+     single 11/13 = 85%   balanced 0.75   preds {'NOT_COVERED': 4, 'COVERED': 7, 'PARTLY_COVERED': 2}
+     majority-class baseline 54% (COVERED);  always-COVERED 54%;  multi-only-right 0, single-only-right 0, McNemar exact p=1.00;  gap (multi-single) +0 pts, 95% CI [+0, +0]
+  PRIMARY: COVERAGE key, merits cases with enough non-reasoning evidence (builder flag: strict arm >= 60 words and wide arm >= 150): n=11  labels {'PARTLY_COVERED': 2, 'COVERED': 7, 'NOT_COVERED': 2}
+     multi  9/11 = 82%   balanced 0.67   preds {'NOT_COVERED': 2, 'COVERED': 7, 'PARTLY_COVERED': 2}
+     single 9/11 = 82%   balanced 0.67   preds {'NOT_COVERED': 2, 'COVERED': 7, 'PARTLY_COVERED': 2}
+     majority-class baseline 64% (COVERED);  always-COVERED 64%;  multi-only-right 0, single-only-right 0, McNemar exact p=1.00;  gap (multi-single) +0 pts, 95% CI [+0, +0]
+  dropped for thin evidence: [('m-10-1884', 169), ('m-12-1140', 162)]
+  sensitivity: COVERAGE key, merits cases with >= 150 words in this arm: n=13  labels {'PARTLY_COVERED': 2, 'COVERED': 7, 'NOT_COVERED': 4}
+     multi  11/13 = 85%   balanced 0.75   preds {'NOT_COVERED': 4, 'COVERED': 7, 'PARTLY_COVERED': 2}
+     single 11/13 = 85%   balanced 0.75   preds {'NOT_COVERED': 4, 'COVERED': 7, 'PARTLY_COVERED': 2}
+     majority-class baseline 54% (COVERED);  always-COVERED 54%;  multi-only-right 0, single-only-right 0, McNemar exact p=1.00;  gap (multi-single) +0 pts, 95% CI [+0, +0]

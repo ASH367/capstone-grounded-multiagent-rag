@@ -1,0 +1,2633 @@
+{
+ "backend": "openai-compat:anthropic/claude-sonnet-5.5",
+ "results": [
+  {
+   "case_id": "11-1343",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 11.247009207960218,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe patients' functional deficits and when therapy services began, but never state how many days per week skilled nursing or therapy was needed or provided, so the daily requirement cannot be determined.",
+     "passage_id": 650,
+     "quote": "would meet the \u201cdaily basis\u201d requirement when they need and receive those services on at least 5 days a week.",
+     "case_fact": "the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination.",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.daily",
+     "seconds": 1.7965430840849876,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiaries' conditions and when therapy began, but say nothing about the duration, quantity, goal progress, or appropriateness of the services, so reasonableness and necessity cannot be determined either way.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 2.1612613745965064,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      619
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe functional deficits and therapy needs but say nothing about outpatient availability, transportation, home assistance, or family support, so they do not settle whether the daily skilled services could be provided only in a SNF.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.practical",
+     "seconds": 1.334579915739596,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      659
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe functional deficits, therapy referrals, and one post-fall neurological watch, but nothing establishes that the total care plan needed skilled nursing management to prevent likely serious complications.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 2.8850949169136584,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts mostly describe therapy needs, and the one nursing episode (a neurological watch after a fall) does not show that skilled nursing services were required.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 4.8512917081825435,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case describes nurses monitoring J.M. on a neurological watch after a head fall, but it does not show a likelihood of change, a need to modify treatment, or how long observation was needed, and it has no such facts for the other patients.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 5.883844750002027,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe functional deficits and therapy referrals but say nothing about skilled teaching or training of the patient to manage a treatment regimen, so the criterion is not settled either way.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.2862289999611676,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts show the beneficiaries were referred for and received PT, OT, and ST because of functional decline, and the policy covers direct skilled therapy when an individualized assessment shows a qualified therapist's skills are needed.",
+     "passage_id": 636,
+     "quote": "Therapy services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by, or under the supervision of, a qualified therapist.",
+     "case_fact": "D.E. was referred to ST to evaluate for speech/language cognitive deficits affecting her communication and safety.",
+     "case_id": "11-1343",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 1.8570749587379396,
+     "offered_passage_ids": [
+      638,
+      640,
+      636,
+      641
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The facts give D.E.'s hospital stay dates and therapy start dates, but never state an SNF admission date or that the SNF participates, so timely transfer is not settled.",
+     "passage_id": 571,
+     "quote": "the individual must have been transferred to a participating SNF within 30 days after discharge from the hospital",
+     "case_fact": "D.E. had a prior hospital stay for a diagnosis of congestive heart failure from August 23, 2009, to August 26, 2009.",
+     "case_id": "11-1343",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 4.593699249904603,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      557
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "D.E.'s hospital stay ran from August 23 to August 26, 2009. Counting the admission day but not the discharge day gives three consecutive days (Aug 23, 24, 25). The case facts do not say whether she was an inpatient or in observation, so TRUE assumes inpatient status, and medical necessity is generally presumed.",
+     "passage_id": 572,
+     "quote": "the day of admission, but not the day of discharge, is counted as a hospital inpatient day.",
+     "case_fact": "D.E. had a prior hospital stay for a diagnosis of congestive heart failure from August 23, 2009, to August 26, 2009.",
+     "case_id": "11-1343",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 5.003550165798515,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "11-1546",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 42.26508220797405,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts mention medication adjustments on at least thirteen occasions and BP-based dosing, but they do not show skilled nursing or rehabilitation was needed and provided seven days a week, or rehabilitation five days a week.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.daily",
+     "seconds": 2.79069587495178,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's diagnoses and medication adjustments but say nothing about whether the SNF services were reasonable and necessary in nature, duration and quantity; the Medicaid Agency's claim of coverage is only a contention.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 3.7948513752780855,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      603
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's conditions and medication adjustments but say nothing about outpatient availability, transportation, home assistance, or economy and efficiency, so the 'practical matter' criterion cannot be decided.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.practical",
+     "seconds": 1.4317660420201719,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      603
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary's dementia, cardiac and pneumonia diagnoses, and at least thirteen medication adjustments for fluctuating blood pressure and heart rate suggest his care needed skilled nursing planning and management.",
+     "passage_id": 623,
+     "quote": "the patient\u2019s medical needs and safety can be addressed only if the total care, skilled or not, is planned and managed by skilled nursing personnel",
+     "case_fact": "On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate.",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 6.625602415762842,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "Nurses had to use clinical judgment to give medications according to fluctuating blood pressure readings, and medications were adjusted at least thirteen times, which fits the need for a registered nurse's specialized judgment.",
+     "passage_id": 633,
+     "quote": "the specialized judgment, knowledge, and skills of a registered nurse",
+     "case_fact": "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 7.058215583208948,
+     "offered_passage_ids": [
+      633,
+      634,
+      614,
+      635
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary's medications were adjusted at least thirteen times for fluctuating blood pressure and heart rate, with a recent MI and atrial flutter, which shows a reasonable potential for change requiring skilled assessment to modify treatment.",
+     "passage_id": 629,
+     "quote": "Where these signs and symptoms are such that there is a reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment",
+     "case_fact": "On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate.",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 1.8874589591287076,
+     "offered_passage_ids": [
+      626,
+      627,
+      628,
+      629
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's diagnoses, communication difficulty, and medication adjustments, but say nothing about skilled teaching or training to help him manage his treatment regimen.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.2809310001321137,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe diagnoses, communication difficulty and medication management, but say nothing about PT, OT or speech-language therapy being ordered, evaluated or needed.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 1.235356249846518,
+     "offered_passage_ids": [
+      636,
+      646,
+      637,
+      643
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The facts give the hospital discharge date (December 27, 2009) but no SNF admission date, so timely transfer within 30 days cannot be determined.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "11-1546",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 1.8993597920052707,
+     "offered_passage_ids": [
+      571,
+      580,
+      579,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only report the parties' contention and a Dec 15\u201327, 2009 hospital stay; they do not establish that the beneficiary was admitted as an inpatient, as opposed to being in observation or the ER, or that the stay was medically necessary.",
+     "passage_id": 572,
+     "quote": "the day of admission, but not the day of discharge, is counted as a hospital inpatient day.",
+     "case_fact": "each contending that the beneficiary had a qualifying three-day stay.",
+     "case_id": "11-1546",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 3.700409958604723,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "baptist_health_care",
+   "domain": "inpatient_rehab",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 2.623202709015459,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts concern liability and reopening for inpatient AICD replacement admissions, and say nothing about any patient's ability to participate in or benefit from an intensive rehabilitation program.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.benefit",
+     "seconds": 1.3531902078539133,
+     "offered_passage_ids": [
+      84,
+      91,
+      103,
+      104
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts concern inpatient AICD replacement, notice and liability, and reopening, and say nothing about an IRF medical record, a pre-admission screening, a plan of care, or admission orders.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.docs",
+     "seconds": 1.194822708144784,
+     "offered_passage_ids": [
+      80,
+      81,
+      77,
+      72
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only discuss liability, notice, and reopening of inpatient AICD replacement claims; nothing addresses rehabilitation therapy intensity or an IRF stay.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.intensive",
+     "seconds": 1.406336999963969,
+     "offered_passage_ids": [
+      83,
+      87,
+      88,
+      84
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts concern inpatient replacement of AICDs and the appellant's liability and reopening arguments, and say nothing about IRF rehabilitation or an interdisciplinary team approach.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.interdisciplinary",
+     "seconds": 1.3317343750968575,
+     "offered_passage_ids": [
+      85,
+      96,
+      95,
+      83
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts concern the appellant's liability and reopening arguments about inpatient AICD replacement and say nothing about the patient's therapy disciplines or any IRF admission.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.multi",
+     "seconds": 1.2174885417334735,
+     "offered_passage_ids": [
+      86,
+      83,
+      84,
+      85
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only discuss liability, notice, and reopening disputes over inpatient AICD replacement claims; they say nothing about rehabilitation physician supervision or face-to-face visits.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "baptist_health_care",
+     "leaf_id": "irf.physician",
+     "seconds": 1.2010942082852125,
+     "offered_passage_ids": [
+      92,
+      84,
+      93,
+      85
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "conn_dept_social_services",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 4.7950672917068005,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe only procedural filing and briefing deadlines in an appeal and say nothing about the patient's need for or receipt of daily skilled nursing or rehabilitation services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.daily",
+     "seconds": 1.3190884161740541,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe only procedural events (brief deadlines and extension requests) and say nothing about the services delivered, the patient's condition, or whether the care was reasonable and necessary.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 1.2618008749559522,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      618
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe procedural briefing deadlines for a Council review and say nothing about the patient's condition, skilled care needs, or whether care could be provided outside an inpatient SNF.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.practical",
+     "seconds": 1.2749445419758558,
+     "offered_passage_ids": [
+      602,
+      654,
+      659,
+      653
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe only procedural events about the timing of a brief and an extension request. They say nothing about the patient's condition or any need for skilled management of a care plan.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 1.1518454169854522,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe procedural filing deadlines for a Council review request and say nothing about the patient's clinical condition or any need for skilled nursing services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 1.1482579996809363,
+     "offered_passage_ids": [
+      633,
+      634,
+      635,
+      613
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe procedural events about filing a brief for Council review and say nothing about the patient's medical condition or any need for skilled observation and assessment.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 1.1118081249296665,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe procedural filing deadlines for a Council review and say nothing about the patient's clinical needs or any skilled teaching and training.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.2162133329547942,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe only procedural filing and briefing deadlines for a Council review request and say nothing about the patient's need for skilled therapy services.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 1.131746582686901,
+     "offered_passage_ids": [
+      636,
+      646,
+      644,
+      639
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts discuss only procedural filing deadlines for a Council review request and say nothing about hospital discharge, SNF admission, or timing of transfer.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 1.1821075002662838,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts discuss only procedural deadlines for filing a brief and say nothing about any hospital inpatient stay, its length, or its medical necessity.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "conn_dept_social_services",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 1.1585916252806783,
+     "offered_passage_ids": [
+      571,
+      572,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "connecticut11",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "ERROR",
+   "errors": 7,
+   "wall_s": 65.94900637492537,
+   "leaves": [
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.daily",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      558
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      603
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.practical",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      659
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts list diagnoses, safety alarms, and PT discharge, but never show that the patient needed any specific skilled nursing service (e.g., injections or wound care), and the appellant limited its argument to the beneficiary's capability to receive the non-coverage notice.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 1.6108594578690827,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      635
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      636,
+      637,
+      642,
+      644
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The facts say the SNF admission followed a qualifying hospital stay, but they give no hospital discharge date and do not say the SNF was participating, so the 30-day transfer cannot be confirmed.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 3.4911397080868483,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts say the beneficiary was admitted to the SNF after a 'qualifying hospital stay' but give no admission or discharge dates, inpatient status, or length of stay, so the 3-consecutive-day requirement cannot be verified.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "connecticut11",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 1.4824082502163947,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "gr",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 3.9669539998285472,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe where nursing services were provided and the hearing procedure; they say nothing about whether the patient needs supportive devices, special transportation, or another person's help to leave the residence.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 1.1581686669960618,
+     "offered_passage_ids": [
+      178,
+      181,
+      182,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe only the dates, place of service (an assisted living facility), and hearing procedure, and say nothing about the patient's medical condition or whether leaving home is medically contraindicated.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 1.2259425409138203,
+     "offered_passage_ids": [
+      178,
+      181,
+      179,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe where nursing services were provided and the hearing procedure; they say nothing about the beneficiary's ability to leave home or the effort it takes.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 1.141426125075668,
+     "offered_passage_ids": [
+      178,
+      179,
+      181,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe where and when nursing services were provided (an assisted living facility) and the hearing procedure, and say nothing about the beneficiary's ability to leave home.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 1.1094605410471559,
+     "offered_passage_ids": [
+      181,
+      178,
+      179,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe nursing services at an assisted living facility and the hearing, but say nothing about whether the patient was under the care of a physician or allowed practitioner.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.physician",
+     "seconds": 1.1810607081279159,
+     "offered_passage_ids": [
+      130,
+      189,
+      177,
+      191
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe nursing services at an assisted living facility and the hearing procedure, but say nothing about whether a physician or allowed practitioner established or periodically reviewed a plan of care.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.plan",
+     "seconds": 1.1642986251972616,
+     "offered_passage_ids": [
+      177,
+      189,
+      130,
+      196
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts give only the dates, place, and provider of the nursing services and the hearing procedure, and say nothing about the patient's condition, the frequency of visits, or whether the care was skilled and reasonable and necessary.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 1.6602300000377,
+     "offered_passage_ids": [
+      177,
+      240,
+      241,
+      236
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe only nursing services at an assisted living facility and say nothing about whether the patient needed physical therapy, speech-language pathology, or occupational therapy.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "gr",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 1.532959416974336,
+     "offered_passage_ids": [
+      177,
+      130,
+      279,
+      291
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m-10-1884",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 8.71904941694811,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts show skilled PT and OT ended by January 22, 2009, before the dates at issue, but they say nothing about whether skilled nursing was needed and provided daily from January 28 to March 1, 2009.",
+     "passage_id": 650,
+     "quote": "Skilled nursing services or skilled rehabilitation services (or a combination of these services) must be needed and provided on a \u201cdaily basis,\u201d",
+     "case_fact": "She was discharged from OT on January 19, 2009, and from PT on January 22, 2009.",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.daily",
+     "seconds": 3.985917415935546,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts show skilled PT/OT was received and discharged in January 2009, but they say nothing about whether the care billed from January 28 through March 1, 2009 was reasonable and necessary in nature, duration and quantity; the appellant's assertion that the services were skilled is only an argument.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 1.6353798336349428,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts say nothing about whether the daily skilled services were available outside a SNF, about transportation, home support, or the patient's physical condition, so the 'practical matter' criterion cannot be decided.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.practical",
+     "seconds": 1.2240815004333854,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      659
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts show only that PT/OT were skilled through January 2009 and that the appellant argues the later services were skilled. They say nothing about whether the care plan required skilled nursing management, or about any likely potential for serious complications without it.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 1.6797076249495149,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts show only skilled PT/OT (ended in January 2009) and that the appellant argues the services were skilled; they do not describe any nursing services needed during the dates at issue.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 1.5373427923768759,
+     "offered_passage_ids": [
+      633,
+      634,
+      614,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts say only that the beneficiary received PT/OT and was discharged from both, and that the appellant argues the services were skilled. They give no information on whether a likelihood of change in her condition required skilled observation and assessment during the dates at issue.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 1.3936573332175612,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts say the beneficiary received skilled PT and OT but describe no teaching or training of the patient to manage a treatment regimen, and the dates at issue (after PT/OT discharge) are not addressed.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.262679792009294,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "FALSE",
+     "reason": "The beneficiary was discharged from both OT and PT before the January 28, 2009 start of the disputed dates, so the facts show no ongoing need for direct skilled therapy during the period at issue.",
+     "passage_id": 636,
+     "quote": "rather on the beneficiary\u2019s need for skilled care",
+     "case_fact": "She was discharged from OT on January 19, 2009, and from PT on January 22, 2009.",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 4.600467916112393,
+     "offered_passage_ids": [
+      636,
+      637,
+      639,
+      642
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The facts say the beneficiary was re-admitted to the SNF on December 11, 2008 after a hospital stay, but give no hospital discharge date, so the 30-day window cannot be checked, and participating status is not stated.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 4.474713875446469,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts say only that the beneficiary was readmitted to the SNF after a hospital stay for gastrointestinal bleeding, and give no admission or discharge dates, inpatient status, or length of stay.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-10-1884",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 1.504778292030096,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m-11-1869",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 39.797562167048454,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case shows the beneficiary is legally blind, but it does not say she needs a device, special transportation, or another person's help to leave home, which the blind example in the passage requires.",
+     "passage_id": 181,
+     "quote": "A patient who is blind or senile and requires the assistance of another person in leaving their place of residence.",
+     "case_fact": "Her medical conditions also include hypertension, hypercholesterolemia, and legal blindness.",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 2.9841249589808285,
+     "offered_passage_ids": [
+      178,
+      181,
+      182,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe diabetes, blindness, and nursing monitoring, but say nothing about leaving home being medically contraindicated (e.g., physician restrictions on leaving home).",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 1.1420475407503545,
+     "offered_passage_ids": [
+      178,
+      179,
+      181,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's diagnoses and nursing care but say nothing about how hard it is for her to leave home, so the criterion is not settled either way.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 1.3207100830040872,
+     "offered_passage_ids": [
+      179,
+      178,
+      181,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts say the beneficiary is legally blind and that nurses had her see her doctor, but they do not say whether she normally cannot leave home or how often she leaves, so the criterion is not settled.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 1.3304035421460867,
+     "offered_passage_ids": [
+      181,
+      179,
+      178,
+      182
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts show the beneficiary was seen by her doctor and endocrinologist, who adjusted her insulin dosage, so she was under a physician's care as the benefit requires.",
+     "passage_id": 177,
+     "quote": "Under the care of a physician or allowed practitioner;",
+     "case_fact": "the nurses had the beneficiary see her doctor with her blood sugar logs or sent logs evidencing fluctuating blood sugar levels to the beneficiary\u2019s endocrinologist",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.physician",
+     "seconds": 1.6527902502566576,
+     "offered_passage_ids": [
+      232,
+      130,
+      177,
+      229
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe nurses contacting the doctor and adjusting insulin, but never mention a plan of care being established or periodically reviewed by a physician or allowed practitioner.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.plan",
+     "seconds": 1.2983122919686139,
+     "offered_passage_ids": [
+      177,
+      189,
+      195,
+      130
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The nurses' skilled monitoring, assessment and instruction on insulin and medications, which led to repeated dose changes, shows reasonable and necessary skilled observation, assessment and teaching, and the care was delivered as visits.",
+     "passage_id": 239,
+     "quote": "Skilled observation and monitoring of the patient's blood pressure and medication regimen is required",
+     "case_fact": "the nurses provided ongoing monitoring, assessment, and instructions to take the medications as directed",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 5.777155250310898,
+     "offered_passage_ids": [
+      177,
+      239,
+      238,
+      232
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe only skilled nursing visits for diabetes management and never mention physical therapy, speech-language pathology, or occupational therapy needs, so this criterion cannot be settled.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1869",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 3.6897731251083314,
+     "offered_passage_ids": [
+      177,
+      232,
+      130,
+      287
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m-11-1967",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 17.95369583275169,
+   "leaves": [
+    {
+     "verdict": "TRUE",
+     "reason": "A physician indicated skilled nursing was required for a full week, and nurses' notes show monitoring and orders on consecutive days (March 5, 6, 7), which fits the essentially 7-days-a-week standard for skilled nursing.",
+     "passage_id": 650,
+     "quote": "must be needed and provided on a \u201cdaily basis,\u201d i.e., on essentially a 7-days-a- week basis.",
+     "case_fact": "a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.daily",
+     "seconds": 7.194356208201498,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      652
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "After a hospitalization for gross hematuria with transfusions and a Foley catheter, a physician ordered a one-week skilled nursing monitoring period, which fits the severity and his particular needs and is limited in duration; the monitoring then detected bloody urine and abnormal labs leading to rehospitalization.",
+     "passage_id": 617,
+     "quote": "consistent with the nature and severity of the individual\u2019s illness or injury, the individual\u2019s particular medical needs",
+     "case_fact": "a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 6.484194582793862,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      620
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's skilled nursing needs but say nothing about whether outpatient or home alternatives were available or feasible, family support, or transportation, so the 'practical matter' criterion is not settled.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.practical",
+     "seconds": 1.4312701667658985,
+     "offered_passage_ids": [
+      602,
+      653,
+      659,
+      654
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The patient had recent DVT with an IVC filter, ongoing bloody urine through a Foley catheter, abnormal labs and a physician-ordered skilled nursing monitoring plan, which suggests a likely potential for serious complications without skilled management of his total care.",
+     "passage_id": 623,
+     "quote": "the total care, skilled or not, is planned and managed by skilled nursing personnel",
+     "case_fact": "a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 6.171240582596511,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case shows nurses monitoring hematuria, the Foley catheter and labs, but the passages do not say such monitoring is inherently complex skilled nursing, and a service is not skilled merely because a nurse performs it.",
+     "passage_id": 634,
+     "quote": "A service is not considered a skilled nursing service merely because it is performed by or under the direct supervision of a nurse.",
+     "case_fact": "a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void, and to check the Foley catheter.",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 4.866440499667078,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      635
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary had recurrent bloody urine, abnormal and fluctuating labs, and a physician-ordered week of skilled nursing monitoring, which shows a reasonable probability of complication and a likelihood that treatment would change (he was ultimately re-hospitalized).",
+     "passage_id": 628,
+     "quote": "Such signs and symptoms as abnormal/fluctuating vital signs, weight changes, edema, symptoms of drug toxicity, abnormal/fluctuating lab values",
+     "case_fact": "the nurses continued to monitor the beneficiary for signs of hematuria. Laboratory results were abnormal.",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 2.0468976660631597,
+     "offered_passage_ids": [
+      626,
+      628,
+      629,
+      627
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe skilled nursing observation and monitoring, such as checking the Foley catheter and watching for hematuria, but say nothing about teaching or training the patient to manage a treatment regimen.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.4346387078985572,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts address only skilled nursing needs (monitoring, catheter, labs) and say nothing about physical, occupational, or speech therapy needs.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 3.7596254581585526,
+     "offered_passage_ids": [
+      636,
+      643,
+      639,
+      637
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was discharged from the hospital on February 17, 2010 for admission to the SNF, and SNF skilled nursing was documented by March 2, within 30 days of discharge.",
+     "passage_id": 571,
+     "quote": "the individual must have been transferred to a participating SNF within 30 days after discharge from the hospital",
+     "case_fact": "discharge from the hospital on February 17 (for admission to the SNF)",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 5.725340125150979,
+     "offered_passage_ids": [
+      571,
+      579,
+      581,
+      580
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was hospitalized Feb 12 to Feb 17, 2010, which is five counted days (Feb 12-16, excluding the discharge day), and surgery and transfusions support medical necessity. The facts do not explicitly say 'inpatient', so this relies on reading 'hospitalization' as an inpatient stay.",
+     "passage_id": 572,
+     "quote": "the day of admission, but not the day of discharge, is counted as a hospital inpatient day.",
+     "case_fact": "the beneficiary\u2019s hospitalization from February 12 to February 17, 2010, for \u201cworsening gross hematuria.\u201d",
+     "case_id": "m-11-1967",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 6.5387261249125,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m-12-1140",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 39.59545508399606,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts say the beneficiary received PT, OT and nursing but do not state the frequency (days per week) of skilled services, so the daily requirement cannot be determined.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.daily",
+     "seconds": 2.0622103339992464,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts show therapy was provided and then discontinued after a month, but they do not say whether the services were reasonable and necessary in nature, duration and quantity, or whether the later period was covered, so the criterion cannot be settled.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 1.6228786669671535,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      603
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts say nothing about whether outpatient or home services were available, whether transportation was a hardship, or whether home assistance was sufficient, so the 'practical matter' criterion cannot be decided.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.practical",
+     "seconds": 1.553354708943516,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe PT, OT and nursing services and the reasons for discharge from therapy, but say nothing about whether the total care needed skilled planning and management or whether serious complications were likely without it.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 1.525447249878198,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts mention only generic 'nursing services' and give no detail on their nature or complexity, so the need for direct skilled nursing cannot be determined.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 2.129901292268187,
+     "offered_passage_ids": [
+      633,
+      634,
+      613,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts mention inconsistent vital signs, low blood pressure and dizziness, but do not say whether skilled nursing observation and assessment was needed, documented, or likely to change treatment.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 4.056714250240475,
+     "offered_passage_ids": [
+      626,
+      627,
+      628,
+      629
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe PT, OT, and nursing services and the discharge from therapy, but say nothing about skilled teaching or training of the patient to manage a treatment regimen.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.3324558329768479,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "After readmission the beneficiary received skilled PT and OT and still needed moderate assistance with transfers, and the policy covers skilled therapy to improve or maintain a condition.",
+     "passage_id": 636,
+     "quote": "These skilled services may be necessary to improve the patient\u2019s current condition, to maintain the patient\u2019s current condition",
+     "case_fact": "Following readmission, the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services.",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 7.902737041935325,
+     "offered_passage_ids": [
+      636,
+      637,
+      639,
+      646
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was discharged from the hospital on August 25, 2011 and admitted to the SNF the same day, well within the 30-day window.",
+     "passage_id": 579,
+     "quote": "Extended care services are \u201cpost-hospital\u201d if initiated within 30 days after discharge from a hospital stay",
+     "case_fact": "the 87 year old beneficiary was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 1.6927585410885513,
+     "offered_passage_ids": [
+      579,
+      571,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was an inpatient from Aug 16 to Aug 25, 2011 (9 days counting admission day but not discharge day), and medical necessity is generally presumed.",
+     "passage_id": 571,
+     "quote": "the individual must have been an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days",
+     "case_fact": "following inpatient hospitalization from August 16, 2011, through August 25, 2011, for a \u201cseizure-type episode.\u201d",
+     "case_id": "m-12-1140",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 2.3847661670297384,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "m_10_1771",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 11.120083750225604,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe therapy needs and progress but never state how many days per week skilled nursing or rehabilitation services were needed or provided, so the daily-basis requirement cannot be assessed.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.daily",
+     "seconds": 1.4650454591028392,
+     "offered_passage_ids": [
+      650,
+      651,
+      602,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts are mostly the appellant's assertions about progress and need, and they do not settle whether the services were reasonable and necessary in nature, duration and quantity.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 3.756793084088713,
+     "offered_passage_ids": [
+      602,
+      617,
+      615,
+      619
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts say nothing about whether outpatient or home services were available, whether transportation was a hardship, or whether home assistance was sufficient, so the 'practical matter' criterion cannot be settled.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.practical",
+     "seconds": 1.4007933330722153,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      558
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe therapy services and appellant arguments but say nothing showing that the total care had to be planned and managed by skilled nursing personnel, or that there was a likely potential for serious complications without such management.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 1.2479297909885645,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts discuss only physical therapy, speech therapy and cognition, and say nothing about any direct skilled nursing service such as injections, aspiration or wound care, so whether skilled nursing is needed is not settled.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 1.4166070418432355,
+     "offered_passage_ids": [
+      633,
+      613,
+      634,
+      615
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the appellant's arguments for rehabilitation therapy and the beneficiary's progress, but they do not show a likelihood of change in condition needing skilled observation, nor that none existed.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 3.1615678751841187,
+     "offered_passage_ids": [
+      626,
+      628,
+      627,
+      629
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only report the appellant's assertion of safety-awareness education during therapy, and do not show that skilled personnel were needed to teach the patient to manage a treatment regimen.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 4.307687624823302,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts mostly record the appellant's assertions about a need for skilled PT and speech therapy and give no finding on whether the services required a therapist's skills, so the criterion is not settled either way.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 4.182374583091587,
+     "offered_passage_ids": [
+      640,
+      636,
+      637,
+      639
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts give the IRF stay (Nov 6-21, 2008) but never state the date the beneficiary was admitted to a participating SNF. They also contain inconsistent dates, such as September 2008 events preceding the November 2008 surgery, so the 30-day transfer cannot be determined.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 3.644194083288312,
+     "offered_passage_ids": [
+      571,
+      580,
+      579,
+      581
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts give a knee replacement on November 3, 2008, an IRF stay from November 6-21, and a vague reference to a 'hospitalization', but no admission or discharge dates for a qualifying acute inpatient stay of 3 or more days.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "m_10_1771",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 3.8255474590696394,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "nj_dept_humanservices22",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 36.70409162482247,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe difficulty with stairs inside the home (stair lift) and fragility, but never state that either beneficiary needs devices, special transport, or another person's help to leave the residence.",
+     "passage_id": 178,
+     "quote": "need the aid of supportive devices such as crutches, canes, wheelchairs, and walkers; the use of special transportation; or the assistance of another person",
+     "case_fact": "to assist the beneficiary with difficulty navigating stairs in his home due to fatigue, pain and abnormality of gait attributed to post-polio syndrome and unequal leg length.",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 3.8198974579572678,
+     "offered_passage_ids": [
+      178,
+      182,
+      181,
+      183
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe fragility, pain, gait problems and stair difficulty, but none state that leaving home is medically contraindicated for either beneficiary.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 1.1980402087792754,
+     "offered_passage_ids": [
+      178,
+      182,
+      181,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiaries' conditions (difficulty with stairs, fragility, pain) but never say whether leaving home requires a considerable and taxing effort or whether they are homebound.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 1.2931827497668564,
+     "offered_passage_ids": [
+      178,
+      179,
+      182,
+      181
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiaries' conditions and services but say nothing about whether they have a normal inability to leave home or how often they leave it.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 1.1525881253182888,
+     "offered_passage_ids": [
+      182,
+      178,
+      181,
+      179
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts show an attending physician noted the beneficiary's condition and a physician certified her care, which indicates she is under a physician's care.",
+     "passage_id": 177,
+     "quote": "Under the care of a physician or allowed practitioner",
+     "case_fact": "the attending physician noted the beneficiary was very fragile",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.physician",
+     "seconds": 3.6026511252857745,
+     "offered_passage_ids": [
+      177,
+      130,
+      191,
+      230
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts mention a physician certification and a therapist designing a home exercise program, but never state that a physician or allowed practitioner established and periodically reviewed a plan of care.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.plan",
+     "seconds": 2.4299057498574257,
+     "offered_passage_ids": [
+      177,
+      130,
+      189,
+      195
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts concern physical therapy and home health aide services; the appellant withdrew its skilled nursing claim for D.W., and nothing shows whether skilled nursing was needed intermittently and was reasonable and necessary.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 1.3337426660582423,
+     "offered_passage_ids": [
+      177,
+      242,
+      228,
+      233
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts give only the appellant's assertions that the physical therapy was needed (stair lift transfer training, home exercise program) and do not say whether the services were found reasonable and necessary.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dept_humanservices22",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 2.652582500129938,
+     "offered_passage_ids": [
+      285,
+      292,
+      279,
+      294
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "nj_dhs_commiss_case",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 8.92853895900771,
+   "leaves": [
+    {
+     "verdict": "TRUE",
+     "reason": "The case states he cannot bear weight and requires maximum assistance to leave home, which meets the need for assistance of another person to leave the residence.",
+     "passage_id": 178,
+     "quote": "the assistance of another person in order to leave their place of residence",
+     "case_fact": "He cannot bear weight and requires maximum assistance to leave his home.",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 1.2065545422956347,
+     "offered_passage_ids": [
+      178,
+      181,
+      182,
+      179
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts show he needs maximum assistance to leave home, which fits the other branch of criterion one, but no fact says a physician found leaving home medically contraindicated.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 1.2297896249219775,
+     "offered_passage_ids": [
+      178,
+      181,
+      179,
+      182
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary is totally dependent, cannot bear weight, and needs maximum assistance to leave home, which together with his chronic conditions and repeated infections shows that leaving home takes considerable and taxing effort.",
+     "passage_id": 178,
+     "quote": "Leaving home must require a considerable and taxing effort.",
+     "case_fact": "He cannot bear weight and requires maximum assistance to leave his home.",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 3.7034107078798115,
+     "offered_passage_ids": [
+      179,
+      178,
+      181,
+      182
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary is totally dependent, cannot bear weight and needs maximum assistance to leave home, which indicates a normal inability to leave home; the case gives no information on how often he actually leaves.",
+     "passage_id": 178,
+     "quote": "There must exist a normal inability to leave home; AND",
+     "case_fact": "He cannot bear weight and requires maximum assistance to leave his home.",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 4.387331750243902,
+     "offered_passage_ids": [
+      181,
+      179,
+      178,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe nursing visits, a hospitalization and prescription antibiotics, but never state that a physician or allowed practitioner was overseeing his care or ordering the visits.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.physician",
+     "seconds": 3.864022166002542,
+     "offered_passage_ids": [
+      231,
+      232,
+      177,
+      130
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe skilled nursing visits and the beneficiary's condition but say nothing about whether a physician or allowed practitioner established and periodically reviewed a plan of care.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.plan",
+     "seconds": 1.2021665419451892,
+     "offered_passage_ids": [
+      177,
+      231,
+      189,
+      232
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case describes complications such as infections, abscesses and a fistula, but it does not state how often the nurses visited or whether the visits were reasonable, necessary and intermittent, which is the issue on appeal.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 4.008449541870505,
+     "offered_passage_ids": [
+      177,
+      231,
+      240,
+      233
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe skilled nursing visits at issue and say nothing about a need for physical therapy, speech-language pathology, or occupational therapy.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "nj_dhs_commiss_case",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 1.239007500000298,
+     "offered_passage_ids": [
+      231,
+      177,
+      232,
+      279
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "ny",
+   "domain": "home_health",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 3.6080989157781005,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe the appellant's arguments about hours of home health services and say nothing about whether the patient needs devices, special transportation, or another person's help to leave home.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.homebound.c1.aid",
+     "seconds": 1.1608228753320873,
+     "offered_passage_ids": [
+      178,
+      181,
+      182,
+      183
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe the appellant's arguments about hours and coverage of home health services and say nothing about the beneficiary's condition or whether leaving home is medically contraindicated.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.homebound.c1.contra",
+     "seconds": 1.1031319997273386,
+     "offered_passage_ids": [
+      178,
+      181,
+      183,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe the appellant's arguments about the hours and frequency of home health services and say nothing about the beneficiary's ability to leave home or the effort that requires.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.homebound.c2.effort",
+     "seconds": 1.2173377089202404,
+     "offered_passage_ids": [
+      179,
+      178,
+      181,
+      183
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe the appellant's arguments about the amount and frequency of home health services, and say nothing about the beneficiary's ability to leave home.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.homebound.c2.inability",
+     "seconds": 1.131490457803011,
+     "offered_passage_ids": [
+      181,
+      178,
+      179,
+      182
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe the appellant's arguments about the amount and coverage of home health services and never say whether the beneficiary was under a physician's or allowed practitioner's care.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.physician",
+     "seconds": 1.199464375153184,
+     "offered_passage_ids": [
+      177,
+      130,
+      189,
+      232
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe the appellant's arguments about hours of home health services and say nothing about whether a plan of care was established or periodically reviewed by a physician or allowed practitioner.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.plan",
+     "seconds": 1.164269832894206,
+     "offered_passage_ids": [
+      177,
+      130,
+      189,
+      192
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only report the appellant's legal arguments about part-time and intermittent coverage and say nothing about this patient's need for skilled nursing on an intermittent basis, so the criterion cannot be settled.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.skilled.nursing",
+     "seconds": 1.2750331251882017,
+     "offered_passage_ids": [
+      177,
+      242,
+      225,
+      233
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts discuss home health aide or skilled nursing hours and do not say whether the beneficiary needs physical therapy, speech-language pathology, or continuing occupational therapy.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "ny",
+     "leaf_id": "hh.skilled.therapy",
+     "seconds": 1.216968999709934,
+     "offered_passage_ids": [
+      177,
+      130,
+      279,
+      296
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "roman_eagle_memorial_home",
+   "domain": "snf",
+   "root": "NO_INFORMATION",
+   "decision": "ERROR",
+   "errors": 10,
+   "wall_s": 64.39697645790875,
+   "leaves": [
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.daily",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      604
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      615
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.practical",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      602,
+      653,
+      654,
+      658
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      623,
+      624,
+      625
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      633,
+      634,
+      615,
+      614
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      626,
+      627,
+      629,
+      628
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      636,
+      638,
+      637,
+      646
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      571,
+      579,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "ERROR",
+     "reason": "ERROR HTTP Error 429: Too Many Requests",
+     "case_id": "roman_eagle_memorial_home",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 0.0,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "stfrances_memorial",
+   "domain": "inpatient_rehab",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 2.677323041949421,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe only procedural history and legal arguments, with nothing about the beneficiaries' conditions, functional status, or expected participation in and benefit from IRF therapy.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.benefit",
+     "seconds": 1.4113152092322707,
+     "offered_passage_ids": [
+      84,
+      91,
+      103,
+      104
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the procedural history of the appeal and never say whether the IRF records contained a pre-admission screening, an overall plan of care, or admission orders.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.docs",
+     "seconds": 1.2541632079519331,
+     "offered_passage_ids": [
+      4,
+      81,
+      80,
+      72
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe only the procedural history of the appeal and say nothing about the beneficiaries' therapy needs or intensity, so the criterion cannot be settled.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.intensive",
+     "seconds": 1.3607549578882754,
+     "offered_passage_ids": [
+      83,
+      87,
+      88,
+      84
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe only the procedural history of the IRF claims and appeal; they say nothing about whether the beneficiaries needed or received an intensive, coordinated interdisciplinary approach to rehabilitation.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.interdisciplinary",
+     "seconds": 1.226722292136401,
+     "offered_passage_ids": [
+      85,
+      95,
+      94,
+      96
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts only describe the procedural history of IRF claims and the issues on appeal; they say nothing about which therapy disciplines the patients required.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.multi",
+     "seconds": 1.3822667920030653,
+     "offered_passage_ids": [
+      86,
+      83,
+      85,
+      84
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe only the procedural history of the appeal and say nothing about whether a rehabilitation physician made face-to-face visits at least 3 days per week.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "stfrances_memorial",
+     "leaf_id": "irf.physician",
+     "seconds": 1.2148688342422247,
+     "offered_passage_ids": [
+      92,
+      93,
+      85,
+      84
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "twin_maples_health_care_case",
+   "domain": "snf",
+   "root": "TRUE",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 15.007414374966174,
+   "leaves": [
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts show skilled nursing monitoring multiple times each day and PT five times a week from SNF admission, which satisfies the daily-basis requirement.",
+     "passage_id": 650,
+     "quote": "A patient whose inpatient stay is based solely on the need for skilled rehabilitation services would meet the \u201cdaily basis\u201d requirement when they need and receive those services on at least 5 days a week.",
+     "case_fact": "Upon the beneficiary\u2019s admission to the SNF, physical therapy (PT) was started five times a week",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.daily",
+     "seconds": 1.5410218336619437,
+     "offered_passage_ids": [
+      650,
+      602,
+      651,
+      652
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The SNF services (close nursing and psychiatric monitoring, medication adjustment, PT, and pneumonia treatment) matched the beneficiary's dementia, behavioral and medical conditions, and her behavior stabilized.",
+     "passage_id": 617,
+     "quote": "consistent with the nature and severity of the individual\u2019s illness or injury, the individual\u2019s particular medical needs, and accepted standards of medical practice",
+     "case_fact": "On August 5, 2009, the psychiatrist reduced her Haldol from three to two times a day (Exh. 1 at 59), and close monitoring of her moods and behaviors continued in light of that change.",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.necessary",
+     "seconds": 1.9017222090624273,
+     "offered_passage_ids": [
+      602,
+      617,
+      604,
+      615
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was violent toward her primary caregiver and needed multiple daily skilled nursing and psychiatric monitoring, which indicates home care would not have been safe or effective, so the skilled care could practically be given only in the SNF.",
+     "passage_id": 653,
+     "quote": "home care would be ineffective because the patient would have insufficient assistance at home to reside there safely",
+     "case_fact": "being violent and assaultive toward her primary caregiver",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.practical",
+     "seconds": 7.6701964172534645,
+     "offered_passage_ids": [
+      602,
+      654,
+      653,
+      659
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The record shows the beneficiary's dementia, psychosis, aggression, medication changes and pneumonia required close monitoring by skilled nurses, physicians and a psychiatric APRN, which supports inferring skilled management of her total care.",
+     "passage_id": 623,
+     "quote": "if the documentation of the patient\u2019s overall condition substantiates a finding that the patient\u2019s medical needs and safety can be addressed only if the total care",
+     "case_fact": "the beneficiary was closely monitored by the skilled nurses (multiple times each day), one or more physicians, and the psychiatric APRN, for changes in her mood, her behaviors",
+     "case_fact_note": null,
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.careplan",
+     "seconds": 2.659636833705008,
+     "offered_passage_ids": [
+      623,
+      625,
+      624
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary had pneumonia treated with oxygen and frequent nursing monitoring, and her dementia with psychosis and assaultiveness was under a medication change that needed close skilled nursing observation, so her special complications required a registered nurse's skills.",
+     "passage_id": 614,
+     "quote": "A service that is ordinarily considered nonskilled could be considered a skilled service in cases in which, because of special medical complications",
+     "case_fact": "During the period from July 27, 2009, through August 11, 2009, the beneficiary was closely monitored by the skilled nurses (multiple times each day)",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.nursing",
+     "seconds": 2.0176356248557568,
+     "offered_passage_ids": [
+      633,
+      634,
+      615,
+      614
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was closely monitored by skilled nurses and a psychiatric APRN for mood and behavior changes after her Haldol dose was reduced, and later for pneumonia, until her behavior stabilized. This is skilled observation and assessment to decide on modified treatment.",
+     "passage_id": 626,
+     "quote": "Observation and assessment are skilled services when the likelihood of change in a patient\u2019s condition requires skilled nursing or skilled rehabilitation personnel",
+     "case_fact": "On August 5, 2009, the psychiatrist reduced her Haldol from three to two times a day (Exh. 1 at 59), and close monitoring of her moods and behaviors continued in light of that change.",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.observation",
+     "seconds": 2.1717824996449053,
+     "offered_passage_ids": [
+      626,
+      629,
+      627,
+      628
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe skilled nursing observation, medication monitoring, and PT, but say nothing about skilled teaching or training of the patient or caregiver to manage a treatment regimen.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.teaching",
+     "seconds": 1.237742249853909,
+     "offered_passage_ids": [
+      630,
+      631
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The case facts show skilled physical therapy was started five times a week on SNF admission for gait, transfer and fall-risk problems, and coverage turns on need for skilled care rather than potential for improvement.",
+     "passage_id": 636,
+     "quote": "Coverage for such skilled therapy services does not turn on the presence or absence of a beneficiary\u2019s potential for improvement",
+     "case_fact": "physical therapy (PT) was started five times a week",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.level.skilled.therapy",
+     "seconds": 5.840389458928257,
+     "offered_passage_ids": [
+      636,
+      637,
+      639,
+      644
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary entered the hospital on July 20, 2009 and was admitted to the SNF on July 27, 2009, so the transfer came well within 30 days of discharge, with skilled PT begun on admission.",
+     "passage_id": 571,
+     "quote": "the individual must have been transferred to a participating SNF within 30 days after discharge from the hospital",
+     "case_fact": "On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility, the appellant\u2019s SNF.",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.stay.30day",
+     "seconds": 3.9047645828686655,
+     "offered_passage_ids": [
+      579,
+      571,
+      580,
+      581
+     ]
+    },
+    {
+     "verdict": "TRUE",
+     "reason": "The beneficiary was admitted to an acute psychiatric unit on July 20, 2009 and entered the SNF on July 27, 2009, which is about seven inpatient days. Medical necessity is generally presumed.",
+     "passage_id": 572,
+     "quote": "the day of admission, but not the day of discharge, is counted as a hospital inpatient day.",
+     "case_fact": "On July 20, 2009, the beneficiary (age 88) was admitted to the acute psychiatric unit at Yale University for dementia",
+     "case_id": "twin_maples_health_care_case",
+     "leaf_id": "snf.stay.3day",
+     "seconds": 4.34357541706413,
+     "offered_passage_ids": [
+      572,
+      571,
+      573,
+      557
+     ]
+    }
+   ]
+  },
+  {
+   "case_id": "valley_presbyterian",
+   "domain": "inpatient_rehab",
+   "root": "NO_INFORMATION",
+   "decision": "COVERED",
+   "errors": 0,
+   "wall_s": 36.67208274966106,
+   "leaves": [
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts give her prior independence, her admission functional deficits and her severe pain, but nothing on whether she could be expected to participate in therapy or make measurable improvement, and the medical expert's opinion is not described.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.benefit",
+     "seconds": 3.6499742921441793,
+     "offered_passage_ids": [
+      84,
+      91,
+      103,
+      104
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's admission, treatment and functional status, but never say whether the IRF record contains a pre-admission screening, an overall plan of care, or admission orders.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.docs",
+     "seconds": 1.3194687920622528,
+     "offered_passage_ids": [
+      74,
+      4,
+      81,
+      80
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's functional status, medications and pain but give no information about the amount or intensity of therapy she required or received, so the criterion cannot be settled.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.intensive",
+     "seconds": 1.310376790817827,
+     "offered_passage_ids": [
+      87,
+      83,
+      88,
+      84
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's medical needs and functional status but say nothing about team conferences, interdisciplinary coordination, or the IRF documentation, so the criterion cannot be decided.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.interdisciplinary",
+     "seconds": 1.2699294579215348,
+     "offered_passage_ids": [
+      85,
+      83,
+      84,
+      94
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe functional deficits and medications but never state which therapy disciplines were required or provided, so the multiple-discipline criterion cannot be determined.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.multi",
+     "seconds": 2.3425559578463435,
+     "offered_passage_ids": [
+      86,
+      83,
+      84,
+      85
+     ]
+    },
+    {
+     "verdict": "NO_INFORMATION",
+     "reason": "The case facts describe the beneficiary's IV/IM medications, severe pain, and functional status, but say nothing about whether a rehabilitation physician made face-to-face visits at least 3 days per week or whether she required such supervision.",
+     "passage_id": null,
+     "quote": "",
+     "case_fact": "",
+     "case_id": "valley_presbyterian",
+     "leaf_id": "irf.physician",
+     "seconds": 1.2301522917114198,
+     "offered_passage_ids": [
+      93,
+      92,
+      84,
+      85
+     ]
+    }
+   ]
+  }
+ ]
+}

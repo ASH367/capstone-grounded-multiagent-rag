@@ -1,0 +1,89 @@
+{
+ "case_id": "kaweah_rehabilitationhospital",
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "service_at_issue": "Inpatient rehabilitation hospital stay, November 5 to 19, 2004",
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council found each of the ALJ's reasons (stability on admission, no active co-morbidities, no exacerbation, SNF suitability, family request) legally irrelevant or unsupported, and found the IRF services reasonable and necessary.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.3"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.2"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.3"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.4"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.5"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.6"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.7"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "SSA 1862(a)",
+  "SSA 1861(e)(1)"
+ ],
+ "facts": [
+  "This claim for two weeks of inpatient rehabilitation services provided to the beneficiary was initially paid.",
+  "She was 77 years old at the time of this rehabilitation placement and had been suffering for some years from progressive lung disease.",
+  "On admission to the inpatient rehabilitation facility (IRF) from the hospital, her primary diagnosis was \u201csevere debilitation due to multiple hospitalizations for pneumonia secondary to severe chronic obstructive pulmonary disease [COPD],\u201d with additional diagnoses including diverticulitis, bowel problems and severe muscle wasting in the extremities. Id. The beneficiary also suffered from complaints of \u201csevere fatigue, inability to ambulate, extreme muscle weakness, occasional dyspepsia, frequent constipation, and several tender joints. Id.",
+  "The initial IRF treatment plan included providing daily occupational and physical therapy, maintaining existing medications (which included oxygen therapy and high doses of steroids), and introducing new medications (including adding Flagyl to existing antibiotics to address possible anaerobic infection, nitroglycerin ointment to address high blood pressure, and other treatments for breathing, possible allergy and bowel issues). Id. at 2-3, and record citations therein. She also entered with a stage II pressure sore on her coccyx, with leukocytosis, hyponatremia, and hypokalemia. Id.",
+  "By the end of her two-week stay in the IRF, the beneficiary\u2019s \u201cabdominal complaints improved, her energy improved, her eating improved, and she gained five pounds.\u201d Id. at 2, and record citations therein. Her coccyx ulcer \u201cresponded well to treatment,\u201d her leukocytosis \u201cresolved,\u201d her hyponatremia \u201cwas corrected,\u201d and her hypokalemia \u201cwas being treated.\u201d Id. at 3, and record citations therein.",
+  "On admission, IRFs are to evaluate the appropriateness of its services for the beneficiary using a Patient Assessment Instrument (PAI). The core criterion for screening a patient for IRF services is that the \u201cpatient requires and receives \u2018a more coordinated, intensive program of multiple services than is generally found out of a hospital.\u201d",
+  "(The manual notes that this \u201cdegree of physician involvement . . . is greater than is normally rendered to a patient in a SNF . . . .\u201d); 2. \u201c24-hour availability of a registered nurse with specialized training or experience in rehabilitation;\u201d 3.",
+  "Realistic goals, which for most Medicare patients would mean \u201cself-care or independence in the activities of daily living; i.e., self-sufficiency in bathing, ambulation, eating, dressing, homemaking, etc., or sufficient improvement to allow a patient to live at home with family assistance rather than in an institution,\u201d so that \u201cthe aim of the treatment is achieving the maximum level of function possible.\u201d",
+  "On entry, a comprehensive multidisciplinary initial evaluation was performed and appropriate goals and modalities were articulated in writing, and concluded that the beneficiary\u2019s rehabilitation potential for the identified goals was \u201cgood.\u201d Ex. 8, at 713-19. Daily plans of care record identified needs and collected data as to each, the actions taken that shift to address every area, the patient\u2019s responses in each area, daily assessment of the level of assistance or intervention the patient required, multidisciplinary activity flow sheets, and specific focus notes on areas of concern. Ex. 8 at 740-855.",
+  "A written team conference report for November 12, 2004, documents the presence of the physician, two therapists, two registered nurses, and the social worker reviewing the beneficiary\u2019s medical and psychosocial status, identifying specific treatment",
+  "On admission, the beneficiary required two liters of oxygen airflow to maintain adequate saturation while her treating physician testified at the hearing that she was able to reduce the airflow to 1 liter by discharge despite her higher level of activity. Compare Ex. 8, at 713 with Hearing CD. The treating physician testified that all of the resident\u2019s discharge goals were achieved.",
+  "(1) The beneficiary was stable on admission to the IRF. (2) The beneficiary did not have \u201cactive\u201d co-morbidities, illnesses, infections, or complications. (3) The beneficiary did not suffer an exacerbation while in the IRF. (4) The beneficiary\u2019s needs could have been met in a SNF. (5) The placement was made at the family\u2019s request to avoid a long-term care placement.",
+  "The statement appears to be based on a statement in the QIC decision that the admission history showed that the beneficiary\u2019s \u201cvital signs were stable\u201d and she did not \u201cpresent in acute distress.\u201d Ex. 13, at 1023. Here, in fact, the treating physician testified that the vital signs recorded on the history are not stable or medically appropriate and that they called for medical intervention, which he proceeded to provide. The physician testified that the temperature was significantly elevated (as it had been frequently in the recent past) when viewed in light of the high level of steroids she was taking which should have caused a lowering of temperature.",
+  "The physician also testified that her respirations should have been closer to 14-15 than 35.",
+  "As already discussed, the beneficiary had extensive co- morbidities and suffered from multiple chronic and acute illnesses.",
+  "In this regard, the appellant submitted a data analysis identified as based on \u201cOSHPD LTC Annual Disclosure Reports,\u201d which covered collective financial and staffing information on the 13 SNFs in the same county as its IRF during 2004. Ex. 8, at 661-64. By contrast, the appellant asserts that at the relevant time its registered nurses spent 3.86 productive hours per patient day."
+ ],
+ "arm": "D_wide",
+ "set": "dev",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 474,
+ "evidence_words_D": 857,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "parent": "kaweah_rehabilitationhospital",
+ "status": "MAIN"
+}

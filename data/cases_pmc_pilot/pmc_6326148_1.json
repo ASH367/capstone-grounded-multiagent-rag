@@ -1,0 +1,31 @@
+{
+ "case_id": "pmc_6326148_1",
+ "domain": "inpatient_rehab",
+ "service_at_issue": "Transfer to an inpatient rehabilitation facility after a hospital stay (published case report; hypothetical Medicare review)",
+ "facts": [
+  "A 72-year-old man was injured when the bicycle he was riding collided with a car (we estimated that the time of injury was 4 h after the last taking of dabigatran).",
+  "On hospital arrival, his Glasgow Coma Scale (GCS) score was 14 (eyes, 3; verbal, 5; motor, 6), and his vital signs were stable.\\nArterial blood gas analysis results while receiving oxygen by reservoir mask at a rate of 8 L/min and blood test findings are shown in Table .",
+  "Whole-body computed tomography (CT) showed a right temporal lobe contusion, acute subdural hematoma, zygomatic bone fracture, and third lumbar compression fracture.",
+  "A representative head CT image is shown in Fig. .\\nWe planned a follow-up CT 3 h later and observed him carefully in the intensive care unit.",
+  "The second CT showed that the temporal lobe hematoma had increased to 80 \u00d7 80 \u00d7 40 mm (Fig. ).",
+  "At this time (7.5 h after the last taking of dabigatran), his GCS score was 13 (eyes, 3; verbal, 4; motor, 6) and manual muscle test results of 3/5 degrees indicated left hemiplegia.",
+  "We decided to perform an emergency craniotomy for hematoma removal.",
+  "At this time, we were informed of his medical history and daily prescriptions by his primary care hospital.\\nHis past medical history included atrial fibrillation, and his daily prescriptions included dabigatran 220 mg.",
+  "Immediately after learning this, we administered 5 g of idarucizumab by intravenous injection at 5.5 h after the injury (9.5 h after the last taking of dabigatran), and the craniotomy was begun at 6.5 h after the injury.",
+  "There was no bleeding tendency during surgery, no blood transfusions were required, and the amount of bleeding was small.\\nAfter the surgery, the CT findings revealed that the intracranial hematoma had been removed (Fig. ), and blood test findings were PT 46%, aPTT 43.9 s, and FDP D-dimer 22.6 \u03bcg/mL.",
+  "The clinical course, laboratory data, and head CT images are shown in Fig. .",
+  "We resumed his dabigatran on postoperative day (POD) 7.",
+  "A ventriculoperitoneal shunt operation was performed for hydrocephalus on POD 47.",
+  "He was transferred to a rehabilitation hospital with a Glasgow Outcome Scale score of 3 on POD 102.\\nIdarucizumab is a humanized monoclonal antibody fragment that binds dabigatran with 350-fold higher affinity than that of dabigatran for thrombin and rapidly reverses its anticoagulant activity.",
+  "Guidelines for the use of idarucizumab include life-threatening bleeding, bleeding into a critical organ or closed space, prolonged bleeding despite local hemostatic measures, high risk of recurrent bleeding because of overdose or delayed clearance of a drug, and the need for an urgent intervention associated with a high risk of bleeding [].\\nDabigatran has the longest half-life (12\u201317 h) of any of the DOACs [, ].",
+  "The dabigatran concentration in the blood in the present patient was thought to be at a high level from the time of injury to the administration of idarucizumab, which likely resulted in the expansion of the intracranial hematoma.",
+  "It has been recognized that trauma-associated coagulopathy is more common in patients with traumatic brain injury.",
+  "The coagulopathy results in poor outcomes due to delayed or progressive bleeding and ischemic secondary injury [\u2013]."
+ ],
+ "reference_outcome": "unknown",
+ "outcome_note": "",
+ "cited_sections": [],
+ "other_cites": [],
+ "scope": "included",
+ "source": "PMC-Patients (CC BY-NC-SA 4.0), PMID 31179930"
+}

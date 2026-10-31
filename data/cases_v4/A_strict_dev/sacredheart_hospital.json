@@ -1,0 +1,53 @@
+{
+ "case_id": "sacredheart_hospital",
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "service_at_issue": "Acute inpatient hospital stay after ventral hernia repair, July 27 to 29, 2005",
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council found that the beneficiary's health status and the foreseeable adverse effects were severe enough to require acute inpatient care, reversing the ALJ.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "10"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 405.980",
+  "42 CFR 405.926(l)",
+  "42 CFR 405.986",
+  "42 CFR 476.71(a)(1)",
+  "42 CFR 476.71(a)(3)",
+  "42 CFR 476.83",
+  "42 CFR 405.1062(a)",
+  "42 CFR 405.1063",
+  "HCFA Ruling 93-1",
+  "SSA 1862(a)(1)",
+  "SSA 1879",
+  "MPIM ch.3 3.6.B",
+  "QIOM ch.7 7100",
+  "QIOM ch.4 4110"
+ ],
+ "facts": [
+  "The appellant billed Medicare for the beneficiary\u2019s inpatient hospitalization from July 27, through July 29, 2005. Exh. 1 at 3.",
+  "\uf0b7 The need for diagnostic studies that appropriately are outpatient services (i.e. their performance does not ordinarily require the patient to remain at the hospital for 24 hours or more) to assist in assessing whether the patient should be admitted; and",
+  "The appellant first asserts that the acute hospital services, and the decision to admit, were reasonable and necessary, and therefore, the acute inpatient services are covered by Medicare. Exh. MAC-1 at 2-3. The appellant claims that the medical documentation supports that the treating physician made \u201ca thoughtful, prudent decision to admit [the beneficiary] to the hospital for a multi-day hospital stay based on \u2018the amount of dissection required intra-abdominally as well as her underlying pulmonary status.\u2019\u201d Id. at 3.",
+  "On the first date at issue (July 27, 2005), the 71-year-old beneficiary was admitted to the appellant\u2019s facility for surgical repair of a \u201clarge, complicated and mildly symptomatic incisional\u201d abdominal wall (ventral) hernia that occurred as a result of a sigmoid colon resection with colostomy in 2003. Exh. 2 at 3. The medical record indicates that the beneficiary had \u201csignificant underlying pulmonary disease in the form of recurrent episode of bronchial asthma.",
+  "The beneficiary tolerated the surgical procedure well, and was extubated and admitted to the post-anesthesia care unit (PACU). Id. at 6A. The record shows that the beneficiary was hospitalized \u201cowing to the amount of dissection required intra- abdominally as well as her underlying pulmonary status.\u201d Id. at 8.",
+  "At the time of the beneficiary\u2019s admission to the PACU, she was in stable condition with stable vital signs and breathing with 2.5 liters of oxygen by nasal cannula. Id. at 6A, 12, 28. She received twice daily pulmonary assessments and continued on oxygen at 1.5 liters by nasal cannula. Id. at 67. The beneficiary was given pain medication as needed and identified her surgical site pain on July 27, 2005, as \u201c5,\u201d \u201c8\u201d and \u201c4;\u201d and on July 28, 2005, as \u201c3\u201d and \u201c6\u201d on a numerical pain scale. Id. at 83."
+ ],
+ "arm": "A_strict",
+ "set": "dev",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 353,
+ "evidence_words_D": 832,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

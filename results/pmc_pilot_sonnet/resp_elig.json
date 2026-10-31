@@ -1,0 +1,242 @@
+[
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The service, an inpatient hospital admission for an acute intracranial hemorrhage, is a type of care the policy addresses. Whether the admission was medically necessary is for the QIO to decide case by case, so it is not settled here.",
+    "passage_id": 14,
+    "quote": "whether the admission was medically necessary",
+    "case_fact": "The patient was admitted to the neurocritical care unit for frequent neurological examinations."
+   },
+   {
+    "claim": "The policy requires physician certification of the need for inpatient admission or continued stay. The case facts do not mention an admission order or certification, so this condition cannot be confirmed.",
+    "passage_id": 31,
+    "quote": "The physician may certify the need for continued inpatient admission on this basis.",
+    "case_fact": "The patient was admitted to the neurocritical care unit for frequent neurological examinations."
+   },
+   {
+    "claim": "The later inpatient rehabilitation stay falls within the IRF criteria the policy sets out. The case facts do not show whether the patient needs an intensive, coordinated interdisciplinary approach, whether rehabilitation physician visits occurred, or whether the other IRF conditions were met.",
+    "passage_id": 85,
+    "quote": "The patient must require an intensive and coordinated interdisciplinary approach to providing rehabilitation",
+    "case_fact": "He was discharged to the inpatient rehabilitation unit on hospital day 7 with a plan to remain off all anticoagulation therapies."
+   }
+  ],
+  "case_id": "pmc_3556834_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The passages say services not related to non-covered services are covered. The case describes emergency aortic repair and a later graft repair, and nothing marks the original surgery as non-covered. However, the passages do not address surgical aneurysm repair directly, and Medicare status is not stated, so coverage of the acute surgical care is not settled.",
+    "passage_id": 105,
+    "quote": "Services \"not related to\" non-covered services are covered under Medicare.",
+    "case_fact": "Secondary median sternotomy was made after exposing right femoral artery and vein."
+   },
+   {
+    "claim": "The retrieved IRF passages apply only if the post-surgical rehabilitation stay was an IRF stay. The case mentions a Stroke Rehabilitation Unit in a district hospital, but does not say it was an IRF. It also has no physician-visit documentation, so physician supervision eligibility is UNKNOWN.",
+    "passage_id": 92,
+    "quote": "documented face-to-face visits from a rehabilitation physician at least 3 days per week",
+    "case_fact": "She was transferred to Stroke Rehabilitation Unit in the district hospital on the 8th postoperative day"
+   },
+   {
+    "claim": "The policy's goal of IRF treatment is a return home. The case shows a rehabilitation transfer and later discharge home, which is consistent with that goal. The case does not record the IRF medical record's expectation of measurable improvement, so this condition is not confirmed.",
+    "passage_id": 103,
+    "quote": "the goal of IRF treatment is to enable the patient\u2019s safe return to the home or community-based environment upon discharge from the IRF",
+    "case_fact": "She was discharged home 15 weeks following initial surgery."
+   }
+  ],
+  "case_id": "pmc_3652732_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The patient moved to a SNF after the hospital stay, so SNF level-of-care rules are the relevant framework. Whether he actually needs skilled care is the first test, and the case facts do not say what skilled services he needs at the SNF.",
+    "passage_id": 603,
+    "quote": "the A/B MAC (A) first considers whether a patient needs skilled care.",
+    "case_fact": "After a 25-day hospital course, the patient was discharged to a skilled nursing facility for further care."
+   },
+   {
+    "claim": "Skilled observation after surgery can be a covered skilled service in a SNF. This is plausible after a craniotomy and hemicraniectomy, but the case facts do not describe any SNF skilled services or documentation, so it is not settled.",
+    "passage_id": 627,
+    "quote": "Skilled observation and monitoring of the patient for possible adverse reaction to the operative procedure",
+    "case_fact": "After a 25-day hospital course, the patient was discharged to a skilled nursing facility for further care."
+   },
+   {
+    "claim": "Payment for SNF Part A skilled services requires the facility to complete an MDS. The case facts do not mention an MDS, so this condition cannot be confirmed.",
+    "passage_id": 603,
+    "quote": "the facility must complete an MDS.",
+    "case_fact": "After a 25-day hospital course, the patient was discharged to a skilled nursing facility for further care."
+   }
+  ],
+  "case_id": "pmc_3687721_1"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The care is a type the policy covers: inpatient hospital services under Part A. The case describes emergency surgery and intensive care at a tertiary emergency medical center.",
+    "passage_id": 9,
+    "quote": "Patients covered under hospital insurance are entitled to have payment made on their behalf for inpatient hospital services.",
+    "case_fact": "She was transported to our tertiary emergency medical center."
+   },
+   {
+    "claim": "Inpatient rather than outpatient status appears satisfied. The stay was far longer than the few-hour (under 24 hours) outpatient scenario, running until transfer on postoperative day 71.",
+    "passage_id": 14,
+    "quote": "expected to keep them in the hospital for only a few hours (less than 24)",
+    "case_fact": "she was then transferred to a rehabilitation hospital on postoperative day 71."
+   },
+   {
+    "claim": "The acute dialysis-type therapy during the stay is consistent with inpatient status under the policy's description of acute dialysis.",
+    "passage_id": 14,
+    "quote": "short-term dialysis until their kidneys recover from an acute illness (acute dialysis)",
+    "case_fact": "intensive care, including mechanical ventilation, continuous hemodiafiltration, polymyxin B hemoperfusion, and blood transfusion"
+   },
+   {
+    "claim": "UNKNOWN: the case facts do not say whether the patient is actually covered under hospital insurance (Part A entitlement, benefit days). Age 79 alone does not settle this. The later rehabilitation-hospital transfer also cannot be assessed against IRF criteria.",
+    "passage_id": 9,
+    "quote": "Patients covered under hospital insurance are entitled to have payment made on their behalf for inpatient hospital services.",
+    "case_fact": "A 79-year-old female with acute, gradually worsening abdominal pain requested emergency services."
+   }
+  ],
+  "case_id": "pmc_3906958_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Passage 105 says services related to non-covered services are not covered, and services not related to them are covered. Nothing in the case facts shows the inpatient neurosurgical and ICU care was a non-covered service, so this exclusion does not appear to apply. It does not establish that the care is covered or that any basic eligibility condition is met.",
+    "passage_id": 105,
+    "quote": "Services \"not related to\" non-covered services are covered under Medicare.",
+    "case_fact": "Clipping for the ruptured aneurysm was performed on the day of admission to prevent early rebleeding."
+   },
+   {
+    "claim": "Passage 85 sets IRF admission criteria, including physician visits and an intensive interdisciplinary approach. The case facts say only that the patient was discharged to a rehabilitation hospital. They do not show that IRF criteria such as physician supervision or intensive therapy were met, so IRF eligibility is UNKNOWN. This is also a post-discharge setting, not the acute inpatient stay under review.",
+    "passage_id": 85,
+    "quote": "The patient must require an intensive and coordinated interdisciplinary approach to providing rehabilitation",
+    "case_fact": "Five months after admission, the patient was discharged to a rehabilitation hospital."
+   },
+   {
+    "claim": "Passage 92 requires the IRF record to document a reasonable expectation at admission that the patient needs an inpatient stay and close physician involvement. The case facts give no IRF admission documentation, and they say the patient's consciousness did not recover. IRF eligibility therefore cannot be determined.",
+    "passage_id": 92,
+    "quote": "must document a reasonable expectation that at the time of admission to the IRF the patient\u2019s medical management and rehabilitation needs require an inpatient stay",
+    "case_fact": "Although the postoperative course was uneventful, the patient's consciousness did not recover."
+   },
+   {
+    "claim": "Passage 124 covers RNHCI home visits only. The case facts describe a hospital inpatient stay, not a home visit by an RNHCI nurse, so this passage does not address the service.",
+    "passage_id": 124,
+    "quote": "Only a visit by an RNHCI nurse to a home will be considered as billable to Medicare.",
+    "case_fact": "An 86-year-old woman was admitted to our hospital because of severe headache and vomiting."
+   }
+  ],
+  "case_id": "pmc_4480245_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The qualifying hospital stay appears to have lasted at least 3 days. The case shows hospital day 5 and a 9-day antibiotic course, so the prior-hospitalization condition looks plausibly met. The passage presumes medical necessity, and the case facts do not give formal inpatient admission status or exact stay dates.",
+    "passage_id": 573,
+    "quote": "the qualifying hospital stay must have been medically necessary. Medical necessity will generally be presumed to exist.",
+    "case_fact": "Clinically, the patient was improving until Hospital Day 5, where she was found lethargic and not conversational."
+   },
+   {
+    "claim": "The patient went to a nursing facility for physical therapy. Whether that therapy is skilled, rather than routine services that aides could perform, cannot be determined from the case facts, so eligibility for covered SNF care is unsettled.",
+    "passage_id": 639,
+    "quote": "Some SNF inpatients do not require skilled physical therapy services but do require services, which are routine in nature.",
+    "case_fact": "discharged to a subacute nursing facility for further physical therapy"
+   },
+   {
+    "claim": "The policy requires the record to document the skilled services provided and the rationale for them. The case facts describe no specific skilled therapy, no therapy plan and no certification, so these basic conditions are not shown.",
+    "passage_id": 620,
+    "quote": "The skilled services provided;",
+    "case_fact": "discharged to a subacute nursing facility for further physical therapy"
+   }
+  ],
+  "case_id": "pmc_4887827_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The case shows a hospital stay of about two weeks followed by discharge to a nursing home, which is consistent with the prior-hospitalization condition for SNF coverage. The record does not say whether the stay was a qualifying one, whether the facility was a Medicare SNF, or whether the patient is a Medicare beneficiary, so this point is only partly settled.",
+    "passage_id": 573,
+    "quote": "In addition, the qualifying hospital stay must have been medically necessary.",
+    "case_fact": "She recovered slowly and was discharged to a nursing home after two weeks of hospitalization."
+   },
+   {
+    "claim": "The policy requires that services be reasonable and necessary for the patient's condition. The case lists only oral antibiotics and antifungals at the nursing home and does not describe any daily skilled care, so the basic eligibility conditions cannot be confirmed.",
+    "passage_id": 638,
+    "quote": "The services must be reasonable and necessary for the treatment of the patient\u2019s condition",
+    "case_fact": "She was later discharged to a nursing home on oral levofloxacin, clindamycin, and fluconazole pending identification of the yeast."
+   }
+  ],
+  "case_id": "pmc_5039271_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The case shows a hospital stay well beyond 3 days, so the qualifying inpatient stay appears likely met. The record does not explicitly confirm inpatient (not observation) status.",
+    "passage_id": 572,
+    "quote": "The 3 consecutive calendar day stay requirement can be met by stays totaling 3 consecutive days in one or more hospitals.",
+    "case_fact": "CSF from a repeat lumbar puncture on hospital day 10 was negative for VZV and herpes simplex virus PCR."
+   },
+   {
+    "claim": "The patient went to a SNF after the hospital stay. The facts do not state the discharge date or the SNF admission date, so the 30-day timely-transfer requirement cannot be confirmed. A covered level of care must also be needed and begin within that window.",
+    "passage_id": 580,
+    "quote": "an individual who is admitted to a SNF within 30 days after discharge from a hospital, but does not require a covered level of care",
+    "case_fact": "He was ultimately discharged to a skilled nursing facility."
+   },
+   {
+    "claim": "Persistent neurologic deficits suggest possible skilled needs. However, the case facts do not describe the specific skilled nursing or therapy services required at the SNF, so a covered level of care is not established.",
+    "passage_id": 627,
+    "quote": "The medical documentation must describe the skilled services that require the involvement of nursing personnel to promote the patient's recovery and medical safety",
+    "case_fact": "However, his other neurologic deficits persisted."
+   }
+  ],
+  "case_id": "pmc_5698783_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The care is hospital inpatient care (emergency surgery, ICU stay, ventilation), which is a type of service the policy covers under Part A for patients with hospital insurance.",
+    "passage_id": 9,
+    "quote": "Patients covered under hospital insurance are entitled to have payment made on their behalf for inpatient hospital services.",
+    "case_fact": "The patient was treated in the intensive care unit after surgery; however, he needed continuous mechanical ventilation owing to respiratory failure."
+   },
+   {
+    "claim": "The case facts do not say whether the patient is covered under hospital insurance (Part A) or has benefit days remaining. The passage makes entitlement depend on that coverage, so this basic eligibility condition cannot be confirmed.",
+    "passage_id": 9,
+    "quote": "Patients covered under hospital insurance are entitled to have payment made on their behalf for inpatient hospital services.",
+    "case_fact": "An 84-year-old man visited our hospital owing to a neck (left) and abdominal penetrating injury by a short sword in a suicide attempt."
+   }
+  ],
+  "case_id": "pmc_5891105_1"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy covers inpatient hospital services under Part A, and the case describes an inpatient ICU stay after surgery, so the type of service appears to fall within covered care. The case facts do not say the patient is a Medicare beneficiary entitled to Part A, so patient status is not settled.",
+    "passage_id": 9,
+    "quote": "Patients covered under hospital insurance are entitled to have payment made on their behalf for inpatient hospital services.",
+    "case_fact": "was admitted to our intensive care unit (ICU) after esophagectomy with gastric reconstruction for esophageal cancer."
+   },
+   {
+    "claim": "The stay was very long (127 ICU days). The policy requires outlier cases to be certified and recertified, and the case facts show no physician certification or recertification, so this condition cannot be confirmed.",
+    "passage_id": 32,
+    "quote": "Outlier cases must be certified and recertified as provided in 42 CFR 424.13.",
+    "case_fact": "He was discharged from the ICU to the general ward on ICU day 127."
+   },
+   {
+    "claim": "The patient was transferred to a rehabilitation hospital. Whether the IRF criteria (multiple therapy disciplines, intensive therapy) were met is not documented, so eligibility for that later stage is unknown.",
+    "passage_id": 83,
+    "quote": "The patient must require the active and ongoing therapeutic intervention of multiple therapy disciplines",
+    "case_fact": "he was transferred to a rehabilitation hospital on day 201 of hospitalization."
+   }
+  ],
+  "case_id": "pmc_6182792_1"
+ }
+]

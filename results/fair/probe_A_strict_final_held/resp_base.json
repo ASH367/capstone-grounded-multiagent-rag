@@ -1,0 +1,106 @@
+[
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "11-1343__DE_OT"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "11-1343__DE_PT"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "11-1343__DE_ST"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "11-1343__EM_OT"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "11-1343__EM_PT"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "case_id": "11-1343__EM_ST"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "11-1343__JM_OT"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "11-1343__JM_PT"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "11-1343__JM_SN"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "11-1343__JM_ST"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "11-1546"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "gr"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "m-10-1884"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "m-11-1869"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "m-11-1967"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "m-12-1140"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "m_10_1771__EK"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "m_10_1771__JS"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "nj_dept_humanservices22__DW"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "case_id": "nj_dept_humanservices22__WB_PT"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "nj_dept_humanservices22__WB_SN"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "roman_eagle__stay1"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "roman_eagle__stay2"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "valley_presbyterian"
+ }
+]

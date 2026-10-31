@@ -1,0 +1,48 @@
+{
+ "case_id": "prestige_homecare",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "home health skilled nursing (observation and assessment) and personal care for chronically ill beneficiaries",
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council reversed the ALJ, finding the beneficiaries' chronic conditions were stable so skilled observation and assessment was not reasonable and necessary, making the dependent aide services non-covered and the agency liable.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 405.910",
+  "42 CFR 409.42",
+  "42 CFR 409.42(c)",
+  "42 CFR 409.32",
+  "42 CFR 409.33(a)(2)(i)",
+  "42 CFR 409.45(a)"
+ ],
+ "facts": [
+  "The three beneficiaries whose claims are at issue were all affected by chronic disease and were provided services by the home health agency for a number of months.",
+  "(Dates of service from October 5, 2004, through June 1, 2005; and from August 1, 2005, though September 29, 2005)",
+  "Beneficiary B.K. started care with the home health agency on June 15, 2003, approximately sixteen months before the dates of service at issue here. B.K.1 File, Exh. MAC-1. During the ten months at issue, the beneficiary\u2019s physician signed certifications that she required, and should receive, skilled nursing services one to two times a month (for observation and assessment, and teaching medications) and personal care services five to seven times a week for the first eight months. See, e.g., B.K.1 File, Exh. 13; B.K.5 File, Exh. 13.",
+  "(Dates of service from October 27, 2004, through February 23, 2005)",
+  "B.N. started care with the home health agency on June 29, 2004, approximately four months before the dates of service at issue. B.N.1 File, Exh. MAC-1. During the four months at issue the certification and plan of care called for skilled nursing services one to two times a month (for observation and assessment, and teaching medications and signs and symptoms of cardiac complications), and personal care services three to five times a week. B.N.1 File, Exh. 13 at 58; B.N.2 File, Exh. 13 at 67.",
+  "Moreover, during this period, there was no evidence that the beneficiary was likely to have complications or an acute episode.",
+  "(Dates of service from September 14, 2004, through November 12, 2004; and from November 13, 2004, through January 11, 2005)",
+  "The beneficiary started care with the home health agency on May 17, 2004, approximately four months before the dates of service at issue. F.P.1 File, Exh. MAC-1. During the four months in question the beneficiary\u2019s physician certified that she needed skilled nursing services one to two times a month (for observation and assessment of her cardiovascular status) as well as teaching the patient and her caregiver the signs and symptoms of her cardiac condition. She also received personal care services three to five times a week. Id., see also F.P.2 File, Exh. 13 at 56-57.",
+  "Moreover, there is no evidence that the signs and symptoms that were recorded in the nurses\u2019 notes prompted further investigation, a consultation with the physician, additional teaching about medications, or other steps to treat the beneficiary. See F.P.1 File, Exh. 13 at 54, 55; F.P.2 File, Exh. 13 at 51, 52."
+ ],
+ "arm": "B_gaps",
+ "set": "dev",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 345,
+ "evidence_words_D": 886,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

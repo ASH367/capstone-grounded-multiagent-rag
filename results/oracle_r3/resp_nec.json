@@ -1,0 +1,134 @@
+[
+ {
+  "case_id": "11-1343",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Skilled rehabilitation need is indicated after a hospital stay, but daily need and practical-matter factors are not settled.",
+    "passage_id": 602,
+    "quote": "The patient requires skilled nursing services or skilled rehabilitation services",
+    "case_fact": "At the beginning of PT, D.E. required moderate assistance for all functional transfers."
+   },
+   {
+    "claim": "Frequency of therapy (daily basis) is UNKNOWN from the case facts.",
+    "passage_id": 602,
+    "quote": "The patient requires these skilled services on a daily basis",
+    "case_fact": "the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   }
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Fluctuating vital signs led to repeated treatment changes, supporting skilled observation.",
+    "passage_id": 629,
+    "quote": "reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment of the patient",
+    "case_fact": "On at least thirteen occasions the beneficiary’s medications had to be adjusted due to fluctuations in his blood pressure and heart rate."
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Nurse monitoring of blood sugar logs resulted in repeated insulin changes.",
+    "passage_id": 237,
+    "quote": "reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment of the patient",
+    "case_fact": "the beneficiary’s insulin dosage was adjusted numerous times during this period."
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Post-hospital hematuria with abnormal labs and bloody drainage required skilled observation.",
+    "passage_id": 626,
+    "quote": "Observation and assessment are skilled services when the likelihood of change in a patient’s condition requires skilled nursing",
+    "case_fact": "a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever"
+   }
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Case facts do not show the exercises or safety education needed a therapist rather than aides or nurses.",
+    "passage_id": 639,
+    "quote": "services can be safely and effectively performed by supportive personnel, such as aides or nursing personnel",
+    "case_fact": "The appellant asserts that the beneficiary made steady progress throughout physical therapy while receiving progressive resistance strengthening exercises"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Fragility and joint hypermobility are special medical complications supporting skilled PT.",
+    "passage_id": 286,
+    "quote": "the particular patient’s special medical complications require the skills",
+    "case_fact": "the attending physician noted the beneficiary was very fragile, at Ex. 10, at 513"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Fistula care is within the skilled wound care definition.",
+    "passage_id": 258,
+    "quote": "Care of wounds, (including, but not limited to, ulcers, burns, pressure sores, open surgical sites, fistulas, tube sites",
+    "case_fact": "The beneficiary developed a fistula near the colostomy site."
+   },
+   {
+    "claim": "Ostomy care reinforcement is a skilled teaching activity.",
+    "passage_id": 247,
+    "quote": "Teaching care for a recent ostomy or where reinforcement of ostomy care is needed",
+    "case_fact": "His bowel and bladder functions are maintained by colostomy and urostomy."
+   }
+  ]
+ },
+ {
+  "case_id": "ny",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Policy sets weekly hour limits, but the hours actually furnished and their necessity are not in the case facts.",
+    "passage_id": 341,
+    "quote": "less than 8 hours each day and 28 or fewer hours each week",
+    "case_fact": "coverage is available for home health aide or skilled nursing services on a part-time basis"
+   }
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Case facts are procedural and contain no clinical facts to test the IRF criteria.",
+    "passage_id": 72,
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act",
+    "case_fact": "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004."
+   }
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Severe pain and IV/IM medication raise doubt about ability to participate, but intensity and participation are not settled.",
+    "passage_id": 71,
+    "quote": "patients must be able to actively participate in and benefit from the intensive rehabilitation therapy program",
+    "case_fact": "experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid."
+   }
+  ]
+ }
+]

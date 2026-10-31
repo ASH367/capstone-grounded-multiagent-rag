@@ -1,0 +1,705 @@
+[
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Ambulance transport from the beneficiary's residence to a hospital is a type of service the policy can pay for. Payment depends on the listed conditions being met, and the supplier's approved status is not shown in the case facts (UNKNOWN).",
+    "passage_id": 434,
+    "quote": "Patient was transported by",
+    "case_fact": "On April 17, 2011, the beneficiary was transported from her residence to a hospital."
+   },
+   {
+    "claim": "The policy presumes the contraindication condition is met when documentation shows chest pain or cardiac distress. The ambulance report records chest pain as the reason for transport, which favors eligibility.",
+    "passage_id": 434,
+    "quote": "Exhibits signs and symptoms of acute respiratory distress or cardiac distress such as shortness of breath or chest pain",
+    "case_fact": "The ambulance report states that the beneficiary was being transported due to chest pain."
+   },
+   {
+    "claim": "The case facts find that other transportation could safely have been used. Under the necessity rule, no payment may be made in that situation, so the core eligibility condition is not satisfied. This outweighs the chest-pain presumption, which is a presumption and not a bar.",
+    "passage_id": 388,
+    "quote": "In any case in which some means of transportation other than an ambulance could be used without endangering the individual's health",
+    "case_fact": "The beneficiary could have been safely transported by other means."
+   }
+  ],
+  "case_id": "12-1251"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The policy covers inpatient rehabilitation facility (IRF) care that requires multiple therapy disciplines, one of which must be PT or OT. The patient received PT, OT and speech therapy, so this basic eligibility condition appears met.",
+    "passage_id": 86,
+    "quote": "the patient required the active and ongoing therapeutic intervention of multiple therapy disciplines (physical therapy, occupational therapy, speech-language pathology, or prosthetics/orthotics), one of which must be physical or occupational therapy.",
+    "case_fact": "he received physical therapy daily for 60-90 minutes."
+   },
+   {
+    "claim": "The policy requires a reasonable expectation of measurable, practical improvement within a set period. The patient was deemed a good rehabilitation candidate with specific functional goals, and he met his discharge goal of returning home.",
+    "passage_id": 103,
+    "quote": "a reasonable expectation that a measurable, practical improvement in the patient\u2019s functional condition can be accomplished within a predetermined and reasonable period of time.",
+    "case_fact": "was referred by his physician for intensive therapy for which he was \u201cfelt to be an excellent rehabilitation candidate.\u201d"
+   },
+   {
+    "claim": "The policy's goal of a safe return to home or the community is consistent with the patient's rehabilitation goals and his discharge home.",
+    "passage_id": 103,
+    "quote": "the goal of IRF treatment is to enable the patient\u2019s safe return to the home or community-based environment upon discharge from the IRF.",
+    "case_fact": "He was able to meet the goal of being discharged to his home."
+   },
+   {
+    "claim": "The policy requires the patient to participate actively in and benefit significantly from intensive therapy. The patient's functional deficits, therapy participation and eventual gains support this expectation at admission.",
+    "passage_id": 84,
+    "quote": "patient must reasonably be expected to actively participate in, and benefit significantly from, the intensive rehabilitation therapy program",
+    "case_fact": "A.D. had regained modified independence in his ADLs, was independent in transfers, and could ambulate and climb 12 steps with stand- by assistance."
+   },
+   {
+    "claim": "The facts do not settle whether the rehabilitation physician made face-to-face visits at least 3 days per week, whether a preadmission screening was done, or whether the required physician certification exists. Those points remain UNKNOWN, though the appellant's description of the physician's daily medication titration is suggestive.",
+    "passage_id": 84,
+    "quote": "the rehabilitation physician must conduct face-to-face visits with the patient at least 3 days per week throughout the patient\u2019s stay in the IRF",
+    "case_fact": "the physician had to titrate the medications on a daily basis due to large fluctuations in blood pressure, uncontrolled diabetes"
+   }
+  ],
+  "case_id": "altabates__AD"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The patient was expected to participate in and benefit significantly from intensive IRF rehabilitation, and the case facts show she benefited enough to live at home. This meets the basic IRF eligibility criterion.",
+    "passage_id": 84,
+    "quote": "patient must reasonably be expected to actively participate in, and benefit significantly from, the intensive rehabilitation therapy program",
+    "case_fact": "she clearly benefited sufficiently from appellant\u2019s services to enable her to live at home with family assistance rather than in an institution"
+   },
+   {
+    "claim": "The rehabilitation physician supervision requirement appears met, because the physician had daily contact. This exceeds the policy's minimum of face-to-face visits 3 days per week.",
+    "passage_id": 84,
+    "quote": "the rehabilitation physician must conduct face-to-face visits with the patient at least 3 days per week",
+    "case_fact": "daily direct contact by a physiatrist throughout the patient\u2019s stay"
+   },
+   {
+    "claim": "The intensity-of-therapy standard appears met on the medical director's assertion of three hours of daily therapy. The OT notes show only 15 to 120 minutes per day, and the policy says the 3-hour measure is not a strict rule.",
+    "passage_id": 87,
+    "quote": "intensive therapies at least 3 hours per day at least 5 days per week",
+    "case_fact": "the patient received three hours daily of therapy services"
+   },
+   {
+    "claim": "The IRF goal of a safe return to the home or community was achieved, which supports the expectation of measurable, practical improvement.",
+    "passage_id": 103,
+    "quote": "the goal of IRF treatment is to enable the patient\u2019s safe return to the home or community-based environment upon discharge from the IRF",
+    "case_fact": "had regained the ability to live at her daughter\u2019s home with modified independence"
+   }
+  ],
+  "case_id": "altabates__IW"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The multiple-therapy-disciplines criterion appears met. The patient received occupational therapy, which counts as the required PT or OT discipline, and also received speech-language pathology.",
+    "passage_id": 83,
+    "quote": "must require the active and ongoing therapeutic intervention of multiple therapy disciplines",
+    "case_fact": "He also received occupational therapy, focusing on regaining ADLs and developing a home program, each day after July 14, 2004"
+   },
+   {
+    "claim": "Speech-language pathology is documented as a second discipline alongside OT, so the interdisciplinary requirement appears satisfied. The record does not clearly show that PT was delivered.",
+    "passage_id": 86,
+    "quote": "required the active and ongoing therapeutic intervention of multiple therapy disciplines",
+    "case_fact": "He was also evaluated by a speech- language pathologist and was seen daily for therapy to improve comprehension and expression."
+   },
+   {
+    "claim": "The case facts do not settle whether an intensive therapy program (about 3 hours per day, 5 days per week) was required. No hours are given, and the facts treat the question of a relatively intense level of PT as a contested issue.",
+    "passage_id": 83,
+    "quote": "generally consists of at least 3 hours of therapy per day at least 5 days per week",
+    "case_fact": "The salient issues are whether the patient required a relatively intense level of PT and other rehabilitative services"
+   },
+   {
+    "claim": "Close physician involvement and the need for an inpatient stay are not established. The facts describe medical problems, but they do not show face-to-face rehabilitation physician visits 3 days per week. Whether inpatient status was needed is also framed as disputed.",
+    "passage_id": 92,
+    "quote": "documented face-to-face visits from a rehabilitation physician at least 3 days per week throughout the patient\u2019s IRF stay",
+    "case_fact": "needed a level of active medical management of his total condition that required in- patient status"
+   }
+  ],
+  "case_id": "altabates__JH"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Skilled observation and assessment is a recognized covered type of home health service. However, the policy ties it to a clinical condition or regimen that has not yet stabilized. The case facts describe a stable condition, which weakens eligibility for this service type.",
+    "passage_id": 239,
+    "quote": "until the clinical condition and/or patient's treatment regimen has stabilized",
+    "case_fact": "the beneficiary\u2019s condition was stable throughout the period under review"
+   },
+   {
+    "claim": "A plan of care with the type and frequency of skilled nursing services is present, which meets the specificity requirement for orders. Homebound status, physician certification and the other basic conditions are not addressed in the passages or case facts, so they remain UNKNOWN.",
+    "passage_id": 192,
+    "quote": "The orders on the plan of care must indicate the type of services to be provided to the patient",
+    "case_fact": "The beneficiary\u2019s home health plan of care called for skilled nursing services twice a week for nine weeks."
+   },
+   {
+    "claim": "Teaching visits are covered only when something changes in the patient's status or regimen that requires teaching. The QIC found no documented change in condition, medication or treatment, so the teaching component does not clearly meet the service-type conditions.",
+    "passage_id": 246,
+    "quote": "there is no change in the patient's physical or mental status that would require re-teaching",
+    "case_fact": "there was no documented change in the beneficiary\u2019s condition, medication or treatment"
+   }
+  ],
+  "case_id": "case_excellenthomecare"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled observation and assessment by a nurse is a covered type of service when there is a reasonable potential for a complication or further acute episode. The case facts show this potential after the cyanosis episode.",
+    "passage_id": 236,
+    "quote": "there is a reasonable potential for change in a patient's condition that requires skilled nursing personnel to identify and evaluate the patient's need",
+    "case_fact": "the skilled nursing at issue here started after the beneficiary experienced an episode of cyanosis, because of a reasonable potential for complications or a further acute episode."
+   },
+   {
+    "claim": "Venipuncture for prothrombin monitoring is a covered service where the physician orders it and the dosage is being adjusted. The physician modified the Coumadin dosage twice based on the nurses' blood draws.",
+    "passage_id": 268,
+    "quote": "Where the documentation shows that the dosage is being adjusted, monitoring would be reasonable and necessary as ordered by the physician",
+    "case_fact": "the nurses obtained blood samples for the prothrombin and INR analyses, and based on this data, his physician modified the Coumadin dosages twice."
+   },
+   {
+    "claim": "Management and evaluation of the care plan is a covered category of skilled nursing when the patient's combined condition, age and immobility create a high potential for complications. The case facts describe this combination.",
+    "passage_id": 240,
+    "quote": "Skilled nursing visits for management and evaluation of the patient's care plan are also reasonable and necessary",
+    "case_fact": "The combination of the beneficiary\u2019s condition, age, medical history and limited mobility created a very reasonable potential for serious complications"
+   },
+   {
+    "claim": "Teaching and training is a covered skilled nursing category when it is physician-ordered and relates to the illness. The nurses taught oxygen use and Coumadin risks. Documentation of the patient's response is not settled by the facts.",
+    "passage_id": 245,
+    "quote": "The education is reasonable and necessary to the treatment of the illness or injury, and the teaching services and the patient/caregiver responses must be documented.",
+    "case_fact": "the nurses provided patient and caregiver education at a skilled level, including instructions on why the beneficiary was using increased oxygen"
+   },
+   {
+    "claim": "The physician ordered the skilled nursing visits in the plan of care. This is consistent with the policy's expectation that visits be ordered and documented.",
+    "passage_id": 232,
+    "quote": "A physician has ordered skilled nursing visits",
+    "case_fact": "the beneficiary\u2019s physician ordered skilled nursing care once in the initial week and then twice a week for four weeks"
+   }
+  ],
+  "case_id": "case_landmark"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Ambulance transport from home to a hospital is a category of service Medicare Part B can cover, but only if medical necessity and the other coverage criteria are met. The case facts show a transport to a hospital, so the service type fits, and eligibility turns on the necessity condition.",
+    "passage_id": 400,
+    "quote": "is covered under Part B as an ambulance service only to the nearest hospital, critical access hospital (CAH)",
+    "case_fact": "was medically stable and was transported to the hospital without incident."
+   },
+   {
+    "claim": "The basic condition that other transportation be contraindicated does not appear satisfied. The beneficiary had only nausea, normal vital signs, and stability throughout, and received no treatment en route.",
+    "passage_id": 388,
+    "quote": "Medical necessity is established when the patient's condition is such that use of any other method of transportation is contraindicated.",
+    "case_fact": "The PCR reveals that the beneficiary exhibited normal vital signs and that she remained stable throughout transport."
+   },
+   {
+    "claim": "The daughter's statement that she would not use her SUV does not satisfy the condition, because the policy says the availability of other transportation is irrelevant if it could be used safely.",
+    "passage_id": 388,
+    "quote": "whether or not such other transportation is actually available, no payment may be made for ambulance services.",
+    "case_fact": "was not going to allow [her] SUV to be used to transport [her] mother to the hospital."
+   }
+  ],
+  "case_id": "dc_case"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Air ambulance is a covered type of service in general, and the contractor accepted that the beneficiary's condition warranted ambulance transport. Coverage of the air service depends on medical appropriateness.",
+    "passage_id": 415,
+    "quote": "Medically appropriate air ambulance transportation is a covered service regardless of the State or region in which it is rendered.",
+    "case_fact": "the beneficiary\u2019s condition warranted ambulance services"
+   },
+   {
+    "claim": "The basic eligibility condition for air ambulance, that ground ambulance is not appropriate, is not met. The contractor and the QIC both found ground transport was adequate.",
+    "passage_id": 415,
+    "quote": "approve claims only if the beneficiary\u2019s medical condition is such that transportation by either basic or advanced life support ground ambulance is not appropriate",
+    "case_fact": "agreeing with the contractor\u2019s down-coding of the claim to ground ambulance transportation to a closer facility"
+   },
+   {
+    "claim": "The coverage requirement that the condition needed rapid transport that ground ambulance could not provide is not satisfied on the record.",
+    "passage_id": 417,
+    "quote": "The beneficiary\u2019s medical condition required immediate and rapid ambulance transportation that could not have been provided by ground ambulance",
+    "case_fact": "she could have been transported via ground ambulance to a nearer medically-appropriate facility",
+    "note": "The case facts do not say whether the pickup point was inaccessible by ground vehicle, or whether great distances or other obstacles were involved. That point is UNKNOWN."
+   },
+   {
+    "claim": "Where ground transport would have sufficed, only the ground ambulance rate is payable. This matches the reduced allowance, so the ground service is eligible but the air service as billed is not.",
+    "passage_id": 424,
+    "quote": "payment for the air ambulance transport is based on the amount payable for ground ambulance transport.",
+    "case_fact": "The contractor allowed payment for the claim at a substantially reduced level"
+   }
+  ],
+  "case_id": "eagle_air_med"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Hospital-to-hospital ground ambulance transport is a type of service the policy can cover. The destination is a hospital, which is a covered destination category.",
+    "passage_id": 396,
+    "quote": "Medicare covers ambulance transports (that meet all other program requirements for coverage) only to the following destinations",
+    "case_fact": "Advanced Medical Transport of Central Illinois transported the beneficiary from Proctor Hospital to OSF Saint Francis Medical Center"
+   },
+   {
+    "claim": "The policy covers institution-to-institution transport only if the first institution had inadequate or unavailable facilities. The record does not settle this: the ER physician's neurosurgeon consult supports a transfer, but the QIC found no documentation of the unavailable service.",
+    "passage_id": 399,
+    "quote": "found to have inadequate or unavailable facilities to provide the required care",
+    "case_fact": "The documentation did not state what specific service was not available at the first hospital."
+   },
+   {
+    "claim": "A treating-physician transfer recommendation to a neuro ICU is consistent with a need for specialized care. Whether St. Francis was the nearest appropriate facility is not established, so eligibility cannot be confirmed.",
+    "passage_id": 399,
+    "quote": "transportation by ambulance to both institutions would be covered to the extent of the mileage to be the nearest institution with appropriate facilities",
+    "case_fact": "recommended that the beneficiary be transferred to the"
+   }
+  ],
+  "case_id": "estate_gbr"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Ambulance transport is a Part B covered category, but only to a hospital, CAH, or SNF that can furnish the needed care. The case describes the destination only as a 'rehabilitation center', so it is not established that the destination is a covered facility type.",
+    "passage_id": 400,
+    "quote": "covered under Part B as an ambulance service only to the nearest hospital, critical access hospital (CAH), or skilled nursing facility (SNF)",
+    "case_fact": "he was transferred from the hospital to a \u201crehabilitation center\u201d three days after the surgery."
+   },
+   {
+    "claim": "The policy requires the transport to be to obtain a Medicare-covered service. The record does not say what service the rehabilitation center provided or whether the beneficiary was a covered inpatient, so this condition cannot be settled.",
+    "passage_id": 388,
+    "quote": "the transport must be to obtain a Medicare covered service, or to return from such a service.",
+    "case_fact": "it was \u201cabsolutely necessary\u201d to take him from the hospital to the rehabilitation center by ambulance with a cardiac monitor"
+   },
+   {
+    "claim": "Documentation must be kept on file. A Physician Certification Statement exists, along with physician documentation. However, the redetermination found no trip report, and the policy says the presence of such paperwork does not by itself prove necessity.",
+    "passage_id": 388,
+    "quote": "In all cases, the appropriate documentation must be kept on file and, upon request, presented",
+    "case_fact": "The Physician Certification Statement (PCS) signed by the registered nurse on the date of ambulance transportation"
+   }
+  ],
+  "case_id": "gold_cross_ambulance"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Inpatient rehabilitation facility services are a category of care addressed by the retrieved policy, and this claim is for that type of service.",
+    "passage_id": 4,
+    "quote": "110 Inpatient Rehabilitation Facility (IRF) Services.",
+    "case_fact": "This claim for two weeks of inpatient rehabilitation services provided to the beneficiary was initially paid."
+   },
+   {
+    "claim": "The interdisciplinary team requirement appears met. The team conference documented a physician, nurses, therapists and a social worker. Whether the physician was a rehabilitation physician and whether the nurses had rehabilitation training is not stated (UNKNOWN).",
+    "passage_id": 95,
+    "quote": "A social worker or a case manager (or both);",
+    "case_fact": "documents the presence of the physician, two therapists, two registered nurses, and the social worker"
+   },
+   {
+    "claim": "The expectation of measurable improvement appears satisfied at admission. The evaluation found good rehabilitation potential for the identified goals.",
+    "passage_id": 84,
+    "quote": "the patient can reasonably be expected to make measurable improvement",
+    "case_fact": "concluded that the beneficiary\u2019s rehabilitation potential for the identified goals was \u201cgood.\u201d"
+   },
+   {
+    "claim": "Whether the rehabilitation physician made face-to-face visits at least 3 days per week is not shown in the case facts (UNKNOWN). The case facts show only physician involvement in a team conference and physician testimony.",
+    "passage_id": 92,
+    "quote": "documented face-to-face visits from a rehabilitation physician at least 3 days per week throughout the patient\u2019s IRF stay.",
+    "case_fact": "The treating physician testified that all of the resident\u2019s discharge goals were achieved."
+   }
+  ],
+  "case_id": "kaweah_rehabilitationhospital"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires a practitioner order to admit as an inpatient for hospital inpatient coverage under Part A. The record has an ED plan to admit, but also an entry reverting to observation status and a discharge summary describing observation. Whether a valid inpatient order existed, and so whether the July 3-8 stay was inpatient, is not settled.",
+    "passage_id": 29,
+    "quote": "is therefore required for all hospital inpatient cases for hospital inpatient coverage and payment under Part A",
+    "case_fact": "Would like to revert to observation status for addition. 23 [hours]."
+   },
+   {
+    "claim": "A separate physician certification for the hospital stay applies only to long-stay (20+ days) or outlier cases. The stay ran about 7 days, so the certification content and timing requirements do not appear to be a basic eligibility barrier for the hospital portion. Outlier status is not shown.",
+    "passage_id": 29,
+    "quote": "Physician certification of inpatient services is required for cases that are 20 inpatient days or more (long-stay cases)",
+    "case_fact": "This case concerns an inpatient hospital stay from July 3, 2009, through July 10, 2009"
+   },
+   {
+    "claim": "The retrieved passages do not address SNF coverage, the three-day qualifying stay, or SNF physician certification and recertification. The only SNF mention is in the RNHCI context. Eligibility for the SNF services (July 10 to September 29) therefore cannot be determined from these passages.",
+    "passage_id": 109,
+    "quote": "posthospital extended care services if the beneficiary were an inpatient of a hospital or a resident of a SNF",
+    "case_fact": "Medicare denied coverage for the SNF services because the beneficiary did not have a three-day qualifying inpatient hospital stay."
+   }
+  ],
+  "case_id": "m-11-1559"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Basic life support emergency ground ambulance transport is a type of service the policy covers when medically necessary. The service sought is of this type.",
+    "passage_id": 447,
+    "quote": "BLS is transportation by ground ambulance vehicle (as defined in section 10.1, above)",
+    "case_fact": "basic life support emergency ambulance transport (and associated ground mileage)"
+   },
+   {
+    "claim": "Transport from an accident scene is covered only to the nearest hospital, CAH, or SNF capable of furnishing the needed care. The case facts show the patient was taken from an accident scene to a facility called a 'clinic'. Whether that clinic qualifies as a hospital, CAH or SNF, and whether it was the nearest suitable facility, is not established, so destination eligibility cannot be settled.",
+    "passage_id": 400,
+    "quote": "covered under Part B as an ambulance service only to the nearest hospital, critical access hospital (CAH), or skilled nursing facility (SNF)",
+    "case_fact": "called an ambulance to take the appellant from the scene of the accident to a \u201cclinic\u201d within the national park."
+   },
+   {
+    "claim": "The vehicle must be staffed by at least two people, one certified at least as an EMT-Basic. The case facts do not describe the crew or vehicle, so compliance is UNKNOWN.",
+    "passage_id": 382,
+    "quote": "Basic Life Support (BLS) ambulances must be staffed by at least two people",
+    "case_fact": "The bus driver alerted the park rangers who called an ambulance"
+   }
+  ],
+  "case_id": "m-11-2450"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The policy requires physician certification of homebound status, and the treating physician documented homebound status in the re-certification for the dates at issue.",
+    "passage_id": 178,
+    "quote": "the law requires that a physician or allowed practitioner certify in all cases that the patient is confined to his/her home",
+    "case_fact": "the treating physician noted the beneficiary\u2019s homebound status in the home health plan of care re- certification for the dates of service at issue"
+   },
+   {
+    "claim": "Criterion two (normal inability to leave home, and leaving requires taxing effort) appears satisfied by the re-certification's notation.",
+    "passage_id": 178,
+    "quote": "There must exist a normal inability to leave home; AND - Leaving home must require a considerable and taxing effort",
+    "case_fact": "The re-certification further noted that the beneficiary was unable to leave the home without taxing efforts."
+   },
+   {
+    "claim": "Infrequent absences for adult day care and doctor visits do not defeat homebound status under the policy.",
+    "passage_id": 179,
+    "quote": "the patient may nevertheless be considered homebound if the absences from the home are infrequent or for periods of relatively short duration",
+    "case_fact": "absences from the home, though infrequent, included adult day care and doctor visits."
+   },
+   {
+    "claim": "The ordered service, skilled observation and assessment by a nurse, is a covered type of care. Unstable blood sugars and recent medication changes show a reasonable potential for change in condition.",
+    "passage_id": 236,
+    "quote": "Observation and assessment of the patient's condition by a nurse are reasonable and necessary skilled services where there is a reasonable potential for change",
+    "case_fact": "the beneficiary\u2019s physician ordered home health services for skilled assessment and observation, as well as teaching and instruction."
+   }
+  ],
+  "case_id": "m_12_257"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Inpatient hospital care is a covered category under Part A, and the beneficiary is described as having been admitted to inpatient status. This meets the patient-status concept, but the facts do not show whether the formal admission requirements were met.",
+    "passage_id": 12,
+    "quote": "An inpatient is a person who has been admitted to a hospital for bed occupancy for purposes of receiving inpatient hospital services",
+    "case_fact": "He was initially placed in observation status but subsequently admitted to inpatient status."
+   },
+   {
+    "claim": "The policy treats the admission order as the evidence of the decision to admit. The case facts do not mention an inpatient admission order, its wording, or its authentication, so this condition cannot be confirmed.",
+    "passage_id": 42,
+    "quote": "The admission order is evidence of the decision by the ordering practitioner to admit the beneficiary to inpatient status.",
+    "case_fact": "He was initially placed in observation status but subsequently admitted to inpatient status."
+   },
+   {
+    "claim": "The order must come from a qualified practitioner (state-licensed, with hospital admitting privileges, and knowledgeable about the patient). The case facts say nothing about who ordered the admission or their qualifications.",
+    "passage_id": 36,
+    "quote": "The order must specify admission for inpatient services.",
+    "case_fact": "He was initially placed in observation status but subsequently admitted to inpatient status."
+   },
+   {
+    "claim": "The two-midnight expectation at the time of admission is not documented. The stay ran from February 18 to a discharge on February 20, but the facts do not state what the physician expected when admitting. Medical necessity is a separate question and is not decided here.",
+    "passage_id": 12,
+    "quote": "they should order admission for patients who are expected to require a hospital stay that crosses two midnights",
+    "case_fact": "the beneficiary was discharged home from the hospital on February 20, 2010, the following day."
+   }
+  ],
+  "case_id": "m_12_809"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Medically appropriate air ambulance transport is a covered category of service. The case facts give only a procedure code and mileage units and never say the service was air ambulance, so whether this claim falls in that category is not settled.",
+    "passage_id": 415,
+    "quote": "Medically appropriate air ambulance transportation is a covered service regardless of the State or region in which it is rendered.",
+    "case_fact": "The appellant initially submitted a claim for 203 units (miles) of procedure code A0435-II."
+   },
+   {
+    "claim": "Air ambulance eligibility depends on the beneficiary's medical condition making ground transport inappropriate. The case facts say nothing about the beneficiary's condition or whether ground transport was contraindicated, so this condition is UNKNOWN.",
+    "passage_id": 460,
+    "quote": "Fixed wing air ambulance is furnished when the beneficiary\u2019s medical condition is such that transport by ground ambulance, in whole or in part, is not appropriate.",
+    "case_fact": "The appellant initially submitted a claim for 203 units (miles) of procedure code A0435-II."
+   },
+   {
+    "claim": "The 70 denied miles turn on a payment limitation tied to a nearer appropriate hospital, not on whether the service type is covered. The case facts do not show that the destination was the nearest appropriate facility, so this point is UNKNOWN on eligibility. It is a payment-limit issue rather than a coverage-type issue.",
+    "passage_id": 424,
+    "quote": "the air transport payment is limited to the rate for the distance from the point of pickup to that nearer hospital.",
+    "case_fact": "70 units were denied on the ground that the beneficiary was not taken to the nearest medically-appropriate facility"
+   }
+  ],
+  "case_id": "midwest_lifeteam"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Speech-language pathology for an injury-related swallowing (dysphagia) disorder is a covered type of service, and the record shows a physician-ordered course of this therapy.",
+    "passage_id": 298,
+    "quote": "would be covered if they are needed as a result of an illness or injury",
+    "case_fact": "The physician prescribed continuing dysphagia therapy, including neuromuscular electrical stimulation, one to two times a week."
+   },
+   {
+    "claim": "The policy covers skilled speech-language pathology aimed at feeding activities. The record shows feeding-related functional gains, so this type-of-service condition appears met.",
+    "passage_id": 298,
+    "quote": "ability to carry out communication or feeding activities",
+    "case_fact": "to eat foods that he could not previously tolerate"
+   },
+   {
+    "claim": "Coverage depends on a skilled-need assessment, not only on potential for improvement. The provider's doubt about the overall prognosis therefore does not defeat basic eligibility.",
+    "passage_id": 297,
+    "quote": "Coverage of speech-language pathology services is not determined solely on the presence or absence of a beneficiary\u2019s potential for improvement",
+    "case_fact": "The therapy notes of the second four week period record \u201csteady improvements,\u201d"
+   },
+   {
+    "claim": "UNKNOWN: the policy conditions coverage on all other eligibility requirements being met. The case facts do not address patient status such as homebound status, or certification or plan-of-care signature, so these points are not settled.",
+    "passage_id": 297,
+    "quote": "Assuming all other eligibility and coverage requirements have been met",
+    "case_fact": "The physician prescribed continuing dysphagia therapy, including neuromuscular electrical stimulation, one to two times a week."
+   }
+  ],
+  "case_id": "nj_dept_humanservices5"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The skilled nursing the physician certified (observation and assessment, teaching medications) matches skilled nursing categories the policy lists as covered under a qualifying home health plan of care.",
+    "passage_id": 131,
+    "quote": "Observation and Assessment of the Patient's Condition",
+    "case_fact": "skilled nursing services one to two times a month (for observation and assessment, and teaching medications)"
+   },
+   {
+    "claim": "A physician certification and plan of care for skilled nursing appear to exist, so the certification condition looks satisfied. The passages do not settle homebound status, the face-to-face requirement, or whether the skilled need is reasonable and necessary, so those points are UNKNOWN.",
+    "passage_id": 131,
+    "quote": "40 Covered Services Under a Qualifying Home Health Plan of Care.",
+    "case_fact": "the beneficiary\u2019s physician signed certifications that she required, and should receive, skilled nursing services"
+   },
+   {
+    "claim": "Personal care services furnished by a home health aide are a recognized covered service type under the policy when they are health related. Whether the aide visits actually met that standard is not shown in the case facts.",
+    "passage_id": 311,
+    "quote": "When a home health aide visits a patient to provide a health related service as discussed above",
+    "case_fact": "personal care services five to seven times a week for the first eight months"
+   }
+  ],
+  "case_id": "prestige_homecare__BK"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Skilled nursing observation and assessment is a covered type of service only where there is a reasonable potential for change in the patient's condition. The case facts show the contractor and QIC found no significant change in condition, medications or treatment plan, so this basic condition is not shown.",
+    "passage_id": 236,
+    "quote": "are reasonable and necessary skilled services where there is a reasonable potential for change in a patient's condition",
+    "case_fact": "finding that there had been no significant changes in the beneficiary\u2019s condition, medications, or treatment plan during the dates of service under review."
+   },
+   {
+    "claim": "The policy excludes nurse observation and assessment where signs and symptoms are a longstanding pattern that has not required a treatment change. The case facts describe chronic, longstanding problems with no evidence of likely complications or an acute episode, so the monthly skilled observation does not meet the policy's coverage condition.",
+    "passage_id": 237,
+    "quote": "observation and assessment by a nurse is not reasonable and necessary for the treatment of the illness or injury",
+    "case_fact": "there was no evidence that the beneficiary was likely to have complications or an acute episode."
+   }
+  ],
+  "case_id": "prestige_homecare__BN"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled nursing observation and assessment is a type of service the policy covers. A physician certified the need for it, so the type-of-service and certification conditions appear met. Medical necessity, homebound status and documentation adequacy are not settled here and are left to other review stages.",
+    "passage_id": 236,
+    "quote": "Observation and assessment of the patient's condition by a nurse are reasonable and necessary skilled services",
+    "case_fact": "the beneficiary\u2019s physician certified that she needed skilled nursing services one to two times a month"
+   },
+   {
+    "claim": "Skilled teaching of the patient and caregiver is also a recognized covered service category, provided the teaching and the responses are documented.",
+    "passage_id": 245,
+    "quote": "the teaching services and the patient/caregiver responses must be documented",
+    "case_fact": "as well as teaching the patient and her caregiver the signs and symptoms of her cardiac condition."
+   }
+  ],
+  "case_id": "prestige_homecare__FP"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The service is home health care, a covered type of care under Parts A and B, but only if a physician or allowed practitioner certifies the patient is confined to the home. The case facts do not show whether that certification exists, so this point is UNKNOWN.",
+    "passage_id": 178,
+    "quote": "the law requires that a physician or allowed practitioner certify in all cases that the patient is confined to his/her home",
+    "case_fact": "about seven hours of home health nursing and aide assistance per week is needed to perform tracheotomy care"
+   },
+   {
+    "claim": "Criterion one requires a need for supportive devices, special transportation, or another person's help to leave home, or a medical contraindication to leaving. The facts show oxygen dependence but do not say she needs such help to leave home. Criterion one is therefore not settled.",
+    "passage_id": 178,
+    "quote": "need the aid of supportive devices such as crutches, canes, wheelchairs, and walkers; the use of special transportation; or the assistance of another person",
+    "case_fact": "is dependent on supplemental oxygen"
+   },
+   {
+    "claim": "Regular absences to an adult day-care program do not disqualify a patient only if the program is state-licensed, state-certified, or accredited. The facts say only that a county program sponsors the center. Its licensure or certification status is UNKNOWN.",
+    "passage_id": 180,
+    "quote": "regular absences for the purpose of participating in therapeutic, psychosocial, or medical treatment in an adult day-care program that is licensed or certified by a state",
+    "case_fact": "at an adult day care center, sponsored by a county mental health/mental retardation program"
+   },
+   {
+    "claim": "Other absences from home are acceptable only if infrequent or of relatively short duration. The record does not give the hours she spends at the center, so criterion two and the duration question are unresolved.",
+    "passage_id": 180,
+    "quote": "if the absences are undertaken on an infrequent basis or are of relatively short duration",
+    "case_fact": "The record does not indicate specifically how many hours per day or each week the beneficiary spends engaging in adult day-care activities outside the home."
+   }
+  ],
+  "case_id": "rb_obo_jb"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Skilled nursing observation and assessment is a covered type of service, but the record does not show the required reasonable potential for a change in condition. The type I diabetes was without mention of complication and not stated as uncontrolled. Whether the biweekly nurse visits qualify is not settled.",
+    "passage_id": 236,
+    "quote": "Observation and assessment of the patient's condition by a nurse are reasonable and necessary skilled services",
+    "case_fact": "a skilled nurse visited the beneficiary approximately once every two weeks to fill a mediplanner with pills and oversee home health aides."
+   },
+   {
+    "claim": "The basic order condition appears satisfied. The plans of care contain a physician order specifying nursing visit frequency, which contradicts the contractor's and QIC's stated basis for denial. Passage 239 gives an example of an order for one visit every 2 weeks.",
+    "passage_id": 239,
+    "quote": "The treating physician orders a continuation of skilled care for a subsequent 60-day certification period, at a frequency of one visit every 2 weeks",
+    "case_fact": "the plans of care on file reveal physician\u2019s orders for the skilled nurse to \u201cvisit Q 2 weeks to pour mediplanner.\u201d"
+   },
+   {
+    "claim": "Nursing visits only to oversee aides are not covered unless a nurse is needed to observe and assess the effects of the unskilled services. The record does not show such a need, so eligibility of the nursing service is unresolved.",
+    "passage_id": 242,
+    "quote": "Where visits by a licensed nurse are not needed to observe and assess the effects of the unskilled services being provided",
+    "case_fact": "a skilled nurse visited the beneficiary approximately once every two weeks to fill a mediplanner with pills and oversee home health aides."
+   },
+   {
+    "claim": "Home health aide visits are a covered type of service when they provide health-related personal care. The aide assisted with personal care as well as housekeeping, so the aide service category is plausibly covered. The passages do not establish homebound status or other patient-status conditions.",
+    "passage_id": 312,
+    "quote": "The home health aide visits at a frequency appropriate to the performance of the health related services would be covered",
+    "case_fact": "a home health aide visited the beneficiary five days each week, averaging 30-35 hours a week"
+   }
+  ],
+  "case_id": "rx_homecare"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Inpatient hospital care is a type of service the policy covers under Part A. The claim was billed as an inpatient stay spanning two midnights (July 27 to July 29), so the service type is within the covered category.",
+    "passage_id": 12,
+    "quote": "An inpatient is a person who has been admitted to a hospital for bed occupancy for purposes of receiving inpatient hospital services",
+    "case_fact": "The appellant billed Medicare for the beneficiary\u2019s inpatient hospitalization from July 27, through July 29, 2005."
+   },
+   {
+    "claim": "The policy requires a formal inpatient admission order from a qualified practitioner. The case facts show the beneficiary was admitted for surgery but do not show whether such an order existed, so this condition cannot be confirmed.",
+    "passage_id": 36,
+    "quote": "The order must specify admission for inpatient services.",
+    "case_fact": "the 71-year-old beneficiary was admitted to the appellant\u2019s facility for surgical repair"
+   },
+   {
+    "claim": "Inpatient status turns on the physician's admission judgment and the medical record, not on length of stay alone. The contractor found the record did not support inpatient status, so basic eligibility as an inpatient is disputed and not settled by these passages.",
+    "passage_id": 13,
+    "quote": "Admissions of particular patients are not covered or noncovered solely on the basis of the length of time the patient actually spends in the hospital.",
+    "case_fact": "the \u201cmedical record did not support an inpatient level of care\u201d"
+   }
+  ],
+  "case_id": "sacredheart_hospital"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "A stable condition does not by itself rule out skilled nursing coverage, so the denial reason that the condition remained stable does not settle eligibility.",
+    "passage_id": 228,
+    "quote": "Skilled care may, depending on the unique condition of the patient, continue to be necessary for patients whose condition is stable.",
+    "case_fact": "There were no skilled needs identified or provided."
+   },
+   {
+    "claim": "Hands-on wound care by nurses is a covered type of skilled nursing service. This fits the June 2007 pressure-ulcer care, but not the diabetes-focused visits in the plan of care.",
+    "passage_id": 261,
+    "quote": "direct, hands on skilled nursing care provided to patients with wounds, including any necessary dressing changes on those wounds",
+    "case_fact": "provided wound care, including cleansing and dressing the wound"
+   },
+   {
+    "claim": "Skilled observation is covered only if the need is documented at each visit. The facts do not show whether this was done, and the contractor and QIC found no skilled need. Homebound status and physician certification are not addressed in the passages or facts, so eligibility cannot be settled.",
+    "passage_id": 239,
+    "quote": "The patient\u2019s necessity for skilled observation must be documented at each home health visit",
+    "case_fact": "The QIC found that the home health services were not covered by Medicare because the nursing visits did not meet Medicare coverage criteria."
+   }
+  ],
+  "case_id": "state_of_vt"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Intermittent skilled nursing visits under a home health plan are a type of care the policy covers. The case describes skilled nursing visits for assessment and teaching, so the service type fits. Whether it is reasonable and necessary is a separate question and is not settled here.",
+    "passage_id": 130,
+    "quote": "Needs Skilled Nursing Care on an Intermittent Basis",
+    "case_fact": "the 105 year old beneficiary required skilled nursing visits for assessment of diabetes, peripheral vascular disease, osteoarthrosis"
+   },
+   {
+    "claim": "A plan of care (POC) exists, but the facts do not show that a physician or allowed practitioner established and approved it, or signed it. This point is UNKNOWN.",
+    "passage_id": 130,
+    "quote": "Services Are Provided Under a Plan of Care Established and Approved by a Physician or Allowed Practitioner",
+    "case_fact": "While the POC describes the beneficiary\u2019s diabetes as \"uncontrolled\""
+   },
+   {
+    "claim": "The policy requires the patient to be confined to the home, but the case facts say nothing about homebound status. This point is UNKNOWN.",
+    "passage_id": 130,
+    "quote": "Conditions Patient Must Meet to Qualify for Coverage of Home Health Services.",
+    "case_fact": "the 105 year old beneficiary required skilled nursing visits for assessment of diabetes, peripheral vascular disease, osteoarthrosis"
+   },
+   {
+    "claim": "The policy requires physician or allowed-practitioner certification, including a face-to-face encounter, but the case facts say nothing about certification. This point is UNKNOWN.",
+    "passage_id": 130,
+    "quote": "Physician or Allowed Practitioner Certification and Recertification of Patient Eligibility for Medicare Home Health Services",
+    "case_fact": "While the POC describes the beneficiary\u2019s diabetes as \"uncontrolled\""
+   }
+  ],
+  "case_id": "uphams_homehealthcare"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Homebound criterion one appears met. The beneficiary needed a supportive device (rolling walker) to ambulate out-of-room distances when therapy began.",
+    "passage_id": 178,
+    "quote": "need the aid of supportive devices such as crutches, canes, wheelchairs, and walkers",
+    "case_fact": "at the time the physical therapy began, the beneficiary ambulated with a rolling walker for longer, out-of-room distances such as to and from meals."
+   },
+   {
+    "claim": "Homebound criterion two (normal inability to leave home) is not contradicted. The record contains nothing suggesting she was other than confined to the home. Clinician documentation of taxing effort is not itself shown, so this point is only weakly supported.",
+    "passage_id": 178,
+    "quote": "There must exist a normal inability to leave home",
+    "case_fact": "There is nothing in the record to suggest that the beneficiary was other than confined to her home."
+   },
+   {
+    "claim": "The service type is covered. Skilled gait training by a physical therapist for a patient with a skeletal/muscular impairment is a covered type of care, and the visit notes show it occurred at each visit.",
+    "passage_id": 291,
+    "quote": "constitute skilled physical therapy and are considered reasonable and necessary if they can be expected to materially improve",
+    "case_fact": "The physical therapy visit notes reflect that skilled gait training occurred during each visit."
+   },
+   {
+    "claim": "The case facts mention a Home Health Certification and Plan of Care, but they do not state that a physician or allowed practitioner certified homebound status. That specific certification element is therefore UNKNOWN. A physician order for therapy is documented.",
+    "passage_id": 178,
+    "quote": "the law requires that a physician or allowed practitioner certify in all cases that the patient is confined to his/her home",
+    "case_fact": "the \u201cHome Health Certification and Plan of Care\u201d reflects that the beneficiary experienced an exacerbation of arthritis"
+   }
+  ],
+  "case_id": "visitingnursing"
+ }
+]

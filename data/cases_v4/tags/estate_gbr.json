@@ -1,0 +1,461 @@
+{
+"case_id": "estate_gbr",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated May 12, 2010, which concerned ground ambulance transportation and mileage furnished to the beneficiary on June 2, 2009.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined that the ambulance transport was not covered by Medicare because the evidence was insufficient to establish that the facility to which the beneficiary was transferred offered a higher level of care than that available at the facility from which he was transferred.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 4,
+"section": "INTRO",
+"text": "As set forth below, the Council reverses the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "FACTS",
+"text": "On June 2, 2009, the date of the ambulance transport at issue, the beneficiary was an 81-year-old male who had been found unresponsive in his home that morning.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 3,
+"si": 1,
+"section": "FACTS",
+"text": "Exhibit (Exh.) 1, at 1A. He was brought to the emergency room (ER) at Proctor Hospital (Proctor) in ***, Illinois, via ambulance. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 3,
+"si": 2,
+"section": "FACTS",
+"text": "The initial ambulance transport is not at issue in this case.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "FACTS",
+"text": "At Proctor, the ER physician diagnosed the beneficiary with left temporal lobe hemorrhagic cardiovascular accident. Id. at 1.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "FACTS",
+"text": "The ER physician documented that he consulted with the neurosurgeon on call, who recommended that the beneficiary be transferred to the \u201cSt. Francis Neuro ICU.\u201d Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 4,
+"si": 2,
+"section": "FACTS",
+"text": "Advanced Medical Transport of Central Illinois transported the beneficiary from Proctor Hospital to OSF Saint Francis Medical Center (St. Francis) on the afternoon of June 2, 2009. Id. at 8-10.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 4,
+"si": 3,
+"section": "FACTS",
+"text": "The neurosurgeon at St. Francis explained to the beneficiary\u2019s family that the chances for the beneficiary to make a \u201cfunctional recovery\u201d were \u201cquite low\u201d. Id. at 3.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 4,
+"si": 4,
+"section": "FACTS",
+"text": "The family decided against surgery or other \u201caggressive measures\u201d. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 4,
+"si": 5,
+"section": "FACTS",
+"text": "The beneficiary died two days later. Id. at 5.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "Advanced Medical Transport submitted a claim for ambulance transportation and mileage to the Medicare contractor, which denied the claim initially and on redetermination. Exhs. 3, 4.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "The contractor determined that the beneficiary was responsible for the cost of the non-covered services.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "FACTS",
+"text": "The beneficiary\u2019s estate requested reconsideration by a Qualified Independent Contractor (QIC).",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 5,
+"si": 3,
+"section": "FACTS",
+"text": "The QIC, like the contractor, found the ambulance transport not covered. Exh. 5.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 5,
+"si": 4,
+"section": "FACTS",
+"text": "The QIC stated:",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "The facts show that the patient was transported from one hospital to another on June 2, 2009.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "It was noted that the patient was transported to a trauma center.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "FACTS",
+"text": "It was determined that the sending hospital also has a trauma center.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 6,
+"si": 3,
+"section": "FACTS",
+"text": "The documentation did not state what specific service was not available at the first hospital.",
+"tag": "GAP",
+"reason": "documentation did not"
+},
+{
+"pi": 6,
+"si": 4,
+"section": "FACTS",
+"text": "Based on the above, we found that Medicare payment cannot be made for the ambulance transport on June 2, 2009.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "Exh. 5, at 37.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant requested an appeal to an ALJ. Exh. 6.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "FACTS",
+"text": "The appellant waived the right to a hearing and requested that the ALJ issue a decision based on the documents in the record. Exh. 8.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "FACTS",
+"text": "The ALJ issued his decision on May 12, 2010.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 3,
+"section": "FACTS",
+"text": "The ALJ concluded that \u201cthe documentation submitted does not support a determination that the beneficiary required ambulance transport to another facility.\u201d Dec. at 5.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 4,
+"section": "FACTS",
+"text": "The ALJ found that the records did not show what service or expertise was available at St. Francis that was not also available at Proctor, as both facilities were designated as trauma centers. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 5,
+"section": "FACTS",
+"text": "The ALJ further opined that the ambulance transport was not medically necessary because the beneficiary\u2019s family ultimately decided not to pursue aggressive treatment. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 6,
+"section": "FACTS",
+"text": "Finally, the ALJ concluded that the beneficiary\u2019s estate was liable for the cost of the non-covered care. Id.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "MIXED",
+"text": "In the request for review (admitted into the record as Exh. MAC-1), the appellant (the beneficiary\u2019s son and co-executor of the estate) asserts that the ER physician at Proctor informed him that the beneficiary needed to be transported to the neurological critical care unit at St. Francis, where he could be evaluated by a neurosurgeon.",
+"tag": "PARTY",
+"reason": "beneficiary\u2019s son and co-executor of the"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant further explains that the family did not know whether surgical intervention was warranted until after the beneficiary had been evaluated by the neurosurgeon at St. Francis.",
+"tag": "PARTY",
+"reason": "appellant further explains"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "MIXED",
+"text": "The regulations governing Medicare coverage of ambulance services provide, in pertinent part:",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "MIXED",
+"text": "Medicare covers the following ambulance transportation: (1) From any point of origin to the nearest hospital, CAH, or SNF that is capable of furnishing the required level and type of care for the beneficiary\u2019s illness or injury.",
+"tag": "LAW",
+"reason": "law statement: Medicare covers"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "MIXED",
+"text": "The hospital or CAH must have available the type of physician or physician specialist needed to treat the beneficiary's condition.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "MIXED",
+"text": "42 C.F.R. \u00a7 410.40(e).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 13,
+"si": 1,
+"section": "MIXED",
+"text": "The Medicare Benefit Policy Manual (MBPM), IOM 100-02, provides the following additional guidance:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "MIXED",
+"text": "Occasionally, the institution to which the patient is initially taken is found to have inadequate or unavailable facilities to provide the required care, and the patient is then transported to a second institution having appropriate facilities.",
+"tag": "EVAL",
+"reason": "inadequate"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "MIXED",
+"text": "In such cases, transportation by ambulance to both institutions would be covered to the extent of the mileage to be the nearest institution with appropriate facilities.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "MIXED",
+"text": "MBPM, Ch. 10, \u00a7 10.3.2.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "MIXED",
+"text": "As noted above, the Council engages in a de novo review of the record.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 16,
+"si": 1,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 16,
+"si": 2,
+"section": "MIXED",
+"text": "As such, we are not bound by the findings made by the ALJ, or by any other decision maker below.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 16,
+"si": 3,
+"section": "MIXED",
+"text": "Having reviewed the record as a whole, the Council concludes that the preponderance of the evidence supports a conclusion that the ambulance transport and mileage at issue met Medicare coverage guidelines because specialized neurological/ neurosurgical critical care was unavailable at Proctor, but was available at St. Francis.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "MIXED",
+"text": "The ER physician\u2019s final report, which was in the record before the ALJ, strongly suggests that Proctor lacked appropriate facilities to treat the beneficiary, who was critically ill, having suffered an intracranial bleed and uncontrolled high blood pressure. See Exh. 1, at 1-1A. The ER physician noted that he consulted with the neurosurgeon on call. Id. at 1.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 17,
+"si": 1,
+"section": "MIXED",
+"text": "It is apparent that the neurosurgeon directed that the beneficiary be transported to St. Francis. Id.",
+"tag": "COUNCIL",
+"reason": "directed that"
+},
+{
+"pi": 17,
+"si": 2,
+"section": "MIXED",
+"text": "Had there been appropriate neurological/neurosurgical facilities and/or expertise at Proctor, there would have been no reason for the neurosurgeon on call to direct the beneficiary\u2019s transfer to St. Francis.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 17,
+"si": 3,
+"section": "MIXED",
+"text": "The ER physician\u2019s report specifically states that the beneficiary is being transferred to St. Francis for \u201cNeuro ICU.\u201d Id.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 17,
+"si": 4,
+"section": "MIXED",
+"text": "The Council infers from this note that Proctor was not equipped with a specialized Neurological Intensive Care Unit.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 17,
+"si": 5,
+"section": "MIXED",
+"text": "Accordingly, the ambulance transport and mileage are covered by Medicare.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "TERMINAL",
+"text": "The ambulance service, including mileage, furnished to transport the beneficiary from Proctor Hospital to OSF St. Francis Medical Center on June 2, 2009, is covered by Medicare.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "TERMINAL",
+"text": "The ALJ\u2019s decision is reversed.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

@@ -1,0 +1,1013 @@
+{
+"case_id": "ny",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued eight decisions between May 13, 2014, and July 3, 2014, which concerned Medicare coverage of home health services furnished on multiple dates of service to the eight beneficiaries identified in the attachment to this action.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "In each case, the ALJ determined that the physician ordered and the beneficiary received more than 28 (or 35) hours of home health services.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "Therefore, the services were not intermittent, as required by sections 1814(a)(2)(C), 1835(a)(2)(A), and 1861(m) of the Social Security Act (Act), and were not covered.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The ALJ further determined in most cases that the provider was liable for the non-covered services pursuant to section 1879.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 4,
+"section": "INTRO",
+"text": "The ALJ held beneficiary T.M. liable for the non- covered services he received pursuant to an Advance Beneficiary Notice (ABN) contained in the record.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 5,
+"section": "INTRO",
+"text": "The appellant, a State",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "Medicaid agency, has asked the Medicare Appeals Council (Council) to review the ALJ\u2019s actions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decisions de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 2,
+"section": "INTRO",
+"text": "We admit the appellant\u2019s requests for Council review into the record as Exhibit MAC-1 for each respective beneficiary.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 2,
+"si": 3,
+"section": "INTRO",
+"text": "We also admit into the record as Exhibit MAC-2 the appellant\u2019s letter to the Council dated November 17, 2015, redacted to maintain privacy.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 2,
+"si": 4,
+"section": "INTRO",
+"text": "The letter included a two-page chart referencing 97 cases, each pertaining to a different beneficiary.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 2,
+"si": 5,
+"section": "INTRO",
+"text": "For privacy purposes, though, we have not included the chart in Exhibit MAC-2.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 2,
+"si": 6,
+"section": "INTRO",
+"text": "We note that the claims identified in the requests for review now before the Council were listed in the chart.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "INTRO",
+"text": "As we discuss below, the Council finds that the ALJ erred in concluding that Medicare will not cover any of the home health services solely because each beneficiary was ordered and received more than 28 (or 35) hours per week of care.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 3,
+"si": 1,
+"section": "INTRO",
+"text": "Because the ALJ did not analyze whether the services furnished were reasonable and necessary, we vacate the hearing decisions and remand these cases to the ALJ for further proceedings, including new decisions. See 42 C.F.R. \u00a7\u00a7 405.1032, 405.1108(a), 405.1128(a).",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "In each case, the physician ordered and the provider furnished to the beneficiary home health services consisting of skilled nursing visits ranging from once every other week to twice every week and home health aide visits ranging between five and seven days per week, and between four and 24 hours per day. See, e.g., Exh. 1 (M.D.) at 15-17; Exh. 1 (Y.L.) at 16-18; Exh. 1 (R.L.) at 35.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "The provider submitted demand bills, and the contractor denied the claims initially and on redetermination. See, e.g., Exh. 1 (R.L.) at 20-28.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "FACTS",
+"text": "On reconsideration, the Qualified Independent Contractor (QIC) upheld the denials. See, e.g., id. at 9-14.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 5,
+"si": 3,
+"section": "FACTS",
+"text": "The contractor and the QIC both held the provider liable for the non-covered charges in each case pursuant to section 1879 of the Act. See, e.g., id. at 22, 13- 14.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant timely appealed each case to the ALJ. See, e.g., Exh. 1 (R.L.) at 1-3.",
+"tag": "PROC",
+"reason": "timely"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "Pursuant to the appellant\u2019s waiver of its right to a hearing, the ALJ conducted on-the-record reviews in each case, with the exception of the claims involving beneficiary R.L. See, e.g., Exh. 3 (D.B.).",
+"tag": "PROC",
+"reason": "waiver"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "FACTS",
+"text": "For beneficiary R.L., the ALJ scheduled a consolidated hearing, notifying the appellant, the various providers, and the QIC that the hearing would address the home health services furnished on multiple dates of service to the multiple beneficiaries. See, e.g., Exh. 2 (R.L.).",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "The ALJ ultimately issued a written decision in each case denying coverage for all the home health services. See generally ALJ Decisions (Dec.).",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ stated that \u201cit must be determined if the services provided to the Beneficiary were \u2018intermittent\u2019 as required by Title XVII \u00a7\u00a7 1861(m), 1814(a)(2) and 1835(a)(2)(A) of the Act, 42 C.F.R. \u00a7 409.42, and 42 C.F.R. \u00a7 409.45(b)(2)(ii).\u201d See, e.g., Dec. (R.L.) at 8.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 7,
+"si": 2,
+"section": "FACTS",
+"text": "The ALJ then stated that section 1861(m) of the Act defines \u201cpart-time or intermittent services\u201d as skilled nursing and home health services furnished on any number of days per week for (combined) less than eight hours each day and 28 hours each week, or, on a case-by-case basis, 35 or fewer hours each week. See, e.g., id.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 7,
+"si": 3,
+"section": "FACTS",
+"text": "The ALJ then reasoned that, because each beneficiary was ordered and received weekly home health aide and skilled nursing services exceeding the 28-hour (or 35-hour) limitation, the services were not \u201cintermittent.\u201d See, e.g., id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 4,
+"section": "FACTS",
+"text": "Therefore, he concluded, Medicare did not cover any of the home health services furnished to the beneficiaries. See, e.g., id.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 7,
+"si": 5,
+"section": "FACTS",
+"text": "The ALJ, as had the contractor and QIC, held the provider liable for the non-covered charges. See, e.g., id. at 9.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 7,
+"si": 6,
+"section": "FACTS",
+"text": "As noted, for the claims concerning beneficiary T.M., the ALJ held T.M. liable for the non-covered charges pursuant to an ABN in the record. Dec. (T.M.) at 9.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant\u2019s timely requests for Council review followed. See, e.g., Exh. MAC-1 (R.L.).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "FACTS",
+"text": "Before the Council, the appellant argues that the ALJ failed to analyze whether the services furnished to each beneficiary were reasonable and necessary and, therefore, whether Medicare covered at least 28 hours and up to 35 hours of the home health services furnished to the beneficiary during the dates of service at issue. See, e.g., id. at 3 (reverse).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "FACTS",
+"text": "In that regard, the appellant asserts that coverage is available for home health aide or skilled nursing services on a part-time basis (seven days a week, but fewer than eight hours each day) or an intermittent basis (six or fewer times a week for as many as 24-hours per day). See, e.g., id. at 4 (reverse).",
+"tag": "COUNCIL",
+"reason": "reverse"
+},
+{
+"pi": 8,
+"si": 3,
+"section": "FACTS",
+"text": "Further, if the beneficiary is homebound, in need of reasonable and necessary skilled services provided under a plan of care certified by a home health agency, home health services are covered \u201cup to 28 hours or for as many as 35 hours where medical justification is shown.\u201d See, e.g., id.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 8,
+"si": 4,
+"section": "FACTS",
+"text": "In addition, the appellant asserts that the ALJ\u2019s use of the term \u201cat least\u201d in discussing \u201cthe intermittent nature of the services\u201d indicates that the ALJ was \u201c[a]ssuming facts not in evidence.\u201d See, e.g., id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 5,
+"section": "FACTS",
+"text": "The appellant ultimately asks that the Council reverse and remand these cases based on the ALJ\u2019s error in applying the law and his failure to consider the evidence in each particular case. See, e.g., id. at 5.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "MIXED",
+"text": "Dates of Service at Issue for Beneficiaries M.D. and Y.L.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "MIXED",
+"text": "(M-14-3875), Beneficiaries Q.W. and S.W.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 10,
+"si": 2,
+"section": "MIXED",
+"text": "(M-14-4055), and Beneficiary R.L.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 10,
+"si": 3,
+"section": "MIXED",
+"text": "(M-14-5355)",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "MIXED",
+"text": "In these cases, the provider\u2019s demand bills included services furnished prior to October 1, 2010. See, e.g., Exh. 1 (R.L.) at 26.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 11,
+"si": 1,
+"section": "MIXED",
+"text": "On review, the contractor excluded from review all of the dates of service prior to that date because they were part of the Third Party Liability (TPL) Demonstration Project. See, e.g., id. at 20-21.",
+"tag": "PROC",
+"reason": "Liability"
+},
+{
+"pi": 11,
+"si": 2,
+"section": "MIXED",
+"text": "In some, though not in all, cases, the QIC excluded those dates of service from review as well. See, e.g., id. at 10.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 11,
+"si": 3,
+"section": "MIXED",
+"text": "The appellant\u2019s requests for hearing sought review of all of the dates of service originally identified in the demand bills, including the dates prior to October 1, 2010. See, e.g., id. at 1.",
+"tag": "PROC",
+"reason": "requests for hearing"
+},
+{
+"pi": 11,
+"si": 4,
+"section": "MIXED",
+"text": "In some cases, the ALJ recognized that dates prior to October 1, 2010, had not been included in the earlier reviews, though the ALJ did not dismiss the appellant\u2019s requests for hearing with respect to those dates. See, e.g., Dec. (R.L.) at 1, 9.",
+"tag": "COUNCIL",
+"reason": "dismiss"
+},
+{
+"pi": 11,
+"si": 5,
+"section": "MIXED",
+"text": "In its requests for review, the appellant has continued to seek review of the dates of service prior to October 1, 2010. See, e.g., Exh. MAC-1 (R.L.) at 1.",
+"tag": "PROC",
+"reason": "requests for review"
+},
+{
+"pi": 11,
+"si": 6,
+"section": "MIXED",
+"text": "As we explain below, we vacate the ALJ\u2019s decisions and dismiss the appellant\u2019s requests for hearing as they pertain to dates of service prior to October 1, 2010, because they were not reviewed by the QIC in some cases and because the appellant has waived its right to review of those claims by participating in the TPL demonstration project.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "MIXED",
+"text": "In the Medicare claim appeals process, generally before an appellant may seek review of a claim at any particular level, the prior level of review must have considered the claim and issued a determination.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.904(a)(2).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 12,
+"si": 2,
+"section": "MIXED",
+"text": "In some cases, the QIC excluded all dates of service prior to October 1, 2010, from its reviews, and, therefore, those dates of service were not properly before the ALJ.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "MIXED",
+"text": "More importantly, under the TPL Demonstration Project, CMS and the State of New York agreed to utilize a sampling approach to determine Medicare\u2019s share of the cost of home health service claims for dually eligible beneficiaries that were originally submitted to, and paid for, by the state\u2019s Medicaid agency for Fiscal Years 2008-2010. See CMS Active Project Report, Demonstration of Home Health Agencies Settlement for Dual Eligibles for the State of New York, Project Number 95-W- 00084/02.",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 13,
+"si": 1,
+"section": "MIXED",
+"text": "This sampling was used in lieu of individually gathering Medicare claims from home health agencies for every dually eligible Medicaid claim that the state had possibly paid in error, thus eliminating the need for the regional home health intermediary to review every case.",
+"tag": "PRIOR_DENIAL",
+"reason": "intermediary"
+},
+{
+"pi": 13,
+"si": 2,
+"section": "MIXED",
+"text": "The Active Projects Report is available online at: http://www.cms.gov/Research-Statistics- Data-and-Systems/Statistics-Trends-and-Reports/ActiveProject Reports/index.html (last visited March 7, 2016).",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "MIXED",
+"text": "Any appeal of a claim denial under the TPL Demonstration Project is committed to arbitration outside of the regular Medicare administrative appeals process, promulgated in 42 C.F.R. Part 405, Subpart I. By participating in the TPL Demonstration Project, therefore, the appellant has waived any rights to claim review under the aforementioned regulations for services provided before October 1, 2010.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "MIXED",
+"text": "Despite this waiver, however, the appellant has continued to include all the dates of service prior to October 1, 2010, in its requests for review.",
+"tag": "PROC",
+"reason": "waiver"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "MIXED",
+"text": "In sum, the appellant had no right to ALJ review of the dates of service that occurred prior to October 1, 2010.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 15,
+"si": 1,
+"section": "MIXED",
+"text": "Medicare regulations provide that when a party has no right to an ALJ hearing, an ALJ may dismiss a request for a hearing.",
+"tag": "COUNCIL",
+"reason": "dismiss"
+},
+{
+"pi": 15,
+"si": 2,
+"section": "MIXED",
+"text": "The Council may similarly dismiss a request for an ALJ hearing for any reason that the ALJ could have dismissed the request.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 15,
+"si": 3,
+"section": "MIXED",
+"text": "C.F.R. \u00a7\u00a7 405.1052(a)(3), 405.1116.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 15,
+"si": 4,
+"section": "MIXED",
+"text": "Therefore, we vacate the ALJ\u2019s decisions with respect to all dates of service prior to October 1, 2010, and dismiss the appellant\u2019s requests for hearing as they pertain to those dates of service.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 15,
+"si": 5,
+"section": "MIXED",
+"text": "The Council\u2019s dismissal is binding and not subject to judicial review.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 15,
+"si": 6,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.1116.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "MIXED",
+"text": "Medicare Eligibility for and Coverage of Home Health Services Beginning on October 1, 2010",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 17,
+"si": 0,
+"section": "MIXED",
+"text": "Having carefully reviewed the records in these cases, including the prior decisions, and having considered the appellant\u2019s arguments, we agree with the appellant that the ALJ\u2019s rationale for denying coverage is based on an error of law.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 17,
+"si": 1,
+"section": "MIXED",
+"text": "For the reasons we explain below, we vacate the ALJ\u2019s decisions and remand these cases for further proceedings.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "MIXED",
+"text": "Medicare Part A covers home health services, which include part- time or intermittent skilled nursing services, physical or occupational therapy, speech-language pathology, medical social services, and home health aide services.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 18,
+"si": 1,
+"section": "MIXED",
+"text": "Act, \u00a7\u00a7 1812(a)(3), 1861(m); 42 C.F.R. \u00a7 409.44.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 18,
+"si": 2,
+"section": "MIXED",
+"text": "Coverage of medical social services and home health aide services depends on the beneficiary\u2019s need for intermittent skilled nursing services, need for physical therapy or speech language pathology, or continuing need for occupational therapy.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 18,
+"si": 3,
+"section": "MIXED",
+"text": "Act, \u00a7 1861(m); 42 C.F.R. \u00a7 409.45.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "MIXED",
+"text": "To qualify for coverage of home health services a beneficiary must be: confined to the home; under the care of a physician; in need of skilled nursing care on an intermittent basis, physical therapy, speech-language pathology, or continuing occupational therapy; and under a plan of care.",
+"tag": "LAW",
+"reason": "law statement: To qualify"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.42(a)-(d). See also Act, \u00a7\u00a7 1814(a)(2)(C), 1835(a)(2)(A); MBPM, Ch. 7, \u00a7 30 (Rev. 1, 10-01-03).",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 19,
+"si": 2,
+"section": "MIXED",
+"text": "In addition, the home health services must be furnished by (or under arrangements made by) a participating home health agency. Id. at \u00a7 409.42(e).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 19,
+"si": 3,
+"section": "MIXED",
+"text": "For purposes of eligibility for coverage of home health services, \u201cintermittent\u201d refers to skilled nursing care provided or needed on fewer than seven days a week or fewer than eight hours a day for a period of 21 days or less, with extensions in \u201cexceptional circumstances when the need for additional care is finite and predictable.\u201d",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 19,
+"si": 4,
+"section": "MIXED",
+"text": "Act, \u00a7 1861(m); MBPM, Ch. 7, \u00a7 30.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "Once a beneficiary qualifies for coverage of home health services, Medicare will cover either part-time or intermittent skilled nursing care and home health aide services.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 20,
+"si": 1,
+"section": "MIXED",
+"text": "Act, \u00a7 1861(m)(1),(4); MBPM, Ch. 7, \u00a7\u00a7 40, 50.7.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 20,
+"si": 2,
+"section": "MIXED",
+"text": "In the context of Medicare coverage of skilled nursing and home health aide services:",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "MIXED",
+"text": "[T]he term \u201cpart-time or intermittent services\u201d means skilled nursing and home health aide services furnished any number of days per week as long as they are furnished (combined) less than 8 hours each day and 28 or fewer hours each week (or, subject to review on a case-by-case basis as to the need for care, less than 8 hours a day and 35 or fewer hours per week).",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 22,
+"si": 0,
+"section": "MIXED",
+"text": "Act, \u00a7 1861(m).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "MIXED",
+"text": "This definition of \u201cpart-time or intermittent\u201d operates as a limit on Medicare coverage of skilled nursing and home health aide services.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 23,
+"si": 1,
+"section": "MIXED",
+"text": "MBPM, Ch. 7, \u00a7 50.7.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 23,
+"si": 2,
+"section": "MIXED",
+"text": "Section 50.7.1 of the MBPM, Chapter 7, explains the impact of this coverage limit on care that is provided on greater than an \u201cintermittent\u201d or a \u201cpart-time\u201d basis:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "MIXED",
+"text": "Home health aide and/or skilled nursing care, in excess of the amounts of care that meet the definition of part-time or intermittent, may be provided to a home care patient or purchased by other payers without bearing on whether the home health aide and skilled nursing care meets the Medicare definitions of part-time or intermittent.",
+"tag": "EVAL",
+"reason": "meet the definition"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "MIXED",
+"text": "EXAMPLE: A patient needs skilled nursing care monthly for a catheter change and the home health agency also renders needed daily home health aide services 24 hours per day that will be needed for a long and indefinite period of time.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 25,
+"si": 1,
+"section": "MIXED",
+"text": "The HHA bills Medicare for the skilled nursing and home health aide services which were provided before the 35th hour of service each week, and bills the beneficiary (or another payer) for the remainder of the care.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 25,
+"si": 2,
+"section": "MIXED",
+"text": "If the intermediary determines that the 35 hours of care are reasonable and necessary, Medicare would cover the 35 hours of skilled nursing and home health aide visits.",
+"tag": "PRIOR_DENIAL",
+"reason": "intermediary"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "MIXED",
+"text": "In these cases, the ALJ erroneously concluded that, because the provider furnished more than 28 (or 35) hours of home health services weekly for each beneficiary, Medicare would not cover any of the home health services.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 26,
+"si": 1,
+"section": "MIXED",
+"text": "However, as we have discussed, qualification for home health services is distinct from coverage limits for those services.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 26,
+"si": 2,
+"section": "MIXED",
+"text": "Once a beneficiary qualifies for home health services by virtue of needing intermittent skilled nursing care, then skilled nursing and home health aide services may be furnished to the beneficiary up to the limits of coverage, i.e. up to what is considered to be part-time or intermittent care as defined in section 1861(m) of the Act.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 26,
+"si": 3,
+"section": "MIXED",
+"text": "In other words, the total amount of Medicare-covered skilled nursing care and home health aide services generally cannot exceed 28 hours per week, or 35 hours per week on a case-by-case basis if there is need for 35 hours of care. See MBPM, Ch. 7, \u00a7 50.7.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 26,
+"si": 4,
+"section": "MIXED",
+"text": "If more than 35 hours of services are furnished per week, the additional services may be billed to other payers, such as a State Medicaid agency.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "MIXED",
+"text": "In sum, the fact that a beneficiary received home health aide services exceeding Medicare\u2019s 35-hour coverage limit is not a basis for denying eligibility for services and, consequently, for denying coverage up to the limit.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 27,
+"si": 1,
+"section": "MIXED",
+"text": "Therefore, to determine whether the first 35 hours of skilled nursing and home health aide services were covered each week, the adjudicator must determine whether those services were reasonable and necessary and otherwise covered. See Act, \u00a7 1862(a)(1)(A).",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "MIXED",
+"text": "In its November 17, 2015 letter, the appellant urges that the Council issue a favorable decision, citing a previous decision in Council Docket Number M-15-1052. Exh. MAC-2.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 28,
+"si": 1,
+"section": "MIXED",
+"text": "The ALJ in that case determined that the home health services furnished to the beneficiary were reasonable and necessary.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 28,
+"si": 2,
+"section": "MIXED",
+"text": "Council Dec. (M- 15-1052) at 2.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 28,
+"si": 3,
+"section": "MIXED",
+"text": "However, the ALJ nevertheless denied coverage because the beneficiary had received more than 35 hours of services weekly. Id. at 2-3.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 28,
+"si": 4,
+"section": "MIXED",
+"text": "On own motion review, we concluded that the ALJ made an error of law in that regard and, accordingly, reversed the ALJ\u2019s decision and ordered the contractor to calculate the reimbursement due to the provider. Id. at 7-8.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 28,
+"si": 5,
+"section": "MIXED",
+"text": "Because the ALJ had considered the facts of the case and the evidence of record and had determined that the services furnished to the beneficiary were reasonable and necessary, reversing the ALJ\u2019s denial of coverage based solely on the number of hours of services was appropriate.",
+"tag": "COUNCIL",
+"reason": "reversing"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "MIXED",
+"text": "In the cases now before the Council, the ALJ\u2019s sole basis for denying coverage was that the beneficiary received daily home health aide services in excess of the weekly coverage limits, as was the case in M-15-1052.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 29,
+"si": 1,
+"section": "MIXED",
+"text": "This, as we have explained in detail, was erroneous.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 29,
+"si": 2,
+"section": "MIXED",
+"text": "However, as the appellant has argued, the ALJ in the instant cases failed to analyze whether the services furnished to the beneficiaries were reasonable and necessary, and otherwise covered, based on the evidence of record.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 29,
+"si": 3,
+"section": "MIXED",
+"text": "Therefore, we remand these cases for the ALJ to consider, based on the evidence of record and arguments presented, whether the services furnished to the beneficiaries, up to 35 hours weekly, were reasonable and necessary and otherwise covered.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 30,
+"si": 0,
+"section": "MIXED",
+"text": "On a final note, we do not agree with the appellant that the ALJ was \u201c[a]ssuming facts not in evidence\u201d by estimating the number of hours of services the beneficiaries received weekly.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 30,
+"si": 1,
+"section": "MIXED",
+"text": "It is not error for the ALJ to use a general term, such as \u201cat least\u201d or \u201cusually\u201d to refer to the number of hours actually furnished weekly instead of undertaking the task of counting those hours.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 30,
+"si": 2,
+"section": "MIXED",
+"text": "Should services ultimately be paid, the contractor would be capable of calculating the number of hours actually furnished.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 30,
+"si": 3,
+"section": "MIXED",
+"text": "Therefore, the ALJ\u2019s use of such terms was not error.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 32,
+"si": 0,
+"section": "TERMINAL",
+"text": "In accordance with the discussion above, we vacate the ALJ\u2019s decisions and dismiss the appellant\u2019s requests for hearing as they pertain to all dates of service prior to October 1, 2010.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 33,
+"si": 0,
+"section": "TERMINAL",
+"text": "With respect to the remaining dates of service at issue, as identified in the attachment to this action, we vacate the ALJ\u2019s decisions and find that the ALJ erred in concluding that Medicare will not cover any of the home health services furnished to the beneficiaries because the services were not part-time or intermittent, as those terms are defined in section 1861(m) of the Act, and thus exceeded the weekly coverage limit.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 33,
+"si": 1,
+"section": "TERMINAL",
+"text": "Because the ALJ did not analyze whether any of the home health services furnished were reasonable and necessary and otherwise covered, we remand this case to the ALJ for further proceedings.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 34,
+"si": 0,
+"section": "TERMINAL",
+"text": "On remand, the ALJ may offer the parties the opportunity for hearings, as necessary.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 34,
+"si": 1,
+"section": "TERMINAL",
+"text": "Any declination to participate in a hearing must be documented, in writing, in the case record.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 34,
+"si": 2,
+"section": "TERMINAL",
+"text": "The ALJ must provide notice of any scheduled hearing, pursuant to 42 C.F.R. sections 405.1020(c) and 405.1022.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 35,
+"si": 0,
+"section": "TERMINAL",
+"text": "With respect to the claim involving beneficiary T.M., both the contractor and the QIC had determined that the provider was liable for the non-covered charges.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 35,
+"si": 1,
+"section": "TERMINAL",
+"text": "The ALJ, though, determined that the ABN of record was valid and held the beneficiary liable without having afforded her the opportunity to participate in a hearing.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 35,
+"si": 2,
+"section": "TERMINAL",
+"text": "Therefore, for the claim pertaining to beneficiary T.M., the ALJ must offer her the opportunity for a hearing, providing notice to all parties, including the beneficiary.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 36,
+"si": 0,
+"section": "TERMINAL",
+"text": "The ALJ must make a complete record of these cases, including any hearing proceedings and any notices issued to the parties. See 42 C.F.R. \u00a7 405.1042.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 36,
+"si": 1,
+"section": "TERMINAL",
+"text": "We note that the record before us for beneficiary Q.W. appears to be missing the Plan of Care/physician certifications pertaining to the dates of service at issue. See generally Claim File (Q.W.).",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 36,
+"si": 2,
+"section": "TERMINAL",
+"text": "In addition, for beneficiary D.B., the record only contains the first page of the Plan of Care/physician certification pertaining to the March 2011 dates of service.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 36,
+"si": 3,
+"section": "TERMINAL",
+"text": "On remand, the appellant will have the opportunity to submit additional documentation to the ALJ.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 36,
+"si": 4,
+"section": "TERMINAL",
+"text": "We note that the regulations at 42 C.F.R. sections 405.1018(c) and 405.1028 do not require a State Medicaid agency to establish good cause when submitting new evidence to the ALJ.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 37,
+"si": 0,
+"section": "TERMINAL",
+"text": "The ALJ must consider the record in this case and, as discussed above, analyze whether the home health services furnished to the beneficiaries were reasonable and necessary and otherwise covered.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 37,
+"si": 1,
+"section": "TERMINAL",
+"text": "In addition, the ALJ must consider any other issue raised by the contractors below.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 38,
+"si": 0,
+"section": "TERMINAL",
+"text": "The ALJ must then issue a new decision that applies the authorities discussed above.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 38,
+"si": 1,
+"section": "TERMINAL",
+"text": "If appropriate, the ALJ must also determine the financial liability of the parties.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 39,
+"si": 0,
+"section": "TERMINAL",
+"text": "The ALJ may take further action not inconsistent with this order.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

@@ -1,0 +1,528 @@
+[
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination.",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "The services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "At the beginning of PT, D.E. required moderate assistance for all functional transfers.",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "At the onset of PT, D.E.\u2019s prior level of function was noted to be \u201crequired assistance to transfer from sitting to standing.\u201d"
+   },
+   {
+    "claim": "The services were initiated on August 27, 2009, with a treatment diagnosis of cognitive deficits.",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "At the onset of ST, D.E. exhibited moderate to severe receptive and expressive language and cognitive deficits."
+   },
+   {
+    "claim": "D.E.\u2019s prior level of function was noted to be \u201crequired assistance to transfer from sitting to standing.\u201d",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "At the onset of PT, D.E.\u2019s prior level of function was noted to be \u201crequired assistance to transfer from sitting to standing.\u201d"
+   },
+   {
+    "claim": "D.E. was referred to ST to evaluate for speech/language cognitive deficits affecting her communication and safety.",
+    "passage_id": 640,
+    "quote": "A. Assessment The skills of a physical therapist are required for the ongoing assessment of a patient\u2019s rehabilitation needs and potential.",
+    "case_fact": "D.E. was referred to ST due to decreased strength and decreased ADLs due to illness."
+   }
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary had a qualifying three-day hospital stay.",
+    "passage_id": 574,
+    "quote": "Even if a beneficiary\u2019s care during a qualifying hospital stay becomes less intensive during the latter part of the stay, the date of hospital \u201cdischarge\u201d in this context is still considered to be the day that the beneficiary physically leaves the hospital...",
+    "case_fact": "The provider submits, as evidence of the three-day stay, hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay at *** *** Hospital."
+   },
+   {
+    "claim": "The beneficiary was readmitted to the SNF within 30 days after discharge from the initial SNF stay.",
+    "passage_id": 609,
+    "quote": "Alternatively, if the absence from the SNF does not exceed the 3-day interruption window...",
+    "case_fact": "The State Medicaid Agency further contends that it was under a \u201cgood faith impression\u201d that the relevant evidence regarding the qualifying three-day hospital stay was contained in the claim file."
+   },
+   {
+    "claim": "The beneficiary meets the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay.",
+    "passage_id": 610,
+    "quote": "If a beneficiary met the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay...",
+    "case_fact": "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings, and to notify the doctor if three consecutive doses of medication were refused or held."
+   }
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The appellant specifically claims that it had no notice that the services at issue would not be covered by Medicare.",
+    "passage_id": "29",
+    "quote": "The order to admit as an inpatient (\u201cpractitioner order\u201d) is a critical element in clarifying when an individual is considered an inpatient of a hospital...",
+    "case_fact": "The appellant cites the Federal Register to support its claim that it had no knowledge that Medicare would not cover the services at issue, and, to the contrary, believed that Medicare could cover inpatient replacement of automatic implantable cardioverter defibrillators (AICDs). See e.g., Exh. MAC-1 at 4."
+   },
+   {
+    "claim": "The FMQAI policy at the time of [the services at issue] alerted hospitals within its jurisdiction that as of July 1, 2006, FMQAI will no longer be uniformly allowing these procedures to be billed as inpatient services.",
+    "passage_id": "49",
+    "quote": "A hospital stay solely for the purpose of use of a drug or biological that is determined not reasonable and necessary is not covered.",
+    "case_fact": "[2] The appellant also presents the June 1, 2006, statement of the Florida Medical Quality Assurance, Inc., (FMQAI), the CMS contracted Florida QIO. Exh. MAC-1 at 5."
+   }
+  ],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The beneficiary was not a capable recipient to receive the notice of Medicare non-coverage.",
+    "passage_id": 610,
+    "quote": "If a beneficiary met the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay...",
+    "case_fact": "On behalf of the appellant, Center for Medicare Advocacy (CMA) requested an ALJ hearing which was conducted by teleconference on March 14, 2007."
+   },
+   {
+    "claim": "The beneficiary\u2019s physician ordered safety measures due to dementia.",
+    "passage_id": 574,
+    "quote": "In addition, when a hospital inpatient\u2019s care needs drop from acute- to SNF-level but no SNF bed is available...",
+    "case_fact": "Upon admission on January 17, 2006, the beneficiary\u2019s physician ordered a wanderguard, a chair pad alarm while in his wheelchair, and a \u201cpressure alarm when in bed related to poor safety awareness [secondary] to Dementia.\u201d"
+   },
+   {
+    "claim": "The beneficiary was discharged from therapy due to dementia.",
+    "passage_id": 574,
+    "quote": "In addition, when a hospital inpatient\u2019s care needs drop from acute- to SNF-level but no SNF bed is available...",
+    "case_fact": "On February 7, 2006, the beneficiary\u2019s physical therapist discharged him from therapy because, \u201c[p]lateau of benefits from skilled PT interventions reached at current mental level [secondary to] dementia.\u201d"
+   },
+   {
+    "claim": "The notice of non-coverage was signed by the beneficiary during a period when he required safety measures due to dementia.",
+    "passage_id": 610,
+    "quote": "If a beneficiary met the level of care criteria for Medicare coverage during the first 8 days of the stay following a qualifying hospital stay...",
+    "case_fact": "These orders were reauthorized, signed by the physician on February 15, 2006, and in effect for 60 days, during the time the beneficiary signed the notice of non-coverage."
+   }
+  ],
+  "case_id": "connecticut11"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility...",
+    "passage_id": "185",
+    "quote": "An individual may be 'confined to the home' for purposes of Medicare coverage of home health services if he or she resides in an institution that is not primarily engaged in providing to inpatients:",
+    "case_fact": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility..."
+   },
+   {
+    "claim": "...the provider was given notice of the hearing but did not respond or participate.",
+    "passage_id": "186",
+    "quote": "Services to people who already have access to appropriate care from a willing caregiver would not be considered reasonable and necessary to the treatment of the individual's illness or injury.",
+    "case_fact": "...the provider was given notice of the hearing but did not respond or participate."
+   }
+  ],
+  "case_id": "gr"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The SNF care at issue was related to the beneficiary's terminal condition.",
+    "passage_id": 595,
+    "quote": "care unrelated to the terminal condition.",
+    "case_fact": "[4] The appellant does not contend that the SNF care at issue was unrelated to the beneficiary\u2019s terminal condition."
+   },
+   {
+    "claim": "The beneficiary met the requirements for Part A coverage for care unrelated to the terminal condition.",
+    "passage_id": 595,
+    "quote": "meets the requirements for Part A coverage",
+    "case_fact": "[4] The appellant does not contend that the SNF care at issue was unrelated to the beneficiary\u2019s terminal condition."
+   },
+   {
+    "claim": "The facility completed the Medicare-required assessments from the start of care for the unrelated condition.",
+    "passage_id": 595,
+    "quote": "the facility must complete the Medicare-required assessments from the start of care for the unrelated condition",
+    "case_fact": "[4] The appellant does not contend that the SNF care at issue was unrelated to the beneficiary\u2019s terminal condition."
+   }
+  ],
+  "case_id": "m-10-1884"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The nurses provided ongoing monitoring, assessment, and instructions to take the medications as directed.",
+    "passage_id": 267,
+    "quote": "2. The frequency of testing should be consistent with accepted standards of medical practice for continued monitoring of a diagnosis, medical problem, or treatment regimen.",
+    "case_fact": "[4] the records dated within this period include numerous documented instances of changes in the beneficiary\u2019s medication schedule..."
+   },
+   {
+    "claim": "The nurses assessed the beneficiary\u2019s reports of changes in her urine and contacted the beneficiary\u2019s doctor to obtain permission to take a urine sample for analysis.",
+    "passage_id": 256,
+    "quote": "Where the catheter is necessitated by a permanent or temporary loss of bladder control, skilled nursing services that are provided at a frequency appropriate to the type of catheter in use would be considered reasonable and necessary.",
+    "case_fact": "[5] The nurses\u2019 visit notes for this period also indicate that the nurses assessed the beneficiary\u2019s reports of changes in her urine..."
+   },
+   {
+    "claim": "The nurses continued to monitor the beneficiary for compliance with medication for a urinary tract infection.",
+    "passage_id": 256,
+    "quote": "Where there are complications that require more frequent skilled care related to the catheter, such care would, with adequate documentation, be covered.",
+    "case_fact": "[5] The nurses continued to monitor her for compliance with medication for this infection..."
+   }
+  ],
+  "case_id": "m-11-1869"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary was hospitalized for at least 3 consecutive days.",
+    "passage_id": "572",
+    "quote": "the hospital discharge must have occurred on or after the first day of the month in which the individual attained age 65 or, effective July 1, 1973, became entitled to health insurance benefits under the disability or chronic renal disease provisions of the law.",
+    "case_fact": "the beneficiary\u2019s hospitalization from February 12 to February 17, 2010, for \u201cworsening gross hematuria.\u201d"
+   },
+   {
+    "claim": "The beneficiary was discharged from the hospital on February 17, 2010.",
+    "passage_id": "572",
+    "quote": "In determining whether the requirement has been met, the day of admission, but not the day of discharge, is counted as a hospital inpatient day.",
+    "case_fact": "the beneficiary\u2019s hospitalization from February 12 to February 17, 2010, for \u201cworsening gross hematuria.\u201d"
+   },
+   {
+    "claim": "The beneficiary was admitted to a SNF within 30 days after discharge from the hospital.",
+    "passage_id": "579",
+    "quote": "In determining the 30-day transfer period, the day of discharge from the hospital is not counted in the 30 days.",
+    "case_fact": "the beneficiary was discharged from the hospital on February 17 (for admission to the SNF)"
+   },
+   {
+    "claim": "The beneficiary requires skilled nursing for a condition that arose while in the hospital.",
+    "passage_id": "563",
+    "quote": "or for a condition that arose while in the SNF for treatment of a condition for which the beneficiary was previously treated in the hospital.",
+    "case_fact": "the beneficiary underwent a cystoscopy and transurethral resection of the prostate (which had a nodular growth that had reoccurred despite two prior transurethral resections), and received three transfusions."
+   }
+  ],
+  "case_id": "m-11-1967"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services.",
+    "passage_id": 669,
+    "quote": "Physical therapy (PT), speech-language pathology (SLP), and occupational therapy (OT) services must be provided by the SNF or by others under arrangements with the SNF for beneficiaries in either a covered Part A stay or a non-covered stay in the SNF.",
+    "case_fact": "Following readmission, the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services."
+   },
+   {
+    "claim": "The provider discharged the beneficiary from skilled PT and OT on September 30, 2011, because the beneficiary had inconsistent vital signs, low blood pressure, and dizziness while standing.",
+    "passage_id": 588,
+    "quote": "the patient\u2019s condition has stabilized and daily skilled services are no longer required",
+    "case_fact": "The provider discharged the beneficiary from skilled PT and OT on September 30, 2011, a month after readmission to the SNF, because the beneficiary had inconsistent vital signs, low blood pressure, and dizziness while standing."
+   },
+   {
+    "claim": "The beneficiary was admitted to the SNF within 30 days of discharge from a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services.",
+    "passage_id": 579,
+    "quote": "Extended care services are \u201cpost-hospital\u201d if initiated within 30 days after discharge from a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services",
+    "case_fact": "the 87 year old beneficiary was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011"
+   },
+   {
+    "claim": "The beneficiary\u2019s care during a qualifying hospital stay became less intensive during the latter part of the stay.",
+    "passage_id": 579,
+    "quote": "Even if a beneficiary\u2019s care during a qualifying hospital stay becomes less intensive during the latter part of the stay",
+    "case_fact": "the 87 year old beneficiary was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011"
+   }
+  ],
+  "case_id": "m-12-1140"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary sustained a fall in the facility on September 2, 2008, resulting in a \u201cleft upper extremity sprain,\u201d and that it can be assumed that \u201cprior to this fall she did not have a left upper extremity sprain.\u201d",
+    "passage_id": 636,
+    "quote": "Therapy services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by, or under the supervision of, a qualified therapist.",
+    "case_fact": "In its request for review, the appellant asserts that the record does, in fact, document that the beneficiary sustained a fall in the facility on September 2, 2008, resulting in a \u201cleft upper extremity sprain,\u201d and that it can be assumed that \u201cprior to this fall she did not have a left upper extremity sprain.\u201d"
+   },
+   {
+    "claim": "The beneficiary demonstrated \u201cslow but steady progress\u201d reflecting gains in \u201csafety, balance and overall functional mobility.\u201d",
+    "passage_id": 636,
+    "quote": "Therapy services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by, or under the supervision of, a qualified therapist.",
+    "case_fact": "the beneficiary demonstrated \u201cslow but steady progress\u201d reflecting gains in \u201csafety, balance and overall functional mobility.\u201d"
+   },
+   {
+    "claim": "The appellant asserts that the documentation of record, present throughout all levels of review, demonstrates the clear need for the skills of a physical therapist to provide the beneficiary with \u201crehabilitation services to promote safety and maximize functional independence in . . . [the beneficiary\u2019s] environment.\u201d",
+    "passage_id": 636,
+    "quote": "Therapy services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by, or under the supervision of, a qualified therapist.",
+    "case_fact": "The appellant asserts that the documentation of record, present throughout all levels of review, demonstrates the clear need for the skills of a physical therapist to provide the beneficiary with \u201crehabilitation services to promote safety and maximize functional independence in . . . [the beneficiary\u2019s] environment.\u201d"
+   },
+   {
+    "claim": "The beneficiary made steady progress throughout physical therapy while receiving progressive resistance strengthening exercises to improve lower body, strength and balance, as well as \u201csignificant . . . education regarding safety awareness.\u201d",
+    "passage_id": 636,
+    "quote": "Therapy services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by, or under the supervision of, a qualified therapist.",
+    "case_fact": "The appellant asserts that the beneficiary made steady progress throughout physical therapy while receiving progressive resistance strengthening exercises to improve lower body, strength and balance, as well as \u201csignificant . . . education regarding safety awareness.\u201d"
+   },
+   {
+    "claim": "The fact that the beneficiary required \u201cencouragement and reassurance does not prevent her from being a candidate for therapy.\u201d",
+    "passage_id": 636,
+    "quote": "Therapy services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by, or under the supervision of, a qualified therapist.",
+    "case_fact": "The fact that the beneficiary required \u201cencouragement and reassurance does not prevent her from being a candidate for therapy.\u201d"
+   },
+   {
+    "claim": "The appellant asserts that his information indicates that the beneficiary \u201chad newly worsening cognition both prior to and following\u201d her hospitalization.",
+    "passage_id": 636,
+    "quote": "Therapy services are considered skilled when they are so inherently complex that they can be safely and effectively performed only by, or under the supervision of, a qualified therapist.",
+    "case_fact": "In its request for review, the appellant generally references an \u201cAttached\u201d \u201chistory and physical\u201d from the beneficiary\u2019s physician indicating that the beneficiary \u201chad memory loss and difficulty concentrating consistent with dementia.\u201d"
+   }
+  ],
+  "case_id": "m_10_1771"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift.",
+    "passage_id": 285,
+    "quote": "the instruction of the beneficiary or appropriate caregiver by a qualified therapist regarding a maintenance program is covered if the specialized skills, knowledge, and judgment of a qualified therapist are required.",
+    "case_fact": "The visits remaining at issue took place between October 25, 2005, and November 29, 2005. The appellant asserts that these physical therapy services were provided in relation to the installation of a new stair lift mechanism to assist the beneficiary with difficulty navigating stairs in his home due to fatigue, pain and abnormality of gait attributed to post-polio syndrome and unequal leg length."
+   },
+   {
+    "claim": "The therapist was \u201cin the process of designing an appropriate home exercise program\u201d for the beneficiary.",
+    "passage_id": 292,
+    "quote": "Once the patient has reached the goal of climbing and descending stairs safely, additional therapy services are no longer required, and thus would not be covered.",
+    "case_fact": "The visits remaining at issue took place between October 25, 2005, and November 29, 2005. The appellant asserts that these physical therapy services were provided in relation to the installation of a new stair lift mechanism to assist the beneficiary with difficulty navigating stairs in his home due to fatigue, pain and abnormality of gait attributed to post-polio syndrome and unequal leg length."
+   },
+   {
+    "claim": "The beneficiary had an acquired ankle-foot defect recorded at Ex. 1, at 325.",
+    "passage_id": 174,
+    "quote": "EXAMPLE 1: A patient who lives with an adult daughter and otherwise qualifies for Medicare coverage of home health services, requires the assistance of a home health aide for bathing and assistance with an exercise program to improve endurance.",
+    "case_fact": "Among the symptoms common to EDS patients are fragility (the attending physician noted the beneficiary was very fragile, at Ex. 10, at 513), joint hypermobility with potential for joint dislocations, easily torn or bruised skin, and abnormal curvature of feet and spine (in addition to severe lordosis, the beneficiary had an acquired ankle-foot defect recorded at Ex. 1, at 325)."
+   },
+   {
+    "claim": "The home health aides were afraid or unwilling to touch her, failed to handle her correctly, and either left or were fired for those reasons.",
+    "passage_id": 286,
+    "quote": "When the performance of a maintenance program does not require the skills of a therapist or by a qualified therapist assistant under the supervision of a qualified therapist because it could safely and effectively be accomplished by the patient or with the assistance of non-therapists, including unskilled caregivers, such maintenance services will not be covered.",
+    "case_fact": "The appellant agreed that setting up a maintenance program for the home health aides to take over was a goal, but reported that this goals was frustrated because the home health aides were afraid or unwilling to touch her, failed to handle her correctly, and either left or were fired for those reasons."
+   }
+  ],
+  "case_id": "nj_dept_humanservices22"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary's condition requires skilled nursing services to change the catheter and evaluate for urinary tract infections.",
+    "passage_id": 256,
+    "quote": "Where the catheter is necessitated by a permanent or temporary loss of bladder control...",
+    "case_fact": "He had a recurrence of urinary tract infection around mid-point during the six-month period at issue."
+   },
+   {
+    "claim": "The beneficiary's condition requires skilled nursing services to evaluate and treat complications related to the catheter.",
+    "passage_id": 256,
+    "quote": "However, where there are complications that require more frequent skilled care related to the catheter...",
+    "case_fact": "He experienced another bout of urinary tract infection two months later."
+   },
+   {
+    "claim": "The beneficiary's condition requires skilled nursing services to evaluate and treat rectal bleeding.",
+    "passage_id": 231,
+    "quote": "If the enema were necessary to treat the illness or injury, then the visit would be covered as a skilled nursing visit.",
+    "case_fact": "He experienced rectal bleeding more than once during the dates of service,"
+   },
+   {
+    "claim": "The beneficiary's condition requires skilled nursing services to evaluate and treat penile discharge.",
+    "passage_id": 231,
+    "quote": "If the enema were necessary to treat the illness or injury, then the visit would be covered as a skilled nursing visit.",
+    "case_fact": "He experienced rectal bleeding more than once during the dates of service,"
+   },
+   {
+    "claim": "The beneficiary's condition requires skilled nursing services to evaluate and treat tissue found in the urostomy.",
+    "passage_id": 231,
+    "quote": "If the enema were necessary to treat the illness or injury, then the visit would be covered as a skilled nursing visit.",
+    "case_fact": "Tissue was found in the urostomy."
+   },
+   {
+    "claim": "The beneficiary's condition requires skilled nursing services to evaluate and treat abscesses in the rectum.",
+    "passage_id": 231,
+    "quote": "If the enema were necessary to treat the illness or injury, then the visit would be covered as a skilled nursing visit.",
+    "case_fact": "The nurses noted abscesses in the rectum."
+   },
+   {
+    "claim": "The beneficiary's condition requires skilled nursing services to evaluate and treat fistula near the colostomy site.",
+    "passage_id": 231,
+    "quote": "If the enema were necessary to treat the illness or injury, then the visit would be covered as a skilled nursing visit.",
+    "case_fact": "He developed a fistula near the colostomy site."
+   },
+   {
+    "claim": "The beneficiary's condition requires medical social services to assess and address underlying social or emotional problems impeding treatment.",
+    "passage_id": 315,
+    "quote": "The assessment by a medical social worker would be reasonable and necessary...",
+    "case_fact": "He is totally dependent for his care. His mother acts as his primary caregiver."
+   }
+  ],
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The patient is eligible for coverage of home health services.",
+    "passage_id": "177",
+    "quote": "To qualify for the Medicare home health benefit, under \u00a7\u00a71814(a)(2)(C) and 1835(a)(2)(A) of the Act, a Medicare beneficiary must meet the following requirements:",
+    "case_fact": "The patient is confined to the home; Under the care of a physician or allowed practitioner; Receiving services under a plan of care established and periodically reviewed by a physician or allowed practitioner;"
+   },
+   {
+    "claim": "The patient meets the definition of intermittent skilled nursing care.",
+    "passage_id": "274",
+    "quote": "To meet the requirement for 'intermittent' skilled nursing care, a patient must have a medically predictable recurring need for skilled nursing services.",
+    "case_fact": "The patient requires a skilled nursing service at least once every 60 days."
+   },
+   {
+    "claim": "The home health aide and skilled nursing services are part-time or intermittent.",
+    "passage_id": "341",
+    "quote": "Where a patient is eligible for coverage of home health services, Medicare covers either part-time or intermittent home health aide services or skilled nursing services subject to the limits below.",
+    "case_fact": "The law at \u00a71861(m) of the Act clarified: 'the term 'part-time or intermittent services' means skilled nursing and home health aide services furnished any number of days per week as long as they are furnished (combined) less than 8 hours each day and 28 or fewer hours each week (or, subject to review on a case-by-case basis as to the need for care, less than 8 hours each day and 35 or fewer hours each week).'"
+   },
+   {
+    "claim": "The services are reasonable and necessary.",
+    "passage_id": "342",
+    "quote": "If the Medicare contractor determines that the 35 hours of care are reasonable and necessary, Medicare would cover the 35 hours of skilled nursing and home health aide visits.",
+    "case_fact": "The patient needs skilled nursing care monthly for a catheter change and daily home health aide services 24 hours per day."
+   }
+  ],
+  "case_id": "ny"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary was admitted to REMH for two periods, from September 29, 2003, through November 27, 2003, and from December 11, 2003 through January 6, 2004, both following a qualifying hospital stay.",
+    "passage_id": 573,
+    "quote": "been for the treatment of a condition for which the beneficiary was receiving inpatient hospital services (including services of an emergency hospital) or a condition which arose while in the SNF for treatment of a condition for which the beneficiary was previously hospitalized.",
+    "case_fact": "The beneficiary was a 53-year-old woman diagnosed with metastatic breast cancer."
+   },
+   {
+    "claim": "The beneficiary\u2019s physician requested her admission for the noncertified bed because he did not practice at any other area facility, and did not think she should change oncologists given the advanced stage of her illness.",
+    "passage_id": 666,
+    "quote": "the institution fails to place the patient in the appropriate bed.",
+    "case_fact": "The beneficiary\u2019s physician requested her admission for the noncertified bed because he did not practice at any other area facility, and did not think she should change oncologists given the advanced stage of her illness."
+   },
+   {
+    "claim": "Physician\u2019s Telephone Orders requiring intravenous and intramuscular medication for pain and morphine via a portacath are also included for the second admission.",
+    "passage_id": 666,
+    "quote": "the institution fails to place the patient in the appropriate bed.",
+    "case_fact": "Physician\u2019s Telephone Orders requiring intravenous and intramuscular medication for pain and morphine via a portacath are also included for the second admission."
+   }
+  ],
+  "case_id": "roman_eagle_memorial_home"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "stfrances_memorial"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary required and received skilled nursing care for psychological, behavioral, and medical reasons.",
+    "passage_id": 629,
+    "quote": "observation and assessment by a nurse is not reasonable and necessary to the treatment of the illness or injury where these characteristics are part of a longstanding pattern of the patient's waxing and waning condition which by themselves do not require skilled services",
+    "case_fact": "The beneficiary was admitted to the acute psychiatric unit at Yale University for dementia, paranoid behavior, significant difficulty sleeping, agitation, and being violent and assaultive toward her primary caregiver."
+   },
+   {
+    "claim": "The beneficiary required and received skilled physical therapy for her gait and ambulation problems, difficulty with transferring, and need to reduce her risk of falls.",
+    "passage_id": 686,
+    "quote": "Under Part A, physical therapy, occupational therapy, and speech pathology services are included in the SNF PPS rate",
+    "case_fact": "Physical therapy was started five times a week upon the beneficiary\u2019s admission to the SNF."
+   },
+   {
+    "claim": "The skilled nursing services were necessary to maintain the patient\u2019s current condition or prevent or slow further deterioration.",
+    "passage_id": 633,
+    "quote": "Skilled nursing services would be covered where such skilled nursing services are necessary to maintain the patient\u2019s current condition or prevent or slow further deterioration",
+    "case_fact": "The beneficiary was diagnosed with dementia, a behavioral disturbance, and psychosis not otherwise specified."
+   },
+   {
+    "claim": "The beneficiary's care during the qualifying hospital stay became less intensive during the latter part of the stay.",
+    "passage_id": 579,
+    "quote": "Even if a beneficiary\u2019s care during a qualifying hospital stay becomes less intensive during the latter part of the stay",
+    "case_fact": "The beneficiary was admitted to the acute psychiatric unit at Yale University for dementia, paranoid behavior, significant difficulty sleeping, agitation, and being violent and assaultive toward her primary caregiver."
+   }
+  ],
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The IRF stay was medically reasonable and necessary.",
+    "passage_id": "72",
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act if the patient meets all of the requirements outlined in 42 CFR \u00a7 412.622(a)(3), (4), and (5).",
+    "case_fact": "The beneficiary underwent a right total knee replacement secondary to degenerative joint disease."
+   },
+   {
+    "claim": "The IRF stay was medically reasonable and necessary.",
+    "passage_id": "72",
+    "quote": "Medicare requires determinations of whether IRF stays are reasonable and necessary to be based on an assessment of each beneficiary's individual care needs.",
+    "case_fact": "Prior to the total knee replacement surgery, the beneficiary was independent with all of her activities of daily living (ADL\u2019s) and lived alone with her husband."
+   },
+   {
+    "claim": "The IRF stay was medically reasonable and necessary.",
+    "passage_id": "72",
+    "quote": "Medicare benefits are available for such patients in a less-intensive setting. IRF care is only considered by Medicare to be reasonable and necessary under 1862(a)(1)(A) of the Social Security Act if the patient meets all of the requirements outlined in 42 CFR \u00a7 412.622(a)(3), (4), and (5).",
+    "case_fact": "Upon admission, the beneficiary\u2019s functional status was as follows: moderate assistance supine to sit, sit to stand, sit to supine, bed to chair, chair to bed, commode transfers, and tub/shower transfers."
+   },
+   {
+    "claim": "The IRF stay was medically reasonable and necessary.",
+    "passage_id": "72",
+    "quote": "This is true regardless of whether the patient is treated in the IRF for 1 or more of the 13 medical conditions listed in 42 CFR \u00a7 412.29(b)(2) or not.",
+    "case_fact": "The beneficiary underwent a right total knee replacement secondary to degenerative joint disease."
+   },
+   {
+    "claim": "A preadmission screening was conducted within 48 hours immediately preceding the IRF admission.",
+    "passage_id": "74",
+    "quote": "In accordance with 42 CFR \u00a7 412.622(a)(4)(i) a preadmission screening is an evaluation of the patient\u2019s condition and need for rehabilitation therapy and medical treatment that must be conducted by licensed or certified clinician(s) within the 48 hours immediately preceding the IRF admission.",
+    "case_fact": "On July 15, 2003, the 71 year old beneficiary was admitted to the acute hospital where she underwent a right total knee replacement secondary to degenerative joint disease."
+   },
+   {
+    "claim": "A preadmission screening was conducted within 48 hours immediately preceding the IRF admission.",
+    "passage_id": "74",
+    "quote": "A preadmission screening that includes all of the required elements, but that is conducted more than 48 hours immediately preceding the IRF admission, will be accepted as long as an update is conducted in person or by telephone to document the patient\u2019s medical and functional status within the 48 hours immediately preceding the IRF admission in the patient\u2019s medical record at the IRF.",
+    "case_fact": "On July 15, 2003, the 71 year old beneficiary was admitted to the acute hospital where she underwent a right total knee replacement secondary to degenerative joint disease."
+   },
+   {
+    "claim": "The IRF stay met the requirements for multiple therapy disciplines.",
+    "passage_id": "4",
+    "quote": "110.2.1 - Multiple Therapy Disciplines: The patient must receive intensive rehabilitation services from at least three of the five following disciplines: occupational therapy, physical therapy, speech-language pathology, psychology, and restorative nursing.",
+    "case_fact": "During the period at issue, the beneficiary received intravenous (IV) or intramuscular (IM) medications (e.g., trimethobenzamide for nausea, dextrose with Lactated Ringers solution and Toradol for specialty fluid replacement and pain management, and diphenhydramine for itching or rash) and experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid."
+   },
+   {
+    "claim": "The IRF stay met the requirements for intensive level of rehabilitation services.",
+    "passage_id": "4",
+    "quote": "110.2.2 - Intensive Level of Rehabilitation Services: The patient must receive an intensive level of rehabilitation services, as defined in 42 CFR \u00a7 412.622(a)(3), which includes at least 3 hours of therapy per day, 5 days a week.",
+    "case_fact": "During the period at issue, the beneficiary received intravenous (IV) or intramuscular (IM) medications (e.g., trimethobenzamide for nausea, dextrose with Lactated Ringers solution and Toradol for specialty fluid replacement and pain management, and diphenhydramine for itching or rash) and experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid."
+   },
+   {
+    "claim": "The IRF stay met the requirements for ability to actively participate in intensive rehabilitation therapy program.",
+    "passage_id": "4",
+    "quote": "110.2.3 - Ability to Actively Participate in Intensive Rehabilitation Therapy Program: The patient must be able to actively participate in an intensive rehabilitation therapy program, as defined in 42 CFR \u00a7 412.622(a)(3).",
+    "case_fact": "Prior to the total knee replacement surgery, the beneficiary was independent with all of her activities of daily living (ADL\u2019s) and lived alone with her husband."
+   },
+   {
+    "claim": "The IRF stay met the requirements for physician supervision.",
+    "passage_id": "4",
+    "quote": "110.2.4 - Physician Supervision: The patient must receive physician supervision, as defined in 42 CFR \u00a7 412.622(a)(3).",
+    "case_fact": "During the period at issue, the beneficiary received intravenous (IV) or intramuscular (IM) medications (e.g., trimethobenzamide for nausea, dextrose with Lactated Ringers solution and Toradol for specialty fluid replacement and pain management, and diphenhydramine for itching or rash) and experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid."
+   },
+   {
+    "claim": "The IRF stay met the requirements for interdisciplinary team approach to the delivery of care.",
+    "passage_id": "4",
+    "quote": "110.2.5 - Interdisciplinary Team Approach to the Delivery of Care: The patient must receive an interdisciplinary team approach to the delivery of care, as defined in 42 CFR \u00a7 412.622(a)(3).",
+    "case_fact": "During the period at issue, the beneficiary received intravenous (IV) or intramuscular (IM) medications (e.g., trimethobenzamide for nausea, dextrose with Lactated Ringers solution and Toradol for specialty fluid replacement and pain management, and diphenhydramine for itching or rash) and experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid."
+   }
+  ],
+  "case_id": "valley_presbyterian"
+ }
+]

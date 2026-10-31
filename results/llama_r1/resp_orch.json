@@ -1,0 +1,171 @@
+[
+ {
+  "decision": "COVERED",
+  "reason": "The services were deemed necessary and reasonable for the treatment of muscle weakness, lack of coordination, and cognitive deficits in all three patients. The agents' findings support coverage based on accepted standards of medical practice.",
+  "passage_ids": [
+   638,
+   640
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary had a qualifying three-day hospital stay, was readmitted to the SNF within 30 days, and met the level of care criteria for Medicare coverage during the first 8 days of the stay.",
+  "passage_ids": [
+   574,
+   609,
+   610
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The agents' findings collectively indicate that the services at issue do not meet Medicare's requirements for inpatient coverage, citing lack of physician certification and FMQAI policy.",
+  "passage_ids": [
+   29,
+   49,
+   15,
+   2
+  ],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The appellant did not file a brief within the specified time frame, despite being granted a 30-day opportunity to do so and requesting an additional extension of time.",
+  "passage_ids": [
+   579,
+   571
+  ],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary's liability should be waived due to his inability to understand and act on his rights, as evidenced by his dementia diagnosis and the safety measures ordered by his physician.",
+  "passage_ids": [
+   574
+  ],
+  "case_id": "connecticut11"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The assisted living facility is not primarily engaged in providing medical care, and the beneficiary has a skilled need for nursing services. The documentation supports eligibility for home health services.",
+  "passage_ids": [
+   184,
+   185
+  ],
+  "case_id": "gr"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary's skilled physical therapy and occupational therapy services were related to her terminal condition, met the requirements for Part A coverage, and were provided by a facility that completed Medicare-required assessments. All three specialist agents support coverage.",
+  "passage_ids": [
+   669,
+   563,
+   595
+  ],
+  "case_id": "m-10-1884"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The nurses provided ongoing monitoring, assessment, and instructions to take the medications as directed, which is supported by passages 267, 256, and 268.",
+  "passage_ids": [
+   267,
+   256,
+   268
+  ],
+  "case_id": "m-11-1869"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary's hospitalization and subsequent skilled nursing care meet the policy requirements for coverage, as supported by the findings of all three agents.",
+  "passage_ids": [
+   563,
+   572,
+   579
+  ],
+  "case_id": "m-11-1967"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "All three specialist agents agree that the service is covered, citing passages 669 and 579. Additionally, the beneficiary's condition had stabilized and daily skilled services were no longer required before discharge from PT and OT on September 30, 2011, as per passage 588.",
+  "passage_ids": [
+   669,
+   579,
+   588
+  ],
+  "case_id": "m-12-1140"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary's need for skilled care is supported by the documentation of a left upper extremity sprain, slow but steady progress in physical therapy, and the potential for improvement in memory. The services provided were inherently complex and required the skills of a qualified therapist.",
+  "passage_ids": [
+   636
+  ],
+  "case_id": "m_10_1771"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The physical therapy services were provided in relation to the installation of a new stair lift mechanism, and a skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift. The therapist's specialized skills, knowledge, and judgment were required for designing an appropriate home exercise program.",
+  "passage_ids": [
+   292,
+   285
+  ],
+  "case_id": "nj_dept_humanservices22"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary's condition requires skilled nursing services to evaluate and treat various complications related to his catheter, urinary tract infections, rectal bleeding, penile discharge, tissue in the urostomy, abscesses in the rectum, and fistula near the colostomy site. This is supported by passages 231, 256, and 315.",
+  "passage_ids": [
+   231,
+   256,
+   315
+  ],
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "All three agents agree that the patient is eligible for coverage of home health services and meets the requirements for part-time or intermittent skilled nursing care, which are reasonable and necessary.",
+  "passage_ids": [
+   177,
+   341,
+   342
+  ],
+  "case_id": "ny"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary met the level of care criteria for Medicare coverage during the first 8 days of each stay, and the services provided were medically necessary as evidenced by the physician's requests and telephone orders.",
+  "passage_ids": [
+   610,
+   666
+  ],
+  "case_id": "roman_eagle_memorial_home"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The IRF services provided by the appellant to five beneficiaries between March 2003 and May 2004 meet Medicare coverage criteria, as supported by the Eligibility Agent's and Documentation Agent's findings that the patients met all requirements outlined in 42 CFR \u00a7 412.622(a)(3), (4), and (5).",
+  "passage_ids": [
+   72,
+   72
+  ],
+  "case_id": "stfrances_memorial"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary required and received skilled nursing care for psychological, behavioral, and medical reasons, and the services provided were necessary to maintain her current condition or prevent further deterioration.",
+  "passage_ids": [
+   629,
+   633
+  ],
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The IRF stay met all the requirements outlined in 42 CFR \u00a7 412.622(a)(3), (4), and (5) as supported by Eligibility Agent's findings, and the preadmission screening was conducted within 48 hours immediately preceding the IRF admission.",
+  "passage_ids": [
+   72,
+   74
+  ],
+  "case_id": "valley_presbyterian"
+ }
+]

@@ -1,0 +1,1005 @@
+{
+"case_id": "m_10_1771",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision, partially favorable to the appellant, dated June 14, 2010.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ\u2019s decision concerned the appellant\u2019s claims for Medicare coverage of skilled nursing facility (SNF) and outpatient therapy services provided to seven beneficiaries between September 1 and December 31, 2008.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ found that the services provided to three beneficiaries satisfied the applicable Medicare coverage criteria. See Dec. at 8-9 and 22-25.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "In beneficiary-specific submissions, the appellant has asked the Medicare Appeals Council to review the ALJ\u2019s analysis pertaining to three of the remaining four beneficiaries for whom the ALJ found the appellant\u2019s documentation had not satisfied Medicare coverage criteria and that the appellant was liable for the resulting non-covered costs.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 0,
+"si": 4,
+"section": "INTRO",
+"text": "The Council enters the appellant\u2019s requests for review into the record as Exhibit (Exh.) MAC-1 (Beneficiary E.K.), Exhibit MAC-2 (Beneficiary E.M) and Exhibit MAC-3 (Beneficiary J.S.).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 0,
+"si": 5,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 0,
+"si": 6,
+"section": "INTRO",
+"text": "C.F.R. 2 \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 0,
+"si": 7,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 0,
+"si": 8,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "Following consideration of the beneficiaries\u2019 records and the appellant\u2019s exceptions, the Council modifies the ALJ\u2019s decision to clarify that since both the rehabilitative therapy and the nursing services provided to Beneficiaries E.M. and J.S. failed to satisfy the applicable Medicare coverage criteria, no Medicare reimbursement is available for the appellant\u2019s claims associated with those beneficiaries.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "LAW",
+"text": "The regulatory provisions codified at 42 C.F.R. \u00a7\u00a7 409.30 through 409.36 are applicable in determining Medicare coverage of skilled nursing facility (SNF) services, including physical therapy (PT), speech therapy (ST), and occupational therapy (OT).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "LAW",
+"text": "CMS has summarized the conditions for Medicare coverage of SNF services in the Medicare Benefit Policy Manual (MBPM) (IOM Pub. 100-2).",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "LAW",
+"text": "The MBPM provides that SNF services are covered under the following circumstances:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 The patient requires skilled nursing services or skilled rehabilitation services; i.e. services that must be performed by or under the supervision of professional or technical personnel . . . .",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 The patient requires such services on a daily basis;",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 7,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 As a practical matter, the daily skilled services can be provided only on an inpatient basis in a SNF; and",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 The services must be reasonable and necessary for the treatment of a patient\u2019s illness or injury, i.e., be consistent with the nature and severity of the individual\u2019s illness or injury, the individual\u2019s particular medical needs . . .",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "LAW",
+"text": "The services must also be reasonable in terms of duration and quantity.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "LAW",
+"text": "If any one of these four factors is not met, a stay in 3 a SNF, even though it might include the delivery of some skilled services, is not covered.",
+"tag": "EVAL",
+"reason": "not covered"
+},
+{
+"pi": 8,
+"si": 3,
+"section": "LAW",
+"text": "For example, payment for a SNF level of care could not be made if a patient needs an intermittent rather than daily skilled service.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 9,
+"si": 0,
+"section": "LAW",
+"text": "MBPM, ch. 8, \u00a7 30.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "LAW",
+"text": "In 1998, Medicare began paying for SNF services under a \"Prospective Payment System\" (PPS).",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "LAW",
+"text": "Medicare Program Integrity Manual (MPIM) (IOM Pub. 100-08), ch. 6, \u00a7 6.1.",
+"tag": "LAW",
+"reason": "MPIM"
+},
+{
+"pi": 11,
+"si": 2,
+"section": "LAW",
+"text": "The SNF PPS is based on academic studies on case-adjusted payment mixes that linked the amount of payment to the intensity of resources used.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 11,
+"si": 3,
+"section": "LAW",
+"text": "Fed. Reg. 26252, 26253-55 (May 12, 1998).",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 11,
+"si": 4,
+"section": "LAW",
+"text": "PPS covered SNF services include post-hospital SNF services for which benefits are provided under Medicare Part A and all items and services for a SNF inpatient (other than certain services excluded by statute) for which, prior to July 1, 1998, payment had been made under Medicare Part B. The SNF PPS per diem rates use a resident classification system to account for relative resource utilization of different patient types.",
+"tag": "LAW",
+"reason": "statute"
+},
+{
+"pi": 11,
+"si": 5,
+"section": "LAW",
+"text": "For this purpose, SNF PPS uses Version III of the Resource Utilization Group (RUG-III) classification system to determine a SNF\u2019s per diem rate for all or part of a SNF stay.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "LAW",
+"text": "The SNF PPS payments are determined based upon a patient's condition and classification in a RUG-III code. Id.; see also CMS Resident Assessment Instrument Manual Version 2.",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "LAW",
+"text": "(RAIM) ch. 6, \u00a7 6.2. 1 The RUG-III category classification is based upon a resident assessment conducted using the Minimum Data Set (MDS) 2.0. Id.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 12,
+"si": 2,
+"section": "LAW",
+"text": "MDS 2.0 is a clinical assessment tool reflecting beneficiary diagnoses, ability to perform activities of daily living (ADLs), and treatments received. Id.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 12,
+"si": 3,
+"section": "LAW",
+"text": "The RUG-III classification system is based on a hierarchy of major patient types, organized into major categories, including extensive services, special care, and clinically complex.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 12,
+"si": 4,
+"section": "LAW",
+"text": "Each category is further differentiated, resulting in specific patient groups used for payment.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 12,
+"si": 5,
+"section": "LAW",
+"text": "These groups are assigned using MDS 2.0 resident assessment data.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 12,
+"si": 6,
+"section": "LAW",
+"text": "The 3-digit RUG-III code and the 2-digit assessment indicator make up the Health Insurance Prospective Payment System (HIPPS) code that appears on the",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "MIXED",
+"text": "Pertinent to the cases now before the Counsel, the ALJ excluded from evidence documentation submitted by the appellant, for the first time, after the Qualified Independent Contractor\u2019s (QIC\u2019s) reconsiderations.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 15,
+"si": 1,
+"section": "MIXED",
+"text": "The ALJ uniformly ruled that the \u2013",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "MIXED",
+"text": "Appellant has not provided good cause for the admission of the documentation contained in Exhibit 3 of this beneficiary file, most of which is duplicative of documentation found in Exhibits 1 and 2.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 16,
+"si": 1,
+"section": "MIXED",
+"text": "Consequently, Exhibit 3 is excluded from evidence pursuant to 42 C.F.R. \u00a7\u00a7 405.966, 405.1018 and 405.1028.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "MIXED",
+"text": "Dec. at 10, 13 and 18.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "MIXED",
+"text": "As noted above, the appellant has submitted beneficiary-specific requests for review.",
+"tag": "PARTY",
+"reason": "appellant has submitted"
+},
+{
+"pi": 18,
+"si": 1,
+"section": "MIXED",
+"text": "However, each request for review is accompanied by additional medical documentation.",
+"tag": "PROC",
+"reason": "request for review"
+},
+{
+"pi": 18,
+"si": 2,
+"section": "MIXED",
+"text": "Similar to proceedings before an ALJ, pursuant to 42 C.F.R. \u00a7\u00a7 405.1122(c)(1) and 405.1122(c)(2), if a party submits new evidence to the Council with its request for review, the Council must determine if good cause exits for the submission of that evidence, for the first time, to the Council.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "MIXED",
+"text": "In its requests for review, the appellant neither offered an explanation for the submission of the additional medical documentation with its requests for review, nor did it identify those submissions as \u201cnew\u201d documentation, documentation already in the record, or documentation previously excluded by the ALJ.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "MIXED",
+"text": "Consequently, each of the following beneficiary-specific coverage analyses contains a ruling on the admissibility of the appellant\u2019s accompanying documentary submissions.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 19,
+"si": 2,
+"section": "MIXED",
+"text": "Beneficiary-Specific Claims 7",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "Beneficiary E.K. Issue: Outpatient PT (Part B of A) Dates of Service: September 4-30, 2008",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 22,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ\u2019s analysis included a ruling excluding evidence pertinent to the claim involving Beneficiary E.K. See Dec. at 10.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 22,
+"si": 1,
+"section": "MIXED",
+"text": "However, the Exhibit List in Beneficiary E.K.\u2019s case folder, at the mark for \u201cExhibit 3,\u201d indicates that there was no post-QIC reconsideration documentation submitted for Beneficiary E.K. Additionally, there are no physical documents under the \u201cExhibit 3\u201d cover in the beneficiary\u2019s record.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 22,
+"si": 2,
+"section": "MIXED",
+"text": "Consequently, the documentation submitted with the appellant\u2019s request for review is not an attempt to submit previously excluded evidence.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 22,
+"si": 3,
+"section": "MIXED",
+"text": "Moreover, the documentation submitted with the appellant\u2019s request for review of this beneficiary is duplicative of material already in this beneficiary\u2019s record.",
+"tag": "PROC",
+"reason": "request for review"
+},
+{
+"pi": 22,
+"si": 4,
+"section": "MIXED",
+"text": "Accordingly, the appellant\u2019s documentary submission to the Council accompanying its request for review associated with Beneficiary E.K. is not new evidence and will be retained in the record.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "MIXED",
+"text": "The beneficiary, who was a long-term care patient at the appellant facility, received PT services during the dates of service at issue.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 24,
+"si": 1,
+"section": "MIXED",
+"text": "The beneficiary\u2019s medical history included a primary diagnosis of hemiparesis and was otherwise significant for cerebral vascular accident, dementia, depression, seizure disorder, and esophageal reflux. Dec. at 13.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "MIXED",
+"text": "The QIC issued an unfavorable reconsideration finding that the treatment in issue did not require the skills of a physical therapist nor was it reasonable and necessary, particularly when the beneficiary had been receiving ongoing occupational therapy services.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 25,
+"si": 1,
+"section": "MIXED",
+"text": "The QIC noted that the record did not contain documentation of the \u201cbeneficiary\u2019s prior functional status,\u201d and that the beneficiary had retained deficits from an earlier stroke which affected her left side such that a decline in the functional status of her left arm could not, as the appellant contended, be attributed to a left arm sprain.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 25,
+"si": 2,
+"section": "MIXED",
+"text": "The QIC found",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ next determined that, absent documentation of the medical necessity of the questioned therapy services, the burden fell on the appellant to otherwise demonstrate the medical necessity of skilled nursing services. See Dec. at 20. Citing 42 C.F.R. \u00a7 409.34(a)(1)), the ALJ indicated that in order for skilled nursing services to be payable under Medicare Part A, they must be furnished on a daily basis.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 26,
+"si": 1,
+"section": "MIXED",
+"text": "The ALJ noted that while a break of one or two days was permissible in the context of skilled rehabilitation services, no such break was permitted in the context of skilled nursing.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 26,
+"si": 2,
+"section": "MIXED",
+"text": "Based upon the nursing notes, the ALJ found that the care provide to the beneficiary was custodial as the beneficiary was stable, and there was no evidence of medical complications or that the nursing staff was treating any acute medical condition. Dec. at 20.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 26,
+"si": 3,
+"section": "MIXED",
+"text": "However, the ALJ then concluded that the appellant should be reimbursed at the downcoded levels indicated by the Medicare contractor and QIC. Dec. at 21.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "MIXED",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 27,
+"si": 1,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 27,
+"si": 2,
+"section": "MIXED",
+"text": "As noted above, the burden is always on an appellant to document the medical necessity of claims for coverage. See section 1833(e) of the Act and 42 C.F.R. \u00a7 424.5(a)(6).",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 27,
+"si": 3,
+"section": "MIXED",
+"text": "The appellant did not contest the ALJ\u2019s finding that the beneficiary\u2019s nursing services did not meet Medicare coverage criteria. See, generally, Exh. MAC-2.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ\u2019s conclusion, that the appellant\u2019s claim should be reimbursed at a down-coded rate, is inconsistent with his findings that both the therapy services in issue were not covered by Medicare and that the beneficiary was otherwise only receiving custodial nursing care.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 28,
+"si": 1,
+"section": "MIXED",
+"text": "Those findings leave no basis for downcoding as the principle in downcoding is that the SNF stay is otherwise covered, albeit at a lesser rate of reimbursement than that initially sought.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 28,
+"si": 2,
+"section": "MIXED",
+"text": "However, where neither skilled nursing nor rehabilitative therapy are medically reasonable and necessary nor furnished on a daily basis, the SNF stay itself is not covered at any RUG-III level and is denied.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "MIXED",
+"text": "The Council agrees with the ALJ that the speech therapy services provided to Beneficiary E.M. were not adequately documented and thus, were not medically reasonable and necessary on a daily basis.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 29,
+"si": 1,
+"section": "MIXED",
+"text": "Absent a challenge to the ALJ\u2019s finding that the nursing services provided to Beneficiary M.S. were custodial and thus not covered by Medicare, the Council can only affirm the ALJ\u2019s finding relative to the nature of the nursing services provided 15 to Beneficiary E.M. Accordingly, this claim for SNF coverage is denied in its entirety.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 30,
+"si": 0,
+"section": "MIXED",
+"text": "Beneficiary J.S. Issues: SNF Coverage (Part A) Dates of Service: September 1-18, 2008",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 32,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ\u2019s analysis contained a ruling excluding evidence pertinent to the claim involving Beneficiary J.S. Dec. at 10.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 32,
+"si": 1,
+"section": "MIXED",
+"text": "The excluded evidence is contained at Exhibit 3 of Beneficiary J.S.\u2019s case folder.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 32,
+"si": 2,
+"section": "MIXED",
+"text": "The appellant has submitted additional medical documentation with its request for review.",
+"tag": "PARTY",
+"reason": "appellant has submitted"
+},
+{
+"pi": 32,
+"si": 3,
+"section": "MIXED",
+"text": "However, the appellant neither offered an explanation for the submission of additional medical documentation with its request for review, nor did it identify this submission as \u201cnew\u201d documentation, documentation already in the record or documentation excluded by the ALJ. See, generally, Exh. MAC-3.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 33,
+"si": 0,
+"section": "MIXED",
+"text": "Pursuant to 42 C.F.R. \u00a7\u00a7 405.1122(c)(1) and (2), if a party submits new evidence to the Council with its request for review, the Council must determine if good cause exits for the submission of that evidence at that point in the claim appeals process.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 33,
+"si": 1,
+"section": "MIXED",
+"text": "Absent a showing of good cause for the submission, the Council excludes from evidence the documentary submissions accompanying the appellant\u2019s request for review of the claim associated with Beneficiary J.S. However, in the interest of completeness, the excluded documentation will be retained in the record with Exhibit MAC-3.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 35,
+"si": 0,
+"section": "MIXED",
+"text": "The beneficiary\u2019s medical history was significant for dementia, atrial fibrillation, diabetes, hypertension, esophageal reflux, Bell\u2019s palsy and difficulty walking, including a history of falls.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 36,
+"si": 0,
+"section": "MIXED",
+"text": "The Medicare contractor\u2019s redetermination was limited to a review of ST services.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 36,
+"si": 1,
+"section": "MIXED",
+"text": "However, upon reconsideration, the QIC found no PT notes for the look back periods in review.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 36,
+"si": 2,
+"section": "MIXED",
+"text": "Without a documented prior level of function, the QIC found it impossible to determine if the beneficiary had experienced \u201ca significant functional decline to warrant skilled therapy interventions.\u201d",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 36,
+"si": 3,
+"section": "MIXED",
+"text": "Regarding OT, the QIC could not find occupational therapy notes and \u201cthe submitted documentation did not support a complex functional deficit to warrant skilled 16 therapy intervention.\u201d",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 36,
+"si": 4,
+"section": "MIXED",
+"text": "Similarly, for ST, the QIC found that without \u201ca prior level of function relative to the beneficiary\u2019s cognitive status documented in objective measurable terms it is not possible to determine that the beneficiary had experienced a significant functional decline to warrant skilled therapy interventions.\u201d",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 36,
+"si": 5,
+"section": "MIXED",
+"text": "The QIC next found that because the appellant had not adequately documented the medical necessity of the therapy services, \u201cMedicare cannot cover the SNF services for this beneficiary at the rate originally billed: and we affirm the previously downcoded RUG III levels of PB107 and PB102.\u201d",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 36,
+"si": 6,
+"section": "MIXED",
+"text": "The QIC held the appellant liable for the resulting non-covered costs pursuant to section 1879 of the Act. Exh. 1 at 3-7.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 37,
+"si": 0,
+"section": "MIXED",
+"text": "During the ALJ hearing, the appellant \u201cconceded the issues of PT and OT . . . [limiting its] challenges [to] the determination that [the] ST services . . . were not reasonable and necessary.\u201d Dec. at 10.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 37,
+"si": 1,
+"section": "MIXED",
+"text": "The ALJ also noted that hearing testimony \u201crevealed that the beneficiary\u2019s prior hospitalization was due to behavioral issues.\u201d Dec. at 11.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 37,
+"si": 2,
+"section": "MIXED",
+"text": "The ALJ indicated that the beneficiary\u2019s August 18, 2008, Minimum Data Set (MDS) identified \u201cno memory recall deficits with the exception of short term memory issues.\u201d Id. at 10.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 37,
+"si": 3,
+"section": "MIXED",
+"text": "The beneficiary\u2019s baseline function was identified as \u201c60% sequencing, 70% follow direction and 50% problem solving\u201d Moreover, although the speech therapist indicated that the plan for the beneficiary was to regain previous level of function, there was no identified prior level of function. Dec. at 10.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 37,
+"si": 4,
+"section": "MIXED",
+"text": "The ALJ found that, on September 8, 2008, the beneficiary\u2019s level of function was \u201c75% sequencing, 85% follow direction and 65% problem solving.\u201d",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 37,
+"si": 5,
+"section": "MIXED",
+"text": "The ALJ recognized that the beneficiary\u2019s September 18, 2008, \u201cUpdated Plan of Progress for Outpatient Rehabilitation,\u201d which also served as her \u201cdocumentation of discharge,\u201d indicated that the beneficiary \u201chad met goals up to 100% accuracy\u201d without identifying the goals. Id. at 11; see also Exh. 2 at 61.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 37,
+"si": 6,
+"section": "MIXED",
+"text": "The ALJ also characterized \u201cthe ST weekly notes\u201d as \u201cvery general . . . [showing] only the current status.\u201d Dec. at 11; see also Exh. 2 at 66-70.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 37,
+"si": 7,
+"section": "MIXED",
+"text": "Consequently, the ALJ concluded that the appellant\u2019s documentation did not demonstrate that the ST services in issue were medically reasonable and necessary. Dec. at 11.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 38,
+"si": 0,
+"section": "MIXED",
+"text": "Turning to skilled nursing services and the appropriate RUG III classification, the ALJ concluded that absent a demonstrated need for skilled therapy services, the appellant must prove that the beneficiary required and received daily skilled nursing services.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 38,
+"si": 1,
+"section": "MIXED",
+"text": "The ALJ concluded that the nursing services provided to the beneficiary were no more than custodial.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 38,
+"si": 2,
+"section": "MIXED",
+"text": "The ALJ then 17 concluded that because the rehabilitative therapy services were not medically reasonable and necessary, Medicare was required to \u201cremove\u201d the therapy services from consideration in calculating the appropriate RUG III categories.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 38,
+"si": 3,
+"section": "MIXED",
+"text": "Consequently, the ALJ found that the Medicare contractor had properly downcoded the level of available reimbursement for this claim to PB107 and PB102. Dec. at 11-12.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 39,
+"si": 0,
+"section": "MIXED",
+"text": "In its request for review, the appellant generally references an \u201cAttached\u201d \u201chistory and physical\u201d from the beneficiary\u2019s physician indicating that the beneficiary \u201chad memory loss and difficulty concentrating consistent with dementia.\u201d Exh. MAC-3 at 1.",
+"tag": "PROC",
+"reason": "request for review"
+},
+{
+"pi": 39,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant asserts that his information indicates that the beneficiary \u201chad newly worsening cognition both prior to and following\u201d her hospitalization.",
+"tag": "PARTY",
+"reason": "appellant asserts"
+},
+{
+"pi": 39,
+"si": 2,
+"section": "MIXED",
+"text": "The appellant maintains that the beneficiary deserved the opportunity to improve her memory.",
+"tag": "PARTY",
+"reason": "appellant maintains"
+},
+{
+"pi": 39,
+"si": 3,
+"section": "MIXED",
+"text": "The appellant also concedes that the beneficiary met her goals by September 11, 2008, but indicates that her therapist re- evaluated her and determined that she continued to exhibit cognitive defects requiring skilled treatment.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 39,
+"si": 4,
+"section": "MIXED",
+"text": "The appellant contends that it requires a trained skilled therapist to constantly review and update, as needed, a beneficiary\u2019s plan of care.",
+"tag": "PARTY",
+"reason": "appellant contends"
+},
+{
+"pi": 39,
+"si": 5,
+"section": "MIXED",
+"text": "The appellant also challenges the ALJ\u2019s characterization of the weekly speech therapy notes as general, noting that they contain information regarding previous and current week\u2019s status regarding identified goals.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 39,
+"si": 6,
+"section": "MIXED",
+"text": "Additionally, the appellant maintains that, pursuant to 42 C.F.R. \u00a7 409.31(b)(2)(ii), in spite of having been hospitalized for \u201cbehavioral defects,\u201d the beneficiary was otherwise eligible for ST for cognitive defects. Exh. MAC-3 at 1-2.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 40,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant\u2019s documentation relative to the speech therapy services provided to the beneficiary for the period September 1-18, 2008, contains general assertions of progress but no specific identification of the manner, i.e. the treatment, by which that progress was achieved. See Exh. 2 at 61-62 and 65-67.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 40,
+"si": 1,
+"section": "MIXED",
+"text": "That is, there is no evidence that the performance of the services provided necessitated skilled professionals.",
+"tag": "GAP",
+"reason": "no evidence"
+},
+{
+"pi": 40,
+"si": 2,
+"section": "MIXED",
+"text": "As the ALJ noted, the appellant\u2019s documentation is couched in general terms and does not provide an adequate basis for determining that the beneficiary required skilled speech therapy services.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 41,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ next determined that absent documentation of the medical necessity of the questioned speech therapy services, the burden fell on the appellant to otherwise demonstrate the medical necessity of skilled nursing services. See Dec. at 11. Citing 18 42 C.F.R. \u00a7 409.34(a)(1)), the ALJ indicated that in order for skilled nursing services to be payable under Medicare Part A, they must be furnished on a daily basis.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 41,
+"si": 1,
+"section": "MIXED",
+"text": "The ALJ noted that while a break of one or two days was permissible in the context of skilled rehabilitation services, no such break was permitted in the context of skilled nursing.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 41,
+"si": 2,
+"section": "MIXED",
+"text": "Based upon the nursing notes, the ALJ found that the care provide to the beneficiary was custodial as the beneficiary was stable, and there was no evidence of medical complications or that the nursing staff was treating any acute medical condition. Dec. at 11.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 41,
+"si": 3,
+"section": "MIXED",
+"text": "However, the ALJ then concluded that the appellant should be reimbursed at the downcoded levels indicated by the Medicare contractor and QIC. Id. at 12.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 42,
+"si": 0,
+"section": "MIXED",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 42,
+"si": 1,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 42,
+"si": 2,
+"section": "MIXED",
+"text": "As noted above, the burden is always on an appellant to document the medical necessity of claims for coverage. See section 1833(e) of the Act and 42 C.F.R. \u00a7 424.5(a)(6).",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 42,
+"si": 3,
+"section": "MIXED",
+"text": "The appellant did not contest the ALJ\u2019s finding that the beneficiary\u2019s nursing services did not meet Medicare coverage criteria. See, generally, Exh. MAC-3.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 43,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ\u2019s conclusion, that the appellant\u2019s claim should be reimbursed at a down-coded rate, is inconsistent with his findings that both the speech therapy services in issue was not medically reasonable and necessary on a daily basis and that the beneficiary was otherwise only receiving custodial nursing care.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 43,
+"si": 1,
+"section": "MIXED",
+"text": "Those findings leave no basis for downcoding as the principle in downcoding is that the SNF stay is covered, albeit at a lesser rate of reimbursement than that initially sought.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 43,
+"si": 2,
+"section": "MIXED",
+"text": "However, where neither skilled nursing nor rehabilitative therapy services are medically reasonable and necessary or furnished on a daily basis, the SNF stay itself is not covered at any RUG-III level and is denied.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 44,
+"si": 0,
+"section": "MIXED",
+"text": "The Council agrees with the ALJ that the speech therapy services provided to Beneficiary J.S. were not adequately documented and thus, were essentially custodial.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 44,
+"si": 1,
+"section": "MIXED",
+"text": "Absent, a challenge to the ALJ\u2019s finding that the nursing services provided to Beneficiary J.S. were custodial and thus not covered by Medicare, the Council can only affirm the ALJ\u2019s finding relative to the nature of the nursing services provided to Beneficiary J.S. Accordingly, this claim is denied in its entirety.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 44,
+"si": 2,
+"section": "MIXED",
+"text": "Liability 19",
+"tag": "PROC",
+"reason": "Liability"
+},
+{
+"pi": 45,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant did not raise any contention with respect to the ALJ\u2019s conclusions that, pursuant to section 1879 of the Act, the appellant was liable for the non-covered costs associated with its claims.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 45,
+"si": 1,
+"section": "MIXED",
+"text": "Consequently, the Council affirms the ALJ\u2019s conclusions on liability.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 47,
+"si": 0,
+"section": "TERMINAL",
+"text": "For the reasons explained above, the Council concludes that the physical therapy services provided to Beneficiary E.K. were not covered by Medicare.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 47,
+"si": 1,
+"section": "TERMINAL",
+"text": "The Council further concludes that the skilled nursing facility services provided to Beneficiaries E.M. and J.S. were not covered by Medicare.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 47,
+"si": 2,
+"section": "TERMINAL",
+"text": "The appellant is liable for all non-covered costs.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

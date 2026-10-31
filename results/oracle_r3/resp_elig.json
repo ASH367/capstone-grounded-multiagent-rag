@@ -1,0 +1,182 @@
+[
+ {
+  "case_id": "11-1343",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled rehab therapy after a qualifying hospital stay is the covered SNF level of care.",
+    "passage_id": 602,
+    "quote": "requires skilled nursing services or skilled rehabilitation services",
+    "case_fact": "D.E. was referred to PT due to decreased strength and decreased ADLs due to illness."
+   },
+   {
+    "claim": "Therapy followed an inpatient hospital stay for CHF.",
+    "passage_id": 602,
+    "quote": "the services are rendered for a condition for which the patient received inpatient hospital services",
+    "case_fact": "D.E. had a prior hospital stay for a diagnosis of congestive heart failure from August 23, 2009, to August 26, 2009."
+   },
+   {
+    "claim": "Daily need is not settled by the facts (UNKNOWN).",
+    "passage_id": 602,
+    "quote": "The patient requires these skilled services on a daily basis",
+    "case_fact": "the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   }
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled observation and assessment is a covered skilled nursing service.",
+    "passage_id": 626,
+    "quote": "Observation and assessment are skilled services when the likelihood of change in a patient",
+    "case_fact": "On at least thirteen occasions the beneficiary’s medications had to be adjusted due to fluctuations in his blood pressure and heart rate."
+   },
+   {
+    "claim": "Fluctuating vital signs may justify skilled observation.",
+    "passage_id": 628,
+    "quote": "Such signs and symptoms as abnormal/fluctuating vital signs, weight changes, edema, symptoms of drug toxicity",
+    "case_fact": "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings"
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Nurse observation and assessment with potential treatment change is a covered skilled service.",
+    "passage_id": 236,
+    "quote": "Observation and assessment of the patient's condition by a nurse are reasonable and necessary skilled services",
+    "case_fact": "the beneficiary’s insulin dosage was adjusted numerous times during this period."
+   },
+   {
+    "claim": "Skilled care can continue for stable patients; diagnosis alone is not decisive.",
+    "passage_id": 228,
+    "quote": "Skilled care may, depending on the unique condition of the patient, continue to be necessary for patients whose condition is stable.",
+    "case_fact": "the beneficiary tested blood sugar levels on her own."
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled observation after hospital discharge to SNF is a covered skilled service.",
+    "passage_id": 626,
+    "quote": "Observation and assessment are skilled services when the likelihood of change in a patient",
+    "case_fact": "a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots"
+   },
+   {
+    "claim": "Abnormal lab values may justify skilled observation.",
+    "passage_id": 628,
+    "quote": "abnormal/fluctuating lab values",
+    "case_fact": "Laboratory results were abnormal."
+   }
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "PT is a skilled rehab service type, but link to qualifying hospital condition and SNF stay is unsettled.",
+    "passage_id": 602,
+    "quote": "the services are rendered for a condition for which the patient received inpatient hospital services",
+    "case_fact": "The beneficiary’s medical history was significant for a total right knee replacement (November 3, 2008)"
+   },
+   {
+    "claim": "Whether PT met the active written treatment plan and skilled-need conditions is not settled (UNKNOWN).",
+    "passage_id": 637,
+    "quote": "The services must be directly and specifically related to an active written treatment plan",
+    "case_fact": "The appellant asserts that the beneficiary made steady progress throughout physical therapy"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "PT is a qualifying home health service type.",
+    "passage_id": 177,
+    "quote": "Be in need of skilled nursing care on an intermittent basis or physical therapy or speech-language pathology",
+    "case_fact": "these physical therapy services were provided in relation to the installation of a new stair lift mechanism"
+   },
+   {
+    "claim": "Confinement to the home is not stated in the facts (UNKNOWN).",
+    "passage_id": 177,
+    "quote": "Be confined to the home",
+    "case_fact": "difficulty navigating stairs in his home due to fatigue, pain and abnormality of gait"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Fistula care is within covered skilled wound care.",
+    "passage_id": 258,
+    "quote": "Care of wounds, (including, but not limited to, ulcers, burns, pressure sores, open surgical sites, fistulas, tube sites",
+    "case_fact": "The beneficiary developed a fistula near the colostomy site."
+   },
+   {
+    "claim": "Ostomy care reinforcement is skilled teaching covered under home health.",
+    "passage_id": 247,
+    "quote": "Teaching care for a recent ostomy or where reinforcement of ostomy care is needed",
+    "case_fact": "His bowel and bladder functions are maintained by colostomy and urostomy."
+   }
+  ]
+ },
+ {
+  "case_id": "ny",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Part-time or intermittent aide and skilled nursing are covered types, but patient eligibility facts are absent.",
+    "passage_id": 341,
+    "quote": "Medicare covers either part-time or intermittent home health aide services or skilled nursing services",
+    "case_fact": "coverage is available for home health aide or skilled nursing services on a part-time basis"
+   },
+   {
+    "claim": "Patient must meet every section 30 criterion; none are shown in the facts (UNKNOWN).",
+    "passage_id": 177,
+    "quote": "A patient must meet each of the criteria specified in this section.",
+    "case_fact": "whether Medicare covered at least 28 hours and up to 35 hours of the home health services furnished to the beneficiary"
+   }
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "IRF is a covered benefit type only if regulatory requirements are met; facts give no clinical detail.",
+    "passage_id": 72,
+    "quote": "if the patient meets all of the requirements outlined in 42 CFR § 412.622(a)(3), (4), and (5)",
+    "case_fact": "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004."
+   }
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Beneficiary moved from acute hospital to IRF after knee replacement.",
+    "passage_id": 71,
+    "quote": "A patient who has not yet completed the full course of treatment in the referring hospital is expected to remain",
+    "case_fact": "Two days later, on July 17, 2003, the beneficiary was transferred and admitted to the appellant’s IRF where she received treatment"
+   },
+   {
+    "claim": "Ability to actively participate in intensive therapy is unsettled given severe pain (UNKNOWN).",
+    "passage_id": 71,
+    "quote": "patients must be able to actively participate in and benefit from the intensive rehabilitation therapy program provided in IRFs",
+    "case_fact": "experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid."
+   }
+  ]
+ }
+]

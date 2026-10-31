@@ -1,0 +1,27 @@
+{
+ "case_id": "m-11-2450",
+ "domain": "ambulance",
+ "docket": "M-11-2450",
+ "service_at_issue": "Basic life support emergency ground ambulance (A0429) and mileage (A0425) from a national park incident to a park clinic",
+ "facts": [
+  "The appellant seeks coverage for the basic life support emergency ambulance transport (and associated ground mileage) that was furnished to him on November 2, 2010. On that date, the appellant was exiting a tour bus at a national park and \u201cended up on the ground.\u201d Exh. MAC-1. The bus driver alerted the park rangers who called an ambulance to take the appellant from the scene of the accident to a \u201cclinic\u201d within the national park. See Exh. 1 at 10.",
+  "In his request for review and in the supplemental correspondence, the appellant argues that the clinic to which he was taken on the date of service was not a doctor\u2019s office; rather he contends it was a skilled nursing facility or a \u201cday time small hospital.\u201d See Exh. MAC-1. The appellant explains that the facility was \u201cbuilt as a hospital, but due to lack of patients, was renamed as a clinic.\u201d Id. He asserts that although he was not in pain, he was in need of emergency care because he could not walk.",
+  "On the ambulance run sheet, the destination to which the appellant was taken was described as a \u201cclinic.\u201d Exh. 1 at 12."
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The clinic was not a hospital, CAH or SNF, so the destination requirement was unmet and coverage was denied under section 1861(s)(7) with the beneficiary liable.",
+ "cited_sections": [],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 410.40(e)(1)",
+  "42 CFR 411.15(k)",
+  "42 CFR 414.40",
+  "SSA 1861(s)(7)",
+  "SSA 1862(a)(1)",
+  "SSA 1861(e)",
+  "SSA 1819(a)",
+  "SSA 1861(mm)(1)"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

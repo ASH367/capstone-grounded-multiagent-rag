@@ -1,0 +1,86 @@
+{
+ "case_id": "altabates",
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "service_at_issue": "Inpatient rehabilitation facility stay, April 20 to May 7, 2004 (beneficiary I.W.)",
+ "facts": [
+  "I.W. was an 88-year old woman who was admitted to the IRF on April 20, 2004 with \u201cexacerbation of bilateral lower extremity weakness, secondary to polymyositis,\u201d especially on the right side, as well as pain when lifting her right arm. I.W. Ex. 8, at 272.",
+  "She had been admitted to the acute care hospital on April 5, 2004 with abdominal distention, the cause of which was not conclusively identified, but she was treated there for an active urinary tract infection and found to also have a thoracic aortic aneurysm and degenerative disc problems on cervical and thoracic scans. I.W. Ex. 8, at 278.",
+  "She had been on prednisone for 12 years to manage a giant cell arteritis and had had polymyalgia rheumatic since 1997. I.W. Ex. 8, at 277-78. She had also been on Coumadin since 2003 for recurrent deep vein thrombosis with pulmonary emboli, which was held during the acute admission due to renal insufficiency and then reestablished. I.W. Ex. 8, at 272 and 276.",
+  "She was discharged to a skilled nursing facility where she stayed from April 9, 2004 to April 20, 2004 and then transferred to the IRF for \u201caggressive, intensive inpatient rehabilitation.\u201d I.W. Ex. 8, at 273.",
+  "However, her physician orders on IRF admission included 13 medications, and also planned for a bowel and bladder management program, training for self-administration of medication, and evaluation and appropriate treatment by physical and occupational therapists as well as a neuropsychologist. I.W. Ex. 3, at 49.",
+  "The appellant\u2019s medical director argued that progress notes show \u201cdaily direct contact by a physiatrist throughout the patient\u2019s stay,\u201d writing at least one order each day and close monitoring and adjustment in light of complex interactions among her medications and potential complications. I.W. Request for Review (RR) at 2-3.",
+  "He also asserted that the patient received three hours daily of therapy services, as well as specialized attention 24 hours a day from rehabilitation nurses who could reinforce therapeutic techniques and provide continuous monitoring of progress as well as safety and education for the patient. Id. at 6-7.",
+  "Physical therapy totaling 60-90 minutes per day was provided every weekday. I.W. Ex. 8, at 463.",
+  "Occupational therapy was provided almost every day for periods of time totaling between 15 and 120 minutes per day.",
+  "By her discharge after two weeks in the IRF, I.W. had succeeded in raising all her ADL levels, most of them to her goal level, and had regained the ability to live at her daughter\u2019s home with modified independence. I.W. Ex. 8, at 475. She was able to ambulate with her walker up to 150 feet and had exceeded her goal in stair climbing. I.W. Ex. 8, at 475-76."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "Beneficiary I.W. (first of three). The Council found the ALJ did not adequately explain why her complications and the intensity of services did not show a need for hospital-level rehabilitation, and reversed.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.2"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.2.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.3.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.3.2"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.2"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.3"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.4"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.5"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.6"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.7"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 411.15(k)(1)",
+  "42 CFR 409.3",
+  "42 CFR 483.45",
+  "SSA 1811",
+  "SSA 1812",
+  "SSA 1861(e)(1)",
+  "SSA 1862(a)"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

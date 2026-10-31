@@ -1,0 +1,112 @@
+[
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN. The case facts do not show physician certification or an admission order, the intensity of therapy, multiple therapy disciplines, rehabilitation-physician visits, or a reasonable expectation of measurable improvement. Because the record does not support the policy's coverage criteria, coverage cannot be affirmed, and the decision defaults to not covered.",
+  "passage_ids": [
+   31,
+   83,
+   84,
+   85,
+   92
+  ],
+  "case_id": "pmc_3556834_1"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "No agent found anything that excludes the care. The emergency aortic repair and the later graft repair are not tied to any non-covered service, so they are covered under passage 105. The IRF requirements in passages 92, 103, 85 and 32 are unconfirmed because the record is silent, not because any was shown to fail, so they do not support denying coverage.",
+  "passage_ids": [
+   105,
+   92,
+   103,
+   85,
+   32
+  ],
+  "case_id": "pmc_3652732_1"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN because the case facts describe only the hospital course and discharge to a SNF. They give no SNF skilled services, MDS, or care-plan documentation, so coverage cannot be supported. Without that support, the decision defaults to not covered.",
+  "passage_ids": [
+   603,
+   627,
+   620,
+   638
+  ],
+  "case_id": "pmc_3687721_1"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The acute inpatient stay, with emergency laparotomy, ICU care and continuous hemodiafiltration for acute renal failure, fits the Part A inpatient hospital services described in the policy. The Eligibility and Medical Necessity agents both support coverage. The unknowns are Part A entitlement, the admission order and certification, and the IRF criteria for the later rehabilitation transfer. The case facts and agent findings give no basis to deny the acute stay, so I treat those gaps as unresolved rather than as grounds for denial.",
+  "passage_ids": [
+   9,
+   14
+  ],
+  "case_id": "pmc_3906958_1"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN. The case facts describe an acute hospital stay and a discharge to a rehabilitation hospital, but contain no IRF admission, screening, or physician-visit documentation. Nothing in the record supports coverage, so coverage is not supported, though this reflects missing evidence rather than a finding that the service is excluded.",
+  "passage_ids": [
+   84,
+   92,
+   74,
+   85
+  ],
+  "case_id": "pmc_4480245_1"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The case facts show only that the patient was discharged to a subacute facility for physical therapy. They do not document any skilled service, plan of care, or rationale, and they do not show that the therapy needs a skilled therapist. The hospital stay seems to meet the qualifying-stay condition (Hospital Day 5, 9-day antibiotic course), but coverage of the SNF care is not supported by the record.",
+  "passage_ids": [
+   620,
+   639,
+   573
+  ],
+  "case_id": "pmc_4887827_1"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN because the record does not show that the nursing home is a Medicare SNF, that the patient is a Medicare beneficiary, or that any daily skilled nursing or rehabilitation was needed. Only oral antimicrobials are listed, so coverage is not supported on this record. The presumption of coverage cannot be applied without a direct discharge to a SNF.",
+  "passage_ids": [
+   573,
+   627,
+   638,
+   608
+  ],
+  "case_id": "pmc_5039271_1"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN. The hospital stay likely meets the 3-day requirement, but the record gives no discharge or SNF admission dates, no description of the skilled services needed, and no plan of care. SNF coverage is therefore not supported on this record. COVERED and PARTLY_COVERED would each require evidence that is missing, so NOT_COVERED is the closest available label, though it reflects missing documentation rather than a finding that care was unnecessary.",
+  "passage_ids": [
+   572,
+   580,
+   627,
+   620
+  ],
+  "case_id": "pmc_5698783_1"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The acute inpatient care (emergency thoracotomy and laparotomy, ICU ventilation, and the later bowel resection) is hospital inpatient care of a type covered under Part A. All three agents returned UNKNOWN only because the case facts are silent on Part A enrollment and on documentation such as physician certification. The transfer to a rehabilitation hospital could not be assessed because the record has no IRF admission criteria. Nothing in the case counts against coverage, so coverage is supported, assuming the patient is entitled to Part A.",
+  "passage_ids": [
+   9,
+   31,
+   83,
+   90
+  ],
+  "case_id": "pmc_5891105_1"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The ICU stay after esophagectomy is inpatient hospital care, which passage 9 covers for patients with hospital insurance. All three agents returned UNKNOWN, and none found a disqualifying fact. The gaps they raised are missing records (Part A entitlement, certification and recertification, IRF criteria and therapy intensity), not evidence of non-coverage, so coverage is supported subject to those items being confirmed.",
+  "passage_ids": [
+   9,
+   31,
+   32,
+   83,
+   87
+  ],
+  "case_id": "pmc_6182792_1"
+ }
+]

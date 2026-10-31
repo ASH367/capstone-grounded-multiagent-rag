@@ -1,0 +1,49 @@
+{
+ "case_id": "valley_presbyterian",
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "service_at_issue": "Inpatient rehabilitation facility (IRF) stay July 17-24, 2003 following total knee replacement",
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council reversed the ALJ on coverage, holding the IRF services medically reasonable and necessary under section 1862(a)(1) (relying on the independent medical expert and the record), so the overpayment was invalid, though it agreed it could not review the RAC's decision to reopen.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "110"
+  }
+ ],
+ "other_cites": [
+  "CMS Ruling 85-2",
+  "SSA 1862(a)(1)",
+  "42 CFR 405.980",
+  "42 CFR 405.926(l)",
+  "42 CFR 405.986",
+  "42 CFR 405.902",
+  "42 CFR 405.841",
+  "MPIM (CMS Pub. 100-08) ch.3 sec.3.6.B",
+  "MCPM ch.34 sec.10",
+  "70 Fed. Reg. 11,420 (Mar. 8, 2005)"
+ ],
+ "facts": [
+  "The appellant billed Medicare for IRF services furnished to the beneficiary from July 17, 2003, through July 24, 2003. Exh. 3 at 2.",
+  "On July 15, 2003, the 71 year old beneficiary was admitted to the acute hospital where she underwent a right total knee replacement secondary to degenerative joint disease. Exh. 3 at 17-19. Two days later, on July 17, 2003, the beneficiary was transferred and admitted to the appellant\u2019s IRF where she received treatment and rehabilitation services until her discharge one week later on July 24, 2003. Exh. 3 at 19.",
+  "The record shows that the previous year the beneficiary had both right and left total hip replacements also secondary to degenerative joint disease. Exh. 3 at 17-23. The medical record indicates that the beneficiary\u2019s medical history is significant for: polyarthritis secondary to degenerative joint disease of the right knee, bilateral hips, and lumbosacral spine; epidural injections for root compression; left rotator cuff tendonitis; osteopenia; deep vein thrombosis; obesity; neuralgia of the chest wall; anxiety disorder with panic attacks; depression; insomnia with tension headaches; cystopexy; prior treatment of lymphoma; dehydration; dyslipidemia; hysterectomy; wrist fracture two years prior; vaginal prolapse; appendectomy; and history of herpes zoster. Id. at 21-22, 59-62.",
+  "Also during the period, daily labs were conducted due to the beneficiary\u2019s fluctuating values. 38-40. The record also indicates that the beneficiary\u2019s physician was monitoring and treating her for possible effusion. The beneficiary was seen at the IRF by at least three physicians and was monitored daily by the nursing staff. Id.",
+  "Prior to the total knee replacement surgery, the beneficiary was independent with all of her activities of daily living (ADL\u2019s) and lived alone with her husband. Upon admission, the beneficiary\u2019s functional status was as follows: moderate assistance supine to sit, sit to stand, sit to supine, bed to chair, chair to bed, commode transfers, and tub/shower transfers, maximum assistance with lower extremity dressing, minimal assistance with lower extremity bathing, and ambulate 15 feet with front wheeled walker. Exh. 3 at 21-24, 41, 48.",
+  "Upon discharge, the beneficiary\u2019s functional status improved to the following: independent with supine to sit, modified independent sit to stand , modified independent transfers, minimal assistance with lower extremity dressing with adaptive equipment, independent with upper extremity dressing, and upper extremity bathing, supervision with ascend/descend steps with side rails, and ambulate 250 feet modified independent with front wheeled walker. Id. at 19-20, 143.",
+  "The independent medical expert concluded that upon admission, the beneficiary required close medical supervision by a physician with specialized training or experience in rehabilitation, 24 hour rehabilitation nursing, a relatively intense level of rehabilitation services, a multidisciplinary team approach, a coordinated program of care, that significant practical improvement was expected, that realistic goals were set and met, and that these needs could not have been accomplished in a less intensive setting such as a SNF. Id. at 3-4.",
+  "The record indicates that upon admission and during the period at issue the beneficiary required multiple IV and oral medications for severe pain, that the physician changed the dose or held the Coumadin six out of the seven days at issue, that the beneficiary had possible effusion, osteopenia, obesity, total hip replacement of both hips the previous year, and IRF admission only two days after total knee replacement surgery."
+ ],
+ "arm": "A_strict",
+ "set": "held",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 546,
+ "evidence_words_D": 904,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

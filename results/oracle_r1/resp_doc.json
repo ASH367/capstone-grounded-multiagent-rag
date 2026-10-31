@@ -1,0 +1,170 @@
+[
+ {
+  "case_id": "11-1343",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Skilled therapy services were initiated, but physician orders and daily frequency are not shown.",
+    "passage_id": 602,
+    "quote": "The patient requires these skilled services on a daily basis",
+    "case_fact": "the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "Prior hospital stay for CHF is documented, but the link to the SNF condition is not settled.",
+    "passage_id": 602,
+    "quote": "rendered for a condition for which the patient received inpatient hospital services",
+    "case_fact": "D.E. had a prior hospital stay for a diagnosis of congestive heart failure from August 23, 2009, to August 26, 2009."
+   }
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Record documents fluctuating vital signs with repeated medication adjustment, supporting skilled observation.",
+    "passage_id": 628,
+    "quote": "abnormal/fluctuating vital signs, weight changes, edema, symptoms of drug toxicity",
+    "case_fact": "On at least thirteen occasions the beneficiary’s medications had to be adjusted due to fluctuations in his blood pressure and heart rate."
+   },
+   {
+    "claim": "Nursing orders tied to blood pressure readings show treatment changes were attempted.",
+    "passage_id": 629,
+    "quote": "there is a reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment",
+    "case_fact": "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings"
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Nurse visit notes document blood sugar logs and repeated insulin dose changes.",
+    "passage_id": 237,
+    "quote": "there is a reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment",
+    "case_fact": "the beneficiary’s insulin dosage was adjusted numerous times during this period."
+   },
+   {
+    "claim": "Records document ongoing monitoring, assessment and instruction by nurses.",
+    "passage_id": 229,
+    "quote": "the home health clinical notes must document as appropriate",
+    "case_fact": "the nurses provided ongoing monitoring, assessment, and instructions to take the medications as directed."
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Physician statement and nurses' notes document need for skilled monitoring after hospitalization.",
+    "passage_id": 628,
+    "quote": "Information from the patient's medical record must document that there is a reasonable potential for a future complication or acute episode",
+    "case_fact": "a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots"
+   },
+   {
+    "claim": "Abnormal lab values and bloody urine documented.",
+    "passage_id": 628,
+    "quote": "abnormal/fluctuating lab values",
+    "case_fact": "Laboratory results were abnormal."
+   }
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "No written PT treatment plan, initial PT evaluation or physician approval appears in the case facts.",
+    "passage_id": 637,
+    "quote": "active written treatment plan that is based upon an initial evaluation performed by a qualified physical therapist",
+    "case_fact": "The appellant asserts that the beneficiary made steady progress throughout physical therapy"
+   },
+   {
+    "claim": "Fall and progress are asserted by the appellant; the record content is not shown.",
+    "passage_id": 639,
+    "quote": "must be documented in the medical record",
+    "case_fact": "the beneficiary demonstrated “slow but steady progress” reflecting gains in “safety, balance and overall functional mobility.”"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Maintenance program design is only asserted by the appellant; therapist documentation is not shown.",
+    "passage_id": 294,
+    "quote": "Each component of this process must be documented in the home health record.",
+    "case_fact": "the therapist was “in the process of designing an appropriate home exercise program” for the beneficiary"
+   },
+   {
+    "claim": "Documentation of why skilled therapist is required over aides is not shown.",
+    "passage_id": 285,
+    "quote": "visits made by skilled therapists to a patient's home solely to train other HHA staff",
+    "case_fact": "The appellant agreed that setting up a maintenance program for the home health aides to take over was a goal"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Nurse-noted abscesses and fistula are in the facts, but wound size, depth and drainage documentation is not shown.",
+    "passage_id": 258,
+    "quote": "the size, depth, nature of drainage (color, odor, consistency, and quantity), and condition and appearance of the skin surrounding the wound must be documented",
+    "case_fact": "The nurses noted abscesses in the rectum."
+   },
+   {
+    "claim": "Ostomy and infection events are described, but per-visit skilled-need documentation is not shown.",
+    "passage_id": 247,
+    "quote": "Teaching care for a recent ostomy or where reinforcement of ostomy care is needed",
+    "case_fact": "His bowel and bladder functions are maintained by colostomy and urostomy."
+   }
+  ]
+ },
+ {
+  "case_id": "ny",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Case facts contain only the appellant's arguments, no hours or visit records.",
+    "passage_id": 341,
+    "quote": "less than 8 hours each day and 28 or fewer hours each week",
+    "case_fact": "coverage is available for home health aide or skilled nursing services on a part-time basis"
+   }
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Case facts address procedural issues only; no preadmission screening or IRF clinical records are shown.",
+    "passage_id": 72,
+    "quote": "Medicare requires determinations of whether IRF stays are reasonable and necessary to be based on an assessment of each beneficiary's individual care needs.",
+    "case_fact": "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004."
+   }
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Admission functional status is documented, but required IRF preadmission screening, physician evaluation and plan of care are not shown.",
+    "passage_id": 71,
+    "quote": "patients must be able to actively participate in and benefit from the intensive rehabilitation therapy program",
+    "case_fact": "Upon admission, the beneficiary’s functional status was as follows: moderate assistance supine to sit, sit to stand"
+   },
+   {
+    "claim": "Individual care needs: IV/IM medications and severe pain documented.",
+    "passage_id": 72,
+    "quote": "based on an assessment of each beneficiary's individual care needs",
+    "case_fact": "experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid."
+   }
+  ]
+ }
+]

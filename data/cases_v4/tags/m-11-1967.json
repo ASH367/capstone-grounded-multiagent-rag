@@ -1,0 +1,533 @@
+{
+"case_id": "m-11-1967",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a hearing decision dated April 28, 2011, which addressed Medicare coverage for skilled nursing facility (SNF) services furnished to the beneficiary from March 5 to March 8, 2010.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ denied coverage for the SNF services, citing section 1862(a)(1)(A) of the Social Security Act (Act), and found the beneficiary liable for the non-covered services in accordance with section 1879 of the Act.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant, the State of Connecticut Department of Social Services, a state Medicaid agency with appeal rights under 42 C.F.R. section 405.908, has asked the Medicare Appeals Council (Council) to review the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the appellant in the request for review, unless the appellant is an unrepresented beneficiary. Id.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "\u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council admits the appellant\u2019s request for review (Form DAB-101), the appointment of representative, and the brief in support of the request, into the administrative record as Exhibit (Exh.) MAC-1, pages 1 through 8.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "INTRO",
+"text": "For the reasons and bases set forth below, the Council reverses the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 1,
+"section": "INTRO",
+"text": "Medicare coverage is available for the SNF services furnished to the beneficiary from March 5 to March 8, 2010.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "MIXED",
+"text": "At issue before the Council is Medicare coverage for the SNF services furnished to the beneficiary from March 5 to March 8, 2010.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant, Commissioner of the Connecticut Department of Social Services, asks the Council to reverse the ALJ\u2019s denial of coverage for the services.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "MIXED",
+"text": "The ALJ determined that the services may not be covered as reasonable and necessary services under section 1862(a)(1)(A) of the Act because \u201c[t]here was nothing in the medical record proffered indicating that the services administered amount[ed] to skilled care\u201d and the services furnished were \u201cfairly routine lab work.\u201d Dec. at 6.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 5,
+"si": 3,
+"section": "MIXED",
+"text": "The ALJ found the beneficiary liable for the non-covered charges in accordance with section 1879 of the Act based on a finding that the SNF provided the beneficiary\u2019s representative \u201csufficient notice of non-coverage as early as March 2, 2010, that [the beneficiary\u2019s] care would not be covered by Medicare starting March 5, 2010.\u201d Id.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 5,
+"si": 4,
+"section": "MIXED",
+"text": "The ALJ\u2019s decision was similar to that of the contractor and the Qualified Independent Contractor (QIC), as to both coverage and liability.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 5,
+"si": 5,
+"section": "MIXED",
+"text": "On redetermination and reconsideration, coverage was denied for lack of evidence of daily skilled services documented in the record for the period from March 5 to March 8, 2010, and because the beneficiary, through his representative, was provided valid advance written notice that coverage would be denied beginning on March 5. See Exh. 6 at 2; Exh. 7 at 4-5.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "MIXED",
+"text": "Before the Council, the appellant first indicates that it is disputing the ALJ\u2019s decision as to coverage and payment only.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant points out that the ALJ erroneously stated in his decision (page 6) that the appellant had \u201ccharacterized the notice as being insufficient\u201d and that it addressed only the issues of coverage and payment during the ALJ proceedings. Exh. MAC-1 at 5.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "MIXED",
+"text": "The appellant urges the Council to reverse the ALJ\u2019s decision, allowing for coverage of the services as medically reasonable daily skilled nursing services in the form of both skilled observation and assessment, and case management. Id. at 7-8.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "MIXED",
+"text": "A beneficiary must meet various requirements to qualify for the coverage of SNF services.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "MIXED",
+"text": "As pertinent herein, Medicare requires that coverage may be allowed only when the service is \u201cskilled\u201d in nature, which means that it is \u201cso inherently complex that it can be safely and effectively performed only by, or under the supervision of, professional or technical personnel.\u201d 42 C.F.R. \u00a7 409.32(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 7,
+"si": 2,
+"section": "MIXED",
+"text": "In addition, the beneficiary must require and receive skilled services (nursing or skilled rehabilitation, or both), on a daily basis.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 7,
+"si": 3,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.31(b)(1); see also 42 C.F.R. \u00a7 409.31(a) (skilled nursing and rehabilitation services are those that are ordered by a physician, require the skills of professional personnel, and are furnished directly by or under the supervision of such personnel).",
+"tag": "COUNCIL",
+"reason": "are ordered"
+},
+{
+"pi": 7,
+"si": 4,
+"section": "MIXED",
+"text": "The skilled services must be furnished for a condition for which the beneficiary received inpatient hospital services, or which arose while the beneficiary was receiving care in a SNF for a condition which he or she received inpatient hospital services.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 7,
+"si": 5,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.31(b)(2).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 7,
+"si": 6,
+"section": "MIXED",
+"text": "The skilled services must be ones that, as a practical matter, can only be provided in a SNF, on an inpatient basis.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 7,
+"si": 7,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.31(b)(3).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "MIXED",
+"text": "Overall management and evaluation of the care plan may constitute \u201cskilled services\u201d when, because of the patient\u2019s physical or mental condition, those activities require the involvement of technical or professional personnel in order to meet the patient\u2019s needs, promote recovery, and ensure medical safety.",
+"tag": "LAW",
+"reason": "law statement: in order to"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.33(a)(1).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "MIXED",
+"text": "Observation and assessment constitute \u201cskilled services\u201d when the skills of a technical or professional person are required to identify and evaluate the patient\u2019s needs for modification of treatment or for additional medical procedures until his or her condition is stabilized. Id. at \u00a7 409.33(a)(2).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 8,
+"si": 3,
+"section": "MIXED",
+"text": "As the Medicare Benefit Policy Manual (MBPM), Pub. 100-02, makes clear, observation and assessment satisfies this standard \u201cwhen the likelihood of change in a patient\u2019s condition requires skilled nursing or skilled rehabilitation personnel to identify and evaluate the patient\u2019s need for possible modification of treatment or initiation of additional medical procedures, until the patient\u2019s treatment regimen is essentially stabilized.\u201d",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 8,
+"si": 4,
+"section": "MIXED",
+"text": "MBPM, Ch. 8, \u00a7 30.2.3.2.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 8,
+"si": 5,
+"section": "MIXED",
+"text": "Similarly, for the management of a care plan, the complexity of the services must \u201crequire the involvement of skilled nursing personnel to meet the patient\u2019s medical needs, promote recovery, and ensure medical safety.\u201d Id. at \u00a7 30.2.3.1.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "MIXED",
+"text": "The records reflect the beneficiary\u2019s hospitalization from February 12 to February 17, 2010, for \u201cworsening gross hematuria.\u201d",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 9,
+"si": 1,
+"section": "MIXED",
+"text": "His recent medical history included a diagnosis of deep vein thrombosis and the placement of an inferior vena cava filter. Exh. 4 at 3, 6.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "MIXED",
+"text": "At the hospital, the beneficiary underwent a cystoscopy and transurethral resection of the prostate (which had a nodular growth that had reoccurred despite two prior transurethral resections), and received three transfusions. Id. at 4.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 9,
+"si": 3,
+"section": "MIXED",
+"text": "The hospital records further indicate, \u201cBecause of his severe hematuria and resulting anemia with an initial hematocrit of 29.1 which subsequently fell to hematocrit 23.1 immediately postoperatively, urological intervention was required.\u201d Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 9,
+"si": 4,
+"section": "MIXED",
+"text": "After the resection, the beneficiary had bloody urine for three days which \u201cgradually quieted,\u201d and, on the date of discharge from the hospital, the urine was described as \u201cdark tea color.\u201d Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 9,
+"si": 5,
+"section": "MIXED",
+"text": "At the time of discharge from the hospital on February 17 (for admission to the SNF) the beneficiary was diagnosed with hematuria secondary to prostate enlargement, recent deep vein thrombosis, chronic renal failure, Parkinson\u2019s disease, obstructive sleep apnea, and a history of squamous cell carcinoma. Id. at 3.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 10,
+"si": 0,
+"section": "MIXED",
+"text": "As of March 2, 2010, a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void, and to check the Foley catheter. Exh. 4 at 10.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 10,
+"si": 1,
+"section": "MIXED",
+"text": "The nurses\u2019 notes leading up to March 5, 2010 indicate, among other things, drainage of bloody urine from the Foley catheter.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 10,
+"si": 2,
+"section": "MIXED",
+"text": "Laboratory tests were ordered.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 10,
+"si": 3,
+"section": "MIXED",
+"text": "The beneficiary was placed on Ensure five times daily because he was noted to have had a poor appetite.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 10,
+"si": 4,
+"section": "MIXED",
+"text": "The nurses were to monitor the amount of Ensure ingested. See id. at 17-18. 1",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "MIXED",
+"text": "As of March 5, 2010, the first non-covered day, the nurses continued to monitor the beneficiary for signs of hematuria.",
+"tag": "EVAL",
+"reason": "non-covered"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "MIXED",
+"text": "Laboratory results were abnormal. Exh. 4 at 19.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 11,
+"si": 2,
+"section": "MIXED",
+"text": "Laboratory tests were ordered to be repeated. Id. at 15.",
+"tag": "COUNCIL",
+"reason": "ordered to"
+},
+{
+"pi": 11,
+"si": 3,
+"section": "MIXED",
+"text": "The next day, March 6, 2010, the doctor ordered the beneficiary to be hospitalized; the \u201cabnormal\u201d laboratory results were again noted. Id. at 15, 19; Exh. 10.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 4,
+"section": "MIXED",
+"text": "The next day, March 7, 2010, nurses documented \u201cbright red\u201d hematuria (Exh. 4 at 20), and a doctor again ordered that laboratory tests be performed (id. at 20-21).",
+"tag": "COUNCIL_REC",
+"reason": "record-report sentence inside Council paragraph"
+},
+{
+"pi": 11,
+"si": 5,
+"section": "MIXED",
+"text": "As of March 8, 2010, the Foley catheter was draining bloody urine. Id. at 21.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 6,
+"section": "MIXED",
+"text": "A doctor again indicated that the beneficiary should be hospitalized, and, on March 8, 2010, he was hospitalized. Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "MIXED",
+"text": "Having considered the medical evidence, and the above coverage requirements and program guidance, the Council finds the appellant\u2019s arguments well-founded.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "MIXED",
+"text": "The medical evidence supports coverage for the SNF services furnished from March 5 to March 8, 2010.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "MIXED",
+"text": "The beneficiary required and received daily skilled nursing services in the form of skilled observation and assessment and the management of the beneficiary\u2019s care plan.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 1,
+"section": "MIXED",
+"text": "The beneficiary was treated for hematuria in a hospital immediately prior to the admission to the SNF. See, e.g., Exh. 4 at 39.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 13,
+"si": 2,
+"section": "MIXED",
+"text": "In fact, the hospital records for the period immediately prior to admission to the SNF indicate a doctor\u2019s option that, \u201cIt is anticipated \u2026 that there will be some intermittent hematuria.\u201d Id. at 4.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 3,
+"section": "MIXED",
+"text": "That is what occurred during the SNF stay at issue.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 13,
+"si": 4,
+"section": "MIXED",
+"text": "Further, at the SNF, on March 2, 2010, a doctor determined that the beneficiary required skilled nursing for one week to monitor him for various signs and symptoms, including those associated with hematuria. See id. at 10.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 5,
+"section": "MIXED",
+"text": "Every day during the three-day period of non-coverage, from March 5 to 8, 2010, the nurses closely monitored the beneficiary daily for possibly abnormal urine changes (e.g., \u201cdark orange\u201d noted one day), and abnormal laboratory results were noted daily.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 6,
+"section": "MIXED",
+"text": "The nurses also closely monitored the beneficiary daily for other indicators of overall decline in condition (e.g., poor appetite) leading up to the re-hospitalization on March 8, 2010, and notified the physician of the \u201cabnormal\u201d laboratory results. See id. at 19, 20, 21.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 14,
+"si": 0,
+"section": "MIXED",
+"text": "We note that, on March 6, 2010, the second day of the non- covered period, a doctor determined that the beneficiary should be re-hospitalized; the order for hospitalization apparently was not carried out at the request of the beneficiary\u2019s son and daughter-in-law. See Exh. 4 at 19, 20.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "MIXED",
+"text": "But, the doctor, in his medical judgment, determined that the beneficiary should be hospitalized, as evident in a repeated hospitalization order on March 7 and, again, on March 8, 2010. See id. at 20 and 21.",
+"tag": "COUNCIL_REC",
+"reason": "record-report sentence inside Council paragraph"
+},
+{
+"pi": 14,
+"si": 2,
+"section": "MIXED",
+"text": "These orders are unquestionably indicative of a physician\u2019s determination that the beneficiary should be furnished hospital level of care, which, in the context of this case, is evidence that tends to support a conclusion that the beneficiary needed, from March 5 to March 8, 2010, a SNF level of care.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 14,
+"si": 3,
+"section": "MIXED",
+"text": "We disagree that the SNF services at issue were merely \u201ccustodial in nature\u201d as the ALJ characterized them. See Dec. at 6.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "MIXED",
+"text": "Based on the foregoing, the Council reverses the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 15,
+"si": 1,
+"section": "MIXED",
+"text": "Medicare coverage is available for the SNF services furnished to the beneficiary from March 5 to March 8, 2010.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+}
+]
+}

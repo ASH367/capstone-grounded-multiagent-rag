@@ -1,0 +1,59 @@
+{
+ "domain": "snf",
+ "docket": "M-11-1343",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.8",
+   "section": "30"
+  }
+ ],
+ "other_cites": [
+  "SSA 1861(h)",
+  "SSA 1862(a)(1)(A)",
+  "SSA 1862(a)(9)",
+  "SSA 1814(a)(2)(B)",
+  "SSA 1866(a)(1)(A)",
+  "SSA 1879",
+  "SSA 1833(e)",
+  "SSA 1888(e)(6)",
+  "42 CFR 409.30-409.36",
+  "42 CFR 409.31(a)",
+  "42 CFR 411.15(g)",
+  "42 CFR 424.11",
+  "42 CFR 424.5(a)(6)",
+  "42 CFR 411.400",
+  "42 CFR 411.404",
+  "42 CFR 411.406",
+  "MPIM ch.6 6.1, 6.1.3, 6.2",
+  "CMS Ruling 95-1",
+  "MCPM ch.30"
+ ],
+ "case_id": "11-1343__EM_OT",
+ "parent": "11-1343",
+ "unit_note": "",
+ "service_at_issue": "SNF occupational therapy furnished to one beneficiary (E.M.), Oct 1-31, 2009",
+ "reference_outcome": "NOT_COVERED",
+ "outcome_note": "(unit)",
+ "facts": [
+  "Beneficiary E.M. Dates of Service: October 1, 2009, to October 31, 2009",
+  "The Medicare contractor determined that the PT, OT, and ST services provided to E.M. were not medically reasonable and necessary, and therefore downcoded the RUG-III codes to reflect the proper RUG\u00ad III codes if the PT, OT, and/or ST services were not medically reasonable and necessary, but the beneficiary received SN services. See E.M. Exh. 1 at 24. The contractor then denied the downcoded claims as not reasonable and necessary, after finding that the record did not contain documentation to support a finding for medically reasonable and necessary daily SN services. See id.",
+  "The appellant contends that the record shows sufficient evidence that E.M.\u2019s physician was aware, ordered, and was in agreement with the therapy plans. See id.",
+  "If the physician\u2019s signature is not located within the plan of care, the reviewer may look to other documentation within the record.",
+  "The certification and recertification statements may be entered on forms, notes, or records that the appropriate individual signs, or on a special separate form.",
+  "In this case, the record contains sufficient documentation that E.M.\u2019s physician ordered the OT services prior to the initiation of therapy services. Specifically, the record contains written orders signed by E.M.\u2019s physician with specific and detailed instructions for OT dated August 21, 2009. See Exh. 2 at 252.",
+  "As indicated by the record, OT services were initiated on August 24, 2009 with a treatment diagnosis of lack of coordination and muscle weakness. Exh. 2 at 194. In September 2009, E.M. required maximal assist and 100% tactical, visual or verbal cue to attend to task. Id. at 186. The record indicates that during the dates of service, the therapists continued to teach repetitive exercises to improve upper extremity strength to perform ADLs. Id. at 170-176. Further, the record does not indicate that significant functional gains were not made and E.M. remained at a level of extensive to total assist for personal care tasks."
+ ],
+ "arm": "C_prior",
+ "set": "held",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 157,
+ "evidence_words_D": 386,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_units.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

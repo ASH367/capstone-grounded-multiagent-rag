@@ -1,0 +1,29 @@
+{
+ "case_id": "conn_dept_social_services",
+ "domain": "snf",
+ "docket": "M-2009-1329",
+ "service_at_issue": "SNF services Mar 30 - Apr 30, 2008 (Wintonbury Care Center)",
+ "reference_outcome": "unfavorable",
+ "outcome_note": "Council adopted the ALJ's decision (services custodial, beneficiary liable) because the appellant raised no specific exceptions and filed its brief late.",
+ "cited_sections": [],
+ "other_cites": [
+  "SSA 1879",
+  "42 CFR 405.1120"
+ ],
+ "facts": [
+  "Nearly a month after the expiration of the due date for the brief, on December 1, 2009, the appellant filed, by telefacsimile, a request for an additional extension of time, to January 10, 2010, to brief the case. The appellant\u2019s brief was received after January 10, 2010, by telefacsimile."
+ ],
+ "arm": "B_gaps",
+ "set": "held",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "PROCEDURAL",
+ "include_primary": 0,
+ "evidence_words_A": 49,
+ "evidence_words_D": 49,
+ "evidence_ok": 0,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

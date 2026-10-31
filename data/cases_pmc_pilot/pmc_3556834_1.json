@@ -1,0 +1,31 @@
+{
+ "case_id": "pmc_3556834_1",
+ "domain": "inpatient_rehab",
+ "service_at_issue": "Transfer to an inpatient rehabilitation facility after a hospital stay (published case report; hypothetical Medicare review)",
+ "facts": [
+  "A 72-year-old man with Parkinson disease was found to have experienced a presumed intracranial hemorrhage approximately 4 months after an uneventful placement of a unilateral deep brain stimulation (DBS) lead into the subthalamic nucleus for treatment of Parkinson disease.",
+  "He presented for evaluation of short-term memory difficulties and expressive aphasia.",
+  "Imaging studies () revealed a cystic cavity midway along the DBS lead most consistent with an intracranial hemorrhage that was resolving.",
+  "Immediate postoperative imaging at the time of lead placement had not suggested any hemorrhage or infarction (), and the patient's early postoperative course was otherwise unremarkable, with improvement of contralateral motor fluctuations and tremor and reduction of bradykinesia and rigidity.",
+  "The patient did not experience an acute decline in function associated with this imaging finding but rather experienced a gradual worsening of memory and speech.",
+  "It is presumed that a small hemorrhage occurred and that edema associated with the development of a hemorrhage capsule led to his delayed presentation.\\nConservative treatments including speech therapy were initiated, and his memory difficulties began to slowly improve.",
+  "While recovering from the aphasia, he presented approximately one month later with the acute onset of profound dysarthria, confusion, right facial weakness, and diplopia.",
+  "A noncontrast computed tomography scan showed a 1.9 \u00d7 1.5 cm acute hemorrhage in the left cerebral peduncle just distal to the tip of the DBS electrode ().",
+  "On examination, the patient was oriented to name only and was dysarthric but able to follow commands in all four extremities.",
+  "All laboratory values were within normal limits, and no platelet products or clotting factors were administered.\\nOnly during admission for this second intracranial hemorrhage it was established that the patient had continued in a randomized clinical trial of a new direct factor-Xa inhibitor, edoxaban, for atrial fibrillation.",
+  "Previously, the patient had reported that he would be finished with the clinical trial one week before DBS placement.",
+  "In fact, he restarted this medication only 5 days after lead placement.",
+  "Unfortunately, the study participation was not revealed despite multiple medication reviews at the time of the initial memory difficulties.\\nThe patient was admitted to the neurocritical care unit for frequent neurological examinations.",
+  "A repeat non-contrast CT ~24 hours after admission showed mild decrease in the size of the hemorrhage ().",
+  "Over the next few days, the results of the patient's neurologic examinations slowly improved, although he remained intermittently confused.",
+  "He was discharged to the inpatient rehabilitation unit on hospital day 7 with a plan to remain off all anticoagulation therapies.",
+  "The patient was withdrawn from the edoxaban trial and was started on antiplatelet therapy after three months.",
+  "He recovered well, with mild expressive aphasia and weakness; however, his contralateral bradykinesia and rigidity did again worsen as the hemorrhage resolved."
+ ],
+ "reference_outcome": "unknown",
+ "outcome_note": "",
+ "cited_sections": [],
+ "other_cites": [],
+ "scope": "included",
+ "source": "PMC-Patients (CC BY-NC-SA 4.0), PMID 23365773"
+}

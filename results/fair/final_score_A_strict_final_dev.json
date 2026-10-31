@@ -1,0 +1,59 @@
+{
+ "results/fair/A_strict_final_dev/run1": {
+  "n": 23,
+  "multi": {
+   "forced_correct": 21,
+   "forced_ci": [
+    0.782608695652174,
+    1.0
+   ],
+   "partly_predictions": 0,
+   "flag": {
+    "coverage": 10,
+    "committed_correct": 10,
+    "flagged": 13,
+    "flagged_wrong": 2,
+    "errors": 2,
+    "confident_wrong": 0
+   },
+   "flag_self": {
+    "coverage": 8,
+    "committed_correct": 8,
+    "flagged": 15,
+    "flagged_wrong": 2,
+    "errors": 2,
+    "confident_wrong": 0
+   }
+  },
+  "single": {
+   "forced_correct": 18,
+   "forced_ci": [
+    0.6,
+    0.9565217391304348
+   ],
+   "partly_predictions": 0,
+   "flag": {
+    "coverage": 19,
+    "committed_correct": 16,
+    "flagged": 4,
+    "flagged_wrong": 2,
+    "errors": 5,
+    "confident_wrong": 3
+   },
+   "flag_self": {
+    "coverage": 4,
+    "committed_correct": 4,
+    "flagged": 19,
+    "flagged_wrong": 5,
+    "errors": 5,
+    "confident_wrong": 0
+   }
+  },
+  "probe_correct": 21,
+  "gap_multi_minus_single": 0.13043478260869565,
+  "gap_ci": [
+   0.0,
+   0.2962962962962963
+  ]
+ }
+}

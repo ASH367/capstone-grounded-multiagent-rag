@@ -1,0 +1,44 @@
+{
+ "case_id": "midwest_lifeteam",
+ "domain": "ambulance",
+ "docket": "M-11-716",
+ "service_at_issue": "Hospital-to-hospital air ambulance (A0435 mileage, 203 miles) from Beaver, Oklahoma to Wichita, Kansas",
+ "reference_outcome": "partial",
+ "outcome_note": "The 70 miles beyond the nearest appropriate facility were not covered, though the beneficiary rather than the provider was held liable for them.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.3"
+  },
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.3.6"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 410.40(e)",
+  "SSA 1861(s)(7)",
+  "SSA 1862(a)(1)",
+  "SSA 1879"
+ ],
+ "facts": [
+  "The appellant initially submitted a claim for 203 units (miles) of procedure code A0435-II. Exh. 2, at 2."
+ ],
+ "arm": "A_strict",
+ "set": "dev",
+ "coverage_label": "PARTLY_COVERED",
+ "issue_type": "MERITS_PLUS_LIABILITY",
+ "include_primary": 1,
+ "evidence_words_A": 18,
+ "evidence_words_D": 60,
+ "evidence_ok": 0,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "parent": "midwest_lifeteam",
+ "status": "SEPARATE"
+}

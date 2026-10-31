@@ -1,0 +1,33 @@
+{
+ "case_id": "midwest_lifeteam",
+ "domain": "ambulance",
+ "docket": "M-11-716",
+ "service_at_issue": "Hospital-to-hospital air ambulance (A0435 mileage, 203 miles) from Beaver, Oklahoma to Wichita, Kansas",
+ "facts": [
+  "on the date of service at issue, the appellant was seen in the emergency room at Beaver County Memorial Hospital where she was diagnosed with cardiac arrhythmia, chest pain and shortness of breath. Exh. 1, at 3, 7. The air ambulance transportation at issue was furnished to transfer the beneficiary from the emergency room at Beaver County Memorial Hospital, in Beaver, Oklahoma, to Via Christi-Saint Francis Campus Hospital, in Wichita, Kansas. Id. at 3. The transfer occurred so that the beneficiary would be treated in a hospital where specialist cardiologist services were available. Exh. 1, at 7; Exh. 2, at 18. The record reflects that the transfer was ordered by a physician in the transferring hospital. See Exh. 1, at 7.",
+  "The appellant initially submitted a claim for 203 units (miles) of procedure code A0435-II. Exh. 2, at 2.",
+  "The appellant contends that \u201cthe referring doctor tried multiple facilities to transfer the patient to. He just gave up & settled on one in the state of KS before trying the facility in TX that Medicare preferred.\u201d Exh. MAC-1.",
+  "a letter from a registered nurse, undated but apparently sent to someone by facsimile on November 30, 2009, indicates that Beaver County Memorial Hospital did contact two other hospitals before transferring the beneficiary to Via Christi, but was informed that those two hospitals did not have a cardiologist available. Exh. 2, at 18. However, as the beneficiary became progressively \u201cmore unstable,\u201d the treating physician decided to transfer her to Via Christi-St. Frances in Wichita, Kansas, a large hospital center with available cardiologists and an intensive care unit. Id."
+ ],
+ "reference_outcome": "partial",
+ "outcome_note": "The 70 miles beyond the nearest appropriate facility were not covered, though the beneficiary rather than the provider was held liable for them.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.3"
+  },
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.3.6"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 410.40(e)",
+  "SSA 1861(s)(7)",
+  "SSA 1862(a)(1)",
+  "SSA 1879"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

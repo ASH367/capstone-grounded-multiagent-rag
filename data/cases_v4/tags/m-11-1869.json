@@ -1,0 +1,717 @@
+{
+"case_id": "m-11-1869",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated April 21, 2011, which concerned home health services provided to the beneficiary on the dates of service from October 3, 2007 through March 28, 2008, and from May 28, 2008 through September 24, 2008.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ denied coverage for the services under section 1862(a)(1) of the Social Security Act (Act), finding that the nursing services did not require the services of skilled nursing personnel.",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ held the provider liable for the non-covered services prior to June 20, 2008, and the beneficiary liable for the non-covered services provided on and after June 20, 2008.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The appellant, a state Medicaid agency with appeal rights under the provisions of 42 C.F.R. \u00a7 405.908, through its appointed representative, has asked the Medicare Appeals Council (Council) (We) to review the ALJ\u2019s action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The appellant\u2019s request for review and brief in support of the request are entered into the record as Exhibit (Exh.) MAC-1.",
+"tag": "PROC",
+"reason": "MAC-1"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "INTRO",
+"text": "The Council finds that the beneficiary received medically reasonable and necessary skilled nursing services during the dates of service in dispute.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 1,
+"section": "INTRO",
+"text": "The Council reverses the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "New England Home Care provided home health services (nursing visits) to the beneficiary, who has diabetes and is legally blind.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "This case began with a claim for services furnished from August 6, 2007 to March 28, 2008 and May 28, 2008 to September 24, 2008.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 5,
+"si": 2,
+"section": "FACTS",
+"text": "The services furnished before October 1, 2007 were considered to be part of the Third Party Liability (TPL) demonstration project and therefore outside the Medicare claims appeals process.",
+"tag": "PROC",
+"reason": "Liability"
+},
+{
+"pi": 5,
+"si": 3,
+"section": "FACTS",
+"text": "On redetermination, the contractor informed the appellant, Commissioner, Connecticut Department of Social Services, that the services provided before October 1, 2007 were not included in its review. Exh. 3 at 1.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 5,
+"si": 4,
+"section": "FACTS",
+"text": "The Qualified Independent Contractor (QIC) dismissed the appellant\u2019s request for reconsideration as to the dates of service before October 1, 2007. Exh. 4 at 1-2.",
+"tag": "COUNCIL",
+"reason": "dismissed"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "The contractor issued a partially favorable decision on the remaining dates of service, and allowed coverage for the home health nursing visits provided from May 28, 2008 to June 20, 2008 as medically reasonable and necessary \u201cfor multiple adjustments of the new Humalog insulin and for discontinuing all of the oral hypoglycemic medications.\u201d Exh. 3 at 2.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "The contractor concluded that the Home Health Advanced Beneficiary Notice (HHABN), signed June 20, 2008, was valid and, therefore, found the beneficiary liable for the non-covered services provided after that date, and held the provider liable for the non-covered services that predated the HHABN. Id.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "FACTS",
+"text": "The QIC upheld the contractor\u2019s partially favorable decision, because \u201cno skilled services [were] provided nor were [sic] there documentation submitted supporting the medical necessity of these services.\u201d Exh. 4 at 3.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 6,
+"si": 3,
+"section": "FACTS",
+"text": "However, the QIC found the HHABN invalid because it did not identify the beneficiary\u2019s health insurance claim number and, therefore, held the provider liable for all of the non-covered services. Id. at 3 (reverse side).",
+"tag": "COUNCIL",
+"reason": "reverse"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "The ALJ upheld the QIC\u2019s decision on coverage for all dates of service remaining in dispute, leaving in effect the earlier allowance of coverage for the dates of service May 28, 2008 to June 20, 2008.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ concluded that \u201cthe record in this case fails to establish the beneficiary\u2019s condition necessitated skilled nursing services during the dates of service at issue.\u201d Id. at 5.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 2,
+"section": "FACTS",
+"text": "The ALJ also found that \u201cskilled nursing was not reasonable and necessary for case management.\u201d Id. at 6.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 3,
+"section": "FACTS",
+"text": "On the liability issue, the ALJ found the HHABN valid, concluding that the beneficiary was notified that Medicare would not cover the services furnished from June 20, 2008, forward.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 7,
+"si": 4,
+"section": "FACTS",
+"text": "The ALJ held the provider financially liable for the non-covered services provided before June 20, 2008, and the beneficiary liable for the denied charges for the services furnished on and after that date. Id.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "LAW",
+"text": "To qualify for Medicare coverage of home health services, a beneficiary must be confined to her home and need skilled nursing care on an intermittent basis or physical or speech therapy services or have a continuing need for occupational therapy. See 42 C.F.R. \u00a7 409.42; see also Medicare Benefit Policy Manual (MBPM), IOM CMS Pub. 100-02, Ch. 7, \u00a7 30.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "LAW",
+"text": "For nursing services to be covered, the services must require the skills of a registered nurse, or a licensed practical (vocational) nurse under the supervision of a registered nurse.",
+"tag": "LAW",
+"reason": "law statement: to be covered"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "LAW",
+"text": "Conversely, if a service can be safely and effectively performed (or self-administered) by a non-medical person, without the direct supervision of a nurse, the service cannot be regarded as a skilled nursing service.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 9,
+"si": 3,
+"section": "LAW",
+"text": "A service is not considered a skilled nursing service merely because it is performed by a nurse. See 42 C.F.R. \u00a7 409.44(b); MBPM, Ch. 7, \u00a7 40.1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "LAW",
+"text": "Skilled nursing care must be reasonable and necessary for the treatment of the illness or injury.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "LAW",
+"text": "C.F.R. \u00a7 409.44(b)(3).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 10,
+"si": 2,
+"section": "LAW",
+"text": "To be considered as such, the services must be consistent with the nature and severity of the beneficiary\u2019s illness or injury, his or her particular medical needs, and accepted standards of medical and nursing practice.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 10,
+"si": 3,
+"section": "LAW",
+"text": "They must also be reasonable within the context of the beneficiary\u2019s unique condition and individual needs, without regard to whether the illness or injury is acute, chronic, terminal, or expected to last a long time.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 10,
+"si": 4,
+"section": "LAW",
+"text": "C.F.R. \u00a7\u00a7 409.44(b)(3)(i)-(iv).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 10,
+"si": 5,
+"section": "LAW",
+"text": "The MBPM provides guidance using language similar to that in the regulations:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "LAW",
+"text": "The skilled nursing service must be reasonable and necessary to the diagnosis and treatment of the patient\u2019s illness or injury within the context of the patient\u2019s unique medical condition.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "LAW",
+"text": "To be considered reasonable and necessary for the diagnosis or treatment of the patient\u2019s illness or injury, the services must be consistent with the nature and severity of the illness or injury, the patient\u2019s particular medical needs, and accepted standards of medical and nursing practice.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 11,
+"si": 2,
+"section": "LAW",
+"text": "A patient\u2019s overall medical condition is a valid factor in deciding whether skilled services are needed.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 11,
+"si": 3,
+"section": "LAW",
+"text": "A patient\u2019s diagnosis should never be the sole factor in deciding that a service the patient needs is either skilled or not skilled.",
+"tag": "EVAL",
+"reason": "service the patient needs is either skilled"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "LAW",
+"text": "MBPM, Ch. 7, \u00a7 40.1.1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "LAW",
+"text": "The MBPM goes on to state:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "LAW",
+"text": "The determination of whether a patient needs skilled nursing care should be based solely upon the patient\u2019s unique condition and individual needs, without regard to whether the illness or injury is acute, chronic, terminal, or expected to extend over a long period of time.",
+"tag": "LAW",
+"reason": "law statement: should be based"
+},
+{
+"pi": 13,
+"si": 1,
+"section": "LAW",
+"text": "In addition, skilled care may, depending on the unique condition of the patient, continue to be necessary for patients whose condition is stable.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "LAW",
+"text": "Id.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "LAW",
+"text": "The regulations governing home health care services in 42 C.F.R. Part 409, Subpart E, refer to the regulations in Subpart D, which address the requirements for coverage of post-hospital skilled nursing facility care.",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 15,
+"si": 1,
+"section": "LAW",
+"text": "The regulations within Subpart D include the criteria for determining whether a service is skilled and examples of the types of services that are considered skilled. See 42 C.F.R. \u00a7\u00a7 409.42(c), 409.44(b), 409.32, 409.33.",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "LAW",
+"text": "The restoration potential of a patient is not the deciding factor in determining whether skilled services are needed.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 16,
+"si": 1,
+"section": "LAW",
+"text": "Even if full recovery or medical improvement is not possible, a patient may need skilled services to prevent further deterioration or preserve current capabilities.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 16,
+"si": 2,
+"section": "LAW",
+"text": "C.F.R. \u00a7 409.32(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 16,
+"si": 3,
+"section": "LAW",
+"text": "Overall management and evaluation of a care plan may constitute skilled nursing services when, because of a patient\u2019s physical or mental condition, those activities require the involvement of technical or professional personnel in order to meet the patient\u2019s needs, promote recovery, and ensure medical safety.",
+"tag": "LAW",
+"reason": "law statement: in order to"
+},
+{
+"pi": 16,
+"si": 4,
+"section": "LAW",
+"text": "C.F.R. \u00a7 409.33(a)(1).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 16,
+"si": 5,
+"section": "LAW",
+"text": "Also, observation and assessment may constitute skilled services when the skills of a technical or professional person are required to identify and evaluate the patient\u2019s need for modification of treatment or for additional medical procedures until his or condition is stabilized.",
+"tag": "LAW",
+"reason": "law statement: are required"
+},
+{
+"pi": 16,
+"si": 6,
+"section": "LAW",
+"text": "C.F.R. \u00a7 409.33(a)(2); see also id.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 16,
+"si": 7,
+"section": "LAW",
+"text": "\u00a7 409.33(b) (providing examples of services that qualify as skilled nursing services) and MBPM, Ch. 7, \u00a7 40.1.2.1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "LAW",
+"text": "Skilled services may also include teaching and training activities.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 17,
+"si": 1,
+"section": "LAW",
+"text": "The test of whether teaching and training activities are skilled relates to the skill required to teach and not to the nature of what is being taught.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 17,
+"si": 2,
+"section": "LAW",
+"text": "MBPM, Ch. 7, \u00a7 40.1.2.3.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 17,
+"si": 3,
+"section": "LAW",
+"text": "Teaching and training activities are reasonable and necessary where they are appropriate to the patient\u2019s functional loss, illness, or injury. See id.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "MIXED",
+"text": "The dates of service remaining in dispute before the Council are October 3, 2007 through March 28, 2008, and the dates after June 20, 2008 through September 24, 2008.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "MIXED",
+"text": "Having considered the evidentiary record and the decisional history of this case, the Council concludes that the services furnished during these dates of service were medically reasonable and necessary skilled nursing services and, accordingly, are covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 19,
+"si": 2,
+"section": "MIXED",
+"text": "The Council therefore reverses the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "The rationale given for denying coverage at the redetermination, reconsideration and ALJ levels of review were consistent and similar.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 20,
+"si": 1,
+"section": "MIXED",
+"text": "First, the reviewers found that the services were not skilled in nature because the nurses performed general assessments, and provided repetitive teaching of diabetes management, pre-filled insulin syringes, and pre-poured medication.",
+"tag": "PRIOR_DENIAL",
+"reason": "reviewers"
+},
+{
+"pi": 20,
+"si": 2,
+"section": "MIXED",
+"text": "Second, they agreed that the records did not demonstrate significant changes in clinical status, condition, medication, or treatment plan to support ongoing home health skilled nursing services. See Exh. 3 at 2 (redetermination); Exh. 4 at 3 (reconsideration).",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 20,
+"si": 3,
+"section": "MIXED",
+"text": "The ALJ, too, upheld the denial on similar grounds, noting that the beneficiary\u2019s condition was \u201cgenerally\u201d at \u201cbaseline\u201d and the record did not document \u201cexacerbations of the beneficiary\u2019s conditions which would require skilled nursing services.\u201d Dec. at 5-6.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 20,
+"si": 4,
+"section": "MIXED",
+"text": "Nor did the record indicate that the beneficiary \u201csuffered from significant complications or acute episodes necessitating continued, skilled observation during the period at issue.\u201d Id. at 6.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "MIXED",
+"text": "The services provided during the home health visits did include checking the beneficiary\u2019s blood sugar levels, cardiovascular status, and vital signs, and pre-filling of medications \u2013 which the prior reviewers determined did not require skilled nurses to perform. See, e.g., Dec. at 3 (findings of fact).",
+"tag": "PRIOR_ALJ",
+"reason": "Dec. at 3"
+},
+{
+"pi": 21,
+"si": 1,
+"section": "MIXED",
+"text": "However, in the Council\u2019s view, the ALJ\u2019s decision emphasized the nature of some of the services themselves, which the ALJ and the contractors determined did not require skilled personnel, without adequate consideration of the context of the beneficiary\u2019s medical status.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 21,
+"si": 2,
+"section": "MIXED",
+"text": "Moreover, that the beneficiary has a chronic medical condition, the principal diagnosis being diabetes, which the ALJ summarily stated was stable or at baseline (or without significant complications, acute changes), does not rule out consideration for coverage of the home health services as reasonable and necessary skilled nursing services.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 21,
+"si": 3,
+"section": "MIXED",
+"text": "And, having fully considered the evidence, the Council does not agree with the ALJ that the beneficiary\u2019s medical status appeared stable, without significant complications or changes.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 21,
+"si": 4,
+"section": "MIXED",
+"text": "We conclude that the weight of the medical evidence indicates otherwise.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 21,
+"si": 5,
+"section": "MIXED",
+"text": "The beneficiary was provided skilled nursing visits necessary for the observation and assessment of a changing medical condition, as well as overall management of the beneficiary\u2019s care.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 21,
+"si": 6,
+"section": "MIXED",
+"text": "The 72-year-old beneficiary\u2019s principal diagnosis is diabetes.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 21,
+"si": 7,
+"section": "MIXED",
+"text": "Her medical conditions also include hypertension, hypercholesterolemia, and legal blindness. See, e.g., Exh. 1 at 4.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 21,
+"si": 8,
+"section": "MIXED",
+"text": "As the appellant acknowledges in its brief, the beneficiary tested blood sugar levels on her own. Exh. MAC-1 at 5.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 21,
+"si": 9,
+"section": "MIXED",
+"text": "However, the records dated within the first of the two periods at issue (October 3, 2007 to March 24, 2008) include numerous indications of fluctuating blood sugar levels which the nurses monitored and assessed.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 21,
+"si": 10,
+"section": "MIXED",
+"text": "On multiple occasions during this period, the nurses had the beneficiary see her doctor with her blood sugar logs or sent logs evidencing fluctuating blood sugar levels to the beneficiary\u2019s endocrinologist.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 21,
+"si": 11,
+"section": "MIXED",
+"text": "As a result of these actions taken by the nurses, the beneficiary\u2019s insulin dosage was adjusted numerous times during this period. See, e.g., Exh. 1 at 8, 9 (November 2007, two increases in dosage of Lantus, subcutaneous solution), 16 (another increase in dosage, December 2007).",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 21,
+"si": 12,
+"section": "MIXED",
+"text": "In fact, once in late November 2007, the beneficiary went to the emergency room with hyperglycemia, indicating that the beneficiary\u2019s medical condition was not stable and did present complications. Id. at 15.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "MIXED",
+"text": "Moreover, the records dated within this period include numerous documented instances of changes in the beneficiary\u2019s medication schedule, as well as problems related to compliance with taking diabetic medications (to include Starlix) as directed, and reports of difficulty using a talking glucometer, all for which the nurses provided ongoing monitoring, assessment, and instructions to take the medications as directed. See, e.g., id. at 9, 10, 21, 25, 59, 67, 75, 232.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 22,
+"si": 1,
+"section": "MIXED",
+"text": "The instructions the nurses provided to the beneficiary were appropriate for the beneficiary\u2019s medical condition, in particular, for the management of diabetes. See MBPM, Ch. 7, \u00a7 40.1.2.3.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "MIXED",
+"text": "As for the second period remaining in dispute (dates after June 20, 2008, through September 24, 2008), the nurses continued to observe, assess, and manage the beneficiary\u2019s medical condition, particularly for compliance with new diabetic medication (Humalog insulin) in light of her history of medication compliance issues and fluctuating blood sugar levels. See Exh. 1 at 36, 37; and 412 (noting that the beneficiary \u201cfinds odd reasons to block what the doctors would like to do\u201d) and 446 (noting that the beneficiary is \u201cforgetful\u201d and defensive about compliance with regimen). See also generally id. at 108-110, 387-447.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 23,
+"si": 1,
+"section": "MIXED",
+"text": "The nurses\u2019 visit notes for this period also indicate that the nurses assessed the beneficiary\u2019s reports of changes in her urine.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 23,
+"si": 2,
+"section": "MIXED",
+"text": "The nurses contacted the beneficiary\u2019s doctor to obtain permission to take a urine sample for analysis.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 23,
+"si": 3,
+"section": "MIXED",
+"text": "The beneficiary was given Cipro for a urinary tract infection, and the nurses thereafter continued to monitor her for compliance with medication for this infection. See id. at 417, 421, 425.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "MIXED",
+"text": "Based on the foregoing, the Council concludes that the beneficiary was provided medically reasonable and necessary home health skilled nursing services.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 24,
+"si": 1,
+"section": "MIXED",
+"text": "Inasmuch as the Council has reversed the ALJ\u2019s denial of coverage for all dates remaining in dispute, the Council need not address the issues related to the liability question, including the prior findings as to validity of the HHABN furnished to the beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "TERMINAL",
+"text": "The Council reverses the ALJ\u2019s decision in accordance with the foregoing discussion.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "TERMINAL",
+"text": "Medicare coverage is available for the home health skilled nursing services furnished to the beneficiary from October 3, 2007 to March 28, 2008 and the dates of service after June 20, 2008 through September 24, 2008.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

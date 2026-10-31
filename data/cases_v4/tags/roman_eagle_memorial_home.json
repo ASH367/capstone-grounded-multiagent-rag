@@ -1,0 +1,1925 @@
+{
+"case_id": "roman_eagle_memorial_home",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated November 24, 2007.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ\u2019s decision concerned skilled nursing facility (SNF) services the appellant, Roman Eagle Memorial Home(REMH), furnished to the beneficiary, for two periods, from September 29, 2003, through November 27, 2003, and from December 11, 2003 through January 6, 2004.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ decided that Medicare would not pay for the services and that the appellant, but not the beneficiary, would be liable for the costs of the noncovered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council has considered the record and exceptions set forth in the appellant\u2019s request for review, as well as various attachments.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "The appellant\u2019s request for review and attachments are entered into the record as Exh. MAC-1.",
+"tag": "PROC",
+"reason": "request for review"
+},
+{
+"pi": 2,
+"si": 2,
+"section": "INTRO",
+"text": "For the reasons set forth below, the Council modifies the ALJ\u2019s decision by upholding the result, yet altering the reasoning in the decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "INTRO",
+"text": "In the first part of this decision, we describe the circumstances of the beneficiary\u2019s two admissions and stays at the appellant\u2019s nursing facility, based on the documentation in the record.",
+"tag": "COUNCIL",
+"reason": "this decision"
+},
+{
+"pi": 3,
+"si": 1,
+"section": "INTRO",
+"text": "This description includes details concerning the appellant\u2019s efforts to provide the beneficiary with notice about her placement in a noncertified bed, the physician certifications in the medical record, and the level of care the beneficiary received.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 3,
+"si": 2,
+"section": "INTRO",
+"text": "We also explain how the provider\u2019s appeal from a denial of Medicare coverage was handled at the redetermination and reconsideration stages, and by the ALJ.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "INTRO",
+"text": "After listing the reasons for the appellant\u2019s request for review and the applicable legal standards, we then analyze the case in detail and the reasons for our decision, based primarily on Section 1879(e) of the Social Security Act (Act) the Medicare Claims Processing Manual (MCPM), Pub. 100-4, chapter 30, sections 130.3 and 130.4.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary was a 53-year-old woman diagnosed with metastatic breast cancer.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "She was admitted to REMH for two periods, from September 29, 2003, through November 27, 2003, and from December 11, 2003 through January 6, 2004, both following a qualifying hospital stay.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 6,
+"si": 2,
+"section": "FACTS",
+"text": "She died on January 6, 2004 from the cancer.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "I. First Admission and Stay from September 29, 2003, Through November 27, 2003",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 8,
+"si": 0,
+"section": "FACTS",
+"text": "On September 29, 2003, the beneficiary was admitted to the appellant\u2019s nursing facility, REMH, immediately following her discharge from the hospital (Danville Regional Medical Center). Exh. 1 at 111.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 8,
+"si": 1,
+"section": "FACTS",
+"text": "The beneficiary\u2019s medical records indicate that she was placed in a noncertified bed at the appellant\u2019s facility.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 8,
+"si": 2,
+"section": "FACTS",
+"text": "At the time she was discharged from the hospital, the appellant\u2019s facility did not have a certified bed available.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary\u2019s physician requested her admission for the noncertified bed because he did not practice at any other area facility, and did not think she should change oncologists given the advanced stage of her illness.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "FACTS",
+"text": "ALJ Hearing, see also Exh. 3 at 17.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "FACTS",
+"text": "The admission form for appellant REMH was signed by the beneficiary\u2019s daughter (who would later become her mother\u2019s representative) on September 29, 2003. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 10,
+"si": 1,
+"section": "FACTS",
+"text": "The appellant\u2019s social worker, who assisted the beneficiary\u2019s daughter with the form, listed \u201crequest for family to manage affairs\u201d as the reason for the resident\u2019s inability to sign the form. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 10,
+"si": 2,
+"section": "FACTS",
+"text": "The social worker signed the admission form as a witness. Id.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "FACTS",
+"text": "Dan Setliff, the appellant\u2019s administrator, testified at the ALJ hearing on November 23, 2009, that the beneficiary\u2019s daughter was seventeen at the time of her mother\u2019s initial admission.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "FACTS",
+"text": "Mr. Setliff also testified that the beneficiary\u2019s daughter turned eighteen at some point during the beneficiary\u2019s stay.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "FACTS",
+"text": "On September 29, 2003, the appellant sent a letter to the beneficiary\u2019s daughter. Exh. 1 at 109.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 1,
+"section": "FACTS",
+"text": "It is unclear whether the beneficiary and her daughter had signed a power of attorney or similar document at this point, or whether they signed one later during her stay.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 2,
+"section": "FACTS",
+"text": "No such document is included in the record.",
+"tag": "GAP",
+"reason": "No such document is included in the reco"
+},
+{
+"pi": 13,
+"si": 3,
+"section": "FACTS",
+"text": "It is also unclear when the beneficiary\u2019s daughter turned eighteen and was therefore legally able to act as her mother\u2019s representative.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 13,
+"si": 4,
+"section": "FACTS",
+"text": "The appellant\u2019s September 29, 2003 letter, addressed to the daughter, states:",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 14,
+"si": 0,
+"section": "FACTS",
+"text": "On 9-29-03 we reviewed the medical information available at the time of admission.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "FACTS",
+"text": "[The beneficiary] may receive services which may be covered under Medicare.",
+"tag": "EVAL",
+"reason": "covered under"
+},
+{
+"pi": 14,
+"si": 2,
+"section": "FACTS",
+"text": "The patient must be in the Skilled Care section of the nursing home to receive Medicare benefits.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 14,
+"si": 3,
+"section": "FACTS",
+"text": "At the time of admission, our vacancy was in the Intermediate Care section of the nursing home, which you agreed to accept.",
+"tag": "COUNCIL",
+"reason": "our"
+},
+{
+"pi": 14,
+"si": 4,
+"section": "FACTS",
+"text": "Therefore, the services here cannot be covered under Medicare.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "FACTS",
+"text": "[The letter also included information about the 30-day grace period and the beneficiary\u2019s potential to transfer within that time to a Skilled-section bed, depending on the availability of a vacancy, to use her Medicare benefits.]",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "FACTS",
+"text": "Exh. 1 at 109.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "FACTS",
+"text": "With the September 29, 2003 letter, the appellant also enclosed a \u201cNotice of Medicare Ineligibility\u201d that stated:",
+"tag": "PROC",
+"reason": "Notice of"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "FACTS",
+"text": "The patient/responsible party was notified of non- coverage of services verbally by the Social Worker on 9-29-03.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "FACTS",
+"text": "The patient/responsible party was notified of non- coverage of services in writing on _______.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "FACTS",
+"text": "[M]ailed to [beneficiary\u2019s daughter] 9-30-03[.] [initialed by appellant\u2019s business manager.]\u201d",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "FACTS",
+"text": "Exh. 1 at 110.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 21,
+"si": 1,
+"section": "FACTS",
+"text": "Neither the beneficiary nor her daughter ever signed this form.",
+"tag": "GAP",
+"reason": "Neither the beneficiary nor"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "FACTS",
+"text": "The physician and other staff members at the nursing facility developed a series of orders and plans for the beneficiary\u2019s care, and many of these are included in the record.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 23,
+"si": 1,
+"section": "FACTS",
+"text": "They provide information about whether the beneficiary\u2019s two nursing facility stays were certified, and what level of care she received.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 23,
+"si": 2,
+"section": "FACTS",
+"text": "The first set of Physician Telephone Orders are dated September 29, 2003, are signed by beneficiary\u2019s physician, and give the physician\u2019s orders for medication, and approval of a care plan. Exh. 1 at 2-4. 1",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 24,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary\u2019s \u201cPlan of Treatment for Outpatient Rehabilitation\u201d lists certification for the period of \u201c9/29/03 through 10/29/03;\u201d however, the signature of the authorizing physician and the date (\u201c12/----\u201c) are largely illegible. Exh. 1 at 5.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 24,
+"si": 1,
+"section": "FACTS",
+"text": "Further, this document orders physical therapy three times a week for four weeks, but not daily. Exh. 1 at 5.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 25,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary\u2019s physician completed a \u201cMedical History and Admission Evaluation\u201d form on September 30, 2003. Exh. 1 at 112.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 25,
+"si": 1,
+"section": "FACTS",
+"text": "Among other things, the physician checked \u201cNone\u201d under the \u201cRehabilitation Potential\u201d classification; and he checked \u201cNursing Facility,\u201d not \u201cMedicare Skilled,\u201d under the \u201cLevel of Care Required\u201d section. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "FACTS",
+"text": "On October 1, 2003, the appellant prepared a form document, entitled \u201cPhysician\u2019s Orders,\u201d which was signed by a physician on October 14, 2003, and included a \u201cCertification/ Recertification\u201d section. Exh. 1 at 50-51.",
+"tag": "EVAL",
+"reason": "entitled"
+},
+{
+"pi": 26,
+"si": 1,
+"section": "FACTS",
+"text": "The physician\u2019s signature is illegible.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 26,
+"si": 2,
+"section": "FACTS",
+"text": "The form states that \u201cThis Patient Requires [an] Intermediate Level of Nursing Care.\u201d Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "FACTS",
+"text": "Further \u201cPhysician Telephone Orders\u201d for October 2003 are included in the record as well. Exh. 1 at 53-55.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 27,
+"si": 1,
+"section": "FACTS",
+"text": "These indicate that the beneficiary\u2019s physician clarified an October 2, 2003 order, stating \u201cSRP [specialized restorative program] 6x week for A [ambulation] [with] transfers and amb[ulation] [with] FWW [front wheel walker] . . ..\u201d on October 7, 2003. Exh. 1 at 53; see also Exh. 1 at 86 (reverse) (REMH Nursing Summary indicating this was provided to the beneficiary pursuant to the physician\u2019s orders).",
+"tag": "COUNCIL",
+"reason": "reverse"
+},
+{
+"pi": 27,
+"si": 2,
+"section": "FACTS",
+"text": "Again, the physician did not order any daily services, other than administration of oral medication and a Duragesic patch. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 28,
+"si": 0,
+"section": "FACTS",
+"text": "Finally, on the October 12, 2003, \u201cBasic Assessment Tracking Form \u2013 Rehabilitation Services\u201d section, the nurse checked \u201cYes\u201d to the category of \u201cAmbulation/Transfer skills\u201d under \u201cRestorative Nursing: (Dr.\u2019s order required).\u201d Exh. 1 at 86 (reverse).",
+"tag": "COUNCIL",
+"reason": "reverse"
+},
+{
+"pi": 28,
+"si": 1,
+"section": "FACTS",
+"text": "The forms also contain evidence that the beneficiary continued to receive the patch and oral medications for pain. Id. at 85-89.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "FACTS",
+"text": "Then, on November 27, 2003, the beneficiary was re-admitted to Danville Regional Medical Center for \u201csevere right side pain.\u201d Exh. 1 at 89.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 29,
+"si": 1,
+"section": "FACTS",
+"text": "She remained in the hospital until December 11, 2003. Id. at 90.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 30,
+"si": 0,
+"section": "FACTS",
+"text": "II.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 30,
+"si": 1,
+"section": "FACTS",
+"text": "Readmission and Second Stay from December 11, 2003, Through January 6, 2004",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 31,
+"si": 0,
+"section": "FACTS",
+"text": "On December 11, 2003, the beneficiary was readmitted to appellant\u2019s nursing facility after her hospital stay. Exh. 1 at 90.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 31,
+"si": 1,
+"section": "FACTS",
+"text": "The appellant\u2019s assessment forms from December 11, 2003 indicate the beneficiary was \u201ctotally dependent\u201d in multiple assessment categories.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 33,
+"si": 0,
+"section": "FACTS",
+"text": "There are no notice and consent documents from the beneficiary\u2019s December 11, 2003 re-admission to appellant REMH.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 35,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant filled out a second \u201cPhysician\u2019s Orders\u201d form which a physician appears to have signed on December 12, 2003. Exh. 1 at 62-64. 2 The form includes a \u201cCertification/ Recertification\u201d section, and the word \u201cIntermediate\u201d is typed in under \u201cThis Patient Requires ________ Level of Nursing Care.\u201d Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 35,
+"si": 1,
+"section": "FACTS",
+"text": "The form also lists orders for \u201c[p]articipation in a specialized restorative program 6x week for (A) with transfer and ambulation,\u201d as well as qualifying skilled-level procedures, such as intravenous administration of medication. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 36,
+"si": 0,
+"section": "FACTS",
+"text": "Physician\u2019s Telephone Orders requiring intravenous and intramuscular medication for pain and morphine via a portacath are also included for the second admission. Exh. 1 at 67-70.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 36,
+"si": 1,
+"section": "FACTS",
+"text": "These orders were signed by the beneficiary\u2019s treating physician.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 37,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary\u2019s medical services ended on January 6, 2004, when, as noted above, she died as a result of metastatic cancer.",
+"tag": "OTHER",
+"reason": "meta/reference sentence"
+},
+{
+"pi": 39,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant initially believed that Medicaid would pay for the beneficiary\u2019s care. Exh. MAC-1.",
+"tag": "PARTY",
+"reason": "appellant initially believed"
+},
+{
+"pi": 39,
+"si": 1,
+"section": "FACTS",
+"text": "It did not submit Medicare claims until the second half of 2008. Exh. 2 at 1-2.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 39,
+"si": 2,
+"section": "FACTS",
+"text": "The claims were initially denied \u201cbecause the notice mailed to the patient\u2019s representative did not comply with requirements.\u201d Exh. 3 at 21.",
+"tag": "EVAL",
+"reason": "did not comply"
+},
+{
+"pi": 39,
+"si": 3,
+"section": "FACTS",
+"text": "The appellant was held liable under section 1879 of the Act.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 41,
+"si": 0,
+"section": "FACTS",
+"text": "On January 22, 2009, the CMS contractor issued an unfavorable redetermination for the services rendered to the beneficiary during both of her SNF stays. Exh. 3 at 21-23.",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 41,
+"si": 1,
+"section": "FACTS",
+"text": "Relying on the Medicare Claims Processing Manual (Pub. 100-4), Ch. 30, \u00a7\u00a7 130.3-130.4, the contractor found that the \u201cnotice\u201d letter mailed to the beneficiary\u2019s daughter to explain the services in a noncertified bed was invalid. Id.",
+"tag": "LAW",
+"reason": "Claims Processing Manual"
+},
+{
+"pi": 41,
+"si": 2,
+"section": "FACTS",
+"text": "The contractor also held the provider liable for the noncovered costs, and waived the beneficiary\u2019s liability based on Section 1879 of the Social Security Act. Id.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 43,
+"si": 0,
+"section": "FACTS",
+"text": "On June 30, 2009, the Qualified Independent Contractor (QIC) issued an unfavorable reconsideration. Exh. 3 at 3-10.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 43,
+"si": 1,
+"section": "FACTS",
+"text": "The QIC found that the requisite physician certifications were missing from the medical records.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 43,
+"si": 2,
+"section": "FACTS",
+"text": "Therefore, the QIC explained, under the Medicare General Information, Eligibility, and Entitlement Manual (Pub. 100-1), Ch. 4, \u00a7\u00a7 40-40.4.6, the services cannot be covered. Exh. 3 at 4-5.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 43,
+"si": 3,
+"section": "FACTS",
+"text": "Further, the QIC found that in giving the Advance Beneficiary Notice (ABN), appellant did not verify that the addressee met the requirements for a qualified representative, and also that confirmation of delivery of the notice was defective because it was not signed by the recipient, the beneficiary\u2019s daughter. Id. at 5-6.",
+"tag": "LAW",
+"reason": "law statement: requirements for"
+},
+{
+"pi": 43,
+"si": 4,
+"section": "FACTS",
+"text": "Therefore, the notice was defective.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 43,
+"si": 5,
+"section": "FACTS",
+"text": "The QIC concluded that under Section 1879 of the Social Security Act, the beneficiary could not be liable and the provider is liable for the noncovered services. Id. at 6-7.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 45,
+"si": 0,
+"section": "FACTS",
+"text": "On November 24, 2009, the ALJ made an unfavorable decision on the appellant\u2019s claim. Dec. at 1-7.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 45,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ incorrectly stated \u201c[the] Contractor determined that post-hospital extended care services were reasonable and necessary to treat Beneficiary\u2019s condition.\u201d 3 The ALJ also determined that the appellant could not obtain relief under the provisions of Section 1879(e) of the Social Security Act because the appellant\u2019s placement of the beneficiary in a noncertified bed was not \u201cunintentional, inadvertent, or erroneous.\u201d Id. at 5.",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 45,
+"si": 2,
+"section": "FACTS",
+"text": "With respect to the issue of liability, the ALJ found that notice to the beneficiary was invalid, thus waiving the beneficiary\u2019s liability under 1879(b), and concluded that the appellant was liable for the noncovered services. Id. at 6-7.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 47,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant contends that:",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 48,
+"si": 0,
+"section": "MIXED",
+"text": "a) It should have relief from liability under Section 1879(e) of the Social Security Act because the placement in a noncertified bed was made in good faith.",
+"tag": "FRAGMENT",
+"reason": "starts lowercase (page-break artifact)"
+},
+{
+"pi": 49,
+"si": 0,
+"section": "MIXED",
+"text": "b) The beneficiary\u2019s representative received valid notice.",
+"tag": "FRAGMENT",
+"reason": "starts lowercase (page-break artifact)"
+},
+{
+"pi": 50,
+"si": 0,
+"section": "MIXED",
+"text": "c) It was determined that the beneficiary did \u201crequire and receive skilled nursing services,\u201d citing Dec. at 5. 4",
+"tag": "FRAGMENT",
+"reason": "starts lowercase (page-break artifact)"
+},
+{
+"pi": 52,
+"si": 0,
+"section": "LAW",
+"text": "The limitation on liability provisions in sections 1879(a) and (b) of the Act are not applicable here because the claims were not denied under the medically reasonable and necessary or custodial care provisions of sections 1862 (a)(1)(A) or (a)(9) of the Act.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 52,
+"si": 1,
+"section": "LAW",
+"text": "Instead, section 1879(e) applies.",
+"tag": "LAW",
+"reason": "section 1"
+},
+{
+"pi": 52,
+"si": 2,
+"section": "LAW",
+"text": "This section permits waiver of beneficiary or provider liability, stating, in relevant part:",
+"tag": "PROC",
+"reason": "waiver"
+},
+{
+"pi": 53,
+"si": 0,
+"section": "LAW",
+"text": "e) Where payment for inpatient hospital services or extended care services may not be made under part A of this title on behalf of an individual entitled to benefits under such part solely because of an unintentional, inadvertent, or erroneous action with respect to the transfer of such individual from a hospital or skilled nursing facility that meets the requirements of section 1861(e) . . . or on the basis of a clearly erroneous administrative decision by a provider of services, the Secretary shall take such action with respect to the payment of such benefits as he determines may be necessary to correct the effects of such unintentional, inadvertent, or erroneous action.",
+"tag": "FRAGMENT",
+"reason": "starts lowercase (page-break artifact)"
+},
+{
+"pi": 54,
+"si": 0,
+"section": "LAW",
+"text": "Sec. 1879(e); 42 U.S.C. 1395pp.",
+"tag": "LAW",
+"reason": "U.S.C"
+},
+{
+"pi": 55,
+"si": 0,
+"section": "LAW",
+"text": "The MCPM provides guidance on applying this provision in SNF claims.",
+"tag": "LAW",
+"reason": "law statement: guidance"
+},
+{
+"pi": 55,
+"si": 1,
+"section": "LAW",
+"text": "In particular, in chapter 30 (Financial Liability Protections), sections 30, 40, 130.3, and 130.4, outline when liability may be waived for both the beneficiary and provider, as well as the governing criteria.",
+"tag": "PROC",
+"reason": "Liability"
+},
+{
+"pi": 55,
+"si": 2,
+"section": "LAW",
+"text": "Sections 30 and 40 are generally informative insofar as the requirements for knowledge and valid notice where limitation on liability may be applicable, and sections 130.3 and 130.4 address the circumstances raised herein, that is \u201cApplication of Limitation on Liability to SNF and Hospital Claims for Services Furnished in Noncertified or Inappropriately Certified Beds,\u201d and \u201cDetermining Liability for Services Furnished in a Noncertified SNF or Hospital Bed,\u201d respectively.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 56,
+"si": 0,
+"section": "LAW",
+"text": "In summary, liability should be assessed according to a sequential evaluation process:",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 57,
+"si": 0,
+"section": "LAW",
+"text": "Payment for SNF and hospital claims may not be denied solely on the basis of a beneficiary\u2019s placement in a noncertified bed of a participating SNF or hospital.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 57,
+"si": 1,
+"section": "LAW",
+"text": "When requested by the beneficiary or his/her authorized representative, a provider must submit a claim to the FI [fiscal intermediary] for services rendered in a noncertified bed.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 57,
+"si": 2,
+"section": "LAW",
+"text": "When the FI reviews a claim for services rendered in a noncertified bed, it first determines whether the beneficiary consented to the placement.",
+"tag": "PRIOR_DENIAL",
+"reason": "FI"
+},
+{
+"pi": 57,
+"si": 3,
+"section": "LAW",
+"text": "(See subsection C.)",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 57,
+"si": 4,
+"section": "LAW",
+"text": "If the FI finds that the beneficiary consented, it denies the claim.",
+"tag": "PRIOR_DENIAL",
+"reason": "FI"
+},
+{
+"pi": 57,
+"si": 5,
+"section": "LAW",
+"text": "If it finds that the beneficiary did not consent, it determines whether there are any other reasons for denying the claim.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 57,
+"si": 6,
+"section": "LAW",
+"text": "(See subsection D.)",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 57,
+"si": 7,
+"section": "LAW",
+"text": "If there is another reason for denying the claim, the FI denies it.",
+"tag": "PRIOR_DENIAL",
+"reason": "FI"
+},
+{
+"pi": 57,
+"si": 8,
+"section": "LAW",
+"text": "However, if none of the reasons for denial exist, beneficiary liability must be waived as provided under \u00a7 1879(e) of the Act and a further determination must be made as to whether the provider, rather than the Medicare program, must accept liability for the services in question . . ..",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 58,
+"si": 0,
+"section": "LAW",
+"text": "MCPM, Ch. 30, \u00a7 130.3.A (emphasis added).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 59,
+"si": 0,
+"section": "LAW",
+"text": "Finally, the physician certification requirements of Section 1814(a)(2) of the Social Security Act, state, in relevant part:",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 60,
+"si": 0,
+"section": "LAW",
+"text": "Sec. 1814. [42 U.S.C. 1395f] (a) Except as provided in subsections (d) and (g) and in section 1876, payment for services furnished an individual may be made only to providers of services which are eligible therefore under section 1866 and only if\u2014",
+"tag": "LAW",
+"reason": "U.S.C"
+},
+{
+"pi": 61,
+"si": 0,
+"section": "LAW",
+"text": "* * *",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 62,
+"si": 0,
+"section": "LAW",
+"text": "(2) a physician, or, in the case of services described in subparagraph (B), a physician, or a nurse practitioner or clinical nurse specialist who does not have a direct or indirect employment relationship with the facility but is working in collaboration with a physician, certifies (and recertifies, where such services are furnished over a period of time, in such cases, with such frequency, and accompanied by such supporting material, appropriate to the case involved, as may be provided by regulations, except that the first of such recertifications shall be required in each case of inpatient hospital services not later than the 20th day of such period) that\u2014",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 63,
+"si": 0,
+"section": "LAW",
+"text": "* * *",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 64,
+"si": 0,
+"section": "LAW",
+"text": "(B) in the case of post-hospital extended care services, such services are or were required to be given because the individual needs or needed on a daily basis skilled nursing care (provided directly by or requiring the supervision of skilled nursing personnel) or other skilled rehabilitation services, which as a practical matter can only be provided in a skilled nursing facility on an inpatient basis, for any of the conditions with respect to which he was receiving inpatient hospital services; . . ..",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 65,
+"si": 0,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 424.20 implementing this statutory requirement states in relevant part:",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 66,
+"si": 0,
+"section": "LAW",
+"text": "Requirements for posthospital SNF care.",
+"tag": "LAW",
+"reason": "law statement: Requirements for"
+},
+{
+"pi": 67,
+"si": 0,
+"section": "LAW",
+"text": "Medicare Part A pays for posthospital SNF care furnished by an SNF, or a hospital or CAH with a swing-bed approval, only if the certification and recertification for services are consistent with the content of paragraph (a) or (c) of this section, as appropriate. (a) Content of certification--(1) General requirements.",
+"tag": "LAW",
+"reason": "law statement: only if"
+},
+{
+"pi": 67,
+"si": 1,
+"section": "LAW",
+"text": "Posthospital SNF care is or was required because-- (i) The individual needs or needed on a daily basis skilled nursing care (furnished directly by or requiring the supervision of skilled nursing personnel) or other skilled rehabilitation services that, as a practical matter, can only be provided in an SNF or a swing-bed hospital on an inpatient basis, and the SNF care is or was needed for a condition for which the individual received inpatient care in a participating hospital or a qualified hospital, as defined in \u00a7 409.3 of this chapter;",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 68,
+"si": 0,
+"section": "LAW",
+"text": "* * * (b) Timing of certification.--(1) General rule.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 68,
+"si": 1,
+"section": "LAW",
+"text": "The certification must be obtained at the time of admission or as soon thereafter as is reasonable and practicable.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 69,
+"si": 0,
+"section": "LAW",
+"text": "* * * (c) Content of recertifications. (1) The reasons for the continued need for posthospital SNF care; (2) The estimated time the individual will need to remain in the SNF;",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 70,
+"si": 0,
+"section": "LAW",
+"text": "* * * (d) Timing of recertifications. (1) The first recertification is required no later than the 14th day of posthospital SNF care. (2) Subsequent recertifications are required at least every 30 days after the first recertification. (e) Signature.",
+"tag": "LAW",
+"reason": "law statement: is required"
+},
+{
+"pi": 70,
+"si": 1,
+"section": "LAW",
+"text": "Certification and recertification statements may be signed by-- (1) The physician responsible for the case or, with his or her authorization, by a physician on the SNF staff or a physician who is available in case of an emergency and has knowledge of the case; . . ..",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 72,
+"si": 0,
+"section": "MIXED",
+"text": "At issue in this case is the Medicare coverage of services, and liability for payment for services, rendered to a beneficiary placed in a noncertified SNF bed.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 72,
+"si": 1,
+"section": "MIXED",
+"text": "The MCPM provides instructions for determining the instances where liability for noncovered services in noncertified beds shifts between the beneficiary, the provider, and the Medicare Program. See MCPM, Ch. 30, \u00a7\u00a7 130.3 and 130.4.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 73,
+"si": 0,
+"section": "MIXED",
+"text": "In summary, the analysis of a SNF\u2019s request for a limitation of liability for services furnished to a beneficiary in a noncertified bed begins with issue of notice to, and consent by, the beneficiary.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 73,
+"si": 1,
+"section": "MIXED",
+"text": "MCPM, Ch. 30, \u00a7 130.3.A., B., and C. If there is evidence to show that the SNF provided valid notice and received valid consent from the beneficiary for placement in the noncertified bed, liability may rest with the beneficiary.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 73,
+"si": 2,
+"section": "MIXED",
+"text": "Because here the record does not indicate the beneficiary received valid notice or provided valid consent, liability will rest with the provider or the Program.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 74,
+"si": 0,
+"section": "MIXED",
+"text": "After determining whether or not the beneficiary consented, the Manual provision asks if there are other reasons for denial of the claim.",
+"tag": "PRIOR_DENIAL",
+"reason": "denial of"
+},
+{
+"pi": 74,
+"si": 1,
+"section": "MIXED",
+"text": "MCPM, Ch. 30, \u00a7 130.3.D. In this case, Medicare coverage of services would be denied if there is insufficient evidence that the beneficiary required or received skilled-level care, or insufficient documentation of physician certification for skilled care. 5",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 75,
+"si": 0,
+"section": "MIXED",
+"text": "Where the reasons enumerated in section 130.3.D of Chapter 30 for denial of the claim do not exist, then the Council makes a liability determination pursuant to section 130.4.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 75,
+"si": 1,
+"section": "MIXED",
+"text": "Beneficiary liability is examined first, and waived if the beneficiary did not consent to placement in the noncertified bed and there is no other reason for denial. Id. at \u00a7 130.4.A.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 76,
+"si": 0,
+"section": "MIXED",
+"text": "If the beneficiary\u2019s liability is waived and there are no other reasons for denying the claim, liability rests with the Medicare Program unless the provider did not provide timely, written notice to the beneficiary, did not attempt to obtain valid consent from the beneficiary, or did not have a reasonable basis for placement in a noncertified bed. See \u00a7 1879(e) of the Act; see also MCPM, Ch. 30, \u00a7 130.4.B.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 77,
+"si": 0,
+"section": "MIXED",
+"text": "I. Limitation on Liability - Premised on Notice and Consent",
+"tag": "PROC",
+"reason": "Liability"
+},
+{
+"pi": 78,
+"si": 0,
+"section": "MIXED",
+"text": "A. Did the appellant satisfy the notice requirement?",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 79,
+"si": 0,
+"section": "MIXED",
+"text": "When the appellant provider placed the beneficiary in a noncertified bed, it was required to \u201cnotify the patient (or authorized representative) in writing that services in a noncertified or inappropriately certified bed are not covered.\u201d",
+"tag": "EVAL",
+"reason": "not covered"
+},
+{
+"pi": 79,
+"si": 1,
+"section": "MIXED",
+"text": "MCPM, Ch. 30, \u00a7 130.3.B. In particular, such written notice is evaluated under the requirements of the MCPM, chapter 30, section 70 (citing section 40).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 80,
+"si": 0,
+"section": "MIXED",
+"text": "The SNF letter to the beneficiary should explain that the beneficiary is being placed in a noncertified bed, the reason for such placement, that such placement is not covered by Medicare, and that the beneficiary \u201cmay request us to file a claim for Medicare benefits.\u201d",
+"tag": "COUNCIL",
+"reason": "us"
+},
+{
+"pi": 80,
+"si": 1,
+"section": "MIXED",
+"text": "MCPM, Ch. 30, \u00a7 130.3.B. The letter included every component of valid notice required by Section 130.3.B, except that it failed to mention that the beneficiary could ask the SNF to submit the claim to Medicare. Exh. 1 at 109.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 80,
+"si": 2,
+"section": "MIXED",
+"text": "There is no other evidence in the record to suggest that the SNF sent a subsequent, qualifying notice to the beneficiary or her daughter. 6",
+"tag": "GAP",
+"reason": "no other evidence in the record"
+},
+{
+"pi": 81,
+"si": 0,
+"section": "MIXED",
+"text": "In addition, the beneficiary\u2019s daughter was not old enough to serve as the beneficiary\u2019s representative at the time that the September 29, 2003 notice letter was sent and the social worker talked with her about her mother\u2019s placement.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 81,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant\u2019s administrator testified that she was only seventeen at that time.",
+"tag": "PARTY",
+"reason": "appellant\u2019s administrator testified"
+},
+{
+"pi": 81,
+"si": 2,
+"section": "MIXED",
+"text": "ALJ Hearing. See MCPM, Chapter 30, Section 40.3. (adult children may serve as authorized representatives); see also Virginia Revised Code \u00a7 31-37 (defining eighteen as the age of majority).",
+"tag": "LAW",
+"reason": "Chapter 3"
+},
+{
+"pi": 81,
+"si": 3,
+"section": "MIXED",
+"text": "Therefore, the notice is invalid.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 82,
+"si": 0,
+"section": "MIXED",
+"text": "B. Did the beneficiary consent to placement in a noncertified bed?___________________",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 83,
+"si": 0,
+"section": "MIXED",
+"text": "The Manual provides guidance on \u201cDetermining Beneficiary Consent.\u201d",
+"tag": "LAW",
+"reason": "law statement: guidance"
+},
+{
+"pi": 83,
+"si": 1,
+"section": "MIXED",
+"text": "MCPM, Ch. 30, \u00a7 130.3.C. According to the Manual, Medicare \u201cpresumes that the beneficiary did not consent to being placed in a noncertified bed.\u201d Id.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 83,
+"si": 2,
+"section": "MIXED",
+"text": "The provider must demonstrate that it obtained valid consent with a signed ABN. Id.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 83,
+"si": 3,
+"section": "MIXED",
+"text": "This consent form will be analyzed for validity by the fiscal intermediary. Id.",
+"tag": "PRIOR_DENIAL",
+"reason": "fiscal intermediary"
+},
+{
+"pi": 84,
+"si": 0,
+"section": "MIXED",
+"text": "Because the record does not contain a signed ABN (or any other type of consent form or document), the Council finds that the beneficiary or a responsible party did not give valid consent to placement in the noncertified bed.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 84,
+"si": 1,
+"section": "MIXED",
+"text": "Therefore, the beneficiary is not liable for the noncovered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 84,
+"si": 2,
+"section": "MIXED",
+"text": "MCPM, Ch. 30, \u00a7 130.4.A.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 86,
+"si": 0,
+"section": "MIXED",
+"text": "Since the beneficiary is not liable, the Council examines whether a denial of Medicare coverage is appropriate for any of the five reasons enumerated in the MCPM, Chapter 30, Section 130.3.D.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 87,
+"si": 0,
+"section": "MIXED",
+"text": "The Manual provides, in relevant part, that:",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 88,
+"si": 0,
+"section": "MIXED",
+"text": "Denials still are appropriate for any of the following reasons . . .:",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 89,
+"si": 0,
+"section": "MIXED",
+"text": "\uf0b7 The patient did not receive or require otherwise covered hospital services or a covered level of SNF care;",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 90,
+"si": 0,
+"section": "MIXED",
+"text": "\uf0b7 The benefits are exhausted;",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 91,
+"si": 0,
+"section": "MIXED",
+"text": "\uf0b7 The physician\u2019s certification requirement is not met;",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 92,
+"si": 0,
+"section": "MIXED",
+"text": "\uf0b7 There was no qualifying 3-day hospital stay . . .; or",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 93,
+"si": 0,
+"section": "MIXED",
+"text": "\uf0b7 Transfer from the hospital to the SNF was not made on a timely basis . . ..",
+"tag": "PROC",
+"reason": "timely"
+},
+{
+"pi": 94,
+"si": 0,
+"section": "MIXED",
+"text": "MCPM, Ch. 30, \u00a7 130.3.D.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 95,
+"si": 0,
+"section": "MIXED",
+"text": "The two criteria relevant to this case are 1) whether the beneficiary received or required SNF-level care, and 2) the existence of proper physician certifications for such care.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 95,
+"si": 1,
+"section": "MIXED",
+"text": "The other three reasons for denial are not present.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 97,
+"si": 0,
+"section": "MIXED",
+"text": "The criteria provided by the Act in sections 1814(a)(2) and (a)(2)(B) are implemented by regulations at 42 C.F.R. \u00a7 424.20.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 97,
+"si": 1,
+"section": "MIXED",
+"text": "In order for Medicare to cover the services, the beneficiary must have needed and received SNF-level care and the record must include valid physician certifications for each SNF stay.",
+"tag": "LAW",
+"reason": "law statement: In order for"
+},
+{
+"pi": 98,
+"si": 0,
+"section": "MIXED",
+"text": "In this case, the physician ordered \u201cNursing Facility Care,\u201d not \u201cMedicare Skilled care\u201d under the \u201cLevel of Care Required\u201d section on the beneficiary\u2019s initial Medical History and Admission Evaluation form. Exh. 1 at 112.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 98,
+"si": 1,
+"section": "MIXED",
+"text": "This form suggests that the beneficiary did not need daily, skilled care. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 98,
+"si": 2,
+"section": "MIXED",
+"text": "Shortly thereafter, the beneficiary\u2019s physician ordered physical therapy three times per week for four weeks, which does not constitute covered skilled care because it was not daily. Exh. 1 at 5, 16.",
+"tag": "EVAL",
+"reason": "does not constitute"
+},
+{
+"pi": 98,
+"si": 3,
+"section": "MIXED",
+"text": "The restorative nursing program (SRP) for assisted ambulation and transfer is not a skilled level of care, pursuant to 42 C.F.R. \u00a7 409.33(d)(13). Exh. 1 at 53, 57, 59, 77, 86, 88.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 99,
+"si": 0,
+"section": "MIXED",
+"text": "Finally, the Physician\u2019s Telephone Orders and Physician\u2019s Orders, which were followed, include only orders for the administration of oral medications and the Duragesic patch, not medications administered intravenously or by intramuscular injection (as prescribed in December 2003) that fall within SNF- level care. E.g., Exh. 1 at 2-4, 50-61. 7 The corresponding nurse\u2019s notes do not indicate that the beneficiary received any more than the ordered level of care, which was not skilled. Exh. 1 at 25-32.",
+"tag": "GAP",
+"reason": "notes do not indicate"
+},
+{
+"pi": 99,
+"si": 1,
+"section": "MIXED",
+"text": "Therefore, Medicare coverage of the claim for the first stay must be denied because the beneficiary did not receive or require skilled care.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 100,
+"si": 0,
+"section": "MIXED",
+"text": "As to the requirement for physician certification, valid certification must demonstrate, first, that posthospital SNF care was required because the beneficiary \u201cneeds or needed on a daily basis skilled nursing care . . . or other skilled rehabilitation services that, as a practical matter, can only be provided [as an inpatient at a SNF and that SNF-level care is for the same condition the individual received treatment for at the hospital].\u201d 42 C.F.R. \u00a7 424.20(a)(1)(i).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 100,
+"si": 1,
+"section": "MIXED",
+"text": "As explained above, the medical records and other documentation indicate that the physician ordered and certified only an intermediate level of unskilled nursing facility care, and not daily SNF-level care during the first SNF stay.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 101,
+"si": 0,
+"section": "MIXED",
+"text": "Accordingly, the Council concludes that there is no evidence to demonstrate the beneficiary received or required skilled, SNF- level care, and that there is no valid physician certification in the record, for the beneficiary\u2019s stay from September 29, 2003, through November 27, 2003.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 101,
+"si": 1,
+"section": "MIXED",
+"text": "Therefore, as to the first stay, Medicare coverage is denied and liability rests with the provider.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 101,
+"si": 2,
+"section": "MIXED",
+"text": "MCPM, Ch. 30, \u00a7130.3.D.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 103,
+"si": 0,
+"section": "MIXED",
+"text": "As to the beneficiary\u2019s second nursing facility stay, the Council has examined the documentation and medical records to determine if the beneficiary required and received skilled care, and whether valid certification exists (without requiring a discrete, specific physician certification form). See 42 C.F.R. \u00a7\u00a7 424.20, 424.11(b).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 104,
+"si": 0,
+"section": "MIXED",
+"text": "There is evidence in the record to support the contention that the beneficiary required and received SNF-level care during her stay from December 11, 2003 through January 6, 2004.",
+"tag": "EVAL",
+"reason": "support the"
+},
+{
+"pi": 104,
+"si": 1,
+"section": "MIXED",
+"text": "The physician\u2019s orders are signed by her attending and treating physicians in compliance with the requirements of 42 C.F.R. \u00a7 424.20(e)(1). Exh. 1 at 56, 62-71.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 104,
+"si": 2,
+"section": "MIXED",
+"text": "The physician\u2019s orders and notes for the second stay include the regular, daily administration of medications intravenously and by intramuscular injections, as well as other skilled-level procedures. Exh. 1 at 62-71.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 104,
+"si": 3,
+"section": "MIXED",
+"text": "Therefore, the beneficiary required and received skilled care.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 105,
+"si": 0,
+"section": "MIXED",
+"text": "Next, the Council has examined whether the record contains valid certification for the beneficiary\u2019s second stay.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 105,
+"si": 1,
+"section": "MIXED",
+"text": "The Manual highlights that 42 C.F.R. \u00a7 424.20 provides the content requirements for certification and \u00a7 424.11 provides that \u201c[t]he certification and re-certifications statements may be entered on forms, notes, or records that the appropriate individual signs . . ..\u201d See also Medicare Program Integrity Manual (Pub. 100-8), Ch. 6, \u00a7 6.3, \u201cMedical Review of Certification and Recertification of Residents in SNFs.\u201d",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 105,
+"si": 2,
+"section": "MIXED",
+"text": "Because the orders and notes mentioned above contain signatures and descriptions of skilled-level care, the first two requirements for valid certification are met.",
+"tag": "LAW",
+"reason": "law statement: requirements for"
+},
+{
+"pi": 106,
+"si": 0,
+"section": "MIXED",
+"text": "The re-admission physician\u2019s orders and plans are dated and signed from December 11, 2003 through January 6, 2003 for skilled-level services. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 106,
+"si": 1,
+"section": "MIXED",
+"text": "Therefore the requirements that the initial certification be the date of admission, and recertification be within fourteen days of the initial admission are satisfied. See 42 C.F.R. \u00a7 424.20(b)(1) and (d)(1).",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 107,
+"si": 0,
+"section": "MIXED",
+"text": "Given the evidence in the record, the Council finds that the beneficiary required and received SNF-level care during her second nursing facility stay, and that there is valid certification for the second admission and stay.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 107,
+"si": 1,
+"section": "MIXED",
+"text": "Therefore, a denial of coverage for the second stay is not appropriate for any of the five reasons enumerated in Section 130.3.D. of the MCPM (Chapter 30).",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 107,
+"si": 2,
+"section": "MIXED",
+"text": "Next, the Council considers whether liability for the second stay rests with the provider or the Medicare Program. Id.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 108,
+"si": 0,
+"section": "MIXED",
+"text": "III.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 108,
+"si": 1,
+"section": "MIXED",
+"text": "Liability Determination for the Beneficiary\u2019s SNF Stay From December 11, 2003, Through January 6, 2004________",
+"tag": "PROC",
+"reason": "Liability"
+},
+{
+"pi": 109,
+"si": 0,
+"section": "MIXED",
+"text": "Subsection A of Section 130.",
+"tag": "LAW",
+"reason": "Section 1"
+},
+{
+"pi": 109,
+"si": 1,
+"section": "MIXED",
+"text": "(MCPM, Ch. 30) reiterates that if the beneficiary did not consent to placement in the noncertified bed, and no other reason for denial of the claim exists, the beneficiary is found not liable under Section 1879 of the Act.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 109,
+"si": 2,
+"section": "MIXED",
+"text": "Based on the foregoing analysis, the beneficiary is not liable under Section 1879(e) of the Social Security Act.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 110,
+"si": 0,
+"section": "MIXED",
+"text": "Next, the Council determines whether the provider or the Medicare program is to be found liable.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 110,
+"si": 1,
+"section": "MIXED",
+"text": "This depends on whether any of the following three conditions exist.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 110,
+"si": 2,
+"section": "MIXED",
+"text": "The Manual at Chapter 30, subsection 130.4.B. provides guidance for determining liability once the beneficiary\u2019s liability is waived.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 110,
+"si": 3,
+"section": "MIXED",
+"text": "This subsection states:",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 111,
+"si": 0,
+"section": "MIXED",
+"text": "Liability rests with the Medicare program, unless any of the following conditions exist, in which case the provider is liable for the services.",
+"tag": "PROC",
+"reason": "Liability"
+},
+{
+"pi": 112,
+"si": 0,
+"section": "MIXED",
+"text": "-- The provider did not give timely written notice to the beneficiary of the implications of receiving care in a noncertified or inappropriately certified bed as discussed in \u00a7130.3.B;",
+"tag": "PROC",
+"reason": "timely"
+},
+{
+"pi": 113,
+"si": 0,
+"section": "MIXED",
+"text": "-- The provider failed to provide the beneficiary with an appropriate ABN and/or did not attempt to obtain a valid consent statement from the beneficiary.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 113,
+"si": 1,
+"section": "MIXED",
+"text": "(See \u00a7130.3.C.); or",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 114,
+"si": 0,
+"section": "MIXED",
+"text": "-- The FI determined from medical records in its claims files that it is clear that the beneficiary required and received services equivalent to a covered level of SNF care, or that constituted covered hospital services, and the provider had no reasonable basis for placing the beneficiary in a noncertified bed.",
+"tag": "PRIOR_DENIAL",
+"reason": "FI"
+},
+{
+"pi": 114,
+"si": 1,
+"section": "MIXED",
+"text": "[Examples omitted.]",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 115,
+"si": 0,
+"section": "MIXED",
+"text": "MCPM, Ch. 30, \u00a7 130.4.B. (emphasis added).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 116,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant provider is liable under the first two conditions, based on a reasonable reading of the record.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 116,
+"si": 1,
+"section": "MIXED",
+"text": "First, the notice is invalid, for these reasons:",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 117,
+"si": 0,
+"section": "MIXED",
+"text": "a) The appellant made no effort to provide notice or obtain consent about the noncertified bed at the time of the re- admission or during the second stay;",
+"tag": "FRAGMENT",
+"reason": "starts lowercase (page-break artifact)"
+},
+{
+"pi": 118,
+"si": 0,
+"section": "MIXED",
+"text": "b) As explained in the analysis above, the September 29, 2003 letter lacks the element informing the beneficiary that she may ask the SNF to submit the claim to Medicare; and",
+"tag": "FRAGMENT",
+"reason": "starts lowercase (page-break artifact)"
+},
+{
+"pi": 119,
+"si": 0,
+"section": "MIXED",
+"text": "c) As also explained above, the letter was sent to a minor, who was not capable of being a legal representative for the beneficiary.",
+"tag": "FRAGMENT",
+"reason": "starts lowercase (page-break artifact)"
+},
+{
+"pi": 120,
+"si": 0,
+"section": "MIXED",
+"text": "Second, subsection 130.4.B. requires the provider to give the beneficiary a valid ABN \u201cand/or\u201d follow up to obtain a valid consent statement.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 120,
+"si": 1,
+"section": "MIXED",
+"text": "While the initial admission occurred when the beneficiary was seriously ill, and when her daughter was a minor, there is no evidence in the record to suggest that the appellant made any other efforts beyond the initial \u201cNotice of Ineligibility\u201d letter to obtain consent or more fully notify the beneficiary of the implications of placement in a noncertified bed. See Exh. 1 at 109-110. 9",
+"tag": "PROC",
+"reason": "Notice of"
+},
+{
+"pi": 121,
+"si": 0,
+"section": "MIXED",
+"text": "In the request for review, the appellant relies heavily on the conversations between the social worker and the beneficiary and the beneficiary\u2019s daughter. Exh. MAC-1 at 1-2, and 4.",
+"tag": "PROC",
+"reason": "request for review"
+},
+{
+"pi": 121,
+"si": 1,
+"section": "MIXED",
+"text": "However, Medicare specifically requires a writing to constitute valid notice and a valid attempt to obtain consent.",
+"tag": "EVAL",
+"reason": "constitute"
+},
+{
+"pi": 121,
+"si": 2,
+"section": "MIXED",
+"text": "Appellant introduces no evidence that it attempted to gain written consent from the beneficiary or her daughter during any of these conversations or the daughter\u2019s visits to the facility, beyond the initial mailed ABN and \u201cNotice of Ineligibility,\u201d which was never returned --\u2013 signed or unsigned. Exh. 1 at 109-110.",
+"tag": "PROC",
+"reason": "Notice of"
+},
+{
+"pi": 122,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant also did not obtain valid consent from the daughter at any point during the beneficiary\u2019s second stay.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 122,
+"si": 1,
+"section": "MIXED",
+"text": "Although it appears that the beneficiary and her daughter requested placement in the same, noncertified bed upon re- admission, and it appears there was some reliance on and belief by the beneficiary, her daughter, and the SNF about a pending Medicaid application, the lack of documentation regarding any further attempt by the appellant to gain the beneficiary\u2019s consent means that under the second provision of Section 130.4.B (MCPM), liability shifts to the provider from Medicare.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 122,
+"si": 2,
+"section": "MIXED",
+"text": "The appellant\u2019s mistaken belief that Medicaid would pay for the admission does not make Medicare liable for non-covered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 123,
+"si": 0,
+"section": "MIXED",
+"text": "The Council finds that the mailing of one notice at the initial admission, when the daughter was a minor, and the failure to attempt to obtain valid consent with valid notice at the second admission, waives Medicare\u2019s liability.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 123,
+"si": 1,
+"section": "MIXED",
+"text": "MCPM, Ch. 30, \u00a7 130.4.B. Because two of the conditions for provider liability specified in \u00a7 130.4.B. exist (failure to provide valid written notice and failure to obtain valid consent), the provider, not Medicare, is liable for the noncovered services during the second stay, under Section 1879.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 124,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant contends that the third condition does not exist because it had a good-faith, reasonable basis for placing the beneficiary in a noncertified bed.",
+"tag": "PARTY",
+"reason": "appellant contends"
+},
+{
+"pi": 124,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant contends that it wanted to place the beneficiary in a certified bed, however, it did not have one available. Exh. MAC-1 at 1.",
+"tag": "PARTY",
+"reason": "appellant contends"
+},
+{
+"pi": 124,
+"si": 2,
+"section": "MIXED",
+"text": "Further, the beneficiary\u2019s doctor did not practice at another SNF in that geographical area, and determined that it would be unreasonable for the beneficiary to change oncologists at this stage in her illness. Exh. MAC-1 at 3.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 124,
+"si": 3,
+"section": "MIXED",
+"text": "Whether or not this is a reasonable basis for the beneficiary\u2019s placement in a noncertified bed is moot, given that the appellant is otherwise liable.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 126,
+"si": 0,
+"section": "TERMINAL",
+"text": "The Medicare Appeals Council concurs with the ALJ\u2019s decision that the SNF services at issue were not covered, that the beneficiary is not liable for the noncovered charges, and that the appellant provider is liable.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 126,
+"si": 1,
+"section": "TERMINAL",
+"text": "However, the Council modifies the ALJ\u2019s decision by altering the reasons in support of the decision as explained above and summarized below.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 127,
+"si": 0,
+"section": "TERMINAL",
+"text": "It is the decision of the Medicare Appeals Council that the SNF services at issue were provided in a noncertified bed without the valid consent of the beneficiary.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 127,
+"si": 1,
+"section": "TERMINAL",
+"text": "Therefore, the beneficiary\u2019s liability is waived under Section 1879(e) of the Social Security Act.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 127,
+"si": 2,
+"section": "TERMINAL",
+"text": "The Council concurs with the ALJ\u2019s decision that notice to the beneficiary\u2019s daughter was defective under the statutory requirements, and that the provider failed to gain the consent of the beneficiary.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 128,
+"si": 0,
+"section": "TERMINAL",
+"text": "The appellant correctly points out that the beneficiary required and received skilled care; however, the Council finds that this only applies to the period from December 11, 2003 through January 6, 2004.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 128,
+"si": 1,
+"section": "TERMINAL",
+"text": "Therefore, Medicare coverage for the period from September 29 through November 27, 2003 is denied because the beneficiary did not receive skilled care and her physician did not certify her need for a skilled level of care.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 128,
+"si": 2,
+"section": "TERMINAL",
+"text": "Accordingly, for those dates of services (her first stay) liability rests with the provider.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 129,
+"si": 0,
+"section": "TERMINAL",
+"text": "During the second stay, from December 11, 2003, through January 6, 2004, the beneficiary received skilled care and her physician certified her need for skilled-level care.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 129,
+"si": 1,
+"section": "TERMINAL",
+"text": "However, the Council finds that the appellant cannot obtain relief from liability under Section 1879(e) of the Act because the appellant failed to provide the beneficiary with valid notice, and failed to demonstrate any attempt to obtain valid consent from the beneficiary for the second stay.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 129,
+"si": 2,
+"section": "TERMINAL",
+"text": "Therefore, the appellant, not Medicare, is liable for the noncovered charges for the second nursing facility stay.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

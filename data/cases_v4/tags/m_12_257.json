@@ -1,0 +1,597 @@
+{
+"case_id": "m_12_257",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated September 26, 2011, which concerned home health services provided to the beneficiary from May 20, 2010, through July 18, 2010.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ denied coverage after finding the record lacked evidence and did not substantiate \u201cthe beneficiary\u2019s homebound condition.\u201d",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ further determined that the appellant was liable for the non-covered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council (Council) to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 0,
+"si": 4,
+"section": "INTRO",
+"text": "The Council enters the appellant\u2019s request for review into the record as exhibit (Exh.) MAC-1.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "For the reasons set forth below, the Council reverses the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "Medicare coverage is available for the services at issue.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "FACTS",
+"text": "Initially and upon redetermination, the Medicare contractor denied coverage for home health services provided to the beneficiary from May 20, 2010, through July 18, 2010. Exh. 1 at 16-18.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "FACTS",
+"text": "The contractor found the provider liable for the non- covered charges. Id.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "FACTS",
+"text": "The appellant requested reconsideration by a Qualified Independent Contractor (QIC). Id. at 13-15.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 4,
+"si": 3,
+"section": "FACTS",
+"text": "The QIC issued an unfavorable reconsideration and also found the provider liable for the costs of the non-covered charges. Exh. Id. at 5-6.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 4,
+"si": 4,
+"section": "FACTS",
+"text": "The appellant timely requested a hearing before an ALJ. Id. at 1-4.",
+"tag": "PROC",
+"reason": "timely"
+},
+{
+"pi": 4,
+"si": 5,
+"section": "FACTS",
+"text": "Subsequent to the hearing, held on July 26, 2011, the ALJ issued a decision denying coverage.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 4,
+"si": 6,
+"section": "FACTS",
+"text": "ALJ Decision (Dec.).",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 4,
+"si": 7,
+"section": "FACTS",
+"text": "Specifically, the ALJ found \u201cthere are no progress notes or additional medical records substantiating the beneficiary\u2019s home bound condition\u201d. Id. at 9.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 4,
+"si": 8,
+"section": "FACTS",
+"text": "The appellant contests the ALJ decision to the Council.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "MIXED",
+"text": "Having reviewed the administrative record and considered the appellant\u2019s contentions, the Council reverses the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "MIXED",
+"text": "The Council disagrees with the ALJ\u2019s assessment of the evidence on the issue of the beneficiary\u2019s homebound status.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "MIXED",
+"text": "The Council also finds that the services provided during the dates of service were skilled in nature.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "MIXED",
+"text": "The beneficiary began receiving home health services on September 22, 2009. Exh. 2 at 6.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 8,
+"si": 1,
+"section": "MIXED",
+"text": "The dates of service at issue are for the re-certification period of May 20, 2010, through July 18, 2010. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 8,
+"si": 2,
+"section": "MIXED",
+"text": "The beneficiary had a primary diagnosis of diabetes mellitus. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 8,
+"si": 3,
+"section": "MIXED",
+"text": "Secondary diagnoses included history of stroke, high blood cholesterol and hypertension. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "MIXED",
+"text": "Contrary to the ALJ decision, the Council finds the record supports the conclusion that the beneficiary was homebound during the dates of service at issue.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "MIXED",
+"text": "One condition for coverage of home health services is that the beneficiary must be \u201cconfined to the home or in an institution that is not a hospital, SNF or nursing home . . . .\u201d 42 C.F.R. \u00a7 409.42(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 10,
+"si": 2,
+"section": "MIXED",
+"text": "Section 1814(a) of the Social Security Act (Act) provides as follows:",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "MIXED",
+"text": "[A]n individual shall be considered to be \u201cconfined to his home\u201d if the individual has a condition, due to an illness or injury, that restricts the ability of the individual to leave his or her home except with the assistance of another individual or the aid of a supportive device (such as crutches, a cane, a wheelchair, or a walker), or if the individual has a condition such that leaving his or her home is medically contraindicated.",
+"tag": "LAW",
+"reason": "law statement: shall"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "MIXED",
+"text": "While an individual does not have to be bedridden to be considered \u201cconfined to his home,\u201d the condition of the individual should be such that there exists a normal inability to leave home and that leaving home requires a considerable and taxing effort by the individual.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "MIXED",
+"text": "See also Section 1835(a) of the Act; Medicare Benefit Policy Manual (MBPM), CMS Pub. 100-02, Ch. 7, \u00a7 30.1.1.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "MIXED",
+"text": "In this case, the treating physician noted the beneficiary\u2019s homebound status in the home health plan of care re- certification for the dates of service at issue. Exh. 2 at 6-7.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 1,
+"section": "MIXED",
+"text": "The re-certification further noted that the beneficiary was unable to leave the home without taxing efforts. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 2,
+"section": "MIXED",
+"text": "Additionally, the re-certification documented the beneficiary had functional limitations which included poor vision, poor manual dexterity, unstable and weak gait, poor hearing, impaired tactile sensation, dyspnea with moderate exertion, left side paralysis and limited range of motion, and incontinence. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 3,
+"section": "MIXED",
+"text": "The re-certification also noted the beneficiary received assistance daily from an attendant. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 4,
+"section": "MIXED",
+"text": "Moreover, the record demonstrated that the beneficiary required the use of an assistive device, namely, a cane or walker, to leave the home. Id.",
+"tag": "EVAL",
+"reason": "demonstrated"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "MIXED",
+"text": "In the case at hand, absences from the home, though infrequent, included adult day care and doctor visits. Id. at 7.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "MIXED",
+"text": "Policy guidance published by CMS explains how homebound status is affected by absences from the home:",
+"tag": "LAW",
+"reason": "law statement: guidance"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "MIXED",
+"text": "If the patient does in fact leave the home, the patient may nevertheless be considered homebound if the absences from the home are infrequent or for periods of relatively short duration, or are attributable to the need to receive health care treatment.",
+"tag": "EVAL",
+"reason": "If"
+},
+{
+"pi": 15,
+"si": 1,
+"section": "MIXED",
+"text": "MBPM, Ch. 7, \u00a7 30.1.1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "MIXED",
+"text": "In accordance with the guidance quoted above, neither attendance at adult day care nor going to doctor\u2019s appointments disqualifies a beneficiary from being considered homebound.",
+"tag": "LAW",
+"reason": "law statement: guidance"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "MIXED",
+"text": "Contrary to the ALJ\u2019s assessment of the documentation contained in the record, the record indeed contains six separate skilled nursing assessment notes from the dates of service at issue which document the beneficiary\u2019s functional abilities, respiratory issues and dependence on assistance devices. Exh. 2 at 19, 22, 27, 29, 32, 34.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 17,
+"si": 1,
+"section": "MIXED",
+"text": "On the assessments, the nurse indicated the beneficiary experienced moderate shortness of breath on exertion, had poor manual dexterity, and was ambulatory only with assistive devices. Id.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "MIXED",
+"text": "All of the above considerations, taken together, sufficiently support a conclusion that the beneficiary was homebound during the period at issue.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "In addition to being homebound, Medicare requires that covered home health services must include \u201cskilled services\u201d in the form of intermittent skilled nursing services, physical therapy services, speech-language pathology services, or occupational therapy services.",
+"tag": "LAW",
+"reason": "law statement: Medicare requires"
+},
+{
+"pi": 20,
+"si": 1,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.42(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 20,
+"si": 2,
+"section": "MIXED",
+"text": "To qualify for Medicare coverage, the intermittent skilled nursing services provided must meet the criteria and need for skilled services found in 42 C.F.R. \u00a7 409.32.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 20,
+"si": 3,
+"section": "MIXED",
+"text": "Observation and assessment constitutes skilled services when the skills of a technical or professional person are required to identify and evaluate the patient\u2019s need for modification of treatment or for additional medical procedures until the patient\u2019s condition is stabilized.",
+"tag": "LAW",
+"reason": "law statement: are required"
+},
+{
+"pi": 20,
+"si": 4,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.33(a)(2).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 20,
+"si": 5,
+"section": "MIXED",
+"text": "Patient education services constitute skilled services when the skills of a professional are required to teach self-maintenance.",
+"tag": "LAW",
+"reason": "law statement: are required"
+},
+{
+"pi": 20,
+"si": 6,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.33(a)(3).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "MIXED",
+"text": "After considering the appellant\u2019s contentions, the Council finds the services provided were skilled in nature and also reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 21,
+"si": 1,
+"section": "MIXED",
+"text": "The MBPM, Ch. 7, \u00a7 40.1.2.1 provides:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "MIXED",
+"text": "Observation and assessment of the patient's condition by a nurse are reasonable and necessary skilled services where the likelihood of change in a patient\u2019s condition requires skilled nursing personnel to identify and evaluate the patient's need for possible modification of treatment or initiation of additional medical procedures until the patient's treatment regimen is essentially stabilized.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 22,
+"si": 1,
+"section": "MIXED",
+"text": "Where a patient was admitted to home health care for skilled observation because there was a reasonable potential of a complication or further acute episode, but did not develop a further acute episode or complication, the skilled observation services are still covered for three weeks or so long as there remains a reasonable potential for such a complication or further acute episode.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 23,
+"si": 0,
+"section": "MIXED",
+"text": "Information from the patient's medical history may support the likelihood of a future complication or acute episode and, therefore, may justify the need for continued skilled observation and assessment beyond the 3-week period.",
+"tag": "EVAL",
+"reason": "support the"
+},
+{
+"pi": 23,
+"si": 1,
+"section": "MIXED",
+"text": "Moreover, such indications as abnormal/fluctuating vital signs, weight changes, edema, symptoms of drug toxicity, abnormal/fluctuating lab values, and respiratory changes on auscultation may justify skilled observation and assessment.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 23,
+"si": 2,
+"section": "MIXED",
+"text": "Where these indications are such that it is likely that skilled observation and assessment by a licensed nurse will result in changes to the treatment of the patient, then the services would be covered.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 23,
+"si": 3,
+"section": "MIXED",
+"text": "There are cases where patients who are stable continue to require skilled observation and assessment...",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "MIXED",
+"text": "However, observation and assessment by a nurse is not reasonable and necessary to the treatment of the illness or injury where these indications are part of a longstanding pattern of the patient's condition and there is no attempt to change the treatment to resolve them.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "MIXED",
+"text": "In the instant case, the beneficiary\u2019s physician ordered home health services for skilled assessment and observation, as well as teaching and instruction. Exh. 2 at 6-7.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 25,
+"si": 1,
+"section": "MIXED",
+"text": "The record indicates that immediately prior to the dates of service the beneficiary\u2019s condition necessitated medication changes: Trilipix (for cholesterol) and Actos (to stabilize blood sugar) due to unstable blood sugars, ranging from 88-303. Id. at 41- 42.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 25,
+"si": 2,
+"section": "MIXED",
+"text": "Therefore, the skilled services were ordered to monitor the beneficiary\u2019s blood sugar and blood pressure for complications with medication changes.",
+"tag": "COUNCIL",
+"reason": "ordered to"
+},
+{
+"pi": 25,
+"si": 3,
+"section": "MIXED",
+"text": "Reference Hearing CD at 11:19:29- 11:45.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 25,
+"si": 4,
+"section": "MIXED",
+"text": "Additionally, the doctor ordered teaching and instruction by the skilled nurse so the beneficiary could learn to manage the new medication regime, form an understanding of long term diabetic complications, and for the implementation of an 1800 calorie diet. Exh. 2 at 6-7; reference hearing CD at 11:21:21-11:21:36.",
+"tag": "COUNCIL_REC",
+"reason": "record-report sentence inside Council paragraph"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "MIXED",
+"text": "The Council notes that for a service to be considered reasonable and necessary, the service must be consistent with the nature and severity of the beneficiary\u2019s condition, his or her medical needs, and accepted standards of medical and nursing practice. See 42 C.F.R. \u00a7 409.44(b)(3).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 26,
+"si": 1,
+"section": "MIXED",
+"text": "The Council is persuaded by the appellant\u2019s argument that the skilled monitoring was appropriate due to the beneficiary\u2019s diabetes, history of stroke, unstable blood sugars, and hypertension.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 26,
+"si": 2,
+"section": "MIXED",
+"text": "As noted by the appellant, the Trilipix dosage had the potential to affect the beneficiary\u2019s blood sugar, which would have required adjustments to the dosage and necessitated monitoring of any potential affects to the beneficiary.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "MIXED",
+"text": "Additionally, policy guidance published by CMS provides that \u201cteaching the preparation and maintenance of a therapeutic diet require the skills of a license nurse. See MBPM, Ch. 7, \u00a7 40.1.2.3.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 27,
+"si": 1,
+"section": "MIXED",
+"text": "Therefore, the Council finds the orders for teachings were appropriate so that the beneficiary could eventually manage her diabetic diet and medication changes without nurse supervision, but more importantly be able to look out for irregularities and report any complications to the doctor. 3",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "TERMINAL",
+"text": "Based on the foregoing reasons and bases, the Council reverses the ALJ\u2019s decision.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 29,
+"si": 1,
+"section": "TERMINAL",
+"text": "The home health services provided from May 20, 2010, through July 18, 2010, are covered by Medicare, and reimbursement shall be made in accordance with this decision.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

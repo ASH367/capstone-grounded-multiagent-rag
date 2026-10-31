@@ -1,0 +1,452 @@
+{
+ "rules_sha": "9149675f9bd0817a",
+ "THIN_WORDS": 100,
+ "MIN_VALID": 2,
+ "cases": {
+  "11-1343": {
+   "facts_words": 2037,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ],
+   "valid_findings_multi": 12,
+   "valid_findings_single": 4,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "11-1546": {
+   "facts_words": 211,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 9,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "baptist_health_care": {
+   "facts_words": 598,
+   "specialist_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ],
+   "valid_findings_multi": 6,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "conn_dept_social_services": {
+   "facts_words": 49,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 6,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN",
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "THIN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "connecticut11": {
+   "facts_words": 544,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "DOES_NOT_SUPPORT",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 9,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "DISAGREE"
+    ],
+    "self_unknown": false,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "gr": {
+   "facts_words": 441,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 15,
+   "valid_findings_single": 5,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "m-10-1884": {
+   "facts_words": 169,
+   "specialist_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 8,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "m-11-1869": {
+   "facts_words": 519,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ],
+   "valid_findings_multi": 11,
+   "valid_findings_single": 4,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "m-11-1967": {
+   "facts_words": 561,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ],
+   "valid_findings_multi": 11,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "m-12-1140": {
+   "facts_words": 162,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 7,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": false,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "m_10_1771": {
+   "facts_words": 659,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ],
+   "valid_findings_multi": 9,
+   "valid_findings_single": 2,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "nj_dept_humanservices22": {
+   "facts_words": 1441,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ],
+   "valid_findings_multi": 13,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "nj_dhs_commiss_case": {
+   "facts_words": 280,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 7,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "ny": {
+   "facts_words": 650,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "DOES_NOT_SUPPORT",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 11,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "PARTLY_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "PARTLY_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "roman_eagle_memorial_home": {
+   "facts_words": 1833,
+   "specialist_verdicts": [
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT",
+    "DOES_NOT_SUPPORT"
+   ],
+   "valid_findings_multi": 10,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "PARTLY_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "PARTLY_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "stfrances_memorial": {
+   "facts_words": 334,
+   "specialist_verdicts": [
+    "UNKNOWN",
+    "UNKNOWN",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 6,
+   "valid_findings_single": 1,
+   "multi": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "ALL_UNKNOWN"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   },
+   "single": {
+    "answer": "NOT_COVERED",
+    "flag": true,
+    "triggers": [
+     "UNGROUNDED"
+    ],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  },
+  "twin_maples_health_care_case": {
+   "facts_words": 1389,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE"
+   ],
+   "valid_findings_multi": 11,
+   "valid_findings_single": 4,
+   "multi": {
+    "answer": "PARTLY_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "PARTLY_COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   }
+  },
+  "valley_presbyterian": {
+   "facts_words": 904,
+   "specialist_verdicts": [
+    "SUPPORTS_COVERAGE",
+    "SUPPORTS_COVERAGE",
+    "UNKNOWN"
+   ],
+   "valid_findings_multi": 13,
+   "valid_findings_single": 3,
+   "multi": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": false,
+    "flag_self": false
+   },
+   "single": {
+    "answer": "COVERED",
+    "flag": false,
+    "triggers": [],
+    "self_unknown": true,
+    "flag_self": true
+   }
+  }
+ }
+}

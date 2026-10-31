@@ -1,0 +1,285 @@
+{
+ "_note": "Issue tags and COVERAGE-ONLY labels assigned 2026-10-30 from each decision's operative text and the Council's own statements of what was contested. Assigned before inspecting per-case system predictions in this session (aggregate Sonnet accuracy was already known). include_primary=0 means the Council ruling does not turn on a coverage criterion that patient facts could settle (liability only, procedural, or necessity adopted without discussion). Primary analysis uses include_primary=1 and coverage_label; the original reference_outcome remains as a secondary analysis.",
+ "cases": {
+  "12-1251": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Ambulance: other transport contraindicated; chest pain treated/monitored"
+  },
+  "altabates": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "IRF necessity; ALJ did not explain why intensity/complications did not show need"
+  },
+  "case_excellenthomecare": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 1,
+   "why": "Record did not show skilled nursing need (documentation)"
+  },
+  "case_landmark": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Skilled observation/teaching; 3-week observation provision"
+  },
+  "dc_case": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 1,
+   "why": "Stable, no treatment; other transport not contraindicated"
+  },
+  "eagle_air_med": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "PARTLY_COVERED",
+   "include_primary": 1,
+   "why": "Covered at ground rate to nearest capable facility; extra miles not covered"
+  },
+  "estate_gbr": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Capability of first hospital (neurosurgical critical care) vs second"
+  },
+  "gold_cross_ambulance": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Not bed-confined but pacemaker surgery and cardiac monitoring"
+  },
+  "kaweah_rehabilitationhospital": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "IRF reasonable and necessary; ALJ reasons legally irrelevant"
+  },
+  "m-11-1559": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Inpatient vs observation, then SNF skilled care and certification"
+  },
+  "m-11-2450": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 1,
+   "why": "Destination requirement: clinic not hospital/CAH/SNF"
+  },
+  "m_12_257": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Homebound plus skilled observation, assessment, teaching"
+  },
+  "m_12_809": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 1,
+   "why": "Inpatient admission not necessary after cath/stent; outpatient payable"
+  },
+  "midwest_lifeteam": {
+   "set": "dev",
+   "issue_type": "MERITS_PLUS_LIABILITY",
+   "coverage_label": "PARTLY_COVERED",
+   "include_primary": 1,
+   "why": "133 miles covered, 70 beyond nearest appropriate facility not covered; liability separate"
+  },
+  "nj_dept_humanservices5": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Speech therapy: measurable gains, expectation of improvement"
+  },
+  "prestige_homecare": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 1,
+   "why": "Stable chronic conditions; skilled observation not reasonable and necessary"
+  },
+  "rb_obo_jb": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 1,
+   "why": "Not homebound (adult day care 4 days/week; no physician homebound statement)"
+  },
+  "rx_homecare": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 1,
+   "why": "Mediplanner filling not skilled; no skilled observation need"
+  },
+  "sacredheart_hospital": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Acute inpatient care needed after ventral hernia repair"
+  },
+  "state_of_vt": {
+   "set": "dev",
+   "issue_type": "MERITS_PLUS_LIABILITY",
+   "coverage_label": "PARTLY_COVERED",
+   "include_primary": 1,
+   "why": "Three wound-care episodes covered; others not skilled; liability by ABN"
+  },
+  "uphams_homehealthcare": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 1,
+   "why": "Controlled diabetes and family support; visits not reasonable and necessary"
+  },
+  "visitingnursing": {
+   "set": "dev",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Functional decline; skilled gait training; OASIS not sole basis"
+  },
+  "11-1343": {
+   "set": "held",
+   "issue_type": "MERITS",
+   "coverage_label": "PARTLY_COVERED",
+   "include_primary": 1,
+   "why": "Per-beneficiary therapy/nursing necessity: only some services covered"
+  },
+  "11-1546": {
+   "set": "held",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Qualifying 3-day stay existed; daily skilled nursing"
+  },
+  "baptist_health_care": {
+   "set": "held",
+   "issue_type": "LIABILITY_ONLY",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 0,
+   "why": "Appellant contested only liability; Council adopted non-coverage without discussion"
+  },
+  "conn_dept_social_services": {
+   "set": "held",
+   "issue_type": "PROCEDURAL",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 0,
+   "why": "Adopted ALJ: no specific exceptions, late brief not considered"
+  },
+  "connecticut11": {
+   "set": "held",
+   "issue_type": "LIABILITY_ONLY",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 0,
+   "why": "Appellant contested only liability; non-coverage adopted without discussion"
+  },
+  "gr": {
+   "set": "held",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Homebound status: assistance, power wheelchair, taxing effort"
+  },
+  "m-10-1884": {
+   "set": "held",
+   "issue_type": "MERITS_PLUS_LIABILITY",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 1,
+   "why": "SNF stay not covered: hospice election (and custodial care); liability reversed"
+  },
+  "m-11-1869": {
+   "set": "held",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Skilled observation/assessment of changing diabetic condition"
+  },
+  "m-11-1967": {
+   "set": "held",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Daily skilled observation and assessment; hematuria"
+  },
+  "m-12-1140": {
+   "set": "held",
+   "issue_type": "MERITS",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 1,
+   "why": "No skilled need after Oct 5, 2011"
+  },
+  "m_10_1771": {
+   "set": "held",
+   "issue_type": "MERITS",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 1,
+   "why": "Therapy not documented skilled/necessary; custodial nursing"
+  },
+  "nj_dept_humanservices22": {
+   "set": "held",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Skilled nursing, PT and aide services reasonable and necessary"
+  },
+  "nj_dhs_commiss_case": {
+   "set": "held",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "Wound care, observation/assessment, care plan management"
+  },
+  "ny": {
+   "set": "held",
+   "issue_type": "PROCEDURAL",
+   "coverage_label": null,
+   "include_primary": 0,
+   "why": "Dismissed/vacated and remanded; no coverage determination"
+  },
+  "roman_eagle_memorial_home": {
+   "set": "held",
+   "issue_type": "MERITS_PLUS_LIABILITY",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 1,
+   "why": "First stay no skilled care/certification; second stay noncertified bed"
+  },
+  "stfrances_memorial": {
+   "set": "held",
+   "issue_type": "ADOPTED_NO_RECORD_DISCUSSED",
+   "coverage_label": "NOT_COVERED",
+   "include_primary": 0,
+   "why": "Necessity findings adopted from ALJ without discussion; Council text covers reopening, no-fault, waiver"
+  },
+  "twin_maples_health_care_case": {
+   "set": "held",
+   "issue_type": "MERITS",
+   "coverage_label": "PARTLY_COVERED",
+   "include_primary": 1,
+   "why": "Skilled nursing covered Aug 1-11; later dates not skilled"
+  },
+  "valley_presbyterian": {
+   "set": "held",
+   "issue_type": "MERITS",
+   "coverage_label": "COVERED",
+   "include_primary": 1,
+   "why": "IRF reasonable and necessary under 1862(a)(1)"
+  }
+ }
+}

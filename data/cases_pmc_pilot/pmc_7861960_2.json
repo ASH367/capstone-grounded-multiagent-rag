@@ -1,0 +1,29 @@
+{
+ "case_id": "pmc_7861960_2",
+ "domain": "snf",
+ "service_at_issue": "Transfer to a skilled nursing facility after a hospital stay (published case report; hypothetical Medicare review)",
+ "facts": [
+  "A 73-year-old man with multiple medical comorbidities including multiple myeloma after chemotherapy, diabetes, and coronary artery disease presented for the treatment of a comminuted right periprosthetic supracondylar distal femur fracture after sustaining a mechanical ground level fall (Figure ).",
+  "Before this injury, he was able to ambulate two blocks without difficulty but did use a stair lift at home secondary to chronic left lower extremity weakness, which he attributed to his previous multiple myeloma treatment.",
+  "He was medically optimized and taken to the operating room the following day for open reduction and internal fixation (Figure ).",
+  "After achieving adequate reduction of the fracture through indirect reduction techniques, a limited lateral approach to the distal femur was performed and the proximal end of a titanium alloy NCB Periprosthetic Plate (Zimmer Biomet) was placed submuscularly.",
+  "Three titanium alloy 5.0 mm standard screws were placed in a percutaneous manner proximal to the fracture and multiple titanium alloy 5.0 mm locked screws were placed in the distal segment.",
+  "Postoperatively, he was placed in a knee immobilizer to be worn at all times for 3 weeks, at which time the range of motion exercises were initiated.",
+  "He was limited to toe-touch weight bearing for 8 weeks.",
+  "Before discharge, he was evaluated by our endocrinology team who obtained laboratory test results including comprehensive metabolic panel, vitamin D 25 hydroxy, and inorganic phosphate.",
+  "Several of these laboratory values were found to be abnormal, and he was ultimately started on calcium and vitamin D supplements.\\nThe patient was discharged to a skilled nursing facility on postoperative day 5.",
+  "At his 8-week postoperative appointment, new radiographs were obtained (Figure ).",
+  "Adequate callous formation was noted, and no concerns for complications were noted.",
+  "At that time, he did have notable quadriceps atrophy but denied pain with passive or active range of motion.",
+  "He was advanced to weight bearing as tolerated and given home quadriceps strengthening exercises.\\nAt his 14-week postoperative appointment, it was noted that the patient had not been compliant with his home strengthening exercises, and he reported 75% weight bearing with continued use of a walker for all ambulation.",
+  "He endorsed stiffness in his right knee and intermittent mild pain described as muscle soreness in his distal thigh.",
+  "Radiographs were obtained, which demonstrated slight varus malalignment of the fracture and fretting of the distal-most screw placed proximal to the fracture site (Figure ).",
+  "He was referred to physical therapy but was unfortunately lost to further follow-up."
+ ],
+ "reference_outcome": "unknown",
+ "outcome_note": "",
+ "cited_sections": [],
+ "other_cites": [],
+ "scope": "included",
+ "source": "PMC-Patients (CC BY-NC-SA 4.0), PMID 33543880"
+}

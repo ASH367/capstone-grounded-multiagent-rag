@@ -1,0 +1,235 @@
+[
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The services must be considered under accepted standards of medical practice to be specific and effective treatment for the patient\u2019s condition",
+    "passage_id": 638,
+    "quote": "specific and effective treatment",
+    "case_fact": "D.E. had a prior hospital stay for a diagnosis of congestive heart failure"
+   },
+   {
+    "claim": "The services must be reasonable and necessary for the treatment of the patient\u2019s condition",
+    "passage_id": 638,
+    "quote": "reasonable and necessary",
+    "case_fact": "the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination"
+   },
+   {
+    "claim": "Skilled observation is needed to determine whether the digitalis dosage should be reviewed or whether other therapeutic measures should be considered",
+    "passage_id": 626,
+    "quote": "Skilled observation is needed",
+    "case_fact": "the beneficiary was noted to have \u2018some obvious \u2018cognitive deficits,\u2019 but no official diagnosis of dementia\u2019"
+   }
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "11-1546"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "connecticut11"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "error": "Expecting ',' delimiter: line 1 column 639 (char 638)",
+  "case_id": "gr"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "m-10-1884"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The service is a type of care that the policy covers",
+    "passage_id": 268,
+    "quote": "monitoring once per month",
+    "case_fact": "The beneficiary\u2019s principal diagnosis is diabetes"
+   },
+   {
+    "claim": "The basic eligibility conditions appear satisfied",
+    "passage_id": 268,
+    "quote": "dosage is being adjusted",
+    "case_fact": "the beneficiary\u2019s insulin dosage was adjusted numerous times"
+   }
+  ],
+  "case_id": "m-11-1869"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The beneficiary had a qualifying hospital stay of at least 3 consecutive calendar days.",
+    "passage_id": 572,
+    "quote": "3 consecutive calendar day stay",
+    "case_fact": "hospitalization from February 12 to February 17, 2010"
+   },
+   {
+    "claim": "The beneficiary was transferred to a SNF within 30 days after discharge from the hospital.",
+    "passage_id": 579,
+    "quote": "within 30 days after discharge",
+    "case_fact": "discharge from the hospital on February 17"
+   },
+   {
+    "claim": "The beneficiary requires SNF care for a condition that was treated during the qualifying hospital stay.",
+    "passage_id": 563,
+    "quote": "require SNF care for a condition",
+    "case_fact": "diagnosed with hematuria secondary to prostate enlargement"
+   }
+  ],
+  "case_id": "m-11-1967"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The service is a type of care that the policy covers",
+    "passage_id": 669,
+    "quote": "Physical therapy (PT), speech-language pathology (SLP), and occupational therapy (OT) services",
+    "case_fact": "the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services"
+   },
+   {
+    "claim": "The beneficiary meets the basic eligibility conditions",
+    "passage_id": 579,
+    "quote": "post-hospital extended care services",
+    "case_fact": "the 87 year old beneficiary was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011"
+   },
+   {
+    "claim": "The beneficiary was admitted to the SNF within the required time frame",
+    "passage_id": 579,
+    "quote": "initiated within 30 days after discharge from a hospital stay",
+    "case_fact": "the beneficiary was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011"
+   }
+  ],
+  "case_id": "m-12-1140"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The service is a type of care that the policy covers",
+    "passage_id": 636,
+    "quote": "skilled physical therapy",
+    "case_fact": "Physical Therapy . . . intervention"
+   },
+   {
+    "claim": "The basic eligibility conditions appear satisfied",
+    "passage_id": 637,
+    "quote": "directly and specifically related to an active written treatment plan",
+    "case_fact": "the beneficiary sustained a fall in the facility on September 2, 2008, resulting in a \u201cleft upper extremity sprain\u201d"
+   }
+  ],
+  "case_id": "m_10_1771"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Physical therapy services are covered",
+    "passage_id": 292,
+    "quote": "Physical therapy would be reasonable",
+    "case_fact": "physical therapy services were provided"
+   }
+  ],
+  "case_id": "nj_dept_humanservices22"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled nursing visits are covered for patients with urinary tract infections and catheter complications",
+    "passage_id": 256,
+    "quote": "skilled nursing services",
+    "case_fact": "He had a recurrence of urinary tract infection"
+   },
+   {
+    "claim": "Skilled nursing visits are reasonable and necessary for patients with complications related to catheters",
+    "passage_id": 257,
+    "quote": "reasonable and necessary",
+    "case_fact": "He experienced another bout of urinary tract infection two months later"
+   },
+   {
+    "claim": "Patients with multiple medical conditions, including diabetes and spina bifida, may require skilled nursing services",
+    "passage_id": 315,
+    "quote": "assessment of a diabetic patient",
+    "case_fact": "The beneficiary is a male in his forties who has, among other medical conditions, diabetes and spina bifida"
+   }
+  ],
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Home health services are covered",
+    "passage_id": 341,
+    "quote": "Medicare covers either part-time or intermittent home health aide services",
+    "case_fact": "services furnished to each beneficiary were reasonable and necessary"
+   }
+  ],
+  "case_id": "ny"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "roman_eagle_memorial_home"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "IRF services are covered",
+    "passage_id": 72,
+    "quote": "Inpatient Rehabilitation Facility (IRF) Services",
+    "case_fact": "IRF services provided by the appellant to five beneficiaries"
+   }
+  ],
+  "case_id": "stfrances_memorial"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Skilled nursing care is required",
+    "passage_id": 633,
+    "quote": "skilled nursing services are necessary",
+    "case_fact": "required skilled nursing care"
+   },
+   {
+    "claim": "Physical therapy is covered",
+    "passage_id": 686,
+    "quote": "physical therapy services are included",
+    "case_fact": "received skilled physical therapy"
+   },
+   {
+    "claim": "Patient's condition requires skilled observation and assessment",
+    "passage_id": 629,
+    "quote": "skilled observation and assessment by a licensed nurse",
+    "case_fact": "required skilled nursing care for psychological, behavioral, and medical reasons"
+   }
+  ],
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [],
+  "case_id": "valley_presbyterian"
+ }
+]

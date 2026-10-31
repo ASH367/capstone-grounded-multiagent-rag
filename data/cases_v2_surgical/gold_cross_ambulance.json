@@ -1,0 +1,35 @@
+{
+ "case_id": "gold_cross_ambulance",
+ "domain": "ambulance",
+ "docket": null,
+ "service_at_issue": "Non-emergency ambulance transport (A0428-HN) and mileage (A0425-HN) from hospital to rehabilitation/skilled nursing facility after pacemaker replacement",
+ "facts": [
+  "non-emergency ambulance transportation services (one unit of A0428-HN and one unit of A0425-HN) provided to the beneficiary by the appellant on April 30, 2008.",
+  "The beneficiary in this case (age 87 on the date of service) had a pacemaker inserted several years earlier for sick sinus syndrome, and had become dependent on the pacemaker. Exh. 5 at 4.",
+  "His cardiologist explains that because of the beneficiary\u2019s pacemaker dependency and a wound infection on the opposite side of his chest requiring a wound vac, he was transferred from the hospital to a \u201crehabilitation center\u201d three days after the surgery.1 Id. The cardiologist also states that because of the beneficiary\u2019s recent problem with a pacemaker infection and recent insertion of new pacemaker leads, it was \u201cabsolutely necessary\u201d to take him from the hospital to the rehabilitation center by ambulance with a cardiac monitor in case the newly-implanted pacemaker or generator failed. Id.",
+  "The Physician Certification Statement (PCS) signed by the registered nurse on the date of ambulance transportation states that the beneficiary also required oxygen. Exh. 5 at 9.",
+  "the record of the ambulance transport contains the following handwritten comments, inter alia: \u201cPt. [patient] is an 87 YOM [year old male] who was sitting up in his bed. . . . Pt. was weak but could stand and walk on his own strength.",
+  "Three days earlier, he had undergone surgery for the removal and replacement of an infected pacemaker and generator, and the removal and replacement of cardiac leads. Exh. 5 at 4."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "Although not bed-confined, the beneficiary's recent pacemaker surgery and dependence on cardiac monitoring made ambulance transport medically required, reversing the ALJ.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.2.3"
+  },
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.2.4"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 410.40(d)",
+  "42 CFR 410.40(d)(1)",
+  "42 CFR 410.401(d)(1)",
+  "SSA 1861(s)(7)"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

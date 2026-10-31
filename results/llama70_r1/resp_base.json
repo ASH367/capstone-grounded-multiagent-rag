@@ -1,0 +1,237 @@
+[
+ {
+  "decision": "COVERED",
+  "reason": "The services provided to D.E. are considered reasonable and necessary for the treatment of her condition, and the amount, frequency, and duration of the services are reasonable.",
+  "findings": [
+   {
+    "claim": "services are reasonable and necessary",
+    "passage_id": 638,
+    "quote": "reasonable and necessary",
+    "case_fact": "D.E. had a prior hospital stay for congestive heart failure"
+   }
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "decision": "UNKNOWN",
+  "reason": "The passages do not provide enough information to determine if the service is covered by Medicare.",
+  "findings": [],
+  "case_id": "11-1546"
+ },
+ {
+  "decision": "UNKNOWN",
+  "reason": "The passages and case facts do not provide sufficient information to determine whether the services at issue are covered by Medicare.",
+  "findings": [],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "decision": "UNKNOWN",
+  "reason": "The passages do not provide sufficient information to determine whether Medicare covers the service in this case.",
+  "findings": [],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "decision": "UNKNOWN",
+  "reason": "The passages do not provide sufficient information to determine whether Medicare covers the service in this case.",
+  "findings": [],
+  "case_id": "connecticut11"
+ },
+ {
+  "decision": "UNKNOWN",
+  "reason": "The passages do not provide enough information to determine if the services are covered.",
+  "findings": [],
+  "case_id": "gr"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary required and received skilled physical therapy and occupational therapy services, which are covered under the SNF benefit.",
+  "findings": [
+   {
+    "claim": "Skilled therapy services are covered",
+    "passage_id": 636,
+    "quote": "skilled care",
+    "case_fact": "required and received skilled physical therapy (PT) and occupational therapy (OT) services"
+   }
+  ],
+  "case_id": "m-10-1884"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The services provided by the nurses, including monitoring and adjusting the beneficiary's insulin dosage, are reasonable and necessary for the treatment of her diabetes.",
+  "findings": [
+   {
+    "claim": "Nursing services for diabetes management are covered",
+    "passage_id": 268,
+    "quote": "monitoring once per month",
+    "case_fact": "The beneficiary\u2019s principal diagnosis is diabetes"
+   }
+  ],
+  "case_id": "m-11-1869"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary was discharged from the hospital and admitted to the SNF within 30 days, and required skilled nursing care for a condition treated during the hospital stay.",
+  "findings": [
+   {
+    "claim": "The beneficiary met the 3-day prior hospitalization requirement",
+    "passage_id": 572,
+    "quote": "3 consecutive calendar day",
+    "case_fact": "hospitalization from February 12 to February 17, 2010"
+   },
+   {
+    "claim": "The beneficiary was admitted to the SNF within 30 days of discharge from the hospital",
+    "passage_id": 579,
+    "quote": "within 30 days after discharge",
+    "case_fact": "discharge from the hospital on February 17"
+   }
+  ],
+  "case_id": "m-11-1967"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary was admitted to the SNF within 30 days of discharge from the hospital, and received medically necessary services.",
+  "findings": [
+   {
+    "claim": "Admission to SNF within 30 days of hospital discharge",
+    "passage_id": 579,
+    "quote": "initiated within 30 days",
+    "case_fact": "admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011"
+   },
+   {
+    "claim": "Medically necessary services",
+    "passage_id": 637,
+    "quote": "services must be directly and specifically related",
+    "case_fact": "received physical therapy (PT), occupational therapy (OT), and nursing services"
+   }
+  ],
+  "case_id": "m-12-1140"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary required skilled physical therapy services to improve safety, balance, and overall functional mobility after a fall, and the services were reasonable and necessary for the treatment of the beneficiary's condition.",
+  "findings": [
+   {
+    "claim": "The beneficiary required skilled physical therapy services",
+    "passage_id": 640,
+    "quote": "skilled physical therapy modalities",
+    "case_fact": "left upper extremity sprain"
+   },
+   {
+    "claim": "The services were reasonable and necessary",
+    "passage_id": 636,
+    "quote": " Coverage for such skilled therapy services",
+    "case_fact": "slow but steady progress"
+   }
+  ],
+  "case_id": "m_10_1771"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The physical therapy services were necessary to teach the beneficiary how to safely transfer to and from the lift and to design an appropriate home exercise program.",
+  "findings": [
+   {
+    "claim": "physical therapy services were necessary",
+    "passage_id": 292,
+    "quote": "teach the patient to climb and descend stairs safely",
+    "case_fact": "The visits remaining at issue took place between October 25, 2005, and November 29, 2005"
+   }
+  ],
+  "case_id": "nj_dept_humanservices22"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary's medical conditions, including diabetes and spina bifida with hydrocephalus, and complications such as urinary tract infections and rectal bleeding, require skilled nursing services.",
+  "findings": [
+   {
+    "claim": "Skilled nursing services are required for the beneficiary's catheter care and management of complications.",
+    "passage_id": 256,
+    "quote": "skilled nursing services",
+    "case_fact": "The beneficiary has recurrent urinary tract infections and anal and rectal abscesses."
+   },
+   {
+    "claim": "The beneficiary's condition necessitates skilled nursing visits for observation, evaluation, and treatment of complications.",
+    "passage_id": 257,
+    "quote": "reasonable and necessary",
+    "case_fact": "He had a recurrence of urinary tract infection around mid-point during the six-month period at issue."
+   }
+  ],
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "decision": "UNKNOWN",
+  "reason": "The passages do not provide enough information to determine whether Medicare covers the service in this case.",
+  "findings": [
+   {
+    "claim": "Medicare coverage for home health services",
+    "passage_id": 341,
+    "quote": "less than 8 hours each day",
+    "case_fact": "home health services furnished to the beneficiary"
+   }
+  ],
+  "case_id": "ny"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary was admitted to the SNF immediately following a qualifying hospital stay and required SNF care for a condition treated during the hospital stay.",
+  "findings": [
+   {
+    "claim": "qualifying hospital stay",
+    "passage_id": 563,
+    "quote": "3 consecutive calendar days",
+    "case_fact": "admitted to REMH for two periods, from September 29, 2003, through November 27, 2003, and from December 11, 2003 through January 6, 2004, both following a qualifying hospital stay"
+   },
+   {
+    "claim": "SNF care required",
+    "passage_id": 563,
+    "quote": "require SNF care for a condition",
+    "case_fact": "diagnosed with metastatic breast cancer"
+   }
+  ],
+  "case_id": "roman_eagle_memorial_home"
+ },
+ {
+  "decision": "UNKNOWN",
+  "reason": "The passages do not provide sufficient information to determine whether the IRF services are covered by Medicare.",
+  "findings": [
+   {
+    "claim": "IRF services provided between March 2003 and May 2004",
+    "passage_id": 72,
+    "quote": "IRF care is only considered",
+    "case_fact": "IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004"
+   }
+  ],
+  "case_id": "stfrances_memorial"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The beneficiary required skilled nursing care and physical therapy, which are covered services under the SNF benefit.",
+  "findings": [
+   {
+    "claim": "Skilled nursing care is required",
+    "passage_id": 633,
+    "quote": "skilled nursing services are covered",
+    "case_fact": "The appellant asserts in its request for review that from August 1, 2009, through August 31, 2009, the beneficiary required and received skilled nursing care"
+   },
+   {
+    "claim": "Physical therapy is a covered service",
+    "passage_id": 686,
+    "quote": "physical therapy, occupational therapy, and speech pathology services are included",
+    "case_fact": "the beneficiary received skilled physical therapy for her gait and ambulation problems"
+   }
+  ],
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The beneficiary's condition did not require intensive rehabilitation, and the IRF admission was not medically reasonable and necessary.",
+  "findings": [
+   {
+    "claim": "IRF admission was medically reasonable and necessary",
+    "passage_id": 72,
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary",
+    "case_fact": "The beneficiary was admitted to the IRF after a total knee replacement surgery and received treatment and rehabilitation services"
+   }
+  ],
+  "case_id": "valley_presbyterian"
+ }
+]

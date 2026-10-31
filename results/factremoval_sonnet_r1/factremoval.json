@@ -1,0 +1,324 @@
+{
+ "backend": "openai-compat:anthropic/claude-sonnet-5.5",
+ "rows": [
+  {
+   "case_id": "11-1343",
+   "leaf_id": "snf.level.skilled.therapy",
+   "outcome": "REDUNDANT",
+   "removed": [
+    "the services were initiated on August 27, 2009, with a treatment diagnosis of cognitive deficits. Exh. 2 at 246. At the onset of ST, D.E. exhibited moderate to severe receptive and expressive language and cognitive deficits. Exh. 2 at 214. D.E. was referred to ST to evaluate for speech/language cognitive deficits affecting her communication and safety. Exh. 2 at 250. D.E.\u2019s goals included \u201c[increased] quality of life to enjoy a maximum possible level of cognitive functioning and communication skills as measured by skilled observation and modified formal testing [with] 80% proficiency.\u201d Exh. 2 at 250."
+   ],
+   "new_verdict": "TRUE",
+   "new_case_fact": "J.M. was referred to PT secondary to a fall with fracture of the left hip with weakness.",
+   "reason": "The case facts show a patient referred to PT after a hip fracture, with weakness and need for moderate to maximal assistance. This is a condition for which skilled therapy services are covered under the policy."
+  },
+  {
+   "case_id": "11-1343",
+   "leaf_id": "snf.stay.3day",
+   "outcome": "DETECTED",
+   "removed": [
+    "D.E. had a prior hospital stay for a diagnosis of congestive heart failure from August 23, 2009, to August 26, 2009. Exh. 2 at 216. The beneficiary\u2019s medical history included stroke, left-sided weakness due to stroke, hearing loss, hypertension, GERD, depression (present situational depression), chronic Coumadin treatment, diabetes type II, hyperlipidemia, left hip arthroplasty, CHF and anemia. Exh. 2 at 166. The beneficiary was noted to have \u201csome obvious \u2018cognitive deficits,\u2019 but no official diagnosis of dementia.\u201d Id. at 168."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts mention a hospitalization (E.M.) and a hospital trip for a head scan (J.M.), but none state inpatient admission dates or a length of stay of at least 3 consecutive days."
+  },
+  {
+   "case_id": "11-1546",
+   "leaf_id": "snf.level.skilled.careplan",
+   "outcome": "DETECTED",
+   "removed": [
+    "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings, and to notify the doctor if three consecutive doses of medication were refused or held. Id. at 36. On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate. Id. at 3-25, reference Hearing CD. Psychoactive medication (Trazadone) was also given on an as needed basis. Id. at 48."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts list diagnoses and communication difficulty but say nothing about the care plan, the complexity of the unskilled services, or whether skilled nursing management was needed to prevent serious complications."
+  },
+  {
+   "case_id": "11-1546",
+   "leaf_id": "snf.level.skilled.nursing",
+   "outcome": "DETECTED",
+   "removed": [
+    "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings, and to notify the doctor if three consecutive doses of medication were refused or held. Id. at 36. On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate. Id. at 3-25, reference Hearing CD. Psychoactive medication (Trazadone) was also given on an as needed basis. Id. at 48."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts list diagnoses and communication difficulty but describe no specific services, so they do not show whether the patient needs skilled nursing services."
+  },
+  {
+   "case_id": "11-1546",
+   "leaf_id": "snf.level.skilled.observation",
+   "outcome": "DETECTED",
+   "removed": [
+    "The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings, and to notify the doctor if three consecutive doses of medication were refused or held. Id. at 36. On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate. Id. at 3-25, reference Hearing CD. Psychoactive medication (Trazadone) was also given on an as needed basis. Id. at 48."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts list diagnoses and communication difficulty but say nothing about a likelihood of change in condition or a need for skilled observation and assessment during the SNF stay."
+  },
+  {
+   "case_id": "m-11-1869",
+   "leaf_id": "hh.physician",
+   "outcome": "REDUNDANT",
+   "removed": [
+    "On multiple occasions during this period, the nurses had the beneficiary see her doctor with her blood sugar logs or sent logs evidencing fluctuating blood sugar levels to the beneficiary\u2019s endocrinologist. As a result of these actions taken by the nurses, the beneficiary\u2019s insulin dosage was adjusted numerous times during this period. See, e.g., Exh. 1 at 8, 9 (November 2007, two increases in dosage of Lantus, subcutaneous solution), 16 (another increase in dosage, December 2007)."
+   ],
+   "new_verdict": "TRUE",
+   "new_case_fact": "The nurses contacted the beneficiary\u2019s doctor to obtain permission to take a urine sample for analysis.",
+   "reason": "The nurses contacted the beneficiary's doctor for permission to take a urine sample and monitored medication the doctor prescribed (Cipro), showing she is under a physician's care."
+  },
+  {
+   "case_id": "m-11-1869",
+   "leaf_id": "hh.skilled.nursing",
+   "outcome": "REDUNDANT",
+   "removed": [
+    "the records dated within this period include numerous documented instances of changes in the beneficiary\u2019s medication schedule, as well as problems related to compliance with taking diabetic medications (to include Starlix) as directed, and reports of difficulty using a talking glucometer, all for which the nurses provided ongoing monitoring, assessment, and instructions to take the medications as directed. See, e.g., id. at 9, 10, 21, 25, 59, 67, 75, 232."
+   ],
+   "new_verdict": "TRUE",
+   "new_case_fact": "As a result of these actions taken by the nurses, the beneficiary\u2019s insulin dosage was adjusted numerous times during this period.",
+   "reason": "The nurses' skilled observation and assessment of the beneficiary's blood sugar logs and urinary symptoms led to repeated insulin adjustments and monitoring of her infection treatment, which shows reasonable and necessary skilled nursing, though the visit frequency is not stated."
+  },
+  {
+   "case_id": "m-11-1967",
+   "leaf_id": "snf.level.daily",
+   "outcome": "DETECTED",
+   "removed": [
+    "As of March 2, 2010, a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void, and to check the Foley catheter. Exh. 4 at 10. The nurses\u2019 notes leading up to March 5, 2010 indicate, among other things, drainage of bloody urine from the Foley catheter. Laboratory tests were ordered. The beneficiary was placed on Ensure five times daily because he was noted to have had a poor appetite. The nurses were to monitor the amount of Ensure ingested. See id. at 17-18."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts describe nurses monitoring for hematuria and repeated lab tests, but they do not show how often skilled nursing or rehabilitation was needed or provided (7 days a week, or 5 days for rehab), so the daily-basis criterion cannot be decided."
+  },
+  {
+   "case_id": "m-11-1967",
+   "leaf_id": "snf.level.necessary",
+   "outcome": "DETECTED",
+   "removed": [
+    "As of March 2, 2010, a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void, and to check the Foley catheter. Exh. 4 at 10. The nurses\u2019 notes leading up to March 5, 2010 indicate, among other things, drainage of bloody urine from the Foley catheter. Laboratory tests were ordered. The beneficiary was placed on Ensure five times daily because he was noted to have had a poor appetite. The nurses were to monitor the amount of Ensure ingested. See id. at 17-18."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts describe the hospitalization and monitoring for hematuria but do not show what SNF services were delivered, so they cannot show whether those services were reasonable and necessary in nature, duration and quantity."
+  },
+  {
+   "case_id": "m-11-1967",
+   "leaf_id": "snf.level.skilled.careplan",
+   "outcome": "DETECTED",
+   "removed": [
+    "As of March 2, 2010, a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void, and to check the Foley catheter. Exh. 4 at 10. The nurses\u2019 notes leading up to March 5, 2010 indicate, among other things, drainage of bloody urine from the Foley catheter. Laboratory tests were ordered. The beneficiary was placed on Ensure five times daily because he was noted to have had a poor appetite. The nurses were to monitor the amount of Ensure ingested. See id. at 17-18."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts describe nurses monitoring for hematuria and abnormal labs, but they do not describe a care plan, its unskilled components, or any finding that the total care needed skilled planning and management."
+  },
+  {
+   "case_id": "m-11-1967",
+   "leaf_id": "snf.level.skilled.observation",
+   "outcome": "REDUNDANT",
+   "removed": [
+    "the nurses continued to monitor the beneficiary for signs of hematuria. Laboratory results were abnormal. Exh. 4 at 19. Laboratory tests were ordered to be repeated. Id. at 15. The next day, March 6, 2010, the doctor ordered the beneficiary to be hospitalized; the \u201cabnormal\u201d laboratory results were again noted. Id. at 15, 19; Exh. 10. The next day, March 7, 2010, nurses documented \u201cbright red\u201d hematuria (Exh. 4 at 20), and a doctor again ordered that laboratory tests be performed (id. at 20-21)."
+   ],
+   "new_verdict": "TRUE",
+   "new_case_fact": "a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void",
+   "reason": "The beneficiary was discharged after a prostate resection with ongoing bloody urine, recent DVT and a Foley catheter, and a physician ordered skilled nursing to monitor for clots, fever and inability to void, which indicates a reasonable probability of complications requiring skilled assessment."
+  },
+  {
+   "case_id": "m-11-1967",
+   "leaf_id": "snf.stay.30day",
+   "outcome": "DETECTED",
+   "removed": [
+    "After the resection, the beneficiary had bloody urine for three days which \u201cgradually quieted,\u201d and, on the date of discharge from the hospital, the urine was described as \u201cdark tea color.\u201d Id. At the time of discharge from the hospital on February 17 (for admission to the SNF) the beneficiary was diagnosed with hematuria secondary to prostate enlargement, recent deep vein thrombosis, chronic renal failure, Parkinson\u2019s disease, obstructive sleep apnea, and a history of squamous cell carcinoma. Id. at 3."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The facts give the hospital discharge date (Feb 17, 2010) and show skilled nursing needed by March 2, but they never state that he was admitted to a participating SNF or give an admission date."
+  },
+  {
+   "case_id": "m-11-1967",
+   "leaf_id": "snf.stay.3day",
+   "outcome": "DETECTED",
+   "removed": [
+    "the beneficiary\u2019s hospitalization from February 12 to February 17, 2010, for \u201cworsening gross hematuria.\u201d His recent medical history included a diagnosis of deep vein thrombosis and the placement of an inferior vena cava filter. Exh. 4 at 3, 6. At the hospital, the beneficiary underwent a cystoscopy and transurethral resection of the prostate (which had a nodular growth that had reoccurred despite two prior transurethral resections), and received three transfusions. Id. at 4."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts mention a hospital discharge on February 17 but give no admission date, length of stay, or inpatient versus observation status, so the 3-consecutive-day inpatient requirement cannot be determined."
+  },
+  {
+   "case_id": "m-12-1140",
+   "leaf_id": "snf.level.skilled.therapy",
+   "outcome": "DETECTED",
+   "removed": [
+    "the 87 year old beneficiary was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011, for a \u201cseizure-type episode.\u201d Dec. at 2. The beneficiary was then sent to the hospital emergency room on August 28, 2011, for chest pain, was released, and was re-admitted to the SNF on August 30, 2011. Id. Following readmission, the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services. Id."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts show the beneficiary received skilled PT/OT until discharge on Sept 30, 2011 and that the appellant disputes the denial, but they do not establish whether skilled therapy was needed afterward."
+  },
+  {
+   "case_id": "m-12-1140",
+   "leaf_id": "snf.stay.30day",
+   "outcome": "DETECTED",
+   "removed": [
+    "the 87 year old beneficiary was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011, for a \u201cseizure-type episode.\u201d Dec. at 2. The beneficiary was then sent to the hospital emergency room on August 28, 2011, for chest pain, was released, and was re-admitted to the SNF on August 30, 2011. Id. Following readmission, the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services. Id."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts mention a readmission to the SNF and discharge from therapy, but give no hospital discharge date, SNF admission date, or other facts showing whether the transfer occurred within 30 days."
+  },
+  {
+   "case_id": "m-12-1140",
+   "leaf_id": "snf.stay.3day",
+   "outcome": "DETECTED",
+   "removed": [
+    "the 87 year old beneficiary was first admitted to the SNF on August 25, 2011, following inpatient hospitalization from August 16, 2011, through August 25, 2011, for a \u201cseizure-type episode.\u201d Dec. at 2. The beneficiary was then sent to the hospital emergency room on August 28, 2011, for chest pain, was released, and was re-admitted to the SNF on August 30, 2011. Id. Following readmission, the beneficiary received physical therapy (PT), occupational therapy (OT), and nursing services. Id."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts discuss SNF rehabilitation services and discharge from therapy, but say nothing about a prior hospital inpatient stay or its length."
+  },
+  {
+   "case_id": "nj_dept_humanservices22",
+   "leaf_id": "hh.physician",
+   "outcome": "REDUNDANT",
+   "removed": [
+    "Among the symptoms common to EDS patients are fragility (the attending physician noted the beneficiary was very fragile, at Ex. 10, at 513), joint hypermobility with potential for joint dislocations, easily torn or bruised skin, and abnormal curvature of feet and spine (in addition to severe lordosis, the beneficiary had an acquired ankle-foot defect recorded at Ex. 1, at 325). See Hearing CD. The beneficiary reported intermittent pain at levels ranging from 5 to 10 on a 10-point scale. See, e.g., Ex. 1, at 297 (August 2006 OASIS report)."
+   ],
+   "new_verdict": "TRUE",
+   "new_case_fact": "Ex. 1, at 333 (physician certification of April 8, 2006)",
+   "reason": "The record includes a physician certification for D.W.'s home health care, which indicates a physician was overseeing the patient's care, and the rule lists being under a physician's care as a requirement."
+  },
+  {
+   "case_id": "nj_dhs_commiss_case",
+   "leaf_id": "hh.homebound.c1.aid",
+   "outcome": "DETECTED",
+   "removed": [
+    "He is totally dependent for his care. His mother acts as his primary caregiver. He cannot bear weight and requires maximum assistance to leave his home. At issue in this appeal are skilled nursing visits furnished by Ocean County Board of Health, the provider, from April 17, 2007, through October 13, 2007."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts describe medical conditions (spina bifida, ostomies, infections) but say nothing about whether he needs supportive devices, special transportation, or another person's help to leave home."
+  },
+  {
+   "case_id": "nj_dhs_commiss_case",
+   "leaf_id": "hh.homebound.c2.effort",
+   "outcome": "DETECTED",
+   "removed": [
+    "He is totally dependent for his care. His mother acts as his primary caregiver. He cannot bear weight and requires maximum assistance to leave his home. At issue in this appeal are skilled nursing visits furnished by Ocean County Board of Health, the provider, from April 17, 2007, through October 13, 2007."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts list diagnoses, infections, and complications but say nothing about the effort required to leave home or about functional limitations, so the criterion cannot be decided."
+  },
+  {
+   "case_id": "nj_dhs_commiss_case",
+   "leaf_id": "hh.homebound.c2.inability",
+   "outcome": "DETECTED",
+   "removed": [
+    "He is totally dependent for his care. His mother acts as his primary caregiver. He cannot bear weight and requires maximum assistance to leave his home. At issue in this appeal are skilled nursing visits furnished by Ocean County Board of Health, the provider, from April 17, 2007, through October 13, 2007."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts describe medical conditions and complications but say nothing about whether the beneficiary normally can or cannot leave home, how often he leaves, or the effort involved."
+  },
+  {
+   "case_id": "twin_maples_health_care_case",
+   "leaf_id": "snf.level.daily",
+   "outcome": "REDUNDANT",
+   "removed": [
+    "On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility, the appellant\u2019s SNF. Exh. 1 at 54. The appellant\u2019s medical director evaluated the beneficiary and raised questions about her aggressiveness and assaultiveness, and whether she could be managed at the SNF. Id. at 44, 46, 47. Upon the beneficiary\u2019s admission to the SNF, physical therapy (PT) was started five times a week (id. at 54), and Warfarin (for her atrial fibrillation) was discontinued because the risks outweighed the benefits (id. at 47, 60, 62)."
+   ],
+   "new_verdict": "TRUE",
+   "new_case_fact": "the beneficiary was closely monitored by the skilled nurses (multiple times each day)",
+   "reason": "The facts show skilled nurses monitored the beneficiary multiple times every day from July 27 to Aug 11, with continued frequent nursing monitoring during pneumonia treatment, which fits the essentially seven-days-a-week skilled nursing standard."
+  },
+  {
+   "case_id": "twin_maples_health_care_case",
+   "leaf_id": "snf.level.necessary",
+   "outcome": "DETECTED",
+   "removed": [
+    "On August 5, 2009, the psychiatrist reduced her Haldol from three to two times a day (Exh. 1 at 59), and close monitoring of her moods and behaviors continued in light of that change. Id. at 40-41, 63-64, 69-70. By August 12, 2009, when the beneficiary was again evaluated by the psychiatric advanced practice registered nurse, her behavioral condition had stabilized. Id. at 40-41."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "The appellant asserts in its request for review that from August 1, 2009, through August 31, 2009, the beneficiary required and received skilled nursing care",
+   "reason": "The facts describe monitoring, PT and pneumonia treatment, but they stop around mid-August and do not show that the care was reasonable in duration and quantity through August 31, 2009; the claim of need is only the appellant's assertion."
+  },
+  {
+   "case_id": "twin_maples_health_care_case",
+   "leaf_id": "snf.level.practical",
+   "outcome": "DETECTED",
+   "removed": [
+    "On July 20, 2009, the beneficiary (age 88) was admitted to the acute psychiatric unit at Yale University for dementia (apparently vascular in origin), paranoid behavior, significant difficulty sleeping, agitation, and being violent and assaultive toward her primary caregiver. Exh. 1 at 4-6. There she was diagnosed with dementia, a behavioral disturbance, and psychosis not otherwise specified. Id. at 7, 15. The beneficiary also had a history of alcohol dependence, and had undergone detox treatments several times. Id. at 5, 14, 29."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts describe the skilled services and a physician's nursing-home recommendation, but say nothing about whether outpatient or home alternatives were available, feasible, or less economical."
+  },
+  {
+   "case_id": "twin_maples_health_care_case",
+   "leaf_id": "snf.level.skilled.careplan",
+   "outcome": "REDUNDANT",
+   "removed": [
+    "On July 29, 2009, the beneficiary was evaluated by a psychiatric advanced practice registered nurse (APRN). Exh. 1 at 44-45. The APRN consulted with the medical director, and a decision was made not to alter the beneficiary\u2019s medications at that time, but to closely monitor her moods and behaviors at the SNF. Id. During the period from July 27, 2009, through August 11, 2009, the beneficiary was closely monitored by the skilled nurses (multiple times each day), one or more physicians, and the psychiatric APRN, for changes in her mood, her behaviors, and other psychological symptoms. Id. at 40-45, 59-62, 63-64, 69- 70."
+   ],
+   "new_verdict": "TRUE",
+   "new_case_fact": "The beneficiary\u2019s treatment included an oral antibiotic for ten days, oxygen as needed, and ongoing, frequent monitoring by the nursing staff.",
+   "reason": "The beneficiary had pneumonia, antipsychotic dose changes needing close monitoring, and prior aggressive behavior, so the record shows a likely potential for complications requiring skilled planning and management of her total care."
+  },
+  {
+   "case_id": "twin_maples_health_care_case",
+   "leaf_id": "snf.level.skilled.nursing",
+   "outcome": "DETECTED",
+   "removed": [
+    "On July 29, 2009, the beneficiary was evaluated by a psychiatric advanced practice registered nurse (APRN). Exh. 1 at 44-45. The APRN consulted with the medical director, and a decision was made not to alter the beneficiary\u2019s medications at that time, but to closely monitor her moods and behaviors at the SNF. Id. During the period from July 27, 2009, through August 11, 2009, the beneficiary was closely monitored by the skilled nurses (multiple times each day), one or more physicians, and the psychiatric APRN, for changes in her mood, her behaviors, and other psychological symptoms. Id. at 40-45, 59-62, 63-64, 69- 70."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "The beneficiary\u2019s treatment included an oral antibiotic for ten days, oxygen as needed, and ongoing, frequent monitoring by the nursing staff.",
+   "reason": "The case facts describe monitoring, an oral antibiotic, and oxygen as needed, but none of the cited passages or facts show that these services needed an RN's specialized skills, and none settle whether the patient's total condition required skilled nursing management."
+  },
+  {
+   "case_id": "twin_maples_health_care_case",
+   "leaf_id": "snf.level.skilled.observation",
+   "outcome": "REDUNDANT",
+   "removed": [
+    "On August 5, 2009, the psychiatrist reduced her Haldol from three to two times a day (Exh. 1 at 59), and close monitoring of her moods and behaviors continued in light of that change. Id. at 40-41, 63-64, 69-70. By August 12, 2009, when the beneficiary was again evaluated by the psychiatric advanced practice registered nurse, her behavioral condition had stabilized. Id. at 40-41."
+   ],
+   "new_verdict": "TRUE",
+   "new_case_fact": "During the period from July 27, 2009, through August 11, 2009, the beneficiary was closely monitored by the skilled nurses (multiple times each day)",
+   "reason": "The beneficiary had dementia with psychosis and aggression and then developed pneumonia, and skilled nurses, physicians and a psychiatric APRN closely monitored her to decide whether treatment needed to change, which matches the observation and assessment criterion."
+  },
+  {
+   "case_id": "twin_maples_health_care_case",
+   "leaf_id": "snf.level.skilled.therapy",
+   "outcome": "DETECTED",
+   "removed": [
+    "On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility, the appellant\u2019s SNF. Exh. 1 at 54. The appellant\u2019s medical director evaluated the beneficiary and raised questions about her aggressiveness and assaultiveness, and whether she could be managed at the SNF. Id. at 44, 46, 47. Upon the beneficiary\u2019s admission to the SNF, physical therapy (PT) was started five times a week (id. at 54), and Warfarin (for her atrial fibrillation) was discontinued because the risks outweighed the benefits (id. at 47, 60, 62)."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The only mention of skilled physical therapy is the appellant's assertion; the case facts give no therapist evaluation, treatment plan, or finding that therapist skills were needed, and the rest of the facts concern nursing and psychiatric care."
+  },
+  {
+   "case_id": "twin_maples_health_care_case",
+   "leaf_id": "snf.stay.30day",
+   "outcome": "REDUNDANT",
+   "removed": [
+    "On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility, the appellant\u2019s SNF. Exh. 1 at 54. The appellant\u2019s medical director evaluated the beneficiary and raised questions about her aggressiveness and assaultiveness, and whether she could be managed at the SNF. Id. at 44, 46, 47. Upon the beneficiary\u2019s admission to the SNF, physical therapy (PT) was started five times a week (id. at 54), and Warfarin (for her atrial fibrillation) was discontinued because the risks outweighed the benefits (id. at 47, 60, 62)."
+   ],
+   "new_verdict": "TRUE",
+   "new_case_fact": "but to closely monitor her moods and behaviors at the SNF.",
+   "reason": "The beneficiary was admitted to the hospital on July 20, 2009 and was being monitored at the SNF by July 29, 2009, so the SNF transfer was well within 30 days of discharge."
+  },
+  {
+   "case_id": "twin_maples_health_care_case",
+   "leaf_id": "snf.stay.3day",
+   "outcome": "DETECTED",
+   "removed": [
+    "On July 20, 2009, the beneficiary (age 88) was admitted to the acute psychiatric unit at Yale University for dementia (apparently vascular in origin), paranoid behavior, significant difficulty sleeping, agitation, and being violent and assaultive toward her primary caregiver. Exh. 1 at 4-6. There she was diagnosed with dementia, a behavioral disturbance, and psychosis not otherwise specified. Id. at 7, 15. The beneficiary also had a history of alcohol dependence, and had undergone detox treatments several times. Id. at 5, 14, 29."
+   ],
+   "new_verdict": "NO_INFORMATION",
+   "new_case_fact": "",
+   "reason": "The case facts mention treatment at Yale and SNF admission on July 27, 2009, but give no hospital inpatient admission or discharge dates, length of stay, or inpatient status."
+  }
+ ]
+}

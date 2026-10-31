@@ -1,0 +1,48 @@
+{
+ "case_id": "twin_maples_health_care_case",
+ "domain": "snf",
+ "docket": "M-10-1564",
+ "service_at_issue": "SNF services Aug 1-31, 2009 (nursing and PT) after psychiatric hospitalization",
+ "reference_outcome": "partial",
+ "outcome_note": "Council reversed in part: skilled nursing for psychiatric/behavioral monitoring and other medical needs made Aug 1-11 covered, but services Aug 12-31 were not sufficiently skilled and the provider is liable.",
+ "cited_sections": [],
+ "other_cites": [
+  "42 CFR 409.30",
+  "42 CFR 409.31(b)",
+  "42 CFR 409.31(b)(2)(i)",
+  "42 CFR 409.31(b)(2)(ii)",
+  "42 CFR 409.33(a)(2)(ii)",
+  "42 CFR 409.33(c)"
+ ],
+ "facts": [
+  "The appellant asserts in its request for review that from August 1, 2009, through August 31, 2009, the beneficiary required and received skilled nursing care (for psychological, behavioral, and medical reasons), and received skilled physical therapy for her gait and ambulation problems, difficulty with transferring, and need to reduce her risk of falls. Exh. MAC-1.",
+  "On July 20, 2009, the beneficiary (age 88) was admitted to the acute psychiatric unit at Yale University for dementia (apparently vascular in origin), paranoid behavior, significant difficulty sleeping, agitation, and being violent and assaultive toward her primary caregiver. Exh. 1 at 4-6.",
+  "One of the beneficiary\u2019s treating physicians wrote a letter recommending that she be cared for in a nursing home, and opining that she could be cared for in such a setting without injury to herself or others. Id. at 37.",
+  "On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility, the appellant\u2019s SNF. Exh. 1 at 54. Upon the beneficiary\u2019s admission to the SNF, physical therapy (PT) was started five times a week (id. at 54), and Warfarin (for her atrial fibrillation) was discontinued because the risks outweighed the benefits (id. at 47, 60, 62).",
+  "The next day, July 28, 2009, the beneficiary was agitated, cursing, unpredictable, not redirectable, refusing medications, punching aides, and throwing plates at visitors. Exh. 1 at 1, 44. The appellant\u2019s medical director prepared and filed with the State of Connecticut a \u201cPhysician\u2019s Emergency Certification for No More Than 15 Days Care and Treatment in a Hospital for",
+  "On July 29, 2009, the beneficiary was evaluated by a psychiatric advanced practice registered nurse (APRN). Exh. 1 at 44-45. During the period from July 27, 2009, through August 11, 2009, the beneficiary was closely monitored by the skilled nurses (multiple times each day), one or more physicians, and the psychiatric APRN, for changes in her mood, her behaviors, and other psychological symptoms. Id. at 40-45, 59-62, 63-64, 69- 70.",
+  "On August 5, 2009, the psychiatrist reduced her Haldol from three to two times a day (Exh. 1 at 59), and close monitoring of her moods and behaviors continued in light of that change. Id. at 40-41, 63-64, 69-70. By August 12, 2009, when the beneficiary was again evaluated by the psychiatric advanced practice registered nurse, her behavioral condition had stabilized. Id. at 40-41. The foregoing facts, in and of themselves, establish that the beneficiary received skilled nursing care at the appellant\u2019s SNF from August 1, 2009, through August 11, 2009.",
+  "On August 4, 2009, the nursing staff identified expiratory wheezing and crackles in the beneficiary\u2019s lungs, bilaterally, and pulse oximeter readings of 85 to 87 percent. Id. at 63. The beneficiary\u2019s treatment included an oral antibiotic for ten days, oxygen as needed, and ongoing, frequent monitoring by the nursing staff. Exh. 1 at 59, 63-64, 69-70. This is further evidence of the skilled nursing care the beneficiary required and received from August 1, 2009, through August 11, 2009.",
+  "The beneficiary also received skilled physical therapy services at the SNF each weekday from August 1, 2009, through August 11, 2009. Exh. 1 at 96, 83, 86-87, 93-94.",
+  "The beneficiary continued to live at the SNF after August 11, 2009; however, her nursing and therapy services were not as intensive. See Exh. 1 at 48-53, 71-85.",
+  "On July 27, 2009, the SNF\u2019s medical director discontinued the Warfarin medication the beneficiary had been taking for atrial fibrillation. Exh. 4 at 5. They monitored her condition and specific signs and symptoms at least four times each day. Id.",
+  "The appellant SNF provided the beneficiary with this physical therapy each weekday from August 1, 2009, through August 11, 2009.",
+  "The notes from the beneficiary\u2019s one-week stay at Yale record her gait and ambulation problem, indicating that had been manifested before her SNF stay. See Exh. 1 at 8, 18, 30. The physical therapy evaluation prepared at the appellant\u2019s SNF on July 27, 2009, notes that the beneficiary\u2019s problems with ambulation and gait are related to the fact that she has been living at home and was walking little the past year. Id. at 86.",
+  "Nevertheless, there are two related bases, explained above, upon which the beneficiary\u2019s SNF stay from August 1, 2009, through August 11, 2009 qualifies for Medicare coverage.",
+  "The amount and frequency of the beneficiary\u2019s skilled care at the SNF decreased after August 11, 2009. Her participation in PT sessions had decreased to less than daily, and by August 17, 2009, they had decreased to three times per week. See Exh. 1 at 96, 92.",
+  "The appellant has represented that it gave the beneficiary an Advance Beneficiary Notice (ABN) on September 7, 2009, informing her that Medicare would likely no longer cover her SNF services. Exh. MAC-1."
+ ],
+ "arm": "B_gaps",
+ "set": "held",
+ "coverage_label": "PARTLY_COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 789,
+ "evidence_words_D": 1389,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

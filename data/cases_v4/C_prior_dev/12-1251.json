@@ -1,0 +1,43 @@
+{
+ "case_id": "12-1251",
+ "domain": "ambulance",
+ "docket": "M-12-1251",
+ "service_at_issue": "Advanced life support emergency ground ambulance (A0427) and mileage (A0425) from home to hospital for chest pain",
+ "reference_outcome": "favorable",
+ "outcome_note": "The record showed chest pain treated and monitored en route, so other means of transport were contraindicated and the ALJ was reversed.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.2.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 405.1122(c)(2)",
+  "42 CFR 410.40(d)",
+  "42 CFR 411.15(k)",
+  "42 CFR 414.40(a)",
+  "SSA 1861(s)(7)",
+  "SSA 1862(a)(1)",
+  "SSA 1879"
+ ],
+ "facts": [
+  "The beneficiary was discharged from a hospital on April 17, 2011. Exh. 4, at 9. On April 17, 2011, the beneficiary was transported from her residence to a hospital. Exh. 4, at 6, 10. On redetermination, the contractor denied Medicare coverage. Id. at 2-3. On reconsideration, the Qualified Independent Contractor (QIC) denied coverage finding that other means of transportation were not contraindicated. Exh. 5, at 4.",
+  "The ambulance run sheet indicates that the beneficiary was alert and stable at the time of transport.",
+  "In its request for review, the appellant asserts that at the scene the beneficiary complained of active chest pain, and that the beneficiary was treated with medications to attempt to alleviate the chest pain. Exh. MAC-1. The appellant argues that it was proper for EMS to treat and transport the beneficiary, and that the transport was necessary. Id."
+ ],
+ "arm": "C_prior",
+ "set": "dev",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 109,
+ "evidence_words_D": 254,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

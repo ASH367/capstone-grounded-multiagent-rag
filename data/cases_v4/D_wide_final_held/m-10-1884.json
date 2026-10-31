@@ -1,0 +1,44 @@
+{
+ "case_id": "m-10-1884",
+ "domain": "snf",
+ "docket": "M-10-1884",
+ "service_at_issue": "SNF services January 28 - March 1, 2009 for a beneficiary who elected hospice; liability",
+ "reference_outcome": "partial",
+ "outcome_note": "The Council agreed the SNF services were not covered (hospice elected, Medicare already paid hospice) but reversed the ALJ on liability: the telephone notice was ineffective so the estate is not liable and the SNF is.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.9",
+   "section": "20.3"
+  }
+ ],
+ "other_cites": [
+  "SSA 1862(a)(1)",
+  "SSA 1879",
+  "42 CFR 411.404",
+  "42 CFR 411.406(d)",
+  "42 CFR 405.1200",
+  "MCPM ch.29",
+  "MCPM ch.30 40.3, 40.3.4.2"
+ ],
+ "facts": [
+  "Resident will no longer require skilled care - Also discussed what his plans were -.\u201d Id. at 477. The appellant later signed a hospice election for the beneficiary on January 28, 2009. Id. at 581-82.",
+  "The SNF billed the appellant for the beneficiary\u2019s care for dates of service January 28 through January 31, 2009, and for February 1, 2009 through March 1, 2009. See Exh. 2, at 29-32. Thereafter, the SNF submitted claims to the Medicare contractor. The contractor denied the claims initially and on redetermination. Exh. 3, at 70-85. On further appeal, the Qualified Independent Contractor (QIC) also denied the claims. Exh. 4, at 111-16. Both the redetermination and the reconsideration stated that Medicare would not pay for the SNF services because the beneficiary was receiving Medicare-covered hospice services on the dates of service in question.",
+  "A Medicare beneficiary who resides in an SNF or NF may elect the hospice benefit if:",
+  "Here, the SNF documented that it notified the appellant that the services would not be covered."
+ ],
+ "arm": "D_wide",
+ "set": "held",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "MERITS_PLUS_LIABILITY",
+ "include_primary": 1,
+ "evidence_words_A": 50,
+ "evidence_words_D": 169,
+ "evidence_ok": 0,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "parent": "m-10-1884",
+ "status": "MAIN"
+}

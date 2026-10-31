@@ -1,0 +1,53 @@
+{
+ "case_id": "rx_homecare",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "home health skilled nursing visits (mediplanner filling) and home health aide services, Oct 2005 to Sept 2006",
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council reversed the ALJ, finding pouring a mediplanner is not a skilled service and nothing supported skilled observation and assessment, so the aide services were also non-covered and the provider was liable.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 409.42",
+  "42 CFR 409.42(c)",
+  "42 CFR 409.32",
+  "42 CFR 409.32(a)",
+  "42 CFR 409.33(a)(2)(i)",
+  "42 CFR 409.45(a)",
+  "42 CFR 411.400",
+  "42 CFR 411.404",
+  "42 CFR 411.406",
+  "SSA 1862(a)(1)",
+  "SSA 1879",
+  "MCPM ch.30 sec.40",
+  "MCPM ch.30 sec.60.6.1"
+ ],
+ "facts": [
+  "Initially, and upon redetermination, the Medicare contractor denied coverage for the services at issue on the basis that the records submitted did not include a valid physician\u2019s order for the frequency of the services provided or for skilled nursing services. Exhs. 1-6.",
+  "The Medicaid state agency requested reconsideration of these claims by a Qualified Independent Contractor (QIC). Id. The QIC also denied coverage for the periods of service at issue, finding that \u201cinsufficient documentation was submitted to substantiate Medicare\u2019s coverage criteria. The home health care plans of care/certifications for the dates of service under review did not specify the frequency of the home health care visits to be provided.\u201d Exh. 8 at 567.",
+  "When a patient was admitted to home health care for skilled observation because there was a reasonable potential of a complication or further acute episode, but did not develop a further acute episode or complication, the skilled observation services are still covered for three weeks or so long as there remains a reasonable potential for such a complication or further acute episode. * * *",
+  "The beneficiary\u2019s primary diagnosis was type I diabetes mellitus (without mention of complication and not stated as uncontrolled), and his other diagnoses included hypertension, venous thrombosis, coronary atherosclerosis of unspecified type, glaucoma, and chronic renal failure. Exhs. 1-6.",
+  "During the periods of service at issue, a skilled nurse visited the beneficiary approximately once every two weeks to fill a mediplanner with pills and oversee home health aides. Id. Concurrently, a home health aide visited the beneficiary five days each week, averaging 30-35 hours a week, to assist with personal care, light housekeeping, and meal preparation. Id."
+ ],
+ "arm": "C_prior",
+ "set": "dev",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 123,
+ "evidence_words_D": 330,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "parent": "rx_homecare",
+ "status": "MAIN"
+}

@@ -1,0 +1,341 @@
+{
+"case_id": "gold_cross_ambulance",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated May 11, 2009, concerning Medicare coverage for non-emergency ambulance transportation services (one unit of A0428-HN and one unit of A0425-HN) provided to the beneficiary by the appellant on April 30, 2008.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined that the ambulance services were not medically necessary pursuant to Section 1861(s)(7) of the Social Security Act and 42 C.F.R. \u00a7 410.40.",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 4,
+"section": "INTRO",
+"text": "The appellant\u2019s request for review will be made a copy of the record as Exhibit (Exh.) MAC-1.",
+"tag": "PROC",
+"reason": "MAC-1"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary in this case (age 87 on the date of service) had a pacemaker inserted several years earlier for sick sinus syndrome, and had become dependent on the pacemaker. Exh. 5 at 4.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 3,
+"si": 1,
+"section": "FACTS",
+"text": "His pacemaker, generator, and leads (electrical leads to the heart) were removed and then replaced on April 27, 2008 (at ****",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 4,
+"si": 0,
+"section": "FACTS",
+"text": "Hospital) because the pacemaker and generator had become infected. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "FACTS",
+"text": "His cardiologist explains that because of the beneficiary\u2019s pacemaker dependency and a wound infection on the opposite side of his chest requiring a wound vac, he was transferred from the hospital to a \u201crehabilitation center\u201d three days after the surgery. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 4,
+"si": 2,
+"section": "FACTS",
+"text": "The cardiologist also states that because of the beneficiary\u2019s recent problem with a pacemaker infection and recent insertion of new pacemaker leads, it was \u201cabsolutely necessary\u201d to take him from the hospital to the rehabilitation center by ambulance with a cardiac monitor in case the newly-implanted pacemaker or generator failed. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "The Physician Certification Statement (PCS) signed by the registered nurse on the date of ambulance transportation states that the beneficiary also required oxygen. Exh. 5 at 9.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "However, neither this PCS nor any other document in the record indicates why the oxygen was required.",
+"tag": "GAP",
+"reason": "neither this PCS nor"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "The redetermination denied Medicare coverage for the ambulance transport because the contractor did not have a trip report to review (Exh. 2 at 2), and the reconsideration denied coverage on the ground that a stretcher van could have been used as an alternate form of transportation without endangering the beneficiary\u2019s health (Exh. 3 at 3).",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "Both the redetermination and the reconsideration found the beneficiary responsible for the denied charges for the ambulance.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "The ALJ held a hearing and reviewed the documentation, including the ambulance trip records, the PCS, and the cardiologist\u2019s written statement. Dec. at 2.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ found the non-emergency ambulance transportation was not medically necessary, on two grounds.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 2,
+"section": "FACTS",
+"text": "First, he found that the beneficiary was not bed- confined. Dec. at 7-8, citing 42 C.F.R. \u00a7 410.40(d); and Pub. 100-2, Medicare Benefit Policy Manual (MBPM), Chapter 10, Sections 10.2.3 and 10.2.4.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 7,
+"si": 3,
+"section": "FACTS",
+"text": "Second, he found that the record did not sufficiently establish medical necessity for the ambulance transport.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 7,
+"si": 4,
+"section": "FACTS",
+"text": "According to the ALJ, the beneficiary\u2019s medical history, including hypertension, coronary artery disease, and blindness, did not show that other means of transportation would endanger the beneficiary or aggravate those conditions. Id. at 8.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 5,
+"section": "FACTS",
+"text": "Therefore, the ALJ found the beneficiary liable for the costs of the ambulance transport. Id.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant disagrees with the ALJ\u2019s findings, contending that the beneficiary required ambulance transport because he was bed- confined, and also required oxygen and cardiac monitoring en route. See Exh. MAC-1.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "FACTS",
+"text": "The Council has reviewed the record, and for the reasons set forth below, reverses the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "MIXED",
+"text": "First, the Council determines that the beneficiary was not bed- confined at the time of his ambulance transport.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "MIXED",
+"text": "To be considered bed-confined, the beneficiary must be: (i) unable to get up from bed without assistance; (ii) unable to ambulate; and (iii) unable to sit in a chair or wheelchair.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 10,
+"si": 2,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 410.401(d)(1) (emphasis added).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 10,
+"si": 3,
+"section": "MIXED",
+"text": "In this case, the record of the ambulance transport contains the following handwritten comments, inter alia: \u201cPt. [patient] is an 87 YOM [year old male] who was sitting up in his bed. . . .",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 10,
+"si": 4,
+"section": "MIXED",
+"text": "Pt. was weak but could stand and walk on his own strength.\u201d",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 10,
+"si": 5,
+"section": "MIXED",
+"text": "As this account demonstrates, the beneficiary was not bed-confined at the time of the ambulance transport.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "MIXED",
+"text": "Second, the Council determines that the beneficiary did, however, require ambulance transportation in this instance because his condition was such that transportation by ambulance was medically required. See 42 C.F.R. \u00a7 410.40(d)(1).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "MIXED",
+"text": "Three days earlier, he had undergone surgery for the removal and replacement of an infected pacemaker and generator, and the removal and replacement of cardiac leads. Exh. 5 at 4.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 2,
+"section": "MIXED",
+"text": "For the beneficiary, the pacemaker and related equipment provided a longstanding form of medical support, and he was dependent on this equipment for the functioning of his heart.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 3,
+"section": "MIXED",
+"text": "In the view of his cardiologist, he needed to enter a facility to receive rehabilitation, and he needed ambulance transportation with cardiac monitoring to get there from the hospital. Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 4,
+"section": "MIXED",
+"text": "Had he been using an alternate form of transportation and experienced an equipment failure or other cardiac problem en route, his medical condition would have been threatened.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 5,
+"section": "MIXED",
+"text": "For these reasons the Council rules that the beneficiary\u2019s ambulance transportation on April 30, 2008, was medically required and thus covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "MIXED",
+"text": "This appeal, unlike many others involving ambulance services, included actual medical documentation from the beneficiary\u2019s physician. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "MIXED",
+"text": "All too often such documentation is lacking, making it difficult or impossible to determine if the beneficiary\u2019s condition met the requirements for ambulance transportation.",
+"tag": "LAW",
+"reason": "law statement: requirements for"
+},
+{
+"pi": 12,
+"si": 2,
+"section": "MIXED",
+"text": "Medical documentation, in the form of hospital discharge summaries, physicians\u2019 statements and notes, and other medical records provide a more accurate and complete view of the patient\u2019s condition than just a Physician Certification Statement (often filled out by a nurse) and notes on the ambulance trip report.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 14,
+"si": 0,
+"section": "TERMINAL",
+"text": "Therefore, the Medicare Appeals Council reverses the decision of the ALJ.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "TERMINAL",
+"text": "The non-emergency ambulance transportation services (one unit of A0428-HN and one unit of A0425-HN) provided to the beneficiary by the appellant on April 30, 2008 are covered by Medicare.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

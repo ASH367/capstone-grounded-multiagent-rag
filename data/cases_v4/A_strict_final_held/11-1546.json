@@ -1,0 +1,44 @@
+{
+ "case_id": "11-1546",
+ "domain": "snf",
+ "docket": "M-11-1546",
+ "service_at_issue": "SNF services Feb 2 - Mar 3, 2010 (Part A)",
+ "reference_outcome": "favorable",
+ "outcome_note": "Council reversed the ALJ, finding a qualifying three-day hospital stay existed and the beneficiary required and received daily skilled nursing services.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.8",
+   "section": "30.2.3.2"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 409.31(b)",
+  "42 CFR 409.31(b)(2)(ii)",
+  "42 CFR 409.32(a)",
+  "42 CFR 409.33(a)(1)",
+  "42 CFR 409.33(a)(2)",
+  "42 CFR 409.33(b)(1)",
+  "42 CFR 405.1122(c)",
+  "SSA 1833(e)"
+ ],
+ "facts": [
+  "The provider submits, as evidence of the three-day stay, hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay at *** *** Hospital. See id.",
+  "The record indicates that the beneficiary was agitated and uncooperative with the staff; he refused foods, fluids and medications on numerous occasions. Id. at 3-25. The nursing staff was instructed to administer these medications based on fluctuating blood pressure readings, and to notify the doctor if three consecutive doses of medication were refused or held. Id. at 36.",
+  "The beneficiary became sufficiently dehydrated to require intravenous (IV) fluids from February 15, 2010, through February 25, 2010. The record also shows that after a non- responsive episode, that required a brief admission to the ER, he received oxygen therapy, which required close monitoring. Id. at 20-21."
+ ],
+ "arm": "A_strict",
+ "set": "held",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 133,
+ "evidence_words_D": 211,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "parent": "11-1546",
+ "status": "MAIN"
+}

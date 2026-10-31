@@ -1,0 +1,70 @@
+{
+ "case_id": "ny",
+ "domain": "home_health",
+ "docket": "M-14-3875, M-14-4055, M-14-5355",
+ "service_at_issue": "Home health aide and skilled nursing services exceeding 28/35 weekly hours (NY Medicaid agency appellant)",
+ "reference_outcome": "partial",
+ "outcome_note": "The Council dismissed hearing requests for pre-October 1, 2010 dates of service (TPL Demonstration Project waiver) and vacated and remanded the rest because the ALJ erred in denying all coverage solely for exceeding 28/35 weekly hours without analyzing reasonableness and necessity.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "50.7"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "50.7.1"
+  }
+ ],
+ "other_cites": [
+  "SSA 1812(a)(3)",
+  "SSA 1814(a)(2)(C)",
+  "SSA 1835(a)(2)(A)",
+  "SSA 1861(m)",
+  "SSA 1862(a)(1)(A)",
+  "SSA 1879",
+  "42 CFR 409.42",
+  "42 CFR 409.44",
+  "42 CFR 409.45",
+  "42 CFR 405.904(a)(2)",
+  "42 CFR 405.1052(a)(3)",
+  "42 CFR 405.1116",
+  "42 CFR 405.1018(c)",
+  "42 CFR 405.1028"
+ ],
+ "facts": [
+  "In each case, the physician ordered and the provider furnished to the beneficiary home health services consisting of skilled nursing visits ranging from once every other week to twice every week and home health aide visits ranging between five and seven days per week, and between four and 24 hours per day. See, e.g., Exh. 1 (M.D.) at 15-17; Exh. 1 (Y.L.) at 16-18; Exh. 1 (R.L.) at 35. The provider submitted demand bills, and the contractor denied the claims initially and on redetermination. See, e.g., Exh. 1 (R.L.) at 20-28.",
+  "Dates of Service at Issue for Beneficiaries M.D. and Y.L.",
+  "In these cases, the provider\u2019s demand bills included services furnished prior to October 1, 2010. See, e.g., Exh. 1 (R.L.) at 26. In some, though not in all, cases, the QIC excluded those dates of service from review as well. See, e.g., id. at 10.",
+  "More importantly, under the TPL Demonstration Project, CMS and the State of New York agreed to utilize a sampling approach to determine Medicare\u2019s share of the cost of home health service claims for dually eligible beneficiaries that were originally submitted to, and paid for, by the state\u2019s Medicaid agency for Fiscal Years 2008-2010. See CMS Active Project Report, Demonstration of Home Health Agencies Settlement for Dual Eligibles for the State of New York, Project Number 95-W- 00084/02.",
+  "This sampling was used in lieu of individually gathering Medicare claims from home health agencies for every dually eligible Medicaid claim that the state had possibly paid in error, thus eliminating the need for the regional home health intermediary to review every case. The Active Projects Report is available online at: http://www.cms.gov/Research-Statistics- Data-and-Systems/Statistics-Trends-and-Reports/ActiveProject Reports/index.html (last visited March 7, 2016).",
+  "Medicare Eligibility for and Coverage of Home Health Services Beginning on October 1, 2010",
+  "Medicare Part A covers home health services, which include part- time or intermittent skilled nursing services, physical or occupational therapy, speech-language pathology, medical social services, and home health aide services. Coverage of medical social services and home health aide services depends on the beneficiary\u2019s need for intermittent skilled nursing services, need for physical therapy or speech language pathology, or continuing need for occupational therapy.",
+  "For purposes of eligibility for coverage of home health services, \u201cintermittent\u201d refers to skilled nursing care provided or needed on fewer than seven days a week or fewer than eight hours a day for a period of 21 days or less, with extensions in \u201cexceptional circumstances when the need for additional care is finite and predictable.\u201d",
+  "Once a beneficiary qualifies for coverage of home health services, Medicare will cover either part-time or intermittent skilled nursing care and home health aide services. In the context of Medicare coverage of skilled nursing and home health aide services:",
+  "[T]he term \u201cpart-time or intermittent services\u201d means skilled nursing and home health aide services furnished any number of days per week as long as they are furnished (combined) less than 8 hours each day and 28 or fewer hours each week (or, subject to review on a case-by-case basis as to the need for care, less than 8 hours a day and 35 or fewer hours per week).",
+  "This definition of \u201cpart-time or intermittent\u201d operates as a limit on Medicare coverage of skilled nursing and home health aide services.",
+  "EXAMPLE: A patient needs skilled nursing care monthly for a catheter change and the home health agency also renders needed daily home health aide services 24 hours per day that will be needed for a long and indefinite period of time. The HHA bills Medicare for the skilled nursing and home health aide services which were provided before the 35th hour of service each week, and bills the beneficiary (or another payer) for the remainder of the care. If the intermediary determines that the 35 hours of care are reasonable and necessary, Medicare would cover the 35 hours of skilled nursing and home health aide visits."
+ ],
+ "arm": "E_aljfacts",
+ "set": "held",
+ "coverage_label": null,
+ "issue_type": "PROCEDURAL",
+ "include_primary": 0,
+ "evidence_words_A": 295,
+ "evidence_words_D": 650,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_arm_E.py (post-hoc, exploratory)",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "alj_fact_sentences": 0
+}

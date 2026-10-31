@@ -1,0 +1,66 @@
+{
+ "case_id": "state_of_vt",
+ "domain": "home_health",
+ "docket": "M-10-1292",
+ "service_at_issue": "home health skilled nursing visits, November 2, 2006 through November 29, 2007",
+ "reference_outcome": "partial",
+ "outcome_note": "The Council found skilled nursing covered for three wound-care episodes in 2007, agreed the remaining visits were not skilled, and reassigned liability between beneficiary and provider based on an ABN.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 409.42(a)-(e)",
+  "42 CFR 409.42(c)",
+  "42 CFR 409.42(c)(1)",
+  "42 CFR 409.32",
+  "42 CFR 409.33(a)",
+  "42 CFR 409.44(b)(3)",
+  "42 CFR 411.400",
+  "42 CFR 411.404",
+  "42 CFR 411.404(b)",
+  "42 CFR 411.406",
+  "42 CFR 411.406(e)",
+  "MCPM (Pub. 100-4) ch.30 40.2.2",
+  "MCPM (Pub. 100-4) ch.30 40.3.1.3",
+  "SSA 1879",
+  "SSA 1861(m)",
+  "SSA 1814(a)(2)(C)"
+ ],
+ "facts": [
+  "During the period at issue, the beneficiary was an 85- or 86-year- old female with a principal diagnosis of type II diabetes, uncomplicated. Exh. 4, at 1. She was also diagnosed with other persistent mental disorder (i.e., dementia), abnormality of gait, and hypothyroidism not otherwise specified. Id. The beneficiary began receiving home health care in May, 2003. Id.",
+  "The beneficiary\u2019s plan of care (POC) called for one skilled nursing visit every other week or as needed to assess diabetic status, knowledge of disease and disease management, nutrition, and skin care; to teach medication use, diabetic management, signs and symptoms to report to medical professionals, nutrition, activity, and skin care; fill the beneficiary\u2019s pill-planner, review blood sugar monitoring performed by the beneficiary\u2019s caregiver, and provide foot care and skin care as needed. Id.",
+  "The provider submitted demand bills to the Medicare contractor, which denied Medicare coverage for all dates of service at issue. See, e.g., Exh. 1, at 42-44. The appellant requested redetermination. Each redetermination concluded: \u201cThere were no skilled needs identified or provided. [The beneficiary\u2019s] condition remained stable. See, e.g., Exh. 1, at 2.",
+  "The appellant requested reconsideration by a Qualified Independent Contractor (QIC). The QIC found that the home health services were not covered by Medicare because the nursing visits did not meet Medicare coverage criteria. Exh. 2, at 5.",
+  "In addition, skilled care may, depending on the unique condition of the patient, continue to be necessary for patients whose condition is stable.",
+  "The medical records document that, from June 3, 2007, through June 27, 2007, the provider\u2019s nurses observed and assessed the pressure ulcer on the beneficiary\u2019s sacrum; provided wound care, including cleansing and dressing the wound; and instructed the beneficiary\u2019s caregivers in wound care. See Exh. 4, at 74-97.",
+  "Eval[uation] of lesion on left buttock. 6-8 fluid filled vesicles on erythematous base, easily undomed without pain, not on dermatomal line, not pressure ulcer.",
+  "Further, on August 17, 2007, the nurse documented a visit as follows:",
+  "PT [Patient] seen today to follow up on redden[ed] blistered area on PTs left buttock. Instructed PCA to wear gloves at all times when touching that area or clothing that may have touched that area to prevent spreading. . . . MD was notified of the current status of the wound. . . .",
+  "Nurses continued to assess and treat the area through the visit on August 30, 2007. See id. at 121-136. By the visit on September 5, 2007, the provider\u2019s nurse documented that the beneficiary\u2019s left buttock wound had healed completely. Id. at 139.",
+  "Finally, the beneficiary again developed skin integrity issues on October 25, 2007. The nurse again provided assessment and treatment for the foot wounds on October 29, 2007. Id. at 163.",
+  "The beneficiary\u2019s representative (her spouse) signed one ABN on January 1, 2007, and the other on June 27, 2007. Id."
+ ],
+ "arm": "E_aljfacts",
+ "set": "dev",
+ "coverage_label": "PARTLY_COVERED",
+ "issue_type": "MERITS_PLUS_LIABILITY",
+ "include_primary": 1,
+ "evidence_words_A": 219,
+ "evidence_words_D": 474,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_arm_E.py (post-hoc, exploratory)",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "alj_fact_sentences": 1
+}

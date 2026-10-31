@@ -1,0 +1,46 @@
+{
+ "case_id": "eagle_air_med",
+ "domain": "ambulance",
+ "docket": "M-10-1934",
+ "service_at_issue": "Fixed-wing air ambulance (A0430) and 243 air miles (A0435) from an Indian Health Service clinic to a hospital in Arizona for GI bleeding",
+ "reference_outcome": "partial",
+ "outcome_note": "Ambulance transport was covered but limited to ground rates for 136 miles to the nearest capable facility; the extra 107 miles were not covered.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.4.6"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 410.40",
+  "42 CFR 410.41",
+  "42 CFR 411.400(a)",
+  "42 CFR 411.404(a)",
+  "42 CFR 411.406",
+  "42 CFR 414.40(a)",
+  "MCPM ch.30",
+  "SSA 1861(s)(7)",
+  "SSA 1862(a)(1)(A)",
+  "SSA 1879(a)"
+ ],
+ "facts": [
+  "On October 17, 2008, the appellant transported the beneficiary via air ambulance from *** Indian Health Service Clinic, in ***, Arizona, to Good Samaritan Hospital in ***, Arizona, due to gastrointestinal bleeding and acute abdominal pain. Exh. 4."
+ ],
+ "arm": "A_strict",
+ "set": "dev",
+ "coverage_label": "PARTLY_COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 38,
+ "evidence_words_D": 380,
+ "evidence_ok": 0,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "parent": "eagle_air_med",
+ "status": "SEPARATE"
+}

@@ -1,0 +1,49 @@
+{
+ "case_id": "11-1343",
+ "domain": "snf",
+ "docket": "M-11-1343",
+ "service_at_issue": "SNF stays billed at RUG-III therapy levels for three beneficiaries (Aug/Oct 2009): PT, OT, ST and skilled nursing",
+ "facts": [
+  "D.E. had a prior hospital stay for a diagnosis of congestive heart failure from August 23, 2009, to August 26, 2009. Exh. 2 at 216. The beneficiary\u2019s medical history included stroke, left-sided weakness due to stroke, hearing loss, hypertension, GERD, depression (present situational depression), chronic Coumadin treatment, diabetes type II, hyperlipidemia, left hip arthroplasty, CHF and anemia. Exh. 2 at 166. The beneficiary was noted to have \u201csome obvious \u2018cognitive deficits,\u2019 but no official diagnosis of dementia.\u201d Id. at 168.",
+  "At OT initiation, D.E.\u2019s functional status had declined as follows: her sitting balance was poor; she required moderate assistance with lower body bathing; maximal assistance with upper body bathing; maximal assistance with lower body dressing; and maximal assistance with toilet transfers. Id.",
+  "the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination. Exh. 2 at 212. D.E.\u2019s prior level of function was noted to be \u201crequired assistance to transfer from sitting to standing.\u201d Id. at 216. D.E. was referred to PT due to decreased strength and decreased ADLs due to illness. Id. At the beginning of PT, D.E. required moderate assistance for all functional transfers. Id. at 217.",
+  "the services were initiated on August 27, 2009, with a treatment diagnosis of cognitive deficits. Exh. 2 at 246. At the onset of ST, D.E. exhibited moderate to severe receptive and expressive language and cognitive deficits. Exh. 2 at 214. D.E. was referred to ST to evaluate for speech/language cognitive deficits affecting her communication and safety. Exh. 2 at 250. D.E.\u2019s goals included \u201c[increased] quality of life to enjoy a maximum possible level of cognitive functioning and communication skills as measured by skilled observation and modified formal testing [with] 80% proficiency.\u201d Exh. 2 at 250.",
+  "E.M. was referred to ST following a recent hospitalization for severe shortness of breath, worsening cough, and difficulty lying down. See Exh. 2 at 105. E.M.\u2019s primary functional goal was to increase her quality of life to enjoy maximal possible level of cognitive functioning and communication skills. Id.",
+  "OT services were initiated on August 24, 2009 with a treatment diagnosis of lack of coordination and muscle weakness. Exh. 2 at 194. E.M.\u2019s prior level of functional was minimal to moderate assistance with ADLs. Id. at 187. E.M. was referred to OT due to an overall decline in transfers, range of motion, strength, and independence with ADLs. Id. at 187. In September 2009, E.M. required maximal assist and 100% tactical, visual or verbal cue to attend to task. Id. at 186.",
+  "J.M. was referred to PT secondary to a fall with fracture of the left hip with weakness. Exh. 2 at 316. At the beginning of PT, J.M. required moderate to maximal assist with functional mobility. Exh. 2 at 316. J.M.\u2019s right lower extremity strength measured 3/5 and left lower extremity measured 2+/5. Id.",
+  "the nursing notes indicate that on July 28, 2009, the beneficiary sustained a fall and hit her head. She was transported to the hospital for a head scan. Id. at 172. Upon return to the SNF, she was placed on a neurological watch and fall precautions. Id. at 172-173. The nurses monitored J.M.\u2019s condition including pupil size, alertness, signs and symptoms of pain and ability to follow commands. Id. at 173.",
+  "services were initiated on June 14, 2009, with a treatment diagnosis of muscle weakness. J.M.\u2019s prior level of function was documented as independent with bed mobility, transfers, ambulation and eating and required minimal assist with all other care. Exh. 2 at 294. At the onset of OT services, J.M. required minimal assistance with feeding, maximal assistance with all other care. Id. Bilateral upper extremity strength was rated 3/5. Goals were developed to improve functionality. Id."
+ ],
+ "reference_outcome": "partial",
+ "outcome_note": "The Council modified the ALJ decisions: physician signature on the plan of care was not required, so the lack of signatures was not a basis for denial, but most PT/OT/ST was not reasonable and necessary (only D.E. OT, E.M. ST and J.M. skilled nursing were), so claims were downcoded and the beneficiaries were held not liable.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.8",
+   "section": "30"
+  }
+ ],
+ "other_cites": [
+  "SSA 1861(h)",
+  "SSA 1862(a)(1)(A)",
+  "SSA 1862(a)(9)",
+  "SSA 1814(a)(2)(B)",
+  "SSA 1866(a)(1)(A)",
+  "SSA 1879",
+  "SSA 1833(e)",
+  "SSA 1888(e)(6)",
+  "42 CFR 409.30-409.36",
+  "42 CFR 409.31(a)",
+  "42 CFR 411.15(g)",
+  "42 CFR 424.11",
+  "42 CFR 424.5(a)(6)",
+  "42 CFR 411.400",
+  "42 CFR 411.404",
+  "42 CFR 411.406",
+  "MPIM ch.6 6.1, 6.1.3, 6.2",
+  "CMS Ruling 95-1",
+  "MCPM ch.30"
+ ],
+ "scope": "included",
+ "key_quality": "has_mbpm_key",
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

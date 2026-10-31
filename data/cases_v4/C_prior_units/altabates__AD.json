@@ -1,0 +1,94 @@
+{
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.2"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.2.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.3.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.3.2"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.2"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.3"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.4"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.5"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.6"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.7"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 411.15(k)(1)",
+  "42 CFR 409.3",
+  "42 CFR 483.45",
+  "SSA 1811",
+  "SSA 1812",
+  "SSA 1861(e)(1)",
+  "SSA 1862(a)"
+ ],
+ "case_id": "altabates__AD",
+ "parent": "altabates",
+ "unit_note": "",
+ "service_at_issue": "Inpatient rehabilitation facility (IRF) services furnished to one beneficiary (A.D.), Mar 8-18, 2005",
+ "reference_outcome": "COVERED",
+ "outcome_note": "(unit)",
+ "facts": [
+  "A.D. was 84 years old and was independent in mobility and ADLs and living in a home with 40 steps to the entrance (and 3 more to his bedroom) when he suffered a CVA in early March 2005.",
+  "His overall rehabilitative goals were to learn to compensate for the blindness on one side and to be able to return home with improved mobility and safety. Id.",
+  "The appellant argues that the physician had to titrate the medications on a daily basis due to large fluctuations in blood pressure, uncontrolled diabetes, the need to stop Coumadin (which he had been taking due to multiple pulmonary emboli after an abdominal aortic aneurysm repair the prior year) because of the nature of his stroke and still manage the atrial fibrillation, and the potential for interactions affecting his thyroid. During A.D.\u2019s stay, according to appellant, the physician arranged a consult with an ear, nose and throat specialist who found signs of Gastric Esophageal Reflux Disease which required additional medication and precautions. Id.; A.D. Ex. 12, at 647.",
+  "During his stay, he received physical therapy daily for 60-90 minutes. Id. at 753. Occupational therapy provided treatment on seven days for 60-105 minutes and participated in evaluation and case conferences. Id. at 758. In addition, he received speech therapy on seven occasions (from 30-90 minutes each) to improve his dysphagia, comprehension and expression and cognitive declines. Id. at 751. His clinical treatment records document progress notes from neuropsychology reflecting 6 visits. Id. at 640-55, 762- 63."
+ ],
+ "arm": "C_prior",
+ "set": "dev",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 250,
+ "evidence_words_D": 577,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_units.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

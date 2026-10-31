@@ -1,0 +1,54 @@
+{
+ "_note": "Criteria trees transcribed ONLY from the manual text (section numbers given per leaf). Built before any criteria-tree run. Operators: AND = every child must hold; OR = at least one child holds. Liability, notice, waiver, reopening and other procedural issues are NOT coverage criteria in these manual sections and are out of scope for the tree.",
+ "snf": {
+  "doc": "MBPM ch.8",
+  "root": {"id": "snf", "op": "AND", "text": "Medicare covers this SNF stay", "children": [
+   {"id": "snf.stay", "op": "AND", "text": "Prior hospitalization and transfer requirements are met (ch.8 s20)", "children": [
+     {"id": "snf.stay.3day", "leaf": true, "text": "The beneficiary was a hospital INPATIENT for a medically necessary stay of at least 3 consecutive calendar days (day of admission counts, day of discharge does not; time in observation or the emergency room does not count).", "sections": ["20", "20.1"]},
+     {"id": "snf.stay.30day", "leaf": true, "text": "The beneficiary was transferred to a participating SNF within 30 days after hospital discharge (or the s20.2 exception applies).", "sections": ["20", "20.2.1", "20.2.2"]}
+   ]},
+   {"id": "snf.level", "op": "AND", "text": "The four SNF level-of-care factors are all met (ch.8 s30)", "children": [
+     {"id": "snf.level.skilled", "op": "OR", "text": "The patient requires skilled nursing or skilled rehabilitation services ordered by a physician, for a condition treated in the hospital or arising in the SNF", "children": [
+       {"id": "snf.level.skilled.nursing", "leaf": true, "text": "The patient needs direct skilled nursing services (services so inherently complex they can be safely and effectively performed only by or under the supervision of a registered nurse).", "sections": ["30.2.1", "30.2.2", "30.3"]},
+       {"id": "snf.level.skilled.therapy", "leaf": true, "text": "The patient needs direct skilled therapy services (physical therapy, speech-language pathology or occupational therapy requiring the skills of a therapist).", "sections": ["30.2.1", "30.4", "30.4.1.1", "30.4.1.2", "30.4.2", "30.4.3"]},
+       {"id": "snf.level.skilled.careplan", "leaf": true, "text": "The patient needs skilled management and evaluation of a care plan (the total care, skilled or not, must be planned and managed by skilled nursing personnel).", "sections": ["30.2.3.1"]},
+       {"id": "snf.level.skilled.observation", "leaf": true, "text": "The patient needs skilled observation and assessment because there is a likelihood of change in condition requiring skilled personnel to evaluate need for modified treatment, until the condition is essentially stabilized.", "sections": ["30.2.3.2"]},
+       {"id": "snf.level.skilled.teaching", "leaf": true, "text": "The patient needs skilled teaching and training activities requiring skilled personnel to teach the patient to manage the treatment regimen.", "sections": ["30.2.3.3"]}
+     ]},
+     {"id": "snf.level.daily", "leaf": true, "text": "The patient requires the skilled services on a DAILY basis (skilled nursing or rehabilitation seven days a week, or skilled rehabilitation at least five days a week).", "sections": ["30", "30.6"]},
+     {"id": "snf.level.practical", "leaf": true, "text": "As a practical matter, considering economy and efficiency, the daily skilled services can be provided only on an inpatient basis in a SNF.", "sections": ["30", "30.7", "30.7.1", "30.7.2", "30.7.3"]},
+     {"id": "snf.level.necessary", "leaf": true, "text": "The services delivered are reasonable and necessary for the treatment of the illness or injury: consistent with its nature and severity, the individual's particular medical needs and accepted standards of medical practice, and reasonable in duration and quantity.", "sections": ["30", "30.2.2", "30.2.2.1"]}
+   ]}
+  ]}
+ },
+ "home_health": {
+  "doc": "MBPM ch.7",
+  "root": {"id": "hh", "op": "AND", "text": "Medicare covers these home health services", "children": [
+   {"id": "hh.homebound", "op": "AND", "text": "The patient is confined to the home (ch.7 s30.1.1)", "children": [
+     {"id": "hh.homebound.c1", "op": "OR", "text": "Criterion One", "children": [
+       {"id": "hh.homebound.c1.aid", "leaf": true, "text": "Because of illness or injury, the patient needs supportive devices (crutches, canes, wheelchair, walker), special transportation, or the assistance of another person in order to leave the residence.", "sections": ["30.1.1"]},
+       {"id": "hh.homebound.c1.contra", "leaf": true, "text": "The patient has a condition such that leaving home is medically contraindicated.", "sections": ["30.1.1"]}
+     ]},
+     {"id": "hh.homebound.c2.inability", "leaf": true, "text": "There exists a normal inability to leave home.", "sections": ["30.1.1"]},
+     {"id": "hh.homebound.c2.effort", "leaf": true, "text": "Leaving home requires a considerable and taxing effort.", "sections": ["30.1.1"]}
+   ]},
+   {"id": "hh.physician", "leaf": true, "text": "The patient is under the care of a physician or allowed practitioner.", "sections": ["30", "30.2", "30.2.1"]},
+   {"id": "hh.plan", "leaf": true, "text": "The services are furnished under a plan of care established and periodically reviewed by a physician or allowed practitioner.", "sections": ["30", "30.2", "30.2.1", "30.2.3", "30.2.4", "30.2.5"]},
+   {"id": "hh.skilled", "op": "OR", "text": "The patient needs a qualifying skilled service", "children": [
+     {"id": "hh.skilled.nursing", "leaf": true, "text": "The patient needs skilled nursing care on an intermittent basis (fewer than 7 days each week or less than 8 hours each day for 21 days or less) that is reasonable and necessary, such as skilled observation and assessment, management and evaluation of a care plan, or teaching.", "sections": ["30", "40.1", "40.1.1", "40.1.2.1", "40.1.2.2", "40.1.2.3"]},
+     {"id": "hh.skilled.therapy", "leaf": true, "text": "The patient needs physical therapy or speech-language pathology that is reasonable and necessary, or has a continuing need for occupational therapy.", "sections": ["30", "40.2", "40.2.1", "40.2.2"]}
+   ]}
+  ]}
+ },
+ "inpatient_rehab": {
+  "doc": "MBPM ch.1",
+  "root": {"id": "irf", "op": "AND", "text": "Inpatient rehabilitation facility care was reasonable and necessary and covered", "children": [
+   {"id": "irf.docs", "leaf": true, "text": "The IRF medical record contains the required documentation: a pre-admission screening, an overall plan of care, and admission orders (s110.1).", "sections": ["110", "110.1", "110.1.1", "110.1.3", "110.1.4"]},
+   {"id": "irf.multi", "leaf": true, "text": "The patient required the active and ongoing therapeutic intervention of multiple therapy disciplines (PT, OT, speech-language pathology, or prosthetics/orthotics), one of which must be PT or OT.", "sections": ["110.2", "110.2.1"]},
+   {"id": "irf.intensive", "leaf": true, "text": "The patient generally required an intensive rehabilitation therapy program (generally at least 3 hours per day at least 5 days per week, or at least 15 hours per week).", "sections": ["110.2", "110.2.2"]},
+   {"id": "irf.benefit", "leaf": true, "text": "The patient could reasonably be expected to actively participate in, and benefit significantly from, the intensive program, i.e., make measurable improvement of practical value within a prescribed period of time.", "sections": ["110.2", "110.2.3", "110.3"]},
+   {"id": "irf.physician", "leaf": true, "text": "The patient required physician supervision by a rehabilitation physician, with face-to-face visits at least 3 days per week.", "sections": ["110.2", "110.2.4"]},
+   {"id": "irf.interdisciplinary", "leaf": true, "text": "The patient required an intensive and coordinated interdisciplinary approach to providing rehabilitation.", "sections": ["110.2", "110.2.5"]}
+  ]}
+ }
+}

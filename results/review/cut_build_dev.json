@@ -1,0 +1,186 @@
+[
+ {
+  "id": "12-1251",
+  "label": "COVERED",
+  "wordsA": 109,
+  "A_plus": 123,
+  "A_plusW": 182,
+  "A_strict": 109
+ },
+ {
+  "id": "case_excellenthomecare",
+  "label": "NOT_COVERED",
+  "wordsA": 333,
+  "A_plus": 385,
+  "A_plusW": 385,
+  "A_strict": 333
+ },
+ {
+  "id": "case_landmark",
+  "label": "COVERED",
+  "wordsA": 289,
+  "A_plus": 516,
+  "A_plusW": 516,
+  "A_strict": 289
+ },
+ {
+  "id": "dc_case",
+  "label": "NOT_COVERED",
+  "wordsA": 149,
+  "A_plus": 261,
+  "A_plusW": 261,
+  "A_strict": 149
+ },
+ {
+  "id": "estate_gbr",
+  "label": "COVERED",
+  "wordsA": 193,
+  "A_plus": 295,
+  "A_plusW": 295,
+  "A_strict": 193
+ },
+ {
+  "id": "gold_cross_ambulance",
+  "label": "COVERED",
+  "wordsA": 136,
+  "A_plus": 180,
+  "A_plusW": 279,
+  "A_strict": 136
+ },
+ {
+  "id": "kaweah_rehabilitationhospital",
+  "label": "COVERED",
+  "wordsA": 474,
+  "A_plus": 629,
+  "A_plusW": 629,
+  "A_strict": 474
+ },
+ {
+  "id": "m-11-1559",
+  "label": "COVERED",
+  "wordsA": 746,
+  "A_plus": 865,
+  "A_plusW": 903,
+  "A_strict": 746
+ },
+ {
+  "id": "m-11-2450",
+  "label": "NOT_COVERED",
+  "wordsA": 97,
+  "A_plus": 152,
+  "A_plusW": 161,
+  "A_strict": 97
+ },
+ {
+  "id": "m_12_257",
+  "label": "COVERED",
+  "wordsA": 262,
+  "A_plus": 305,
+  "A_plusW": 322,
+  "A_strict": 262
+ },
+ {
+  "id": "m_12_809",
+  "label": "NOT_COVERED",
+  "wordsA": 276,
+  "A_plus": 389,
+  "A_plusW": 389,
+  "A_strict": 276
+ },
+ {
+  "id": "nj_dept_humanservices5",
+  "label": "COVERED",
+  "wordsA": 289,
+  "A_plus": 381,
+  "A_plusW": 381,
+  "A_strict": 289
+ },
+ {
+  "id": "rb_obo_jb",
+  "label": "NOT_COVERED",
+  "wordsA": 148,
+  "A_plus": 181,
+  "A_plusW": 181,
+  "A_strict": 148
+ },
+ {
+  "id": "rx_homecare",
+  "label": "NOT_COVERED",
+  "wordsA": 123,
+  "A_plus": 123,
+  "A_plusW": 153,
+  "A_strict": 123
+ },
+ {
+  "id": "sacredheart_hospital",
+  "label": "COVERED",
+  "wordsA": 353,
+  "A_plus": 550,
+  "A_plusW": 550,
+  "A_strict": 353
+ },
+ {
+  "id": "uphams_homehealthcare",
+  "label": "NOT_COVERED",
+  "wordsA": 146,
+  "A_plus": 146,
+  "A_plusW": 146,
+  "A_strict": 146
+ },
+ {
+  "id": "visitingnursing",
+  "label": "COVERED",
+  "wordsA": 286,
+  "A_plus": 390,
+  "A_plusW": 390,
+  "A_strict": 286
+ },
+ {
+  "id": "prestige_homecare__BK",
+  "label": "NOT_COVERED",
+  "wordsA": 106,
+  "A_plus": 139,
+  "A_plusW": 151,
+  "A_strict": 106
+ },
+ {
+  "id": "prestige_homecare__BN",
+  "label": "NOT_COVERED",
+  "wordsA": 96,
+  "A_plus": 129,
+  "A_plusW": 145,
+  "A_strict": 96
+ },
+ {
+  "id": "prestige_homecare__FP",
+  "label": "NOT_COVERED",
+  "wordsA": 115,
+  "A_plus": 141,
+  "A_plusW": 141,
+  "A_strict": 115
+ },
+ {
+  "id": "altabates__IW",
+  "label": "COVERED",
+  "wordsA": 384,
+  "A_plus": 486,
+  "A_plusW": 486,
+  "A_strict": 384
+ },
+ {
+  "id": "altabates__JH",
+  "label": "COVERED",
+  "wordsA": 194,
+  "A_plus": 270,
+  "A_plusW": 278,
+  "A_strict": 194
+ },
+ {
+  "id": "altabates__AD",
+  "label": "COVERED",
+  "wordsA": 250,
+  "A_plus": 476,
+  "A_plusW": 476,
+  "A_strict": 250
+ }
+]

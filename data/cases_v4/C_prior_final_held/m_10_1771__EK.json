@@ -1,0 +1,55 @@
+{
+ "domain": "snf",
+ "docket": "M-10-1771",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.8",
+   "section": "30"
+  },
+  {
+   "doc": "MBPM ch.8",
+   "section": "30.4.1.1"
+  },
+  {
+   "doc": "MBPM ch.8",
+   "section": "30.4.1.2"
+  }
+ ],
+ "other_cites": [
+  "SSA 1833(e)",
+  "SSA 1862(a)(9)",
+  "SSA 1879",
+  "SSA 1888(e)(6)",
+  "42 CFR 409.30-409.36",
+  "42 CFR 409.34(a)(1)",
+  "42 CFR 424.5(a)(6)",
+  "42 CFR 405.1122(c)",
+  "MPIM ch.6 6.1, 6.1.3, 6.2",
+  "64 Fed. Reg. 41666"
+ ],
+ "case_id": "m_10_1771__EK",
+ "parent": "m_10_1771",
+ "unit_note": "source text names E.M./speech therapy in the E.K. section (internal inconsistency)",
+ "service_at_issue": "Outpatient physical therapy furnished to one nursing-facility resident (E.K.), Sep 4-30, 2008",
+ "reference_outcome": "NOT_COVERED",
+ "outcome_note": "(unit)",
+ "facts": [
+  "Beneficiary E.K. Issue: Outpatient PT (Part B of A) Dates of Service: September 4-30, 2008",
+  "However, the Exhibit List in Beneficiary E.K.\u2019s case folder, at the mark for \u201cExhibit 3,\u201d indicates that there was no post-QIC reconsideration documentation submitted for Beneficiary E.K. Additionally, there are no physical documents under the \u201cExhibit 3\u201d cover in the beneficiary\u2019s record.",
+  "The QIC issued an unfavorable reconsideration finding that the treatment in issue did not require the skills of a physical therapist nor was it reasonable and necessary, particularly when the beneficiary had been receiving ongoing occupational therapy services. The QIC noted that the record did not contain documentation of the \u201cbeneficiary\u2019s prior functional status,\u201d and that the beneficiary had retained deficits from an earlier stroke which affected her left side such that a decline in the functional status of her left arm could not, as the appellant contended, be attributed to a left arm sprain. The QIC found"
+ ],
+ "arm": "C_prior",
+ "set": "held",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 15,
+ "evidence_words_D": 155,
+ "evidence_ok": 0,
+ "build": {
+  "tool": "scripts/build_units.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "status": "MAIN"
+}

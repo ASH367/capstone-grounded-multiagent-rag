@@ -1,0 +1,263 @@
+[
+ {
+  "uid": "11-1343__DE_OT",
+  "parent": "11-1343",
+  "label": "COVERED",
+  "council_sentence": "the Council concurs with the ALJ that the OT services were medically reasonable and necessary",
+  "wordsA": 41,
+  "wordsD": 226,
+  "evidence_ok": 0,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "11-1343__DE_PT",
+  "parent": "11-1343",
+  "label": "NOT_COVERED",
+  "council_sentence": "the record does not support a finding that the PT services were medically reasonable and necessary",
+  "wordsA": 165,
+  "wordsD": 462,
+  "evidence_ok": 1,
+  "leak_candidates": [
+   "The contractor then denied the downcoded claims as not reasonable and necessary, after finding that the record did not contain documentation to support a findin"
+  ],
+  "note": ""
+ },
+ {
+  "uid": "11-1343__DE_ST",
+  "parent": "11-1343",
+  "label": "NOT_COVERED",
+  "council_sentence": "the record does not support a finding that D.E. experienced significant progress to justify continued skilled speech therapy",
+  "wordsA": 179,
+  "wordsD": 424,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "11-1343__EM_ST",
+  "parent": "11-1343",
+  "label": "COVERED",
+  "council_sentence": "the Council concurs with the ALJ that the ST services were medically reasonable and necessary",
+  "wordsA": 109,
+  "wordsD": 270,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "11-1343__EM_PT",
+  "parent": "11-1343",
+  "label": "NOT_COVERED",
+  "council_sentence": "the record does not support a finding that the PT services were medically reasonable and necessary",
+  "wordsA": 118,
+  "wordsD": 282,
+  "evidence_ok": 1,
+  "leak_candidates": [
+   "The contractor then denied the downcoded claims as not reasonable and necessary, after finding that the record did not contain documentation to support a findin"
+  ],
+  "note": ""
+ },
+ {
+  "uid": "11-1343__EM_OT",
+  "parent": "11-1343",
+  "label": "NOT_COVERED",
+  "council_sentence": "the Council finds that the PT, and OT services at issue were not medically reasonable and necessary",
+  "wordsA": 157,
+  "wordsD": 386,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "11-1343__JM_SN",
+  "parent": "11-1343",
+  "label": "COVERED",
+  "council_sentence": "the SN services for dates of service at issue were skilled, and thus medically reasonable and necessary",
+  "wordsA": 85,
+  "wordsD": 200,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "11-1343__JM_PT",
+  "parent": "11-1343",
+  "label": "NOT_COVERED",
+  "council_sentence": "the Council finds the PT, OT, and ST services at issue were not medically reasonable and necessary",
+  "wordsA": 200,
+  "wordsD": 398,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "11-1343__JM_OT",
+  "parent": "11-1343",
+  "label": "NOT_COVERED",
+  "council_sentence": "the Council finds the PT, OT, and ST services at issue were not medically reasonable and necessary",
+  "wordsA": 77,
+  "wordsD": 255,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "11-1343__JM_ST",
+  "parent": "11-1343",
+  "label": "NOT_COVERED",
+  "council_sentence": "the Council finds the PT, OT, and ST services at issue were not medically reasonable and necessary",
+  "wordsA": 174,
+  "wordsD": 310,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "prestige_homecare__BK",
+  "parent": "prestige_homecare",
+  "label": "NOT_COVERED",
+  "council_sentence": "the home health services provided to beneficiaries B.K., B.N., and F.P. were not medically reasonable and necessary and are not covered by Medicare",
+  "wordsA": 106,
+  "wordsD": 170,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "prestige_homecare__BN",
+  "parent": "prestige_homecare",
+  "label": "NOT_COVERED",
+  "council_sentence": "the home health services provided to beneficiaries B.K., B.N., and F.P. were not medically reasonable and necessary and are not covered by Medicare",
+  "wordsA": 96,
+  "wordsD": 245,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "prestige_homecare__FP",
+  "parent": "prestige_homecare",
+  "label": "NOT_COVERED",
+  "council_sentence": "the home health services provided to beneficiaries B.K., B.N., and F.P. were not medically reasonable and necessary and are not covered by Medicare",
+  "wordsA": 115,
+  "wordsD": 409,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "m_10_1771__EK",
+  "parent": "m_10_1771",
+  "label": "NOT_COVERED",
+  "council_sentence": "the physical therapy services provided to Beneficiary E.K. were not covered by Medicare",
+  "wordsA": 15,
+  "wordsD": 155,
+  "evidence_ok": 0,
+  "leak_candidates": [],
+  "note": "source text names E.M./speech therapy in the E.K. section (internal inconsistency)"
+ },
+ {
+  "uid": "m_10_1771__JS",
+  "parent": "m_10_1771",
+  "label": "NOT_COVERED",
+  "council_sentence": "the skilled nursing facility services provided to Beneficiaries E.M. and J.S. were not covered by Medicare",
+  "wordsA": 162,
+  "wordsD": 329,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": "no separate E.M. section in text; E.M. unit not built"
+ },
+ {
+  "uid": "roman_eagle__stay1",
+  "parent": "roman_eagle_memorial_home",
+  "label": "NOT_COVERED",
+  "council_sentence": "Medicare coverage for the period from September 29 through November 27, 2003 is denied because the beneficiary did not receive skilled care and her physician did not certify her need for a skilled level of care",
+  "wordsA": 495,
+  "wordsD": 968,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "roman_eagle__stay2",
+  "parent": "roman_eagle_memorial_home",
+  "label": "COVERED",
+  "council_sentence": "During the second stay, from December 11, 2003, through January 6, 2004, the beneficiary received skilled care and her physician certified her need for skilled-level care",
+  "wordsA": 289,
+  "wordsD": 614,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": "label is coverage-criteria only: provider (not Medicare) liable because notice/consent invalid. decided with user 2026-10-30"
+ },
+ {
+  "uid": "altabates__IW",
+  "parent": "altabates",
+  "label": "COVERED",
+  "council_sentence": "Services provided to this beneficiary were reasonable and necessary under applicable legal authority (numbered Council finding; ALJ reversed, claim covered)",
+  "wordsA": 384,
+  "wordsD": 520,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "altabates__JH",
+  "parent": "altabates",
+  "label": "COVERED",
+  "council_sentence": "Services provided to this beneficiary were reasonable and necessary under applicable legal authority (numbered Council finding; ALJ reversed, claim covered)",
+  "wordsA": 194,
+  "wordsD": 331,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "altabates__AD",
+  "parent": "altabates",
+  "label": "COVERED",
+  "council_sentence": "Services provided to this beneficiary were reasonable and necessary under applicable legal authority (numbered Council finding; ALJ reversed, claim covered)",
+  "wordsA": 250,
+  "wordsD": 577,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ },
+ {
+  "uid": "nj_dept_humanservices22__WB_SN",
+  "parent": "nj_dept_humanservices22",
+  "label": "COVERED",
+  "council_sentence": "We therefore conclude that the four skilled nursing visits are covered services",
+  "wordsA": 97,
+  "wordsD": 150,
+  "evidence_ok": 1,
+  "leak_candidates": [
+   "At the hearing, the appellant withdrew its claim as to all but two sets of services: (1) four skilled nursing visits and (2) eleven physical therapy visits."
+  ],
+  "note": ""
+ },
+ {
+  "uid": "nj_dept_humanservices22__WB_PT",
+  "parent": "nj_dept_humanservices22",
+  "label": "COVERED",
+  "council_sentence": "We therefore conclude that the eleven physical therapy visits were covered services",
+  "wordsA": 700,
+  "wordsD": 946,
+  "evidence_ok": 1,
+  "leak_candidates": [
+   "At the hearing, the appellant withdrew its claim as to all but two sets of services: (1) four skilled nursing visits and (2) eleven physical therapy visits."
+  ],
+  "note": ""
+ },
+ {
+  "uid": "nj_dept_humanservices22__DW",
+  "parent": "nj_dept_humanservices22",
+  "label": "COVERED",
+  "council_sentence": "The decision of the Medicare Appeals Council in both cases is fully favorable to the appellant",
+  "wordsA": 251,
+  "wordsD": 393,
+  "evidence_ok": 1,
+  "leak_candidates": [],
+  "note": ""
+ }
+]

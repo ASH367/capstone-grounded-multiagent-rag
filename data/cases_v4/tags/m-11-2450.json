@@ -1,0 +1,317 @@
+{
+"case_id": "m-11-2450",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated August 18, 2011.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ denied the appellant\u2019s claim for Medicare Part B coverage for basic life support, emergency ambulance transport (HCPCS code1 A0429) and associated ground mileage (HCPCS code A0425) furnished to the beneficiary on November 2, 2010.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ determined that transport was not medically reasonable and necessary and determined that the beneficiary was responsible for the non-covered charges.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council (Council) to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 0,
+"si": 4,
+"section": "INTRO",
+"text": "The Council admits the appellant\u2019s request for review and accompanying correspondence into the administrative record as Exhibit (Exh.) MAC-1.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council has considered the record and the appellant\u2019s exceptions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "For the reasons set forth below, the Council agrees with the ALJ\u2019s decision that the ambulance transport and ground mileage in question are not covered and that the appellant is responsible for the non-covered charges.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 2,
+"section": "INTRO",
+"text": "We modify the ALJ\u2019s decision to clarify that the statutory basis for denial is \u00a7 1861(s)(7) of the Social Security Act (Act) and not \u00a7 1862(a)(1) of the Act.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant seeks coverage for the basic life support emergency ambulance transport (and associated ground mileage) that was furnished to him on November 2, 2010.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 4,
+"si": 1,
+"section": "MIXED",
+"text": "On that date, the appellant was exiting a tour bus at a national park and \u201cended up on the ground.\u201d Exh. MAC-1.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "MIXED",
+"text": "The bus driver alerted the park rangers who called an ambulance to take the appellant from the scene of the accident to a \u201cclinic\u201d within the national park. See Exh. 1 at 10.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 4,
+"si": 3,
+"section": "MIXED",
+"text": "The ALJ determined that \u201c[a]mbulance transport is only covered where transport is provided to a covered destination.\u201d Dec. at 5.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 4,
+"si": 4,
+"section": "MIXED",
+"text": "The ALJ found that the facility to which the appellant was transported was \u201cnot a covered destination\u201d and that the \u201cambulance did not proceed immediately to a covered destination.\u201d Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 4,
+"si": 5,
+"section": "MIXED",
+"text": "The ALJ further determined that the \u201cambulance transport was not medically reasonable and necessary\u201d pursuant to section 1862(a)(1) of the Act and 42 C.F.R. \u00a7 411.15(k) and affirmed the QIC\u2019s decision that the appellant was responsible for the cost of the denied services. Id. at 5-6.",
+"tag": "COUNCIL",
+"reason": "affirmed"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant disagrees with the ALJ\u2019s decision.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "MIXED",
+"text": "In his request for review and in the supplemental correspondence, the appellant argues that the clinic to which he was taken on the date of service was not a doctor\u2019s office; rather he contends it was a skilled nursing facility or a \u201cday time small hospital.\u201d See Exh. MAC-1.",
+"tag": "PARTY",
+"reason": "appellant argues"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "MIXED",
+"text": "The appellant explains that the facility was \u201cbuilt as a hospital, but due to lack of patients, was renamed as a clinic.\u201d Id.",
+"tag": "PARTY",
+"reason": "appellant explains"
+},
+{
+"pi": 5,
+"si": 3,
+"section": "MIXED",
+"text": "He asserts that although he was not in pain, he was in need of emergency care because he could not walk.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "MIXED",
+"text": "The Council concurs with the ALJ\u2019s determination that the appellant was not transported to a covered destination.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "MIXED",
+"text": "On the ambulance run sheet, the destination to which the appellant was taken was described as a \u201cclinic.\u201d Exh. 1 at 12.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "MIXED",
+"text": "The applicable regulation provides that Medicare covers ambulance transportation \u201c[f]rom any point of origin to the nearest hospital, CAH [critical access hospital], or SNF [skilled nursing facility] that is capable of furnishing the required level and type of care for the beneficiary\u2019s illness or injury.\u201d 42 C.F.R. \u00a7 410.40(e)(1).",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "MIXED",
+"text": "Among other things, section 1861(e) of the Act defines \u201chospital,\u201d as an institution which provides \u201c24-hour nursing service rendered or supervised by a registered professional nurse, and has a licensed practical nurse or registered professional nurse on duty at all times.\u201d2 The facility to which the appellant was taken on November 2, 2010, is staffed by a physician \u201cduring day hours only, and is considered an urgent care facility.\u201d Exh. 1 at 10, 17.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "MIXED",
+"text": "As the facility is not a 24\u00ad hour facility, it does not qualify as a hospital for Medicare coverage purposes.",
+"tag": "EVAL",
+"reason": "does not qualify"
+},
+{
+"pi": 7,
+"si": 2,
+"section": "MIXED",
+"text": "Further, the urgent care clinic to which the appellant was taken does not meet the definition of a CAH, which requires a special certification, or a SNF, which provides care to resident-patients. See Social Security Act \u00a7\u00a7 1819(a), 1861(mm)(1).",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "MIXED",
+"text": "While the Council sympathizes with the appellant\u2019s condition on the date of service, and does not dispute that he needed immediate attention for his condition, the fact remains that the clinic to which he was taken does not meet the destination requirements set forth in 42 C.F.R. \u00a7 410.40(e)(1).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "MIXED",
+"text": "Because the outpatient urgent care clinic is not identified in the applicable statutory provisions and the implementing regulations as a qualifying destination point for ambulance transportation, the ambulance services at issue do not meet Medicare requirements.",
+"tag": "LAW",
+"reason": "statutory"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "MIXED",
+"text": "Section 1861(s)(7) of the Act provides that ambulance transport is a covered Medicare service \u201cwhere the use of other methods of transportation is contraindicated by the individual\u2019s condition, but only to the extent provided by [the] regulations.\u201d",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 8,
+"si": 3,
+"section": "MIXED",
+"text": "Italics added.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 8,
+"si": 4,
+"section": "MIXED",
+"text": "As explained above, CMS has issued implementing regulatory guidance that outlines the destination requirements that must be met for the purposes of reimbursement for ambulance ground transport.",
+"tag": "LAW",
+"reason": "law statement: guidance"
+},
+{
+"pi": 8,
+"si": 5,
+"section": "MIXED",
+"text": "That requirement was not met in this case.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 8,
+"si": 6,
+"section": "MIXED",
+"text": "The ALJ erred in finding that this was a determination of medical reasonableness and necessity under section 1862(a)(1)(A) of the Act.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "MIXED",
+"text": "The Council modifies the ALJ\u2019s rationale in accordance with the foregoing discussion.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "MIXED",
+"text": "We adopt the ALJ\u2019s ultimate conclusion that Medicare coverage is not available for the ambulance transport and related mileage for the date of service November 2, 2010.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "MIXED",
+"text": "The Council finds, however, that the statutory basis for denial is section 1861(s)(7) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 9,
+"si": 3,
+"section": "MIXED",
+"text": "As such, the appellant remains responsible for the denied charges.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+}
+]
+}

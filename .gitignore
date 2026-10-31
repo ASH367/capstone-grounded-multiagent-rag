@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .DS_Store
 .venv/
+data/raw/pmc_patients/
+_to_delete/
+results/_mock_harness_test_NOT_RESULTS/
+results/_failed_402_NOT_RESULTS/

@@ -1,0 +1,885 @@
+{
+"case_id": "state_of_vt",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated May 12, 2010, which concerned home health services furnished to the beneficiary from November 2, 2006, through November 29, 2007.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined that the home health services were not covered by Medicare because the services were not skilled.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ further found the beneficiary and the provider each liable for a portion of the non-covered services under section 1879 of the Social Security Act (Act).",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 4,
+"section": "INTRO",
+"text": "The Council enters the timely-filed request for review into the record as Exhibit (Exh.) MAC-1.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 5,
+"section": "INTRO",
+"text": "As set forth below, the Council reverses the ALJ\u2019s decision in part and modifies it in part.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "FACTS",
+"text": "During the period at issue, the beneficiary was an 85- or 86-year- old female with a principal diagnosis of type II diabetes, uncomplicated. Exh. 4, at 1.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 3,
+"si": 1,
+"section": "FACTS",
+"text": "She was also diagnosed with other persistent mental disorder (i.e., dementia), abnormality of gait, and hypothyroidism not otherwise specified. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 3,
+"si": 2,
+"section": "FACTS",
+"text": "The beneficiary began receiving home health care in May, 2003. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 3,
+"si": 3,
+"section": "FACTS",
+"text": "The beneficiary\u2019s plan of care (POC) called for one skilled nursing visit every other week or as needed to assess diabetic status, knowledge of disease and disease management, nutrition, and skin care; to teach medication use, diabetic management, signs and symptoms to report to medical professionals, nutrition, activity, and skin care; fill the beneficiary\u2019s pill-planner, review blood sugar monitoring performed by the beneficiary\u2019s caregiver, and provide foot care and skin care as needed. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 4,
+"si": 0,
+"section": "FACTS",
+"text": "The provider submitted demand bills to the Medicare contractor, which denied Medicare coverage for all dates of service at issue. See, e.g., Exh. 1, at 42-44.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "FACTS",
+"text": "The appellant requested redetermination.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "FACTS",
+"text": "In separate redeterminations addressing each certification period, the contractor upheld the initial denials.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 4,
+"si": 3,
+"section": "FACTS",
+"text": "Each redetermination concluded: \u201cThere were no skilled needs identified or provided.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 4,
+"si": 4,
+"section": "FACTS",
+"text": "[The beneficiary\u2019s] condition remained stable. See, e.g., Exh. 1, at 2.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 4,
+"si": 5,
+"section": "FACTS",
+"text": "The redeterminations were equivocal on the issue of liability for the non-covered charges.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 4,
+"si": 6,
+"section": "FACTS",
+"text": "Several of the redeterminations stated both that the beneficiary was liable based on the presence of an Advance Beneficiary Notice (ABN) and that the provider was liable because it knew or should have known that the services would not be covered. See, e.g., Exh. 1, at 5-6.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant requested reconsideration by a Qualified Independent Contractor (QIC).",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "The QIC found that the home health services were not covered by Medicare because the nursing visits did not meet Medicare coverage criteria. Exh. 2, at 5.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "FACTS",
+"text": "The QIC found that the beneficiary was liable for the cost of the non-covered services furnished during the period January 1 through November 29, 2007. Id. at 6.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 5,
+"si": 3,
+"section": "FACTS",
+"text": "The QIC found the provider liable for the non-covered services furnished during the period November 2 through December 31, 2006. Id.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant requested a hearing before an ALJ.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ held a hearing by telephone on April 26, 2010. Dec. at 2.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "FACTS",
+"text": "The ALJ issued her decision on May 12, 2010.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 6,
+"si": 3,
+"section": "FACTS",
+"text": "She concluded that no skilled services were provided during the entire period at issue and, accordingly, no Medicare coverage was warranted. Id. at 12.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 6,
+"si": 4,
+"section": "FACTS",
+"text": "The ALJ found that the beneficiary was liable for the non- covered services furnished from January 2 through March 1, 2007 and from June 28 through August 1, 2007, based on two ABNs in the record. Id.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 6,
+"si": 5,
+"section": "FACTS",
+"text": "The ALJ found the provider liable for the remaining non-covered services. Id.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "MIXED",
+"text": "Medicare regulations set forth the conditions that a beneficiary must meet to qualify for coverage of home health services.",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "MIXED",
+"text": "The beneficiary must: a) be confined to the home; b) be under the care of a physician who establishes a care plan; c) be in need of skilled services; d) be under a qualifying plan of care; and e) receive the required services from, or under arrangement with, a participating home health agency (HHA).",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.42(a)-(e); see also Act \u00a7\u00a7 1861(m) and 1814(a)(2)(C). 1",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "MIXED",
+"text": "For the home health services at issue to be covered by Medicare, they must meet the criteria for skilled services under 42 C.F.R. \u00a7 409.42(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "MIXED",
+"text": "As applicable here, skilled nursing services are defined in 42 C.F.R. \u00a7 409.42(c)(1) (\u201cIntermittent skilled nursing services that meet the criteria for skilled services and the need for skilled services found in 42 C.F.R. \u00a7 409.32.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 10,
+"si": 2,
+"section": "MIXED",
+"text": "(Also see \u00a7 409.33(a) and (b) for a description of examples of skilled nursing and rehabilitative services.\u201d)).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 10,
+"si": 3,
+"section": "MIXED",
+"text": "A skilled service is one \u201cso inherently complex that it can be safely or effectively performed only by, or under the supervision of, professional or technical personnel.\u201d 42 C.F.R. \u00a7 409.32(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 10,
+"si": 4,
+"section": "MIXED",
+"text": "When the patient has a special medical complication, \u201ca service that is usually nonskilled . . . may be considered skilled because it must be performed or supervised by skilled nursing or rehabilitative personnel.\u201d 42 C.F.R. \u00a7 409.32(b).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "MIXED",
+"text": "In the request for review, the appellant takes issue with the ALJ\u2019s decision in several respects.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant argues that the ALJ erred in relying on the fact that the beneficiary had been receiving home health services since 2003 as evidence that the services were no longer skilled. Exh. MAC-1.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 11,
+"si": 2,
+"section": "MIXED",
+"text": "The appellant also argues that the ALJ erred when she suggested that no skilled care was required because the beneficiary resided with her husband, who was available to provide care. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 11,
+"si": 3,
+"section": "MIXED",
+"text": "The appellant also reiterates the arguments advanced in the memorandum it submitted to the ALJ with regard to specific services it contends were skilled. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "MIXED",
+"text": "The Council agrees with the appellant that medically reasonable and necessary home health services that meet coverage criteria are covered by Medicare without regard to when a beneficiary began receiving such services.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "MIXED",
+"text": "The Medicare Benefit Policy Manual (MBPM), CMS Pub. 100-02, ch. 7, \u00a7 40.1.1, provides:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "MIXED",
+"text": "The determination of whether a patient needs skilled nursing care should be based solely upon the patient's unique condition and individual needs, without regard to whether the illness or injury is acute, chronic, terminal, or expected to extend over a long period of time.",
+"tag": "LAW",
+"reason": "law statement: should be based"
+},
+{
+"pi": 13,
+"si": 1,
+"section": "MIXED",
+"text": "In addition, skilled care may, depending on the unique condition of the patient, continue to be necessary for patients whose condition is stable.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "MIXED",
+"text": "For a service to be considered reasonable and necessary, the service must be consistent with the nature and severity of the beneficiary\u2019s condition, his or her medical needs, and accepted standards of medical and nursing practice. See 42 C.F.R. \u00a7 409.44(b)(3).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "MIXED",
+"text": "In accordance with the guidance in the regulations and the MBPM, the Council has reviewed the record and finds that the beneficiary required and received intermittent skilled nursing services during several episodes of care.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 15,
+"si": 1,
+"section": "MIXED",
+"text": "The Council therefore reverses the ALJ\u2019s decision with regard to these episodes.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "MIXED",
+"text": "In the first episode, the provider documented that the beneficiary required skilled nursing services beginning on June 3, 2007, to address a stage II pressure ulcer on her sacrum. Exh. 4, at 75 (reverse), 80.",
+"tag": "COUNCIL",
+"reason": "reverse"
+},
+{
+"pi": 16,
+"si": 1,
+"section": "MIXED",
+"text": "Despite the provider\u2019s documentation, the ALJ determined that the care was not skilled because \u201cthe nurse instructed the Beneficiary\u2019s husband on wound care . . . .\u201d 2 Dec. at 11.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 16,
+"si": 2,
+"section": "MIXED",
+"text": "The ALJ further stated that \u201cthis Beneficiary had longstanding chronic issues with pressure ulcers.\u201d 3 Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 16,
+"si": 3,
+"section": "MIXED",
+"text": "The Council finds that the ALJ erred in concluding that assessment and treatment of the beneficiary\u2019s pressure ulcer was not skilled care.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "MIXED",
+"text": "First of all, the fact that the nurse taught the beneficiary\u2019s spouse or another caregiver wound care techniques does not mean that the services were unskilled.",
+"tag": "EVAL",
+"reason": "does not mean"
+},
+{
+"pi": 17,
+"si": 1,
+"section": "MIXED",
+"text": "As stated in the MPBM: \u201cA service which, by its nature, requires the skills of a nurse to be provided safely and effectively continues to be a skilled service even if it is taught to the patient, the patient's family, or other caregivers.\u201d",
+"tag": "LAW",
+"reason": "law statement: MPBM"
+},
+{
+"pi": 17,
+"si": 2,
+"section": "MIXED",
+"text": "MBPM, ch. 7, \u00a7 40.1.1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 17,
+"si": 3,
+"section": "MIXED",
+"text": "Moreover, the fact that the beneficiary was at risk for skin breakdown weighs in favor of, rather than against, the need for skilled observation and assessment by a nurse when the beneficiary\u2019s caregivers identified wounds when providing care to the beneficiary.",
+"tag": "EVAL",
+"reason": "weighs in favor"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "MIXED",
+"text": "The medical records document that, from June 3, 2007, through June 27, 2007, the provider\u2019s nurses observed and assessed the pressure ulcer on the beneficiary\u2019s sacrum; provided wound care, including cleansing and dressing the wound; and instructed the beneficiary\u2019s caregivers in wound care. See Exh. 4, at 74-97.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 18,
+"si": 1,
+"section": "MIXED",
+"text": "Therefore, the Council finds that the services provided from June 3, 2007, through June 27, 2007, constituted medically reasonable and necessary intermittent skilled nursing care and are, therefore, covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "MIXED",
+"text": "Similarly, on August 14, 2007, the beneficiary\u2019s paid caregiver telephoned the provider to report that the beneficiary had raised blisters on her buttocks. Exh. 4, at 124 (reverse).",
+"tag": "COUNCIL",
+"reason": "reverse"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "MIXED",
+"text": "During a visit on August 15, 2007, the provider\u2019s nurse documented:",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "Eval[uation] of lesion on left buttock. 6-8 fluid filled vesicles on erythematous base, easily undomed without pain, not on dermatomal line, not pressure ulcer.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 20,
+"si": 1,
+"section": "MIXED",
+"text": "Cleansed with NS [normal saline] and placed strips of iodaform gauze covered with Allevyn adhesive.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 20,
+"si": 2,
+"section": "MIXED",
+"text": "Call left with MD ans[wering] service.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 20,
+"si": 3,
+"section": "MIXED",
+"text": "Will need derm[atology] consult if vesicles continue to develop.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 20,
+"si": 4,
+"section": "MIXED",
+"text": "Instr[ucted] HCA [home care aide] gloves very [important].",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "MIXED",
+"text": "Id. at 121.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 21,
+"si": 1,
+"section": "MIXED",
+"text": "Further, on August 17, 2007, the nurse documented a visit as follows:",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 22,
+"si": 0,
+"section": "MIXED",
+"text": "PT [Patient] seen today to follow up on redden[ed] blistered area on PTs left buttock.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 22,
+"si": 1,
+"section": "MIXED",
+"text": "There is a new small area above the original area that has two white blisters.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 22,
+"si": 2,
+"section": "MIXED",
+"text": "The area was cleaned with NS [normal saline].",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 22,
+"si": 3,
+"section": "MIXED",
+"text": "Idoform [sic] gauze and [adhesive Allevyn] applied to the area.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 22,
+"si": 4,
+"section": "MIXED",
+"text": "PCA [personal care aide] was taught how to do the dressing change.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 22,
+"si": 5,
+"section": "MIXED",
+"text": "Instructed PCA to wear gloves at all times when touching that area or clothing that may have touched that area to prevent spreading. . . .",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 22,
+"si": 6,
+"section": "MIXED",
+"text": "MD was notified of the current status of the wound. . . .",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "MIXED",
+"text": "Id. at 126.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 23,
+"si": 1,
+"section": "MIXED",
+"text": "Nurses continued to assess and treat the area through the visit on August 30, 2007. See id. at 121-136.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 23,
+"si": 2,
+"section": "MIXED",
+"text": "By the visit on September 5, 2007, the provider\u2019s nurse documented that the beneficiary\u2019s left buttock wound had healed completely. Id. at 139.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 23,
+"si": 3,
+"section": "MIXED",
+"text": "Accordingly, the Council finds that the services provided from August 15, 2007, through August 30, 2007, constituted medically reasonable and necessary intermittent skilled nursing care and are, therefore, covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "MIXED",
+"text": "Finally, the beneficiary again developed skin integrity issues on October 25, 2007.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 24,
+"si": 1,
+"section": "MIXED",
+"text": "During the visit on that date, the provider\u2019s nurse documented that the beneficiary had small open areas on her right foot. Id. at 159 (face and reverse).",
+"tag": "COUNCIL",
+"reason": "reverse"
+},
+{
+"pi": 24,
+"si": 2,
+"section": "MIXED",
+"text": "The nurse again provided assessment and treatment for the foot wounds on October 29, 2007. Id. at 163.",
+"tag": "COUNCIL_REC",
+"reason": "record-report sentence inside Council paragraph"
+},
+{
+"pi": 24,
+"si": 3,
+"section": "MIXED",
+"text": "By the visit on November 5, 2007, the nurse documented that the wounds on the beneficiary\u2019s foot had healed. Id. at 166 (reverse).",
+"tag": "COUNCIL",
+"reason": "reverse"
+},
+{
+"pi": 24,
+"si": 4,
+"section": "MIXED",
+"text": "Accordingly, the Council finds that the services provided from October 25, 2007, through October 29, 2007, constituted medically reasonable and necessary intermittent skilled nursing care and are, therefore, covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "MIXED",
+"text": "With regard to the remaining dates of service not specifically addressed above, the Council agrees with the ALJ\u2019s conclusion that the care provided was not skilled and, therefore, is not reasonable and necessary and is not covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "MIXED",
+"text": "Because we have concluded that certain of the services at issue are not reasonable and necessary, we must consider whether the liability of the beneficiary or the provider may be limited pursuant to section 1879 of the Act.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 27,
+"si": 1,
+"section": "MIXED",
+"text": "Section 1879 of the Act provides that a beneficiary or supplier may be liable for the cost of an item or service that is not \u201creasonable and necessary\u201d based upon prior knowledge of non-coverage.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 27,
+"si": 2,
+"section": "MIXED",
+"text": "Section 1879(a) of the Act; 42 C.F.R. \u00a7\u00a7 411.400, 411.404 and 411.406.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 27,
+"si": 3,
+"section": "MIXED",
+"text": "A beneficiary is deemed to have knowledge of non-coverage if the supplier provides a notice to the beneficiary explaining why it believes that Medicare will not cover the item or service.",
+"tag": "LAW",
+"reason": "law statement: Medicare will not"
+},
+{
+"pi": 27,
+"si": 4,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 411.404(b).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ concluded that the beneficiary was liable for the non- covered services furnished from January 2 through March 1, 2007 and from June 28 through August 1, 2007. Dec. at 12.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 28,
+"si": 1,
+"section": "MIXED",
+"text": "The ALJ apparently based this conclusion on the two ABNs that are in the record as Exh. 6.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 28,
+"si": 2,
+"section": "MIXED",
+"text": "The ABNs in Exh. 6 are nearly illegible.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 28,
+"si": 3,
+"section": "MIXED",
+"text": "Nevertheless, it is possible to discern that the ABNs state that skilled nursing visits would likely not be covered by Medicare because the services were not skilled. Exh. 6, at 2, 3.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 28,
+"si": 4,
+"section": "MIXED",
+"text": "The beneficiary\u2019s representative (her spouse) signed one ABN on January 1, 2007, and the other on June 27, 2007. Id.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ erred in limiting the effect of the ABNs to January 2 through March 1, 2007, and June 28 through August 1, 2007.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 29,
+"si": 1,
+"section": "MIXED",
+"text": "The Medicare Claims Processing Manual (MCPM) provides that once a beneficiary receives a valid ABN, the beneficiary is considered to have knowledge of Medicare non-coverage for the same or similar services furnished during the next twelve months.",
+"tag": "LAW",
+"reason": "Claims Processing Manual"
+},
+{
+"pi": 30,
+"si": 0,
+"section": "MIXED",
+"text": "A notice that a beneficiary received within the twelve months before the claims denial at issue may be considered as evidence of prior knowledge with respect to such same or similar service or item that is denied payment by Medicare for the same reason in both the earlier and the later cases.",
+"tag": "LAW",
+"reason": "law statement: may be considered"
+},
+{
+"pi": 31,
+"si": 0,
+"section": "MIXED",
+"text": "MCPM, CMS Pub. 100-4, ch. 30, \u00a7 40.2.2. See also id. at \u00a7 40.3.1.",
+"tag": "LAW",
+"reason": "CMS Pub"
+},
+{
+"pi": 31,
+"si": 1,
+"section": "MIXED",
+"text": "(A previously furnished ABN is acceptable evidence of notice for current items or services if the previous ABN cites similar or reasonably comparable items or services for which denial is expected on the same basis in both the earlier and the later cases).",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 31,
+"si": 2,
+"section": "MIXED",
+"text": "In accordance with the quoted MCPM provisions, the Council finds that, effective with the ABN signed by the beneficiary\u2019s representative on January 1, 2007, the beneficiary, and not the provider, is liable for the cost of any non-covered services she received from January 2, 2007, through November 29, 2007.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 31,
+"si": 3,
+"section": "MIXED",
+"text": "With regard to the non-covered services furnished from November 2, 2006, through January 1, 2007, the Council agrees with the ALJ\u2019s finding that the provider is liable based on its presumed knowledge of published Medicare coverage authorities.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 31,
+"si": 4,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 411.406(e).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 33,
+"si": 0,
+"section": "TERMINAL",
+"text": "The Council has considered the record and the exceptions and has concluded that the beneficiary received Medicare-covered intermittent skilled nursing care from June 3, 2007 through June 27, 2007; from August 15, 2007 through August 30, 2007; and from October 25, 2007, through October 29, 2007.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 33,
+"si": 1,
+"section": "TERMINAL",
+"text": "Accordingly, the ALJ\u2019s decision is reversed as to these dates of service.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 33,
+"si": 2,
+"section": "TERMINAL",
+"text": "The beneficiary\u2019s representative signed an ABN on January 1, 2007.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 33,
+"si": 3,
+"section": "TERMINAL",
+"text": "Therefore, the beneficiary is liable for the non-covered services furnished from January 2 through November 29, 2007.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 33,
+"si": 4,
+"section": "TERMINAL",
+"text": "The provider is liable for the non-covered services furnished from November 2, 2006 through January 1, 2007.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 33,
+"si": 5,
+"section": "TERMINAL",
+"text": "The ALJ\u2019s findings on liability are modified accordingly.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

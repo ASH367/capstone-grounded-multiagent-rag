@@ -1,0 +1,45 @@
+{
+ "case_id": "gold_cross_ambulance",
+ "domain": "ambulance",
+ "docket": null,
+ "service_at_issue": "Non-emergency ambulance transport (A0428-HN) and mileage (A0425-HN) from hospital to rehabilitation/skilled nursing facility after pacemaker replacement",
+ "reference_outcome": "favorable",
+ "outcome_note": "Although not bed-confined, the beneficiary's recent pacemaker surgery and dependence on cardiac monitoring made ambulance transport medically required, reversing the ALJ.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.2.3"
+  },
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.2.4"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 410.40(d)",
+  "42 CFR 410.40(d)(1)",
+  "42 CFR 410.401(d)(1)",
+  "SSA 1861(s)(7)"
+ ],
+ "facts": [
+  "His pacemaker, generator, and leads (electrical leads to the heart) were removed and then replaced on April 27, 2008 (at ****",
+  "His cardiologist explains that because of the beneficiary\u2019s pacemaker dependency and a wound infection on the opposite side of his chest requiring a wound vac, he was transferred from the hospital to a \u201crehabilitation center\u201d three days after the surgery. Id.",
+  "The Physician Certification Statement (PCS) signed by the registered nurse on the date of ambulance transportation states that the beneficiary also required oxygen. Exh. 5 at 9. However, neither this PCS nor any other document in the record indicates why the oxygen was required.",
+  "Medical documentation, in the form of hospital discharge summaries, physicians\u2019 statements and notes, and other medical records provide a more accurate and complete view of the patient\u2019s condition than just a Physician Certification Statement (often filled out by a nurse) and notes on the ambulance trip report."
+ ],
+ "arm": "B_gaps",
+ "set": "dev",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 136,
+ "evidence_words_D": 337,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

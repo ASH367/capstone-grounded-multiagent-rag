@@ -1,0 +1,62 @@
+{
+ "domain": "home_health",
+ "docket": null,
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.2.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.2.2"
+  }
+ ],
+ "other_cites": [
+  "SSA 1835(a)(2)(A)",
+  "42 CFR 409.42",
+  "42 CFR 409.44(b)(3)",
+  "42 CFR 409.44(c)(2)(ii)",
+  "42 CFR 409.44(c)(2)(iii)",
+  "42 CFR 409.33(b)(1)",
+  "42 CFR 409.33(c)(2)",
+  "42 CFR 409.33(c)(3)",
+  "42 CFR 409.33(c)(4)",
+  "42 CFR 409.33(d)(13)",
+  "42 CFR 409.32(b)",
+  "42 CFR 409.32(c)",
+  "42 CFR 409.43(b)",
+  "42 CFR 409.45(a)",
+  "42 CFR 409.45(b)"
+ ],
+ "case_id": "nj_dept_humanservices22__DW",
+ "parent": "nj_dept_humanservices22",
+ "unit_note": "",
+ "service_at_issue": "Home health physical therapy and home health aide services for one beneficiary (D.W.), from Oct 10, 2005",
+ "reference_outcome": "COVERED",
+ "outcome_note": "(unit)",
+ "facts": [
+  "The appellant originally sought coverage for all home health services provided to D.W. from October 10, 2005 through December 3, 2006.",
+  "The appellant points out, and the medical record substantiates, that, in addition to multiple sclerosis, the beneficiary suffered from severe lordosis (spinal curvature), extreme hypertonicity, and a rare inherited connective tissue disorder known as Ehlers-Danlos Syndrome (EDS). Among the symptoms common to EDS patients are fragility (the attending physician noted the beneficiary was very fragile, at Ex. 10, at 513), joint hypermobility with potential for joint dislocations, easily torn or bruised skin, and abnormal curvature of feet and spine (in addition to severe lordosis, the beneficiary had an acquired ankle-foot defect recorded at Ex. 1, at 325). See Hearing CD.",
+  "The beneficiary reported intermittent pain at levels ranging from 5 to 10 on a 10-point scale. See, e.g., Ex. 1, at 297 (August 2006 OASIS report).",
+  "CMS policy further explains that skilled therapy services are covered even when the services themselves may not be highly complex or sophisticated, \u201cwhere there is clear documentation that, because of special medical complications (e.g., susceptible to pathological bone fractures), the skills of a therapist are need to provide services which do not need the skills of a therapist.\u201d",
+  "The PT here provided direct services by movement and massage to reduce pain and spasms, with the PT notes reflecting that the beneficiary improved after PT visits. See, e.g., Ex. 1, at 324 and 327 (physician certification notes patient \u201ccontinues to benefit from PT for pain management and Rom exercises\u201d), at 209 (PT note of September 11, 2006 that patient \u201creports feeling much better with rx\u201d). RR Br. at 6; Ex. 1, at 333 (physician certification of April 8, 2006), at 133 (PT notes of February 7, 2006), at 144 (PT notes of March 9, 2006), at 148 (PT notes of March 20, 2006)."
+ ],
+ "arm": "C_prior",
+ "set": "held",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 251,
+ "evidence_words_D": 393,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_units.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "status": "MAIN"
+}

@@ -1,0 +1,637 @@
+{
+"case_id": "dc_case",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated April 9, 2009, concerning Basic Life Support ambulance transportation (A0429-RH) and ground mileage (A0425-RH) provided to the beneficiary on January 2, 2008, by the City of ***, TX, Emergency Medical Services (EMS).",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined that other forms of transportation were not contraindicated and therefore the transportation was not covered by Medicare.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ further determined that the beneficiary remained liable for the noncovered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The appellant beneficiary, as represented by counsel, has asked the Medicare Appeals Council (Council) to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 0,
+"si": 4,
+"section": "INTRO",
+"text": "As set forth below, the Council modifies the ALJ\u2019s action to clarify the statutory grounds for denial.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 0,
+"si": 5,
+"section": "INTRO",
+"text": "The beneficiary remains liable for the noncovered charges.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council admits the following documents into the record as exhibits: Exh. MAC-1 Appellant\u2019s June 13, 2009, Request for Review",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "INTRO",
+"text": "The Council has considered the record and the appellant\u2019s exceptions and modifies the ALJ\u2019s decision in order to clarify the statutory basis of denial and liability.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "INTRO",
+"text": "Specifically, the service at issue does not meet the benefit requirements under section 1861(s)(7) of the Social Security Act (Act) and thus the limitation of liability provision under section 1879 of the Act does not apply.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "INTRO",
+"text": "The ambulance service at issue remains not covered by Medicare and the appellant remains responsible for the noncovered charges.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 5,
+"si": 3,
+"section": "INTRO",
+"text": "As set forth below, the Council modifies the ALJ\u2019s decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "MIXED",
+"text": "Unfair Hearing Assertions:",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "MIXED",
+"text": "The attorney for the appellant puts forth several arguments, including that the ALJ conducted an unfair hearing. Exh. MAC-1.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "MIXED",
+"text": "The attorney argues that the beneficiary\u2019s daughter and the Benefits Counselor Coordinator (BCC) were not provided an opportunity to properly present their case.",
+"tag": "PARTY",
+"reason": "attorney argues"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "MIXED",
+"text": "Specifically, the beneficiary\u2019s daughter stated: \u201cThe judge did listen to my explanation but then just cut the hearing off and said he would make a ruling.\u201d",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 8,
+"si": 3,
+"section": "MIXED",
+"text": "The BCC stated that the ALJ \u201cwould cut BCC off,\u201d the \u201cJudge yelled at the BCC,\u201d \u201casked very demanding questions,\u201d and spoke \u201charshly\u201d to the beneficiary, her daughter, and the BCC. Exh. MAC-1.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 4,
+"section": "MIXED",
+"text": "The appellant further contends that: \u201cThe tone of the ALJ during the hearing and the inappropriate manner in which the hearing was conducted denied appellant a meaningful opportunity to be heard before a neutral ALJ as required by statute and regulation.",
+"tag": "LAW",
+"reason": "statute"
+},
+{
+"pi": 8,
+"si": 5,
+"section": "MIXED",
+"text": "Appellant had no reasonable expectation of receiving a fair hearing and decision.\u201d Id.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "MIXED",
+"text": "The regulations provide that a \"party to an ALJ hearing has the right to appear before the ALJ to present evidence and to state his or her position.\" 42 C.F.R. \u00a7 405.1036(a)(1).",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "MIXED",
+"text": "A party may also appear through a designated representative.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.1036(a)(2).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 9,
+"si": 3,
+"section": "MIXED",
+"text": "During the hearing, \"the ALJ fully examines the issues, questions the parties and other witnesses, and may accept documents that are material to the issues,\" subject to any good cause requirements for late submission.",
+"tag": "LAW",
+"reason": "law statement: requirements for"
+},
+{
+"pi": 9,
+"si": 4,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.1030(b).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 9,
+"si": 5,
+"section": "MIXED",
+"text": "\"The ALJ may ask the witnesses any questions relevant to the issues and allows the parties or their designated representatives to do so.\" 42 C.F.R. \u00a7 405.1036(g).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 9,
+"si": 6,
+"section": "MIXED",
+"text": "The ALJ decision is based upon evidence offered at the hearing or otherwise admitted into the record.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 9,
+"si": 7,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.1046(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 9,
+"si": 8,
+"section": "MIXED",
+"text": "In summary, the regulations afford the ALJ significant latitude in conducting the ALJ hearing in order to receive material documentary and testimonial evidence on which a decision must be based.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "MIXED",
+"text": "The Council finds no basis for overturning the ALJ decision based on his conduct of the hearing.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "MIXED",
+"text": "As noted, an ALJ controls the hearing process in order to receive material evidence to decide a case.",
+"tag": "LAW",
+"reason": "law statement: in order to"
+},
+{
+"pi": 10,
+"si": 2,
+"section": "MIXED",
+"text": "The ALJ must balance the reasonable use of administrative resources against the reasonable time necessary for a party to fairly present its case.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "MIXED",
+"text": "The Council's audit of the proceedings indicates that the appellant\u2019s assertions are wholly unsubstantiated.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "MIXED",
+"text": "The record reveals that the ALJ gave the appellant a full and fair opportunity to present its case.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 2,
+"section": "MIXED",
+"text": "Specifically, after providing the beneficiary\u2019s daughter an opportunity to present her case, the ALJ asked: \u201cIs there anything else you want to add?\u201d",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 3,
+"section": "MIXED",
+"text": "Hearing CD at 12:06 PM.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 4,
+"section": "MIXED",
+"text": "The beneficiary\u2019s daughter responded: \u201cNo sir.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 5,
+"section": "MIXED",
+"text": "I think that\u2019s everything for us.",
+"tag": "COUNCIL",
+"reason": "us"
+},
+{
+"pi": 11,
+"si": 6,
+"section": "MIXED",
+"text": "We certainly appreciate you taking the time to hear, you know, our concerns.\u201d Id. at 12:07 PM.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 11,
+"si": 7,
+"section": "MIXED",
+"text": "Furthermore, although the BCC provided the bulk of the argument throughout the hearing, the BCC also provided additional argument after the beneficiary\u2019s daughter testified.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 8,
+"section": "MIXED",
+"text": "The ALJ restated her argument and asked if his assessment was correct.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 9,
+"section": "MIXED",
+"text": "The BCC responded, \u201cYes sir; that is correct.\u201d Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 10,
+"section": "MIXED",
+"text": "The ALJ again asked: \u201canything else?\u201d",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 11,
+"section": "MIXED",
+"text": "The BCC responded, \u201cNo sir.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 11,
+"si": 12,
+"section": "MIXED",
+"text": "We really appreciate you taking the time and [unintelligible] listening to our case.\u201d Id.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 11,
+"si": 13,
+"section": "MIXED",
+"text": "The Council finds that the ALJ did not abuse his discretion in his management of the hearing.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "MIXED",
+"text": "Statutory Basis of Claim Denial:",
+"tag": "LAW",
+"reason": "Statutory"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "MIXED",
+"text": "As previously noted, the Council adopts the ALJ\u2019s finding of noncoverage of the ambulance services, but modifies the ALJ\u2019s decision to clarify that the appropriate basis for the denial is under section 1861(s)(7) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ stated:",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "MIXED",
+"text": "Testimony presented during the hearing indicated that transport was in fact due to nausea; that the beneficiary\u2019s caregiver would not have been able to transport her in her private vehicle; that the beneficiary was recently released from the hospital prior to transport.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 15,
+"si": 1,
+"section": "MIXED",
+"text": "The medical records indicate that the beneficiary\u2019s nausea was likely related to a recently prescribed medication and that the beneficiary was treated and released.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 16,
+"si": 0,
+"section": "MIXED",
+"text": "The undersigned has reviewed the available evidence and finds that the record fails to show that the ambulance transport was medically necessary based on either emergency or other means of transport being contraindicated.",
+"tag": "PRIOR_ALJ",
+"reason": "The undersigned"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "MIXED",
+"text": "Dec. at 6-7.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant\u2019s attorney provided additional argument in the form of a faxed affidavit. Exh. MAC-3.",
+"tag": "PARTY",
+"reason": "appellant\u2019s attorney provided additional"
+},
+{
+"pi": 18,
+"si": 1,
+"section": "MIXED",
+"text": "In this affidavit, the appellant\u2019s daughter attested that she \u201ccould not physically get [her] mother into [her Sport Utility Vehicle (SUV],\u201d that \u201cas [the beneficiary\u2019s] daughter and caregiver, [she] did not feel it was safe to transport [the beneficiary] in [her] SUV,\u201d and that she \u201cwas not going to allow [her] SUV to be used to transport [her] mother to the hospital.\u201d Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 18,
+"si": 2,
+"section": "MIXED",
+"text": "The Council recognizes the difficulties faced in such circumstances, however, remains bound by the clear language in the statute and regulations.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "MIXED",
+"text": "Section 1861(s)(7) of the Act provides that ambulance services are covered by Medicare \u201cwhere the use of other methods of transportation is contraindicated by the individual\u2019s condition, but only to the extent provided in regulations.\u201d",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "MIXED",
+"text": "Medicare regulations provide for coverage of ambulance services \u201conly if they are furnished to a beneficiary whose medical condition is such that other means of transportation are contraindicated.",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 19,
+"si": 2,
+"section": "MIXED",
+"text": "The beneficiary\u2019s condition must require both the ambulance transportation itself and the level of service provided . . . .\u201d 42 C.F.R. \u00a7 410.40(d).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 19,
+"si": 3,
+"section": "MIXED",
+"text": "\u201cIn any case in which some means of transportation other than an ambulance could be used without endangering the individual\u2019s health, whether or not such other transportation is actually available, no payment may be made for ambulance services.\u201d",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 19,
+"si": 4,
+"section": "MIXED",
+"text": "CMS Manual System, Pub. 100-2, Medicare Benefit Policy Ch. 10, \u00a710.2. (emphasis added).",
+"tag": "LAW",
+"reason": "Pub. 100"
+},
+{
+"pi": 19,
+"si": 5,
+"section": "MIXED",
+"text": "In other words, it is irrelevant whether other forms of transportation existed or were available under the particular circumstances; rather, unless the record shows that other forms of transportation would endanger the health or welfare of the beneficiary, the ambulance transportation is not covered.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "In this case, the Patient Care Report (PCR) indicates that the beneficiary \u201cstated she got up to use the restroom [that] morning and felt nauseated.\u201d Exh. 3 at 8-12.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 20,
+"si": 1,
+"section": "MIXED",
+"text": "Further, the PCR states that the EMT \u201cassessed the patient and found no other symptoms.\u201d Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 20,
+"si": 2,
+"section": "MIXED",
+"text": "The beneficiary \u201cdenied vomiting and diarrhea\u201d and expressed no other abnormalities. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 20,
+"si": 3,
+"section": "MIXED",
+"text": "The PCR reveals that the beneficiary exhibited normal vital signs and that she remained stable throughout transport. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 20,
+"si": 4,
+"section": "MIXED",
+"text": "Nothing in the record reflects that the beneficiary required or was provided pain medications, oxygen, or any treatment during the evaluation or ambulance trip.",
+"tag": "GAP",
+"reason": "Nothing in the record"
+},
+{
+"pi": 20,
+"si": 5,
+"section": "MIXED",
+"text": "The record reveals that although she experienced nausea, the beneficiary was medically stable and was transported to the hospital without incident. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "MIXED",
+"text": "The Council agrees with the ALJ\u2019s ultimate conclusion that the record does not support that the beneficiary\u2019s condition needed or required constant monitoring during the ambulance transport, or that other methods of transportation were contraindicated. Dec. at 6-7.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 21,
+"si": 1,
+"section": "MIXED",
+"text": "The Council thus finds that the ambulance services provided were not medically required and are not covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "MIXED",
+"text": "Liability for the Noncovered Services",
+"tag": "PROC",
+"reason": "Liability"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ found that the \u201cappellant is fully liable for the incurred charges as \u00a7 1879 of the Act applies to this claim.\u201d Dec. at 2.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 23,
+"si": 1,
+"section": "MIXED",
+"text": "When, as here, coverage of ambulance services is denied because other methods of transportation are not contraindicated as set forth in 42 C.F.R. \u00a7 410.40(d), the basis for the denial is a failure to satisfy this requirement, and, thus, is considered a Medicare benefit denial pursuant to section 1861(s)(7) of the Act.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 23,
+"si": 2,
+"section": "MIXED",
+"text": "Accordingly, because the medical necessity requirements found in section 1862(a)(1) of the Act do not apply to this case, the limitation on liability provisions in section 1879 of the Act do not apply.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 23,
+"si": 3,
+"section": "MIXED",
+"text": "Therefore, the Council finds that the ALJ erred in applying section 1879 to the present case.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 23,
+"si": 4,
+"section": "MIXED",
+"text": "Because the ambulance transportation at issue did not meet the criteria for coverage, the beneficiary is responsible for the non-covered services.",
+"tag": "LAW",
+"reason": "law statement: criteria for"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "TERMINAL",
+"text": "It is the decision of the Medicare Appeals Council that Medicare does not cover the ambulance transportation at issue and that the beneficiary is responsible for the non-covered services.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

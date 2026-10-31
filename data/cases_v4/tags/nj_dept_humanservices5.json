@@ -1,0 +1,469 @@
+{
+"case_id": "nj_dept_humanservices5",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated November 3, 2008, which concerned a claim for home skilled therapy services provided to the beneficiary from October 27, 2005, to October 21, 2006 (ALJ Decision).",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined the claimed services were not covered by Medicare and held the appellant, not the beneficiary, liable for the cost of the provided services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council to review this action for the claim of services provided from May 22, 2006, to September 26, 2006.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, since the appellant is not an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 4,
+"section": "INTRO",
+"text": "As set forth below, the Council modifies the ALJ Decision.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "FACTS",
+"text": "This appeal is brought by New Jersey\u2019s Medicaid State agency (as statutory subrogee).",
+"tag": "PROC",
+"reason": "subrogee"
+},
+{
+"pi": 3,
+"si": 1,
+"section": "FACTS",
+"text": "The appeal is limited to the ALJ\u2019s denial of coverage for 19 speech therapy sessions provided to the beneficiary between May 22, 2006 and September 26, 2006.1",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "FACTS",
+"text": "The ALJ found, and the appellant does not contest, that the beneficiary was 38 years of age and suffering from brain injury, intracranial hemorrhage, and hypothyroidism during the relevant time period.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "FACTS",
+"text": "ALJ Decision at 2, and record citations therein.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "FACTS",
+"text": "Speech therapy orders were added to his care plan beginning with the certification period starting April 25, 2006. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 4,
+"si": 3,
+"section": "FACTS",
+"text": "The ALJ concluded that the beneficiary was homebound throughout the relevant period.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 4,
+"si": 4,
+"section": "FACTS",
+"text": "ALJ Decision at 13.2",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "The ALJ described the services at issue as intended to \u201caddress articulation skills and speech clarity.\u201d Id. at 2.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ denied coverage of speech therapy on the grounds that \u201cthere was no reasonable expectation of material improvement,\u201d from the treatment.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "FACTS",
+"text": "He based that finding on testimony from the provider\u2019s Director of Quality Improvement that there was \u201cno expectation of significant gains from speech therapy, even considering that some of the therapies may have been innovative and creative.\u201d Id. at 13.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "LAW",
+"text": "The regulations provide that, in order to qualify for home health services, a beneficiary must be \u2013",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "LAW",
+"text": "(a) Confined to the home.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "LAW",
+"text": "The beneficiary must be confined to the home . . . . (b) Under the care of a physician.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "LAW",
+"text": "The beneficiary must be under the care of a physician who establishes the plan of care. . . . (c) In need of skilled services.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 8,
+"si": 3,
+"section": "LAW",
+"text": "The beneficiary must need at least one of the following skilled services as certified by a physician in accordance with the physician",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "LAW",
+"text": "44 physical therapy sessions and the 19 speech therapy sessions at issue here.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "LAW",
+"text": "The ALJ denied coverage of all the services, but the appellant expressly elected not to appeal as to the physical therapy services.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "LAW",
+"text": "Appellant\u2019s Memorandum of Law in Support of Request to Review (RR Memo) at 1, n.1.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 9,
+"si": 3,
+"section": "LAW",
+"text": "Our decision therefore does not address or affect the resolution of the parts of the claim not before us on appeal.",
+"tag": "COUNCIL",
+"reason": "Our"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "LAW",
+"text": "certification and recertification requirements for home health services under \u00a7 424.22 of this chapter. * * * (3) Speech-language pathology services that meet the requirements of \u00a7 409.44(c).",
+"tag": "FRAGMENT",
+"reason": "starts lowercase (page-break artifact)"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "LAW",
+"text": "Section 409.44(c) requires, inter alia, that speech-language pathology services must \u201crelate directly and specifically to a treatment regime . . . that is designed to treat the beneficiary\u2019s illness or injury,\u201d and not relate merely to general physical welfare, such as \u201cexercises to promote overall fitness.\u201d 42 C.F.R. \u00a7 409.44(c)(1).",
+"tag": "LAW",
+"reason": "Section 4"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "LAW",
+"text": "In addition, the speech- language pathology services must be reasonable and necessary, which includes the following components:",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "LAW",
+"text": "\uf0b7 The services must be \u201cspecific, safe and effective treatment for the beneficiary\u2019s condition\u201d under \u201caccepted standards of medical practice.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "LAW",
+"text": "\uf0b7 The services must be \u201cof such a level of complexity and sophistication or the condition of the beneficiary must be such that\u201d only a qualified speech-language pathologist may perform them.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "LAW",
+"text": "\uf0b7 The beneficiary\u2019s condition must be expected to \u201cimprove materially in a reasonable (and generally predictable) period of time\u201d or must be \u201cnecessary to establish a safe and effective maintenance program required in connection with a specific disease,\u201d or \u201cthe skills of a therapist must be necessary to perform a safe and effective maintenance program.\u201d",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "LAW",
+"text": "\uf0b7 The services must be reasonable in \u201camount, frequency, and duration.\u201d",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "LAW",
+"text": "42 C.F.R. \u00a7 409.44(c)(2)(i)-(iv).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant objects to the ALJ\u2019s finding that there was no reasonable expectation of beneficiary improvement as unfounded and based solely on oral statements made by the provider\u2019s representative at the hearing which conflict with the weight of the evidence in the record.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "MIXED",
+"text": "A review of the record as a whole indicates that the ALJ\u2019s finding is not supported by substantial evidence.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ does not explain why he did not consider evidence from the medical records that the speech-language therapy was aimed at improving the beneficiary\u2019s dysphagia in swallowing, rather than merely his speaking abilities.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 20,
+"si": 1,
+"section": "MIXED",
+"text": "Nor does he explain why he did not credit evidence in the record, discussed below, of specific and measurable improvements which the beneficiary actually achieved in the course of the therapy.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "MIXED",
+"text": "May 4, 2006 speech therapy notes in the record indicated that a speech therapist who had been working with the beneficiary on oral-motor abilities and articulation skills referred him to another practitioner with suitable equipment available to evaluate his suitability for stimulation therapy to address his swallowing problems. Ex. 7, at 500.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 21,
+"si": 1,
+"section": "MIXED",
+"text": "The second speech-language pathologist assessed him on May 22, 2006, found reduced labial tone, strength and function, reduced lingual strength, reduced laryngeal elevation, and pooling of saliva in mouth.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 21,
+"si": 2,
+"section": "MIXED",
+"text": "The speech-language pathologist recommended a barium swallow study for further assessment, which the physician added to the plan of care. Id. at 501, 540.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "MIXED",
+"text": "Based on the results, dysphagia therapy was ordered twice a week for 8 weeks in the care plan signed by the physician. Ex. 8, at 579.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 22,
+"si": 1,
+"section": "MIXED",
+"text": "The notes of the subsequent therapy sessions document treatment with neuromuscular electrical stimulation, use of exercises with straws and musical instruments to train muscles, training in exercises and techniques to be tried between sessions in an effort to improve ability to swallow different consistencies and to increase function. Ex. 8, at 544-49.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 22,
+"si": 2,
+"section": "MIXED",
+"text": "The therapist noted \u201cincreased ability to control secretions during eating,\u201d and an ability to \u201csip from a smaller diameter straw,\u201d and recommended a repeat barium swallow study to evaluate the beneficiary\u2019s response to treatment after four weeks of treatment. Id. at 546, 547.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 22,
+"si": 3,
+"section": "MIXED",
+"text": "The study completed on August 1, 2002 \u201crevealed significant improvement in bolus formation and oral stage of swallow\u201d since the onset of the therapy. Id. at 549.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 23,
+"si": 0,
+"section": "MIXED",
+"text": "The physician prescribed continuing dysphagia therapy, including neuromuscular electrical stimulation, one to two times a week. Ex. 9, at 582.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 23,
+"si": 1,
+"section": "MIXED",
+"text": "The therapy notes of the second four week period record \u201csteady improvements,\u201d and identify specific skills and abilities acquired and increased, such as the ability to purse lips, to blow bubbles, to drink thin liquids without coughing, to eat foods that he could not previously tolerate, to swallow capsules with a teaspoon of milk, and to complete phoneme repetition with less cuing. Ex. 9, at 584-588.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 23,
+"si": 2,
+"section": "MIXED",
+"text": "Improvements in strength and function were observed. Id.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "MIXED",
+"text": "The testimony of the home health provider representative at the hearing acknowledged that the beneficiary had made some progress in the dysphagia therapy using the new neuromuscular electrical stimulation approaches, but asserted that overall they did not expect his prognosis from the traumatic brain injury \u201coverall\u201d to improve significantly.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 24,
+"si": 1,
+"section": "MIXED",
+"text": "She also asserted that the services were provided in good faith based on approval by the state Medicaid agency.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ made no reference to the dysphagia goals and therapy and offered no reason to disregard the medical records indicating that measurable and significant improvement did occur.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 25,
+"si": 1,
+"section": "MIXED",
+"text": "Nor did he explain why he concluded that no material benefit could be expected from a therapy which in fact yielded concrete benefits.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 25,
+"si": 2,
+"section": "MIXED",
+"text": "That conclusion was the only basis on which the ALJ denied coverage, since he made no finding that the therapy was not otherwise reasonable and necessary.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 25,
+"si": 3,
+"section": "MIXED",
+"text": "Nothing in the record suggests that the therapy was not a specific, safe and effective treatment for the beneficiary\u2019s dysphagia, that the services could have been delivered by anyone other than a skilled speech- language therapist, or that the frequency and duration of the services was unreasonable.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "TERMINAL",
+"text": "For the reasons explained above, we modify the ALJ Decision only as to the 19 speech-language pathology services provided between May 22, 2006 and September 26, 2006.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 27,
+"si": 1,
+"section": "TERMINAL",
+"text": "We conclude that those services were medically reasonable and necessary and were covered under Medicare.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 27,
+"si": 2,
+"section": "TERMINAL",
+"text": "We do not disturb the ALJ\u2019s conclusions as to the other home health services that were at issue before him.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

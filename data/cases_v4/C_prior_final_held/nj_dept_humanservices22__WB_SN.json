@@ -1,0 +1,61 @@
+{
+ "domain": "home_health",
+ "docket": null,
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.2.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.2.2"
+  }
+ ],
+ "other_cites": [
+  "SSA 1835(a)(2)(A)",
+  "42 CFR 409.42",
+  "42 CFR 409.44(b)(3)",
+  "42 CFR 409.44(c)(2)(ii)",
+  "42 CFR 409.44(c)(2)(iii)",
+  "42 CFR 409.33(b)(1)",
+  "42 CFR 409.33(c)(2)",
+  "42 CFR 409.33(c)(3)",
+  "42 CFR 409.33(c)(4)",
+  "42 CFR 409.33(d)(13)",
+  "42 CFR 409.32(b)",
+  "42 CFR 409.32(c)",
+  "42 CFR 409.43(b)",
+  "42 CFR 409.45(a)",
+  "42 CFR 409.45(b)"
+ ],
+ "case_id": "nj_dept_humanservices22__WB_SN",
+ "parent": "nj_dept_humanservices22",
+ "unit_note": "",
+ "service_at_issue": "Four home health skilled nursing visits (intramuscular injections) for one beneficiary (W.B.), 2005",
+ "reference_outcome": "COVERED",
+ "outcome_note": "(unit)",
+ "facts": [
+  "The original claim for home health services to W.B. included numerous services provided between October 22, 2005, through October 16, 2006. At the hearing, the appellant withdrew its claim as to all but two sets of services: (1) four skilled nursing visits and (2) eleven physical therapy visits.",
+  "In most instances, this definition will be met if a patient requires a skilled nursing service at least once every 60 days. . . .",
+  "Since the need for \"intermittent\" skilled nursing care makes the patient eligible for other covered home health services, the intermediary should evaluate each claim involving skilled nursing services furnished less frequently than once every 60 days.",
+  "In this case, as noted, the physician\u2019s orders specifically call for Lupron injections \u201cq 3 months,\u201d i.e., every 90 days. Ex. 1, at 300-01. Nothing in the record contradicts the treating physician\u2019s assessment that the frequency of injection was also appropriate."
+ ],
+ "arm": "C_prior",
+ "set": "held",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 97,
+ "evidence_words_D": 150,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_units.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "status": "MAIN"
+}

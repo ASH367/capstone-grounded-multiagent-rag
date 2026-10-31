@@ -1,0 +1,244 @@
+{
+ "dev22": {
+  "stats": {
+   "cases": 22,
+   "facts_before": 151,
+   "facts_after": 137,
+   "chars_after": 37874,
+   "whole_dropped": 14,
+   "surgical": 8,
+   "unlocated": 0
+  },
+  "log": [
+   {
+    "case": "12-1251",
+    "fact": 2,
+    "action": "dropped_whole(remainder_too_short)",
+    "removed": "Initially, this claim was paid, but then an overpayment was assessed because the record showed that the beneficiary was a hospital inpatient on the date of service at issue. Exh. 3, at 2.",
+    "kept_remainder": ""
+   },
+   {
+    "case": "12-1251",
+    "fact": 5,
+    "action": "surgical",
+    "kept": "The beneficiary complained of \u201csubsternal non-radiating\u201d chest pain. Exh. 4, at 6. While the report of the 911 telephone call states that the beneficiary had trouble speaking between breaths, the ambulance report states that the beneficiary was \u201cspeaking full word sentences w/o difficulty.\u201d Exh. 1, at 2; Exh. 4, at 6. The beneficiary was found in bed in the fowler position. Exh. 4, at 6. The benef",
+    "removed": "The ambulance report indicates that the beneficiary received emergency services during the ambulance transport."
+   },
+   {
+    "case": "case_excellenthomecare",
+    "fact": 6,
+    "action": "dropped_whole(adjudicator_finding)",
+    "removed": "\u201cthe physician\u2019s signatures on many of the medical documents [which] were illegible, scribbled and dated with a stamp.\u201d"
+   },
+   {
+    "case": "dc_case",
+    "fact": 4,
+    "action": "surgical",
+    "kept": "the Patient Care Report (PCR) indicates that the beneficiary \u201cstated she got up to use the restroom [that] morning and felt nauseated.\u201d Exh. 3 at 8-12. Further, the PCR states that the EMT \u201cassessed the patient and found no other symptoms.\u201d Id. The beneficiary \u201cdenied vomiting and diarrhea\u201d and expressed no other abnormalities. Id. The PCR reveals that the beneficiary exhibited normal vital signs ",
+    "removed": "Nothing in the record reflects that the beneficiary required or was provided pain medications, oxygen, or any treatment during the evaluation or ambulance trip."
+   },
+   {
+    "case": "estate_gbr",
+    "fact": 3,
+    "action": "surgical",
+    "kept": "The facts show that the patient was transported from one hospital to another on June 2, 2009. It was noted that the patient was transported to a trauma center.",
+    "removed": "It was determined that the sending hospital also has a trauma center. | The documentation did not state what specific service was not available at the first hospital."
+   },
+   {
+    "case": "gold_cross_ambulance",
+    "fact": 4,
+    "action": "surgical",
+    "kept": "The Physician Certification Statement (PCS) signed by the registered nurse on the date of ambulance transportation states that the beneficiary also required oxygen. Exh. 5 at 9.",
+    "removed": "However, neither this PCS nor any other document in the record indicates why the oxygen was required."
+   },
+   {
+    "case": "m-11-2450",
+    "fact": 4,
+    "action": "dropped_whole(remainder_too_short)",
+    "removed": "The facility to which the appellant was taken on November 2, 2010, is staffed by a physician \u201cduring day hours only, and is considered an urgent care facility.\u201d Exh. 1 at 10, 17.",
+    "kept_remainder": ""
+   },
+   {
+    "case": "m_12_257",
+    "fact": 4,
+    "action": "surgical",
+    "kept": "On the assessments, the nurse indicated the beneficiary experienced moderate shortness of breath on exertion, had poor manual dexterity, and was ambulatory only with assistive devices.",
+    "removed": "the record indeed contains six separate skilled nursing assessment notes from the dates of service at issue which document the beneficiary\u2019s functional abilities, respiratory issues and dependence on assistance devices. Exh. 2 at 19, 22, 27, 29, 32, 34."
+   },
+   {
+    "case": "m_12_257",
+    "fact": 5,
+    "action": "dropped_whole(remainder_too_short)",
+    "removed": "The record indicates that immediately prior to the dates of service the beneficiary\u2019s condition necessitated medication changes: Trilipix (for cholesterol) and Actos (to stabilize blood sugar) due to unstable blood sugars, ranging from 88-303.",
+    "kept_remainder": ""
+   },
+   {
+    "case": "midwest_lifeteam",
+    "fact": 2,
+    "action": "surgical",
+    "kept": "The appellant initially submitted a claim for 203 units (miles) of procedure code A0435-II. Exh. 2, at 2.",
+    "removed": "On initial determination, 133 units were found covered and 70 units were denied on the ground that the beneficiary was not taken to the nearest medically-appropriate facility, which would have been a distance of only 133 miles from the transferring facility."
+   },
+   {
+    "case": "nj_dept_humanservices5",
+    "fact": 3,
+    "action": "dropped_whole(adjudicator_finding)",
+    "removed": "The ALJ described the services at issue as intended to \u201caddress articulation skills and speech clarity.\u201d"
+   },
+   {
+    "case": "prestige_homecare",
+    "fact": 4,
+    "action": "dropped_whole(adjudicator_finding)",
+    "removed": "She appears to have had only two medication changes during this period, and they were uneventful."
+   },
+   {
+    "case": "prestige_homecare",
+    "fact": 7,
+    "action": "dropped_whole(remainder_too_short)",
+    "removed": "Although the beneficiary had reported \u201cheart palpitations,\u201d the record did not indicate that the home health agency had thoroughly assessed the cause of the palpitations.",
+    "kept_remainder": ""
+   },
+   {
+    "case": "prestige_homecare",
+    "fact": 8,
+    "action": "dropped_whole(remainder_too_short)",
+    "removed": "The beneficiary was also noted to have lower extremity edema, but it was not quantified or further assessed.",
+    "kept_remainder": ""
+   },
+   {
+    "case": "prestige_homecare",
+    "fact": 9,
+    "action": "dropped_whole(remainder_too_short)",
+    "removed": "The beneficiary was also noted to have wheezing in her lungs, but there was no record whether she was compliant in her nebulizer/inhaler treatments.",
+    "kept_remainder": ""
+   },
+   {
+    "case": "prestige_homecare",
+    "fact": 10,
+    "action": "dropped_whole(adjudicator_finding)",
+    "removed": "Lastly, the QIC noted that there had been no changes in the beneficiary\u2019s medications or plan of care; in addition, no skilled teaching was documented."
+   },
+   {
+    "case": "rb_obo_jb",
+    "fact": 5,
+    "action": "surgical",
+    "kept": "But the appellant has testified that the beneficiary regularly leaves home four days every week to engage in such activities, and has done so for about two years.",
+    "removed": "The record does not indicate specifically how many hours per day or each week the beneficiary spends engaging in adult day-care activities outside the home."
+   },
+   {
+    "case": "rb_obo_jb",
+    "fact": 8,
+    "action": "dropped_whole(adjudicator_finding)",
+    "removed": "the record in this case does not reflect a physician\u2019s determination or statement, or certification, to the effect that the beneficiary is confined to the home consistent with Medicare program requirements."
+   },
+   {
+    "case": "rx_homecare",
+    "fact": 8,
+    "action": "dropped_whole(adjudicator_finding)",
+    "removed": "The plans of care do not contain physician\u2019s orders for observation and assessment and the nursing notes do not reveal any significant changes in the beneficiary\u2019s status or condition."
+   },
+   {
+    "case": "uphams_homehealthcare",
+    "fact": 3,
+    "action": "surgical",
+    "kept": "The beneficiary had been under the appellant's care since May 11, 2007, for a period of four months before the period at issue. Id. at 110.",
+    "removed": "The ALJ discussed the beneficiary's clinical conditions and noted that she lived with her family, who provided support and administered her medications. Dec. at 5."
+   },
+   {
+    "case": "uphams_homehealthcare",
+    "fact": 5,
+    "action": "dropped_whole(remainder_too_short)",
+    "removed": "While the POC describes the beneficiary\u2019s diabetes as \"uncontrolled\" (id. at 110), nurses notes reflect that the beneficiary was not symptomatic and received an oral diabetic agent, rather than injections. See, e.g., id. at 103. The beneficiary's weekly blood glucose readings are generally within no",
+    "kept_remainder": ""
+   },
+   {
+    "case": "visitingnursing",
+    "fact": 10,
+    "action": "dropped_whole(adjudicator_finding)",
+    "removed": "The physical therapy visit notes reflect that skilled gait training occurred during each visit."
+   }
+  ]
+ },
+ "heldout18": {
+  "stats": {
+   "cases": 18,
+   "facts_before": 92,
+   "facts_after": 89,
+   "chars_after": 36525,
+   "whole_dropped": 3,
+   "surgical": 7,
+   "unlocated": 0
+  },
+  "log": [
+   {
+    "case": "baptist_health_care",
+    "fact": 1,
+    "action": "surgical",
+    "kept": "The Administrative Law Judge (ALJ) issued separate decisions, each dated January 22, 2009, pertaining to hospital services provided to nine beneficiaries.",
+    "removed": "The decisions concerned overpayments assessed concerning hospitalizations related to the replacement of automatic implantable cardioverter defibrillators (AICD) provided to seven beneficiaries from February 3, 2005, through October 6, 2006, and hospitalizations for cardiac- related services provided to two beneficiaries from May 2, 2003, through September 15, 2003."
+   },
+   {
+    "case": "connecticut11",
+    "fact": 2,
+    "action": "surgical",
+    "kept": "The beneficiary received skilled physical and occupational therapies after admission. Id. at 47, 35. His physical and occupational therapies were discontinued on February 7, 2006, and February 24, 2006, respectively. Id.",
+    "removed": "On February 22, 2006, a notice of non-coverage was initialed by the beneficiary and witnessed by the SNF\u2019s social worker stating that the last day of skilled services to qualify the stay for Medicare coverage would be February 24, 2006. Exh. 3 at 2-3."
+   },
+   {
+    "case": "gr",
+    "fact": 2,
+    "action": "surgical",
+    "kept": "During the periods of service at issue, the beneficiary was a 51 year-old male, who resided in an assisted living facility, had a primary diagnosis of cerebrovascular accident complications, and relied on a power wheelchair for mobility. Due to his functional limitations, the beneficiary was unable to reposition himself independently and was fully dependent on assistance for all activities of dail",
+    "removed": "The medical records in evidence demonstrate that the beneficiary required daily injections of streptococcal septic medication but was unable to self-inject due to deformity of his hand and paralysis of the right arm."
+   },
+   {
+    "case": "gr",
+    "fact": 4,
+    "action": "dropped_whole(remainder_too_short)",
+    "removed": "The appellant contends that the ALJ\u2019s findings that the beneficiary could leave home without considerable and taxing effort are against the substantial weight of evidence because an examination of the medical records, taken as a whole, illustrates that the beneficiary was",
+    "kept_remainder": ""
+   },
+   {
+    "case": "m-10-1884",
+    "fact": 4,
+    "action": "surgical",
+    "kept": "According to the SNF note, the appellant was informed that the beneficiary\u2019s last Medicare-covered day would be January 27, 2009. Id. The appellant appears to concede that he received a telephone contact from the SNF. Exh. MAC-1.",
+    "removed": "The SNF documented that it provided notice to the appellant, by telephone, that the beneficiary would no longer require skilled care after January 27, 2009. Exh. 1, at 477."
+   },
+   {
+    "case": "m-12-1140",
+    "fact": 2,
+    "action": "dropped_whole(remainder_too_short)",
+    "removed": "The SNF discharged the beneficiary from both PT and OT on September 30, 2011, and issued a \u201cNotice of Medicare Non-Coverage\u201d (NNC), which stated that Medicare coverage of SNF services would end on October 5, 2011, as \u201cthere [was] no continuing evidence of medical necessity for the skills of a profes",
+    "kept_remainder": ""
+   },
+   {
+    "case": "ny",
+    "fact": 1,
+    "action": "surgical",
+    "kept": "In each case, the physician ordered and the provider furnished to the beneficiary home health services consisting of skilled nursing visits ranging from once every other week to twice every week and home health aide visits ranging between five and seven days per week, and between four and 24 hours per day. See, e.g., Exh. 1 (M.D.) at 15-17; Exh. 1 (Y.L.) at 16-18; Exh. 1 (R.L.) at 35.",
+    "removed": "The provider submitted demand bills, and the contractor denied the claims initially and on redetermination."
+   },
+   {
+    "case": "ny",
+    "fact": 4,
+    "action": "surgical",
+    "kept": "In these cases, the provider\u2019s demand bills included services furnished prior to October 1, 2010. See, e.g., Exh. 1 (R.L.) at 26.",
+    "removed": "On review, the contractor excluded from review all of the dates of service prior to that date because they were part of the Third Party Liability (TPL) Demonstration Project. See, e.g., id. at 20-21."
+   },
+   {
+    "case": "roman_eagle_memorial_home",
+    "fact": 4,
+    "action": "dropped_whole(adjudicator_finding)",
+    "removed": "The appellant\u2019s September 29, 2003 letter, addressed to the daughter, states: On 9-29-03 we reviewed the medical information available at the time of admission. [The beneficiary] may receive services which may be covered under Medicare. The patient must be in the Skilled Care section of the nursing "
+   },
+   {
+    "case": "roman_eagle_memorial_home",
+    "fact": 5,
+    "action": "surgical",
+    "kept": "On October 1, 2003, the appellant prepared a form document, entitled \u201cPhysician\u2019s Orders,\u201d which was signed by a physician on October 14, 2003, and included a \u201cCertification/ Recertification\u201d section. Exh. 1 at 50-51. The form states that \u201cThis Patient Requires [an] Intermediate Level of Nursing Care.\u201d Id.",
+    "removed": "The physician\u2019s signature is illegible."
+   }
+  ]
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "case_id": "baptist_health_care",
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "service_at_issue": "Inpatient hospitalizations for AICD replacement (7 beneficiaries) and other cardiac services (2 beneficiaries), 2003-2006",
+ "reference_outcome": "partial",
+ "outcome_note": "The Council adopted the ALJ's non-coverage findings (appellant contested only liability) but reversed liability and found the provider without fault for five AICD stays before July 1, 2006, while holding the provider liable and not without fault for the two later AICD stays and the two non-AICD cardiac stays.",
+ "cited_sections": [],
+ "other_cites": [
+  "SSA 1879",
+  "SSA 1870",
+  "SSA 1870(b)",
+  "SSA 1862(a)(1)",
+  "SSA 1862(a)(9)",
+  "SSA 1833(t)(9)(A)",
+  "42 CFR 411.400",
+  "42 CFR 411.404",
+  "42 CFR 411.406",
+  "42 CFR 405.926(l)",
+  "42 CFR 405.980(a)(5)",
+  "42 CFR 405.980(b)(2)",
+  "CMS Ruling 95-1",
+  "MCPM (CMS Pub. 100-04) ch.30 sec.40.1, 40.1.2",
+  "MFMM (CMS Pub. 100-06) ch.3 sec.90",
+  "65 Fed. Reg. 18462 (Apr. 17, 2000)",
+  "67 Fed. Reg. 69311 (Nov. 15, 2002)",
+  "70 Fed. Reg. 11419 (Mar. 8, 2005)"
+ ],
+ "facts": [
+  "The appellant specifically claims that it had no notice that the services at issue would not be covered by Medicare. See e.g., Exh. MAC-1 at 3. The appellant cites the Federal Register to support its claim that it had no knowledge that Medicare would not cover the services at issue, and, to the contrary, believed that Medicare could cover inpatient replacement of automatic implantable cardioverter defibrillators (AICDs). See e.g., Id. at 4.",
+  "[a]s of July 1, 2006, FMQAI will no longer be uniformly allowing these procedures to be billed as inpatient services.... Those cases that appear to be routine, expected discharge within 24 hours and which do not substantiate SI & IS criteria will be considered for impatient billing denial.",
+  "See \u201cPTCA, PCI and AICD Pacemaker Billing,\u201d FMQAI, June 1, 2006.",
+  "Medicare Program: Changes to the Medicare Claims Appeal Procedures; Proposed Rule, 67 Fed. Reg. 69311, 69327 (Nov. 15, 2002)."
+ ],
+ "arm": "B_gaps",
+ "set": "held",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "LIABILITY_ONLY",
+ "include_primary": 0,
+ "evidence_words_A": 150,
+ "evidence_words_D": 598,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

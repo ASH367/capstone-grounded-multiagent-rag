@@ -1,0 +1,1237 @@
+{
+"case_id": "m-11-1559",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued two decisions, each dated April 21, 2011, which concerned Medicare coverage for inpatient hospital services provided to the beneficiary from July 3, 2009, through July 10, 2009 (ALJ appeal number 1- 627444714) and skilled nursing facility (SNF) services provided to the beneficiary from July 10, 2009, through September 29, 2009 (ALJ appeal number 1-656427775).",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined that Medicare paid for the hospital services under Part B as outpatient and ancillary charges and, therefore, Medicare would not cover the SNF services because the beneficiary did not have a three-day qualifying inpatient hospital stay.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ held the beneficiary liable for the resulting non-covered SNF charges.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council to review these actions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decisions de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s actions to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council has entered the appellant\u2019s requests for review and letter dated July 7, 2011, as Exhs. MAC-1 and MAC-2, respectively.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "The hospital did not file a response to the request for review (1-627444714); nor did the SNF (1-656427775).",
+"tag": "PROC",
+"reason": "request for review"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "INTRO",
+"text": "The appellant confines its request for review on the denial of coverage for inpatient hospitalization for the dates of service from July 3 to 8, 2009.",
+"tag": "PRIOR_DENIAL",
+"reason": "denial of"
+},
+{
+"pi": 3,
+"si": 1,
+"section": "INTRO",
+"text": "It requests review on the denial of coverage for the SNF services from July 11 to September 29, 2009.",
+"tag": "PRIOR_DENIAL",
+"reason": "denial of"
+},
+{
+"pi": 3,
+"si": 2,
+"section": "INTRO",
+"text": "As set forth in more detail below, the Council reverses the ALJ\u2019s decisions, in part, to find that Medicare will cover the inpatient hospital stay for the period from July 3 to 8, 2009 and the SNF services from July 11 to September 29, 2009.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "This case concerns an inpatient hospital stay from July 3, 2009, through July 10, 2009, and subsequent SNF services from July 10, 2009, through September 29, 2009.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "Initially and upon redetermination, Medicare denied coverage for the SNF services because the beneficiary did not have a three-day qualifying inpatient hospital stay. Exh. 1 at 32; Exh. 4 at 1 (Hospital Claim File).",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "FACTS",
+"text": "The contractor issued an unfavorable redetermination decision regarding the hospital services because it found that the hospital billed those services \u201cas outpatient and ancillary\u201d and that the \u201cservices were paid in full with the exception of some charges for testing not covered based on the manner in which the hospital billed them.\u201d Exh. 4 at 1 (Hospital Claim File).",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "On reconsideration for coverage of the hospital services, the Qualified Independent Contractor (QIC) determined that",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "FACTS",
+"text": "On reconsideration for coverage of the SNF services, the QIC dismissed the request for reconsideration regarding the SNF services provided on July 10, 2009, because \u201ca reconsideration decision was completed for the claim for SNF services, provided on July 10, 2009.",
+"tag": "COUNCIL",
+"reason": "dismissed"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "FACTS",
+"text": "The reconsideration decision for this claim was completed . . . on June 15, 2010.\u201d Exh. 4 at 1 (SNF Claim File).",
+"tag": "PRIOR_DENIAL",
+"reason": "reconsideration"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "FACTS",
+"text": "The Council notes that the QIC issued a substantive decision for the SNF services provided on July 10, 2009, in its July 15, 2010, reconsideration. Exh. 5 at 3 (Hospital Claim File).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "FACTS",
+"text": "As to the SNF services, the QIC found that the provider failed to submit sufficient information to substantiate a valid physician certification/recertification of the provided SNF services. Exh. 4 at 7 (SNF Claim File).",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "FACTS",
+"text": "Specifically, the QIC noted that the file contained two certification/recertification forms with admission dates of July 10, 2009, and September 2, 2009, respectively. Id.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "FACTS",
+"text": "However, the QIC determined that the first certification/recertification dated July 10, 2009, was not signed by the physician until September 4, 2009, which was not at the time of admission, nor was it shortly thereafter. Id.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 9,
+"si": 3,
+"section": "FACTS",
+"text": "Further, the QIC found that the July 10, 2009, certification/recertification did not provide an adequate listed reason for the beneficiary\u2019s stay in the SNF nor did it contain any estimated time period for remaining in the SNF or any future plans for home care. Id.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 9,
+"si": 4,
+"section": "FACTS",
+"text": "As to the September 2, 2009, certification/recertification, the QIC determined that it lacked a physician\u2019s dated signature and, like the first certification/recertification, lacked an adequate reason for the beneficiary\u2019s stay in the SNF. Id.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 9,
+"si": 5,
+"section": "FACTS",
+"text": "Thus, the QIC denied coverage for the SNF services at issue. Id.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "FACTS",
+"text": "The QIC also noted that the Notice of Non-Coverage (NNC) contained in the file did not provide a detailed explanation of the services at issue and lacked \u201cestimate cost information.\u201d Id. at 8.",
+"tag": "PROC",
+"reason": "Notice of"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "FACTS",
+"text": "Therefore, the QIC held the SNF liable for the cost of the non-covered SNF services pursuant to section 1879 of the Social Security Act (Act). Id. at 8-9.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant, through its appointed representative, requested an ALJ hearing on both the hospital and SNF services. Exh. 5 at 14 (Hospital Claim File).",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "FACTS",
+"text": "The SNF also requested an ALJ hearing regarding the SNF services, asserting that the \u201cservices were not Medicare covered due to no 3 day stay.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 11,
+"si": 2,
+"section": "FACTS",
+"text": "No certification was therefore required and beneficiary received a technical denial notice.\u201d Exh. 5 at 7, 23 (SNF Claim File).",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "FACTS",
+"text": "The ALJ held a hearing on November 16, 2010. Dec. at 2 (both claim files).",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 12,
+"si": 1,
+"section": "FACTS",
+"text": "Regarding the hospital services, the ALJ determined that both the hospital and the treating physician considered the appellant to be an outpatient for the entire period during which the hospital rendered services. Dec. at 9 (Hospital Claim File).",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 12,
+"si": 2,
+"section": "FACTS",
+"text": "This is because the ALJ found that the hospital clinical records indicated that the treating physician\u2019s determination that the decision to change the beneficiary from observation to inpatient was made in error and that the physician determined to revert the beneficiary to observation status for an additional 23 hours. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 12,
+"si": 3,
+"section": "FACTS",
+"text": "As a result, the ALJ concluded that the claim was both billed and paid under Part B of Medicare and, therefore, the beneficiary was not admitted to a hospital for bed occupancy for the purposes of receiving inpatient hospital services and not entitled to coverage and payment for inpatient services under Part A. Id.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 12,
+"si": 4,
+"section": "FACTS",
+"text": "The ALJ found that Medicare would not cover the SNF services provided on July 10, 2009, because the beneficiary was not an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days before his admission to the SNF. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 12,
+"si": 5,
+"section": "FACTS",
+"text": "The ALJ further concluded that because the claim for SNF services is statutorily excluded, the provisions of section 1879 of the Act did not apply to waive the beneficiary\u2019s liability for the charges. Id. at 10 (Hospital Claim File).",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "FACTS",
+"text": "Although the ALJ did not address the SNF services in the \u201cDiscussion\u201d section of the decision concerning the SNF services, the ALJ nevertheless concluded that Medicare would not cover this care and that it was not reimbursable under Part A. Id. at 8 (SNF Claim File).",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 13,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ found the beneficiary responsible for the non-covered SNF charges. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "FACTS",
+"text": "In its request for review, the appellant\u2019s representative contends that the beneficiary required and received an inpatient hospital level of care and that Medicare Part A coverage for inpatient care was appropriate. Exh. MAC-2 at 12.",
+"tag": "PARTY",
+"reason": "appellant\u2019s representative contends"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "FACTS",
+"text": "Specifically, the appellant\u2019s representative contends that the beneficiary was admitted to neurology as an inpatient hospitalization, despite the fact that the hospital listed the beneficiary as an \u201coutpatient\u201d on observation status in the discharge summary. Id.",
+"tag": "PARTY",
+"reason": "appellant\u2019s representative contends"
+},
+{
+"pi": 14,
+"si": 2,
+"section": "FACTS",
+"text": "Further, during his admission to the hospital, the beneficiary received a complete diagnostic workup and it was not until these tests were completed and evaluated later in the day that the order came to change the beneficiary\u2019s status to observation. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "FACTS",
+"text": "As to the SNF services, the appellant\u2019s representative asserts that Medicare coverage for the SNF care was appropriate because a minimum three-day qualifying hospital stay had been established and because the beneficiary required and received daily skilled care. Id. at 14.",
+"tag": "PARTY",
+"reason": "SNF services, the appellant\u2019s representa"
+},
+{
+"pi": 15,
+"si": 1,
+"section": "FACTS",
+"text": "The appellant\u2019s representative contends that due to the beneficiary\u2019s pain and anxiety, frequent medication changes, and the multiple disciplines involved in his care, the nurses were performing daily case management. Id. at 15.",
+"tag": "PARTY",
+"reason": "appellant\u2019s representative contends"
+},
+{
+"pi": 15,
+"si": 2,
+"section": "FACTS",
+"text": "According to the appellant\u2019s representative, this was necessary because the beneficiary\u2019s overall condition created a situation whereby the beneficiary\u2019s recovery and safety could only be ensured if his total care was planned, managed, and evaluated by professional personnel. Id.",
+"tag": "PARTY",
+"reason": "According to the appellant"
+},
+{
+"pi": 15,
+"si": 3,
+"section": "FACTS",
+"text": "The appellant\u2019s representative concludes that the beneficiary had a qualifying inpatient hospital stay and that the SNF care subsequently provided was medically reasonable and necessary. Id.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "MIXED",
+"text": "The Council confines this decision to the dates of service identified in the requests for review.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 17,
+"si": 1,
+"section": "MIXED",
+"text": "We find that the beneficiary had a qualifying inpatient hospital stay from July 3 to July 8, 2009, and that the subsequent SNF services provided from July 11 through September 29, 2009, were medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 17,
+"si": 2,
+"section": "MIXED",
+"text": "We reverse the ALJ\u2019s decisions as to these dates of service.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "MIXED",
+"text": "The Council finds that the ALJ erred by concluding that the beneficiary did not have a minimum three-day qualifying inpatient hospital stay.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "MIXED",
+"text": "The Council further finds that the beneficiary was admitted to the hospital as an inpatient on July 3, 2009, for the purpose of establishing Medicare coverage for his post-hospital extended care services at the SNF, and was so hospitalized at least through July 8, 2009.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "Section 1812 of the Act provides Medicare coverage for post- hospital extended care services for up to 100 days during any spell of illness.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 20,
+"si": 1,
+"section": "MIXED",
+"text": "Section 1861(i) of the Act defines \u201cpost- hospital extended care services\u201d as those furnished an individual \u201cafter transfer from a hospital in which he was an inpatient for not less than three consecutive days before his discharge from the hospital.\u201d",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 20,
+"si": 2,
+"section": "MIXED",
+"text": "The implementing regulation at 42 C.F.R. \u00a7 409.30 provides that post-hospital SNF care, including SNF-type care furnished in a hospital that has a swing-bed approval, is covered only if the beneficiary meets the requirements of this section and only for days when he or she needs and receives care of the level described in \u00a7 409.31.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 20,
+"si": 3,
+"section": "MIXED",
+"text": "One of these pre-admission requirements is that the beneficiary must have been hospitalized in a participating or qualified hospital for medically necessary inpatient hospital care for at least three consecutive calendar days not counting the day of discharge.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 20,
+"si": 4,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 409.30(a)(1).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "MIXED",
+"text": "After carefully reviewing the evidence, the Council finds that the evidence does not support the ALJ\u2019s conclusion that the hospital and treating physician \u201cconsidered the [beneficiary] to be an outpatient for the entire period during which services were rendered by the hospital.\u201d Dec. at 9.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 21,
+"si": 1,
+"section": "MIXED",
+"text": "Rather several documents, including the emergency room notes, clinical records, and the admission note clearly indicate that the beneficiary was admitted as an inpatient by the neurology department on July 3, 2009.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "MIXED",
+"text": "The benchmark for inpatient admission is whether a patient is expected to need hospital care for 24 hours or more.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 22,
+"si": 1,
+"section": "MIXED",
+"text": "In other words, the question is whether it is medically reasonable to expect that a physician can satisfactorily observe, diagnose, and treat the patient in a hospital setting in 24 hours or less.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 22,
+"si": 2,
+"section": "MIXED",
+"text": "If yes, the patient should be treated as an outpatient, rather than admitted as an inpatient.",
+"tag": "EVAL",
+"reason": "If"
+},
+{
+"pi": 22,
+"si": 3,
+"section": "MIXED",
+"text": "Only stays where it is generally expected that the beneficiary will need a hospital level of care for more than 24 hours should result in an inpatient admission.",
+"tag": "EVAL",
+"reason": "should result in"
+},
+{
+"pi": 22,
+"si": 4,
+"section": "MIXED",
+"text": "Medicare Benefit Policy Manual (MBPM), (CMS Pub. 100-02), Ch. 1, \u00a7 10.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "MIXED",
+"text": "The beneficiary\u2019s chief complaint upon presentation to the emergency department was increasing difficulty ambulating over the past two weeks, \u201cstating that while he used to be able to ambulate without difficulty using a walker from one side of his house to the other, he states that he is now unsteady and falls with minimal ambulation from one room to another.\u201d Exh. 6 at 14 (Hospital Claim File).",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 23,
+"si": 1,
+"section": "MIXED",
+"text": "The medical record shows that the beneficiary had a history of degenerative cerebellar ataxia. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 23,
+"si": 2,
+"section": "MIXED",
+"text": "The emergency department physician noted that there was some \u201cconcordance with the initiation of prozac and trazodone (for depression) two weeks ago with the beginning of his deterioration.\u201d Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 23,
+"si": 3,
+"section": "MIXED",
+"text": "Pertinent here, the emergency department physician stated that",
+"tag": "PARTY",
+"reason": "physician stated that"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "MIXED",
+"text": "Per [discussion with] neurology, they feel that the addition of trazodone is known to cause deterioration in function in patients with degenerative cerebellar disorders and that this should be withdrawn.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 24,
+"si": 1,
+"section": "MIXED",
+"text": "Given the fact that the patient lives with his elderly wife and is unable to ambulate safely due to this, I feel that he will need to be admitted for further management of this issue.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 24,
+"si": 2,
+"section": "MIXED",
+"text": "This was discussed with the hospitalist and neurology, and neurology will admit to their service.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "MIXED",
+"text": "Id.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 25,
+"si": 1,
+"section": "MIXED",
+"text": "The emergency department notes further indicate that the \u201cPatient Plan\u201d is that \u201c[t]he patient will be admitted to the hospital.\u201d Id. at 15.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 25,
+"si": 2,
+"section": "MIXED",
+"text": "The file also contains an \u201cAdmission Note\u201d from the emergency department to neurology on July 3, 2009, as well as \u201cClinical Record \u2013 Inpatient\u201d notes from July 4, 2009, through July 10, 2009. Id. at 20-21, 31-33, 35-45.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 25,
+"si": 3,
+"section": "MIXED",
+"text": "These notes include entries from neurology, physical therapy, occupational therapy, and nurses. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 25,
+"si": 4,
+"section": "MIXED",
+"text": "However, in the midst of these notes, there is an undesignated entry dated July 8, 2009, stating the following:",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 26,
+"si": 0,
+"section": "MIXED",
+"text": "Decision to change from observation to inpt status was made in ERROR.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 26,
+"si": 1,
+"section": "MIXED",
+"text": "Would like to revert to observation status for addition. 23 [hours].",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 26,
+"si": 2,
+"section": "MIXED",
+"text": "Agree [with] Dr. Aquino\u2019s note earlier . . . today re status (minimal improvement mobility + change in BP meds (add ACE inhibitor)) appears not to have herpes zoster. Id. at 43.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 26,
+"si": 3,
+"section": "MIXED",
+"text": "The discharge summary dated July 10, 2009, dictated by Dr. *** , states that the beneficiary \u201cwas admitted for overnight observation.\u201d Exh. 2 at 12 (Hospital Claim File).",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 26,
+"si": 4,
+"section": "MIXED",
+"text": "The ALJ relied upon the undesignated entry in the clinical record, as well as the discharge summary, to conclude that the hospital and treating physician admitted and treated the beneficiary as an outpatient during his stay in the hospital for eight days. Dec. at 9.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 26,
+"si": 5,
+"section": "MIXED",
+"text": "The Council does not agree with this approach.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "MIXED",
+"text": "Apart from the undesignated entry in the clinical record notes and the discharge summary, which appear to be anomalies in a file replete with evidence of a beneficiary in need of acute, inpatient care, the Council finds the evidence persuasive that the hospital admitted the beneficiary as an inpatient. Exh. 6 at 14-21, 31-33, 35-45 (Hospital Claim File).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 27,
+"si": 1,
+"section": "MIXED",
+"text": "Assuming that Dr. *** was in fact the treating physician, the Council nevertheless concludes that the beneficiary required and received an inpatient level of care.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 27,
+"si": 2,
+"section": "MIXED",
+"text": "To this point, the Council notes that the Health Care Financing Administration, now renamed the Centers for Medicare & Medicaid Services, issued Ruling 93-1 to clarify the weight to be given a treating physician\u2019s opinion in determining coverage of inpatient hospital care.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 27,
+"si": 3,
+"section": "MIXED",
+"text": "By regulation, this Ruling is binding on ALJs and the Council.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 27,
+"si": 4,
+"section": "MIXED",
+"text": "C.F.R. \u00a7\u00a7 401.108, 405.1063.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 27,
+"si": 5,
+"section": "MIXED",
+"text": "The Ruling provides that no presumptive weight should be assigned to a treating physician\u2019s medical opinion in determining the medical necessity of inpatient hospital or skilled nursing facility services.",
+"tag": "LAW",
+"reason": "law statement: provides that"
+},
+{
+"pi": 27,
+"si": 6,
+"section": "MIXED",
+"text": "Rather, \u201c[a] physician\u2019s opinion will be evaluated in the context of the evidence in the complete administrative record.\u201d",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "MIXED",
+"text": "In the context of the evidence in this medical record, the Council is not persuaded that the beneficiary was admitted for overnight observation or that his status should have changed from inpatient to outpatient during the course of his stay.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 28,
+"si": 1,
+"section": "MIXED",
+"text": "In making this determination, the Council has considered the factors enumerated in the MBPM: the severity of the signs and symptoms exhibited by the patient; the medical predictability of something adverse happening to the patient; the need for diagnostic studies that appropriately are outpatient services to assist in assessing whether the patient should be admitted; and the availability of diagnostic procedures at the time when and at the location where the patient presents.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 28,
+"si": 2,
+"section": "MIXED",
+"text": "MBPM, Ch. 1, \u00a7 10.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 28,
+"si": 3,
+"section": "MIXED",
+"text": "Therefore, the Council finds that the beneficiary required and received inpatient hospital services from July 3, 2009, through",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "MIXED",
+"text": "July 8, 2009, the dates for which the appellant asks the Council to find inpatient hospitalization, and these services should be billed and paid under Part A. The beneficiary thus had a qualifying inpatient hospital stay for the purposes of coverage of SNF services.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 30,
+"si": 0,
+"section": "MIXED",
+"text": "It is significant to note that Medicare\u2019s inpatient vs. outpatient distinction primarily relates to the amount of payment and coverage under the inpatient and outpatient prospective payment systems, and not to the type of care required and received. See 66 Fed. Reg. 44672, 44690-91 (Aug. 24, 2001) for a discussion of the clinical and payment history of observation services, and the factors Medicare considered in determining whether to make separate payment for observation services. See also 74 Fed. Reg. 60316, 60562 (Nov. 20, 2009) for a discussion of some of the differences between Part B payment for outpatient stays and Part A payment for inpatient admission.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 31,
+"si": 0,
+"section": "MIXED",
+"text": "As the hospital submitted the hospital claim to the contractor as a Part B claim, the Council clarifies that, upon effectuation of this decision, the contractor will follow the normal process for handling an adjustment.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 31,
+"si": 1,
+"section": "MIXED",
+"text": "This means that an overpayment or underpayment will be included in the next regularly scheduled remittance after the adjustment depending on the difference between the amount payable for Part B outpatient services and Part A inpatient hospital services.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 31,
+"si": 2,
+"section": "MIXED",
+"text": "CMS, Claims Reprocessing: Questions & Answers for Providers, May 12, 2011.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 31,
+"si": 3,
+"section": "MIXED",
+"text": "In relevant part, the MBPM states:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 32,
+"si": 0,
+"section": "MIXED",
+"text": "Payment may be made under Part B for physician services and for the nonphysician medical and other health services listed below when furnished by a participating hospital (either directly or under arrangements) to an inpatient of the hospital, but only if payment for these services cannot be made under Part A.",
+"tag": "LAW",
+"reason": "law statement: only if"
+},
+{
+"pi": 33,
+"si": 0,
+"section": "MIXED",
+"text": "MBPM, Ch. 6, \u00a7 10 (emphasis added).",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 33,
+"si": 1,
+"section": "MIXED",
+"text": "This manual section clearly indicates that payment may be made for covered hospital services under Part B, if a Part A claim is denied for any one of several reasons.",
+"tag": "PRIOR_DENIAL",
+"reason": "denied for"
+},
+{
+"pi": 33,
+"si": 2,
+"section": "MIXED",
+"text": "Likewise, payment can be made under Part A if a Part B claim was denied.",
+"tag": "PRIOR_DENIAL",
+"reason": "was denied"
+},
+{
+"pi": 34,
+"si": 0,
+"section": "MIXED",
+"text": "For the purposes of this decision, an intermediary processes both Part A and Part B claims from providers.",
+"tag": "COUNCIL",
+"reason": "this decision"
+},
+{
+"pi": 34,
+"si": 1,
+"section": "MIXED",
+"text": "Section 1816 of the Act and the implementing regulations recognize that not all claims are \u201cclean claims\u201d that will be paid promptly as billed.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 34,
+"si": 2,
+"section": "MIXED",
+"text": "The applicable regulation provides that an intermediary must \u201c[d]etermin[e] the amount of payments to be made to providers for covered services furnished to Medicare beneficiaries [and] [m]ak[e] the payments.\u201d 42 C.F.R. \u00a7 421.100(a)(1) & (2).",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 34,
+"si": 3,
+"section": "MIXED",
+"text": "In addition, the intermediary may \u201cundertak[e] to adjust incorrect payments and recover overpayments when it is determined that an overpayment was made.\u201d 42 C.F.R. \u00a7 421.100(b)(2).",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 35,
+"si": 0,
+"section": "MIXED",
+"text": "The Medicare Claims Processing Manual (MCPM) also recognizes that although providers may sometimes bill for services that are not covered as billed, they are nonetheless entitled to correct payment. See MCPM, (CMS Pub. 100-04), Ch. 29, \u00a7 280. (\u201cClaims Where There is Evidence That Items or Services Were Not Furnished or Were Not Furnished as Billed.\u201d).",
+"tag": "LAW",
+"reason": "CMS Pub"
+},
+{
+"pi": 35,
+"si": 1,
+"section": "MIXED",
+"text": "It instructs contractors to deny or downcode the payment, as appropriate. Id.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractors"
+},
+{
+"pi": 36,
+"si": 0,
+"section": "MIXED",
+"text": "Finally, the MCPM states:",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 37,
+"si": 0,
+"section": "MIXED",
+"text": "If a provider fails to include a particular item or service on its initial bill, an adjustment bill(s) to include such an item(s) or service(s) is not permitted after the expiration of the time limitation for filing a claim.",
+"tag": "EVAL",
+"reason": "If"
+},
+{
+"pi": 37,
+"si": 1,
+"section": "MIXED",
+"text": "However, to the extent that an adjustment bill otherwise corrects or supplements information previously submitted on a timely claim about specified services or items furnished to a specified individual, it is subject to the rules governing administrative finality, rather than the time limitation for filing.",
+"tag": "PROC",
+"reason": "timely"
+},
+{
+"pi": 38,
+"si": 0,
+"section": "MIXED",
+"text": "MCPM, Ch. 3, \u00a7 50 (emphasis added).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 38,
+"si": 1,
+"section": "MIXED",
+"text": "Further, the MCPM makes clear that the claim need not take any particular form to be valid.",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 39,
+"si": 0,
+"section": "MIXED",
+"text": "For those billing carriers and DMERCS, a claim does not have to be on a form but may be any writing submitted by or on behalf of a claimant, which indicates a desire to claim payment from the Medicare program in connection with medical services of a specified nature furnished to an identified enrollee.",
+"tag": "PRIOR_DENIAL",
+"reason": "carriers"
+},
+{
+"pi": 40,
+"si": 0,
+"section": "MIXED",
+"text": "It is not necessary that this submission be recorded on a CMS claim form, that the services be itemized or that the information submitted be complete (e.g., a note from the enrollee\u2019s spouse, or a bill for ancillary services in a nonparticipating hospital, could count as a claim for payment).",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 41,
+"si": 0,
+"section": "MIXED",
+"text": "The writing must contain sufficient identifying information about the enrollee to permit the obtaining of any missing information through routine methods, e.g., file check, microfilm reference, mail or telephone contact based on an address or telephone number in file.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 41,
+"si": 1,
+"section": "MIXED",
+"text": "Where the writing is not submitted on a claims form, there must be enough information about the nature of the medical or other health service to enable the contractor with claims processing jurisdiction to determine that the service was apparently furnished by a physician or supplier.",
+"tag": "PROC",
+"reason": "jurisdiction"
+},
+{
+"pi": 42,
+"si": 0,
+"section": "MIXED",
+"text": "MCPM, Ch. 1, \u00a7 50.1. (\u201cDefinition of a Claim for Payment\u201d).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 43,
+"si": 0,
+"section": "MIXED",
+"text": "In this case, the hospital submitted a timely claim for services, which was paid under Part B. The redetermination, reconsideration, and the ALJ all agreed that the outpatient observation was reasonable and necessary and that the claim was properly submitted \u2013 and paid \u2013 under Part B. The contractor only needs supplemental information in order to process a Part A claim for the very same services identified on the original Part B claim.",
+"tag": "PROC",
+"reason": "timely"
+},
+{
+"pi": 43,
+"si": 1,
+"section": "MIXED",
+"text": "Consistent with the regulations and CMS manual provisions discussed above, the contractor shall work with the hospital to take whatever actions are necessary to arrange for billing under Part A, and thus, offset any Part B payment. 5",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 44,
+"si": 0,
+"section": "MIXED",
+"text": "Because the Council has concluded that Medicare will cover the inpatient hospital services for the period from July 3 to July 8, 2009, and the beneficiary had a minimum three-day qualifying inpatient stay, the Council will now address the skilled nursing facility services.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 45,
+"si": 0,
+"section": "MIXED",
+"text": "Medical Reasonableness and Necessity of the SNF Services",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 46,
+"si": 0,
+"section": "MIXED",
+"text": "The Council finds that Medicare will cover the SNF services provided to the beneficiary from July 11, 2009, through September 29, 2009, as they were medically reasonable and necessary pursuant to section 1862(a)(1)(A) of the Act.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 46,
+"si": 1,
+"section": "MIXED",
+"text": "The SNF admission orders dated July 10, 2009, showed that the beneficiary had diagnoses of spino-cerebellar ataxia type 8, hypertension, diabetes mellitus, depression, apnea, and urinary incontinence. Exh. 6 at 24 (SNF Claim File).",
+"tag": "COUNCIL_REC",
+"reason": "record-report sentence inside Council paragraph"
+},
+{
+"pi": 46,
+"si": 2,
+"section": "MIXED",
+"text": "The physician ordered blood sugar checks twice a day, daily dressing changes to the flank area for 14 days, monitoring of bruising for 7 days, as well as physical and occupational therapy five times/week for 8 weeks. Id. at 26-28.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 47,
+"si": 0,
+"section": "MIXED",
+"text": "The medical evidence in the file indicates that physical and occupational therapy continued for over a month, until the beneficiary developed gallstones, for which he had surgery on September 1, 2009. Id. at 113.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 47,
+"si": 1,
+"section": "MIXED",
+"text": "Following the surgery, the physician ordered physical and occupational therapy five times/week for 4 weeks, which continued until the beneficiary\u2019s condition began to deteriorate around September 6, 2009. Id. at 114-115.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 47,
+"si": 2,
+"section": "MIXED",
+"text": "The notes indicate that the beneficiary fell on September 6, 2009, and although he had no injury, he complained of pain and had decreased appetite for the next several days. Id. at 115.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 47,
+"si": 3,
+"section": "MIXED",
+"text": "On September 8, 2009, the notes show that the physician ordered a chest x-ray, which indicated possible pneumonia. Id. at 115-116.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 47,
+"si": 4,
+"section": "MIXED",
+"text": "Over the next week, the physician adjusted the beneficiary\u2019s medications and monitored his condition for further deterioration. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 47,
+"si": 5,
+"section": "MIXED",
+"text": "The notes show that he had a staph infection in his blood and urine on September 17, 2009, and his condition worsened over the next several days to the point where he was unable to sit straight in his wheelchair. Id. at 122-124.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 47,
+"si": 6,
+"section": "MIXED",
+"text": "The physician again adjusted the beneficiary\u2019s medications and ordered a psychiatric reevaluation on September 24, 2009. Id. at 125-128.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 48,
+"si": 0,
+"section": "MIXED",
+"text": "Based on the documentation of the beneficiary\u2019s condition during his stay in the SNF, the Council finds that the observation and assessment of the beneficiary\u2019s changing condition constituted skilled services to identify and evaluate the beneficiary\u2019s need for modification of treatment and additional medical procedures to stabilize his condition. Id. at 24-128; 42 C.F.R. \u00a7 409.33(a)(2)(i).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 49,
+"si": 0,
+"section": "MIXED",
+"text": "Certification/Recertification of the SNF Services",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 50,
+"si": 0,
+"section": "MIXED",
+"text": "The QIC determined that Medicare would not pay for the SNF services because the file did not contain the required physician certification/recertification. Exh. 4 at 7 (SNF Claim File).",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 50,
+"si": 1,
+"section": "MIXED",
+"text": "As the Council has found that coverage is warranted for the SNF services, we must now address certification. 6",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 51,
+"si": 0,
+"section": "MIXED",
+"text": "Medicare requires, as a condition of payment for covered services, physician certification (and recertification) indicating that SNF services \u201care or were required to be given because the individual needs or needed on a daily basis skilled nursing care . . . or other skilled rehabilitation services, which as a practical matter can only be provided in a skilled nursing facility on an inpatient basis.\u201d",
+"tag": "LAW",
+"reason": "law statement: Medicare requires"
+},
+{
+"pi": 51,
+"si": 1,
+"section": "MIXED",
+"text": "Section 1814(a)(2)(B) of the Act.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 51,
+"si": 2,
+"section": "MIXED",
+"text": "The physician certification must be obtained at admission \u201cor as soon thereafter as is reasonable and practicable,\u201d with recertifications required within 14 days of admission and every 30 days thereafter. See 42 C.F.R. \u00a7\u00a7 424.20(b)(1); 424.20(d)(1); and 424.20(d)(2).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 52,
+"si": 0,
+"section": "MIXED",
+"text": "Physician certification is a condition of payment under section 1814 of the Act and the regulations in 42 C.F.R. Part 424, and not a criterion for coverage.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 52,
+"si": 1,
+"section": "MIXED",
+"text": "If the services are not covered because they do not meet the coverage requirements, then an adjudicator would not need to reach the issue of whether there was, or was not, a valid certification (or recertification).",
+"tag": "EVAL",
+"reason": "not covered"
+},
+{
+"pi": 52,
+"si": 2,
+"section": "MIXED",
+"text": "The responsibility for meeting applicable certification requirements, for the purposes of Medicare reimbursement of covered services, lies with the provider of the services, and not the beneficiary. See Friedman v. Sec\u2019y of the Dep\u2019t of Health and Human Serv., 819 F.2d 42, 44-45 (2d Cir. 1987); 42 C.F.R. \u00a7 489.21(b)(1).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 53,
+"si": 0,
+"section": "MIXED",
+"text": "In this case, the QIC seems to have concluded that recertification requirements were not met for this period because the record lacked recertification forms.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 53,
+"si": 1,
+"section": "MIXED",
+"text": "However, the record contains physician\u2019s orders for the entire period at issue.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 53,
+"si": 2,
+"section": "MIXED",
+"text": "The eight-week period of physical and occupational therapy referenced in the physician\u2019s orders on July 10, 2009, is documented in the physical and occupational therapy plans of treatment and progress notes. Exh. 6 at 24-28 (physician\u2019s orders), 31-51 (plans of treatment and progress notes) (SNF Claim File).",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 53,
+"si": 3,
+"section": "MIXED",
+"text": "Further, there are physician orders contained in the file on the following dates of service: July 13, July 15, July 17, July 20, July 24, July 28, July 30, August 4, August 5, August 6, August 10, August 11, August 13, August 14, August 19, August 20, August 21, August 24, August 25, August 27, August 28, August 30, September 2, September 3, September 4, September 8, September 10, September 11, September 12, September 14, September 15, September 17, September 18, September 20, and September 26. Id. at 52-55, 56-57, 58-60, 61-70, 71-72.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 54,
+"si": 0,
+"section": "MIXED",
+"text": "Based on the foregoing, the Council concludes that the record contains evidence of physician certification and recertification for the skilled nursing and rehabilitative services, and, specifically for the period from July 11, 2009, through September 29, 2009, which comports with the requirements of 42 C.F.R. \u00a7 424.20.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 54,
+"si": 1,
+"section": "MIXED",
+"text": "The record documents that a physician repeatedly signed orders that indicated that beneficiary needed and continued to need daily skilled nursing and rehabilitation services as an inpatient in a skilled nursing facility for a condition for which the beneficiary received inpatient hospital care.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 54,
+"si": 2,
+"section": "MIXED",
+"text": "Treatment goals over a course of time were established as part of this process as well as adjustments to the beneficiary\u2019s care.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 54,
+"si": 3,
+"section": "MIXED",
+"text": "These documents are consistent with the content of the required certification.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 54,
+"si": 4,
+"section": "MIXED",
+"text": "Accordingly, the Council finds that reimbursement may be made for the skilled nursing services provided to the beneficiary from July 11, 2009, through September 29, 2009.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 56,
+"si": 0,
+"section": "TERMINAL",
+"text": "It is the decision of the Medicare Appeals Council that the beneficiary had a qualifying inpatient hospital stay under Part A from July 3, 2009, through July 8, 2009, and that Medicare coverage and payment is available for the SNF services provided from July 11, 2009, through September 29, 2009.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 56,
+"si": 1,
+"section": "TERMINAL",
+"text": "The contractor is directed to process the claims for inpatient hospital services and SNF services accordingly.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 57,
+"si": 0,
+"section": "TERMINAL",
+"text": "The ALJ\u2019s decisions are reversed in part in accordance with the foregoing discussion.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

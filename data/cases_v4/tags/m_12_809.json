@@ -1,0 +1,829 @@
+{
+"case_id": "m_12_809",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated October 27, 2011, which concerned Medicare coverage for inpatient hospital services furnished to the beneficiary from February 18, 2010 through February 20, 2010.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined that the inpatient hospital admission was not medically reasonable and necessary on the grounds that the services could have been furnished on an outpatient basis.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ found the appellant financially liable for the non-covered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council (Council) to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 4,
+"section": "INTRO",
+"text": "The Council admits the appellant\u2019s request for review, dated December 23, 2011 and received by the Council on December 27, 2011, into the record as Exhibit (Exh.) MAC-1.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council has considered the record and exceptions raised in the appellant\u2019s request for review, but finds no basis to disturb the ALJ\u2019s finding that the inpatient hospital admission at issue were not medically reasonable and necessary and is not 2 covered by Medicare Part A. Thus, the Council adopts the ALJ findings and conclusions on this point.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "The Council supplements the decision, however, to direct that the contractor review the services at issue and provide payment to the appellant under Medicare Part B for services found to be medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 2,
+"section": "INTRO",
+"text": "The Council adopts the ALJ\u2019s finding that the appellant is financially liable for the non-covered inpatient stay, and finds that the appellant is liable for the difference between the payment under Medicare Part A and Part B.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "LAW",
+"text": "An ALJ and the Council are bound by statutes, regulations, national coverage determinations (NCDs), and Medicare Rulings.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "LAW",
+"text": "C.F.R. \u00a7\u00a7 405.1060(a)(4) and 405.1063.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "LAW",
+"text": "Neither an ALJ nor the Council is bound by a Local Coverage Determination (LCD) or Medicare program guidance such as program memoranda and manual instructions, \u201cbut will give substantial deference to these policies if they are applicable to a particular case.\u201d 42 C.F.R. \u00a7 405.1062(a).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 3,
+"section": "LAW",
+"text": "If an ALJ or the Council declines to follow a policy in a particular case, the ALJ or Council decision must explain the reasons why the policy was not followed.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 4,
+"section": "LAW",
+"text": "C.F.R. \u00a7 405.1062(b).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "LAW",
+"text": "Section 1862(a)(1)(A) of the Act provides that notwithstanding any other provisions of title XVIII of the Act, items or services which are not reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member are excluded from coverage.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "LAW",
+"text": "There are no binding statutes, regulations, or NCDs which establish criteria for coverage and payment of inpatient hospital admissions.",
+"tag": "LAW",
+"reason": "statutes"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "LAW",
+"text": "However, the Medicare Benefits Policy Manual (MBPM) (CMS IOM Pub. 100-02) defines an inpatient as \u2013",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "LAW",
+"text": "[A] person who has been admitted to a hospital for bed occupancy for purposes of receiving inpatient hospital services.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "LAW",
+"text": "Generally, a patient is considered an inpatient if formally admitted as [an] inpatient with the expectation that he or she will remain at least overnight and occupy a bed even though it later develops that the patient can be discharged or transferred to another hospital and not actually use a hospital bed overnight.",
+"tag": "LAW",
+"reason": "law statement: is considered"
+},
+{
+"pi": 7,
+"si": 2,
+"section": "LAW",
+"text": "MBPM, chapter 1, section 10.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 7,
+"si": 3,
+"section": "LAW",
+"text": "In discussing the issue of whether 3 a patient requires inpatient care in an acute care hospital, the Medicare Benefit Policy Manual (MBPM), Pub. 100-02, explains:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "LAW",
+"text": "The physician or other practitioner responsible for a patient\u2019s care at the hospital is also responsible for deciding whether the patient should be admitted as an inpatient.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "LAW",
+"text": "Physicians should use a 24-hour period as a benchmark, i.e., they should order admission of patients who are expected to need hospital care for 24 hours or more, and treat other patients on an outpatient basis.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "LAW",
+"text": "However, the decision to admit a patient is a complex medical judgment which can be made only after the physician has considered a number of factors, including the patient\u2019s medical history and current medical needs, the types of facilities available to inpatients and outpatients, the hospital\u2019s by-laws and admissions policies, and the relative appropriateness of treatment in each setting.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 8,
+"si": 3,
+"section": "LAW",
+"text": "Factors to be considered when making the decision to admit include such things as:",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 The severity of the signs and symptoms exhibited by the patient;",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 The medical predictability of something adverse happening to the patient;",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 The need for diagnostic studies that appropriately are outpatient services (i.e., their performance does not ordinarily require the patient to remain at the hospital for 24 hours or more) to assist in assessing whether the patient should be admitted; and",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 12,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 The availability of diagnostic procedures at the time when and at the location where the patient presents.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "LAW",
+"text": "Admissions of particular patients are not covered or non-covered solely on the basis of the length of time the patient actually spends in the hospital.",
+"tag": "EVAL",
+"reason": "not covered"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "LAW",
+"text": "MBPM, Ch. 1 at \u00a7 10.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "LAW",
+"text": "By contrast, under Medicare guidelines, lower level outpatient 4 observation services may be ordered and covered where inpatient hospital admission is not medically reasonable and necessary:",
+"tag": "LAW",
+"reason": "law statement: guidelines"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "LAW",
+"text": "Observation care is a well-defined set of specific, clinically appropriate services, which include ongoing short term treatment, assessment, and reassessment before a decision can be made regarding whether patients will require further treatment as hospital inpatients or if they are able to be discharged from the hospital.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 15,
+"si": 1,
+"section": "LAW",
+"text": "Observation services are commonly ordered for patients who present to the emergency department and who then require a significant period of treatment or monitoring in order to make a decision concerning their admission or discharge.",
+"tag": "LAW",
+"reason": "law statement: in order to"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "LAW",
+"text": "Observation services are covered only when provided by the order of a physician or another individual authorized by State licensure law and hospital staff bylaws to admit patients to the hospital or to order outpatient tests.",
+"tag": "EVAL",
+"reason": "are covered"
+},
+{
+"pi": 16,
+"si": 1,
+"section": "LAW",
+"text": "In the majority of cases, the decision whether to discharge a patient from the hospital following resolution of the reason for the observation care or to admit the patient as an inpatient can be made in less than 48 hours, usually in less than 24 hours.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 16,
+"si": 2,
+"section": "LAW",
+"text": "In only rare and exceptional cases do reasonable and necessary outpatient observation services span more than 48 hours.",
+"tag": "EVAL",
+"reason": "reasonable and necessary"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "LAW",
+"text": "MBPM, chapter 6, section 20.6(A).",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "LAW",
+"text": "CMS, formerly the Health Care Financing Administration (HCFA), issued a Ruling in 1993, which established that, \u201cno presumptive weight should be assigned to the treating physician\u2019s medical opinion in determining the medical necessity of inpatient hospital or SNF [skilled nursing facility] services under section 1862(a)(1) of the Act.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 18,
+"si": 1,
+"section": "LAW",
+"text": "A physician\u2019s opinion will be evaluated in the context of the evidence in the complete administrative record.\u201d",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 18,
+"si": 2,
+"section": "LAW",
+"text": "HCFA Ruling 93-1 (eff.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 18,
+"si": 3,
+"section": "LAW",
+"text": "May 18, 1993).",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 18,
+"si": 4,
+"section": "LAW",
+"text": "Thus, there is no presumption that a treating physician\u2019s judgment, or decision, to admit a beneficiary as an inpatient establishes Medicare coverage for the inpatient hospital stay.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "LAW",
+"text": "Section 1879 of the Act provides that, where an item or service is not covered by Medicare because it is determined to be custodial care or not medically reasonable and necessary, in certain instances, the liability of the provider, practitioner, supplier or beneficiary may be limited.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. section 411.406, CMS (HCFA) Ruling 5 95-1, and the Medicare Claims Processing Manual (MCPM), CMS Pub. 100-4, Ch. 30, sections 40.1 and 40.1.2, address what constitutes evidence that a provider knew, or should have known, that Medicare would not pay for a service:",
+"tag": "PROC",
+"reason": "should have known"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 A Medicare contractor\u2019s prior written notice to the provider denying payment for similar or reasonably comparable services;",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 Medicare\u2019s general notices to the medical community that Medicare will deny services under all, or certain, circumstances (such notices include, but are not limited to, manual instructions, bulletins, contractor\u2019s written guides and directives);",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 Provision of services inconsistent with acceptable standards of practice in the local medical community;",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 The provider\u2019s utilization review committee has informed the provider in writing that such services were not covered; and",
+"tag": "EVAL",
+"reason": "not covered"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "LAW",
+"text": "\u2022 A Medicare contractor previously issued a written notice to the provider that Medicare payment for a particular service or item was denied.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "FACTS",
+"text": "The 67-year-old male beneficiary arrived at * * * * Hospital on February 17, 2010 complaining of generalized chest pain.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 26,
+"si": 1,
+"section": "FACTS",
+"text": "He had a past medical history of coronary artery disease with coronary bypass surgery, angioplasty, stent implantation, paroxysmal atrial fibrillation, hypertension, hyperlipidemia, and gastoesophageal reflux disease. Exh. 1, at 23.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 26,
+"si": 2,
+"section": "FACTS",
+"text": "The following morning, on February 18, 2010, the beneficiary was transferred to Providence Hospital (the appellant) for a \u201chigher level of care.\u201d Exh. 2, at 65.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 26,
+"si": 3,
+"section": "FACTS",
+"text": "He was initially placed in observation status but subsequently admitted to inpatient status.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 26,
+"si": 4,
+"section": "FACTS",
+"text": "During his hospital stay, the beneficiary was diagnosed with atherosclerosis native coronary artery, intermediate coronary syndrome, hypertension, hyperlipidemia, percutaneous transluminal angioplasty (PTA) status, and aortocoronary bypass status. Exh. 2, at 23.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 26,
+"si": 5,
+"section": "FACTS",
+"text": "On February 19, 2010, the beneficiary received percutaneous transluminal coronary angioplasty (PTCA), insertion of (a) drug-eluting coronary artery stent(s), insertion of one vascular stent, procedure on two vessels, left 6 cardiac catheterization, angiocardiography of left heart structures, and coronary arteriography using two catheters. Exh. 2, at 28.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 26,
+"si": 6,
+"section": "FACTS",
+"text": "During these procedures, the appellant experienced a temporary drop in blood pressure and bradycardia.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 26,
+"si": 7,
+"section": "FACTS",
+"text": "Prior to surgery, radiology studies had shown normal EKG sinus rhythm and normal cardiac enzymes; however, new T-wave inversion was noted. Exh. 2, at 46.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 26,
+"si": 8,
+"section": "FACTS",
+"text": "There were no complications following the cardiac catheterization and stenting procedure, and the beneficiary was discharged home from the hospital on February 20, 2010, the following day.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 27,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant hospital filed a claim with Medicare for inpatient hospital services furnished to the beneficiary for the period of February 18-20, 2010.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 27,
+"si": 1,
+"section": "FACTS",
+"text": "In a very detailed decision discussing at length the medical documentation, the contractor denied coverage finding that the medical documentation did not support an acute inpatient admission and that the beneficiary could have been managed at a lower level of care. Exh. 1, at 14-15.",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 27,
+"si": 2,
+"section": "FACTS",
+"text": "Following medical review, the Qualified Independent Contractor (QIC) upheld the contractor\u2019s decision, finding that Medicare coverage criteria were not met for inpatient admission. Exh. 1, at 4b.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 27,
+"si": 3,
+"section": "FACTS",
+"text": "Based on the opinion of the medical review panel, the QIC found that the standard of care for a patient undergoing elective heart catheterization and stenting is an observation level of care. Id.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 27,
+"si": 4,
+"section": "FACTS",
+"text": "The QIC noted that the beneficiary was no longer complaining of chest pain at the time of his transfer to the appellant hospital, cardiac enzymes were normal, the EKG did not show any acute abnormal-ities, the beneficiary tolerated the catheterization and stenting procedure well, and the beneficiary was discharged home the following day. Exh. 1, at 4.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 27,
+"si": 5,
+"section": "FACTS",
+"text": "The QIC found that the observation required after the procedure did not require inpatient admission in the absence of a significant complication. Exh. 1, at 4b.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 27,
+"si": 6,
+"section": "FACTS",
+"text": "The QIC found the provider financially liable for the non-covered costs.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "FACTS",
+"text": "Following a hearing before an ALJ at which the appellant was represented by a physician, the ALJ upheld the QIC\u2019s finding that the inpatient admission was not medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 28,
+"si": 1,
+"section": "FACTS",
+"text": "The ALJ, following discussion of the medical evidence in the record, found that Medicare coverage criteria for an inpatient hospitalization were not met and that the \u201cpotential alone of a more complex diagnosis or clinical course does not warrant prospective patient admission.\u201d",
+"tag": "LAW",
+"reason": "law statement: criteria for"
+},
+{
+"pi": 28,
+"si": 2,
+"section": "FACTS",
+"text": "ALJ Dec. at 7.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 28,
+"si": 3,
+"section": "FACTS",
+"text": "Like the QIC, the ALJ noted that at the time of his admission, the beneficiary\u2019s vital signs were within normal limits, he was not complaining of chest pain, cardiac enzymes did not show any acute cardiac injury, and an EKG did not show acute abnormal- 7 ities.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 28,
+"si": 4,
+"section": "FACTS",
+"text": "The ALJ also noted that the beneficiary tolerated the procedures well and was discharged home the following day. Id. at 7-8.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 28,
+"si": 5,
+"section": "FACTS",
+"text": "The ALJ found the appellant financially liable for the non-covered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "FACTS",
+"text": "In his request for review, the appellant asserts that the ALJ erred in finding the inpatient admission not medically reasonable and necessary.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 29,
+"si": 1,
+"section": "FACTS",
+"text": "The appellant, through a physician representative, argues that the beneficiary had been admitted to a hospital just two days prior to the surgical procedure for chest pain, that an EKG noted new inverted T waves, and that the beneficiary had an extensive history of cardiac problems.",
+"tag": "PARTY",
+"reason": "appellant, through a physician represent"
+},
+{
+"pi": 29,
+"si": 2,
+"section": "FACTS",
+"text": "The appellant noted that the beneficiary underwent cardiac catheterization, during which he experienced brief low blood pressure with bradycardia, and that he was returned to the telemetry unit following surgery for cardiac monitoring. Exh. MAC-1 at 2-3.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 29,
+"si": 3,
+"section": "FACTS",
+"text": "The appellant argued that the inpatient admission should be found covered because the admission was consistent with the standards of medical care, including the InterQual Long Term Acute Care Criteria and the Milliman Care Guidelines for admission. 1",
+"tag": "LAW",
+"reason": "law statement: Guidelines"
+},
+{
+"pi": 32,
+"si": 0,
+"section": "MIXED",
+"text": "The Council has reviewed the medical records in this case, the contentions of the appellant, and the opinions of the medical reviewers at various levels of appeal.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 32,
+"si": 1,
+"section": "MIXED",
+"text": "The Council finds that the medical evidence in the record does not establish that the inpatient hospital admission at issue was medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 32,
+"si": 2,
+"section": "MIXED",
+"text": "In so finding, the Council is mindful that the beneficiary had an extensive medical history of cardiac problems and procedures, as this is well documented in the record.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 32,
+"si": 3,
+"section": "MIXED",
+"text": "The Council is also aware of the beneficiary\u2019s presentation of chest pains and inverted T waves within 24-48 hours prior to the",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 33,
+"si": 0,
+"section": "MIXED",
+"text": "If a provider fails to include a particular item or service on its initial bill, an adjustment bill(s) to include such an item(s) or service(s) is not permitted after the expiration of the time limitation for filing a claim.",
+"tag": "EVAL",
+"reason": "If"
+},
+{
+"pi": 33,
+"si": 1,
+"section": "MIXED",
+"text": "However, to the extent that an adjustment bill otherwise corrects or supplements information previously submitted on a timely claim about specified services or items furnished to a specified individual, it is subject to the rules governing administrative finality, rather than the time limitation for filing.",
+"tag": "PROC",
+"reason": "timely"
+},
+{
+"pi": 34,
+"si": 0,
+"section": "MIXED",
+"text": "MCPM, Ch. 3 at \u00a7 50.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 34,
+"si": 1,
+"section": "MIXED",
+"text": "The MCPM makes clear that the claim need not take any particular form to be valid:",
+"tag": "OTHER",
+"reason": "no record anchor"
+},
+{
+"pi": 35,
+"si": 0,
+"section": "MIXED",
+"text": "For those billing [Medicare Administrative Contractors] and [DME MACs], a claim does not have to be on a form but may be any writing submitted by or on behalf of a claimant, which indicates a desire to claim payment from the Medicare program in connection with medical services of a specified nature furnished to an identified enrollee.",
+"tag": "PRIOR_DENIAL",
+"reason": "MACs"
+},
+{
+"pi": 35,
+"si": 1,
+"section": "MIXED",
+"text": "It is not necessary that this submission be recorded on a CMS claim form, that the services be itemized or that the information submitted be complete (e.g., a note from the enrollee\u2019s spouse, or a bill for ancillary services in a nonparticipating hospital, could count as a claim for payment).",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 36,
+"si": 0,
+"section": "MIXED",
+"text": "MCPM, Ch. 1 at \u00a7 50.1. (\u201cDefinition of a Claim for Payment\u201d).",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 36,
+"si": 1,
+"section": "MIXED",
+"text": "The writing must contain sufficient identifying information about the enrollee to permit the obtaining of any missing information through routine methods, e.g., file check, microfilm reference, mail or telephone contact based on an address or telephone number in file.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 36,
+"si": 2,
+"section": "MIXED",
+"text": "Where the writing is not submitted on a claim form, there must be enough information about the nature of the medical or other health service to enable the contractor with claims processing jurisdiction to determine that the service was apparently furnished by a physician or supplier. Id.",
+"tag": "PROC",
+"reason": "jurisdiction"
+},
+{
+"pi": 37,
+"si": 0,
+"section": "MIXED",
+"text": "For these reasons, the Council finds that the appellant is entitled to payment for otherwise-covered medically reasonable and necessary services under Medicare Part B. The Medicare Administrative Contractor is directed to review the services at issue for coverage and payment under Part B. The Council does not specify the manner in which the Medicare Administrative Contractor should facilitate such process, e.g., whether the contractor should direct the appellant to re-file the claim 12 under Part B with an itemized list of services, whether the contractor is able to make payment based on the current claim as filed, or by other manner.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 37,
+"si": 1,
+"section": "MIXED",
+"text": "The Council simply finds that the otherwise-covered and medically reasonable services must be covered and paid in the manner they would have been had they been claimed under Medicare Part B.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 39,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ, as well as the QIC and the contractor, found the appellant financially liable for the cost of the non-covered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 39,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant devoted multiple pages in the request for review to arguing that the appellant did not have actual or constructive knowledge, and could not reasonably have been expected to know, that the inpatient hospital services would be found not medically reasonable and necessary.",
+"tag": "PROC",
+"reason": "request for review"
+},
+{
+"pi": 39,
+"si": 2,
+"section": "MIXED",
+"text": "More specifically, the appellant argued that it had not received notice through any of the means enumerated in 42 C.F.R. section 411.406, which he discussed in detail.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 40,
+"si": 0,
+"section": "MIXED",
+"text": "The Council notes that the financial cost of the denial of coverage for inpatient hospital services in this case will be offset on implementation by proper reimbursement for otherwise- covered outpatient services.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 40,
+"si": 1,
+"section": "MIXED",
+"text": "Thus, the financial impact to the appellant will be substantially reduced from that contemplated by the ALJ, QIC, and contractor.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 40,
+"si": 2,
+"section": "MIXED",
+"text": "The Council finds, however, that the remaining difference between the reimbursable amount for inpatient and outpatient services will remain the financial responsibility of the appellant.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 40,
+"si": 3,
+"section": "MIXED",
+"text": "The appellant could reasonably have been expected to know -- for all of the reasons previously stated in this decision -- that a hospital inpatient admission was not medically reasonable and necessary in order to furnish all of the required monitoring services following a cardiac catheterization and stenting procedure where there were no expectations at the time of surgery, more than a limited possibility, that complications would arise and that the beneficiary would remain hospitalized beyond the usual recovery period for this type of surgery.",
+"tag": "COUNCIL",
+"reason": "this decision"
+},
+{
+"pi": 42,
+"si": 0,
+"section": "TERMINAL",
+"text": "For the reasons stated above, the Council adopts the ALJ\u2019s unfavorable coverage decision and finds that the services furnished to the beneficiary from February 18-20, 2010 did not require an inpatient admission and are not covered under Medicare Part A. The Council directs the contractor to review the items and services and furnished in this case and to 13 provide reimbursement for medically reasonable and necessary and otherwise covered items and services on an outpatient basis under Medicare Part B. The appellant is financially responsible, and may not charge the beneficiary, for any difference in the amount it would have received had the services been covered on an inpatient basis.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 42,
+"si": 1,
+"section": "TERMINAL",
+"text": "The ALJ decision is modified accordingly.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

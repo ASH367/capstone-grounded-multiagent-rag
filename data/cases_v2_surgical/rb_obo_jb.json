@@ -1,0 +1,33 @@
+{
+ "case_id": "rb_obo_jb",
+ "domain": "home_health",
+ "docket": "M-10-1449",
+ "service_at_issue": "home health services after termination of coverage effective January 25, 2010",
+ "facts": [
+  "The beneficiary, a female in her early 50s, has Down\u2019s syndrome. She also has chronic obstructive pulmonary disease and is dependent on supplemental oxygen. She requires monthly changes of her tracheotomy and periodic suctioning of the tracheotomy. The beneficiary has been living with her brother and his wife for the past five years.",
+  "The appellant explains that about seven hours of home health nursing and aide assistance per week is needed to perform tracheotomy care, bathe the beneficiary daily, and assist with various other activities of daily living.",
+  "a physician wrote, with respect to the proposed termination of home health care services, that discontinuing the services \u201cmay place the beneficiary\u2019s health at significant risk\u201d because the beneficiary has a \u201chistory of mental retardation, tracheotomy and chronic bronchitis\u201d and \u201ccould suffer pulmonary complications if services [are] D/c\u2019ed.\u201d Exh. 1 at 35.",
+  "The record indicates that the beneficiary leaves home four days every week to engage in \u201csheltered workshop\u201d activities (music therapy, games, puzzles, social skills development) at an adult day care center, sponsored by a county mental health/mental retardation program.",
+  "But the appellant has testified that the beneficiary regularly leaves home four days every week to engage in such activities, and has done so for about two years.",
+  "January 4, 2010, nurse visit notes indicating that the beneficiary \u201cmoves in bed and in chair independently and has sufficient muscle strength to lift up completely during move\u201d",
+  "The beneficiary apparently takes the county-sponsored transportation on her own, after the appellant gives the beneficiary a morning bath."
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council upheld the termination because the beneficiary was not shown to be homebound despite attending adult day care four days a week and lacking a physician homebound determination.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30.1.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 409.42(a)-(e)",
+  "42 CFR 409.41(b)",
+  "42 CFR 424.22(a)(1)(ii)",
+  "SSA 1814(a)",
+  "SSA 1861(m)"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

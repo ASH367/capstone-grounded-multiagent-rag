@@ -1,0 +1,212 @@
+[
+ {
+  "components": [
+   {
+    "name": "D.E. therapy",
+    "description": "PT, OT and ST services for beneficiary D.E. initiated Aug 27-28, 2009"
+   },
+   {
+    "name": "E.M. therapy",
+    "description": "ST and OT services for beneficiary E.M. starting Aug 24, 2009"
+   },
+   {
+    "name": "J.M. therapy",
+    "description": "PT and OT services (OT from June 14, 2009) for beneficiary J.M."
+   }
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "components": [
+   {
+    "name": "SNF stay",
+    "description": "The beneficiary's SNF stay following the Dec 15-27, 2009 hospital stay, at issue as to the qualifying 3-day stay and skilled coverage"
+   }
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "components": [
+   {
+    "name": "AICD inpatient admissions",
+    "description": "Inpatient admissions for replacement of automatic implantable cardioverter defibrillators, nine claims reviewed together"
+   }
+  ],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "components": [
+   {
+    "name": "Request for review",
+    "description": "Single claim; the facts concern only the timeliness of the appellant's brief, not separable services"
+   }
+  ],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "components": [
+   {
+    "name": "SNF stay",
+    "description": "The beneficiary's SNF care from Jan 17, 2006, including services after the notice of non-coverage, as one claim"
+   }
+  ],
+  "case_id": "connecticut11"
+ },
+ {
+  "components": [
+   {
+    "name": "Feb-Apr 2004 nursing",
+    "description": "Visiting nurse services at the assisted living facility, Feb 29 to Apr 28, 2004"
+   },
+   {
+    "name": "Aug-Dec 2004 nursing",
+    "description": "Visiting nurse services at the assisted living facility, Aug 27 to Dec 24, 2004"
+   }
+  ],
+  "case_id": "gr"
+ },
+ {
+  "components": [
+   {
+    "name": "Jan 28-31 2009 SNF",
+    "description": "SNF care billed for Jan 28 through Jan 31, 2009"
+   },
+   {
+    "name": "Feb 1-Mar 1 2009 SNF",
+    "description": "SNF care billed for Feb 1, 2009 through Mar 1, 2009"
+   }
+  ],
+  "case_id": "m-10-1884"
+ },
+ {
+  "components": [
+   {
+    "name": "Aug 2007-Mar 2008 visits",
+    "description": "Home health nursing visits Aug 6, 2007 to Mar 28, 2008"
+   },
+   {
+    "name": "May-Sep 2008 visits",
+    "description": "Home health nursing visits May 28 to Sep 24, 2008"
+   }
+  ],
+  "case_id": "m-11-1869"
+ },
+ {
+  "components": [
+   {
+    "name": "SNF stay",
+    "description": "The beneficiary's SNF stay after the Feb 17, 2010 hospital discharge through early March 2010"
+   }
+  ],
+  "case_id": "m-11-1967"
+ },
+ {
+  "components": [
+   {
+    "name": "PT and OT",
+    "description": "Skilled physical and occupational therapy after SNF readmission Aug 30, 2011"
+   },
+   {
+    "name": "Skilled nursing",
+    "description": "Skilled nursing services after SNF readmission"
+   }
+  ],
+  "case_id": "m-12-1140"
+ },
+ {
+  "components": [
+   {
+    "name": "Physical therapy",
+    "description": "PT services for the beneficiary at the facility"
+   },
+   {
+    "name": "Speech therapy",
+    "description": "ST evaluation/services related to diet upgrade"
+   },
+   {
+    "name": "Cognitive/memory therapy",
+    "description": "Therapy for memory loss and cognition, goals met by Sept 11, 2008"
+   }
+  ],
+  "case_id": "m_10_1771"
+ },
+ {
+  "components": [
+   {
+    "name": "W.B. PT visits",
+    "description": "Physical therapy visits for W.B. between Oct 25 and Nov 29, 2005"
+   },
+   {
+    "name": "D.W. PT sessions",
+    "description": "48 physical therapy sessions for D.W."
+   },
+   {
+    "name": "D.W. aide visits",
+    "description": "97 home health aide visits for D.W."
+   }
+  ],
+  "case_id": "nj_dept_humanservices22"
+ },
+ {
+  "components": [
+   {
+    "name": "Skilled nursing visits",
+    "description": "Skilled nursing visits by Ocean County Board of Health, Apr 17 to Oct 13, 2007"
+   }
+  ],
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "components": [
+   {
+    "name": "Home health services",
+    "description": "Home health aide/skilled nursing hours (28 to 35 hours) furnished to the beneficiary on the dates at issue"
+   }
+  ],
+  "case_id": "ny"
+ },
+ {
+  "components": [
+   {
+    "name": "First admission",
+    "description": "Noncertified-bed SNF stay Sept 29 to Nov 27, 2003"
+   },
+   {
+    "name": "Second admission",
+    "description": "Noncertified-bed SNF stay Dec 11, 2003 to Jan 6, 2004"
+   }
+  ],
+  "case_id": "roman_eagle_memorial_home"
+ },
+ {
+  "components": [
+   {
+    "name": "IRF claims",
+    "description": "IRF services for five beneficiaries between Mar 2003 and May 2004, reopened by the RAC; facts do not separate them"
+   }
+  ],
+  "case_id": "stfrances_memorial"
+ },
+ {
+  "components": [
+   {
+    "name": "Skilled nursing",
+    "description": "Skilled nursing for psychological, behavioral and medical needs, Aug 2009"
+   },
+   {
+    "name": "Skilled PT",
+    "description": "Skilled physical therapy for gait, transfers and fall risk, Aug 2009"
+   }
+  ],
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "components": [
+   {
+    "name": "IRF stay",
+    "description": "IRF services July 17-24, 2003, as a single claim"
+   }
+  ],
+  "case_id": "valley_presbyterian"
+ }
+]

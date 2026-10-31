@@ -1,0 +1,32 @@
+{
+ "case_id": "prestige_homecare",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "home health skilled nursing (observation and assessment) and personal care for chronically ill beneficiaries",
+ "facts": [
+  "Beneficiary B.K. started care with the home health agency on June 15, 2003, approximately sixteen months before the dates of service at issue here.",
+  "Her primary diagnosis was hypertension, and her other diagnoses were coronary atherosclerosis, cardiac dysrhythmia, polyarthritis, constipation, and urinary tract infection.",
+  "During the ten months at issue, the beneficiary\u2019s physician signed certifications that she required, and should receive, skilled nursing services one to two times a month (for observation and assessment, and teaching medications) and personal care services five to seven times a week for the first eight months.",
+  "Her primary diagnosis was hypertension; other diagnoses were coronary atherosclerosis, malignant neoplasm of the skin, hyperlipidemia, joint disease, and polyarthritis.",
+  "During the four months at issue the certification and plan of care called for skilled nursing services one to two times a month (for observation and assessment, and teaching medications and signs and symptoms of cardiac complications), and personal care services three to five times a week."
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council reversed the ALJ, finding the beneficiaries' chronic conditions were stable so skilled observation and assessment was not reasonable and necessary, making the dependent aide services non-covered and the agency liable.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 405.910",
+  "42 CFR 409.42",
+  "42 CFR 409.42(c)",
+  "42 CFR 409.32",
+  "42 CFR 409.33(a)(2)(i)",
+  "42 CFR 409.45(a)"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

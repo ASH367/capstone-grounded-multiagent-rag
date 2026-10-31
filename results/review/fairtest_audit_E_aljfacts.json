@@ -1,0 +1,24 @@
+{
+ "dev": {
+  "cases": 22,
+  "alj_fact_sentences": 25,
+  "words": 13750,
+  "good": 229,
+  "good_hit": 172,
+  "verbatim_failures": 0,
+  "leak_facts": 22,
+  "evidence_ok": 20,
+  "leak_hit": 13
+ },
+ "held": {
+  "cases": 18,
+  "alj_fact_sentences": 19,
+  "words": 13512,
+  "good": 219,
+  "good_hit": 130,
+  "verbatim_failures": 0,
+  "leak_facts": 10,
+  "evidence_ok": 16,
+  "leak_hit": 5
+ }
+}

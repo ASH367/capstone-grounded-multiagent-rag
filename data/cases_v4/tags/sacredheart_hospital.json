@@ -1,0 +1,1053 @@
+{
+"case_id": "sacredheart_hospital",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "On June 5, 2009, the Administrative Law Judge (ALJ) issued a decision concerning an overpayment determination arising from the appellant\u2019s claim for the beneficiary\u2019s inpatient hospitalization from July 27, through July 29, 2005.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "In relation to the beneficiary at issue, the ALJ found the services were not medically reasonable and necessary, and therefore, not covered by Medicare; upheld the overpayment determination; and concluded that recovery of the overpayment could not be waived.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council (Council) to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council enters the appellant\u2019s request for review, received on August 4, 2009, into the record as Exhibit (Exh.) MAC-1.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "As explained below, the Council reverses the ALJ\u2019s decision as to the beneficiary at issue.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 2,
+"section": "INTRO",
+"text": "We find that the services at issue were medically reasonable and necessary for the beneficiary and covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "We"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant billed Medicare for the beneficiary\u2019s inpatient hospitalization from July 27, through July 29, 2005. Exh. 1 at 3.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 4,
+"si": 1,
+"section": "FACTS",
+"text": "Initially, the Medicare intermediary paid this claim in August 2005. Id.",
+"tag": "PRIOR_DENIAL",
+"reason": "intermediary"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "FACTS",
+"text": "The Recovery Audit Contractor (RAC) reopened and reviewed the claim. Id. at 32.",
+"tag": "PRIOR_DENIAL",
+"reason": "RAC"
+},
+{
+"pi": 4,
+"si": 3,
+"section": "FACTS",
+"text": "On February 12, 2008, the RAC issued a \u201cNotice of Incorrect Payment Determination and Pending Adjustment,\u201d informing the appellant that an overpayment existed for this beneficiary. Id. at 32-33.",
+"tag": "PROC",
+"reason": "Notice of"
+},
+{
+"pi": 4,
+"si": 4,
+"section": "FACTS",
+"text": "Upon redetermination, the intermediary found that Medicare did not cover the inpatient services at issue.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 4,
+"si": 5,
+"section": "FACTS",
+"text": "It found that the \u201cmedical record did not support an inpatient level of care\u201d and that the \u201cadmission should have been billed at an outpatient/observation level of care.\u201d Id. at 25.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "After reviewing the record, the Qualified Independent Contractor (QIC) concluded that Medicare did not cover the inpatient services at issue, stating that Medicare coverage criteria were not met for hospital services with \u201cinpatient status for the dates of service under review.\u201d Id. at 4.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "The QIC also determined that the appellant\u2019s responsibility for the overpayment could not be waived. Id. at 4-5.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "The ALJ consolidated the cases for six beneficiaries for whom the RAC found an overpayment was made. Dec. at 6-16.",
+"tag": "PROC",
+"reason": "overpayment"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "After conducting a hearing on April 16, 2009, the ALJ issued a partially favorable decision on June 5, 2009, concerning all six beneficiaries. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "FACTS",
+"text": "For five of the beneficiaries, the ALJ found that Medicare covered the services as billed or that the appellant was without fault for the overpayment and that Medicare could not recoup payment. Id.",
+"tag": "PROC",
+"reason": "without fault"
+},
+{
+"pi": 6,
+"si": 3,
+"section": "FACTS",
+"text": "For the beneficiary currently at issue, the ALJ denied Medicare coverage for the services at issue because they were not medically reasonable and necessary; upheld the overpayment determination; and concluded that recovery of the overpayment could not be waived. Dec. at 12-13.",
+"tag": "COUNCIL",
+"reason": "upheld"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "In Exh. MAC-1, the appellant set forth several reasons for its disagreement with the ALJ\u2019s decision.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "FACTS",
+"text": "These contentions are summarized as follows:",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "FACTS",
+"text": "1) The medical documentation supports that the treating physician made \u201ca thoughtful, prudent decision to admit [the beneficiary] to the hospital for a multi-day hospital stay based on \u2018the amount of dissection required intra- abdominally as well as her underlying pulmonary status.\u2019\u201d",
+"tag": "EVAL",
+"reason": "supports that"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "FACTS",
+"text": "Further, the 2005 InterQual Guidelines for Surgery and Procedures in the Inpatient Setting lists ventral hernia repair as a procedure commonly performed in an inpatient setting; thus, admission after the beneficiary\u2019s procedure was medically reasonable and necessary.",
+"tag": "LAW",
+"reason": "law statement: Guidelines"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "FACTS",
+"text": "2) CMS must pay for the services at issue pursuant to section 1879\u2019s limitation on liability provision because neither the appellant, nor the beneficiary, knew or could have been reasonably expected to know that the services would not be covered.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "FACTS",
+"text": "Further, the appellant lacked knowledge that Medicare would not cover the inpatient stay following the Council\u2019s decision in Niobrara Valley Hospital (March 27, 2003).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "FACTS",
+"text": "3) The Centers for Medicare & Medicaid Services (CMS) is procedurally barred from reversing its initial determination because the claim was reopened more than four years after the initial determination and without good cause for reopening more than one year after the initial determination.",
+"tag": "COUNCIL",
+"reason": "reversing"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "FACTS",
+"text": "See Exh. MAC-1 at 3-4.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 405.980 provides a stratified structure for reopening.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "LAW",
+"text": "A CMS contractor may reopen an initial determination or redetermination.",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 14,
+"si": 2,
+"section": "LAW",
+"text": "C.F.R. \u00a7 405.980(a)(1)(i).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 14,
+"si": 3,
+"section": "LAW",
+"text": "An ALJ\u2019s or the Council\u2019s authority to reopen is limited, respectively, to a revision of ALJ hearing decisions (by the ALJ) and hearing and Council decisions (by the Council).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 14,
+"si": 4,
+"section": "LAW",
+"text": "C.F.R. \u00a7\u00a7 405.980(a)(1)(iii) and (iv).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 14,
+"si": 5,
+"section": "LAW",
+"text": "Notably, neither the ALJ, nor the Council, has any authority to reopen or revise an initial determination or redetermination.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 405.926 sets forth actions that are not initial determinations and not appealable.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 15,
+"si": 1,
+"section": "LAW",
+"text": "Included among them is a \u201ccontractor\u2019s . . . decision to reopen or not reopen an initial determination.\u201d 42 C.F.R. \u00a7 405.926(l).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 15,
+"si": 2,
+"section": "LAW",
+"text": "This lack of jurisdiction extends to whether the contractor met good cause standards for reopening in 42 C.F.R. \u00a7 405.980(b)(2).",
+"tag": "PROC",
+"reason": "jurisdiction"
+},
+{
+"pi": 15,
+"si": 3,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 405.980(a)(5) further states that",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "LAW",
+"text": "\u201c[t]he contractor\u2019s, QIC\u2019s, ALJ\u2019s, or MAC\u2019s decision on whether to reopen is final and not subject to appeal.\u201d",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "LAW",
+"text": "The regulation at 42 C.F.R. \u00a7 405.980(b) establishes the time frame for reopening initial determinations and redeterminations initiated by a contractor.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 17,
+"si": 1,
+"section": "LAW",
+"text": "Section 405.980 provides, in part:",
+"tag": "LAW",
+"reason": "Section 4"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "LAW",
+"text": "A contractor may reopen and revise its initial determination or redetermination on its own motion -",
+"tag": "PRIOR_DENIAL",
+"reason": "contractor"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "LAW",
+"text": "(1) Within 1 year from the date of the initial determination or redetermination for any reason.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "LAW",
+"text": "(2) Within 4 years from the date of the initial determination or redetermination for good cause as defined in \u00a7 405.986.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "LAW",
+"text": "(3) At any time if there exists reliable evidence as defined in \u00a7 405.902 that the initial determination was procured by fraud or similar fault as defined in \u00a7 405.902.1",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "LAW",
+"text": "The regulation addressing good cause for reopening, 42 C.F.R. \u00a7 405.986, provides, in part:",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "LAW",
+"text": "(a) Good cause may be established when \u2013",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "LAW",
+"text": "(1) There is new and material evidence that \u2013",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "LAW",
+"text": "(i) Was not available or known at the time of the determination or decision; and",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "LAW",
+"text": "(ii) May result in a different conclusion; or",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "LAW",
+"text": "(2) The evidence that was considered in making the determination or decision clearly shows on its face that an obvious error was made at the time of the determination or decision. . . .",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "LAW",
+"text": "When conducting a post-payment review of claims, contractors must adhere to reopening rules.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 28,
+"si": 1,
+"section": "LAW",
+"text": "CMS Manual System, Medicare",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "LAW",
+"text": "Program Integrity (MPIM), CMS Pub. 100-08, Ch. 3, \u00a7 3.6.B. However, neither the ALJ, nor the Council, has jurisdiction to review that aspect of the contractor\u2019s action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 29,
+"si": 1,
+"section": "LAW",
+"text": "A contractor\u2019s decision on whether to reopen is final and not subject to appeal.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 29,
+"si": 2,
+"section": "LAW",
+"text": "C.F.R. \u00a7\u00a7 405.926(l); 405.980(a)(5).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 29,
+"si": 3,
+"section": "LAW",
+"text": "This restriction extends regardless of whether the contractor met the good cause standards for reopening set forth in 42 C.F.R. \u00a7 405.980(b)(2).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 29,
+"si": 4,
+"section": "LAW",
+"text": "CMS has expressly stated that the enforcement mechanism for good cause standards lies within its evaluation and monitoring of contractor performance, not the administrative appeals process.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 29,
+"si": 5,
+"section": "LAW",
+"text": "Interim Final Rule with Comment Period, 70 Fed. Reg. 11,420, 11,453 (Mar. 8, 2005).",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 31,
+"si": 0,
+"section": "LAW",
+"text": "Among the provisions relevant to the determination of coverage is section 1862(a)(1) of the Social Security Act (Act), which provides that notwithstanding any other provisions of title XVIII of the Act, items or services which are not reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member are excluded from coverage.",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 31,
+"si": 1,
+"section": "LAW",
+"text": "Therefore, it is a function of the QIO to determine whether the services are or were reasonable and medically necessary.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 31,
+"si": 2,
+"section": "LAW",
+"text": "C.F.R. \u00a7 476.71(a)(1).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 32,
+"si": 0,
+"section": "LAW",
+"text": "In its review, the Quality Improvement Organization (QIO) must determine whether those services furnished on an inpatient basis could, consistent with the provisions of appropriate medical care, be effectively furnished more economically on an outpatient basis or in an inpatient health care facility of a different type.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 32,
+"si": 1,
+"section": "LAW",
+"text": "C.F.R. \u00a7 476.71(a)(3).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 32,
+"si": 2,
+"section": "LAW",
+"text": "QIOs are to deny claims in accordance with 42 C.F.R. \u00a7 476.83 if the health care services furnished or proposed to be furnished to a beneficiary are non-covered because they are not medically necessary and reasonable (\u00a71862(a)(1) of the Act) or constitute custodial care (\u00a71862(a)(9) of the Act). See CMS Manual System, Pub. No. 100-10, Quality Improvement Organization Manual (QIOM), Ch. 7, \u00a7 7100.2",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 33,
+"si": 0,
+"section": "LAW",
+"text": "In discussing the issue of whether a patient will be viewed as requiring inpatient care, the Medicare Benefits Policy Manual (MBPM) explains:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 34,
+"si": 0,
+"section": "LAW",
+"text": "The physician or other practitioner responsible for a patient\u2019s care at the hospital is also responsible for deciding whether the patient should be admitted as an inpatient.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 34,
+"si": 1,
+"section": "LAW",
+"text": "Physicians should use a 24-hour period as a benchmark, i.e., they should order admission of patients who are expected to need hospital care for 24 hours or more, and treat other patients on an outpatient basis.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 34,
+"si": 2,
+"section": "LAW",
+"text": "However, the decision to admit a patient is a complex medical judgment which can be made only after the physician has considered a number of factors, including the patient\u2019s medical history and current medical needs, the types of facilities available to inpatients and outpatients, the hospital\u2019s by-laws and admissions policies, and the relative appropriateness of treatment in each setting.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 34,
+"si": 3,
+"section": "LAW",
+"text": "Factors to be considered when making the decision to admit include such things as:",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 35,
+"si": 0,
+"section": "LAW",
+"text": "\uf0b7 The severity of the signs and symptoms exhibited by the patient;",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 36,
+"si": 0,
+"section": "LAW",
+"text": "\uf0b7 The medical predictability of something adverse happening to the patient;",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 37,
+"si": 0,
+"section": "LAW",
+"text": "\uf0b7 The need for diagnostic studies that appropriately are outpatient services (i.e. their performance does not ordinarily require the patient to remain at the hospital for 24 hours or more) to assist in assessing whether the patient should be admitted; and",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 38,
+"si": 0,
+"section": "LAW",
+"text": "\uf0b7 The availability of diagnostic procedures at the time when and at the location where the patient presents.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 39,
+"si": 0,
+"section": "LAW",
+"text": "Admissions of particular patients are not covered or non- covered solely on the basis of the length of time the patient actually spends in the hospital.",
+"tag": "EVAL",
+"reason": "not covered"
+},
+{
+"pi": 40,
+"si": 0,
+"section": "LAW",
+"text": "MBPM, Pub. No. 100-02, Ch. 1, \u00a7 10.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 41,
+"si": 0,
+"section": "LAW",
+"text": "The MBPM also describes how inpatient admissions are to be reviewed:",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 42,
+"si": 0,
+"section": "LAW",
+"text": "Under original Medicare, the Quality Improvement Organization (QIO) for each hospital is responsible for deciding, during review of inpatient admissions on a case- by-case basis, whether the admission was medically necessary.",
+"tag": "LAW",
+"reason": "law statement: is responsible for"
+},
+{
+"pi": 42,
+"si": 1,
+"section": "LAW",
+"text": "Medicare law authorizes the QIO to make these judgments, and the judgments are binding for purposes of Medicare coverage.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIO"
+},
+{
+"pi": 42,
+"si": 2,
+"section": "LAW",
+"text": "In making these judgments, however,",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 43,
+"si": 0,
+"section": "LAW",
+"text": "QIOs consider only the medical evidence which was available to the physician at the time an admission decision had to be made.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 43,
+"si": 1,
+"section": "LAW",
+"text": "They do not take into account other information (e.g., test results) which became available only after admission, except in cases where considering the post- admission information would support a finding that an admission was medically necessary.",
+"tag": "EVAL",
+"reason": "medically necessary"
+},
+{
+"pi": 44,
+"si": 0,
+"section": "LAW",
+"text": "MBPM, Ch. 1, \u00a7 10; see also QIOM, Ch. 4, \u00a7 4110.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 47,
+"si": 0,
+"section": "MIXED",
+"text": "Before the Council, the appellant asserts that CMS is procedurally barred from reversing its initial determination because the RAC reopened the claim more than four years after the initial determination. Exh. MAC-1 at 4.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 47,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant maintains that reopening occurred beyond 12-months without good cause because there was no new and material evidence. Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 47,
+"si": 2,
+"section": "MIXED",
+"text": "A contractor\u2019s decision on whether to reopen is final and not subject to review.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 47,
+"si": 3,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.980(a)(5).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 47,
+"si": 4,
+"section": "MIXED",
+"text": "Moreover, the parallel regulation at 42 C.F.R. \u00a7 405.926(l) states that a contractor\u2019s determination to reopen or not to reopen is not an initial determination, and is, therefore, not appealable.",
+"tag": "LAW",
+"reason": "regulation"
+},
+{
+"pi": 47,
+"si": 5,
+"section": "MIXED",
+"text": "Therefore, neither the ALJ, nor the Council, has the authority to review the RAC\u2019s decision to reopen the claim.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 47,
+"si": 6,
+"section": "MIXED",
+"text": "The restriction against reviewing the contractor\u2019s decision whether to reopen an initial determination extends to whether or not the contractor met the good cause standards for reopening set forth in 42 C.F.R. \u00a7 405.980(b)(2).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 47,
+"si": 7,
+"section": "MIXED",
+"text": "CMS has expressly stated that the enforcement mechanism for good cause standards lies within CMS\u2019s evaluation and monitoring of contractor performance, not the administrative appeals process.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 47,
+"si": 8,
+"section": "MIXED",
+"text": "Interim Final Rule with Comment Period, 70 Fed. Reg. 11,420, 11,453 (Mar. 8, 2005).",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 47,
+"si": 9,
+"section": "MIXED",
+"text": "Thus, the Council finds that the ALJ did not err in concluding that he did not have the authority to examine whether there was good cause for reopening the claim after one year from the date of the initial determination. Dec. at 8.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 50,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant first asserts that the acute hospital services, and the decision to admit, were reasonable and necessary, and therefore, the acute inpatient services are covered by Medicare. Exh. MAC-1 at 2-3.",
+"tag": "PARTY",
+"reason": "appellant first asserts"
+},
+{
+"pi": 50,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant claims that the medical documentation supports that the treating physician made \u201ca thoughtful, prudent decision to admit [the beneficiary] to the hospital for a multi-day hospital stay based on \u2018the amount of dissection required intra-abdominally as well as her underlying pulmonary status.\u2019\u201d Id. at 3.",
+"tag": "PARTY",
+"reason": "appellant claims that"
+},
+{
+"pi": 51,
+"si": 0,
+"section": "MIXED",
+"text": "CMS, under its former title Health Care Financing Administration (HCFA), issued a Ruling in 1993, which established that, \u201cno presumptive weight should be assigned to the treating physician\u2019s medical opinion in determining the medical necessity of inpatient hospital or SNF services under section 1862(a)(1) of the Act.",
+"tag": "LAW",
+"reason": "the Act"
+},
+{
+"pi": 51,
+"si": 1,
+"section": "MIXED",
+"text": "A physician\u2019s opinion will be evaluated in the context of the evidence in the complete administrative record.\u201d",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 51,
+"si": 2,
+"section": "MIXED",
+"text": "HCFA Ruling 93-1 (eff.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 51,
+"si": 3,
+"section": "MIXED",
+"text": "May 18, 1993).",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 51,
+"si": 4,
+"section": "MIXED",
+"text": "Rulings of the agency are binding on ALJs and on the Council.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 51,
+"si": 5,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.1063.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 51,
+"si": 6,
+"section": "MIXED",
+"text": "Thus, the Council notes that there is no presumption that a treating physician\u2019s judgment establishes Medicare coverage.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 53,
+"si": 0,
+"section": "MIXED",
+"text": "The InterQual criteria for inpatient admissions are proprietary industry guidelines for acute care hospital admissions and are widely used by acute care hospitals in making inpatient admission decisions.",
+"tag": "LAW",
+"reason": "law statement: criteria for"
+},
+{
+"pi": 53,
+"si": 1,
+"section": "MIXED",
+"text": "The InterQual criteria are not developed by CMS and are not binding on CMS for coverage purposes; however they are widely used by CMS and CMS\u2019 contracted QIOs to determine coverage for inpatient hospital admissions and care. See 42 C.F.R. \u00a7 476.71(a)(3).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 53,
+"si": 2,
+"section": "MIXED",
+"text": "Thus, they are similar to CMS-issued Local Coverage Determinations, program memoranda or manual instructions, and ALJs and the Council are not bound by such program guidance. See 42 C.F.R. \u00a7 405.1062(a).",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 53,
+"si": 3,
+"section": "MIXED",
+"text": "However in this case, the Council will give the InterQual criteria substantial deference as they are applicable to this particular case.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 53,
+"si": 4,
+"section": "MIXED",
+"text": "The InterQual guidelines for services in 2005 indicate that \u201cdue to variations in practice, this procedure [herniorrhaphy, ventral] may be performed in the outpatient setting.\u201d See InterQual Guidelines for Surgery and Procedures in the Inpatient Setting, IMPT-6, CMS Inpatient List, Exh. MAC-1 at 8.",
+"tag": "LAW",
+"reason": "law statement: guidelines"
+},
+{
+"pi": 53,
+"si": 5,
+"section": "MIXED",
+"text": "The appellant contends that the 2005 InterQual Guidelines lists ventral hernia repair as a procedure commonly performed in an inpatient setting; and thus, admission after the beneficiary\u2019s procedure was medically reasonable and necessary. Exh. MAC-1 at 3.",
+"tag": "LAW",
+"reason": "law statement: Guidelines"
+},
+{
+"pi": 54,
+"si": 0,
+"section": "MIXED",
+"text": "The Council finds that the InterQual guidelines do not offer definitive instructions on whether the procedure at issue must be provided in an inpatient setting.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 54,
+"si": 1,
+"section": "MIXED",
+"text": "In fact, the guidelines specifically state that in certain circumstances the procedure is done in an outpatient setting. Id. at 8.",
+"tag": "LAW",
+"reason": "law statement: guidelines"
+},
+{
+"pi": 54,
+"si": 2,
+"section": "MIXED",
+"text": "Thus, the Council turns to the criteria set forth in MBPM Ch. 1, \u00a7 10, to determine if the acute inpatient admission and subsequent stay were medically reasonable and necessary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 55,
+"si": 0,
+"section": "MIXED",
+"text": "On the first date at issue (July 27, 2005), the 71-year-old beneficiary was admitted to the appellant\u2019s facility for surgical repair of a \u201clarge, complicated and mildly symptomatic incisional\u201d abdominal wall (ventral) hernia that occurred as a result of a sigmoid colon resection with colostomy in 2003. Exh. 2 at 3.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 55,
+"si": 1,
+"section": "MIXED",
+"text": "The beneficiary also had past medical conditions and diagnoses of chronic obstructive pulmonary disease and asthma with recurrent bronchitis, hypertension, esophageal reflux, diverticulitis, and post-surgical hypothyroidism with thyroidectomy. Id. at 1, 7.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 55,
+"si": 2,
+"section": "MIXED",
+"text": "The medical record indicates that the beneficiary had \u201csignificant underlying pulmonary disease in the form of recurrent episode of bronchial asthma.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 55,
+"si": 3,
+"section": "MIXED",
+"text": "She also has a functional vocal cord dysfunction.\u201d Id. at 7.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 55,
+"si": 4,
+"section": "MIXED",
+"text": "The beneficiary tolerated the surgical procedure well, and was extubated and admitted to the post-anesthesia care unit (PACU). Id. at 6A. The record shows that the beneficiary was hospitalized \u201cowing to the amount of dissection required intra- abdominally as well as her underlying pulmonary status.\u201d Id. at 8.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 56,
+"si": 0,
+"section": "MIXED",
+"text": "At the time of the beneficiary\u2019s admission to the PACU, she was in stable condition with stable vital signs and breathing with 2.5 liters of oxygen by nasal cannula. Id. at 6A, 12, 28.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 56,
+"si": 1,
+"section": "MIXED",
+"text": "The staff administered intravenous pain medication and checked her vital signs at 15-minute intervals. Id. at 28.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 56,
+"si": 2,
+"section": "MIXED",
+"text": "The beneficiary was moved to an alternative non-post operative floor bed within the appellant\u2019s facility. Id. at 49.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 56,
+"si": 3,
+"section": "MIXED",
+"text": "She received twice daily pulmonary assessments and continued on oxygen at 1.5 liters by nasal cannula. Id. at 67.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 56,
+"si": 4,
+"section": "MIXED",
+"text": "Upon admission and in the evening of the following day, the beneficiary experienced shallow breathing with diminished bibasilar breath sounds. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 56,
+"si": 5,
+"section": "MIXED",
+"text": "The beneficiary was given spirometry treatments and her breathing was documented as even. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 56,
+"si": 6,
+"section": "MIXED",
+"text": "During the duration of her stay, the beneficiary\u2019s surgical wound was dressed and cleaned without signs of infection, redness, or swelling. Id. at 77.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 56,
+"si": 7,
+"section": "MIXED",
+"text": "The beneficiary was given pain medication as needed and identified her surgical site pain on July 27, 2005, as \u201c5,\u201d \u201c8\u201d and \u201c4;\u201d and on July 28, 2005, as \u201c3\u201d and \u201c6\u201d on a numerical pain scale. Id. at 83.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 56,
+"si": 8,
+"section": "MIXED",
+"text": "Upon discharge, the beneficiary declined a walker or cane to assist with mobility after her surgery. Id. at 44.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 57,
+"si": 0,
+"section": "MIXED",
+"text": "The Council finds that the record indicates that at the time of admission, and throughout the inpatient hospital stay, the beneficiary required acute inpatient hospital care.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 57,
+"si": 1,
+"section": "MIXED",
+"text": "The Council finds that, while the beneficiary did not exhibit signs of infection, the record shows that the beneficiary\u2019s health status or the foreseeable adverse affects were of such severity to require acute inpatient care. See MBPM Ch. 1, \u00a7 10.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 57,
+"si": 2,
+"section": "MIXED",
+"text": "Thus, the Council reverses the ALJ\u2019s decision and finds that the services were medically reasonable and necessary for the beneficiary at issue.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 57,
+"si": 3,
+"section": "MIXED",
+"text": "Because the Council has found that the claim is covered by Medicare, the Council will not address the appellant\u2019s arguments concerning liability.",
+"tag": "COUNCIL",
+"reason": "Council"
+}
+]
+}

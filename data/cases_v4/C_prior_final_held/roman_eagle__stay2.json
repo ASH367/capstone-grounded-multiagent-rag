@@ -1,0 +1,51 @@
+{
+ "domain": "snf",
+ "docket": "M-10-571",
+ "cited_sections": [],
+ "other_cites": [
+  "SSA 1879(e)",
+  "SSA 1814(a)(2)",
+  "42 CFR 424.20",
+  "42 CFR 424.11(b)",
+  "42 CFR 409.33(d)(13)",
+  "MCPM ch.30 130.3",
+  "MCPM ch.30 130.4",
+  "MCPM ch.30 40.3.5",
+  "Medicare General Information, Eligibility, and Entitlement Manual ch.4 40-40.4.6",
+  "Medicare Program Integrity Manual ch.6 6.3"
+ ],
+ "case_id": "roman_eagle__stay2",
+ "parent": "roman_eagle_memorial_home",
+ "unit_note": "label is coverage-criteria only: provider (not Medicare) liable because notice/consent invalid. decided with user 2026-10-30",
+ "service_at_issue": "SNF services in a noncertified bed, second stay Dec 11, 2003 - Jan 6, 2004",
+ "reference_outcome": "COVERED",
+ "outcome_note": "(unit)",
+ "facts": [
+  "She was admitted to REMH for two periods, from September 29, 2003, through November 27, 2003, and from December 11, 2003 through January 6, 2004, both following a qualifying hospital stay. She died on January 6, 2004 from the cancer.",
+  "Readmission and Second Stay from December 11, 2003, Through January 6, 2004",
+  "On December 11, 2003, the beneficiary was readmitted to appellant\u2019s nursing facility after her hospital stay. Exh. 1 at 90. The appellant\u2019s assessment forms from December 11, 2003 indicate the beneficiary was \u201ctotally dependent\u201d in multiple assessment categories.",
+  "There are no notice and consent documents from the beneficiary\u2019s December 11, 2003 re-admission to appellant REMH.",
+  "The appellant filled out a second \u201cPhysician\u2019s Orders\u201d form which a physician appears to have signed on December 12, 2003. Exh. 1 at 62-64. 2 The form includes a \u201cCertification/ Recertification\u201d section, and the word \u201cIntermediate\u201d is typed in under \u201cThis Patient Requires ________ Level of Nursing Care.\u201d Id.",
+  "The appellant initially believed that Medicaid would pay for the beneficiary\u2019s care. Exh. MAC-1. It did not submit Medicare claims until the second half of 2008. Exh. 2 at 1-2.",
+  "On January 22, 2009, the CMS contractor issued an unfavorable redetermination for the services rendered to the beneficiary during both of her SNF stays. Exh. 3 at 21-23.",
+  "On June 30, 2009, the Qualified Independent Contractor (QIC) issued an unfavorable reconsideration. Exh. 3 at 3-10. The QIC found that the requisite physician certifications were missing from the medical records. Therefore, the QIC explained, under the Medicare General Information, Eligibility, and Entitlement Manual (Pub. 100-1), Ch. 4, \u00a7\u00a7 40-40.4.6, the services cannot be covered. Exh. 3 at 4-5. Therefore, the notice was defective.",
+  "The physician\u2019s orders and notes for the second stay include the regular, daily administration of medications intravenously and by intramuscular injections, as well as other skilled-level procedures. Exh. 1 at 62-71.",
+  "The re-admission physician\u2019s orders and plans are dated and signed from December 11, 2003 through January 6, 2003 for skilled-level services. Id.",
+  "-- The FI determined from medical records in its claims files that it is clear that the beneficiary required and received services equivalent to a covered level of SNF care, or that constituted covered hospital services, and the provider had no reasonable basis for placing the beneficiary in a noncertified bed.",
+  "The appellant contends that the third condition does not exist because it had a good-faith, reasonable basis for placing the beneficiary in a noncertified bed. The appellant contends that it wanted to place the beneficiary in a certified bed, however, it did not have one available. Exh. MAC-1 at 1."
+ ],
+ "arm": "C_prior",
+ "set": "held",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS_PLUS_LIABILITY",
+ "include_primary": 1,
+ "evidence_words_A": 289,
+ "evidence_words_D": 614,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_units.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "status": "MAIN"
+}

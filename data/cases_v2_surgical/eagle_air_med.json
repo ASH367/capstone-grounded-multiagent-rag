@@ -1,0 +1,36 @@
+{
+ "case_id": "eagle_air_med",
+ "domain": "ambulance",
+ "docket": "M-10-1934",
+ "service_at_issue": "Fixed-wing air ambulance (A0430) and 243 air miles (A0435) from an Indian Health Service clinic to a hospital in Arizona for GI bleeding",
+ "facts": [
+  "On October 17, 2008, the appellant transported the beneficiary via air ambulance from *** Indian Health Service Clinic, in ***, Arizona, to Good Samaritan Hospital in ***, Arizona, due to gastrointestinal bleeding and acute abdominal pain. Exh. 4. The appellant billed Medicare for fixed wing air ambulance transportation using HCPCS code A0430, and for 243 fixed wing air miles using code A0435. 2 Exh. 2 at 2.",
+  "the appellant concedes that \u201cground transportation to a closer hospital was reasonable\u201d in this case. Exh. MAC-1 at 3.",
+  "the appellant requests that an \u201cEOB,\u201d or Explanation of Benefits, be created to reflect the codes it billed originally (i.e., A0430, and A0435) and to separately list the 107 air miles beyond the nearest facility as code A0888-PR (to reflect \u201cnoncovered ambulance mileage\u201d and \u201cpatient responsibility\u201d). Id.",
+  "the appellant\u2019s representative testified at the hearing that there was a closer facility equipped to treat the beneficiary\u2019s medical needs than the one to which the beneficiary was transported. Dec. at 3, 7.",
+  "The beneficiary\u2019s vital signs were stable at the time of transfer and she did not experience further significant bleeding while at the originating facility. Id. at 19-20. Laboratory work reflects that the beneficiary\u2019s hemoglobin was 13.7 grams per liter and her hematocrit level was 45 percent; these results both fall within the normal range. Id. at 6, 17."
+ ],
+ "reference_outcome": "partial",
+ "outcome_note": "Ambulance transport was covered but limited to ground rates for 136 miles to the nearest capable facility; the extra 107 miles were not covered.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.10",
+   "section": "10.4.6"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 410.40",
+  "42 CFR 410.41",
+  "42 CFR 411.400(a)",
+  "42 CFR 411.404(a)",
+  "42 CFR 411.406",
+  "42 CFR 414.40(a)",
+  "MCPM ch.30",
+  "SSA 1861(s)(7)",
+  "SSA 1862(a)(1)(A)",
+  "SSA 1879(a)"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

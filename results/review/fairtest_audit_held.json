@@ -1,0 +1,850 @@
+{
+ "held/A_strict": {
+  "total": {
+   "sents": 216,
+   "words": 6127,
+   "raw_words": 50840,
+   "good": 219,
+   "good_hit": 73,
+   "leak_facts": 10,
+   "leak_hit": 1,
+   "verdict_word_sents": 0
+  },
+  "rows": [
+   {
+    "case": "11-1343",
+    "sents": 36,
+    "words": 798,
+    "raw_words": 6766,
+    "good": 30,
+    "good_hit": 8,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "11-1546",
+    "sents": 5,
+    "words": 133,
+    "raw_words": 1526,
+    "good": 9,
+    "good_hit": 2,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "baptist_health_care",
+    "sents": 6,
+    "words": 150,
+    "raw_words": 3023,
+    "good": 11,
+    "good_hit": 3,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "conn_dept_social_services",
+    "sents": 2,
+    "words": 49,
+    "raw_words": 637,
+    "good": 7,
+    "good_hit": 2,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "connecticut11",
+    "sents": 11,
+    "words": 302,
+    "raw_words": 2078,
+    "good": 14,
+    "good_hit": 5,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "gr",
+    "sents": 6,
+    "words": 125,
+    "raw_words": 1690,
+    "good": 5,
+    "good_hit": 1,
+    "leak_facts": 2,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m-10-1884",
+    "sents": 2,
+    "words": 50,
+    "raw_words": 1065,
+    "good": 10,
+    "good_hit": 1,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m-11-1869",
+    "sents": 4,
+    "words": 214,
+    "raw_words": 2417,
+    "good": 11,
+    "good_hit": 3,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m-11-1967",
+    "sents": 13,
+    "words": 424,
+    "raw_words": 1802,
+    "good": 14,
+    "good_hit": 7,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m-12-1140",
+    "sents": 0,
+    "words": 0,
+    "raw_words": 1321,
+    "good": 8,
+    "good_hit": 0,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m_10_1771",
+    "sents": 11,
+    "words": 222,
+    "raw_words": 3393,
+    "good": 15,
+    "good_hit": 3,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "nj_dept_humanservices22",
+    "sents": 30,
+    "words": 1000,
+    "raw_words": 4674,
+    "good": 13,
+    "good_hit": 7,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "nj_dhs_commiss_case",
+    "sents": 5,
+    "words": 98,
+    "raw_words": 1217,
+    "good": 14,
+    "good_hit": 4,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "ny",
+    "sents": 7,
+    "words": 295,
+    "raw_words": 3464,
+    "good": 4,
+    "good_hit": 2,
+    "leak_facts": 2,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "roman_eagle_memorial_home",
+    "sents": 36,
+    "words": 875,
+    "raw_words": 6027,
+    "good": 15,
+    "good_hit": 7,
+    "leak_facts": 2,
+    "leak_hit": 1,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "stfrances_memorial",
+    "sents": 3,
+    "words": 57,
+    "raw_words": 3912,
+    "good": 9,
+    "good_hit": 2,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "twin_maples_health_care_case",
+    "sents": 26,
+    "words": 789,
+    "raw_words": 2428,
+    "good": 17,
+    "good_hit": 11,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "valley_presbyterian",
+    "sents": 13,
+    "words": 546,
+    "raw_words": 3400,
+    "good": 13,
+    "good_hit": 5,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   }
+  ]
+ },
+ "held/B_gaps": {
+  "total": {
+   "sents": 229,
+   "words": 6457,
+   "raw_words": 50840,
+   "good": 219,
+   "good_hit": 73,
+   "leak_facts": 10,
+   "leak_hit": 2,
+   "verdict_word_sents": 0
+  },
+  "rows": [
+   {
+    "case": "11-1343",
+    "sents": 40,
+    "words": 891,
+    "raw_words": 6766,
+    "good": 30,
+    "good_hit": 8,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "11-1546",
+    "sents": 5,
+    "words": 133,
+    "raw_words": 1526,
+    "good": 9,
+    "good_hit": 2,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "baptist_health_care",
+    "sents": 6,
+    "words": 150,
+    "raw_words": 3023,
+    "good": 11,
+    "good_hit": 3,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "conn_dept_social_services",
+    "sents": 2,
+    "words": 49,
+    "raw_words": 637,
+    "good": 7,
+    "good_hit": 2,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "connecticut11",
+    "sents": 11,
+    "words": 302,
+    "raw_words": 2078,
+    "good": 14,
+    "good_hit": 5,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "gr",
+    "sents": 9,
+    "words": 209,
+    "raw_words": 1690,
+    "good": 5,
+    "good_hit": 1,
+    "leak_facts": 2,
+    "leak_hit": 1,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m-10-1884",
+    "sents": 2,
+    "words": 50,
+    "raw_words": 1065,
+    "good": 10,
+    "good_hit": 1,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m-11-1869",
+    "sents": 4,
+    "words": 214,
+    "raw_words": 2417,
+    "good": 11,
+    "good_hit": 3,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m-11-1967",
+    "sents": 13,
+    "words": 424,
+    "raw_words": 1802,
+    "good": 14,
+    "good_hit": 7,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m-12-1140",
+    "sents": 0,
+    "words": 0,
+    "raw_words": 1321,
+    "good": 8,
+    "good_hit": 0,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m_10_1771",
+    "sents": 12,
+    "words": 238,
+    "raw_words": 3393,
+    "good": 15,
+    "good_hit": 3,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "nj_dept_humanservices22",
+    "sents": 31,
+    "words": 1017,
+    "raw_words": 4674,
+    "good": 13,
+    "good_hit": 7,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "nj_dhs_commiss_case",
+    "sents": 5,
+    "words": 98,
+    "raw_words": 1217,
+    "good": 14,
+    "good_hit": 4,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "ny",
+    "sents": 7,
+    "words": 295,
+    "raw_words": 3464,
+    "good": 4,
+    "good_hit": 2,
+    "leak_facts": 2,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "roman_eagle_memorial_home",
+    "sents": 40,
+    "words": 995,
+    "raw_words": 6027,
+    "good": 15,
+    "good_hit": 7,
+    "leak_facts": 2,
+    "leak_hit": 1,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "stfrances_memorial",
+    "sents": 3,
+    "words": 57,
+    "raw_words": 3912,
+    "good": 9,
+    "good_hit": 2,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "twin_maples_health_care_case",
+    "sents": 26,
+    "words": 789,
+    "raw_words": 2428,
+    "good": 17,
+    "good_hit": 11,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "valley_presbyterian",
+    "sents": 13,
+    "words": 546,
+    "raw_words": 3400,
+    "good": 13,
+    "good_hit": 5,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   }
+  ]
+ },
+ "held/C_prior": {
+  "total": {
+   "sents": 329,
+   "words": 9163,
+   "raw_words": 50840,
+   "good": 219,
+   "good_hit": 77,
+   "leak_facts": 10,
+   "leak_hit": 4,
+   "verdict_word_sents": 11
+  },
+  "rows": [
+   {
+    "case": "11-1343",
+    "sents": 57,
+    "words": 1332,
+    "raw_words": 6766,
+    "good": 30,
+    "good_hit": 8,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 6
+   },
+   {
+    "case": "11-1546",
+    "sents": 5,
+    "words": 133,
+    "raw_words": 1526,
+    "good": 9,
+    "good_hit": 2,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "baptist_health_care",
+    "sents": 21,
+    "words": 598,
+    "raw_words": 3023,
+    "good": 11,
+    "good_hit": 5,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "conn_dept_social_services",
+    "sents": 2,
+    "words": 49,
+    "raw_words": 637,
+    "good": 7,
+    "good_hit": 2,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "connecticut11",
+    "sents": 12,
+    "words": 323,
+    "raw_words": 2078,
+    "good": 14,
+    "good_hit": 5,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "gr",
+    "sents": 12,
+    "words": 293,
+    "raw_words": 1690,
+    "good": 5,
+    "good_hit": 1,
+    "leak_facts": 2,
+    "leak_hit": 1,
+    "verdict_word_sents": 1
+   },
+   {
+    "case": "m-10-1884",
+    "sents": 6,
+    "words": 119,
+    "raw_words": 1065,
+    "good": 10,
+    "good_hit": 1,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m-11-1869",
+    "sents": 8,
+    "words": 371,
+    "raw_words": 2417,
+    "good": 11,
+    "good_hit": 3,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 1
+   },
+   {
+    "case": "m-11-1967",
+    "sents": 13,
+    "words": 424,
+    "raw_words": 1802,
+    "good": 14,
+    "good_hit": 7,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m-12-1140",
+    "sents": 3,
+    "words": 115,
+    "raw_words": 1321,
+    "good": 8,
+    "good_hit": 0,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m_10_1771",
+    "sents": 26,
+    "words": 602,
+    "raw_words": 3393,
+    "good": 15,
+    "good_hit": 3,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 1
+   },
+   {
+    "case": "nj_dept_humanservices22",
+    "sents": 33,
+    "words": 1111,
+    "raw_words": 4674,
+    "good": 13,
+    "good_hit": 7,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "nj_dhs_commiss_case",
+    "sents": 7,
+    "words": 154,
+    "raw_words": 1217,
+    "good": 14,
+    "good_hit": 4,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 1
+   },
+   {
+    "case": "ny",
+    "sents": 13,
+    "words": 504,
+    "raw_words": 3464,
+    "good": 4,
+    "good_hit": 2,
+    "leak_facts": 2,
+    "leak_hit": 1,
+    "verdict_word_sents": 1
+   },
+   {
+    "case": "roman_eagle_memorial_home",
+    "sents": 52,
+    "words": 1242,
+    "raw_words": 6027,
+    "good": 15,
+    "good_hit": 7,
+    "leak_facts": 2,
+    "leak_hit": 2,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "stfrances_memorial",
+    "sents": 14,
+    "words": 328,
+    "raw_words": 3912,
+    "good": 9,
+    "good_hit": 3,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "twin_maples_health_care_case",
+    "sents": 26,
+    "words": 789,
+    "raw_words": 2428,
+    "good": 17,
+    "good_hit": 11,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "valley_presbyterian",
+    "sents": 19,
+    "words": 676,
+    "raw_words": 3400,
+    "good": 13,
+    "good_hit": 6,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   }
+  ]
+ },
+ "held/D_wide": {
+  "total": {
+   "sents": 491,
+   "words": 12781,
+   "raw_words": 50840,
+   "good": 219,
+   "good_hit": 128,
+   "leak_facts": 10,
+   "leak_hit": 4,
+   "verdict_word_sents": 11
+  },
+  "rows": [
+   {
+    "case": "11-1343",
+    "sents": 92,
+    "words": 2037,
+    "raw_words": 6766,
+    "good": 30,
+    "good_hit": 27,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 6
+   },
+   {
+    "case": "11-1546",
+    "sents": 9,
+    "words": 211,
+    "raw_words": 1526,
+    "good": 9,
+    "good_hit": 4,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "baptist_health_care",
+    "sents": 21,
+    "words": 598,
+    "raw_words": 3023,
+    "good": 11,
+    "good_hit": 5,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "conn_dept_social_services",
+    "sents": 2,
+    "words": 49,
+    "raw_words": 637,
+    "good": 7,
+    "good_hit": 2,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "connecticut11",
+    "sents": 22,
+    "words": 544,
+    "raw_words": 2078,
+    "good": 14,
+    "good_hit": 7,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "gr",
+    "sents": 18,
+    "words": 441,
+    "raw_words": 1690,
+    "good": 5,
+    "good_hit": 2,
+    "leak_facts": 2,
+    "leak_hit": 1,
+    "verdict_word_sents": 1
+   },
+   {
+    "case": "m-10-1884",
+    "sents": 9,
+    "words": 169,
+    "raw_words": 1065,
+    "good": 10,
+    "good_hit": 1,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m-11-1869",
+    "sents": 15,
+    "words": 519,
+    "raw_words": 2417,
+    "good": 11,
+    "good_hit": 6,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 1
+   },
+   {
+    "case": "m-11-1967",
+    "sents": 19,
+    "words": 561,
+    "raw_words": 1802,
+    "good": 14,
+    "good_hit": 10,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m-12-1140",
+    "sents": 5,
+    "words": 162,
+    "raw_words": 1321,
+    "good": 8,
+    "good_hit": 0,
+    "leak_facts": 1,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "m_10_1771",
+    "sents": 28,
+    "words": 659,
+    "raw_words": 3393,
+    "good": 15,
+    "good_hit": 3,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 1
+   },
+   {
+    "case": "nj_dept_humanservices22",
+    "sents": 46,
+    "words": 1441,
+    "raw_words": 4674,
+    "good": 13,
+    "good_hit": 8,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "nj_dhs_commiss_case",
+    "sents": 17,
+    "words": 280,
+    "raw_words": 1217,
+    "good": 14,
+    "good_hit": 12,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 1
+   },
+   {
+    "case": "ny",
+    "sents": 19,
+    "words": 650,
+    "raw_words": 3464,
+    "good": 4,
+    "good_hit": 2,
+    "leak_facts": 2,
+    "leak_hit": 1,
+    "verdict_word_sents": 1
+   },
+   {
+    "case": "roman_eagle_memorial_home",
+    "sents": 79,
+    "words": 1833,
+    "raw_words": 6027,
+    "good": 15,
+    "good_hit": 12,
+    "leak_facts": 2,
+    "leak_hit": 2,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "stfrances_memorial",
+    "sents": 15,
+    "words": 334,
+    "raw_words": 3912,
+    "good": 9,
+    "good_hit": 3,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "twin_maples_health_care_case",
+    "sents": 49,
+    "words": 1389,
+    "raw_words": 2428,
+    "good": 17,
+    "good_hit": 17,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   },
+   {
+    "case": "valley_presbyterian",
+    "sents": 26,
+    "words": 904,
+    "raw_words": 3400,
+    "good": 13,
+    "good_hit": 7,
+    "leak_facts": 0,
+    "leak_hit": 0,
+    "verdict_word_sents": 0
+   }
+  ]
+ }
+}

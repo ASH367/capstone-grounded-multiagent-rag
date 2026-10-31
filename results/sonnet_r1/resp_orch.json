@@ -1,0 +1,200 @@
+[
+ {
+  "decision": "COVERED",
+  "reason": "Therapy in a SNF is a covered service type for residents, whether or not the stay is Part A (669). The records show documented functional decline, strength deficits, cognitive deficits and referral reasons (hip fracture, post-hospital decline) that support skilled PT, OT and ST as reasonable and necessary (638, 640). Frequency, duration and certification are not shown, but nothing in the record supports denying any part, so coverage is supported.",
+  "passage_ids": [
+   669,
+   638,
+   640
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents found the key points unproven. The file does not show that the December 15\u201327, 2009 hospital stay had at least 3 consecutive days of medically necessary inpatient care, or that the SNF admission followed directly from it. The case-mix classifier is also unknown, and the clinical notes (medication adjustments, as-needed Trazadone) do not show the required skilled level of care. Coverage is therefore not supported on this record.",
+  "passage_ids": [
+   1,
+   2,
+   3,
+   574,
+   608,
+   609
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN because the record has no clinical or documentation detail. The appellant contests only liability (Sections 1879/1870) and the RAC's right to reopen, not the ALJ's underlying finding that the inpatient services were not covered. The QIO notice also warns that routine short-stay cases may be denied inpatient billing. The best-supported outcome is therefore not covered, with liability a separate question.",
+  "passage_ids": [
+   4,
+   5,
+   1,
+   2,
+   3
+  ],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN because the case facts contain only procedural history (brief deadlines and extension requests) and nothing about a hospital stay, SNF admission, or level of care. Coverage cannot be shown on this record, and the policy requires a 3-day qualifying stay and SNF transfer within 30 days, so coverage is not supported.",
+  "passage_ids": [
+   571,
+   579,
+   580,
+   608
+  ],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The agents all returned UNKNOWN, but the case facts show the ALJ held the beneficiary liable for non-covered services. The appellant expressly limited its argument to waiver of liability on the ground that he was not a capable recipient of the non-coverage notice, so it did not contest non-coverage. The therapy plateau and discharge from PT also fit non-covered care. The dementia-related orders and the OT note on fluctuating alertness bear only on the liability-waiver question, not on whether the services were covered.",
+  "passage_ids": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "case_id": "connecticut11"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN. The case facts give no information on homebound status, the facility's primary function, whether the services were duplicative, skilled-need assessment, or certification and documentation. Coverage therefore cannot be shown as supported, and the provider did not respond to the hearing notice or participate.",
+  "passage_ids": [
+   185,
+   186,
+   184,
+   225,
+   215
+  ],
+  "case_id": "gr"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN, so coverage is not established. The record shows skilled PT and OT ended on January 19 and 22, 2009, before the billed dates starting January 28. Nothing shows daily skilled care on those dates, and the 3-day qualifying stay and 30-day transfer requirements are also undocumented. The appellant's bare assertion that the services were skilled does not fill that gap.",
+  "passage_ids": [
+   563,
+   669,
+   607,
+   670,
+   595
+  ],
+  "case_id": "m-10-1884"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The Medical Necessity Agent found that skilled observation was reasonable and necessary because the beneficiary's insulin regimen kept changing and had not stabilized. The case facts support this: nurse-reported blood sugar logs led to repeated insulin adjustments, and the nurses monitored medication changes, compliance problems and a urinary tract infection. The Eligibility and Documentation agents returned UNKNOWN only because their passages (catheter, venipuncture, social work) did not fit these facts. They found nothing against coverage, so their findings do not outweigh the supported necessity finding.",
+  "passage_ids": [
+   238,
+   257
+  ],
+  "case_id": "m-11-1869"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "All three agents agree the eligibility requirements are met. The Feb 12\u201317 hospital stay covers at least 3 inpatient days, the discharge went directly to the SNF within 30 days, and the SNF care was for hematuria, the condition treated in the hospital. The SNF record also shows physician-ordered skilled monitoring (Foley catheter, bloody drainage, abnormal labs) that ended in rehospitalization on March 6. Inpatient status, SNF participation, and entitlement date are assumed rather than confirmed.",
+  "passage_ids": [
+   563,
+   579,
+   572
+  ],
+  "case_id": "m-11-1967"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "reason": "The post-hospital timing requirement appears met (hospital stay Aug 16\u201325, SNF admission Aug 25 and readmission Aug 30), and PT/OT were furnished after readmission, so the period through the Sept 30, 2011 therapy discharge is supportable. The agents found nothing in the passages that supports skilled therapy after the provider itself discharged the beneficiary from it, so that later period is not supported. Whether the hospital days were medically necessary and whether the SNF furnished the therapy directly remain unconfirmed, so this is a tentative conclusion.",
+  "passage_ids": [
+   579,
+   669
+  ],
+  "case_id": "m-12-1140"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents found the record unsettled. The case facts contain only the appellant's assertions and no individualized assessment, written treatment plan, initial PT evaluation, or documentation of why skilled rather than unskilled services were needed. The appellant also concedes the goals were met by September 11, 2008, so coverage is not supported on this record.",
+  "passage_ids": [
+   636,
+   637,
+   639,
+   640
+  ],
+  "case_id": "m_10_1771"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The case facts give only the appellant's assertions about stair-lift training and maintenance-program design, and no individualized assessment or required documentation is shown (passages 286, 294, 292). Visits solely to train aides are not billable, the aide visits depend on the therapy being eligible, and two of the three agents found necessity and documentation unresolved. Coverage is therefore not supported on this record.",
+  "passage_ids": [
+   286,
+   292,
+   294,
+   285,
+   310
+  ],
+  "case_id": "nj_dept_humanservices22"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "Routine colostomy care is not skilled (231), but the case facts show repeated complications during the period: recurrent UTIs with a hospitalization for urosepsis, rectal abscesses and bleeding, tissue in the urostomy, and a new fistula near the colostomy site. These support a skilled need for the nursing visits, and the nurses' recorded observations point to documentation (257). The agents could not confirm the orders and visit notes, and the catheter rule (256) does not directly apply to a urostomy, so this conclusion is tentative.",
+  "passage_ids": [
+   231,
+   256,
+   257
+  ],
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "reason": "The agents all returned UNKNOWN because the case facts hold only the appellant's arguments and no record of eligibility or hours furnished. The policy covers up to 28 hours a week of part-time or intermittent aide and skilled nursing care, and covers up to 35 hours only if the contractor finds that care reasonable and necessary. Coverage therefore fits the appellant's own 28-to-35-hour range only in part, and only if the patient meets every eligibility criterion, which the record does not show.",
+  "passage_ids": [
+   341,
+   342,
+   177,
+   223
+  ],
+  "case_id": "ny"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The beneficiary was placed in a noncertified bed, and payment is possible only if the limitation-of-liability conditions are met (passage 666). The record does not establish those conditions: the facility has no shown participating distinct-part SNF, and the physician asked for the noncertified bed for his own continuity-of-care reasons. The skilled level of care and the second admission are also unresolved, so coverage is not supported.",
+  "passage_ids": [
+   666,
+   563,
+   607,
+   610
+  ],
+  "case_id": "roman_eagle_memorial_home"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN. The case facts contain only procedural issues (time-bar, liability) and no beneficiary-specific clinical or documentation facts, so coverage under 42 CFR 412.622(a)(3)-(5) is not supported. The COVID-19 PHE waiver does not apply to the 2003-2004 services. NOT_COVERED is the default because coverage is not established, not because the record shows a failure.",
+  "passage_ids": [
+   72,
+   98
+  ],
+  "case_id": "stfrances_memorial"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "reason": "The record supports skilled observation and assessment of her psychiatric condition, including the Aug 5 Haldol change, and the pneumonia treatment from Aug 4, through about Aug 11-14. It does not show daily skilled services required and received for the rest of August 1-31, and her behavior had stabilized by Aug 12. The hospital stay and certification details are also not confirmed.",
+  "passage_ids": [
+   629,
+   632,
+   579,
+   563,
+   686
+  ],
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents found that the record does not show the IRF requirements were met, including the preadmission screening within 48 hours, the post-admission evaluation, the plan of care, and an individualized need for intensive multi-discipline rehabilitation. The case facts show post-surgical deficits and pain management needs, but the appellant bears the burden on medical necessity and only briefly argued it at the hearing, so coverage is not supported.",
+  "passage_ids": [
+   2,
+   3,
+   4,
+   6,
+   72,
+   74
+  ],
+  "case_id": "valley_presbyterian"
+ }
+]

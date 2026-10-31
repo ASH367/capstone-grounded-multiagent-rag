@@ -1,0 +1,317 @@
+{
+"case_id": "uphams_homehealthcare",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated April 24, 2009, which concerned home health services (weekly skilled nursing visits) provided to the beneficiary from September 8, 2007, through November 6, 2007.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined the services were not reasonable and necessary and not covered by Medicare.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council has considered the record and exceptions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "As set forth below, the Council modifies the ALJ\u2019s decision to reflect additional factual bases for non-coverage and provider liability.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant asserts that the 105 year old beneficiary required skilled nursing visits for assessment of diabetes, peripheral vascular disease, osteoarthrosis as well as assessment of her skin relative to urinary incontinence.",
+"tag": "PARTY",
+"reason": "appellant asserts"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "MIXED",
+"text": "The appellant also asserts that the skilled nursing visits were necessary to teach family members to provide the beneficiary with a proper diet and to encourage fluids.",
+"tag": "PARTY",
+"reason": "appellant also asserts"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "MIXED",
+"text": "The appellant references two blood glucose readings and edema of the beneficiary's lower extremities in support of its contentions.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 5,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant's request for review is taken verbatim from the requests for reconsideration and ALJ hearing. Exh. 1 at 72, 118-19.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "MIXED",
+"text": "The beneficiary had been under the appellant's care since May 11, 2007, for a period of four months before the period at issue. Id. at 110.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "MIXED",
+"text": "The ALJ discussed the beneficiary's clinical conditions and noted that she lived with her family, who provided support and administered her medications. Dec. at 5.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 5,
+"si": 3,
+"section": "MIXED",
+"text": "The ALJ also noted the beneficiary's compliance with medications and that there were no material changes in her condition during the period at issue. Id.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 5,
+"si": 4,
+"section": "MIXED",
+"text": "The Plan of Care indicates that the beneficiary's family administered her medications without problems, that the beneficiary received services from home health aides through **** Services, and that the family had been instructed in monitoring the appellant's blood glucose on a daily and \"as needed\" basis. Id. at 109.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "MIXED",
+"text": "While the POC describes the beneficiary\u2019s diabetes as \"uncontrolled\" (id. at 110), nurses notes reflect that the beneficiary was not symptomatic and received an oral diabetic agent, rather than injections. See, e.g., id. at 103.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 6,
+"si": 1,
+"section": "MIXED",
+"text": "The beneficiary's weekly blood glucose readings are generally within normal limits, and a nurse\u2019s note from October 12, 2007, indicates that her diabetes was controlled with an oral diabetic agent. Id. at 94.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 6,
+"si": 2,
+"section": "MIXED",
+"text": "Given the above, the Council agrees with the ALJ that the skilled nursing visits were not reasonable and necessary under section 1862(a)(1)(A) of the Social Security Act (Act) and not covered.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "MIXED",
+"text": "The Council also notes that the POC covers the certification period September 8, 2007, through November 6, 2007, but was not signed by the physician until November 6, 2007. Exh. 1, at 110.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "MIXED",
+"text": "Box 23 of the POC (nurse's signature) contains typed entries reflecting a verbal start of care on September 7, 2007, and a name for a registered nurse, but no handwritten signature.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 7,
+"si": 2,
+"section": "MIXED",
+"text": "The Centers for Medicare & Medicaid Services (CMS) provides that home health services based upon a physician's verbal order must be signed and dated with the date of receipt by the registered nurse or other authorized agency recipient.",
+"tag": "LAW",
+"reason": "law statement: provides that"
+},
+{
+"pi": 7,
+"si": 3,
+"section": "MIXED",
+"text": "Medicare Benefit",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "MIXED",
+"text": "Policy Manual (MBPM)(Pub. 100-02) Ch. 7, \u00a7 30.2.5.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "MIXED",
+"text": "CMS has provided the following concerning \"alternative signatures\" for home health services:",
+"tag": "PRIOR_DENIAL",
+"reason": "CMS"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "MIXED",
+"text": "[Home health agencies] that maintain patient records by computer rather than hard copy may use electronic signatures.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "MIXED",
+"text": "However, all such entries must be appropriately authenticated and dated.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "MIXED",
+"text": "Authentication must include signatures, written initials, or computer secure entry by a unique identifier of a primary author who has reviewed and approved the entry.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 9,
+"si": 3,
+"section": "MIXED",
+"text": "The HHA must have safeguards to prevent unauthorized access to the records and a process for reconstruction of the records in the event of a system breakdown.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "MIXED",
+"text": "Id.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "MIXED",
+"text": "\u00a7 30.2.8.",
+"tag": "LAW",
+"reason": "\u00a7"
+},
+{
+"pi": 10,
+"si": 2,
+"section": "MIXED",
+"text": "The typewritten name in Box 23 of the POC does not meet either of these standards.",
+"tag": "EVAL",
+"reason": "does not meet"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "MIXED",
+"text": "The ALJ did not make any findings concerning the liability of the parties for the services at issue.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "MIXED",
+"text": "There is no indication in the record that the appellant provided the beneficiary with advance written notice of noncoverage for purposes of establishing liability under section 1879 of the Act. See, e.g., section 1879(a) of the Act; 42 C.F.R. \u00a7\u00a7 411.400, 411.404, 411.406.",
+"tag": "PROC",
+"reason": "notice of"
+},
+{
+"pi": 11,
+"si": 2,
+"section": "MIXED",
+"text": "The Council modifies the ALJ decision to reflect that the appellant is liable for the costs of the noncovered services.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "TERMINAL",
+"text": "It is the decision of the Medicare Appeals Council that the home health services provided to the beneficiary from September 8, 2007, through November 6, 2007, are not reasonable and necessary and are not covered by Medicare.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 13,
+"si": 1,
+"section": "TERMINAL",
+"text": "The appellant is liable for non-covered costs under section 1879 of the Act.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 13,
+"si": 2,
+"section": "TERMINAL",
+"text": "The ALJ decision is modified consistent with this decision.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

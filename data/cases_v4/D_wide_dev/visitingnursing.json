@@ -1,0 +1,62 @@
+{
+ "case_id": "visitingnursing",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "home health physical therapy (11 visits), Nov 21, 2007 to Jan 2, 2008",
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council reversed the ALJ, holding the OASIS should not be the sole basis for denial and the record showed a functional decline for which skilled gait-training therapy was reasonable and necessary.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30.1.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.2.2.C"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 405.1122(c)",
+  "42 CFR 409.42",
+  "42 CFR 409.42(c)",
+  "42 CFR 409.44(a)",
+  "42 CFR 409.44(c)",
+  "SSA 1862(a)",
+  "64 Fed. Reg. 3764, 3772"
+ ],
+ "facts": [
+  "As a preliminary matter, the appellant submitted additional documentation with its July 13, 2009, request for review.",
+  "The beneficiary, an 85 year old female, was admitted to home health care on November 21, 2007, with diagnoses of degenerative joint disease of the right shoulder and arthritis of the lower extremities. Exh. 2 at 6. Her medical history also includes hypothyroidism, hypertension, high cholesterol, and a mastectomy due to breast cancer. Id. The beneficiary\u2019s physician ordered physical therapy once a week for one week, and twice a week for five weeks, to increase the beneficiary\u2019s range of motion, manage pain, provide gait training, and evaluate and treat the beneficiary\u2019s condition. Exhs. 2 at 6, 3 at 57.",
+  "The appellant home health agency furnished the beneficiary with 11 physical therapy visits from November 21, 2007, through January 2, 2008, and seeks Medicare coverage for these services. Exh. 1.",
+  "Initially, and on redetermination, the Medicare contractor denied coverage for this claim on the basis that the documentation did not support that the services were medically necessary. Exh. 4. On appeal, the Qualified Independent Contractor (QIC) also denied coverage for the services at issue. Exh. 5. The QIC reasoned, \u201c[w]hile the physical therapy evaluation supports a decline in function to warrant skilled intervention, the Outcome and Assessment Information Set (OASIS) does not.\u201d Id. at 84.",
+  "The appellant asserts that Medicare should cover the services at issue because the therapy documentation is a better source to judge the presence of a significant functional decline. Id.",
+  "An individual does not have to be bedridden to be considered confined to the home. However, the condition of these patients should be such that there exists a normal inability to leave home and, consequently, leaving home would require a considerable and taxing effort.",
+  "Generally speaking, a patient will be considered to be homebound if they have a condition due to an illness or injury that restricts their ability to leave their place of residence except with the aid of: supportive devices such as crutches, canes, wheelchairs, and walkers; the use of special transportation; or the assistance of another person; or if leaving home is medically contraindicated.",
+  "In this case, the record reflects that the beneficiary resided in an independent living facility which provided assistance with grocery shopping, meal preparation, yard and house work. Exh. 2 at 4. Previously, the beneficiary \u201cwas independent throughout the facility with just a cane.\u201d Id. However, at the time the physical therapy began, the beneficiary ambulated with a rolling walker for longer, out-of-room distances such as to and from meals. Id. There is nothing in the record to suggest that the beneficiary was other than confined to her home.",
+  "The document also reflects that the services were provided by the appellant, a participating home health agency. Id.",
+  "1) considered under accepted standards of medical practice to be a specific, safe, and effective treatment for the beneficiary\u2019s condition;",
+  "3) done with an expectation that the beneficiary\u2019s condition will improve materially in a reasonable (and generally predictable) period of time; and",
+  "4) of a reasonable amount, frequency, and duration.",
+  "The OASIS is an \u201cinstrument/data collection tool used to collect and report performance data by home health agencies. . . . Since fall 2003, CMS has posted on www.medicare.gov a subset of OASIS- based quality performance information showing how well home health agencies assist their patients in regaining or maintaining their ability to function.\u201d CMS Medicare Home Health Quality Initiatives, available at http://www.cms.hhs.gov/ HomeHealthQualityInits/ (last visited Nov. 18, 2009). Thus the main purpose of the OASIS is to report and compare national outcomes, not to measure decline in function. Although an OASIS may inform a coverage determination, it should not form the exclusive basis for the determination.",
+  "Specifically, the \u201cHome Health Certification and Plan of Care\u201d reflects that the beneficiary experienced an exacerbation of arthritis that left her ambulating with a rolling walker as opposed to her prior status of ambulating with a cane. Exh. 2.",
+  "Further, the beneficiary\u2019s Tinetti Gait and Balance Assessment scores revealed significant improvement. Exh. 3 at 53. Upon initial evaluation, the beneficiary\u2019s score was 7/28, which indicates that she had a risk of severe falls. Id. Upon discharge, this score had improved to 18/28, signifying a moderate fall risk. Id.",
+  "The physical therapy visit notes reflect that skilled gait training occurred during each visit. Exh. 3 at 10-52.",
+  "The final rule also stated that the OASIS, while helpful for patient assessment, is not a care planning tool and was not designed to be a comprehensive patient assessment.",
+  "While the beneficiary\u2019s goals and improvements during this episode of care were somewhat modest, the physical therapy services were of a reasonable amount, frequency, and duration to enable her to regain range of motion and manage pain, and remain in her independent living community."
+ ],
+ "arm": "D_wide",
+ "set": "dev",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 286,
+ "evidence_words_D": 799,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

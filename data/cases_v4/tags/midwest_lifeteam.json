@@ -1,0 +1,293 @@
+{
+"case_id": "midwest_lifeteam",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated November 22, 2010, which concerned Medicare coverage for hospital-to-hospital air ambulance transport services furnished to the beneficiary on August 16, 2009. 1 The specific issue before the ALJ, and now before the Council, was whether Medicare would cover the full 203 miles of the transport at issue or would cover only the first 133 miles of the trip, based on the regulatory limitation that Medicare covers ambulance transportation only to the nearest medically-appropriate facility.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined Medicare would not cover the additional 70 miles of the transport at issue and held the appellant financially responsible for the non-covered charges.",
+"tag": "PROC",
+"reason": "financially responsible"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council (Council) to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 4,
+"section": "INTRO",
+"text": "The Council has admitted the appellant\u2019s request for review into the record as Exhibit (Exh.) MAC-1.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "As set forth below, the Council adopts the ALJ\u2019s coverage denial for the additional air mileage, but reverses the ALJ\u2019s decision as to liability.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "INTRO",
+"text": "The background and procedural history of this appeal are thoroughly outlined in the ALJ decision and will not be repeated in detail here. Dec. at 1-2.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "INTRO",
+"text": "In summary, on the date of service at issue, the appellant was seen in the emergency room at Beaver County Memorial Hospital where she was diagnosed with cardiac arrhythmia, chest pain and shortness of breath. Exh. 1, at 3, 7.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "INTRO",
+"text": "The air ambulance transportation at issue was furnished to transfer the beneficiary from the emergency room at Beaver County Memorial Hospital, in Beaver, Oklahoma, to Via Christi-Saint Francis Campus Hospital, in Wichita, Kansas. Id. at 3.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 4,
+"si": 3,
+"section": "INTRO",
+"text": "The transfer occurred so that the beneficiary would be treated in a hospital where specialist cardiologist services were available. Exh. 1, at 7; Exh. 2, at 18.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 4,
+"si": 4,
+"section": "INTRO",
+"text": "The record reflects that the transfer was ordered by a physician in the transferring hospital. See Exh. 1, at 7.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "INTRO",
+"text": "The appellant initially submitted a claim for 203 units (miles) of procedure code A0435-II. Exh. 2, at 2.",
+"tag": "PARTY",
+"reason": "appellant initially submitted"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "INTRO",
+"text": "On initial determination, 133 units were found covered and 70 units were denied on the ground that the beneficiary was not taken to the nearest medically-appropriate facility, which would have been a distance of only 133 miles from the transferring facility. Id.",
+"tag": "PRIOR_DENIAL",
+"reason": "initial determination"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "INTRO",
+"text": "On redetermination, reconsideration, and at the ALJ level, the finding of non-coverage of the 70 units was affirmed.",
+"tag": "COUNCIL",
+"reason": "affirmed"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "INTRO",
+"text": "The ALJ decision includes a comprehensive review of the relevant principles of law concerning ambulance transport coverage, which the Council incorporates herein. Dec. at 6-7.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "INTRO",
+"text": "The appellant contends that \u201cthe referring doctor tried multiple facilities to transfer the patient to.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "INTRO",
+"text": "He just gave up & settled on one in the state of KS before trying the facility in TX that Medicare preferred.\u201d Exh. MAC-1.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "INTRO",
+"text": "Medicare covers ambulance transportation to the nearest destination institution with \u201cappropriate facilities.\u201d",
+"tag": "LAW",
+"reason": "law statement: Medicare covers"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "INTRO",
+"text": "Medicare Benefit Policy Manual (MBPM), (CMS Pub. 100-02) Ch. 10, \u00a7 10.3.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 7,
+"si": 2,
+"section": "INTRO",
+"text": "Ambulance service to a more distant hospital solely to avail a beneficiary of the services of a particular physician or physician specialist is not covered by Medicare.",
+"tag": "EVAL",
+"reason": "not covered"
+},
+{
+"pi": 7,
+"si": 3,
+"section": "INTRO",
+"text": "MBPM, Ch. 10, \u00a7 10.3.6.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 7,
+"si": 4,
+"section": "INTRO",
+"text": "The fact that the more distant hospital might be better equipped, either qualitatively or quantitatively, to provide patient care does not mean that a closer facility does not have \u201cappropriate facilities.\u201d Id.",
+"tag": "EVAL",
+"reason": "does not mean"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "INTRO",
+"text": "The Council notes that a letter from a registered nurse, undated but apparently sent to someone by facsimile on November 30, 2009, indicates that Beaver County Memorial Hospital did contact two other hospitals before transferring the beneficiary to Via Christi, but was informed that those two hospitals did not have a cardiologist available. Exh. 2, at 18.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "INTRO",
+"text": "However, as the beneficiary became progressively \u201cmore unstable,\u201d the treating physician decided to transfer her to Via Christi-St. Frances in Wichita, Kansas, a large hospital center with available cardiologists and an intensive care unit. Id.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant did not assert that a closer facility, St. Anthony\u2019s Hospital, in Amarillo, Texas, was inadequate or unavailable, or that any hospital services would have been denied at that hospital.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 8,
+"si": 3,
+"section": "INTRO",
+"text": "The Council agrees with the ALJ that the claimed additional air miles for ambulance services to a further hospital are not covered because there is no evidence in the record that St. Anthony\u2019s Hospital did not have appropriate facilities for the beneficiary\u2019s care.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "INTRO",
+"text": "The appellant argues that the beneficiary should be held financially liable for the non-covered costs because \u201cthis was an emergent transport so [issuing] an ABN [Advance Beneficiary Notice] is not allowed.\u201d Exh. MAC-1.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 11,
+"si": 0,
+"section": "INTRO",
+"text": "When coverage of ambulance services is denied because the ambulance transport does not meet the \u201cnearest facility\u201d requirement of 42 C.F.R. \u00a7 410.40(e), the basis for the denial is a failure to meet the regulatory origin and destination requirements rather than a failure to meet medical reasonableness and necessity requirements of section 1862(a)(1) of the Social Security Act (Act).",
+"tag": "LAW",
+"reason": "Social Security Act"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "INTRO",
+"text": "The denial is considered a benefit denial pursuant to section 1861(s)(7) of the Act, and the limitation on liability authority set forth in section 1879 of the Act does not apply in such situations.",
+"tag": "PROC",
+"reason": "liability"
+},
+{
+"pi": 11,
+"si": 2,
+"section": "INTRO",
+"text": "As discussed above, the cost of 70 additional air ambulance miles to transport the beneficiary from Beaver County Memorial Hospital to Via Christi-Saint Francis Campus Hospital, rather than to the closer St. Anthony\u2019s Hospital, did not meet the criteria under the origin and destination coverage requirements of the regulations.",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 11,
+"si": 3,
+"section": "INTRO",
+"text": "Thus, the Council finds that the beneficiary, rather than the appellant, is responsible for the non-covered services.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "TERMINAL",
+"text": "Accordingly, the Council adopts the ALJ\u2019s determination that the additional 70 air miles to transport the beneficiary, which were denied at all levels of appeal in this case, are not covered by Medicare.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 13,
+"si": 1,
+"section": "TERMINAL",
+"text": "However, the Council concludes that the beneficiary rather than the appellant is liable for the non-covered costs.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

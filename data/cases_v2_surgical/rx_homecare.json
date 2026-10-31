@@ -1,0 +1,41 @@
+{
+ "case_id": "rx_homecare",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "home health skilled nursing visits (mediplanner filling) and home health aide services, Oct 2005 to Sept 2006",
+ "facts": [
+  "The beneficiary began receiving home health care from the provider in June 2001, more than four years before the initial date of service at issue.",
+  "The beneficiary\u2019s primary diagnosis was type I diabetes mellitus (without mention of complication and not stated as uncontrolled), and his other diagnoses included hypertension, venous thrombosis, coronary atherosclerosis of unspecified type, glaucoma, and chronic renal failure.",
+  "During the periods of service at issue, a skilled nurse visited the beneficiary approximately once every two weeks to fill a mediplanner with pills and oversee home health aides.",
+  "Concurrently, a home health aide visited the beneficiary five days each week, averaging 30-35 hours a week, to assist with personal care, light housekeeping, and meal preparation.",
+  "the appellant-provider asserts that there were no physician orders for skilled services during the periods in question and that skilled \u201cobservation and assessment\u201d services cannot occur for over a 50-week period.",
+  "The beneficiary did not receive any skilled rehabilitation therapy during the period of service at issue.",
+  "the plans of care on file reveal physician\u2019s orders for the skilled nurse to \u201cvisit Q 2 weeks to pour mediplanner.\u201d"
+ ],
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council reversed the ALJ, finding pouring a mediplanner is not a skilled service and nothing supported skilled observation and assessment, so the aide services were also non-covered and the provider was liable.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1.2.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 409.42",
+  "42 CFR 409.42(c)",
+  "42 CFR 409.32",
+  "42 CFR 409.32(a)",
+  "42 CFR 409.33(a)(2)(i)",
+  "42 CFR 409.45(a)",
+  "42 CFR 411.400",
+  "42 CFR 411.404",
+  "42 CFR 411.406",
+  "SSA 1862(a)(1)",
+  "SSA 1879",
+  "MCPM ch.30 sec.40",
+  "MCPM ch.30 sec.60.6.1"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

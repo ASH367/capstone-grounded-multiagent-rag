@@ -1,0 +1,230 @@
+[
+ {
+  "case_id": "11-1343",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Coverage needs all four factors; a skilled rehabilitation need after a hospital stay is shown for some therapy, but daily need and practical-matter inpatient need are not settled.",
+    "passage_id": 602,
+    "quote": "The patient requires skilled nursing services or skilled rehabilitation services",
+    "case_fact": "the services were initiated on August 28, 2009, with treatment diagnoses of muscle weakness and lack of coordination."
+   },
+   {
+    "claim": "Daily skilled need is not documented in the case facts.",
+    "passage_id": 602,
+    "quote": "The patient requires these skilled services on a daily basis",
+    "case_fact": "At the beginning of PT, D.E. required moderate assistance for all functional transfers."
+   },
+   {
+    "claim": "Intermittent rather than daily skilled service would defeat SNF level of care; frequency unknown.",
+    "passage_id": 603,
+    "quote": "payment for a SNF level of care could not be made if a patient needs an intermittent rather than daily skilled service",
+    "case_fact": "D.E. was referred to PT due to decreased strength and decreased ADLs due to illness."
+   }
+  ]
+ },
+ {
+  "case_id": "11-1546",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Fluctuating vital signs are listed as signs that may justify skilled observation.",
+    "passage_id": 628,
+    "quote": "Such signs and symptoms as abnormal/fluctuating vital signs, weight changes, edema, symptoms of drug toxicity, abnormal/fluctuating lab values",
+    "case_fact": "On at least thirteen occasions the beneficiary’s medications had to be adjusted due to fluctuations in his blood pressure and heart rate."
+   },
+   {
+    "claim": "Repeated medication changes show a reasonable potential that skilled nurse observation results in treatment changes.",
+    "passage_id": 629,
+    "quote": "there is a reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment of the patient",
+    "case_fact": "On at least thirteen occasions the beneficiary’s medications had to be adjusted due to fluctuations in his blood pressure and heart rate."
+   },
+   {
+    "claim": "Recent acute cardiac diagnoses fit skilled observation until the regimen is stabilized.",
+    "passage_id": 626,
+    "quote": "until the patient’s condition is essentially stabilized",
+    "case_fact": "The record indicates that he had diagnoses of pneumonia, shortness of breath, acute myocardial infarction, atrial flutter, and renal insufficiency."
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1869",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Nurse actions led to repeated insulin dose changes, meeting the reasonable potential for treatment change.",
+    "passage_id": 237,
+    "quote": "there is a reasonable potential that skilled observation and assessment by a licensed nurse will result in changes to the treatment of the patient",
+    "case_fact": "the beneficiary’s insulin dosage was adjusted numerous times during this period."
+   },
+   {
+    "claim": "Fluctuating lab values (blood sugar) are signs that may justify skilled observation.",
+    "passage_id": 236,
+    "quote": "abnormal/fluctuating lab values",
+    "case_fact": "sent logs evidencing fluctuating blood sugar levels to the beneficiary’s endocrinologist."
+   },
+   {
+    "claim": "Medication compliance problems and changes with nurse monitoring and instruction support skilled nursing.",
+    "passage_id": 237,
+    "quote": "Skilled observation is needed to determine whether the new drug regimen should be modified",
+    "case_fact": "problems related to compliance with taking diabetic medications (to include Starlix) as directed"
+   }
+  ]
+ },
+ {
+  "case_id": "m-11-1967",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Physician-ordered skilled observation after a hospitalization for hematuria fits observation and assessment where change in condition is likely.",
+    "passage_id": 626,
+    "quote": "Observation and assessment are skilled services when the likelihood of change in a patient’s condition requires skilled nursing",
+    "case_fact": "As of March 2, 2010, a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots"
+   },
+   {
+    "claim": "Abnormal lab results are listed as signs that may justify skilled observation.",
+    "passage_id": 628,
+    "quote": "abnormal/fluctuating lab values",
+    "case_fact": "Laboratory results were abnormal."
+   },
+   {
+    "claim": "Ongoing bloody urine and a hospitalization order show a reasonable potential for acute episode.",
+    "passage_id": 628,
+    "quote": "a potential complication or further acute episode was a likely possibility",
+    "case_fact": "The next day, March 6, 2010, the doctor ordered the beneficiary to be hospitalized"
+   }
+  ]
+ },
+ {
+  "case_id": "m_10_1771",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Skilled PT requires services needing a therapist's judgment; the case facts are mostly appellant assertions and do not settle this.",
+    "passage_id": 637,
+    "quote": "the condition of the patient must be of a nature that requires the judgment, knowledge, and skills of a qualified physical therapist",
+    "case_fact": "The appellant asserts that the documentation of record, present throughout all levels of review, demonstrates the clear need for the skills of a physical therapist"
+   },
+   {
+    "claim": "Services that supportive personnel can do safely are not skilled PT; the beneficiary's gains and need only for encouragement leave this unsettled.",
+    "passage_id": 639,
+    "quote": "When services can be safely and effectively performed by supportive personnel, such as aides or nursing personnel",
+    "case_fact": "The appellant further contends that the fact that the beneficiary required “encouragement and reassurance does not prevent her from being a candidate for therapy.”"
+   },
+   {
+    "claim": "Speech therapy and cognition goals were met, and the need for continued skilled care is not shown.",
+    "passage_id": 639,
+    "quote": "Physical therapy services are not reasonable and necessary and would not be covered if the expected results are insignificant",
+    "case_fact": "The appellant also concedes that the beneficiary met her goals by September 11, 2008"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dept_humanservices22",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Teaching safe stair/stair lift transfers can be reasonable and necessary PT, but ends once the goal is reached; documentation is not shown.",
+    "passage_id": 292,
+    "quote": "Physical therapy would be reasonable and necessary to teach the patient to climb and descend stairs safely.",
+    "case_fact": "The appellant further asserts that the skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift."
+   },
+   {
+    "claim": "Maintenance program design is covered only where a therapist's skills are required; the case facts do not show that need.",
+    "passage_id": 286,
+    "quote": "are necessary for the performance of a safe and effective maintenance program",
+    "case_fact": "the therapist was “in the process of designing an appropriate home exercise program” for the beneficiary"
+   },
+   {
+    "claim": "Therapist visits solely to train aides are not billable, which bears on the D.W. aide-training goal.",
+    "passage_id": 285,
+    "quote": "visits made by skilled therapists to a patient's home solely to train other HHA staff (e.g., home health aides) are not billable as visits",
+    "case_fact": "The appellant agreed that setting up a maintenance program for the home health aides to take over was a goal"
+   }
+  ]
+ },
+ {
+  "case_id": "nj_dhs_commiss_case",
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "Fistula care is skilled wound care when a licensed nurse's skills are needed.",
+    "passage_id": 258,
+    "quote": "when the skills of a licensed nurse are needed to provide safely and effectively the services necessary to treat the illness or injury",
+    "case_fact": "The beneficiary developed a fistula near the colostomy site."
+   },
+   {
+    "claim": "Reinforcement of ostomy care by a nurse is a listed skilled teaching activity.",
+    "passage_id": 247,
+    "quote": "Teaching care for a recent ostomy or where reinforcement of ostomy care is needed",
+    "case_fact": "His bowel and bladder functions are maintained by colostomy and urostomy."
+   },
+   {
+    "claim": "Recurrent infections, bleeding and abscesses indicate a need for skilled monitoring for infection or complication.",
+    "passage_id": 261,
+    "quote": "the wound may still require skilled monitoring for signs and symptoms of infection or complication",
+    "case_fact": "He experienced rectal bleeding more than once during the dates of service"
+   }
+  ]
+ },
+ {
+  "case_id": "ny",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Part-time or intermittent limit is under 8 hours daily and 28 hours weekly, up to 35 on case-by-case review; actual hours and need are not in the case facts.",
+    "passage_id": 341,
+    "quote": "less than 8 hours each day and 28 or fewer hours each week",
+    "case_fact": "the appellant asserts that coverage is available for home health aide or skilled nursing services on a part-time basis"
+   },
+   {
+    "claim": "Up to 35 hours is covered only if reasonable and necessary, which the case facts do not establish.",
+    "passage_id": 342,
+    "quote": "If the Medicare contractor determines that the 35 hours of care are reasonable and necessary, Medicare would cover the 35 hours",
+    "case_fact": "whether Medicare covered at least 28 hours and up to 35 hours of the home health services"
+   }
+  ]
+ },
+ {
+  "case_id": "stfrances_memorial",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "IRF care is reasonable and necessary only if the regulatory requirements are met; no clinical facts are given.",
+    "passage_id": 72,
+    "quote": "IRF care is only considered by Medicare to be reasonable and necessary",
+    "case_fact": "This appeal involves IRF services provided by the appellant to five beneficiaries on various dates between March 2003 and May 2004."
+   },
+   {
+    "claim": "Patients must be able to actively participate in and benefit from intensive therapy; the case facts say nothing about this.",
+    "passage_id": 71,
+    "quote": "patients must be able to actively participate in and benefit from the intensive rehabilitation therapy program provided in IRFs",
+    "case_fact": "were Medicare coverage criteria met for the IRF services at issue"
+   }
+  ]
+ },
+ {
+  "case_id": "valley_presbyterian",
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "Patients still completing their hospital course should remain there; IV/IM medication and severe pain two days after surgery may indicate this, but it is not settled.",
+    "passage_id": 71,
+    "quote": "because they are still completing their course of treatment in the referring hospital should remain in the referring hospital",
+    "case_fact": "experienced severe pain requiring multiple treatments including Norco and patient controlled administration of Dilaudid."
+   },
+   {
+    "claim": "Medical management can occur in an IRF, so IV medications alone do not defeat coverage.",
+    "passage_id": 71,
+    "quote": "Though medical management can be performed in an IRF",
+    "case_fact": "the beneficiary received intravenous (IV) or intramuscular (IM) medications"
+   },
+   {
+    "claim": "Functional deficits after knee replacement suggest rehabilitation needs, but ability to participate and benefit is not stated.",
+    "passage_id": 71,
+    "quote": "require and can reasonably be expected to benefit from an inpatient stay and an interdisciplinary team approach",
+    "case_fact": "moderate assistance supine to sit, sit to stand, sit to supine, bed to chair, chair to bed, commode transfers, and tub/shower transfers"
+   }
+  ]
+ }
+]

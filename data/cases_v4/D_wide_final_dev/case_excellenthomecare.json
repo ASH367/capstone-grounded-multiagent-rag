@@ -1,0 +1,49 @@
+{
+ "case_id": "case_excellenthomecare",
+ "domain": "home_health",
+ "docket": "M-2009-1470",
+ "service_at_issue": "home health skilled nursing for two beneficiaries, certification periods in 2008",
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council adopted the ALJ decisions, finding the record did not show either beneficiary needed skilled nursing or that the services provided were skilled.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.1"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 409.42(b)",
+  "42 CFR 409.44",
+  "42 CFR 409.42-409.45"
+ ],
+ "facts": [
+  "The beneficiary was 66 years old and entered the appellant\u2019s home health program on June 28, 2008. The certification period in issue covers August 27, 2008 through October 25, 2008. The beneficiary\u2019s medical history included Type II diabetes, benign hypertension, esophageal reflux and angina. Additionally, the beneficiary was taking a variety of medications in pill form. The beneficiary\u2019s mental status was oriented but depressed and his prognosis \u201cfair.\u201d Exh. 8 at 20. The beneficiary\u2019s home health plan of care called for skilled nursing services twice a week for nine weeks.",
+  "The services were intended \u201cto assess all systems;\u201d check blood sugar levels by finger stick, notifying the physician in case of blood sugar readings less than 60 or more than 350 mg/dl; check the beneficiary\u2019s blood pressure, notifying the physician in case of blood pressure readings less than 90/60 or more than 160/90 mmhg; and to instruct the beneficiary on a variety of issues including, but not limited to, medication dosages and side effects; hypo/hyperglycemia and hypo/hypertension. Id.",
+  "The beneficiary was discharged from home health care on October 21, 2008, based on the general stability of his blood sugar, blood pressure and overall control of his conditions. Exh. 8 at 23.",
+  "The appellant\u2019s claim for Medicare coverage was denied initially and upon redetermination. In the redetermination, the Medicare carrier noted that the beneficiary\u2019s condition was stable throughout the period under review and that \u201cthe skilled nurse was providing general assessments, ongoing observations and repetitive teaching.\u201d",
+  "Upon reconsideration the Qualified Independent Contractor (QIC) also denied coverage. The QIC noted that, generally, the skilled nursing visits were designed for observation and assessment as well as repetitive teaching. The QIC found that, during the period in issue, there was no documented change in the beneficiary\u2019s condition, medication or treatment.",
+  "The beneficiary was 90 years old and entered the appellant\u2019s home health program on August 19, 2008. The certification period in issue covers August 19, 2008 through October 17, 2008. The beneficiary\u2019s medical history included diabetes, cellulitis, abnormality of gait and chronic kidney disease. Additionally, the beneficiary was taking a variety of medications in pill form. The beneficiary\u2019s mental status was oriented but forgetful and depressed with a \u201cfair\u201d prognosis. Exh. 8 at 19. The beneficiary\u2019s home health plan of care called for skilled nursing services three times a week for three weeks, twice a week for five weeks and once a week for one week.",
+  "The services were intended \u201cto assess all systems;\u201d check blood sugar levels by finger stick and notify the physician in case of blood sugar readings less than 60 or more than 250 mg/dl; administer insulin injections; monitor the beneficiary\u2019s medication compliance and home safety; instruct the beneficiary on a variety of issues including, but not limited to, medication dosages and side effects; hypo/hyperglycemia, observe signs and symptoms of neuropathy, nephropathy and retinopathy and pain management techniques. Exh. 8 at 19.",
+  "The beneficiary was discharged from home health care on October 17, 2008, based on the general stability of her blood sugar and improvement in other areas of concern. Exh. 8 at 32.",
+  "The appellant\u2019s claim for Medicare coverage was denied initially and upon redetermination. In the redetermination, the Medicare carrier noted that a service, such as wrapping the beneficiary\u2019s legs in Kerlix, was not skilled. Further, the carrier reasoned that the beneficiary\u2019s condition was stable throughout the period of service, there was no significant change in the plan of care, no acute medical problem and no documentation to indicate that there was potential for medical instability or predictable skilled care needs.",
+  "Upon reconsideration the QIC also denied coverage. The QIC noted, generally, that the skilled nursing visits were designed for observation and assessment as well as repetitive teaching. The QIC found that, during the period in issue, the there was no documented change in the beneficiary\u2019s condition, medication or treatment and that the nature of the services provided were not \u201cskilled.\u201d The QIC noted that the beneficiary was alert and oriented, with forgetfulness at a \u201cbaseline\u201d level. Further the beneficiary had a caregiver who provided assistance with activities of daily living as well as the administration of oral medications and injections of insulin.",
+  "Consequently, the QIC concluded that the services in question were not skilled services under 42 C.F.R. \u00a7\u00a7 409.42 \u2013 409.45 and MBPM Ch. 7, \u00a7 40.1."
+ ],
+ "arm": "D_wide",
+ "set": "dev",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 333,
+ "evidence_words_D": 721,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "parent": "case_excellenthomecare",
+ "status": "MAIN"
+}

@@ -1,0 +1,38 @@
+{
+ "case_id": "gr",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "Skilled nursing home health services (daily injections) for a beneficiary in an assisted living facility, Feb-Dec 2004",
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council reversed the ALJ and held the services covered because, giving great weight to prior favorable homebound decisions and with no change in his condition, the beneficiary remained confined to the home.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30.1"
+  }
+ ],
+ "other_cites": [
+  "MPIM (CMS Pub. 100-08) ch.6 sec.6.2.1",
+  "42 CFR 405.1062(a)"
+ ],
+ "facts": [
+  "Due to his functional limitations, the beneficiary was unable to reposition himself independently and was fully dependent on assistance for all activities of daily living, including bathing and dressing. Nursing notes indicate that the VNA of Chittenden and Grand Isle Counties, Inc. provided intermittent skilled nursing services to the beneficiary during the periods of service at issue.",
+  "The appellant appealed on January 12, 2006.",
+  "Appellant argues that the Plans of Care and the record as a whole support a finding that beneficiary was \u201cconfined to the home.\u201d",
+  "Several nursing notes indicated that the beneficiary was \u201cnot homebound - leaves daily for social and medical appointments.\u201d",
+  "Although the documentation of the beneficiary\u2019s homebound status may fluctuate during different periods of service, there is no objective medical evidence that his clinical condition has significantly changed. The medical records in evidence do not demonstrate that the beneficiary\u2019s medical condition has improved such that he would no longer be confined to the home. The beneficiary\u2019s primary diagnosis did not change and he was hospitalized four times during the dates of service at issue. Furthermore, the record does not demonstrate a change in facts such as medical improvement or an advance in medical technology that has improved the beneficiary\u2019s ability to leave the home."
+ ],
+ "arm": "B_gaps",
+ "set": "held",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 125,
+ "evidence_words_D": 441,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

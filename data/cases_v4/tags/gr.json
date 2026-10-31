@@ -1,0 +1,525 @@
+{
+"case_id": "gr",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision in each of the three appeals listed above on February 8, 2007.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ decisions concerned nursing services provided to Medicare beneficiary at his place of residence, an assisted living facility, by the Visiting Nurses Association of Chittenden and Grand Isle Counties, Inc., from February 29, 2004, through April 28, 2004, and August 27, 2004, through December 24, 2004.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council (the Council) to review these actions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decisions de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s actions to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The Council adopts the ALJ\u2019s recitation of the applicable law, but not his findings and conclusions with respect to the beneficiary\u2019s homebound status.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 2,
+"si": 1,
+"section": "INTRO",
+"text": "As set forth below, the Council reverses the ALJ\u2019s decisions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "FACTS",
+"text": "During the periods of service at issue, the beneficiary was a 51 year-old male, who resided in an assisted living facility, had a primary diagnosis of cerebrovascular accident complications, and relied on a power wheelchair for mobility.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "FACTS",
+"text": "The medical records in evidence demonstrate that the beneficiary required daily injections of streptococcal septic medication but was unable to self-inject due to deformity of his hand and paralysis of the right arm.",
+"tag": "EVAL",
+"reason": "demonstrate"
+},
+{
+"pi": 4,
+"si": 2,
+"section": "FACTS",
+"text": "Due to his functional limitations, the beneficiary was unable to reposition himself independently and was fully dependent on assistance for all activities of daily living, including bathing and dressing.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 4,
+"si": 3,
+"section": "FACTS",
+"text": "Nursing notes indicate that the VNA of Chittenden and Grand Isle Counties, Inc. provided intermittent skilled nursing services to the beneficiary during the periods of service at issue.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "The Medicare intermediary, Associated Hospital Service, denied the claims initially, finding the services reasonable given the beneficiary\u2019s diagnoses and condition, but that the beneficiary did not meet the homebound requirement for Medicare coverage. See, e.g., 1-108393946, Exh. 2 at 97.",
+"tag": "LAW",
+"reason": "law statement: requirement for"
+},
+{
+"pi": 5,
+"si": 1,
+"section": "FACTS",
+"text": "In the absence of an Advance Beneficiary Notice (ABN) or Notice of Non-Coverage (NNC), the intermediary found the provider liable for the non- covered services.",
+"tag": "PROC",
+"reason": "Notice of"
+},
+{
+"pi": 5,
+"si": 2,
+"section": "FACTS",
+"text": "The appellant appealed on January 12, 2006.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "In three redetermination decisions issued on February 17, 2006, the Medicare intermediary again denied coverage of the claimed home health services and found the provider liable for the non- covered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "Each of the decisions found that the beneficiary did not meet the homebound requirement for Medicare coverage.",
+"tag": "LAW",
+"reason": "law statement: requirement for"
+},
+{
+"pi": 6,
+"si": 2,
+"section": "FACTS",
+"text": "The appellant requested reconsideration.",
+"tag": "PRIOR_DENIAL",
+"reason": "reconsideration"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "The Qualified Independent Contractor (QIC), MAXIMUS, issued three reconsideration decisions for the periods at issue on October 3, 2006, and October 4, 2006.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 7,
+"si": 1,
+"section": "FACTS",
+"text": "In each appeal, the QIC concluded that although the administration of injections by a skilled nurse when the beneficiary\u2019s friends were unavailable to assist was reasonable and necessary, Medicare could not cover the services because the Plan of Care and other nursing notes indicated that the beneficiary was not homebound. See, e.g., 1-108393946, Exh. 9 at 142.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 7,
+"si": 2,
+"section": "FACTS",
+"text": "Ultimately, the QIC held the provider liable for the non-covered services because the file did not contain an ABN or NNC.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 7,
+"si": 3,
+"section": "FACTS",
+"text": "The Office of Medicare Hearings & Appeals received the appellant\u2019s request for an ALJ hearing on December 4, 2006.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "FACTS",
+"text": "On February 6, 2007, with the consent and participation of counsel for the appellant, the ALJ held one hearing on five appeals involving the same beneficiary and provider, but each with different dates of service.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "FACTS",
+"text": "The provider was given notice of the hearing but did not respond or participate.",
+"tag": "PROC",
+"reason": "notice of"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "FACTS",
+"text": "In addition to its brief, the appellant submitted copies of previous Medicare intermediary determinations, a QIC decision, and a decision from another ALJ, all of which found this beneficiary to be homebound and his home health services covered by Medicare for the periods at issue in those claims.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "FACTS",
+"text": "On February 8, 2007, the ALJ issued five separate opinions regarding this beneficiary and provider: the three unfavorable decisions at issue here and two favorable decisions.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "FACTS",
+"text": "In each of the three substantially similar decisions on appeal here, the ALJ found that the medical records in evidence supported that the services provided were skilled in nature and were medically reasonable and necessary. See, e.g., 1-108393946, ALJ Dec. at 8.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "FACTS",
+"text": "However, the ALJ concluded that the same records did not support finding the beneficiary homebound because the certification of the beneficiary\u2019s homebound status was inconsistent.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 9,
+"si": 3,
+"section": "FACTS",
+"text": "Specifically, the ALJ relied on the inclusion of the phrase \u201cnot homebound\u201d on the narrative portion of Plans of Care as well as several instances where nursing notes indicated \u201cnot homebound\u201d or \u201cnot HB.\u201d",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 9,
+"si": 4,
+"section": "FACTS",
+"text": "In each of the decisions, the ALJ denied Medicare coverage and found the provider liable for the non-covered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "FACTS",
+"text": "On February 16, 2007, the appellant requested Council review of the three unfavorable decisions and submitted a memorandum in support of its position.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "FACTS",
+"text": "The appellant contends that the ALJ\u2019s findings that the beneficiary could leave home without considerable and taxing effort are against the substantial weight of evidence because an examination of the medical records, taken as a whole, illustrates that the beneficiary was homebound.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 10,
+"si": 2,
+"section": "FACTS",
+"text": "Appellant argues that the Plans of Care and the record as a whole support a finding that beneficiary was \u201cconfined to the home.\u201d",
+"tag": "PARTY",
+"reason": "Appellant argues"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "MIXED",
+"text": "After reviewing the records and the appellant\u2019s exceptions, the Council finds that the ALJ erred in finding the beneficiary not confined to the home, and in denying Medicare coverage of the home health services provided to the beneficiary during the periods of service at issue.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 13,
+"si": 0,
+"section": "MIXED",
+"text": "The Medicare Program Integrity Manual (MPIM) cited in the ALJ\u2019s decision instructs:",
+"tag": "LAW",
+"reason": "MPIM"
+},
+{
+"pi": 14,
+"si": 0,
+"section": "MIXED",
+"text": "Afford the favorable final appellate decision that a beneficiary is \u2018confined to home\u2019 great weight in evaluating whether the beneficiary is confined to the home when reviewing services rendered after the service date of the claim addressed in the favorable final appellate decision unless there has been a change in facts (such as medical improvement or an advance in medical technology) that has improved the beneficiary\u2019s ability to leave the home.",
+"tag": "LAW",
+"reason": "law statement: unless"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "MIXED",
+"text": "CMS Manual System, Pub. 100-8, Medicare Program Integrity, Chapter 6, \u00a7 6.2.1.",
+"tag": "LAW",
+"reason": "Pub. 100"
+},
+{
+"pi": 15,
+"si": 1,
+"section": "MIXED",
+"text": "The ALJ and the MAC must give substantial deference to this CMS program guidance.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 15,
+"si": 2,
+"section": "MIXED",
+"text": "C.F.R. \u00a7 405.1062(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "MIXED",
+"text": "Here, the appellant has submitted copies of a QIC decision, a decision from another ALJ, and two decisions that the ALJ in this case issued concurrently, each of which found this beneficiary to be homebound and his home health services covered by Medicare for the periods at issue in those claims.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 16,
+"si": 1,
+"section": "MIXED",
+"text": "These prior appellate decisions found the beneficiary homebound during the periods from January 5, 2003, through September 1, 2003, and from November 1, 2003, through February 28, 2004, which immediately precede the periods of service at issue here. See, e.g., 1-108393946, Exh. 9 at 149-159.",
+"tag": "PRIOR_ALJ_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 16,
+"si": 2,
+"section": "MIXED",
+"text": "Notably, this same ALJ found the beneficiary homebound during the four-month period from April 29, 2004, through August 26, 2004, which is in the middle of the periods at issue in this decision.",
+"tag": "COUNCIL",
+"reason": "this decision"
+},
+{
+"pi": 16,
+"si": 3,
+"section": "MIXED",
+"text": "These prior determinations regarding different dates of service are entitled to \u201cgreat weight,\u201d as instructed by the MPIM.",
+"tag": "LAW",
+"reason": "MPIM"
+},
+{
+"pi": 17,
+"si": 0,
+"section": "MIXED",
+"text": "The Council finds that, when taken as a whole, the record supports a continued finding that the beneficiary was unable to leave home without a considerable and taxing effort.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 17,
+"si": 1,
+"section": "MIXED",
+"text": "The beneficiary remained under the care of a treating physician who ordered intermittent home health care services that were skilled in nature.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 17,
+"si": 2,
+"section": "MIXED",
+"text": "The OASIS forms indicate that the beneficiary was unable to leave home without assistance and relied on a power wheelchair for mobility.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "MIXED",
+"text": "The MPIM provides an example of how a quadriplegic beneficiary may still be considered \u201cconfined to the home even though he leaves home several times a week for personal reasons,\u201d because these trips require assistance and taxing effort. Id. at Ex. 1.",
+"tag": "LAW",
+"reason": "MPIM"
+},
+{
+"pi": 18,
+"si": 1,
+"section": "MIXED",
+"text": "In this case, the record contains scant information about the beneficiary\u2019s actual absences from his place of residence, an assisted living facility.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 18,
+"si": 2,
+"section": "MIXED",
+"text": "It is unclear whether the beneficiary merely left his personal room or the entire facility.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 18,
+"si": 3,
+"section": "MIXED",
+"text": "Nor is it clear whether facility staff supervised the absences as would occur with a group activity, or whether the absences occurred for a reason typically excused from scrutiny.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 18,
+"si": 4,
+"section": "MIXED",
+"text": "Several nursing notes indicated that the beneficiary was \u201cnot homebound - leaves daily for social and medical appointments.\u201d",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 18,
+"si": 5,
+"section": "MIXED",
+"text": "The MBPM specifically provides that leaving one\u2019s home to attend medical appointments does not negatively impact a beneficiary\u2019s homebound status. Id. at \u00a7 30.1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 18,
+"si": 6,
+"section": "MIXED",
+"text": "The beneficiary here may in fact leave his room or the assisted living complex several times a week, but doing so requires assistance from staff, reliance on a power wheelchair, and a considerable and taxing effort.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "MIXED",
+"text": "Although the documentation of the beneficiary\u2019s homebound status may fluctuate during different periods of service, there is no objective medical evidence that his clinical condition has significantly changed.",
+"tag": "GAP",
+"reason": "no objective medical evidence"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "MIXED",
+"text": "The medical records in evidence do not demonstrate that the beneficiary\u2019s medical condition has improved such that he would no longer be confined to the home.",
+"tag": "GAP",
+"reason": "evidence do not demonstrate"
+},
+{
+"pi": 19,
+"si": 2,
+"section": "MIXED",
+"text": "He remains dependent on a power wheelchair for mobility.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 19,
+"si": 3,
+"section": "MIXED",
+"text": "The beneficiary\u2019s primary diagnosis did not change and he was hospitalized four times during the dates of service at issue.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 19,
+"si": 4,
+"section": "MIXED",
+"text": "Furthermore, the record does not demonstrate a change in facts such as medical improvement or an advance in medical technology that has improved the beneficiary\u2019s ability to leave the home.",
+"tag": "GAP",
+"reason": "record does not demonstrate"
+},
+{
+"pi": 19,
+"si": 5,
+"section": "MIXED",
+"text": "Therefore, the Council finds that the record demonstrates that the beneficiary continued to satisfy the homebound requirement necessary to qualify for home health services.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "Based on the medical records in evidence, the Medicare intermediary, the QIC, and the ALJ each found that the home health services at issue were skilled, and both reasonable and necessary for the beneficiary\u2019s care and to ensure his safety given his diagnoses.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 20,
+"si": 1,
+"section": "MIXED",
+"text": "The Council finds no basis to disturb these findings.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 20,
+"si": 2,
+"section": "MIXED",
+"text": "The Council finds the services at issue covered.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "TERMINAL",
+"text": "It is the decision of the Medicare Appeals Council that the home health services from February 29, 2004, through April 28, 2004, and from August 27, 2004, through December 24, 2004, are covered.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 22,
+"si": 1,
+"section": "TERMINAL",
+"text": "The ALJ\u2019s decisions as to these dates of service are hereby reversed.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

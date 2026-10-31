@@ -1,0 +1,106 @@
+[
+ {
+  "decision": "COVERED",
+  "case_id": "12-1251"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "altabates__AD"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "altabates__IW"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "altabates__JH"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "case_excellenthomecare"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "case_landmark"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "dc_case"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "case_id": "eagle_air_med"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "estate_gbr"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "gold_cross_ambulance"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "kaweah_rehabilitationhospital"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "m-11-1559"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "m-11-2450"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "m_12_257"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "m_12_809"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "case_id": "midwest_lifeteam"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "nj_dept_humanservices5"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "prestige_homecare__BK"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "prestige_homecare__BN"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "prestige_homecare__FP"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "rb_obo_jb"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "rx_homecare"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "sacredheart_hospital"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "case_id": "state_of_vt"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "case_id": "uphams_homehealthcare"
+ },
+ {
+  "decision": "COVERED",
+  "case_id": "visitingnursing"
+ }
+]

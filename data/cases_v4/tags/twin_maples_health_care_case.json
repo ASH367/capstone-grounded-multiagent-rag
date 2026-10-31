@@ -1,0 +1,749 @@
+{
+"case_id": "twin_maples_health_care_case",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued a decision dated May 27, 2010, which concerned Medicare coverage for skilled nursing facility (SNF) services provided by the appellant to the beneficiary from August 1, 2009, through August 31, 2009.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "The ALJ determined that the physical therapy and nursing services the appellant provided to the beneficiary during the dates of service did not meet the Medicare coverage criteria, and that the appellant is liable for the noncovered charges.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council to review this action.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "The appellant\u2019s request for review is made a part of the record as Exhibit (Exh.) MAC-1.",
+"tag": "PROC",
+"reason": "MAC-1"
+},
+{
+"pi": 3,
+"si": 0,
+"section": "INTRO",
+"text": "For the reasons set forth below, the Council reverses the ALJ\u2019s decision in part, and determines that the SNF services the appellant provided to the beneficiary from August 1, 2009, through August 11, 2009, are covered by Medicare.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant asserts in its request for review that from August 1, 2009, through August 31, 2009, the beneficiary required and received skilled nursing care (for psychological, behavioral, and medical reasons), and received skilled physical therapy for her gait and ambulation problems, difficulty with transferring, and need to reduce her risk of falls. Exh. MAC-1.",
+"tag": "PARTY",
+"reason": "appellant asserts"
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "On July 20, 2009, the beneficiary (age 88) was admitted to the acute psychiatric unit at Yale University for dementia (apparently vascular in origin), paranoid behavior, significant difficulty sleeping, agitation, and being violent and assaultive toward her primary caregiver. Exh. 1 at 4-6.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 7,
+"si": 1,
+"section": "FACTS",
+"text": "There she was diagnosed with dementia, a behavioral disturbance, and psychosis not otherwise specified. Id. at 7, 15.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 7,
+"si": 2,
+"section": "FACTS",
+"text": "The beneficiary also had a history of alcohol dependence, and had undergone detox treatments several times. Id. at 5, 14, 29.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 8,
+"si": 0,
+"section": "FACTS",
+"text": "At Yale, the beneficiary was treated with Haldol, an antipsychotic medication. Exh. 1 at 9-10.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "FACTS",
+"text": "One of the beneficiary\u2019s treating physicians wrote a letter recommending that she be cared for in a nursing home, and opining that she could be cared for in such a setting without injury to herself or others. Id. at 37.",
+"tag": "PARTY",
+"reason": "beneficiary\u2019s treating physicians wrote"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "FACTS",
+"text": "On July 27, 2009, the beneficiary was admitted to Twin Maples Health Care Facility, the appellant\u2019s SNF. Exh. 1 at 54.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 9,
+"si": 1,
+"section": "FACTS",
+"text": "The appellant\u2019s medical director evaluated the beneficiary and raised questions about her aggressiveness and assaultiveness, and whether she could be managed at the SNF. Id. at 44, 46, 47.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "FACTS",
+"text": "Upon the beneficiary\u2019s admission to the SNF, physical therapy (PT) was started five times a week (id. at 54), and Warfarin (for her atrial fibrillation) was discontinued because the risks outweighed the benefits (id. at 47, 60, 62).",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 10,
+"si": 0,
+"section": "FACTS",
+"text": "The next day, July 28, 2009, the beneficiary was agitated, cursing, unpredictable, not redirectable, refusing medications, punching aides, and throwing plates at visitors. Exh. 1 at 1, 44.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 10,
+"si": 1,
+"section": "FACTS",
+"text": "The appellant\u2019s medical director prepared and filed with the State of Connecticut a \u201cPhysician\u2019s Emergency Certification for No More Than 15 Days Care and Treatment in a Hospital for",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 11,
+"si": 0,
+"section": "FACTS",
+"text": "Psychiatric Disabilities.\u201d Id. at 1.",
+"tag": "CITE",
+"reason": "cite/short"
+},
+{
+"pi": 11,
+"si": 1,
+"section": "FACTS",
+"text": "The beneficiary remained in care and under supervision at the SNF.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "FACTS",
+"text": "On July 29, 2009, the beneficiary was evaluated by a psychiatric advanced practice registered nurse (APRN). Exh. 1 at 44-45.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 12,
+"si": 1,
+"section": "FACTS",
+"text": "The APRN consulted with the medical director, and a decision was made not to alter the beneficiary\u2019s medications at that time, but to closely monitor her moods and behaviors at the SNF. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 12,
+"si": 2,
+"section": "FACTS",
+"text": "During the period from July 27, 2009, through August 11, 2009, the beneficiary was closely monitored by the skilled nurses (multiple times each day), one or more physicians, and the psychiatric APRN, for changes in her mood, her behaviors, and other psychological symptoms. Id. at 40-45, 59-62, 63-64, 69- 70.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 0,
+"section": "FACTS",
+"text": "On August 5, 2009, the psychiatrist reduced her Haldol from three to two times a day (Exh. 1 at 59), and close monitoring of her moods and behaviors continued in light of that change. Id. at 40-41, 63-64, 69-70.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 1,
+"section": "FACTS",
+"text": "By August 12, 2009, when the beneficiary was again evaluated by the psychiatric advanced practice registered nurse, her behavioral condition had stabilized. Id. at 40-41.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 2,
+"section": "FACTS",
+"text": "The foregoing facts, in and of themselves, establish that the beneficiary received skilled nursing care at the appellant\u2019s SNF from August 1, 2009, through August 11, 2009.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 14,
+"si": 0,
+"section": "FACTS",
+"text": "In addition, the beneficiary received skilled nursing care for other medical conditions.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "FACTS",
+"text": "As noted above, the medical director at the SNF discontinued her Warfarin (prescribed earlier for atrial fibrillation) on July 27, 2009. Exh. 4 at 5.",
+"tag": "OTHER",
+"reason": "meta/reference sentence"
+},
+{
+"pi": 14,
+"si": 2,
+"section": "FACTS",
+"text": "In the days that followed, the skilled nurses monitored the beneficiary for signs of bleeding and any changes in her cardiac status. See, e.g., Exh. 1 at 63-70.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 14,
+"si": 3,
+"section": "FACTS",
+"text": "The skilled nurses also monitored the beneficiary for other signs and symptoms of illness, multiple times each day. Id.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 14,
+"si": 4,
+"section": "FACTS",
+"text": "On August 4, 2009, the nursing staff identified expiratory wheezing and crackles in the beneficiary\u2019s lungs, bilaterally, and pulse oximeter readings of 85 to 87 percent. Id. at 63.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 14,
+"si": 5,
+"section": "FACTS",
+"text": "They notified the medical director, a chest x-ray was taken, and the beneficiary was diagnosed with pneumonia. Id. at 63, 70; Exh. 4 at 7.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 14,
+"si": 6,
+"section": "FACTS",
+"text": "The beneficiary\u2019s treatment included an oral antibiotic for ten days, oxygen as needed, and ongoing, frequent monitoring by the nursing staff. Exh. 1 at 59, 63-64, 69-70.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 14,
+"si": 7,
+"section": "FACTS",
+"text": "This is further evidence of the skilled nursing care the beneficiary required and received from August 1, 2009, through August 11, 2009.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 15,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary also received skilled physical therapy services at the SNF each weekday from August 1, 2009, through August 11, 2009. Exh. 1 at 96, 83, 86-87, 93-94.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 15,
+"si": 1,
+"section": "FACTS",
+"text": "The physical therapy goals included improving her ability to get up from bed, to transfer and stand with supervision, to ambulate with a rolling walker, and to reduce her risk of falls. Id. at 87.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 15,
+"si": 2,
+"section": "FACTS",
+"text": "These therapy sessions, which the beneficiary participated in each weekday until August 12, 2009, 1 also constitute skilled SNF services.",
+"tag": "EVAL",
+"reason": "constitute"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary continued to live at the SNF after August 11, 2009; however, her nursing and therapy services were not as intensive. See Exh. 1 at 48-53, 71-85.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 17,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant\u2019s claim for Medicare coverage of the beneficiary\u2019s SNF services from August 1, 2009, through August 31, 2009, was denied by the contractor, both initially and on redetermination. Exh. 2.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 17,
+"si": 1,
+"section": "FACTS",
+"text": "The QIC and the ALJ also both denied the claim, opining that the SNF services had not been skilled, and that the appellant was responsible for the costs of the noncovered services. Exh. 5 and ALJ Decision (Dec.).",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "LAW",
+"text": "Medicare covers post-hospital SNF care if certain basic requirements are met.",
+"tag": "LAW",
+"reason": "law statement: Medicare covers"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "LAW",
+"text": "C.F.R. \u00a7 409.30.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 19,
+"si": 2,
+"section": "LAW",
+"text": "Among those requirements, the beneficiary must have had a hospital stay, be in need of post-hospital SNF care, and be admitted to the SNF within thirty days of his or her hospital discharge. Id.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 19,
+"si": 3,
+"section": "LAW",
+"text": "The beneficiary in this case met these requirements.",
+"tag": "EVAL",
+"reason": "met these requirements"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "LAW",
+"text": "In addition, the beneficiary must require and receive skilled nursing or skilled rehabilitation services, or both, on a daily basis.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 20,
+"si": 1,
+"section": "LAW",
+"text": "C.F.R. \u00a7 409.31(b).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 20,
+"si": 2,
+"section": "LAW",
+"text": "The skilled services must be furnished for a condition for which the beneficiary received inpatient hospital services, or which arose while the beneficiary was receiving care in a SNF for a condition which he or she received inpatient hospital services. Id.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 20,
+"si": 3,
+"section": "LAW",
+"text": "For the reasons explained below, the beneficiary in this case met these requirements.",
+"tag": "EVAL",
+"reason": "met these requirements"
+},
+{
+"pi": 21,
+"si": 0,
+"section": "LAW",
+"text": "First, with respect to the beneficiary\u2019s treatment for psychological and behavioral problems, there is no doubt that she required skilled care.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 21,
+"si": 1,
+"section": "LAW",
+"text": "As the foregoing factual summary explains, the beneficiary had been discharged directly to the appellant SNF from a week of hospital care in the Yale acute psychiatric unit, with diagnoses of dementia, behavioral disturbance (including assaultiveness, aggressiveness, throwing things at other people), and psychosis. Exh. 1 at 2-21.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 21,
+"si": 2,
+"section": "LAW",
+"text": "In fact, on the beneficiary\u2019s second day at the SNF, the medical director had to obtain an emergency certification for her psychiatric care. Id. at 1.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 21,
+"si": 3,
+"section": "LAW",
+"text": "Thereafter, the beneficiary received numerous forms of skilled care in the SNF for her psychiatric and behavioral problems, including close supervision from skilled nurses who monitored and recorded her moods and behaviors multiple times each day, and redirected her when needed. Id. at 63-70.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 22,
+"si": 0,
+"section": "LAW",
+"text": "As the Medicare regulations governing skilled SNF care explain:",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 23,
+"si": 0,
+"section": "LAW",
+"text": "Patients who, in addition to their physical problems, exhibit acute psychological symptoms such as depression, anxiety, or agitation, may also require skilled observation and assessment by technical personnel to ensure their safety or the safety of others, that is, to observe for indications of suicidal or hostile behavior.",
+"tag": "LAW",
+"reason": "law section, no patient reference"
+},
+{
+"pi": 23,
+"si": 1,
+"section": "LAW",
+"text": "The need for services of this type must be documented by physicians\u2019 orders or nursing or therapy notes.",
+"tag": "LAW",
+"reason": "law statement: must"
+},
+{
+"pi": 24,
+"si": 0,
+"section": "LAW",
+"text": "42 C.F.R. \u00a7 409.33(a)(2)(ii).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 24,
+"si": 1,
+"section": "LAW",
+"text": "The record in this case contains numerous physicians\u2019 orders and nursing notes on the need to observe and assess the beneficiary\u2019s behavior, and notes recording those observations and assessments. See Exh. 1 at 40- 47, 59-60.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 25,
+"si": 0,
+"section": "LAW",
+"text": "As the foregoing factual summary also explains, the beneficiary also required and received skilled nursing services for other medical needs, apparently not related to her psychiatric diagnoses.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 25,
+"si": 1,
+"section": "LAW",
+"text": "On July 27, 2009, the SNF\u2019s medical director discontinued the Warfarin medication the beneficiary had been taking for atrial fibrillation. Exh. 4 at 5.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 25,
+"si": 2,
+"section": "LAW",
+"text": "In the days that followed, the nurses monitored the beneficiary for signs of bleeding and any changes in her cardiac status. Exh. 1 at 63- 70.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 25,
+"si": 3,
+"section": "LAW",
+"text": "They monitored her condition and specific signs and symptoms at least four times each day. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 25,
+"si": 4,
+"section": "LAW",
+"text": "As a result of this close monitoring, her pneumonia was diagnosed early, and treated effectively without complications.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 25,
+"si": 5,
+"section": "LAW",
+"text": "This skilled nursing was provided for a condition which arose while the beneficiary was receiving skilled care in the SNF for her mental illness. See 42 C.F.R. \u00a7 409.31(b)(2)(ii).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 26,
+"si": 0,
+"section": "LAW",
+"text": "Finally, as noted above in the factual summary above, the beneficiary needed and received skilled physical therapy services in the appellant SNF, for problems with her gait and ambulation, her difficulty transferring, and her risk of falls.",
+"tag": "OTHER",
+"reason": "meta/reference sentence"
+},
+{
+"pi": 26,
+"si": 1,
+"section": "LAW",
+"text": "The appellant SNF provided the beneficiary with this physical therapy each weekday from August 1, 2009, through August 11, 2009.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 26,
+"si": 2,
+"section": "LAW",
+"text": "Therefore, the physical therapy meets the \u201cskilled rehabilitation therapy\u201d criteria of Section 409.33(c) of the regulations.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 27,
+"si": 0,
+"section": "LAW",
+"text": "However, the skilled physical therapy the beneficiary received did not provide a predicate for Medicare coverage of the beneficiary\u2019s SNF stay.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 27,
+"si": 1,
+"section": "LAW",
+"text": "This is because the physical therapy was not provided for a condition for which the beneficiary received inpatient hospital services, as the regulations require. See 42 C.F.R. \u00a7 409.31(b)(2)(i).",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 27,
+"si": 2,
+"section": "LAW",
+"text": "The beneficiary received inpatient hospital services at Yale solely for her mental health problems, not for her difficulties with gait, ambulation, transfers, and related mobility issues. See Exh. 1 at 2-21.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 27,
+"si": 3,
+"section": "LAW",
+"text": "Nor does the evidence of record indicate that the physical therapy was provided for a condition which arose while the beneficiary was receiving care in the SNF for her mental health problems. See 42 C.F.R. \u00a7 409.31(b)(2)(ii).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 27,
+"si": 4,
+"section": "LAW",
+"text": "The notes from the beneficiary\u2019s one-week stay at Yale record her gait and ambulation problem, indicating that had been manifested before her SNF stay. See Exh. 1 at 8, 18, 30.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 27,
+"si": 5,
+"section": "LAW",
+"text": "The physical therapy evaluation prepared at the appellant\u2019s SNF on July 27, 2009, notes that the beneficiary\u2019s problems with ambulation and gait are related to the fact that she has been living at home and was walking little the past year. Id. at 86.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 27,
+"si": 6,
+"section": "LAW",
+"text": "Therefore, although the physical therapy the beneficiary received at the appellant\u2019s SNF was both skilled and necessary, its delivery, alone, does not qualify the SNF for Medicare coverage of the beneficiary\u2019s stay.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 28,
+"si": 0,
+"section": "LAW",
+"text": "Nevertheless, there are two related bases, explained above, upon which the beneficiary\u2019s SNF stay from August 1, 2009, through August 11, 2009 qualifies for Medicare coverage.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 28,
+"si": 1,
+"section": "LAW",
+"text": "These are the skilled nursing services the beneficiary required and received for her mental health problems and the skilled nursing services she required and received for other medical problems.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 28,
+"si": 2,
+"section": "LAW",
+"text": "The ALJ did not appropriately address these skilled nursing services, and therefore his decision is reversed with respect to the dates of service August 1, 2009, through August 11, 2009.",
+"tag": "COUNCIL",
+"reason": "reversed"
+},
+{
+"pi": 28,
+"si": 3,
+"section": "LAW",
+"text": "Because the Council decides this case on a de novo basis, there is no reason to identify or discuss all the bases for the ALJ\u2019s error.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 28,
+"si": 4,
+"section": "LAW",
+"text": "However, the Council does note that the ALJ erred in relying on the fact that the beneficiary received considerable assistance with her activities of daily living (ADLs) from the SNF staff as a basis for denying coverage of the beneficiary\u2019s SNF care. Dec. at 7.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 28,
+"si": 5,
+"section": "LAW",
+"text": "The fact of the matter is that the SNF staff did provide the beneficiary with substantial assistance with her ADLs, because she needed the assistance.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 28,
+"si": 6,
+"section": "LAW",
+"text": "However, the SNF staff also provided her with substantial amounts of skilled nursing care, which, as we explained above, support a partially favorable coverage determination.",
+"tag": "COUNCIL",
+"reason": "we"
+},
+{
+"pi": 29,
+"si": 0,
+"section": "LAW",
+"text": "The amount and frequency of the beneficiary\u2019s skilled care at the SNF decreased after August 11, 2009.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 29,
+"si": 1,
+"section": "LAW",
+"text": "Her psychological and behavioral condition had stabilized, obviating the need for regular and frequent monitoring, supervising, and redirection. Exh. 1 at 40-41.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 29,
+"si": 2,
+"section": "LAW",
+"text": "Her transition off of Warfarin appears to have progressed to a stable point, and her pneumonia symptoms were decreasing. Exh. 4 at 5.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 29,
+"si": 3,
+"section": "LAW",
+"text": "Her participation in PT sessions had decreased to less than daily, and by August 17, 2009, they had decreased to three times per week. See Exh. 1 at 96, 92.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 29,
+"si": 4,
+"section": "LAW",
+"text": "Therefore, the nature and intensity of SNF services that the appellant provided to the beneficiary from August 12, 2009, through August 31, 2009 were not sufficient to warrant Medicare coverage.",
+"tag": "EVAL",
+"reason": "reasoning connective"
+},
+{
+"pi": 30,
+"si": 0,
+"section": "LAW",
+"text": "The appellant has represented that it gave the beneficiary an Advance Beneficiary Notice (ABN) on September 7, 2009, informing her that Medicare would likely no longer cover her SNF services. Exh. MAC-1.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 30,
+"si": 1,
+"section": "LAW",
+"text": "However, because this notice was not issued until September 7, 2009, the appellant, who knew or reasonably should have known the services for the latter part of August would not be covered, is liable for the noncovered services from August 12, 2009, through August 31, 2009.",
+"tag": "PROC",
+"reason": "should have known"
+},
+{
+"pi": 30,
+"si": 2,
+"section": "LAW",
+"text": "The beneficiary is not liable for those services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 32,
+"si": 0,
+"section": "TERMINAL",
+"text": "The Council reverses in part the ALJ\u2019s decision denying Medicare coverage.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 32,
+"si": 1,
+"section": "TERMINAL",
+"text": "The Council determines that the skilled nursing services the beneficiary received at the appellant\u2019s SNF from August 1, 2009, through August 11, 2009, constitute skilled care and are therefore covered by Medicare.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+},
+{
+"pi": 32,
+"si": 2,
+"section": "TERMINAL",
+"text": "The appellant remains liable for the noncovered costs of the beneficiary\u2019s SNF care after August 11, 2009.",
+"tag": "TERMINAL",
+"reason": "after DECISION/CONCLUSION header"
+}
+]
+}

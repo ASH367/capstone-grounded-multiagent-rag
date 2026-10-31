@@ -1,0 +1,9 @@
+{
+ "rules_sha": "ef1229afcb893ede",
+ "file": "rag/fairtest.py",
+ "note": "Rules/cues tuned on the 22 dev decisions only. Frozen before the 18 held-out decisions were built.",
+ "v1_1_amendment": {
+  "rules_sha": "8573a23bb8b93257",
+  "note": "After the held-out build, the Council's own order sentence ('The contractor is therefore directed to reassign ...', held-out 11-1343) was found inside arms C and D tagged as an earlier-level denial. Added generic order-language cues (directed to/that, is ordered, ordered to, hereby) to the Council-voice rule and rebuilt dev and held-out. Arm A is unaffected by this fix; no other rule was changed after the held-out build."
+ }
+}

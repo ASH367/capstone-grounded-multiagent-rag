@@ -1,0 +1,549 @@
+{
+"case_id": "case_excellenthomecare",
+"sentences": [
+{
+"pi": 0,
+"si": 0,
+"section": "INTRO",
+"text": "The Administrative Law Judge (ALJ) issued two decisions, each dated September 1, 2009.",
+"tag": "PRIOR_ALJ",
+"reason": "Administrative Law Judge"
+},
+{
+"pi": 0,
+"si": 1,
+"section": "INTRO",
+"text": "Substantively identical in analysis, each decision concerned a claim by the appellant for Medicare coverage of home health services provided to the two beneficiaries identified in the Attachment to this decision.",
+"tag": "COUNCIL",
+"reason": "this decision"
+},
+{
+"pi": 0,
+"si": 2,
+"section": "INTRO",
+"text": "The ALJ determined the record in each case did not demonstrate that the services provided to the beneficiaries constituted skilled services for purposes of Medicare coverage.",
+"tag": "COUNCIL_PARA",
+"reason": "after Council-voice sentence in paragraph"
+},
+{
+"pi": 0,
+"si": 3,
+"section": "INTRO",
+"text": "The ALJ also determined that the appellant was liable for the costs of the non-covered services.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 0,
+"si": 4,
+"section": "INTRO",
+"text": "The appellant has asked the Medicare Appeals Council (Council) to review these actions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 0,
+"si": 5,
+"section": "INTRO",
+"text": "The appellant\u2019s request for review in ALJ Appeal Number 1-447551843 has been entered into the record as Exhibit (Exh.) MAC-1.",
+"tag": "PROC",
+"reason": "MAC-1"
+},
+{
+"pi": 0,
+"si": 6,
+"section": "INTRO",
+"text": "The appellant\u2019s request for review in ALJ Appeal Number 1-447534261 has been entered into the record as Exhibit MAC-2.",
+"tag": "PROC",
+"reason": "Exhibit MAC"
+},
+{
+"pi": 1,
+"si": 0,
+"section": "INTRO",
+"text": "The Council reviews the ALJ\u2019s decision de novo.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 1,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1108(a).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 1,
+"si": 2,
+"section": "INTRO",
+"text": "The Council will limit its review of the ALJ\u2019s action to the exceptions raised by the party in the request for review, unless the appellant is an unrepresented beneficiary.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 1,
+"si": 3,
+"section": "INTRO",
+"text": "C.F.R. \u00a7 405.1112(c).",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 2,
+"si": 0,
+"section": "INTRO",
+"text": "As explained below, the Council has considered the record and exceptions pertinent to each decision and finds no basis for changing the ALJ\u2019s actions.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 4,
+"si": 0,
+"section": "FACTS",
+"text": "The exhibits cited in each beneficiary-specific discussion are those in the file for that beneficiary.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 4,
+"si": 1,
+"section": "FACTS",
+"text": "Similarly, citation to the ALJ decision is beneficiary-specific.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 5,
+"si": 0,
+"section": "FACTS",
+"text": "Beneficiary C.C. - ALJ Appeal Number 1-447551843.",
+"tag": "PRIOR_ALJ",
+"reason": "ALJ"
+},
+{
+"pi": 6,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary was 66 years old and entered the appellant\u2019s home health program on June 28, 2008.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 6,
+"si": 1,
+"section": "FACTS",
+"text": "The certification period in issue covers August 27, 2008 through October 25, 2008.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 6,
+"si": 2,
+"section": "FACTS",
+"text": "The beneficiary\u2019s medical history included Type II diabetes, benign hypertension, esophageal reflux and angina.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 6,
+"si": 3,
+"section": "FACTS",
+"text": "Additionally, the beneficiary was taking a variety of medications in pill form.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 6,
+"si": 4,
+"section": "FACTS",
+"text": "The beneficiary\u2019s mental status was oriented but depressed and his prognosis \u201cfair.\u201d Exh. 8 at 20.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 6,
+"si": 5,
+"section": "FACTS",
+"text": "The beneficiary\u2019s home health plan of care called for skilled nursing services twice a week for nine weeks.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 6,
+"si": 6,
+"section": "FACTS",
+"text": "The services were intended \u201cto assess all systems;\u201d check blood sugar levels by finger stick, notifying the physician in case of blood sugar readings less than 60 or more than 350 mg/dl; check the beneficiary\u2019s blood pressure, notifying the physician in case of blood pressure readings less than 90/60 or more than 160/90 mmhg; and to instruct the beneficiary on a variety of issues including, but not limited to, medication dosages and side effects; hypo/hyperglycemia and hypo/hypertension. Id.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 7,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary was discharged from home health care on October 21, 2008, based on the general stability of his blood sugar, blood pressure and overall control of his conditions. Exh. 8 at 23.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 8,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant\u2019s claim for Medicare coverage was denied initially and upon redetermination.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 8,
+"si": 1,
+"section": "FACTS",
+"text": "In the redetermination, the Medicare carrier noted that the beneficiary\u2019s condition was stable throughout the period under review and that \u201cthe skilled nurse was providing general assessments, ongoing observations and repetitive teaching.\u201d",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 8,
+"si": 2,
+"section": "FACTS",
+"text": "The appellant was held liable for the cost of the non-covered services. Exh. 4 at 3-4.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 9,
+"si": 0,
+"section": "FACTS",
+"text": "Upon reconsideration the Qualified Independent Contractor (QIC) also denied coverage.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 9,
+"si": 1,
+"section": "FACTS",
+"text": "The QIC noted that, generally, the skilled nursing visits were designed for observation and assessment as well as repetitive teaching.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 9,
+"si": 2,
+"section": "FACTS",
+"text": "The QIC found that, during the period in issue, there was no documented change in the beneficiary\u2019s condition, medication or treatment.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 9,
+"si": 3,
+"section": "FACTS",
+"text": "The QIC concluded that the services in question were not skilled services under 42 C.F.R. \u00a7 409.44 and Medicare Benefit Policy Manual (MBPM) (Pub. 100-02) Ch. 7, \u00a7 40.1.",
+"tag": "LAW",
+"reason": "MBPM"
+},
+{
+"pi": 9,
+"si": 4,
+"section": "FACTS",
+"text": "The appellant was found liable for the cost of the non-covered services. Exh. 7 at 3-5.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 10,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant requested a hearing before an ALJ.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 10,
+"si": 1,
+"section": "FACTS",
+"text": "On June 20, 2009, the ALJ conducted a hearing by telephone in this case as well as in ALJ Appeal Number 1-447534261.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 10,
+"si": 2,
+"section": "FACTS",
+"text": "The appellant\u2019s \u201cprovider representative,\u201d a registered nurse, testified at the hearing.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 10,
+"si": 3,
+"section": "FACTS",
+"text": "The ALJ found that the services in issue were not skilled.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 10,
+"si": 4,
+"section": "FACTS",
+"text": "In reaching this conclusion, the ALJ relied upon the principle in 42 C.F.R. \u00a7 409.42(b) which provides that if the nature of the service is such that it can safely and effectively be performed by the average nonmedical person without the direct supervision of a licensed nurse the service cannot be regarded as skilled.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 10,
+"si": 5,
+"section": "FACTS",
+"text": "The ALJ also questioned \u201cthe physician\u2019s signatures on many of the medical documents [which] were illegible, scribbled and dated with a stamp.\u201d",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 10,
+"si": 6,
+"section": "FACTS",
+"text": "The ALJ also found the appellant liable for the cost of the non-covered services. Dec. at 6-10.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 12,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary was 90 years old and entered the appellant\u2019s home health program on August 19, 2008.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 12,
+"si": 1,
+"section": "FACTS",
+"text": "The certification period in issue covers August 19, 2008 through October 17, 2008.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 12,
+"si": 2,
+"section": "FACTS",
+"text": "The beneficiary\u2019s medical history included diabetes, cellulitis, abnormality of gait and chronic kidney disease.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 12,
+"si": 3,
+"section": "FACTS",
+"text": "Additionally, the beneficiary was taking a variety of medications in pill form.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 12,
+"si": 4,
+"section": "FACTS",
+"text": "The beneficiary\u2019s mental status was oriented but forgetful and depressed with a \u201cfair\u201d prognosis. Exh. 8 at 19.",
+"tag": "FACT_WEAK",
+"reason": "no date/number/record-source anchor"
+},
+{
+"pi": 12,
+"si": 5,
+"section": "FACTS",
+"text": "The beneficiary\u2019s home health plan of care called for skilled nursing services three times a week for three weeks, twice a week for five weeks and once a week for one week.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 12,
+"si": 6,
+"section": "FACTS",
+"text": "The services were intended \u201cto assess all systems;\u201d check blood sugar levels by finger stick and notify the physician in case of blood sugar readings less than 60 or more than 250 mg/dl; administer insulin injections; monitor the beneficiary\u2019s medication compliance and home safety; instruct the beneficiary on a variety of issues including, but not limited to, medication dosages and side effects; hypo/hyperglycemia, observe signs and symptoms of neuropathy, nephropathy and retinopathy and pain management techniques. Exh. 8 at 19.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 13,
+"si": 0,
+"section": "FACTS",
+"text": "The beneficiary was discharged from home health care on October 17, 2008, based on the general stability of her blood sugar and improvement in other areas of concern. Exh. 8 at 32.",
+"tag": "FACT",
+"reason": ""
+},
+{
+"pi": 14,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant\u2019s claim for Medicare coverage was denied initially and upon redetermination.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 14,
+"si": 1,
+"section": "FACTS",
+"text": "In the redetermination, the Medicare carrier noted that a service, such as wrapping the beneficiary\u2019s legs in Kerlix, was not skilled.",
+"tag": "PRIOR_DENIAL",
+"reason": "redetermination"
+},
+{
+"pi": 14,
+"si": 2,
+"section": "FACTS",
+"text": "Further, the carrier reasoned that the beneficiary\u2019s condition was stable throughout the period of service, there was no significant change in the plan of care, no acute medical problem and no documentation to indicate that there was potential for medical instability or predictable skilled care needs.",
+"tag": "PRIOR_DENIAL",
+"reason": "carrier"
+},
+{
+"pi": 14,
+"si": 3,
+"section": "FACTS",
+"text": "The appellant was held liable for the cost of the non-covered services. Exh. 4 at 2.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 15,
+"si": 0,
+"section": "FACTS",
+"text": "Upon reconsideration the QIC also denied coverage.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 15,
+"si": 1,
+"section": "FACTS",
+"text": "The QIC noted, generally, that the skilled nursing visits were designed for observation and assessment as well as repetitive teaching.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 15,
+"si": 2,
+"section": "FACTS",
+"text": "The QIC found that, during the period in issue, the there was no documented change in the beneficiary\u2019s condition, medication or treatment and that the nature of the services provided were not \u201cskilled.\u201d",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 15,
+"si": 3,
+"section": "FACTS",
+"text": "The QIC noted that the beneficiary was alert and oriented, with forgetfulness at a \u201cbaseline\u201d level.",
+"tag": "PRIOR_DENIAL",
+"reason": "QIC"
+},
+{
+"pi": 15,
+"si": 4,
+"section": "FACTS",
+"text": "Further the beneficiary had a caregiver who provided assistance with activities of daily living as well as the administration of oral medications and injections of insulin.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 15,
+"si": 5,
+"section": "FACTS",
+"text": "Consequently, the QIC concluded that the services in question were not skilled services under 42 C.F.R. \u00a7\u00a7 409.42 \u2013 409.45 and MBPM Ch. 7, \u00a7 40.1.",
+"tag": "PRIOR_DENIAL_CONT",
+"reason": "after earlier-level sentence in same paragraph"
+},
+{
+"pi": 15,
+"si": 6,
+"section": "FACTS",
+"text": "Additionally, the QIC found the appellant liable for the cost of the non-covered services. Exh. 7 at 3-5.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 16,
+"si": 0,
+"section": "FACTS",
+"text": "The appellant requested a hearing before an ALJ.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 16,
+"si": 1,
+"section": "FACTS",
+"text": "In her decision, the ALJ found that the services in issue were not skilled.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 16,
+"si": 2,
+"section": "FACTS",
+"text": "In reaching this conclusion, the ALJ relied upon 42 C.F.R. \u00a7 409.42(b) which provides that if the nature of a claimed service is such that it can safely and effectively be performed by the average nonmedical person without the direct supervision of a licensed nurse the service cannot be regarded as skilled.",
+"tag": "LAW",
+"reason": "C.F.R"
+},
+{
+"pi": 16,
+"si": 3,
+"section": "FACTS",
+"text": "In that context, the ALJ found that the evidence, including the home health certification and plan of care, failed to substantiate the need for skilled nursing services.",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 16,
+"si": 4,
+"section": "FACTS",
+"text": "Here too, the ALJ questioned \u201cthe physician\u2019s signatures on many of the medical documents [which] were illegible, scribbled and dated with a stamp.\u201d",
+"tag": "PRIOR_ALJ",
+"reason": "paragraph cites the ALJ decision"
+},
+{
+"pi": 16,
+"si": 5,
+"section": "FACTS",
+"text": "The ALJ also found the appellant liable for the cost of the non-covered services. Dec. at 6-10.",
+"tag": "PROC",
+"reason": "liable"
+},
+{
+"pi": 18,
+"si": 0,
+"section": "MIXED",
+"text": "The appellant\u2019s requests for review were identical in each case.",
+"tag": "PROC",
+"reason": "requests for review"
+},
+{
+"pi": 18,
+"si": 1,
+"section": "MIXED",
+"text": "There the appellant asserts that the evidence and its arguments below \u201cindicated that the claim met medical necessity as well as all other criteria for payment under Medicare home health benefit and that the services were provided as billed, as prescribed and were reasonable and necessary . . . .\u201d See Exhs. MAC-1 and MAC-2.",
+"tag": "LAW",
+"reason": "law statement: criteria for"
+},
+{
+"pi": 19,
+"si": 0,
+"section": "MIXED",
+"text": "The Council has fully considered the appellant\u2019s arguments in the context of the record in each case.",
+"tag": "COUNCIL",
+"reason": "Council"
+},
+{
+"pi": 19,
+"si": 1,
+"section": "MIXED",
+"text": "As the ALJ found, the record does not support a determination that either beneficiary needed skilled nursing services during the periods at issue or that the services provided, were skilled, under Medicare\u2019s regulations and guidelines.",
+"tag": "LAW",
+"reason": "regulations"
+},
+{
+"pi": 20,
+"si": 0,
+"section": "MIXED",
+"text": "Accordingly, the Council adopts the ALJ decisions.",
+"tag": "COUNCIL",
+"reason": "Council"
+}
+]
+}

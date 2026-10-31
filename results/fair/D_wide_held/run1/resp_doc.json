@@ -1,0 +1,470 @@
+[
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Policy requires the SNF to obtain and retain physician certification and recertification statements. The record shows signed physician therapy orders, but no certification or recertification statement is shown in the facts, so that point is UNKNOWN. Orders alone do not settle it.",
+    "passage_id": 661,
+    "quote": "The SNF must obtain and retain the required certification and recertification statements.",
+    "case_fact": "the record contains written orders signed by D.E.\u2019s physician with specific and detailed instructions, for both PT and ST, dated August 28, 2009."
+   },
+   {
+    "claim": "Policy requires a daily skilled service. The contractor found the record lacked documentation supporting daily skilled nursing services, so the required daily-skilled-care documentation is not shown as present.",
+    "passage_id": 603,
+    "quote": "payment for a SNF level of care could not be made if a patient needs an intermittent rather than daily skilled service.",
+    "case_fact": "after finding that the record did not contain documentation to support a finding for medically reasonable and necessary daily SN services."
+   },
+   {
+    "claim": "Policy requires the medical record to describe why skilled rather than nonskilled care is needed. For D.E., the therapist notes show no significant functional gains, so this documentation is not shown as present.",
+    "passage_id": 640,
+    "quote": "Documentation of the patient\u2019s condition in the medical record must describe the circumstances which delineate the need for skilled rather than",
+    "case_fact": "Lastly, the therapist notes do not indicate that D.E. made any significant functional gains, even with the ongoing PT services."
+   },
+   {
+    "claim": "For J.M., the record indicates that the continued exercises could be done through a restorative nursing program. The policy lists repetitious exercises as nonskilled, so documentation of a need for skilled therapy is lacking.",
+    "passage_id": 649,
+    "quote": "the performance of repetitious exercises that do not require skilled rehabilitation personnel for their performance.",
+    "case_fact": "By the dates of service at issue, a restorative nursing program would have been more appropriate than continued services by a skilled therapist."
+   }
+  ],
+  "case_id": "11-1343"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The record contains documentation of fluctuating vital signs with medication adjustments. The policy lists this as a sign that may justify skilled observation and assessment, so this documentation is present.",
+    "passage_id": 628,
+    "quote": "Such signs and symptoms as abnormal/fluctuating vital signs, weight changes, edema, symptoms of drug toxicity",
+    "case_fact": "On at least thirteen occasions the beneficiary\u2019s medications had to be adjusted due to fluctuations in his blood pressure and heart rate."
+   },
+   {
+    "claim": "The record describes nursing monitoring tied to medication dosing. The policy requires documentation of skilled services that need nursing personnel. The description is present, but the case facts do not show it was written in the SNF record or tied to daily skilled services.",
+    "passage_id": 628,
+    "quote": "The medical documentation must describe the skilled services that require the involvement of nursing personnel",
+    "case_fact": "the nursing staff had to closely monitor him to determine the proper doses of his medication."
+   },
+   {
+    "claim": "Hospital records for the stay are submitted. The case facts do not show that SNF admission followed discharge directly on the same day, or which case-mix classifier was assigned. The presumption therefore cannot be settled, and the required SNF-side documentation is UNKNOWN.",
+    "passage_id": 607,
+    "quote": "only when that assessment occurs directly following the beneficiary\u2019s discharge from the qualifying hospital stay",
+    "case_fact": "hospital records concerning the beneficiary\u2019s December 15, 2009, through December 27, 2009, stay at *** *** Hospital."
+   }
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The policy bases the admission-necessity judgment on the medical evidence available to the physician at admission. The QIC found the case documentation does not support medical necessity, so the required supporting evidence is not shown as present. Whether the admission-time records exist in the file is UNKNOWN, because their content is not quoted.",
+    "passage_id": 15,
+    "quote": "QIOs consider only the medical evidence which was available to the physician at the time an admission decision had to be made",
+    "case_fact": "the medical documentation in each case does not support the medical necessity for the acute hospitalizations."
+   },
+   {
+    "claim": "The policy says an admission that did not require hospitalization is denied. The RAC found the services belonged in an outpatient setting, and nothing in the record shows the necessity documentation that would counter this.",
+    "passage_id": 10,
+    "quote": "the A/B MAC Part A denies the admission and makes no Part A (i.e., PPS) payment",
+    "case_fact": "determined that the services should have been provided to the beneficiaries in an outpatient setting"
+   }
+  ],
+  "case_id": "baptist_health_care"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The case facts describe only a late brief and an extension request in an appeal. They contain no information on a physician certification or recertification, which passage 661 requires for covered extended care payment, so its presence cannot be determined.",
+    "passage_id": 661,
+    "quote": "Payment for covered posthospital extended care services may be made only if a physician",
+    "case_fact": "the appellant filed, by telefacsimile, a request for an additional extension of time, to January 10, 2010, to brief the case."
+   },
+   {
+    "claim": "The case facts do not mention a qualifying inpatient hospital stay of at least three consecutive days or a transfer to a SNF within 30 days of discharge. Whether the prior-hospitalization records exist is therefore UNKNOWN.",
+    "passage_id": 571,
+    "quote": "the individual must have been an inpatient of a hospital for a medically necessary stay of at least three consecutive calendar days.",
+    "case_fact": "The appellant\u2019s brief was received after January 10, 2010, by telefacsimile."
+   },
+   {
+    "claim": "The case facts contain no evidence of daily skilled nursing or rehabilitation services needed and received. Whether the specific evidence required in questionable situations is present is UNKNOWN.",
+    "passage_id": 632,
+    "quote": "There must be specific evidence that daily skilled nursing or skilled rehabilitation services are required and received",
+    "case_fact": "Nearly a month after the expiration of the due date for the brief, on December 1, 2009"
+   }
+  ],
+  "case_id": "conn_dept_social_services"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires a medically necessary inpatient hospital stay of at least 3 consecutive days. The case says the stay was qualifying but gives no admission or discharge dates or length of stay. The 3-day requirement and the 30-day transfer timing cannot be confirmed from the record, so they are UNKNOWN.",
+    "passage_id": 563,
+    "quote": "The beneficiary must have been an inpatient of a hospital for a medically necessary stay of at least 3 consecutive calendar days.",
+    "case_fact": "after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration"
+   },
+   {
+    "claim": "Skilled PT must be tied to an active written treatment plan based on an initial PT evaluation after admission and approved by the physician. The case facts say therapy was received but do not mention a written plan, an initial evaluation or physician approval. Their presence is UNKNOWN.",
+    "passage_id": 637,
+    "quote": "The services must be directly and specifically related to an active written treatment plan",
+    "case_fact": "The beneficiary received skilled physical and occupational therapies after admission."
+   },
+   {
+    "claim": "The billed period begins February 25, 2006, after both PT (February 7) and OT (February 24) ended. PT was discharged at a plateau of benefits. The record does not show skilled therapy, or a maintenance program requiring a therapist's skills, during the billed period. Documentation of skilled need for that period is not shown.",
+    "passage_id": 637,
+    "quote": "the services must be necessary for the establishment of a safe and effective maintenance program",
+    "case_fact": "His physical and occupational therapies were discontinued on February 7, 2006, and February 24, 2006, respectively."
+   }
+  ],
+  "case_id": "connecticut11"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The record shows a skilled need, which the policy requires to be documented. The QIC found the nurse-administered injections reasonable and necessary.",
+    "passage_id": 216,
+    "quote": "Need for the skilled services; and \u2022 Homebound status;",
+    "case_fact": "administration of injections by a skilled nurse when the beneficiary\u2019s friends were unavailable to assist was reasonable and necessary"
+   },
+   {
+    "claim": "Longitudinal clinical information about diagnosis, functional limits and clinical course is present. It shows no change in his condition. This supports homebound status being documented.",
+    "passage_id": 179,
+    "quote": "longitudinal clinical information about the patient\u2019s health status is typically needed",
+    "case_fact": "He remains dependent on a power wheelchair for mobility."
+   },
+   {
+    "claim": "The record is thin on the actual absences from the residence. The policy allows absences that are infrequent, brief or for health care, so frequency, duration and purpose cannot be assessed. Several nursing notes also say he was not homebound.",
+    "passage_id": 179,
+    "quote": "the absences from the home are infrequent or for periods of relatively short duration",
+    "case_fact": "the record contains scant information about the beneficiary\u2019s actual absences from his place of residence"
+   },
+   {
+    "claim": "The case facts do not say whether the required face-to-face encounter clinical note is in the record. Plans of Care are referenced, but this point is UNKNOWN.",
+    "passage_id": 216,
+    "quote": "must contain the actual clinical note for the face-to-face encounter visit",
+    "case_fact": "Appellant argues that the Plans of Care and the record as a whole support a finding"
+   }
+  ],
+  "case_id": "gr"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires a separate signed physician certification of the need for daily SNF care. The case facts do not show one in the record. They show only a denial because the beneficiary was receiving hospice services, so its presence is UNKNOWN.",
+    "passage_id": 662,
+    "quote": "There must be a separate signed statement indicating that the patient will require on a daily basis SNF covered care.",
+    "case_fact": "Both the redetermination and the reconsideration stated that Medicare would not pay for the SNF services because the beneficiary was receiving Medicare-covered hospice services"
+   },
+   {
+    "claim": "The policy requires the facility to complete an MDS for payment of skilled services in a Part A stay. The case facts do not mention an MDS, so its presence is UNKNOWN.",
+    "passage_id": 603,
+    "quote": "For Medicare to render payment for skilled services provided to a beneficiary during a SNF Part A stay, the facility must complete an MDS.",
+    "case_fact": "Here, the SNF documented that it notified the appellant that the services would not be covered."
+   },
+   {
+    "claim": "If a physician refuses to certify, the reason must be documented in the SNF's records. The case facts show only that the SNF documented notice of non-coverage to the appellant. They do not show a documented physician refusal or its reason, so this is UNKNOWN.",
+    "passage_id": 662,
+    "quote": "The reason for the refusal to make the certification must be documented in the SNF\u2019s records.",
+    "case_fact": "Here, the SNF documented that it notified the appellant that the services would not be covered."
+   }
+  ],
+  "case_id": "m-10-1884"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The policy expects visit records that show the need for skilled care. The case record has notes with documented medication changes, compliance problems, and nurse monitoring and instruction for the first disputed period. I could not confirm that every visit is documented.",
+    "passage_id": 229,
+    "quote": "the home health records for every visit will reflect the need for the skilled medical care provided",
+    "case_fact": "the records dated within this period include numerous documented instances of changes in the beneficiary\u2019s medication schedule"
+   },
+   {
+    "claim": "The notes must record skilled observation, assessment and the patient's response. For the later period (after June 20, 2008), the visit notes record nurse observation, assessment and management of compliance with Humalog insulin.",
+    "passage_id": 229,
+    "quote": "the home health clinical notes must document as appropriate",
+    "case_fact": "the nurses continued to observe, assess, and manage the beneficiary\u2019s medical condition"
+   },
+   {
+    "claim": "The clinical record must contain progress and clinical notes. The case record has visit notes with specific clinical events, including a urine change assessment, physician contact, and monitoring of antibiotic compliance.",
+    "passage_id": 228,
+    "quote": "the clinical record of the patient must contain progress and clinical notes.",
+    "case_fact": "The nurses contacted the beneficiary\u2019s doctor to obtain permission to take a urine sample for analysis."
+   }
+  ],
+  "case_id": "m-11-1869"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The policy requires medical documentation describing the skilled observation and assessment services. The record contains a physician's order and nursing notes showing skilled monitoring for hematuria-related signs, which meets this requirement.",
+    "passage_id": 628,
+    "quote": "The medical documentation must describe the skilled services that require the involvement of nursing personnel to promote the patient\u2019s recovery and medical safety",
+    "case_fact": "a physician indicated that the beneficiary required skilled nursing for one week to monitor for signs of fever, chills, clots, elevated temperature, swallowing problems, and inability to void"
+   },
+   {
+    "claim": "The policy requires record information showing a reasonable potential for a complication or acute episode. The hospital records anticipated intermittent hematuria, and bright red hematuria and abnormal labs then occurred, which documents that potential.",
+    "passage_id": 628,
+    "quote": "Information from the patient's medical record must document that there is a reasonable potential for a future complication or acute episode",
+    "case_fact": "In fact, the hospital records for the period immediately prior to admission to the SNF indicate a doctor\u2019s option that, \u201cIt is anticipated \u2026 that there will be some intermittent hematuria.\u201d"
+   },
+   {
+    "claim": "The policy lists abnormal or fluctuating lab values as signs that may justify skilled observation. The record documents daily abnormal lab results and urine changes during the period of non-coverage.",
+    "passage_id": 628,
+    "quote": "abnormal/fluctuating lab values",
+    "case_fact": "Every day during the three-day period of non-coverage, from March 5 to 8, 2010, the nurses closely monitored the beneficiary daily"
+   },
+   {
+    "claim": "The SNF admission directly followed a hospital stay for hematuria. The record shows the hospital stay and discharge to the SNF on February 17, which is relevant to the transfer and 30-day requirements. This stay is documented.",
+    "passage_id": 608,
+    "quote": "Admission to SNF does not immediately follow discharge from the qualifying hospital stay, but occurs within 30 days",
+    "case_fact": "At the time of discharge from the hospital on February 17 (for admission to the SNF) the beneficiary was diagnosed with hematuria secondary to prostate enlargement"
+   }
+  ],
+  "case_id": "m-11-1967"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires claims for skilled care to include sufficient documentation showing skilled involvement is required and the services are reasonable and necessary. The case facts only discuss the Jimmo settlement and contain no patient records, so the required documentation cannot be confirmed present.",
+    "passage_id": 617,
+    "quote": "Claims for skilled care coverage need to include sufficient documentation to enable a reviewer to determine whether",
+    "case_fact": "The Jimmo v. Sebelius Settlement Agreement Fact Sheet is not itself authority"
+   },
+   {
+    "claim": "The policy requires documentation of treatment goals and regular assessment of maintenance programs. The case facts contain no goal or assessment documentation, so whether it exists is unknown.",
+    "passage_id": 619,
+    "quote": "Assessments of all goals must be performed in a frequent and regular manner",
+    "case_fact": "the plaintiffs alleged that the Centers for Medicare & Medicaid Services (CMS) wrongly applied an \u201cimprovement standard\u201d"
+   },
+   {
+    "claim": "The policy states that coverage of maintenance care turns on the need for skilled care, not on improvement potential. The case facts do not show whether the need for skilled care was documented.",
+    "passage_id": 603,
+    "quote": "does not turn on the presence or absence of an individual\u2019s potential for improvement",
+    "case_fact": "it concisely restates the governing coverage standards as relevant to this case"
+   }
+  ],
+  "case_id": "m-12-1140"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "The policy requires complications and special services to be documented in physician orders and in nursing or therapy notes. The record has no PT notes for the look-back periods.",
+    "passage_id": 615,
+    "quote": "must be documented by physicians' orders and notes as well as nursing or therapy notes",
+    "case_fact": "However, upon reconsideration, the QIC found no PT notes for the look back periods in review."
+   },
+   {
+    "claim": "Skilled therapy coverage requires an individualized assessment showing a therapist is necessary. The speech therapy records show no treatment method and no evidence that skilled professionals were needed.",
+    "passage_id": 636,
+    "quote": "an individualized assessment of the patient\u2019s clinical condition demonstrates that the specialized judgment, knowledge, and skills of a qualified therapist are necessary",
+    "case_fact": "there is no evidence that the performance of the services provided necessitated skilled professionals."
+   },
+   {
+    "claim": "Appropriate documentation is needed for accurate skilled-care coverage determinations. The record lacks a documented prior level of function, so a significant functional decline cannot be determined.",
+    "passage_id": 603,
+    "quote": "the role of appropriate documentation in facilitating accurate coverage determinations for claims involving skilled care",
+    "case_fact": "Without a documented prior level of function, the QIC found it impossible to determine if the beneficiary had experienced"
+   },
+   {
+    "claim": "Therapy notes are missing for OT as well as PT. The record contains no occupational therapy notes.",
+    "passage_id": 615,
+    "quote": "must be documented by physicians' orders and notes as well as nursing or therapy notes",
+    "case_fact": "Regarding OT, the QIC could not find occupational therapy notes"
+   }
+  ],
+  "case_id": "m_10_1771"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "For the four skilled nursing visits, the policy requires documentation of a recurring, predictable need for infrequent skilled nursing. The record has a physician's order for Lupron injections every 90 days, which supports that need.",
+    "passage_id": 274,
+    "quote": "payment should be made only if documentation justifies a recurring need for reasonable, necessary, and medically predictable skilled nursing services.",
+    "case_fact": "the physician\u2019s orders specifically call for Lupron injections \u201cq 3 months,\u201d i.e., every 90 days."
+   },
+   {
+    "claim": "The policy requires the patient's response to gait training to be documented. The PT notes record progress in stair negotiation and weight bearing.",
+    "passage_id": 291,
+    "quote": "The patient\u2019s response to therapy must be documented.",
+    "case_fact": "Notes patient improvement in negotiation of two stairs to first floor and an ability for partial weight bearing on right leg without pain."
+   },
+   {
+    "claim": "The policy looks for PT notes with objective range-of-motion measurements. The November 29 note gives specific degree measurements. The full degree of motion lost is not clearly shown in the facts, so this finding covers only the measurements that are present.",
+    "passage_id": 293,
+    "quote": "as evidenced by physical therapy notes showing the degree of motion lost and the degree to be restored",
+    "case_fact": "range of motion \u201cincreased with SLR [straight leg raise] to 80 degrees and abduction to 15 degrees"
+   },
+   {
+    "claim": "The policy treats teaching safe stair and transfer use as reasonable and necessary therapy. The PT notes document this teaching for the new stairlift.",
+    "passage_id": 292,
+    "quote": "Physical therapy would be reasonable and necessary to teach the patient to climb and descend stairs safely.",
+    "case_fact": "teaching patient and caregivers the \u201ccorrect use of stairlift recently installed in home for safe transfer\u201d"
+   }
+  ],
+  "case_id": "nj_dept_humanservices22"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires the need for skilled services to be documented. The case facts describe complications noted by nurses, but they do not show that orders or visit notes documenting the need are in the record.",
+    "passage_id": 257,
+    "quote": "The need for the skilled services must be documented.",
+    "case_fact": "The nurses noted abscesses in the rectum."
+   },
+   {
+    "claim": "Wound-care training is claimed, but the record must document why re-teaching was needed and how the caregiver responded. The case facts do not say whether that documentation exists.",
+    "passage_id": 247,
+    "quote": "The medical record should document the reason that the re-teaching or retraining is required and the patient/caregiver response to the education.",
+    "case_fact": "and as well, to provide appropriate wound care training."
+   },
+   {
+    "claim": "The catheter passage allows more frequent skilled care for complications only with adequate documentation. It is about catheters, and the beneficiary has a colostomy and urostomy, so it does not settle what documentation is present. The case facts show recurrent infections but do not show the documentation itself.",
+    "passage_id": 256,
+    "quote": "where there are complications that require more frequent skilled care related to the catheter, such care would, with adequate documentation, be covered.",
+    "case_fact": "He was hospitalized for several days in July 2007 for urosepsis and e.coli infection."
+   }
+  ],
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires the beneficiary to be confined to the home. The case facts contain no homebound documentation, so this cannot be settled.",
+    "passage_id": 177,
+    "quote": "Be confined to the home;",
+    "case_fact": "the physician ordered and the provider furnished to the beneficiary home health services"
+   },
+   {
+    "claim": "The policy requires services under a plan of care established and periodically reviewed by a physician. The facts show only that a physician ordered services, not that a plan of care was established or reviewed, so this is UNKNOWN.",
+    "passage_id": 177,
+    "quote": "Receiving services under a plan of care established and periodically reviewed by a physician or allowed practitioner",
+    "case_fact": "the physician ordered and the provider furnished to the beneficiary home health services"
+   },
+   {
+    "claim": "Covered care is limited to under 8 hours a day and 28 (or, case by case, 35) hours a week. The ordered aide hours go up to 24 per day, so records are needed to show how much care falls within the limit. The facts give no such breakdown, so this is UNKNOWN.",
+    "passage_id": 341,
+    "quote": "less than 8 hours each day and 28 or fewer hours each week",
+    "case_fact": "home health aide visits ranging between five and seven days per week, and between four and 24 hours per day"
+   },
+   {
+    "claim": "Coverage of the in-limit hours depends on a contractor finding that the care is reasonable and necessary. The facts show denials but do not show the supporting records or the reasons for denial, so this is UNKNOWN.",
+    "passage_id": 342,
+    "quote": "If the Medicare contractor determines that the 35 hours of care are reasonable and necessary",
+    "case_fact": "The provider submitted demand bills, and the contractor denied the claims initially and on redetermination."
+   }
+  ],
+  "case_id": "ny"
+ },
+ {
+  "verdict": "DOES_NOT_SUPPORT",
+  "findings": [
+   {
+    "claim": "Policy requires a separate signed physician certification of daily SNF care. The QIC found the physician certifications missing from the record.",
+    "passage_id": 662,
+    "quote": "There must be a separate signed statement indicating that the patient will require on a daily basis SNF covered care.",
+    "case_fact": "The QIC found that the requisite physician certifications were missing from the medical records."
+   },
+   {
+    "claim": "The SNF must obtain and retain the certification statements. For the first stay, the physician's admission form indicated nursing facility level of care, not skilled care, so it is not a certification of daily SNF care.",
+    "passage_id": 661,
+    "quote": "The SNF must obtain and retain the required certification and recertification statements.",
+    "case_fact": "he checked \u201cNursing Facility,\u201d not \u201cMedicare Skilled,\u201d under the \u201cLevel of Care Required\u201d section."
+   },
+   {
+    "claim": "Signed physician orders and care-plan approval are routine orders, not a certification of need for post-hospital extended care. The record does not show a separate certification for the stays.",
+    "passage_id": 662,
+    "quote": "The routine admission order established by a physician is not a certification of the necessity for post-hospital extended care services for purposes of the program.",
+    "case_fact": "are signed by beneficiary\u2019s physician, and give the physician\u2019s orders for medication, and approval of a care plan."
+   }
+  ],
+  "case_id": "roman_eagle_memorial_home"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires the IRF medical record to show completion of the 42 CFR 412.622(a)(3), (4), and (5) requirements. The case facts do not say which of these records are in the file, only that the submitted documents did not support the need for IRF services. Whether the required documentation is present cannot be determined.",
+    "passage_id": 73,
+    "quote": "must consider completion of the requirements at 42 CFR \u00a7 412.622(a)(3), (4), and (5) in a patient\u2019s IRF medical record",
+    "case_fact": "did not support the beneficiaries\u2019 need for IRF services"
+   },
+   {
+    "claim": "The IRF documents that may be used for certification are the preadmission screening, the post-admission physician evaluation, and the admission orders. The case facts do not show whether any of these exist in the record. The only related fact is that the Medical Director testified, which does not settle the point.",
+    "passage_id": 32,
+    "quote": "preadmission screening (including the physician review and concurrence), the post-admission physician evaluation, and the required admission orders",
+    "case_fact": "Dr. K.F., appellant\u2019s Medical Director, testified."
+   }
+  ],
+  "case_id": "stfrances_memorial"
+ },
+ {
+  "verdict": "SUPPORTS_COVERAGE",
+  "findings": [
+   {
+    "claim": "The psychiatric-type skilled observation needs are documented with physician orders and nursing notes, which the policy requires for such cases.",
+    "passage_id": 629,
+    "quote": "Therefore, these cases must be carefully documented.",
+    "case_fact": "The record in this case contains numerous physicians\u2019 orders and nursing notes on the need to observe and assess the beneficiary\u2019s behavior"
+   },
+   {
+    "claim": "The record shows a qualifying hospital stay of at least three days followed by SNF admission within 30 days. The hospital stay ran from July 20 to the July 27 SNF admission.",
+    "passage_id": 579,
+    "quote": "initiated within 30 days after discharge from a hospital stay that included at least three consecutive days of medically necessary inpatient hospital services.",
+    "case_fact": "the beneficiary had been discharged directly to the appellant SNF from a week of hospital care in the Yale acute psychiatric unit"
+   },
+   {
+    "claim": "The record documents daily skilled services for August 1\u201311, 2009. This includes physical therapy each weekday and nursing monitoring several times a day.",
+    "passage_id": 602,
+    "quote": "The patient requires these skilled services on a daily basis (see \u00a730.6)",
+    "case_fact": "The beneficiary also received skilled physical therapy services at the SNF each weekday from August 1, 2009, through August 11, 2009."
+   },
+   {
+    "claim": "UNKNOWN: the policy says the facility must complete an MDS for payment, but the case facts do not say whether an MDS was completed.",
+    "passage_id": 603,
+    "quote": "the facility must complete an MDS.",
+    "case_fact": "No case fact mentions an MDS."
+   }
+  ],
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "verdict": "UNKNOWN",
+  "findings": [
+   {
+    "claim": "The policy requires a rehabilitation physician to make face-to-face visits at least 3 days per week. The record shows several physicians saw the patient, but not that a rehabilitation physician did so on 3 days per week. This point is UNKNOWN.",
+    "passage_id": 84,
+    "quote": "must conduct face-to-face visits with the patient at least 3 days per week",
+    "case_fact": "The beneficiary was seen at the IRF by at least three physicians and was monitored daily by the nursing staff."
+   },
+   {
+    "claim": "The policy requires documented participation by each required discipline in the interdisciplinary team. Only the expert's general conclusion of a team approach is given. Weekly team conference records and the rehabilitation physician's documented concurrence are not shown. This point is UNKNOWN.",
+    "passage_id": 95,
+    "quote": "the interdisciplinary team must document participation by professionals from each of the following disciplines",
+    "case_fact": "a multidisciplinary team approach, a coordinated program of care"
+   },
+   {
+    "claim": "The policy expects the IRF record to state the nature, degree and timeframe of expected improvement. The expert says improvement was expected and goals were set and met, but the IRF record's own goal and timeframe documentation is not quoted. This point is only partly established and remains UNKNOWN.",
+    "passage_id": 103,
+    "quote": "The patient\u2019s IRF medical record is expected to indicate both the nature and degree of expected improvement",
+    "case_fact": "that significant practical improvement was expected, that realistic goals were set and met"
+   },
+   {
+    "claim": "The policy lists the required preadmission screening, post-admission physician evaluation, overall plan of care, admission orders and IRF-PAI. The facts show the admission happened, but they do not show these documents are in the record. This point is UNKNOWN.",
+    "passage_id": 4,
+    "quote": "110.1.1 - Required Preadmission Screening",
+    "case_fact": "Two days later, on July 17, 2003, the beneficiary was transferred and admitted to the appellant\u2019s IRF"
+   }
+  ],
+  "case_id": "valley_presbyterian"
+ }
+]

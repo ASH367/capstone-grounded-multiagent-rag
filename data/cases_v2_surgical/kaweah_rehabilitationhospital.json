@@ -1,0 +1,67 @@
+{
+ "case_id": "kaweah_rehabilitationhospital",
+ "domain": "inpatient_rehab",
+ "docket": null,
+ "service_at_issue": "Inpatient rehabilitation hospital stay, November 5 to 19, 2004",
+ "facts": [
+  "She was 77 years old at the time of this rehabilitation placement and had been suffering for some years from progressive lung disease.",
+  "Between June and October of 2004, the beneficiary presented repeatedly in emergency rooms with episodes of severe shortness of breath (SOB). Id. She required in-patient hospital admissions in August, September, and finally on October 31, 2004.",
+  "On admission to the inpatient rehabilitation facility (IRF) from the hospital, her primary diagnosis was \u201csevere debilitation due to multiple hospitalizations for pneumonia secondary to severe chronic obstructive pulmonary disease [COPD],\u201d with additional diagnoses including diverticulitis, bowel problems and severe muscle wasting in the extremities.",
+  "The initial IRF treatment plan included providing daily occupational and physical therapy, maintaining existing medications (which included oxygen therapy and high doses of steroids), and introducing new medications (including adding Flagyl to existing antibiotics to address possible anaerobic infection, nitroglycerin ointment to address high blood pressure, and other treatments for breathing, possible allergy and bowel issues).",
+  "She also entered with a stage II pressure sore on her coccyx, with leukocytosis, hyponatremia, and hypokalemia.",
+  "Her pulse was 110; her temperature was 99.4; her respirations were 36; and her blood pressure was 119/64. Ex. 8, at 684, 860.",
+  "By the end of her two-week stay in the IRF, the beneficiary\u2019s \u201cabdominal complaints improved, her energy improved, her eating improved, and she gained five pounds.\u201d Id. at 2, and record citations therein. Her coccyx ulcer \u201cresponded well to treatment,\u201d her leukocytosis \u201cresolved,\u201d her hyponatremia \u201cwas corrected,\u201d and her hypokalemia \u201cwas being treated.\u201d",
+  "A discharge evaluation form records that the beneficiary had achieved modified independence (i.e., may require use of a device but not outside assistance) in all areas of self-care and toilet transfer, had complete bowel control and improved bladder control, and had moved from total assist for walking to modified independence in walking and from no ability to negotiate stairs to the ability to climb stairs with maximal assist. Ex. 8, at 720."
+ ],
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council found each of the ALJ's reasons (stability on admission, no active co-morbidities, no exacerbation, SNF suitability, family request) legally irrelevant or unsupported, and found the IRF services reasonable and necessary.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.3"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.1"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.2"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.3"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.4"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.5"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.6"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "110.4.7"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "SSA 1862(a)",
+  "SSA 1861(e)(1)"
+ ],
+ "clean_method": "sentence-level via audit leak_text (scripts/surgical_clean.py)"
+}

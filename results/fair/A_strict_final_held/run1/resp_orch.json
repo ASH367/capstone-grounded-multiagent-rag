@@ -1,0 +1,293 @@
+[
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN, so coverage is not affirmatively supported. The only dated facts show the hospital discharge on Aug 26, 2009, which puts the 30-day window's end at about Sept 25, before the Oct 1 start of the dates of service. The record gives no earlier SNF admission date, no extension basis, and no documented skilled need.",
+  "passage_ids": [
+   579,
+   626
+  ],
+  "case_id": "11-1343__DE_OT"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "No agent found a defect; all three returned UNKNOWN only because the record excerpts are incomplete. The case facts support coverage: the Aug 23\u201326, 2009 hospital stay was followed by therapy starting Aug 28, inside the 30-day window, and signed physician orders for PT and ST predate the start of therapy. The certification rules allow flexible forms, so the missing certification statement and the unconfirmed medical necessity of the stay are open gaps, not findings against coverage.",
+  "passage_ids": [
+   579,
+   661,
+   638
+  ],
+  "case_id": "11-1343__DE_PT"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "All three agents returned UNKNOWN on the post-hospital stay and certification requirements, so none of them found a defect. The case facts affirmatively show a recent hospital stay for congestive heart failure, ST starting within 30 days of discharge, and signed, detailed physician orders for PT and ST. Certification may also be recorded on any form or record. On that basis coverage is supported, though the missing SNF and certification details leave this a lean rather than a certainty.",
+  "passage_ids": [
+   3,
+   4,
+   5,
+   6,
+   2
+  ],
+  "case_id": "11-1343__DE_ST"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The record has signed, detailed physician OT orders dated before therapy began, and certification may be made on any form, note or record, so the physician-involvement requirement appears met. E.M. needed maximal assist and 100% cueing, which supports skilled rather than routine repetitive exercise. The agents all returned UNKNOWN, and this rests on the case facts rather than any agent finding that settled the question.",
+  "passage_ids": [
+   3,
+   4,
+   5,
+   661,
+   649,
+   640
+  ],
+  "case_id": "11-1343__EM_OT"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "Coverage is not supported on this record. The only evidence of physician involvement is the appellant's contention that the physician was aware of and agreed with the plans, and the record shows no separate signed certification, which the policy requires. The therapy notes also do not document specific progress in gait training and transfers, so the need for skilled therapy is not shown. All three agents returned UNKNOWN, but each gap weighs against coverage.",
+  "passage_ids": [
+   2,
+   3,
+   4,
+   640,
+   661,
+   662
+  ],
+  "case_id": "11-1343__EM_PT"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN, and none found a signed certification or recertification in the record. The only support is the appellant's contention that the physician was aware of and agreed with the plans. Per the agents' cited policy, awareness or orders cannot substitute for a separate signed statement, so coverage for October 2009 is not supported. This is a judgment from an absence of evidence, not an affirmative finding.",
+  "passage_ids": [
+   2,
+   3,
+   661,
+   662,
+   663
+  ],
+  "case_id": "11-1343__EM_ST"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents found no signed physician certification or recertification for the August 2009 dates of service. The appellant only contends that the physician was aware of and agreed with the therapy plans, and awareness or an order is not a certification. The record also does not show a qualifying hospital stay or post-hospital status, so coverage is not supported.",
+  "passage_ids": [
+   661,
+   662,
+   579
+  ],
+  "case_id": "11-1343__JM_OT"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "Signed physician orders for PT and ST predate therapy, and the PT record shows functional goals with measurable progress, which meets the medical-necessity and skilled-therapy criteria. The certification/recertification and post-hospital gaps raised by the other agents are not shown to be failures, since the policy allows certification in notes or records with no specific form required.",
+  "passage_ids": [
+   661,
+   617,
+   640
+  ],
+  "case_id": "11-1343__JM_PT"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN. The case facts show no signed physician certification or recertification, no qualifying hospital stay, and no assessment of daily skilled need during August 2009. The only support is the appellant's contention that the physician knew of and agreed with the therapy plans, and a fall on July 28, 2009, which falls before the dates of service. Because the record does not support coverage, it is not covered.",
+  "passage_ids": [
+   661,
+   662,
+   633,
+   579
+  ],
+  "case_id": "11-1343__JM_SN"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "Coverage requires a separate signed physician certification or recertification, and the record shows only signed PT/ST orders dated June 16, 2009, which the policy says are not a certification. The agents also found no documented goals, setting, or skilled-need rationale, so coverage for the August 2009 dates is not supported.",
+  "passage_ids": [
+   661,
+   662,
+   579,
+   617,
+   4
+  ],
+  "case_id": "11-1343__JM_ST"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN, and the record does not establish the SNF transfer within 30 days of the December 27, 2009 discharge. The only later dated care, IV fluids from February 15, 2010, falls well outside 30 days. The record also does not show that the care was skilled and delivered in a SNF, or that the hospital stay was an inpatient, medically necessary stay, so coverage is not supported.",
+  "passage_ids": [
+   571,
+   598,
+   608,
+   628
+  ],
+  "case_id": "11-1546"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents were UNKNOWN, but the policy requires documentation that substantiates homebound status. The record has several nursing notes saying the beneficiary was \"not homebound - leaves daily for social and medical appointments,\" which cut against the policy's test of leaving home only infrequently or for short periods. The appellant's assertion that the Plans of Care show confinement, and his total dependence for daily activities, do not clearly outweigh those notes, so coverage is not supported.",
+  "passage_ids": [
+   181,
+   216,
+   274
+  ],
+  "case_id": "gr"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The beneficiary elected hospice on January 28, 2009, and the SNF billed from that same date onward. SNF Part A coverage for a hospice patient requires daily skilled care unrelated to the terminal condition, plus certification and assessments. None of the three agents found any of this in the case facts, so coverage is not supported for any billed period.",
+  "passage_ids": [
+   1,
+   2,
+   595,
+   598,
+   633,
+   661
+  ],
+  "case_id": "m-10-1884"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The Medical Necessity Agent found that skilled observation and assessment was reasonable and necessary, because the treatment regimen was changing (a new Humalog insulin, repeated medication schedule changes) and the beneficiary had compliance problems and fluctuating blood sugar. The Eligibility and Documentation agents returned UNKNOWN only because the case facts do not address plan of care, orders, or homebound status. They identified no affirmative defect, and the case facts show nurses continuously observing, assessing and managing the condition in both periods. Coverage is therefore supported.",
+  "passage_ids": [
+   237,
+   239,
+   229
+  ],
+  "case_id": "m-11-1869"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "All three agents support coverage. The beneficiary had a hospital stay of more than three days (Feb 12\u201317) followed by direct SNF admission. The hospital physician anticipated intermittent hematuria, and an SNF physician ordered one week of skilled nursing monitoring from March 2. Nurses documented daily skilled observation and assessment on March 5\u20138, including urine changes, abnormal labs, and declining appetite. Together these meet the reasonable-probability-of-complication standard for skilled observation.",
+  "passage_ids": [
+   579,
+   628
+  ],
+  "case_id": "m-11-1967"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The case record is empty and all three agents returned UNKNOWN or found nothing. Nothing shows the required physician certification, the separate signed statement of daily SNF care need, recertification, or evidence of daily skilled services, so coverage is not supported.",
+  "passage_ids": [
+   661,
+   662,
+   632
+  ],
+  "case_id": "m-12-1140"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "All three agents returned UNKNOWN. The retrieved passages concern SNF/Part A rules, not outpatient PT under Part B, and the case facts give no clinical information or evidence of physician certification. Coverage is therefore not supported on this record, and this decision reflects missing support rather than a finding that the service is excluded.",
+  "passage_ids": [
+   669,
+   598,
+   670,
+   652,
+   633,
+   662
+  ],
+  "case_id": "m_10_1771__EK"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The speech therapy documentation for September 1-18, 2008 gives only general claims of progress and does not identify the treatment that produced it. It does not show, through an individualized assessment, that a qualified therapist's skills were needed. Coverage does not depend on improvement potential, and the appellant concedes the goals were met by September 11. The re-evaluation the appellant relies on is only asserted and is not shown in the record.",
+  "passage_ids": [
+   636,
+   603
+  ],
+  "case_id": "m_10_1771__JS"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The record shows a fragile EDS patient with hypertonicity and pain who received hands-on PT, with physician certifications and PT notes documenting benefit. That supports a skilled need. The Eligibility and Documentation agents could not confirm homebound status or the face-to-face note, but the facts do not show a deficiency, so the supported skilled-need finding controls.",
+  "passage_ids": [
+   228,
+   287,
+   216,
+   215,
+   230
+  ],
+  "case_id": "nj_dept_humanservices22__DW"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "All three agents support coverage of the eleven PT visits. The notes show skilled gait and stair training, teaching of safe stair-lift transfers, and exercise-program revisions for a patient with post-polio paralysis and uneven leg length, and a physician order and plan of care exist. The four skilled nursing visits were not addressed by any agent or in the case facts, so nothing in the record supports excluding them, but coverage of them is not affirmatively shown. Homebound status and objective measurements also remain unconfirmed.",
+  "passage_ids": [
+   290,
+   291,
+   292,
+   294,
+   3,
+   4,
+   6,
+   11,
+   12,
+   15
+  ],
+  "case_id": "nj_dept_humanservices22__WB_PT"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The Lupron injections were ordered every 90 days, which is outside the usual 60-day intermittent skilled nursing standard. The less-often-than-60-days exception also needs a documented extraordinary circumstance and a medically predictable need, and the record shows neither. For the eleven physical therapy visits, the record has no certification, plan-of-care or homebound evidence, so coverage is not supported for them either.",
+  "passage_ids": [
+   274,
+   275,
+   218
+  ],
+  "case_id": "nj_dept_humanservices22__WB_SN"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The case facts show skilled nursing was needed to observe and assess the wounds and to teach wound care, both recognized skilled needs under passage 261. The repeated urinary tract infections, hospitalization and bleeding in the case facts support a continuing need for skilled observation across the period. The missing documentation and catheter details are unresolved gaps, but nothing in the findings shows any part of the service is excluded.",
+  "passage_ids": [
+   261,
+   257,
+   258
+  ],
+  "case_id": "nj_dhs_commiss_case"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "For the first stay, the physician ordered only intermediate, unskilled nursing facility care and therapy that was not daily, so the skilled, daily level-of-care requirement is not met. No case-mix classifier is in the record, so the presumption cannot apply and an individual determination would be needed, which shows no daily skilled need. The facts do not establish coverage for the second stay, so nothing supports covering any part of the period.",
+  "passage_ids": [
+   603,
+   607
+  ],
+  "case_id": "roman_eagle__stay1"
+ },
+ {
+  "decision": "NOT_COVERED",
+  "reason": "The second stay shows daily skilled IV and IM services, but the only physician certification types 'Intermediate' as the required level of care, so the certification condition for payment is not shown to be met. No presumption applies to the readmission, and the case facts show no notice and consent documents. The appellant's own account is that it used a noncertified bed because no certified bed was available.",
+  "passage_ids": [
+   661,
+   610,
+   603,
+   573
+  ],
+  "case_id": "roman_eagle__stay2"
+ },
+ {
+  "decision": "PARTLY_COVERED",
+  "reason": "Skilled nursing observation and assessment for psychiatric needs, together with weekday skilled PT, support coverage for August 1\u201311, 2009. The SNF admission followed the hospital stay within 30 days. After August 11, skilled care became less intensive and PT fell to less than daily, so the daily skilled care requirement is not shown for the later period.",
+  "passage_ids": [
+   579,
+   629,
+   632,
+   637
+  ],
+  "case_id": "twin_maples_health_care_case"
+ },
+ {
+  "decision": "COVERED",
+  "reason": "The independent medical expert found every IRF admission criterion met, including physician supervision, intensive multidisciplinary rehabilitation, expected and achieved improvement, and that a SNF could not have met her needs. The documented medical complexity and large functional gains support this finding. The agents flagged the preadmission screening, face-to-face visit frequency and team conference records as UNKNOWN, but nothing in the case facts shows they were missing, so they do not defeat coverage.",
+  "passage_ids": [
+   7,
+   8,
+   4,
+   5,
+   6,
+   84,
+   103
+  ],
+  "case_id": "valley_presbyterian"
+ }
+]

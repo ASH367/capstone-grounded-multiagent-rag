@@ -1,0 +1,79 @@
+{
+ "case_id": "m_12_809",
+ "domain": "inpatient_rehab",
+ "docket": "M-12-809",
+ "service_at_issue": "Acute inpatient admission following cardiac catheterization and stenting, February 18 to 20, 2010",
+ "reference_outcome": "unfavorable",
+ "outcome_note": "The Council adopted the ALJ's finding that the inpatient admission was not reasonable and necessary (observation sufficed), but directed Part B payment for reasonable and necessary outpatient services, with the provider liable for the difference.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.1",
+   "section": "10"
+  },
+  {
+   "doc": "MBPM ch.1",
+   "section": "150"
+  },
+  {
+   "doc": "MBPM ch.6",
+   "section": "10"
+  },
+  {
+   "doc": "MBPM ch.6",
+   "section": "20.6(A)"
+  }
+ ],
+ "other_cites": [
+  "42 CFR 405.1108(a)",
+  "42 CFR 405.1112(c)",
+  "42 CFR 405.1060(a)(4)",
+  "42 CFR 405.1063",
+  "42 CFR 405.1062(a)",
+  "42 CFR 405.1062(b)",
+  "42 CFR 411.406",
+  "42 CFR 476.71(a)(3)",
+  "42 CFR 421.104",
+  "HCFA Ruling 93-1",
+  "HCFA Ruling 95-1",
+  "SSA 1862(a)(1)(A)",
+  "SSA 1879",
+  "MCPM ch.30 40.1",
+  "MCPM ch.30 40.1.2",
+  "MCPM ch.3 50",
+  "MCPM ch.1 50.1.7",
+  "MCPM ch.29 280.3",
+  "MFMM ch.3 170.1"
+ ],
+ "facts": [
+  "The physician or other practitioner responsible for a patient\u2019s care at the hospital is also responsible for deciding whether the patient should be admitted as an inpatient. However, the decision to admit a patient is a complex medical judgment which can be made only after the physician has considered a number of factors, including the patient\u2019s medical history and current medical needs, the types of facilities available to inpatients and outpatients, the hospital\u2019s by-laws and admissions policies, and the relative appropriateness of treatment in each setting.",
+  "\u2022 The severity of the signs and symptoms exhibited by the patient;",
+  "\u2022 The medical predictability of something adverse happening to the patient;",
+  "\u2022 The need for diagnostic studies that appropriately are outpatient services (i.e., their performance does not ordinarily require the patient to remain at the hospital for 24 hours or more) to assist in assessing whether the patient should be admitted; and",
+  "\u2022 The availability of diagnostic procedures at the time when and at the location where the patient presents.",
+  "In the majority of cases, the decision whether to discharge a patient from the hospital following resolution of the reason for the observation care or to admit the patient as an inpatient can be made in less than 48 hours, usually in less than 24 hours.",
+  "\u2022 A Medicare contractor\u2019s prior written notice to the provider denying payment for similar or reasonably comparable services;",
+  "\u2022 Medicare\u2019s general notices to the medical community that Medicare will deny services under all, or certain, circumstances (such notices include, but are not limited to, manual instructions, bulletins, contractor\u2019s written guides and directives);",
+  "\u2022 A Medicare contractor previously issued a written notice to the provider that Medicare payment for a particular service or item was denied.",
+  "The 67-year-old male beneficiary arrived at * * * * Hospital on February 17, 2010 complaining of generalized chest pain. He had a past medical history of coronary artery disease with coronary bypass surgery, angioplasty, stent implantation, paroxysmal atrial fibrillation, hypertension, hyperlipidemia, and gastoesophageal reflux disease. Exh. 1, at 23. The following morning, on February 18, 2010, the beneficiary was transferred to Providence Hospital (the appellant) for a \u201chigher level of care.\u201d Exh. 2, at 65. He was initially placed in observation status but subsequently admitted to inpatient status.",
+  "During his hospital stay, the beneficiary was diagnosed with atherosclerosis native coronary artery, intermediate coronary syndrome, hypertension, hyperlipidemia, percutaneous transluminal angioplasty (PTA) status, and aortocoronary bypass status. Exh. 2, at 23. On February 19, 2010, the beneficiary received percutaneous transluminal coronary angioplasty (PTCA), insertion of (a) drug-eluting coronary artery stent(s), insertion of one vascular stent, procedure on two vessels, left 6 cardiac catheterization, angiocardiography of left heart structures, and coronary arteriography using two catheters. Exh. 2, at 28. During these procedures, the appellant experienced a temporary drop in blood pressure and bradycardia.",
+  "Prior to surgery, radiology studies had shown normal EKG sinus rhythm and normal cardiac enzymes; however, new T-wave inversion was noted. Exh. 2, at 46. There were no complications following the cardiac catheterization and stenting procedure, and the beneficiary was discharged home from the hospital on February 20, 2010, the following day.",
+  "The appellant hospital filed a claim with Medicare for inpatient hospital services furnished to the beneficiary for the period of February 18-20, 2010. In a very detailed decision discussing at length the medical documentation, the contractor denied coverage finding that the medical documentation did not support an acute inpatient admission and that the beneficiary could have been managed at a lower level of care. Exh. 1, at 14-15. Based on the opinion of the medical review panel, the QIC found that the standard of care for a patient undergoing elective heart catheterization and stenting is an observation level of care. Id.",
+  "The QIC noted that the beneficiary was no longer complaining of chest pain at the time of his transfer to the appellant hospital, cardiac enzymes were normal, the EKG did not show any acute abnormal-ities, the beneficiary tolerated the catheterization and stenting procedure well, and the beneficiary was discharged home the following day. Exh. 1, at 4. The QIC found that the observation required after the procedure did not require inpatient admission in the absence of a significant complication. Exh. 1, at 4b.",
+  "The appellant, through a physician representative, argues that the beneficiary had been admitted to a hospital just two days prior to the surgical procedure for chest pain, that an EKG noted new inverted T waves, and that the beneficiary had an extensive history of cardiac problems.",
+  "For those billing [Medicare Administrative Contractors] and [DME MACs], a claim does not have to be on a form but may be any writing submitted by or on behalf of a claimant, which indicates a desire to claim payment from the Medicare program in connection with medical services of a specified nature furnished to an identified enrollee. It is not necessary that this submission be recorded on a CMS claim form, that the services be itemized or that the information submitted be complete (e.g., a note from the enrollee\u2019s spouse, or a bill for ancillary services in a nonparticipating hospital, could count as a claim for payment)."
+ ],
+ "arm": "E_aljfacts",
+ "set": "dev",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 276,
+ "evidence_words_D": 859,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "scripts/build_arm_E.py (post-hoc, exploratory)",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ },
+ "alj_fact_sentences": 0
+}

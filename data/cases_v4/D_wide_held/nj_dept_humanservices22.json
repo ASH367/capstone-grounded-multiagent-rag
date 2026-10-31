@@ -1,0 +1,83 @@
+{
+ "case_id": "nj_dept_humanservices22",
+ "domain": "home_health",
+ "docket": null,
+ "service_at_issue": "Skilled nursing (Lupron injections), physical therapy and home health aide visits for two beneficiaries, 2005-2006",
+ "reference_outcome": "favorable",
+ "outcome_note": "The Council reversed the ALJ and held all disputed services (four skilled nursing visits and eleven PT visits for W.B.; 48 PT sessions and 97 home health aide visits for D.W.) covered, finding chronic condition no bar and the services reasonable and necessary.",
+ "cited_sections": [
+  {
+   "doc": "MBPM ch.7",
+   "section": "30"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.2.1"
+  },
+  {
+   "doc": "MBPM ch.7",
+   "section": "40.2.2"
+  }
+ ],
+ "other_cites": [
+  "SSA 1835(a)(2)(A)",
+  "42 CFR 409.42",
+  "42 CFR 409.44(b)(3)",
+  "42 CFR 409.44(c)(2)(ii)",
+  "42 CFR 409.44(c)(2)(iii)",
+  "42 CFR 409.33(b)(1)",
+  "42 CFR 409.33(c)(2)",
+  "42 CFR 409.33(c)(3)",
+  "42 CFR 409.33(c)(4)",
+  "42 CFR 409.33(d)(13)",
+  "42 CFR 409.32(b)",
+  "42 CFR 409.32(c)",
+  "42 CFR 409.43(b)",
+  "42 CFR 409.45(a)",
+  "42 CFR 409.45(b)"
+ ],
+ "facts": [
+  "The original claim for home health services to W.B. included numerous services provided between October 22, 2005, through October 16, 2006. At the hearing, the appellant withdrew its claim as to all but two sets of services: (1) four skilled nursing visits and (2) eleven physical therapy visits.",
+  "In most instances, this definition will be met if a patient requires a skilled nursing service at least once every 60 days. . . .",
+  "Since the need for \"intermittent\" skilled nursing care makes the patient eligible for other covered home health services, the intermediary should evaluate each claim involving skilled nursing services furnished less frequently than once every 60 days.",
+  "In this case, as noted, the physician\u2019s orders specifically call for Lupron injections \u201cq 3 months,\u201d i.e., every 90 days. Ex. 1, at 300-01. Nothing in the record contradicts the treating physician\u2019s assessment that the frequency of injection was also appropriate.",
+  "The visits remaining at issue took place between October 25, 2005, and November 29, 2005. The appellant asserts that these physical therapy services were provided in relation to the installation of a new stair lift mechanism to assist the beneficiary with difficulty navigating stairs in his home due to fatigue, pain and abnormality of gait attributed to post-polio syndrome and unequal leg length. The appellant further asserts that the skilled therapist was needed to teach the beneficiary how to safely transfer to and from the lift. Id. The appellant alleges the beneficiary improved measurably over the month as the therapist revised the exercise program.",
+  "The need for a skilled physical therapist to provide these services is not justified by the mere fact that it was provided.",
+  "The record contains the physician\u2019s order and plan of care for physical therapy during the relevant period calling for visits 1-2 times per week. Ex. 1, at 300-1. The physician assessed the beneficiary\u2019s rehabilitation potential as \u201cfair.\u201d Id. at 300. The assessment also records the patient having no pain that interferes \u201cwith activity or movement.\u201d Id. However, the physical therapist\u2019s (PT) note for an October 17, 2005 visit describes chronic intermittent pain in the right hip addressed with rest and medication. Id. at 125.",
+  "The note further noted pain reduction during use of right leg based on retraining for position change and weight-bearing activities and notes plan of care to \u201c[e]stablish/upgrade home exercise program.\u201d Id.",
+  "Visits by the PT are documented for the following dates:",
+  "\uf0b7 Ex. 1, at 119 October 25, 2005 \u2013 Reports that \u201cstair use training continues . . . in attempt to negotiate full flight of steps to main level of home\u201d and that exercise and \u201cgait training activities continue\u201d with patient able to negotiate four steps using bilateral railing but displaying \u201cguarding,\u201d with \u201cfatigue and pain noted in ascending 4th step.\u201d",
+  "\uf0b7 Ex. 1, at 117 - October 27, 2005 \u2013 Reports review of the home exercise program and observation of balance activities to assess compliance, continuation of stair use training, and documents \u201cslow progress\u201d in using stairs with railings while stating that \u201cuse of stair glide type of lift is recommended as yet.\u201d",
+  "\uf0b7 Ex. 1, at 115 - November 1, 2005 \u2013 Reports teaching patient and caregivers the \u201ccorrect use of stairlift recently installed in home for safe transfer\u201d and negotiation of last two steps to first floor.",
+  "\uf0b7 Ex. 1, at 113 - November 3, 2005 \u2013 Records that stair lift transfers are now safe at both ends, while still recommending grab bars on lower level.",
+  "\uf0b7 Ex. 1, at 111 - November 8, 2005 \u2013 Reports review of stair lift safety and discussion of fall prevention. \u201cHip pain seems reduced with tolerance for walker use increasing.\u201d",
+  "\uf0b7 Ex. 1, at 109 \u2013 November 10, 2005 \u2013 Reports review of correct stair lift use and fall prevention and notes progress in \u201cincreasing activity levels,\u201d with the lift facilitating access to the first floor. Records need to work on the 7-8 steps \u201cstill needed for access to outside.\u201d",
+  "\uf0b7 Ex. 1, at 107 - November 15, 2005 \u2013 Gait safety without orthotic for leg length discrepancy reviewed to prevent falls.",
+  "\uf0b7 Ex. 1, at 105 \u2013 November 17, 2005 \u2013 Home exercise plan \u201crevised for active hip flexion and ext[ension] as tolerated.\u201d Notes reduction in right hip pain and that exercise to lower extremities and standing activities \u201cprovided as ordered.\u201d",
+  "\uf0b7 Ex. 1, at 103 \u2013 November 23, 2005 \u2013 Notes patient improvement in negotiation of two stairs to first floor and an ability for partial weight bearing on right leg without pain.",
+  "\uf0b7 Ex. 1, at 101 \u2013 November 25, 2005 \u2013 Review of activities to weight-shift to right leg and of safety plan for standing and transfer. Notes patient now able to ambulate \u201cdistances needed for toileting and transfer to stairglide from bedroom area,\u201d and that use of active assisted range of motion is \u201cproductive\u201d on flexion but still limited abduction of right hip.",
+  "\uf0b7 Ex. 1, at 99 \u2013 November 29, 2005 \u2013 Notes that exercise and gait activities continue \u201cas ordered,\u201d and that safe gait activities and stair use were reviewed. Reports range of motion \u201cincreased with SLR [straight leg raise] to 80 degrees and abduction to 15 degrees noted at right hip wo [without] pain this visit.\u201d",
+  "In addition, \u201c[g]ait evaluation and training\u201d to restore function in a patient whose walking ability is impaired by a \u201cskeletal abnormality\u201d and \u201c[r]ange of motion exercises\u201d which are \u201cpart of the active treatment of a disease state\u201d causing reduced mobility are also components of skilled services.",
+  "The medical records discussed above and other documents and testimony in the record support a conclusion that the PT was providing therapeutic exercises and activities that required skilled-level performance and/or supervision given the condition of this 75-year old with partial paralysis from post-polio syndrome, a skeletal abnormality of uneven leg length further interfering with his ability to ambulate, intermittent pain in his right hip, and other medical diagnoses which could affect strength and balance in performing exercises.",
+  "The range of motion therapy provided was related to a specific loss of function, was not merely passive movement of paralyzed limbs, and indeed resulted in significant improvement in use of the right hip with benefits to the beneficiary\u2019s ability to ambulate safely with his walker and to climb stairs.",
+  "The appellant originally sought coverage for all home health services provided to D.W. from October 10, 2005 through December 3, 2006.",
+  "The appellant points out, and the medical record substantiates, that, in addition to multiple sclerosis, the beneficiary suffered from severe lordosis (spinal curvature), extreme hypertonicity, and a rare inherited connective tissue disorder known as Ehlers-Danlos Syndrome (EDS). RR Br. at 4-5; see, e.g., Exs. 10, at 513, and 1, at 254, 325. The appellant\u2019s counsel read into the record at the hearing information about EDS from Mercks\u2019 Manual.",
+  "Among the symptoms common to EDS patients are fragility (the attending physician noted the beneficiary was very fragile, at Ex. 10, at 513), joint hypermobility with potential for joint dislocations, easily torn or bruised skin, and abnormal curvature of feet and spine (in addition to severe lordosis, the beneficiary had an acquired ankle-foot defect recorded at Ex. 1, at 325). See Hearing CD. The beneficiary reported intermittent pain at levels ranging from 5 to 10 on a 10-point scale. See, e.g., Ex. 1, at 297 (August 2006 OASIS report).",
+  "CMS policy further explains that skilled therapy services are covered even when the services themselves may not be highly complex or sophisticated, \u201cwhere there is clear documentation that, because of special medical complications (e.g., susceptible to pathological bone fractures), the skills of a therapist are need to provide services which do not need the skills of a therapist.\u201d",
+  "The PT here provided direct services by movement and massage to reduce pain and spasms, with the PT notes reflecting that the beneficiary improved after PT visits. See, e.g., Ex. 1, at 324 and 327 (physician certification notes patient \u201ccontinues to benefit from PT for pain management and Rom exercises\u201d), at 209 (PT note of September 11, 2006 that patient \u201creports feeling much better with rx\u201d).",
+  "The appellant agreed that setting up a maintenance program for the home health aides to take over was a goal, but reported that this goals was frustrated because the home health aides were afraid or unwilling to touch her, failed to handle her correctly, and either left or were fired for those reasons. RR Br. at 6; Ex. 1, at 333 (physician certification of April 8, 2006), at 133 (PT notes of February 7, 2006), at 144 (PT notes of March 9, 2006), at 148 (PT notes of March 20, 2006)."
+ ],
+ "arm": "D_wide",
+ "set": "held",
+ "coverage_label": "COVERED",
+ "issue_type": "MERITS",
+ "include_primary": 1,
+ "evidence_words_A": 1000,
+ "evidence_words_D": 1441,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}

@@ -1,0 +1,18 @@
+==== results/fair/A_strict_held/run1
+  ORIGINAL key, all cases: n=18  labels {'PARTLY_COVERED': 6, 'COVERED': 7, 'NOT_COVERED': 5}
+     multi  10/18 = 56%   balanced 0.58   preds {'PARTLY_COVERED': 6, 'NOT_COVERED': 9, 'COVERED': 3}
+     single 11/18 = 61%   balanced 0.60   preds {'PARTLY_COVERED': 5, 'COVERED': 5, 'NOT_COVERED': 7, 'UNKNOWN': 1}
+     majority-class baseline 39% (COVERED);  always-COVERED 39%;  multi-only-right 1, single-only-right 2, McNemar exact p=1.00;  gap (multi-single) -6 pts, 95% CI [-28, +11]
+  COVERAGE key, merits cases only: n=13  labels {'PARTLY_COVERED': 2, 'COVERED': 7, 'NOT_COVERED': 4}
+     multi  8/13 = 62%   balanced 0.73   preds {'PARTLY_COVERED': 5, 'NOT_COVERED': 5, 'COVERED': 3}
+     single 9/13 = 69%   balanced 0.74   preds {'PARTLY_COVERED': 4, 'COVERED': 5, 'NOT_COVERED': 3, 'UNKNOWN': 1}
+     majority-class baseline 54% (COVERED);  always-COVERED 54%;  multi-only-right 1, single-only-right 2, McNemar exact p=1.00;  gap (multi-single) -8 pts, 95% CI [-31, +15]
+  PRIMARY: COVERAGE key, merits cases with enough non-reasoning evidence (builder flag: strict arm >= 60 words and wide arm >= 150): n=11  labels {'PARTLY_COVERED': 2, 'COVERED': 7, 'NOT_COVERED': 2}
+     multi  6/11 = 55%   balanced 0.64   preds {'PARTLY_COVERED': 5, 'NOT_COVERED': 3, 'COVERED': 3}
+     single 8/11 = 73%   balanced 0.74   preds {'PARTLY_COVERED': 4, 'COVERED': 5, 'NOT_COVERED': 2}
+     majority-class baseline 64% (COVERED);  always-COVERED 64%;  multi-only-right 0, single-only-right 2, McNemar exact p=0.50;  gap (multi-single) -18 pts, 95% CI [-45, +0]
+  dropped for thin evidence: [('m-10-1884', 50), ('m-12-1140', 0)]
+  sensitivity: COVERAGE key, merits cases with >= 60 words in this arm: n=11  labels {'PARTLY_COVERED': 2, 'COVERED': 7, 'NOT_COVERED': 2}
+     multi  6/11 = 55%   balanced 0.64   preds {'PARTLY_COVERED': 5, 'NOT_COVERED': 3, 'COVERED': 3}
+     single 8/11 = 73%   balanced 0.74   preds {'PARTLY_COVERED': 4, 'COVERED': 5, 'NOT_COVERED': 2}
+     majority-class baseline 64% (COVERED);  always-COVERED 64%;  multi-only-right 0, single-only-right 2, McNemar exact p=0.50;  gap (multi-single) -18 pts, 95% CI [-45, +0]

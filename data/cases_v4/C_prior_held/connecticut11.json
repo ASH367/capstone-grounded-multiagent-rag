@@ -1,0 +1,43 @@
+{
+ "case_id": "connecticut11",
+ "domain": "snf",
+ "docket": null,
+ "service_at_issue": "SNF services Feb 25 - Mar 26, 2006; beneficiary liability after notice of non-coverage",
+ "reference_outcome": "partial",
+ "outcome_note": "Council adopted the undisputed non-coverage finding but reversed on liability: the beneficiary was not a capable recipient of the notice, so his liability is waived and the provider is liable.",
+ "cited_sections": [],
+ "other_cites": [
+  "SSA 1879",
+  "42 CFR 411.400",
+  "42 CFR 411.404",
+  "42 CFR 411.406",
+  "CMS Ruling 95-1",
+  "MCPM ch.30 40.3.1.3",
+  "MCPM ch.30 40.3.4.3",
+  "MCPM ch.30 40.1"
+ ],
+ "facts": [
+  "The beneficiary was admitted to *** skilled nursing facility (SNF) on January 17, 2006, after a qualifying hospital stay for treatment of delirium, a urinary tract infection (UTI), and dehydration. Exh. 1 at 1. His physical and occupational therapies were discontinued on February 7, 2006, and February 24, 2006, respectively. Id.",
+  "A demand bill was submitted to the Medicare contractor for SNF services provided from February 25, 2006, through March 26, 2006.",
+  "Specifically, \u201c[i]n addition to his diagnosis of dementia, the record shows that [the beneficiary] experienced confusion on such a regular basis as to render not legally able to \u2018understand and act on his rights.\u201d Exh. MAC-2 at 6.",
+  "Upon admission on January 17, 2006, the beneficiary\u2019s physician ordered a wanderguard, a chair pad alarm while in his wheelchair, and a \u201cpressure alarm when in bed related to poor safety awareness [secondary] to Dementia.\u201d Exh. 1 at 6, 80.",
+  "The social worker\u2019s initial evaluation conducted on January 17, 2006, approximately one month prior to the date at issue, determined that the beneficiary was confused, frequently forgetful, and oriented to person only, not oriented to place or time. Exh. 1 at 91.",
+  "His cognitive skills for daily decision-making regarding simple tasks of daily life were labeled as \u201cseverely impaired.\u201d Id. Furthermore, the beneficiary\u2019s cognitive status, skills, or abilities had \u201cdeteriorated\u201d when compared to his status about 30 days prior. Id.",
+  "On February 7, 2006, the beneficiary\u2019s physical therapist discharged him from therapy because, \u201c[p]lateau of benefits from skilled PT interventions reached at current mental level [secondary to] dementia.\u201d Exh. 1 at 47.",
+  "On February 22, 2006, date the beneficiary signed the notice, the nurses noted that the beneficiary had, \u201cusual confusion.\u201d Exh. 1 at 22.",
+  "The hospital transfer report states that the beneficiary\u2019s daughter, S.H., is the responsible person. Exh. 1 at 3. The social service initial assessment and each progress note also mention the involvement of the beneficiary\u2019s daughter. Id. at 93."
+ ],
+ "arm": "C_prior",
+ "set": "held",
+ "coverage_label": "NOT_COVERED",
+ "issue_type": "LIABILITY_ONLY",
+ "include_primary": 0,
+ "evidence_words_A": 302,
+ "evidence_words_D": 544,
+ "evidence_ok": 1,
+ "build": {
+  "tool": "rag/fairtest.py",
+  "rules_sha": "8573a23bb8b93257",
+  "verbatim_failures": 0
+ }
+}
